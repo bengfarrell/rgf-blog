@@ -1,0 +1,3 @@
+Most of my posts on nightlife feature a specific cocktail that I’ve enjoyed rather than focusing on the atmosphere of the bar, club, or wine bar that I’m patronizing. Largely, that’s because I care more about what’s in my glass than I do what’s playing on the speakers. However, I am far more likely to enjoy neighborhood dive bars and wine bars than I am a club or anywhere with loud music. I’ll still give the latter a try, and if the beverages are inventive and fun, I’ll be back no matter the soundtrack! 
+
+My standard order at a bar that likely doesn’t make fancy cocktails? A whiskey and ginger beer or a gin and tonic. Learn more about my nightlife and cocktail posts here. [link to bars and tasting rooms, cocktail recipes, cocktails] 
