@@ -1,5 +1,6 @@
 const { DateTime } = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -10,7 +11,61 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
 
+const { execSync } = require('child_process')
+
 module.exports = function(eleventyConfig) {
+	eleventyConfig.addPlugin(EleventyRenderPlugin);
+	eleventyConfig.addShortcode('first_image', post => extractFirstImage(post));
+
+	eleventyConfig.on('eleventy.after', () => {
+		execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
+	});
+
+	eleventyConfig.addFilter('sidebarSelector', categories => {
+		const haveCommonItems = (arr1, arr2) => {
+			const set1 = new Set(arr1);
+			const commonItems = arr2.filter(item => set1.has(item));
+			return commonItems.length > 0;
+		}
+
+		if (haveCommonItems(categories, ['Restaurants', 'Grab and Go'])) {
+			return 'dining-out';
+		}
+
+		if (haveCommonItems(categories, ['Coffee Shops', 'Bakeries'])) {
+			return 'cafe';
+		}
+
+		if (haveCommonItems(categories, ['spirits', 'other spirits', 'absinthe', 'gin', 'grappa', 'guaro', 'liqueurs', 'mezcal', 'mead', 'moonshine', 'pisco', 'rum', 'rye', 'safe', 'soju', 'tequila', 'vodka', 'whiskey', 'whisky'])) {
+			return 'spirits';
+		}
+
+		if (haveCommonItems(categories, ['wine', 'white wine', 'sparkling wine', 'rose wine', 'red wine', 'plum wine', 'fortified wine'])) {
+			return 'wine';
+		}
+
+		if (haveCommonItems(categories, ['bars and tasting rooms', 'distillery', 'brewery', 'mead'])) {
+			return 'tasting-rooms';
+		}
+
+		if (haveCommonItems(categories, ['Bar', 'watering hole', 'nightlife', 'wine bar', 'cocktail review'])) {
+			return 'nightlife-cocktails';
+		}
+
+		if (haveCommonItems(categories, ['Travel', 'travel guide', 'guide', 'tourism', 'visitor', 'guide', 'day trip', 'visitor\'s guide', 'travelogue'])) {
+			return 'travelogues';
+		}
+			
+		return 'default';
+	});
+
+	eleventyConfig.addFilter("filterByTags", function(collection = [], ...requiredCategories) {
+		const filtered = collection.filter(post => {
+			return requiredCategories.flat().every(category => post.data.categories?.includes(category));
+		});
+		return filtered;
+	});
+
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
 	eleventyConfig.addPassthroughCopy({
@@ -137,3 +192,27 @@ module.exports = function(eleventyConfig) {
 		pathPrefix: "/",
 	};
 };
+
+/**
+ * @param {*} doc A real big object full of all sorts of information about a document.
+ * @returns {String} the markup of the first image.
+ */
+function extractFirstImage(doc) {
+	if (!doc.hasOwnProperty('templateContent')) {
+		console.warn('❌ Failed to extract image: Document has no property `templateContent`.');
+		return;
+	}
+
+	const content = doc.templateContent;
+
+	if (content.includes('<img')) {
+		const imgTagBegin = content.indexOf('<img');
+		const imgTagEnd = content.indexOf('>', imgTagBegin);
+		const imgTag = content.substring(imgTagBegin, imgTagEnd + 1);
+		const uriBegin = imgTag.indexOf('src="');
+		const uriEnd = imgTag.indexOf('"', uriBegin+5);
+		return imgTag.substring(uriBegin+5, uriEnd);
+	}
+
+	return '';
+}

@@ -10,7 +10,10 @@
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
 
-	--background-color: #fff;
+	--rounded-corner: 8px;
+	--background-color: #f3f3f3;
+	--accent-color: rgb(106, 4, 21);
+	--accent-color-lighter: rgb(229, 147, 147);
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: #082840;
@@ -19,22 +22,6 @@
 
 	--syntax-tab-size: 2;
 }
-
-@media (prefers-color-scheme: dark) {
-	:root {
-		--color-gray-20: #e0e0e0;
-		--color-gray-50: #C0C0C0;
-		--color-gray-90: #dad8d8;
-
-		/* --text-color is assigned to --color-gray-_ above */
-		--text-color-link: #1493fb;
-		--text-color-link-active: #6969f7;
-		--text-color-link-visited: #a6a6f8;
-
-		--background-color: #15202b;
-	}
-}
-
 
 /* Global stylesheet */
 * {
@@ -52,8 +39,27 @@ body {
 html {
 	overflow-y: scroll;
 }
-body {
-	max-width: 40em;
+
+section {
+	padding: 5em;
+}
+
+#page-container {
+	display: flex;
+	padding: 5em;
+}
+
+#page-content {
+	padding: 1em;
+}
+
+#sidebar {
+	display: inline-block;
+	width: 25%;
+	min-width: 25%;
+	border-radius: var(--rounded-corner);
+	padding: 1em;
+	background-color: var(--accent-color-lighter);
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -89,9 +95,8 @@ a[href]:active {
 	color: var(--text-color-link-active);
 }
 
-main {
-	padding: 1rem;
-}
+main {}
+
 main :first-child {
 	margin-top: 0;
 }
@@ -103,6 +108,29 @@ header:after {
 	content: "";
 	display: table;
 	clear: both;
+}
+header ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+header ul li {
+	display: inline;
+	margin-right: 1em;
+}
+
+header ul li span {
+	display: none;
+}
+
+header ul li svg {
+	fill: var(--accent-color);
+}
+
+header #logo {
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .links-nextprev {
@@ -150,6 +178,13 @@ header {
 	align-items: center;
 	padding: 1em;
 }
+
+.logo-container {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
 .home-link {
 	font-size: 1em; /* 16px /16 */
 	font-weight: 700;
@@ -180,20 +215,26 @@ header {
 /* Posts list */
 .postlist {
 	list-style: none;
+	display: grid;
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+	gap: 30px;
 	padding: 0;
 	padding-left: 1.5rem;
+	padding-right: 1.5rem;
 }
+
 .postlist-item {
 	display: flex;
-	flex-wrap: wrap;
-	align-items: baseline;
-	counter-increment: start-from -1;
+	width: 100%;
+	flex-direction: column;
+	margin: auto;
+	margin-top: 0;
+	flex: 1;
 	margin-bottom: 1em;
 }
 .postlist-item:before {
 	display: inline-block;
 	pointer-events: none;
-	content: "" counter(start-from, decimal-leading-zero) ". ";
 	line-height: 100%;
 	text-align: right;
 	margin-left: -1.5rem;
@@ -209,7 +250,7 @@ header {
 .postlist-link {
 	font-size: 1.1875em; /* 19px /16 */
 	font-weight: 700;
-	flex-basis: calc(100% - 1.5rem);
+	flex-basis: 7em;
 	padding-left: .25em;
 	padding-right: .5em;
 	text-underline-position: from-font;

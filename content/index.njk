@@ -3,26 +3,59 @@ layout: layouts/home.njk
 eleventyNavigation:
   key: Home
   order: 1
-numberOfLatestPostsToShow: 3
+numberOfLatestPostsToShow: 4
 ---
 {% set postsCount = collections.posts | length %}
-{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
-
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
+
+<section>
+	<h1><a href="/blog/">Latest</a></h1>
+	{% include "postslist.njk" %}
+</section>
+
+
+{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
+<div class="message-box">
+	{% renderFile "./content/sidebars/whatsthegourmez.md" %}
+</div>
+
+<section>
+	<h1><a href="/blog/">Eateries</a></h1>
+	{% set postsCount = collections.posts |filterByTags(['restaurants']) | length %}
+	{% set postslist = collections.posts |filterByTags(['restaurants']) | head(-1 * numberOfLatestPostsToShow) %}
+	{% include "postslist.njk" %}
+</section>
+
+{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
+<div class="message-box">
+	{% renderFile "./content/sidebars/about.md" %}
+</div>
+
+<section>
+<h1><a href="/blog/">Wines</a></h1>
+{% set postsCount = collections.posts |filterByTags(['wine']) | length %}
+{% set postslist = collections.posts |filterByTags(['wine']) | head(-1 * numberOfLatestPostsToShow) %}
 {% include "postslist.njk" %}
+</section>
 
-{% set morePosts = postsCount - numberOfLatestPostsToShow %}
-{% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
-{% endif %}
+{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
+<div class="message-box">
+	{% renderFile "./content/sidebars/categories.md" %}
+</div>
 
-{# List every content page in the project #}
-{#
-<ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
-</ul>
-#}
+<section>
+<h1><a href="/blog/">Posts By City</a></h1>
+{% set postsCount = collections.posts |filterByTags(['Hayward', 'Oakland', 'San Francisco', 'Berkeley']) | length %}
+{% set postslist = collections.posts |filterByTags(['Hayward', 'Oakland', 'San Francisco', 'Berkeley']) | head(-1 * numberOfLatestPostsToShow) %}
+{% include "postslist.njk" %}
+</section>
+
+{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
+<div class="message-box">
+	{% renderFile "./content/sidebars/fiction.md" %}
+</div>
+
+<section style="background: red">
+· Email · Bluesky · Facebook · Instagram · Google Local Guides
+</section>
