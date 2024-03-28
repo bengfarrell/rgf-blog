@@ -22,8 +22,8 @@ numberOfLatestPostsToShow: 4
 
 <section>
 	<h1><a href="/blog/">Eateries</a></h1>
-	{% set postsCount = collections.posts |filterByTags(['restaurants']) | length %}
-	{% set postslist = collections.posts |filterByTags(['restaurants']) | head(-1 * numberOfLatestPostsToShow) %}
+	{% set postsCount = collections.posts | filterByCommonCategories(['restaurants']) | length %}
+	{% set postslist = collections.posts | filterByCommonCategories(['restaurants']) | head(-1 * numberOfLatestPostsToShow) %}
 	{% include "postslist.njk" %}
 </section>
 
@@ -34,8 +34,8 @@ numberOfLatestPostsToShow: 4
 
 <section>
 <h1><a href="/blog/">Wines</a></h1>
-{% set postsCount = collections.posts |filterByTags(['wine']) | length %}
-{% set postslist = collections.posts |filterByTags(['wine']) | head(-1 * numberOfLatestPostsToShow) %}
+{% set postsCount = collections.posts | filterByCommonCategories(['wine']) | length %}
+{% set postslist = collections.posts | filterByCommonCategories(['wine']) | head(-1 * numberOfLatestPostsToShow) %}
 {% include "postslist.njk" %}
 </section>
 
@@ -46,8 +46,8 @@ numberOfLatestPostsToShow: 4
 
 <section>
 <h1><a href="/blog/">Posts By City</a></h1>
-{% set postsCount = collections.posts |filterByTags(['Hayward', 'Oakland', 'San Francisco', 'Berkeley']) | length %}
-{% set postslist = collections.posts |filterByTags(['Hayward', 'Oakland', 'San Francisco', 'Berkeley']) | head(-1 * numberOfLatestPostsToShow) %}
+{% set postsCount = collections.posts | filterByCommonCategories(['hayward-restaurant-reviews', 'oakland-restaurant-reviews', 'san-francisco-restaurant-review', 'berkeley-restaurant-review']) | length %}
+{% set postslist = collections.posts | filterByCommonCategories(['hayward-restaurant-reviews', 'oakland-restaurant-reviews', 'san-francisco-restaurant-review', 'berkeley-restaurant-review']) | head(-1 * numberOfLatestPostsToShow) %}
 {% include "postslist.njk" %}
 </section>
 

@@ -104,18 +104,19 @@ main :first-child {
 header {
 	border-bottom: 1px dashed var(--color-gray-20);
 }
+
 header:after {
 	content: "";
 	display: table;
 	clear: both;
 }
-header ul {
+header ul, nav ul {
 	margin: 0;
 	padding: 0;
 	list-style: none;
 }
 
-header ul li {
+header ul li, nav ul li {
 	display: inline;
 	margin-right: 1em;
 }
@@ -131,6 +132,10 @@ header ul li svg {
 header #logo {
 	margin-left: auto;
 	margin-right: auto;
+}
+
+nav {
+	text-align: center;
 }
 
 .links-nextprev {

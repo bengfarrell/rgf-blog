@@ -22,12 +22,6 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter('sidebarSelector', categories => {
-		const haveCommonItems = (arr1, arr2) => {
-			const set1 = new Set(arr1);
-			const commonItems = arr2.filter(item => set1.has(item));
-			return commonItems.length > 0;
-		}
-
 		if (haveCommonItems(categories, ['Restaurants', 'Grab and Go'])) {
 			return 'dining-out';
 		}
@@ -55,13 +49,15 @@ module.exports = function(eleventyConfig) {
 		if (haveCommonItems(categories, ['Travel', 'travel guide', 'guide', 'tourism', 'visitor', 'guide', 'day trip', 'visitor\'s guide', 'travelogue'])) {
 			return 'travelogues';
 		}
-			
+
 		return 'default';
 	});
 
-	eleventyConfig.addFilter("filterByTags", function(collection = [], ...requiredCategories) {
+	eleventyConfig.addFilter("filterByCommonCategories", function(collection = [], ...requiredCategories) {
 		const filtered = collection.filter(post => {
-			return requiredCategories.flat().every(category => post.data.categories?.includes(category));
+			return haveCommonItems(post.data.categories, requiredCategories.flat());
+			//return post.data.categories.filter(value => requiredCategories.flat().includes(value));
+			//return requiredCategories.flat().every(category => post.data.categories?.includes(category));
 		});
 		return filtered;
 	});
@@ -215,4 +211,10 @@ function extractFirstImage(doc) {
 	}
 
 	return '';
+}
+
+const haveCommonItems = (arr1, arr2) => {
+	const set1 = new Set(arr1);
+	const commonItems = arr2.filter(item => set1.has(item));
+	return commonItems.length > 0;
 }

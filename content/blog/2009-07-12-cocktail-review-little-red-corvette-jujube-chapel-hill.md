@@ -1,0 +1,29 @@
+---
+title: "Cocktail Review--Little Red Corvette, Jujube, Chapel Hill"
+date: "2009-07-12"
+categories: 
+  - "bars-and-tasting-rooms"
+  - "bars-in-durham-nc"
+tags: 
+  - "agave-syrup"
+  - "cocktail-review"
+  - "hibiscus"
+  - "jujube-chapel-hill"
+  - "little-red-corvette-cocktail"
+  - "the-gourmez-cocktail-review"
+  - "triangle-cocktails"
+---
+
+**Little Red Corvette** Jujube, Chapel Hill [http://www.jujuberestaurant.com](http://www.jujuberestaurant.com/) $9
+
+The Little Red Corvette is made with agave syrup, tequila, and hibiscus nectar.  It was served in a double old-fashioned glass.  The drink was a beautiful carmine pink at bottom, with the shade getting lighter the higher up it went.
+
+Hibiscus is a great choice for a tequila cocktail.  It has a strong punch that cuts through the equally strong agave syrup and tequila very well.  This is a drink with flavors that demand your attention.
+
+Final Verdict?  A tad too sweet for it to be a masterpiece but it's close.
+
+\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+ 
+
+_Reviewed 6.30.09._
