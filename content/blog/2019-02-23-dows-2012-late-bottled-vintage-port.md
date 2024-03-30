@@ -1,10 +1,10 @@
 ---
 title: "Dow's 2012 Late Bottled Vintage Porto"
 date: "2019-02-23"
-categories: 
+categories:
   - "port-fortified-wine"
   - "wine"
-tags: 
+tags:
   - "2012"
   - "dows"
   - "late-bottled-vintage"
@@ -16,7 +16,7 @@ tags:
 
 **Dow's 2012 Late Bottled Vintage Porto** Douro, Portugal
 
-[![dow's, late bottled vintage, port, 2012](http://thegourmez.com/wp-content/uploads/sites/5/2019/02/IMG_20181214_153207-351x500.jpg)](http://thegourmez.com/wp-content/uploads/sites/5/2019/02/IMG_20181214_153207.jpg)
+[![dow's, late bottled vintage, port, 2012](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153207-351x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153207.jpg)
 
 ##### The Review
 
@@ -26,7 +26,7 @@ Ports like the **Dow's 2012 Late Bottled Vintage Porto** are why I know I must t
 
 ##### My Rating:
 
-\[caption id="attachment\_24389" align="alignnone" width="40"\][![](http://thegourmez.com/wp-content/uploads/sites/5/2009/02/rating_truffle1.gif)](http://thegourmez.com/wp-content/uploads/sites/5/2009/02/rating_truffle1.gif) 4.5/5\[/caption\]
+\[caption id="attachment\_24389" align="alignnone" width="40"\][![](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif) 4.5/5\[/caption\]
 
 ##### Other Bloggers Thoughts
 
@@ -38,8 +38,8 @@ Ports like the **Dow's 2012 Late Bottled Vintage Porto** are why I know I must t
 
 > Eye: Clear, deep ruby with a bright ruby edge. The wine is colored right to the edge. Deeply stained ruby legs. Nose: Clean, medium intensity. Deep, ripe blueberries, blackberries and ripe fresh figs with a hint of leather and fresh herbs in the background Mouth: Sweet, with bold intensity, lively acidity and medium tannins although the tannins aren’t too astringent due to the intense fruit. Deep ripe fruit flavors dominate the mouth with blueberries and fresh figs immediately prominent.
 
-[![dow's, late vintage bottled, port, porto, review, 2012, tasting notes, the gourmez](http://thegourmez.com/wp-content/uploads/sites/5/2019/02/IMG_20181214_155241-331x500.jpg)](http://thegourmez.com/wp-content/uploads/sites/5/2019/02/IMG_20181214_155241.jpg)[Wine Predator](https://winepredator.com/2018/11/28/seven-ports-prepared-and-paired-with-winter-fare/)
+[![dow's, late vintage bottled, port, porto, review, 2012, tasting notes, the gourmez](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_155241-331x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_155241.jpg)[Wine Predator](https://winepredator.com/2018/11/28/seven-ports-prepared-and-paired-with-winter-fare/)
 
 > I’ve bought this before a few times and I like it in the summertime with a few ice cubes. It’s great for camping and on ski trips. I think it offers a lot for the price. Color: Garnet Nose: Smells like brandied cherries and black currant jam Palate: Nice bright fruit, cherry and black currant, balances out the sweetness. Pairing: Great with our poached pear bruschetta, but a bit too sweet for the pâté. It  likes the smoked gouda, great late night snack – have a smoked gouda grilled cheese sandwich with this wine.
-> 
+>
 > _Reviewed 12 December 2018._

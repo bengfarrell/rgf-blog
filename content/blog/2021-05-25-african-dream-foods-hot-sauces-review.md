@@ -1,10 +1,10 @@
 ---
 title: "African Dream Foods Hot Sauces and Spicy Salts Review"
 date: "2021-05-25"
-categories: 
+categories:
   - "food-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "african-dream-foods"
   - "hot-sauce"
   - "hot-sauce-tasting"
@@ -14,13 +14,13 @@ tags:
 
 Last month, I had myself a hot sauce tasting.
 
-[![A circular display of African Dreams Hot Sauces in shot glasses with bottles.](https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-11-492x500.png)](https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-11.png)It was glorious. And not just because I received the hot sauce gift box as a sample for review from African Dream Foods (yes, that’s my _obligatory disclaimer: I did not pay for these little bottles of joy_), but because I truly did enjoy them and the company’s aesthetics and ethos. Each bottle sold gives ten cents to wildlife conservation in Africa. Plus, as a child of the 80s and 90s who loved getting her Wildlife Fact-File cards in the mail, the bottles’ backsides bring a happiness that only a picture can convey.
+[![A circular display of African Dreams Hot Sauces in shot glasses with bottles.](https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-11-492x500.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-11.png)It was glorious. And not just because I received the hot sauce gift box as a sample for review from African Dream Foods (yes, that’s my _obligatory disclaimer: I did not pay for these little bottles of joy_), but because I truly did enjoy them and the company’s aesthetics and ethos. Each bottle sold gives ten cents to wildlife conservation in Africa. Plus, as a child of the 80s and 90s who loved getting her Wildlife Fact-File cards in the mail, the bottles’ backsides bring a happiness that only a picture can convey.
 
-[![Photographs of African animals on the back of African Dream Foods hot sauce bottles](https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-8-500x457.png)](https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-8.png)
+[![Photographs of African animals on the back of African Dream Foods hot sauce bottles](https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-8-500x457.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-8.png)
 
 The gift box looked sleek with plenty of padding and a large postcard of a giraffe inside.
 
-\[video width="281.25" height="500" align="center" mp4="https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-2.mp4"\]\[/video\]
+\[video width="281.25" height="500" align="center" mp4="https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-2.mp4"\]\[/video\]
 
  
 
@@ -28,13 +28,13 @@ Why the African focus? Founder David Schmunk loved the South African flavors he 
 
 Thus far, the new company has eight different sauces and four blends of salt, peppers, and smoke. I reviewed a six-pack gift box of travel-sized 50ml hot sauces, which also included one Spicy Ghost Pepper Salt.
 
-[![African Dream Foods ghost pepper salt and hot sauces in bottles.](https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-7-500x460.png)](https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-7.png)
+[![African Dream Foods ghost pepper salt and hot sauces in bottles.](https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-7-500x460.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-7.png)
 
 Full bottles of African Dream Spices are 500ml and retail for about $16. A variety of gift box options with smaller sizes are available [on their website.](https://africandreamfoods.com/african-dream-foods-products/) The only flavors not included in the travel gift box I reviewed are the Southern Braai BBQ Sauce and the Sweet Dream Sauce, as both have less heat in their profiles.
 
 I am all about the heat. I brought out the big guns for this tasting—tortilla chips freshly crisped in my convection oven.
 
-[![A bowl of fresh tortilla chips surrounded by shot glasses](https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-17-435x500.png)](https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-17.png)
+[![A bowl of fresh tortilla chips surrounded by shot glasses](https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-17-435x500.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-17.png)
 
 For me, tortilla chips are the natural vessel for tasting hot sauces. The first one I tried was the **Bird’s Eye Chili.** It’s pumpkin orange, and I loved that the seeds were so clearly still intact inside the bottle. It smelled like a delicious sauce one might mix with cream and bake on top of chicken for a great dinner. Really tasty, and I loved the sweet notes in its flavor profile; they made me think there must be some tomato added. Per the ingredient list, there is not, though there _is_ sugar. Every morsel of bird’s eye chili flesh must have been mined for maximum flavor. The texture was a little chunky, which I like, and heat was definitely present, but the sweetness pleased me most.
 
@@ -42,7 +42,7 @@ I moved on next to the **Lemon & Garlic Peri-Per**i. Its coloring was a muddy br
 
 Next, I went for the **African Ghost Pepper** sauce, which gets African Dream Foods’ highest heat rating. It’s red as roasted red bell peppers, with plenty of visible seeds and strings of pepper skin. Very little smell, which is often the case for the hotter sauces. They tend to be more of a tolerance roller coaster than a flavor powerhouse. It tasted mellower than I expected, similar in heat to the Bird’s Eye Chili sauce at first. But a burning heat lingers longer than any flavor it imparts. It’s in that linger that the heat builds. Use this sauce judiciously. I’d aim for hash browns or home fries that the chef forgot to season.
 
-[![Red, green, and yellow hot sauces in shot glasses, including a triple shot glass](https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-12-360x500.png)](https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-12.png)
+[![Red, green, and yellow hot sauces in shot glasses, including a triple shot glass](https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-12-360x500.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-12.png)
 
 What’s that, you ask? Why yes, I did pull out my triple shot glass for this occasion! That’s living, right there. 😂 In the glass is the second half of my taste testing mission, one sauce per flute. Yes, I am _just that classy._
 
@@ -54,7 +54,7 @@ I was excited to try the **Ghost Peri-Peri** last. I had really enjoyed the Lemo
 
 I also had to crack open some of that **Ghost Pepper Salt**, of course!
 
-[![African Dream Foods Ghost Pepper Salt in a black ramekin.](https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-18-500x379.png)](https://thegourmez.com/wp-content/uploads/sites/5/2021/05/African-Dream-Foods-Set-2-18.png)
+[![African Dream Foods Ghost Pepper Salt in a black ramekin.](https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-18-500x379.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-18.png)
 
 It decorates the salt rocks with appealing color flecks. The ghost pepper flakes are sparse enough that you can’t really overdo the heat while using it. Try it with fresh buttered popcorn or for a surprise kick in chocolate chip cookies.
 

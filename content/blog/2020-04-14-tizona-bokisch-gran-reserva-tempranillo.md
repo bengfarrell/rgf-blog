@@ -1,11 +1,11 @@
 ---
 title: "Tizona by Bokisch 2014 Gran Reserva Tempranillo"
 date: "2020-04-14"
-categories: 
+categories:
   - "red-wine-review"
   - "tempranillo"
   - "wine"
-tags: 
+tags:
   - "bokisch-vineyards"
   - "gran-reserva"
   - "lodi-wine"
@@ -21,19 +21,19 @@ tags:
 
 Bokisch Vineyards ([website](https://www.bokischvineyards.com/)) is one of my favorite vineyards in the Lodi region, which is one of California’s best wine-growing American Vinicultural Areas (AVAs). **_Obligatory disclaimer:_** _This wine was free to me to sample for this review._
 
-[![Tizona, tizona by bokisch, bokisch vineyards, gran reserva, tempranillo, tasting notes, lodi wine, spanish wine](https://thegourmez.com/wp-content/uploads/sites/5/2020/04/Tizona-004-500x375.jpg)](https://thegourmez.com/wp-content/uploads/sites/5/2020/04/Tizona-004.jpg)
+[![Tizona, tizona by bokisch, bokisch vineyards, gran reserva, tempranillo, tasting notes, lodi wine, spanish wine](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/Tizona-004-500x375.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/Tizona-004.jpg)
 
 I first became acquainted with Bokisch Vineyards at the 2016 Wine Bloggers Conference, where I named their **2015 Bokisch Vineyards Terra Alta Albarino** one of [my most memorable wines](https://thegourmez.com/2016/09/02/most-memorable-wines-from-the-2016-wine-bloggers-conference-part-1/) from the conference. Markus and Liz Bokisch have been devoted to mastering Spanish varietals in the Lodi AVA since the late 1990s.
 
 Their _Tizona by Bokisch_ line features “limited production wines done in unique styles” per their press release.
 
-[![Tizona, tizona by bokisch, bokisch vineyards, gran reserva, tempranillo, tasting notes, lodi wine, spanish wine](https://thegourmez.com/wp-content/uploads/sites/5/2020/04/Tizona-005-375x500.jpg)](https://thegourmez.com/wp-content/uploads/sites/5/2020/04/Tizona-005.jpg)
+[![Tizona, tizona by bokisch, bokisch vineyards, gran reserva, tempranillo, tasting notes, lodi wine, spanish wine](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/Tizona-005-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/Tizona-005.jpg)
 
 A _gran reserva_ wine, following Spain’s requirements, spends at least two years aging in oak and five years total aging from harvest to the glass. Bokisch’s 2014 Tizona Gran Reserva Tempranillo may be made in Lodi, but they follow the Spanish guidelines, and the grapes for this wine come from twenty-year-old cuttings from Ribera del Duero. It’s an astoundingly good wine. Have I mentioned that tempranillo is my favorite wine grape recently?
 
 In the glass, a strong brick-red coloring presents itself. Those bricks are well-fired, with plenty of brown edges.
 
-[![Tizona, tizona by bokisch, bokisch vineyards, gran reserva, tempranillo, tasting notes, lodi wine, spanish wine](https://thegourmez.com/wp-content/uploads/sites/5/2020/04/Tizona-006-500x481.jpg)](https://thegourmez.com/wp-content/uploads/sites/5/2020/04/Tizona-006.jpg)
+[![Tizona, tizona by bokisch, bokisch vineyards, gran reserva, tempranillo, tasting notes, lodi wine, spanish wine](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/Tizona-006-500x481.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/Tizona-006.jpg)
 
 Its nose is floral with vanilla and yeasty danish pastry notes. Let this wine seep into your skin through your taste buds. It offers a refreshing medium body with minimal tannins for a wine oaked for three years. Minimal heat, too, as it tastes as though it comes from a cooler elevation than it does. Boysenberry, licorice, and toasted curry seeds crunch on my palate. Jerky comes in partway though, with cinnamon. On the finish, cocoa and cherry put you to bed, with a nice linger. Dream of a wet, cool, eucalyptus grove as you slide into this tempranillo’s satiny sheets for a good restful sleep.
 
