@@ -29,7 +29,13 @@ Back to your point, Becca. Shrubs, your point is shrubs. Specifically Burly Beve
 
 First:  How adorable _is_ that sampler pack above? _So adorable._ The old-timey design of the labels appeals to me –I’m a foodie and as much a hipster as the rest of my generation, I admit it. I may hate the mason jar aesthetic, but I love myself an incandescent filament light bulb. So that design is right up my alley.
 
-\[caption id="attachment\_28973" align="aligncenter" width="500"\][![](https://thegourmez-wpmedia.s3.amazonaws.com/2020/07/led-teardrop-filament-40w-equivalent-light-bulb-2-c-500x449.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/07/led-teardrop-filament-40w-equivalent-light-bulb-2-c.jpg) _The Gourmez’_s weak spot.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2020/07/led-teardrop-filament-40w-equivalent-light-bulb-2-c-500x449.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/07/led-teardrop-filament-40w-equivalent-light-bulb-2-c.jpg) _The Gourmez’_s weak spot.</div>
+
 
 The sampler pack includes six flavors. I set them all up in tiny glasses for tasting at the recommended dosage with plain club soda. That dosage is one-ounce syrup to sixteen ounces club soda. For these little shots, that equates to a half tablespoon syrup to four ounces club soda. I should note that the recommended ratio also calls for two ounces of alcohol for making cocktails, which I did not do for tasting purposes, and thus the flavors and colors were perhaps weaker than intended.
 
@@ -47,7 +53,13 @@ The sampler pack includes six flavors. I set them all up in tiny glasses for tas
 
 **Burly Beverages Cascara Cola Soda:** A reminder – I do not like cola. But adding cascara to that cola – you know, those coffee cherry husks that Starbucks keeps trying to make happen – turns out to be genius stroke. There’s a wash of bright coffee to start, then the flavors skim across the cola profile to land with a eucalyptus or quinine tang on the finish. There’s a mild honey sweetness. I could see this syrup as a great addition to a tonic soda, with or without alcohol.
 
-\[caption id="attachment\_28969" align="aligncenter" width="358"\][![burly beverages, shrubs, shrub, soda syrup, burly shrub, review, tasting notes, cascara cola](https://thegourmez-wpmedia.s3.amazonaws.com/2020/07/Burly-Shrubs-004-358x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/07/Burly-Shrubs-004.jpg) A cascara cola in the sunlight.\[/caption\]
+
+
+
+<div class="caption">
+
+[![burly beverages, shrubs, shrub, soda syrup, burly shrub, review, tasting notes, cascara cola](https://thegourmez-wpmedia.s3.amazonaws.com/2020/07/Burly-Shrubs-004-358x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/07/Burly-Shrubs-004.jpg) A cascara cola in the sunlight.</div>
+
 
 Maybe Starbucks knows what they’re onto....and the Yemeni and Bolivian people before them who make cascara teas. Burly Beverages did well to follow their example.
 

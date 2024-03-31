@@ -1,10 +1,10 @@
 ---
 title: "The Quini App and My Changing Wine Reviews"
 date: "2014-08-19"
-categories: 
+categories:
   - "wine"
   - "writing"
-tags: 
+tags:
   - "app"
   - "application"
   - "change-afoot"
@@ -50,6 +50,12 @@ Is this a big change? No. But to me, it signifies both my growth as a wine appre
 
 Again, I am a fiction writer. That difference should have been way more obvious to me. I'm shamed that it wasn't.
 
-\[caption id="attachment\_8609" align="aligncenter" width="500"\][![sad wine becca](http://s3.amazonaws.com/thegourmez-wpmedia/2014/08/sad-wine-becca-500x281.jpg)](http://www.thegourmez.com/2014/08/the-quini-app-and-my-changing-wine-reviews/sad-wine-becca/) Shamed...with a mimosa.\[/caption\]
+
+
+
+<div class="caption">
+
+[![sad wine becca](http://s3.amazonaws.com/thegourmez-wpmedia/2014/08/sad-wine-becca-500x281.jpg)](http://www.thegourmez.com/2014/08/the-quini-app-and-my-changing-wine-reviews/sad-wine-becca/) Shamed...with a mimosa.</div>
+
 
 As I post new reviews, let me know what you think of Quini’s profiles and my plunges into imagery-filled wine reviewing. Your feedback is always welcome.

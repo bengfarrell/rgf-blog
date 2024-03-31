@@ -1,9 +1,9 @@
 ---
 title: "Tourist Musts for the Outer Banks"
 date: "2013-12-10"
-categories: 
+categories:
   - "outer-banks-north-carolina-travel"
-tags: 
+tags:
   - "beaches"
   - "bodie-island-lighthouse"
   - "cape-hatteras-lighthouse"
@@ -37,25 +37,55 @@ tags:
   - "wright-brothers"
 ---
 
-\[caption id="attachment\_7684" align="aligncenter" width="680"\][![View of Kill Devil Hills from our hotel's beach. Click twice for the largest view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_001-1024x214.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_001-2/) View of Kill Devil Hills from our hotel's beach. Click twice for the largest view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![View of Kill Devil Hills from our hotel's beach. Click twice for the largest view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_001-1024x214.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_001-2/) View of Kill Devil Hills from our hotel's beach. Click twice for the largest view.</div>
+
 
 Last July, I spent the weekend in the Outer Banks for only the second time in the eight years I lived in North Carolina. My first trip was camping on Ocracoke, the most remote of the islands, so I had never done the typical tourist activities in the more accessible areas, and I wanted to hit them up before we moved. Luckily, friends Laura and Ellen came to the rescue! In one whirlwind weekend, we covered each of these must-sees of the Outer Banks.
 
 **1\. Jockey's Ridge State Park**
 
-\[caption id="attachment\_7685" align="aligncenter" width="680"\][![Climbing the dunes. Click twice for the largest view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_028-1024x164.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_028-2/) Climbing the dunes. Click twice for the largest view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Climbing the dunes. Click twice for the largest view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_028-1024x164.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_028-2/) Climbing the dunes. Click twice for the largest view.</div>
+
 
 Jockey's Ridge is the largest sand dune formation on the East Coast. Not to brag, or anything, but the West Coast has it beat easily for height. That doesn't take away from the beauty of these dunes or of the multitudes of people who come to fly a kite in the open air. We visited at sunset and conquered the short, but calf-burning, hike from the parking lot to be rewarded with gorgeous views and kites of all shapes and sizes.
 
 [![2013_Outer_Banks_030](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_030-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_030/)
 
-\[caption id="attachment\_7687" align="aligncenter" width="500"\][![Me with the sunset to my back.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_034-500x375.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_034/) Me with the sunset to my back.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Me with the sunset to my back.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_034-500x375.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_034/) Me with the sunset to my back.</div>
+
 
  
 
-\[caption id="attachment\_7688" align="aligncenter" width="680"\][![360-view from the Ridge, featuring Laura. Click twice for the largest view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_038-1024x62.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_038-2/) 360-view from the Ridge, featuring Laura. Click twice for the largest view.\[/caption\]
 
-\[caption id="attachment\_7689" align="aligncenter" width="500"\][![Exiting through the same path many have walked before.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_044-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_044/) Exiting through the same path many have walked before.\[/caption\]
+
+
+<div class="caption">
+
+[![360-view from the Ridge, featuring Laura. Click twice for the largest view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_038-1024x62.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_038-2/) 360-view from the Ridge, featuring Laura. Click twice for the largest view.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Exiting through the same path many have walked before.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_044-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_044/) Exiting through the same path many have walked before.</div>
+
 
 **2\. Cape Hatteras Lighthouse**
 
@@ -81,13 +111,25 @@ You can climb up all 208 feet of the tower for a fee, but we passed on that oppo
 
 **3\. Wright Brothers National Memorial and Museum**
 
-\[caption id="attachment\_7703" align="aligncenter" width="680"\][![360-view from the Memorial's base. Click twice for the largest image and find Laura and Ellen!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_156-1024x116.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_156-2/) 360-view from the Memorial's base. Click twice for the largest image and find Laura and Ellen!\[/caption\]
+
+
+
+<div class="caption">
+
+[![360-view from the Memorial's base. Click twice for the largest image and find Laura and Ellen!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_156-1024x116.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_156-2/) 360-view from the Memorial's base. Click twice for the largest image and find Laura and Ellen!</div>
+
 
 From a photographer's perspective, this tourist destination is one of the most beautiful I've shot at. It helps that we had gorgeous skies, but I think the design of the [Wright Brothers National Monument](http://www.nps.gov/wrbr/index.htm) is simply gorgeous. Ascending one of the several hillside paths is worth the view times a million.
 
 [![2013_Outer_Banks_155](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_155.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_155/)
 
-\[caption id="attachment\_7704" align="aligncenter" width="332"\][![Yes, that's me pretending I'm a plane.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_158-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_158/) Yes, that's me pretending I'm a plane.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Yes, that's me pretending I'm a plane.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_158-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_158/) Yes, that's me pretending I'm a plane.</div>
+
 
 [![2013_Outer_Banks_163](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_163-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_163/)
 
@@ -97,7 +139,13 @@ There is more to this park than a scenic view, of course. Spending the minimal f
 
 \--as well as a history of their time on Nag's Head and records of their previous attempts at flight. The grounds include markers that indicate how far their glider went on each historic take-off—
 
-\[caption id="attachment\_7696" align="aligncenter" width="500"\][![(hint: not far!)](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_114-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_114/) (hint: not far!)\[/caption\]
+
+
+
+<div class="caption">
+
+[![(hint: not far!)](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_114-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_114/) (hint: not far!)</div>
+
 
 \--and a life-size recreation of the event in bronze sculpture that I thought was pretty rad.
 
@@ -111,17 +159,53 @@ You can even explore the park at your leisure because the $4 buys you access for
 
 Roanoke Island is where the first English colony was founded in the United States. That colony disappeared without a trace three years later, thus earning it the name _the Lost Colony._  [The Festival Park](http://roanokeisland.com/) celebrates that colony's history through several different recreations, including an American Indian village, a settlement village, and a 16th-century longship. Additionally, the site hosts multiple museum exhibits and a waterfront pavilion.
 
-\[caption id="attachment\_7711" align="aligncenter" width="500"\][![Sunflower in the American Indian village.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_196-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_196/) Sunflower in the American Indian village.\[/caption\]
 
-\[caption id="attachment\_7712" align="aligncenter" width="680"\][![Spiritual totems at the American Indian village. Click twice for the largest view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_204-1024x141.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_204-2/) Spiritual totems at the American Indian village. Click twice for the largest view and to see Ellen!\[/caption\]
 
-\[caption id="attachment\_7715" align="aligncenter" width="500"\][![Sharing a canoe with Ellen.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_230-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_230/) Sharing a canoe with Ellen.\[/caption\]
 
-\[caption id="attachment\_7713" align="aligncenter" width="500"\][![Plastic owl keeping away birds on the Elizabeth II reproduction.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_211-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_211/) Plastic owl keeping away birds on the Elizabeth II reproduction.\[/caption\]
+<div class="caption">
 
-\[caption id="attachment\_7714" align="aligncenter" width="332"\][![Inside the ship](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_219-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_219/) Inside the ship\[/caption\]
+[![Sunflower in the American Indian village.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_196-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_196/) Sunflower in the American Indian village.</div>
 
-\[caption id="attachment\_7716" align="aligncenter" width="332"\][![Blacksmith at work in the settlement.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_241-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_241/) Blacksmith at work in the settlement.\[/caption\]
+
+
+
+
+<div class="caption">
+
+[![Spiritual totems at the American Indian village. Click twice for the largest view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_204-1024x141.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_204-2/) Spiritual totems at the American Indian village. Click twice for the largest view and to see Ellen!</div>
+
+
+
+
+
+<div class="caption">
+
+[![Sharing a canoe with Ellen.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_230-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_230/) Sharing a canoe with Ellen.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Plastic owl keeping away birds on the Elizabeth II reproduction.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_211-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_211/) Plastic owl keeping away birds on the Elizabeth II reproduction.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Inside the ship](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_219-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_219/) Inside the ship</div>
+
+
+
+
+
+<div class="caption">
+
+[![Blacksmith at work in the settlement.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_241-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_241/) Blacksmith at work in the settlement.</div>
+
 
 $10 isn't a steep price for the attraction, but I must admit, I found visiting the free, open grounds of Fort Raleigh just as interesting as I did exploring these recreations. That is next on the list!
 
@@ -129,9 +213,21 @@ $10 isn't a steep price for the attraction, but I must admit, I found visiting t
 
 My primary motivation for this Outer Banks trip was to see _the Lost Colony_ musical that shows every summer at the Waterside Theater on the [Fort Raleigh grounds](http://www.nps.gov/fora/index.htm) on Roanoke Island.
 
-\[caption id="attachment\_7699" align="aligncenter" width="700"\][![Inside the Waterside Theater with the Albemarle Sound in the distance.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_130.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_130-2/) Inside the Waterside Theater with the Albemarle Sound in the distance.\[/caption\]
 
-\[caption id="attachment\_7698" align="aligncenter" width="332"\][![One of many trees growing in the theater's foyers.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_128-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_128/) One of many trees growing in the theater's foyers.\[/caption\]
+
+
+<div class="caption">
+
+[![Inside the Waterside Theater with the Albemarle Sound in the distance.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_130.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_130-2/) Inside the Waterside Theater with the Albemarle Sound in the distance.</div>
+
+
+
+
+
+<div class="caption">
+
+[![One of many trees growing in the theater's foyers.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_128-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_128/) One of many trees growing in the theater's foyers.</div>
+
 
 The theater and the musical were funded in part by the New Deal's Works Projects Administration, and they have told one version of the colony's founding and demise nearly every year since 1937. [Tickets](http://thelostcolony.org/) are quite affordable for the show, and I was honestly surprised at how elaborate it was! I didn't expect a full-scale production.
 
@@ -153,7 +249,13 @@ Finally, spending some time at the Manteo waterfront and its cute shopping villa
 
 \--or the views from the pier—
 
-\[caption id="attachment\_7709" align="aligncenter" width="500"\][![Click twice for the largest view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_182-500x207.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_182-2/) Click twice for the largest view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Click twice for the largest view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Outer_Banks_182-500x207.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_182-2/) Click twice for the largest view.</div>
+
 
 \--and across the marina to the Elizabeth II reproduction in the distance.
 

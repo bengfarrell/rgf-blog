@@ -1,12 +1,12 @@
 ---
 title: "Counter Culture Coffee Cupping"
 date: "2013-07-17"
-categories: 
+categories:
   - "coffee-shop"
   - "durham-coffee-shop-reviews"
   - "events"
   - "durham-north-carolina-travel"
-tags: 
+tags:
   - "break"
   - "brightness"
   - "coffee-cupping"
@@ -44,7 +44,13 @@ I will spare you my individual thoughts on the coffees for each stage of the cup
 
 [![2013_Counter_Culture_Cupping_03](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_03-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_03/)
 
-\[caption id="attachment\_6590" align="aligncenter" width="500"\][![Sniffing in progress.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_02-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_02/) Sniffing in progress.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Sniffing in progress.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_02-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_02/) Sniffing in progress.</div>
+
 
 \--then we smelled the grounds again right after adding water to the cups to let them steep.
 
@@ -52,7 +58,13 @@ I will spare you my individual thoughts on the coffees for each stage of the cup
 
 Then came the break, the final smelling component. "Break" refers to breaking the crown of coffee grounds on top of the cup. You generally want to do that four minutes after pouring in the water to avoid over- or under-extraction.
 
-\[caption id="attachment\_6587" align="aligncenter" width="500"\][![The line of participants making it through the tasting.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_05-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_05/) The line of participants making it through the break.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The line of participants making it through the tasting.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_05-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_05/) The line of participants making it through the break.</div>
+
 
 The focus shifts to taste next by evaluating the coffee for brightness, overall flavor, body, and aftertaste, all by slurping up just a spoonful of brew (slurping increases the aeration like swishing a glass of wine) and rolling it around in your mouth.
 

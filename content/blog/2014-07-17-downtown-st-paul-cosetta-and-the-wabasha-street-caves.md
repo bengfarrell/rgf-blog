@@ -1,11 +1,11 @@
 ---
 title: "Downtown St. Paul, Cosetta, and the Wabasha Street Caves"
 date: "2014-07-17"
-categories: 
+categories:
   - "dining-st-paul"
   - "restaurants"
   - "st-paul-saint-travel-minnesota"
-tags: 
+tags:
   - "cathedral-of-saint-paul"
   - "caves"
   - "charles-schultz"
@@ -49,7 +49,13 @@ The first of them was in that picture—the Landmark Center. It’s gorgeous and
 
 I honestly didn’t know Charles Schultz was from St. Paul. Happening upon little trivia tidbits like that is why I love exploring cities.
 
-\[caption id="attachment\_8382" align="aligncenter" width="500"\][![St. Paul Hotel](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_St_Paul_014-500x332.jpg)](http://www.thegourmez.com/2014/07/downtown-st-paul-cosetta-and-the-wabasha-street-caves/2014_st_paul_014/) St. Paul Hotel\[/caption\]
+
+
+
+<div class="caption">
+
+[![St. Paul Hotel](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_St_Paul_014-500x332.jpg)](http://www.thegourmez.com/2014/07/downtown-st-paul-cosetta-and-the-wabasha-street-caves/2014_st_paul_014/) St. Paul Hotel</div>
+
 
 After a Dunn Bros coffee and checking out the Rice Park area, I decided it was time to hunt down that Cathedral, which took my breath away as I passed it on the bus into town.
 
@@ -57,7 +63,13 @@ After a Dunn Bros coffee and checking out the Rice Park area, I decided it was t
 
 So off I went, getting closer and closer.
 
-\[caption id="attachment\_8394" align="aligncenter" width="500"\][![Passing the Xcel Center](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_St_Paul_020-500x332.jpg)](http://www.thegourmez.com/2014/07/downtown-st-paul-cosetta-and-the-wabasha-street-caves/2014_st_paul_020/) Passing the Xcel Center\[/caption\]
+
+
+
+<div class="caption">
+
+[![Passing the Xcel Center](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_St_Paul_020-500x332.jpg)](http://www.thegourmez.com/2014/07/downtown-st-paul-cosetta-and-the-wabasha-street-caves/2014_st_paul_020/) Passing the Xcel Center</div>
+
 
 My stomach insisted on lunch before my journeying could continue, so I check out nearby [Cosetta](http://cossettas.com/) (2011 7th St.) a St. Paul institution.
 
@@ -109,15 +121,39 @@ So I determined I had to get close enough to it for a good picture, and then I r
 
 At that point, I had to hustle, flying fast as my feet would let me down Cedar Street toward the waterfront.
 
-\[caption id="attachment\_8401" align="aligncenter" width="500"\][![No time for you, pretty pair of churches!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_St_Paul_055-500x332.jpg)](http://www.thegourmez.com/2014/07/downtown-st-paul-cosetta-and-the-wabasha-street-caves/2014_st_paul_055/) No time for you, pretty pair of churches!\[/caption\]
 
-\[caption id="attachment\_8402" align="aligncenter" width="500"\][![No time to wave hi to Garrison Keillor!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_St_Paul_057-500x332.jpg)](http://www.thegourmez.com/2014/07/downtown-st-paul-cosetta-and-the-wabasha-street-caves/2014_st_paul_057/) No time to wave hi to Garrison Keillor!\[/caption\]
 
-\[caption id="attachment\_8403" align="aligncenter" width="500"\][![Leaving downtown behind in the clouds.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_St_Paul_059-500x332.jpg)](http://www.thegourmez.com/2014/07/downtown-st-paul-cosetta-and-the-wabasha-street-caves/2014_st_paul_059/) Leaving downtown behind in the clouds.\[/caption\]
+
+<div class="caption">
+
+[![No time for you, pretty pair of churches!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_St_Paul_055-500x332.jpg)](http://www.thegourmez.com/2014/07/downtown-st-paul-cosetta-and-the-wabasha-street-caves/2014_st_paul_055/) No time for you, pretty pair of churches!</div>
+
+
+
+
+
+<div class="caption">
+
+[![No time to wave hi to Garrison Keillor!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_St_Paul_057-500x332.jpg)](http://www.thegourmez.com/2014/07/downtown-st-paul-cosetta-and-the-wabasha-street-caves/2014_st_paul_057/) No time to wave hi to Garrison Keillor!</div>
+
+
+
+
+
+<div class="caption">
+
+[![Leaving downtown behind in the clouds.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_St_Paul_059-500x332.jpg)](http://www.thegourmez.com/2014/07/downtown-st-paul-cosetta-and-the-wabasha-street-caves/2014_st_paul_059/) Leaving downtown behind in the clouds.</div>
+
 
 I reached the waterfront, a mile still to go, but I had to stop for a picture. Coming up on the water was breathtaking.
 
-\[caption id="attachment\_8404" align="aligncenter" width="680"\][![Raspberry Island](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_St_Paul_060-1024x248.jpg)](http://www.thegourmez.com/2014/07/downtown-st-paul-cosetta-and-the-wabasha-street-caves/2014_st_paul_060/) Raspberry Island\[/caption\]
+
+
+
+<div class="caption">
+
+[![Raspberry Island](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_St_Paul_060-1024x248.jpg)](http://www.thegourmez.com/2014/07/downtown-st-paul-cosetta-and-the-wabasha-street-caves/2014_st_paul_060/) Raspberry Island</div>
+
 
 I also discovered Pig’s Eye.
 

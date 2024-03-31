@@ -1,10 +1,10 @@
 ---
 title: "Sapporo"
 date: "2014-10-16"
-categories: 
+categories:
   - "hayward-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "avocado"
   - "dinner"
   - "downtown"
@@ -30,7 +30,13 @@ As soon as you see the restaurant’s interior, you’ll realize it’s a playfu
 
 And keep that playfulness in mind as you realize Sam’s banter with the regulars is far more entertaining than the photos. Otherwise, you may be worried actual insults are being flung around rather than friends skewering each other. Heck, not knowing for certain is part of the appeal.
 
-\[caption id="attachment\_8887" align="aligncenter" width="500"\][![Sam, the sushi chef.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/10/Sapporo_001-500x367.jpg)](http://www.thegourmez.com/2014/10/sapporo-hayward/sapporo_001/) Sam, the sushi chef.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Sam, the sushi chef.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/10/Sapporo_001-500x367.jpg)](http://www.thegourmez.com/2014/10/sapporo-hayward/sapporo_001/) Sam, the sushi chef.</div>
+
 
 But I think the existence of a Crazy Sammy roll resolves that question pretty well.
 

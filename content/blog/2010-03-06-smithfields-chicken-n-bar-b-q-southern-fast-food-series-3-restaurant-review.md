@@ -1,10 +1,10 @@
 ---
 title: "Smithfield's Chicken 'N Bar-B-Q (Southern Fast Food Series #3)---Restaurant Review"
 date: "2010-03-06"
-categories: 
+categories:
   - "morrisville-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "coleslaw"
   - "eastern-north-carolina-barbecue"
   - "fried-chicken-chain"
@@ -38,7 +38,13 @@ I must say, Smithfield's is definitely in the lead now for my favorite southern 
 
 Next up, I'm thinking of a morning biscuit chain. Perhaps Biscuitville?
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+
 
 [![Smithfield's Chicken 'n Bar-B-Q](http://www.tabelog.us/restaurants/172975/blog_parts/logo/xxs.png)](http://www.tabelog.us/restaurants/smithfields-chicken-n-bar-b-q-172975)
 

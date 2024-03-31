@@ -1,10 +1,10 @@
 ---
 title: "Saffron--Morrisville, NC"
 date: "2009-02-19"
-categories: 
+categories:
   - "morrisville-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "indian-in-the-triangle"
   - "saffron-chicken"
   - "saffron-morrisville"
@@ -33,4 +33,10 @@ I had the saffron chicken and it was fantastic.  The tender chicken breast was 
 
 We will definitely go back to Saffron and hopefully sooner rather than later.  I'm sure one of the other appetizers will be more appealing than the naan was, if I can just convince my husband that he doesn't always need bread.
 
-\[caption id="attachment\_59" align="aligncenter" width="40"\]![5 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 5 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![5 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 5 stars</div>
+

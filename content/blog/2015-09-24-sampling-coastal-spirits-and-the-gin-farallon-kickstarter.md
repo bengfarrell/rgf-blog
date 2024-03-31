@@ -1,14 +1,14 @@
 ---
 title: "Sampling Coastal Spirits and the Gin Farallon Kickstarter"
 date: "2015-09-24"
-categories: 
+categories:
   - "distillery"
   - "events"
   - "gin-reviews"
   - "liqueur-reviews"
   - "spirits"
   - "vodka"
-tags: 
+tags:
   - "amaro"
   - "bay-area"
   - "brad-plummer"
@@ -40,7 +40,13 @@ Recently, I was invited by Justin of [the Grapevine Consulting](http://thegrapev
 
 It’s already picked up a medal from the American Distilling Institute and is available in many Bay Area bars and restaurants. Such success so fast is a sign of Brad’s dedication to his craft. The distillery itself is new, but he’s been learning the art over the past decade, pouring over _the Craft of Gin_ (2013) among others, and reaching way back to _the Distiller_, first published in 1813. Brad is so enchanted with _the Distiller_, he self-published a 200th Anniversary revised edition of it in 2013, and White Mule Press has since picked up the on-demand rights. Both _the Distiller_ and _the Craft of Gin_ are among the prizes for Gin Farallon’s Kickstarter backers.
 
-\[caption id="attachment\_25062" align="aligncenter" width="334"\][![Brad Plummer holding his Gin Farallon.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-002-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-002.jpg) Brad Plummer holding his Gin Farallon.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Brad Plummer holding his Gin Farallon.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-002-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-002.jpg) Brad Plummer holding his Gin Farallon.</div>
+
 
 Yes, that’s right, to assist with the launch of his second spirit, Brad has [launched a Kickstarter](https://www.kickstarter.com/projects/2025469976/gin-farallon-the-launch/description) that only has a week left to go. It’s obvious that perfecting a gin recipe that’ll please gin-wary drinkers such as myself is a passion of his. I am happy to report that Brad has found a winning combination!
 
@@ -50,7 +56,13 @@ It’s soft on the palate, and dulling the alcohol heat is a surefire way for gi
 
 Brad has a lot of intriguing spirits and liqueurs in varying stages of completion. Being dedicated drink bloggers, we twisted his arm into trying several.
 
-\[caption id="attachment\_25066" align="aligncenter" width="500"\][![Local spirit enthusiasts Elizabeth Olson and Thea Dwelle of Luscious Lushes sniffing spirits.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-009-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-009.jpg) Local spirit enthusiasts Elizabeth Olson and Thea Dwelle of [Luscious Lushes](http://lusciouslushes.com/) sniffing spirits.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Local spirit enthusiasts Elizabeth Olson and Thea Dwelle of Luscious Lushes sniffing spirits.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-009-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-009.jpg) Local spirit enthusiasts Elizabeth Olson and Thea Dwelle of [Luscious Lushes](http://lusciouslushes.com/) sniffing spirits.</div>
+
 
 My favorite was undoubtedly the plum brandy, one of his first successful experiments. We had it in the midst of a delicious, Old-Fashioned-style cocktail he’s dubbed the Devil’s Tooth. I was legitimately saddened I wasn’t al fresco dining so I could linger over its many layers of yum. _Layers of yum_ is a technical term, I swear.
 
@@ -68,7 +80,13 @@ That one will bring a pure and simple coffee essence to your cocktails without g
 
 In addition to all those amazing concoctions Brad’s distilling, he’s also developed a game that brings the gin distillation process to life -- Gin Tumble!
 
-\[caption id="attachment\_25064" align="aligncenter" width="500"\][![Brad demonstrating the game.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-006-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-006.jpg) Brad demonstrating the game.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Brad demonstrating the game.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-006-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-006.jpg) Brad demonstrating the game.</div>
+
 
 It looks similar to games in the vein of _Bejeweled_—meaning your grandma can probably handle it—but the goal is to collect various ingredients in the right proportions to make the type of gin you’re aiming for.
 

@@ -1,11 +1,11 @@
 ---
 title: "McCay Trulux Zinfandel 2014"
 date: "2018-10-23"
-categories: 
+categories:
   - "zinfandel"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "mccay-cellars"
   - "review"
   - "tasting-notes"
@@ -17,7 +17,13 @@ tags:
 
 [![McCay, trulux, zinfandel, lodi](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Zins-2-2-400x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Zins-2-2.jpg)If Anne Shirley's cherry cordial was blackberry instead, this is exactly how I imagine it. Medium-bodied with a nose full of very dark, extra ripe berries. I want to make a syrup with it and pour it over pancakes or maybe reduce it with vinegar for a tasty drizzle.
 
-\[caption id="attachment\_24389" align="aligncenter" width="40"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif) 4.5/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif) 4.5/5</div>
+
 
 **Other Bloggers' Thoughts**
 

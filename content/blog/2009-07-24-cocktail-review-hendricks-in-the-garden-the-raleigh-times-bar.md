@@ -1,10 +1,10 @@
 ---
 title: "Cocktail Review--Hendrick's in the Garden, The Raleigh Times Bar"
 date: "2009-07-24"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-raleigh-nc"
-tags: 
+tags:
   - "cucumber-cocktails"
   - "hendricks-in-the-garden-cocktail"
   - "lavender-syrup"
@@ -22,4 +22,10 @@ This cocktail was a mix of cucumber chunks, lavender syrup, gin, and club soda o
 
 _Reviewed 7.17.09._
 
-\[caption id="attachment\_193" align="aligncenter" width="40"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
+

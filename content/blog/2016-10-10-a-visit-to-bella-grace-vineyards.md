@@ -1,7 +1,7 @@
 ---
 title: "A Visit to Bella Grace Vineyards"
 date: "2016-10-10"
-categories: 
+categories:
   - "barbera"
   - "grenache-blanc"
   - "red-wine-review"
@@ -12,7 +12,7 @@ categories:
   - "vermentino"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "amador"
   - "amador-county"
   - "bella-grace"
@@ -47,7 +47,13 @@ _Obligatory disclaimer: Everything consumed during this visit to Bella Grace Vin
 
 In August, I accepted an invitation from the [Dallas Wine Chick](http://www.dallaswinechick.com/) to join in on a day trip to Amador County’s [Bella Grace Vineyards](http://www.bellagracevineyards.com/) along with a handful of other wine bloggers.
 
-\[caption id="attachment\_26569" align="aligncenter" width="500"\][![Bella Grace Vineyards Wine Caves](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-058-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-058.jpg) Wine Bloggers Imbibe!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bella Grace Vineyards Wine Caves](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-058-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-058.jpg) Wine Bloggers Imbibe!</div>
+
 
 Our group was a lively one, and that included our host, Stephen Havill, a man with great sarcastic wit. Stephen’s the youngest of seven siblings, most of whom are involved in the winery in one way or another. _Bella Grace_ is a combination of their grandmothers’ names, and their mother, Michael, is the winemaker of this vineyard in the Shenandoah Valley. She’s also very talented, as I would soon discover.
 
@@ -67,7 +73,13 @@ On a warm summer day, the cool cave temperature was especially welcome. As was o
 
 Acidic and buttery elements intermixed beautifully, allowing the crème anglaise, honeydew, green apple, and meringue puff notes to reach their potentials together. It was followed by the 2015 Grenache Blanc ($25) as we listened to Charlie, chief grower and patriarch, talk about the vineyard’s history.
 
-\[caption id="attachment\_26579" align="aligncenter" width="500"\][![Bella Grace Vineyards Charlie Havill](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-003-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-003.jpg) Charlie Havill and note-taking bloggers, Liza of [Brix Chicks](http://www.brixchicks.com/) , Cyndi of [Grape Experiences](http://www.grape-experiences.com/), and Amy of [Another Wine Blog.](http://www.anotherwineblog.com/archives/author/amy-corron-power#.V_neT-grLZQ)\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bella Grace Vineyards Charlie Havill](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-003-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-003.jpg) Charlie Havill and note-taking bloggers, Liza of [Brix Chicks](http://www.brixchicks.com/) , Cyndi of [Grape Experiences](http://www.grape-experiences.com/), and Amy of [Another Wine Blog.](http://www.anotherwineblog.com/archives/author/amy-corron-power#.V_neT-grLZQ)</div>
+
 
 The grenache blanc came off fresh as mineral water, complete with lime squeezed into the glass. That makes it a dangerous wine – goes down too easily! I took two bottles home.
 
@@ -79,21 +91,51 @@ The 2015 Sauvignon Blanc ($20) was a cloud of peach blossoms. A purchase buys a 
 
 After those sips of white wines, a few of us were sufficiently cooled off to venture back into the outdoors, where Jess Havill, director of sales, took us on a stroll through the vineyards.
 
-\[caption id="attachment\_26559" align="aligncenter" width="399"\][![Bella Grace Vineyards dog](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-015-399x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-015.jpg) Jack, one of the vineyard dogs.\[/caption\]
 
-\[caption id="attachment\_26560" align="aligncenter" width="500"\][![Bella Grace Vineyards Jess Havill](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-019-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-019.jpg) Jess Havill\[/caption\]
+
+
+<div class="caption">
+
+[![Bella Grace Vineyards dog](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-015-399x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-015.jpg) Jack, one of the vineyard dogs.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Bella Grace Vineyards Jess Havill](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-019-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-019.jpg) Jess Havill</div>
+
 
 We made our way through rows of chardonnay, grenache blanc, semillon, roussane, zinfandel, tempranillo, pinot noir, and barbera, plus a few varietals I’m sure I missed.
 
-\[caption id="attachment\_26561" align="aligncenter" width="500"\][![Bella Grace Vineyards vindulge ember and vine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-030-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-030.jpg) Bloggers Mary and Sean of [Vindulge](http://www.vindulge.com/) and [Ember and Vine](http://www.emberandvine.com/#emberandvine) working the wine blogger life.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bella Grace Vineyards vindulge ember and vine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-030-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-030.jpg) Bloggers Mary and Sean of [Vindulge](http://www.vindulge.com/) and [Ember and Vine](http://www.emberandvine.com/#emberandvine) working the wine blogger life.</div>
+
 
 We entertained ourselves with tasting grapes, guessing which would be the sweetest and most appealing for snacking at that time of the year. I think pinot noir won best all-around, though chardonnay was close. But soon, it was time to bid the vines adieu and bid our wine pairing dinner hello.
 
-\[caption id="attachment\_26563" align="aligncenter" width="333"\][![Bella Grace Vineyards wine grapes](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-033-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-033.jpg) Goodbye, grapes! I’ll meet you in the bottle.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bella Grace Vineyards wine grapes](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-033-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-033.jpg) Goodbye, grapes! I’ll meet you in the bottle.</div>
+
 
 Bella Grace offers two level of wine club membership, and the upper level, Club 24, includes an impressive enticement—one private, annual wine pairing dinner for up to nine friends! What?! A meal of that type can break the bank, making this an amazing steal of a deal…especially since Robert Havill acts as chef.
 
-\[caption id="attachment\_26577" align="aligncenter" width="337"\][![Bella Grace Vineyards Robert Havill chef](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-070-337x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-070.jpg) Robert and his assistant for the evening.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bella Grace Vineyards Robert Havill chef](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-070-337x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-070.jpg) Robert and his assistant for the evening.</div>
+
 
 The food is catered by one of nearby Sutter Creek’s fine-dining restaurants, where Robert used to work. He takes their ingredients and finishes off the dishes with inventive style and well-considered combinations. Robert is as talented in the food department as his mother is in winemaking.
 
@@ -159,6 +201,12 @@ It worked because this tempranillo differs quite strongly from the typical profi
 
 Wow. What a wonderful feast we had of masterful wines with unexpectedly delightful pairings…and all in a wine cave tucked into the beautiful Shenandoah Valley. Stephen and the rest of his family made a Bella Grace believer out of me, and I look forward to visiting again, hopefully sooner rather than later.  It’s a standout, great-value winery of, well, _beautiful grace_ evident in the winemaking, the views, and the pairings.
 
-\[caption id="attachment\_26578" align="aligncenter" width="1000"\][![Bella Grace Vineyards](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-071.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-071.jpg) Goodbye, Bella Grace!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bella Grace Vineyards](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-071.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-071.jpg) Goodbye, Bella Grace!</div>
+
 
 _Visited 14 August 2016._

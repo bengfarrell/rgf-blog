@@ -1,14 +1,14 @@
 ---
 title: "Cimarone Winery"
 date: "2014-09-02"
-categories: 
+categories:
   - "other-red-blends"
   - "red-wine-review"
   - "shiraz"
   - "tasting-rooms-in-los-olivos-ca"
   - "los-olivos-travel"
   - "wine-bloggers-conference-2014-buellton"
-tags: 
+tags:
   - "3cv"
   - "andrew-murray"
   - "cillas-blend"
@@ -37,7 +37,13 @@ At the tail-end of my 2014 Wine Bloggers Conference experience, I stopped in at 
 
 Nestled in Los Olivos’s adorable few blocks of tasting rooms, restaurants, and shops, Cimarone’s English flag and cottage-style building stands out. Why the Union Jack? While owner Priscilla Higgins has an international background, her husband and co-owner Roger hails from Yorkshire and has obviously retained his British loyalties despite starting a winery in Santa Barbara County in 2001.
 
-\[caption id="attachment\_8667" align="aligncenter" width="500"\][![The Higgins are pictured in the photo to the left. I know, I know, you can’t see it.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_218-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/09/cimarone-winery-los-olivos-wine/wbc_14_218/) The Higgins are pictured in the photo to the left. I know, I know, you can’t see it.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Higgins are pictured in the photo to the left. I know, I know, you can’t see it.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_218-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/09/cimarone-winery-los-olivos-wine/wbc_14_218/) The Higgins are pictured in the photo to the left. I know, I know, you can’t see it.</div>
+
 
 My guide in the tasting room, Shelley Woods, spoke highly of the Higgins and of winemaker Andrew Murray, who’s done impressive work throughout the Santa Barbara region. What impressed me most about Cimarone’s wines was the nose—they all had amazingly complex and memorable noses.
 
@@ -47,7 +53,13 @@ In addition to the nose, I loved the artwork on the 2012 3CV Cilla’s Blend.
 
 Named after Priscilla, of course, I found it to be an easy-drinking red that was a little too much on the blueberry side for my preferences. Someday, I’ll learn to like blueberry. If you do, you’ll probably love it. What I loved more was the 2009 Reserve Syrah, which I named one of [my favorite wines of the conference](http://www.rebeccagomezfarrell.com/2014/07/wbc-14-best-wines/).
 
-\[caption id="attachment\_8661" align="aligncenter" width="332"\][![Shelley pouring me a glass.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_215-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/09/cimarone-winery-los-olivos-wine/wbc_14_215-2/) Shelley pouring me a glass.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Shelley pouring me a glass.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_215-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/09/cimarone-winery-los-olivos-wine/wbc_14_215-2/) Shelley pouring me a glass.</div>
+
 
 I can’t forget that nose and how it made me a believer in barnyard descriptors when I’d never considered that an appealing concept before. But the straw and moss I got from sniffing made me yearn to lead a horse out for a countryside picnic—and I’ve only ever been horseback riding once. I think it helped that the [Ballard Canyon Syrah course](http://www.rebeccagomezfarrell.com/2014/08/wbc14-syrahs-of-the-ballard-canyon-ava/) was still fresh in my mind from the day before, as I was prepared to appreciate the wildness of a good syrah more than I had been before. Bright cranberry and cigar rounded out the glass.
 

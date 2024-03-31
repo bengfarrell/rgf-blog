@@ -1,9 +1,9 @@
 ---
 title: "Rum Bang Bang, My Place"
 date: "2010-05-18"
-categories: 
+categories:
   - "recipes"
-tags: 
+tags:
   - "bacardi-gold-rum"
   - "bad-cocktails"
   - "galliano"
@@ -24,7 +24,13 @@ Shake everything up but the dark rum. Pour into a martini glass then float the d
 
 Wow, that's a rum drink all right, a nothing-but-rum drink. It makes my nose all sniffle-y. I rather expected to hate it, but I don't. The creaminess makes the intense rum martini drinkable, and if a full shot were added of that, it might not be half bad at all. Without that, though, it's definitely a sipper and an act of desperation.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
+
 
 _Created 5.12.10._
 

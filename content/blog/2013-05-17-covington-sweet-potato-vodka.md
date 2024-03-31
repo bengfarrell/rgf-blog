@@ -1,9 +1,9 @@
 ---
 title: "Covington Sweet Potato Vodka"
 date: "2013-05-17"
-categories: 
+categories:
   - "vodka"
-tags: 
+tags:
   - "best-yam-vodka"
   - "covington"
   - "gold-medal"
@@ -26,7 +26,13 @@ With a slogan like "the best yam vodka on Earth," Covington gets out of my gate 
 
 Vodka is a spirit I drank plenty of when I started out in the brave new world of libations, but I haven't had it often since my tastes grew more … refined, shall we say? Naw, that'd be a lie. I just moved away from vodka-based fruity cocktails and toward the stronger stuff. So I've only tasted one or two vodkas for the blog before. I chilled the bottle in the freezer, as the online hive advised me, then poured it into my triple shot glass.
 
-\[caption id="attachment\_6339" align="aligncenter" width="332"\][![Yes, this is an excuse to show off my triple shot glass.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/Covington_2-332x500.jpg)](http://www.thegourmez.com/2013/05/covington-sweet-potato-vodka/covington_2/) Yes, this is an excuse to show off my triple shot glass.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Yes, this is an excuse to show off my triple shot glass.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/Covington_2-332x500.jpg)](http://www.thegourmez.com/2013/05/covington-sweet-potato-vodka/covington_2/) Yes, this is an excuse to show off my triple shot glass.</div>
+
 
 The coloration is uniformly clear. Its smell is mild and pleasant, nearing toward marshmallow with an earthiness that grounds it. The vodka has much more flavor as I drink it than I expected. That marshmallow impression remains, but that may be because yams make me think of sweet potato casseroles with marshmallow toppings. The alcohol burn is mild. The potatoes add a natural, gentle sweetness that pleases me. As it moves toward room temperature (yes, I'm a slow drinker), the alcohol gets bolder and spice comes out, but not the pie type. They are close to fenugreek or coriander. I'm intrigued by the broadening flavors, but I do think the vodka is better chilled.
 

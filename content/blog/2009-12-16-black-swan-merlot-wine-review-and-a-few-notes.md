@@ -1,11 +1,11 @@
 ---
 title: "Black Swan Merlot -- Wine Review (and a few notes)"
 date: "2009-12-16"
-categories: 
+categories:
   - "merlot"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "beef-jerky-notes"
   - "black-swan-merlot"
   - "blog-topics"
@@ -26,14 +26,20 @@ Wine: **Black Swan Merlot** Region: South Eastern Australia
 
 The nose is smoky. It has an even-keeled, mellow flavor with cherries and smoke. It almost tastes like beef jerky, but not in a gross way. As you drink it more, the cherries get tarter or maybe they are unripe blackberries? Whatever the fruit, there's a lot of tannin power.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 **Other Bloggers' Thoughts:**
 
 Chelsie @ [Chelsie's Tasting Notes](http://chelsieswines.blogspot.com/2007/08/5-merlot-black-swan-australia-albertons.html)
 
 > This wine is a pretty standard Merlot. Fruity with berry notes and a slightly mapley finish. A few notes of figs and raisins are noticeable after a few sips. This is a pretty decent merlot. I would buy it again.
-> 
+>
 > I give this wine 4 out of 5 stars.
 
 _Reviewed by The Gourmez on 11.25.09._

@@ -1,13 +1,13 @@
 ---
 title: "Cozymeal’s German Currywurst Dinner"
 date: "2014-06-12"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "events"
   - "food-product-review"
   - "product-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bay-area"
   - "cozymeal"
   - "currywurst"
@@ -34,7 +34,13 @@ Situated right near the top of the Vallejo Steps, the home was full of art paint
 
 A nearby garden had frequent feathered visitors, and my hosts said the legendary Telegraph parrots often appear as well.
 
-\[caption id="attachment\_8328" align="aligncenter" width="275"\][![A peek at the neighboring yards.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_005.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_005/) A peek at the neighboring yards.\[/caption\]
+
+
+
+<div class="caption">
+
+[![A peek at the neighboring yards.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_005.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_005/) A peek at the neighboring yards.</div>
+
 
 The table was set for a German feast that would consist of currywurst, potato salad, and a green salad.
 
@@ -42,7 +48,13 @@ The table was set for a German feast that would consist of currywurst, potato sa
 
 It was the makings of a comfy and stimulating night out, and it was all courtesy of [Cozymeal](https://www.cozymeal.com/). As mentioned in [my previous post on this new dining company](http://www.thegourmez.com/2014/05/bay-area-foodie-news/), Cozymeal matches up patrons with both professional and home chefs who open their homes for intimate—and affordable!—dinner party settings.
 
-\[caption id="attachment\_8326" align="aligncenter" width="333"\][![ur dinner group, L to R: Marcia; her friend, Daniel Detorie; Samad Nassarian, co-founder of Cozymeal; Arnie, co-founder of Cozymeal; and Kristie, Arnie’s girlfriend and the artist.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_002.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_002/) _Our dinner group, L to R:_ Marcia; her friend, Daniel Detorie; Samad Nassarian, co-founder of Cozymeal; Arnie, co-founder of Cozymeal; and Kristie, Arnie’s girlfriend and the artist.\[/caption\]
+
+
+
+<div class="caption">
+
+[![ur dinner group, L to R: Marcia; her friend, Daniel Detorie; Samad Nassarian, co-founder of Cozymeal; Arnie, co-founder of Cozymeal; and Kristie, Arnie’s girlfriend and the artist.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_002.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_002/) _Our dinner group, L to R:_ Marcia; her friend, Daniel Detorie; Samad Nassarian, co-founder of Cozymeal; Arnie, co-founder of Cozymeal; and Kristie, Arnie’s girlfriend and the artist.</div>
+
 
 That evening, Cozymeal co-founder Arnie had us out to try the experience and share it with you. Arnie’s German feast is only one of many menus Cozymeal offers, but if my Facebook feed after posting pictures is any indication, there is definitely a clamoring for currywurst. Arnie and Kristie were gregarious hosts, keeping us entertained with stories and plying us with mimosas upon entering.
 
@@ -50,17 +62,35 @@ That evening, Cozymeal co-founder Arnie had us out to try the experience and sha
 
 Normally Cozymeal dinners are BYOB, but with two imbibing food writers on hand, Arnie and Samad knew what to do.
 
-\[caption id="attachment\_8336" align="aligncenter" width="429"\][![Henninger, a German ale.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_014.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_014/) Henninger, a German ale.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Henninger, a German ale.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_014.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_014/) Henninger, a German ale.</div>
+
 
 To serve the sausages as fresh as possible, Arnie set out to the grill as soon as we’d arrived. With all the greeting, hosting, and mimosas, dinner wasn’t quite served until an hour later, but that’s all part of eating in someone else’s home. It’s a relaxed experience—don’t come expecting to be waited on hand and foot or to have the meal ready precisely when you ring the bell. Come expecting to actually hear your friends and to avoid the pressure to leave your table as soon as you’ve finished eating.
 
 Once those sausages were cooked, we discovered Arnie had made three platters of currywurst: one of fresh pork sausage, one of beef bratwurst, and one of Italian-style vegetarian sausage.
 
-\[caption id="attachment\_8332" align="aligncenter" width="500"\][![Round #1, the frische bratwurst.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_009.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_009/) Round #1, the frische bratwurst.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Round #1, the frische bratwurst.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_009.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_009/) Round #1, the frische bratwurst.</div>
+
 
 The currywurst had a great kick to it, making sure you knew it wasn’t any ordinary tomato sauce.
 
-\[caption id="attachment\_8335" align="aligncenter" width="500"\][![ Round #2, the beef bratwurst, upfront and Round #3, the vegetarian, in back.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_013.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_013/) Round #2, the beef bratwurst, upfront and Round #3, the vegetarian, in back.\[/caption\]
+
+
+
+<div class="caption">
+
+[![ Round #2, the beef bratwurst, upfront and Round #3, the vegetarian, in back.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_013.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_013/) Round #2, the beef bratwurst, upfront and Round #3, the vegetarian, in back.</div>
+
 
 The shaved and fried onions made a great textural companion to the heavy sauce and savory meat.
 
@@ -76,11 +106,23 @@ The potatoes were cooked just right, leaving enough firmness to make them intere
 
 Kristie also surprised us with freshly baked chocolate cookies. She and Arnie effortlessly circled each other all night, making sure our plates were always full and showing off impressive saran-wrap skills before sending us home with leftovers.
 
-\[caption id="attachment\_8331" align="aligncenter" width="333"\][![Kristie regaling us with a story about her teenage daughter.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_008.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_008/) Kristie regaling us with a story about her teenage daughter.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Kristie regaling us with a story about her teenage daughter.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_008.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_008/) Kristie regaling us with a story about her teenage daughter.</div>
+
 
 Between the delicious German spread and conversation fostered by the inclusive atmosphere of a welcoming home, I had a very pleasant evening.
 
-\[caption id="attachment\_8337" align="aligncenter" width="333"\][![And look at that exit view!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_015.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_015/) And look at that view on exit!\[/caption\]
+
+
+
+<div class="caption">
+
+[![And look at that exit view!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Cozymeal_015.jpg)](http://www.thegourmez.com/2014/06/cozymeals_german_currywurst_dinner/cozymeal_015/) And look at that view on exit!</div>
+
 
 Most of all, though, I’m amazed by how affordable this dining experience is. You won’t get it as cheap as I did (insert obligatory FREE! disclosure), but Arnie’s dinners only cost $15. And you’ll find that most of Cozymeal’s menus are far more affordable than you’d expect for this sort of personal service.
 

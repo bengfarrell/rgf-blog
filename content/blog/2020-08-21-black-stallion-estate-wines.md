@@ -23,11 +23,23 @@ Buying wine is a great way to support wine country after a disaster like these f
 
 [![black stallion, wine, winery, estate winery, cab, cabernet, cabernet sauvigion, wine tasting tasting notes, review, chardonnay](https://thegourmez-wpmedia.s3.amazonaws.com/2020/08/Black-Stallion-002-411x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/08/Black-Stallion-002.jpg)There was a fun gift included with my shipment from Black Stallion: a jigsaw puzzle! Right before it arrived, I’d just completed my first puzzle in a very long time, one made of flowers and friends that my husband had produced for my 40th birthday in May.
 
-\[caption id="attachment\_28991" align="aligncenter" width="500"\][![rebecca gomez farrell, birthday, puzzle, flowers](https://thegourmez-wpmedia.s3.amazonaws.com/2020/08/birthday-puzzle-500x375.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/08/birthday-puzzle.jpg) Look how cute they all are!\[/caption\]
+
+
+
+<div class="caption">
+
+[![rebecca gomez farrell, birthday, puzzle, flowers](https://thegourmez-wpmedia.s3.amazonaws.com/2020/08/birthday-puzzle-500x375.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/08/birthday-puzzle.jpg) Look how cute they all are!</div>
+
 
 _Pro-tip:_ Puzzles are an excellent way to spend your time when cooped up in the house. As we’re now in the midst of a heat wave, smoke, and the pandemic in the Bay Area, cooped up is my current state of existence so this was a welcome distraction. The puzzle from Black Stallion was double-sided, with an image from the entrance to the Black Stallion Winery on one side and a map of the wine regions and vineyards near Napa Valley on the other.
 
-\[caption id="attachment\_28981" align="aligncenter" width="500"\][![black stallion estate winery, puzzle](https://thegourmez-wpmedia.s3.amazonaws.com/2020/08/Black-Stallion-001-500x375.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/08/Black-Stallion-001.jpg) First night’s fruit.\[/caption\]
+
+
+
+<div class="caption">
+
+[![black stallion estate winery, puzzle](https://thegourmez-wpmedia.s3.amazonaws.com/2020/08/Black-Stallion-001-500x375.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/08/Black-Stallion-001.jpg) First night’s fruit.</div>
+
 
 That puzzle was NOT EASY. There is so much sky in that image, let me tell you. But what better excuse could I have to dig into my two bottles of Black Stallion wine to keep me company while puzzling? The first one I tried was the **Black Stallion 2017 Gaspar Estate Vineyard Cabernet Sauvignon**. This wine’s suggested retail price is $75, and it’s 100% cabernet sauvignon grapes coming from a single vineyard in the Oak Knoll district of the Napa Valley.
 

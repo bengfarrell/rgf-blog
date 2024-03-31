@@ -1,13 +1,13 @@
 ---
 title: "Fall Menu at the Fairview Dining Room (and a glimpse into the presidential suite!)"
 date: "2012-10-08"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "events"
   - "restaurants"
   - "durham-north-carolina-travel"
   - "travel-product-review"
-tags: 
+tags:
   - "artic-char"
   - "cehddar-biscuits"
   - "duke-dining"
@@ -36,11 +36,23 @@ Fairview Dining Room Washington Duke Inn 3001 Cameron Blvd. Duke Campus, Durham 
 
 As you may recall, I was invited to try [the spring menu](http://www.thegourmez.com/2012/04/spring-menu-at-the-fairview-dining-room-durham/) at the Fairview Dining Room last March. Last Thursday, I previewed the fall menu along with several other local food bloggers and media members at a complimentary lunch. And it was amazing. Chef Jason Cunningham’s cuisine continues to prove to me time and time again that it’s one of the best in the area.
 
-\[caption id="attachment\_4970" align="aligncenter" width="500" caption="The place setting along with an apple corer gift."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu01.jpg "fairviewfallmenu01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu01.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu01.jpg "fairviewfallmenu01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu01.jpg)</div>
+
 
 This event not only showed off his fall menu but also highlighted the new, more casual feel for the Fairview Dining Room itself. Noticing the trend toward gourmet eating without the gourmet pretension, the Fairview has dialed down the dress requirements and done away with white tablecloths. They’ve added some new curved booths and televisions that are masked as mirrors unless a Duke game is underway.
 
-\[caption id="attachment\_4973" align="aligncenter" width="500" caption="Our group."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu04.jpg "fairviewfallmenu04")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu04.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu04.jpg "fairviewfallmenu04")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu04.jpg)</div>
+
 
 You can see those mirrors along the wall in that picture. Other decorations include Wedgewood decorative plates depicting scenes from Duke, cherry finishes on the tables and chairs, and a new presidential terrace event space with a fireplace. I’m not sure that the Fairview Dining Room atmosphere felt much different to me on this visit, but I definitely appreciate leaving off the white tablecloths. I always find them so unimaginative. Color is essential!
 
@@ -86,19 +98,61 @@ It was the warm sweet potato cake with cranberry compote, maple ice cream, bourb
 
 Another fabulous meal from the Fairview Dining Room and Chef Cunningham. But we weren’t done yet! Turned out that the Washington Duke Inn also has a special promotion on, which resulted in an opportunity to take a tour of their presidential suite! Who would say no to that chance? Not I, dear reader, not I. Normally upwards of $2500 per night, the presidential suite is on a presidential sale through November in honor of the election season. The price? $2012 per night, of course!  Here are a few photos of the suite.
 
-\[caption id="attachment\_4986" align="aligncenter" width="500" caption="The living room."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu17.jpg "fairviewfallmenu17")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu17.jpg)\[/caption\]
 
-\[caption id="attachment\_4981" align="aligncenter" width="500" caption="The balcony."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu12.jpg "fairviewfallmenu12")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu12.jpg)\[/caption\]
 
-\[caption id="attachment\_4982" align="aligncenter" width="500" caption="View of the golf course from the balcony."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu13.jpg "fairviewfallmenu13")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu13.jpg)\[/caption\]
 
-\[caption id="attachment\_4983" align="aligncenter" width="500" caption="The dining room."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu14.jpg "fairviewfallmenu14")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu14.jpg)\[/caption\]
+<div class="caption">
 
-\[caption id="attachment\_4984" align="aligncenter" width="333" caption="The kitchen."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu15.jpg "fairviewfallmenu15")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu15.jpg)\[/caption\]
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu17.jpg "fairviewfallmenu17")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu17.jpg)</div>
 
-\[caption id="attachment\_4985" align="aligncenter" width="500" caption="Bar area and entry hall."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu16.jpg "fairviewfallmenu16")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu16.jpg)\[/caption\]
 
-\[caption id="attachment\_4987" align="aligncenter" width="500" caption="The bedroom."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu18.jpg "fairviewfallmenu18")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu18.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu12.jpg "fairviewfallmenu12")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu12.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu13.jpg "fairviewfallmenu13")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu13.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu14.jpg "fairviewfallmenu14")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu14.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu15.jpg "fairviewfallmenu15")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu15.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu16.jpg "fairviewfallmenu16")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu16.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu18.jpg "fairviewfallmenu18")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/fairviewfallmenu18.jpg)</div>
+
 
 If that’s your style, then this is the time to take them up on the sale. Also, it’s time we get to know each other a little better, hint hint. A girl can’t live on complimentary media lunches alone! Just don’t tell my husband.
 

@@ -1,10 +1,10 @@
 ---
 title: "Placido Chianti 2008"
 date: "2010-10-27"
-categories: 
+categories:
   - "chianti"
   - "red-wine-review"
-tags: 
+tags:
   - "2008"
   - "apple"
   - "blackberry"
@@ -22,7 +22,13 @@ Placido Chianti 2008 Tuscany, Italy
 
 This chianti tastes pungent, and not in a good way. Unripened blackberries, nectarines, apples, mild chocolate, and herbs---dried thyme, mostly---are the notes I taste. Those don’t make for a great combination. I’m not spitting it out, but it’s not really worth drinking, either.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)</div>
+
 
 Other Bloggers’ Thoughts:
 

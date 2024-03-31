@@ -1,10 +1,10 @@
 ---
 title: "Mac &amp; Cheese Night #5: American Grilled Cheese Kitchen"
 date: "2014-10-30"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "restaurants"
-tags: 
+tags:
   - "apple"
   - "bay-area"
   - "breakfast"
@@ -46,9 +46,21 @@ My lemon-thyme soda hit the spot. The thyme wasn’t any bit player; it was a re
 
 And both Husband and Friend #1 were not in mac & cheese moods, opting instead for the club turkey and cubano, respectively.
 
-\[caption id="attachment\_8938" align="aligncenter" width="500"\][![Club with cheddar, havarti, smoked turkey, roasted tomatoes, bacon, stout mustard, and arugula on sourdough.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/10/American_Grilled_Cheese_005-500x332.jpg)](http://www.thegourmez.com/2014/10/mac-cheese-night-5-american-grilled-cheese-kitchen/american_grilled_cheese_005/) Club with cheddar, havarti, smoked turkey, roasted tomatoes, bacon, stout mustard, and arugula on sourdough.\[/caption\]
 
-\[caption id="attachment\_8941" align="aligncenter" width="500"\][![Cubano with monterey and garlic-herb jack cheeses, coffee-rubbed pulled pork, ham, stout mustard, pickles, pickled red onions, and chipotle butter on levain bread.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/10/American_Grilled_Cheese_008-500x312.jpg)](http://www.thegourmez.com/2014/10/mac-cheese-night-5-american-grilled-cheese-kitchen/american_grilled_cheese_008/) Cubano with monterey and garlic-herb jack cheeses, coffee-rubbed pulled pork, ham, stout mustard, pickles, pickled red onions, and chipotle butter on levain bread.\[/caption\]
+
+
+<div class="caption">
+
+[![Club with cheddar, havarti, smoked turkey, roasted tomatoes, bacon, stout mustard, and arugula on sourdough.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/10/American_Grilled_Cheese_005-500x332.jpg)](http://www.thegourmez.com/2014/10/mac-cheese-night-5-american-grilled-cheese-kitchen/american_grilled_cheese_005/) Club with cheddar, havarti, smoked turkey, roasted tomatoes, bacon, stout mustard, and arugula on sourdough.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Cubano with monterey and garlic-herb jack cheeses, coffee-rubbed pulled pork, ham, stout mustard, pickles, pickled red onions, and chipotle butter on levain bread.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/10/American_Grilled_Cheese_008-500x312.jpg)](http://www.thegourmez.com/2014/10/mac-cheese-night-5-american-grilled-cheese-kitchen/american_grilled_cheese_008/) Cubano with monterey and garlic-herb jack cheeses, coffee-rubbed pulled pork, ham, stout mustard, pickles, pickled red onions, and chipotle butter on levain bread.</div>
+
 
 It’s cute that all the sandwiches come with an apple, but I’m pretty sure we ate ours out of a sense of duty rather than any real interest. Cut those apples into wedges, and it would have been a different story. Both gentlemen thought their sandwiches were quite good, without dipping into superlatives.
 

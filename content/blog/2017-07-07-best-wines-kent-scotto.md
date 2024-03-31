@@ -1,11 +1,11 @@
 ---
 title: "Best Wines of Samples Night: Preventing Liquor Cabinet Overflow Since 2017!"
 date: "2017-07-07"
-categories: 
+categories:
   - "white-wine-blends"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "cabernet-franc"
   - "family-cellars"
   - "great-wines"
@@ -34,7 +34,13 @@ I spent two hours swirling, sipping, and spitting my way through 16 wines of var
 
 The BDX Collection highlights Kent’s Bordeaux grapes planted at Ghielmetti Vineyards in Livermore.
 
-\[caption id="attachment\_26691" align="aligncenter" width="500"\][![Livermore Wine Country Steven Kent Mirassou](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/WBC16-Livermore-008-500x363.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/WBC16-Livermore-008.jpg) Steven Kent tasting someone else's wine at Ghielmetti last summer.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Livermore Wine Country Steven Kent Mirassou](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/WBC16-Livermore-008-500x363.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/WBC16-Livermore-008.jpg) Steven Kent tasting someone else's wine at Ghielmetti last summer.</div>
+
 
 I gave this cabernet franc near perfect marks, though it differed markedly from many cab francs I’ve tried, veering away from the intense floral and dusty nose I’ve come to expect. Rather, the herbal qualities of the grape came to the forefront. As always, there were plenty of layers. It offered a piquant nose of herbal salve, aloe vera and eucalyptus. Also found? Deep, delightful raspberry and black cherry gumdrop notes with a hint of anise and a leathery finish. [The Steven Kent 2014 BDX Collection Cabernet Franc](http://www.stevenkent.com/acquire/membership-opportunities/) is available first to members of the Steven Kent Winery wine clubs. $48. Rating: 4.5/5
 

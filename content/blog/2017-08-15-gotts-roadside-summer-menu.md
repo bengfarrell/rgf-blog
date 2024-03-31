@@ -1,10 +1,10 @@
 ---
 title: "Gott’s Roadside Summer Menu"
 date: "2017-08-15"
-categories: 
+categories:
   - "dining-in-palo-alto"
   - "restaurants"
-tags: 
+tags:
   - "barbecue-pork"
   - "bay-area"
   - "bbq"
@@ -31,7 +31,13 @@ _Obligatory disclaimer:_ The food I’m about to review from Gott’s Roadside s
 
 I love when restaurants add new menu items to celebrate a change in seasons. I love it even more when they invite me out to taste them. You might think mid-August a little late to write up a summer menu, but this is the Bay Area, folks. Fogust will be giving way to our true summer in just a few weeks.
 
-\[caption id="attachment\_27881" align="aligncenter" width="500"\][![Gott's Roadside Palo Alto](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/Gotts-Roadside-14-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/Gotts-Roadside-14.jpg) A little Fogust grey surrounding Gott’s Roadside in Palo Alto.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Gott's Roadside Palo Alto](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/Gotts-Roadside-14-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/Gotts-Roadside-14.jpg) A little Fogust grey surrounding Gott’s Roadside in Palo Alto.</div>
+
 
 [Gott’s Roadside](https://www.gotts.com/) is a Northern Californian barbecue and burger chain that evokes a picnic atmosphere, likely based on their original Napa location being essentially an old fast food shack spruced up and surrounded by picnic tables. True to its location, the Palo Alto restaurant in the Town and Country village is more glamorous with booths and plenty of indoor seating--
 
@@ -41,7 +47,13 @@ I love when restaurants add new menu items to celebrate a change in seasons. I l
 
 For summer, Gott’s Roadside has added three menu items to their repertoire, pulling inspiration from traditional Mexican treats and North Carolinian barbecue. I’m going to start with my favorite, because I’m always happy to talk about _elote_ – street corn. This newly trendy item has a long tradition of being sold in food carts in California.
 
-\[caption id="attachment\_27884" align="aligncenter" width="500"\][![elote san francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/elote-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/elote.jpg) My first elote purchase soon after moving back to CA in 2013.\[/caption\]
+
+
+
+<div class="caption">
+
+[![elote san francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/elote-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/elote.jpg) My first elote purchase soon after moving back to CA in 2013.</div>
+
 
 Its history in Mexico undoubtedly goes much farther back. Luckily, Gott’s Roadside rendition is faithful to the original. These corn cobs are grilled—the husk shows the tell-tale char—then dipped in Gott’s crema equivalent and rolled in cotija cheese and an ancho chile spice rub.
 

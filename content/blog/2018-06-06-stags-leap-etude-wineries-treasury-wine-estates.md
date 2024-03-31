@@ -1,7 +1,7 @@
 ---
 title: "Stags' Leap and Etude Wineries: Two Treasury Wine Estate Jewels"
 date: "2018-06-06"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "brandy"
   - "chardonnay"
@@ -15,7 +15,7 @@ categories:
   - "white-wine-reviews"
   - "wine"
   - "wine-bloggers-conference-2017"
-tags: 
+tags:
   - "etude-winery"
   - "excursion"
   - "napa-valley"
@@ -25,11 +25,23 @@ tags:
   - "wine-bloggers-conference-2017"
 ---
 
-\[caption id="attachment\_28149" align="aligncenter" width="500"\][![Stags' Leap Winery, Treasury Wine Estates, Wine Bloggers Conference](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_024-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_024.jpg) View from Stags' Leap Winery.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Stags' Leap Winery, Treasury Wine Estates, Wine Bloggers Conference](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_024-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_024.jpg) View from Stags' Leap Winery.</div>
+
 
 On a pre-excursion to the 2017 Wine Bloggers Conference (WBC), I had the pleasure of touring and tasting at two estate wineries in the Napa Valley. As they were part of the WBC, these experiences were steeply discounted, so consider that my _obligatory disclaimer_ prior to diving in to this blog. Or driving in, as the case may be. Tamara Stanfill and Robert Ord from [Treasury Wine Estates](https://www.tweglobal.com/) (TWE), which owns both wineries, were our hosts for the adventure, and they served us up tastes from another TWE property, the historic [Chateau St. Jean](https://www.chateaustjean.com/en/) in Sonoma Valley, during our bus ride.
 
-\[caption id="attachment\_28166" align="aligncenter" width="500"\][![Stags' Leap Winery, Treasury Wine Estates, Wine Bloggers Conference](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/twe-01-500x375.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/twe-01.jpg) Bloggers bussing to Stags' Leap! Photo via Tamara Stanfill.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Stags' Leap Winery, Treasury Wine Estates, Wine Bloggers Conference](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/twe-01-500x375.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/twe-01.jpg) Bloggers bussing to Stags' Leap! Photo via Tamara Stanfill.</div>
+
 
 You can read about the cheese and wine pairing tasting at Chateau St. Jean in [my previous post here](http://thegourmez.com/2018/01/28/cheese-and-wine-pairings-at-chateau-st-jean/). Suffice it to say that the **2014 Chateau St. Jean Chardonnay (4.5/5)** blew me away on both occasions with its savory notes and spritely acidity of lime and pomelo.
 
@@ -41,11 +53,23 @@ You can read about the cheese and wine pairing tasting at Chateau St. Jean in [m
 
 It is worth it to make that appointment merely to see the manor house that has served as a family home, a resort, and a retreat for naval families. Perhaps most enticingly, it hosted a speakeasy during Prohibition with the bar located below a trapdoor in a U.S. Post Office outpost.
 
-\[caption id="attachment\_28154" align="aligncenter" width="334"\][![Stags' Leap Winery, Treasury Wine Estates, Wine Bloggers Conference](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_041-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_041.jpg) The former post office window.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Stags' Leap Winery, Treasury Wine Estates, Wine Bloggers Conference](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_041-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_041.jpg) The former post office window.</div>
+
 
 The grounds and view from the manor house are lovely, and so are the wines that Christophe Paubert, a native of France, has been producing since 2009.
 
-\[caption id="attachment\_28151" align="aligncenter" width="399"\][![Stags' Leap Winery, Christophe Paubert](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_031-399x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_031.jpg) Christophe Paubert\[/caption\]
+
+
+
+<div class="caption">
+
+[![Stags' Leap Winery, Christophe Paubert](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_031-399x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_031.jpg) Christophe Paubert</div>
+
 
 Paubert led us through five of them, though we started a little earlier on the patio with a sixth, the **2016 Stags' Leap Winery Napa Valley Viognier (4/5)**.
 
@@ -65,7 +89,13 @@ Winemaker Jon Priest gave us a quick tour of Etude's barn cellar then led us int
 
 [![Etude winery, treasury wine estates, wine bloggers conference](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_062-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_062.jpg)…along with another tasting flight, of course! Priest told us all about Etude's wines as we ate and contemplated the pairings. "I don't have dogma until it comes to pinot noir," Priest shared, taking us through four of Etude's pinot noir offerings.
 
-\[caption id="attachment\_28159" align="aligncenter" width="335"\][![Etude winery, treasury wine estates, wine bloggers conference, jon priest](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_058-335x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_058.jpg) Jon Priest in Etude's barn.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Etude winery, treasury wine estates, wine bloggers conference, jon priest](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_058-335x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_058.jpg) Jon Priest in Etude's barn.</div>
+
 
 Pinot noir is the winery's specialty, whether featured in estate wines from Grace Benoist Ranch or in their AVA series, which explores pinot noir from other regions of California. The best pairing came from that AVA series, which combined this delicious entrée of smoked duck breast, shelling beans, peppers, and demi-glace—
 
@@ -81,7 +111,13 @@ The highlight of the Etude portion of our excursion, however, was getting to try
 
 As always, this WBC pre-excursion was a highlight of last year's conference. It's impossible to get such bang for your buck elsewhere, and that's because of the great sponsors that the WBC manages to pull in, such at the Treasury Wine Estates.
 
-\[caption id="attachment\_28157" align="aligncenter" width="500"\][![Stags' Leap winery, treasury wine estates, robert ord](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_049-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_049.jpg) Robert Ord, TWE's Prestige Manager, posing for me outside of Stags' Leap\[/caption\]
+
+
+
+<div class="caption">
+
+[![Stags' Leap winery, treasury wine estates, robert ord](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_049-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/2017_WBC_049.jpg) Robert Ord, TWE's Prestige Manager, posing for me outside of Stags' Leap</div>
+
 
 The experience is one I'll always remember, as it was only my second time tasting wine in the Napa Valley. I'm quite confident that sticking with the Treasury Wine Estates' portfolio for future visits won't lead me astray. How could it with views like this?
 

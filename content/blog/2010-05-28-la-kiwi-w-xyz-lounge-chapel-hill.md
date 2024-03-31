@@ -1,10 +1,10 @@
 ---
 title: "LA Kiwi @ W XYZ Lounge (Chapel Hill)"
 date: "2010-05-28"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-chapel-hill-nc"
-tags: 
+tags:
   - "aloft-hotel"
   - "cachaca"
   - "caipirinha"
@@ -28,7 +28,13 @@ Back to the drinks. My first drink was the LA Kiwi, which is very similar to a c
 
 The cachaça taste came through nicely, and the lime was surprisingly strong, by which I mean it was at the right level. A lot of places pull back on strong lime in a drink, because a lot of our palates aren't used to it. W XYZ's bartender did well with it. The kiwi pulp and juice made for a pretty drink, though I think I might have liked a little more kiwi flavor, ultimately.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 I've also got pictures of my friend's drinks, with their brief thoughts on them.
 

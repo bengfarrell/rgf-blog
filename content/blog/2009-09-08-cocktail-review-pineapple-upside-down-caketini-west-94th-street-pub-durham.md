@@ -1,10 +1,10 @@
 ---
 title: "Cocktail Review--Pineapple Upside-Down Caketini, West 94th Street Pub, Durham"
 date: "2009-09-08"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "durham-cocktails"
   - "pineapple-cocktails"
   - "pineapple-upside-down-cake"
@@ -22,6 +22,12 @@ This cantaloupe-colored martini is made with Stoli vanilla vodka, Malibu rum, pi
 
 Sometimes, there is truth in advertising.
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+
 
 _Reviewed 8.15.09._

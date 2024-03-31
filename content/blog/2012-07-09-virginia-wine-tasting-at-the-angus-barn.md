@@ -1,14 +1,14 @@
 ---
 title: "Virginia Wine Tasting at the Angus Barn"
 date: "2012-07-09"
-categories: 
+categories:
   - "cider"
   - "raleigh-restaurant-reviews"
   - "events"
   - "nebbiolo"
   - "other-red-blends"
   - "petit-verdot"
-tags: 
+tags:
   - "angus-barn"
   - "arturo-ciompi"
   - "barbara-ensrud"
@@ -44,7 +44,13 @@ About two weeks ago, I was invited out with other food and drink industry types 
 
 [The Angus Barn](http://www.angusbarn.com/index.htm) is one of the most popular restaurants in the area for the steakhouse crowd and the established Triangle politicos. This event was hosted by Barbara Ensrud, a well-known wine writer for her website [Be Wine Wise](http://www.bewinewise.com/) and her long, acclaimed career in the field.
 
-\[caption id="attachment\_4585" align="aligncenter" width="333"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting05.jpg "VAwinetasting05")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting05.jpg) Barbara getting the event off to a good start.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting05.jpg "VAwinetasting05")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting05.jpg) Barbara getting the event off to a good start.</div>
+
 
 It was a cozy setup with mostly winemakers and winery owners doing the pours. They were stationed in a small room at the back of the empty restaurant.
 
@@ -60,7 +66,13 @@ A few of the wines stood out for my palette, which of course, may bear no resemb
 
 At [Barboursville](http://www.barboursvillewine.net/winery/)’s table, the nebbiolo stood out to me, a wine varietal not often grown outside of Italy.  It is very dry and has an interesting flavor profile, likely because I’m unfamiliar with it. The [White Hall](http://www.whitehallvineyards.com/) Soliterre also drew my attention with its strong notes of apple, and the [Rosemont](http://rosemontofvirginia.com/) Kilravock impressed me with its blend of bordeaux varietals. The merlot in it smoothes out the rough edges of the rest of the wines in the blend, and there’s a pleasant blueberry juiciness to it.
 
-\[caption id="attachment\_4586" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting06.jpg "VAwinetasting06")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting06.jpg) Rosemont’s wares.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting06.jpg "VAwinetasting06")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting06.jpg) Rosemont’s wares.</div>
+
 
 [Ingleside’s](http://www.inglesidevineyards.com/) Petit Verdot 2007 drew my attention for being a petit grape that does not taste too bright for its own good. Michael Shaps had a couple of great options, too, most notably his Meritage, a blend of petit verdot, merlot, and cabernet franc that I found smoky, leathery, and alluring. He also sampled Virginia Wineworks’ wines in a box, talking up the quality of this newer generation of boxed wines. I thought the cabernet franc was simple, fruity, and refreshing. It would be easy to lose your troubles in it.
 

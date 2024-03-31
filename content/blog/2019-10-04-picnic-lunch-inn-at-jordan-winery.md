@@ -37,11 +37,23 @@ In August, I was delighted to accept an invitation to try one of those activitie
 
 [![Jordan Winery, picnic lunch, winery chateau, wine country, wine travel, butler's pantry](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-055-361x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-055.jpg) [![Jordan Winery, picnic lunch, winery chateau, wine country, wine travel, mason jars, summer salads](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-062-356x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-062.jpg)Such gorgeous colors and tastes of summer were captured within those jars. There was, of course, charcuterie, olives, cheese (including a luxurious burrata with balsamic vinegar), bread, and pork and salmon rilettes for more meat. But a quartet of amazing salads starred, which very much pleased this lover of produce. For the pickled carrots, farro, and roasted beet option, an orange thyme dressing enlivened each bite.
 
-\[caption id="attachment\_28881" align="aligncenter" width="375"\][![Jordan Winery, picnic lunch, winery chateau, wine country, wine travel, roasted beets, farro, pickled carrot](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-086-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-086.jpg) The carrot salad.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Jordan Winery, picnic lunch, winery chateau, wine country, wine travel, roasted beets, farro, pickled carrot](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-086-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-086.jpg) The carrot salad.</div>
+
 
 In another salad, I learned that cantaloupe and tomato make for an unexpected but amazing complement. It balanced sweetness and acidity in a new way for my taste buds to appreciate. Each jar opened or bite of cheese provided a succulent surprise.
 
-\[caption id="attachment\_28884" align="aligncenter" width="375"\][![Jordan Winery, picnic lunch, winery chateau, wine country, wine travel](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-092-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-092.jpg) Yes, I'll take . . . everything.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Jordan Winery, picnic lunch, winery chateau, wine country, wine travel](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-092-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-092.jpg) Yes, I'll take . . . everything.</div>
+
 
 I was glad I saved a taste of the champagne for dessert, as its creamy finish worked so well for that course.
 
@@ -61,11 +73,23 @@ Spending the night in a Chateau suite the prior evening only added to the experi
 
 Thank you, Jordan Winery, for hosting me and my husband for this overnight wine country escape.
 
-\[caption id="attachment\_28885" align="aligncenter" width="422"\][![Jordan Winery, breakfast, winery chateau, inn, guest room, wine country, wine travel](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-085-422x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-085.jpg) Including this great breakfast tray!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Jordan Winery, breakfast, winery chateau, inn, guest room, wine country, wine travel](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-085-422x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-085.jpg) Including this great breakfast tray!</div>
+
 
 The Jordan Winery picnic lunch will return in the spring. In the meantime, they offer tours, tastings, and a cabernet and charcuterie tasting with views of the new Chateau Block through the end of October. To RSVP or for more info, [head here](https://www.jordanwinery.com/visit/tours-and-tastings/chateau-block-outdoor-wine-tasting).
 
-\[caption id="attachment\_28869" align="aligncenter" width="500"\][![Jordan Winery, picnic lunch, winery chateau, wine country, wine travel](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-037-500x160.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-037.jpg) You can see  one block of grapevines off to the right of this photograph of the estate's lawns.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Jordan Winery, picnic lunch, winery chateau, wine country, wine travel](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-037-500x160.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/10/Jordan-Winery-Picnic-037.jpg) You can see  one block of grapevines off to the right of this photograph of the estate's lawns.</div>
+
 
 Guest rooms at the Winery Chateau are available throughout the year for members of Jordan's [loyalty reward program](https://www.jordanwinery.com/rewards/join), which is free to join.
 

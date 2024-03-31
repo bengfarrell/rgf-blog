@@ -1,10 +1,10 @@
 ---
 title: "Market Restaurant *RELOCATED*"
 date: "2010-12-17"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "apple-iced-tea"
   - "celery-root"
   - "chef-chad"
@@ -23,7 +23,13 @@ tags:
 
 Market is a newer restaurant on the Raleigh food scene. They focus on using all natural products and on sustainability in all areas, from where they get their ingredients to how they run the restaurant. They’ve been getting a lot of buzz in recent months, and since I happened to be right next door at [Escazu,](http://www.thegourmez.com/?p=1975)
 
-\[caption id="attachment\_1982" align="aligncenter" width="400"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/12/escazu012.jpg "escazu012")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/12/escazu012.jpg) Market's the red building on the left\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/12/escazu012.jpg "escazu012")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/12/escazu012.jpg) Market's the red building on the left</div>
+
 
 stopping in for lunch at Market simply had to be done. Luckily, my companion agreed! First off, I loved the restaurant’s atmosphere: very laid back, fresh, and fun. The green walls and reddish brown accents made me feel like I were in a treehouse---an awesome treehouse with a bar.
 

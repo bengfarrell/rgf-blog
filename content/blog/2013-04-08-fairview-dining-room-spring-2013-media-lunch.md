@@ -1,10 +1,10 @@
 ---
 title: "Fairview Dining Room Spring 2013 Media Lunch"
 date: "2013-04-08"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bacon-wrapped-shrimp"
   - "bavarian-cream"
   - "brown-butter"
@@ -32,11 +32,23 @@ tags:
 
 **Fairview Dining Room Spring 2013 Media Lunch**
 
-\[caption id="attachment\_6173" align="aligncenter" width="500"\][![The Fairview Dining Room's cheddar biscuits. Love that china!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/washington-duke-spring02.jpg)](http://www.thegourmez.com/2013/04/fairview-dining-room-spring-2013-media-lunch/washington-duke-spring02/) The Fairview Dining Room's cheddar biscuits. Love that china!\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Fairview Dining Room's cheddar biscuits. Love that china!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/washington-duke-spring02.jpg)](http://www.thegourmez.com/2013/04/fairview-dining-room-spring-2013-media-lunch/washington-duke-spring02/) The Fairview Dining Room's cheddar biscuits. Love that china!</div>
+
 
 Another spring, another media lunch preview of the new menus at the Washington Duke Inn! This was the third time I'd been invited, and getting these views into Chef Jason Cunningham's dishes is always quite fun and delicious. In addition to a free lunch, we were gifted with whisks from [Best Manufacturers](http://www.bestmfrs.com/13301/index.html), who are apparently the only company that makes whisks in America.
 
-\[caption id="attachment\_6174" align="aligncenter" width="333"\][![Whisk with the place settings.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/washington-duke-spring01.jpg)](http://www.thegourmez.com/2013/04/fairview-dining-room-spring-2013-media-lunch/washington-duke-spring01/) Whisk with the place settings.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Whisk with the place settings.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/washington-duke-spring01.jpg)](http://www.thegourmez.com/2013/04/fairview-dining-room-spring-2013-media-lunch/washington-duke-spring01/) Whisk with the place settings.</div>
+
 
 Who knew I'd learn that little detail this afternoon? Not me, but I was certain a good meal was in store. Let's dig in!
 

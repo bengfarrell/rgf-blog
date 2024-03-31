@@ -1,10 +1,10 @@
 ---
 title: "Babymoon Cafe, Morrisville"
 date: "2010-05-07"
-categories: 
+categories:
   - "morrisville-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "babymoon-cafe"
   - "chicken-mulberry"
   - "custard"
@@ -56,6 +56,12 @@ Something I enjoy about going to Italian restaurants is trying their tiramisu be
 
 Babymoon is a good choice for standard Italian-American fare, but I think some of the recipes need a little bit of tweaking to take them to the next level.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Reviewed 5.4.10._

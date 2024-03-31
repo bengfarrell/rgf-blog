@@ -1,7 +1,7 @@
 ---
 title: "Lodi Wine and Chocolate Festival – February 9-10, 2019!"
 date: "2019-01-03"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "fortified-wine"
   - "garnacha"
@@ -14,7 +14,7 @@ categories:
   - "verdelho"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "festival"
   - "lodi"
   - "lodi-wine-and-chocolate"
@@ -28,15 +28,33 @@ It's 2019 already?! Farewell, 2018, and your delicious food and drink memories. 
 
 Tickets are now available to the general public for the February 9-10, 2019 festival! Yes, folks, it's already time to think about how to celebrate Valentine's Day with your romantic partner, or your friends who may be even better company. ;)
 
-\[caption id="attachment\_28409" align="aligncenter" width="500"\][![lodi chocolate and wine, lodi, wine, the gourmez, churros](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180210_152153_425-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180210_152153_425.jpg) Although he's not pictured, I swear my husband was there! He took this pic of me at Bokisch Vineyards, enjoying dipping my churros in hot chocolate.\[/caption\]
+
+
+
+<div class="caption">
+
+[![lodi chocolate and wine, lodi, wine, the gourmez, churros](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180210_152153_425-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180210_152153_425.jpg) Although he's not pictured, I swear my husband was there! He took this pic of me at Bokisch Vineyards, enjoying dipping my churros in hot chocolate.</div>
+
 
 So what do you get for $65? Two days' worth of wine tasting at over 50 participating Lodi wineries, a chocolate treat, a souvenir glass, and the chance to sample the intriguing chocolate pairings each winery comes up with.
 
-\[caption id="attachment\_28393" align="aligncenter" width="500"\][![lodi chocolate and wine, lodi, wine, cupcakes](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-009-500x332.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-009.jpg) Cupcakes for sale at St. Jorge Estate Winery.\[/caption\]
+
+
+
+<div class="caption">
+
+[![lodi chocolate and wine, lodi, wine, cupcakes](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-009-500x332.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-009.jpg) Cupcakes for sale at St. Jorge Estate Winery.</div>
+
 
 The folks behind the Lodi Wine and Chocolate Festival do a great job compiling the list of wineries, chocolate treats, and general festivities ahead of time, so you can plan your hit list of places to visit – I opted for a total of seven, probably more ambitious than I'd recommend. I've become familiar with Lodi wines and wineries [from](http://thegourmez.com/2017/12/26/visit-lodi-fora-fun-filled-day-in-the-central-valley/) [past](http://thegourmez.com/2017/10/04/visit-lodi-wines-winemakers-personality/) [visits](http://thegourmez.com/2016/09/04/most-memorable-wines-from-the-2016-wine-bloggers-conference-part-2/), so I chose to only go where I hadn't gone before. I'm a completist; I like to try everything once before making a return visit.
 
-\[caption id="attachment\_28396" align="aligncenter" width="500"\][![lodi chocolate and wine, lodi, wine, lange twins, chocolate sandwich](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-021-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-021.jpg) Brie, chocolate, and basil sandwiches at Lange Twins.\[/caption\]
+
+
+
+<div class="caption">
+
+[![lodi chocolate and wine, lodi, wine, lange twins, chocolate sandwich](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-021-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-021.jpg) Brie, chocolate, and basil sandwiches at Lange Twins.</div>
+
 
 What's offered at each winery over the festival weekend varies greatly, and it's fun to see how each one approaches the celebration differently. Some places put on a grand gathering, like [Jessie's Grove Winery](http://www.jessiesgrovewinery.com/), which hosted many booths of local vendors, musical performers, and artists, much like a trip to a farmers' market, only with the produce in the glass. I discovered [Alison's Gourmet Brittle](http://www.alisonsalmondbrittle.com/) there and went home with two bags, including the extra spicy almond brittle that was almost too spicy for me – a feat!
 
@@ -60,7 +78,13 @@ Also included in a visit to Bokisch are great views and tastes of the Spanish va
 
 [![lodi chocolate and wine, lodi, wine, linguice, grilling](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-004-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-004.jpg)Few things entice more than the smell of grilling meat, don't you think? Yet the best chocolate bite I had all weekend was the chocolate molé at [Pondl Winery](http://pondlwine.com/), made well after the chicken had been cooked.
 
-\[caption id="attachment\_28404" align="aligncenter" width="500"\][![lodi chocolate and wine, lodi, wine, pondl, purple, tasting room](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-052-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-052.jpg) The purple tasting room at Pondl.\[/caption\]
+
+
+
+<div class="caption">
+
+[![lodi chocolate and wine, lodi, wine, pondl, purple, tasting room](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-052-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-052.jpg) The purple tasting room at Pondl.</div>
+
 
 As Pondl was a smaller operation than most of the wineries I visited in Lodi, described by the owners as a "hobby that got out of hand," they only had spoonfuls of molé left by Sunday. But it was enough for the spices and richness of the sauce to stand out in my memory. As does their classy labels featuring ladies and gents meant to stand in for the qualities of their wines, whether "sexy as a pin-up gal" or "the contemptuous swag of a fella."
 
@@ -78,11 +102,23 @@ The **2014 Spenker Winery Morning Glory Table Wine,** made with muscat, surprise
 
 I'd recommend spending your Valentine's weekend in Lodi, especially if you're looking for an easy-to-plan experience. The Lodi Chocolate and Wine Festival's event guidebook is so well-organized, it makes that easy, with its list and map of all the wineries and their respective special events and chocolate offerings. I do wish the chocolate bites were more substantial across the board, more of a significant treat rather than a fleeting eat. But it was fun to try them nonetheless, and even more fun to explore Lodi gourmet food items at the wineries themselves.
 
-\[caption id="attachment\_28411" align="aligncenter" width="400"\][![lodi wine and chocolate festival, wine, lodi, abundance vineyard, dessert wine brownies](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-064-400x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-064.jpg) Brownie bites at Abundance Vineyards.\[/caption\]
+
+
+
+<div class="caption">
+
+[![lodi wine and chocolate festival, wine, lodi, abundance vineyard, dessert wine brownies](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-064-400x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-064.jpg) Brownie bites at Abundance Vineyards.</div>
+
 
 Most importantly, this weekend offers a great chance to experience the wide variety of wineries and vineyards in Lodi , from the glitzy producers like Viaggio with their glamorous facilities to the tiny family estate wineries that bring more of a small farm feel to the festivities.
 
-\[caption id="attachment\_28397" align="aligncenter" width="500"\][![lodi chocolate and wine, lodi, wine, bokisch, grapevines](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-029-500x335.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-029.jpg) The view at Bokisch.\[/caption\]
+
+
+
+<div class="caption">
+
+[![lodi chocolate and wine, lodi, wine, bokisch, grapevines](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-029-500x335.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-029.jpg) The view at Bokisch.</div>
+
 
 Whatever you choose, make sure to try the petite sirah coming out of Lodi. Writing this has made me realize I've become a fan of it, in addition to the great zinfandel and Spanish varietals with which I was already familiar.  Yet I've so much left to explore of this wine region! Luckily, it's only a day trip away from Oakland.
 

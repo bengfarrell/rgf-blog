@@ -1,10 +1,10 @@
 ---
 title: "Cityscape at the Union Square Hilton"
 date: "2016-11-15"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-san-francisco"
-tags: 
+tags:
   - "bar-bites"
   - "black-garlic"
   - "blackberry-gin"
@@ -26,11 +26,23 @@ tags:
 
 Hotels may appear off limits to pedestrians passing by, but often, they harbor secret niches the public can access if they know where to go. Such is the case at the newly opened [Cityscape,](http://www3.hilton.com/en/hotels/california/hilton-san-francisco-union-square-SFOFHHH/dining/index.html) a sleek bar at the top of San Francisco’s Union Square Hilton (333 O’Farrell Street).
 
-\[caption id="attachment\_26671" align="aligncenter" width="500"\][![Cityscape Hilton San Francisco View](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/NorthEast-Corner-Cityscape50998-3000px-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/NorthEast-Corner-Cityscape50998-3000px.jpg) Photo courtesy of Cityscape.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Cityscape Hilton San Francisco View](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/NorthEast-Corner-Cityscape50998-3000px-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/NorthEast-Corner-Cityscape50998-3000px.jpg) Photo courtesy of Cityscape.</div>
+
 
 Head into the corridor behind the Hilton’s lobby and up to the 46th floor to find the bar. Near sunset is the optimum time; no matter how good the food and cocktails are, which I’ll get to in a minute, the reason you’re coming here is the view. Unfortunately, on the evening I visited, San Francisco’s fog staked its claim, but as you can tell from these pics provided by the hotel, it’s absolutely gorgeous on clear days.
 
-\[caption id="attachment\_26657" align="aligncenter" width="500"\][![Cityscape Hilton San Francisco sunset](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-NW-Corner-3000px-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-NW-Corner-3000px.jpg) Photo courtesy of Cityscape.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Cityscape Hilton San Francisco sunset](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-NW-Corner-3000px-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-NW-Corner-3000px.jpg) Photo courtesy of Cityscape.</div>
+
 
 And to be honest, I thought the city lights coming through the fog that night were pretty cool, too.
 
@@ -56,7 +68,13 @@ We also enjoyed a couple glasses of “the Mariner” red wine blend from Dry Cr
 
 Chef Michael Vaughn, who signed on with this Hilton this past July, asked for the drink list before crafting the menu of bar bites. As the kitchen is over forty floors away, he knew that cold plates would be the focus so no quality would be sacrificed in the course of delivery.
 
-\[caption id="attachment\_26666" align="aligncenter" width="324"\][![Chef Michael Vaughn Cityscape Hilton San Francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-018-324x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-018.jpg) Chef Michael Vaughn.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Chef Michael Vaughn Cityscape Hilton San Francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-018-324x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-018.jpg) Chef Michael Vaughn.</div>
+
 
 Vaughn loves playing with how the same drink changes when paired with different foods, and he’s really passionate about the Cityscape space and the Hilton’s new Urban Tavern, what Vaughn described as a fresh take on a gastropub, focusing on healthier dishes with whimsy.
 

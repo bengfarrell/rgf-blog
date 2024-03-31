@@ -1,10 +1,10 @@
 ---
 title: "Provence (Carrboro)"
 date: "2007-04-27"
-categories: 
+categories:
   - "dining-in-carrboro-nc"
   - "restaurants"
-tags: 
+tags:
   - "carrboro"
   - "provence"
 ---
@@ -21,4 +21,10 @@ We finished with a frozen espresso kahlua souffle. It was very pretty, served in
 
 Provence's atmosphere and plate presentation were excellent but the actual plates could use some perfecting. I'd recommend it if you're looking for a change from your normal fare---just don't expect to be overly impressed.
 
-\[caption id="attachment\_55" align="alignleft" width="40"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+

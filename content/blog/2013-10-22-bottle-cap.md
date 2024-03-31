@@ -1,11 +1,11 @@
 ---
 title: "Bottle Cap"
 date: "2013-10-22"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "pisco"
   - "restaurants"
-tags: 
+tags:
   - "artichoke"
   - "cocktail"
   - "cream-sauce"
@@ -30,7 +30,13 @@ tags:
 
 Bottle Cap is whimsical on the outside, full of bright shiny colors that pulled me in right away. Inside it's just as mod-appealing -- crazy art in bold colors adorned the walls, and the blue patterned tables made me smile.
 
-\[caption id="attachment\_7481" align="aligncenter" width="500"\][![My cousin on his first meal out with me and my camera.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/bottle-cap-05.jpg)](http://www.thegourmez.com/2013/10/bottle-cap/bottle-cap-05/) My cousin on his first meal out with me and my camera.\[/caption\]
+
+
+
+<div class="caption">
+
+[![My cousin on his first meal out with me and my camera.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/bottle-cap-05.jpg)](http://www.thegourmez.com/2013/10/bottle-cap/bottle-cap-05/) My cousin on his first meal out with me and my camera.</div>
+
 
 My table for 4 with a reservation was seated promptly. The menu is New American with a focus on ingredients from Northern California. Both small plates and full entrees are options. Two of us tried cocktails from the inventive list. I opted for the Maracuya Sour, being a fan of elusive pisco drinks.
 

@@ -1,9 +1,9 @@
 ---
 title: "Triangle Trivia Hunt Update"
 date: "2010-07-13"
-categories: 
+categories:
   - "announcements"
-tags: 
+tags:
   - "bens-place-pub"
   - "big-slow-toms-trivia"
   - "buffalo-wings-and-rings"
@@ -21,7 +21,13 @@ About six months ago, [I lamented the passing](../../../../../?p=756) of Big Slo
 - [Connolly's](http://www.connollysirish.com/home.html) has a new person doing trivia who is very nice and definitely has a good time hosting. We didn't find the trivia challenging enough to keep our interest however, so we haven't gone back. I'm also not a big fan of their [drinks](../../../../../?p=255), which is an important consideration for me if water just doesn't loosen my trivial knowledge stores. Oh the curse of not being a beer drinker and insisting on creative cocktails, not just rum and cokes.
 - Team Trivia at [Buffalo Wings and Rings](http://www.buffalowingsandrings.com/locations_store.php?id=069) has been quite good, and our team's pleased with the setup.
 
-\[caption id="attachment\_1377" align="alignnone" width="312" caption="One of our members showing just how much there is to enjoy at Buffalo Wings and Rings: beer towers!"\]![One of our members showing just how much there is to enjoy at Buffallo Wings and Rings](http://s3.amazonaws.com/thegourmez-wpmedia/2010/07/stevebeer.jpg "stevebeer")\[/caption\]
+
+
+
+<div class="caption">
+
+![One of our members showing just how much there is to enjoy at Buffallo Wings and Rings](http://s3.amazonaws.com/thegourmez-wpmedia/2010/07/stevebeer.jpg "stevebeer")</div>
+
 
 It gets crowded, but I don't think we've needed a reservation as yet. Each round, you have to decide whether to assign your answers a 1, 3, or 5 (points double later) point-value, using each amount only once of course. The final question involves wagering points based on your confidence in your guess, Jeopardy-style. Personally, I don't like betting in trivia-wins should be based on your knowledge, not your strategy!-but the rest of the group enjoys the betting system. Plus, Team Trivia sponsors regional and national championships with opportunities for making good money if your team places well in the ongoing online rankings! Nice, huh?  However, I'm not a big fan of the drinks at Buffalo Wings and Rings, either, as you [may have](../../../../../?p=1367) [noticed lately](../../../../../?p=1354), so we are thinking of trying one of the other multitudes of spots where Team Trivia or Big Slow Tom's Trivia host weekly events.
 

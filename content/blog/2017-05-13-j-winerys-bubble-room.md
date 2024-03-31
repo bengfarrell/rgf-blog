@@ -1,11 +1,11 @@
 ---
 title: "J Winery’s Bubble Room"
 date: "2017-05-13"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "dining-in-healdsburg"
   - "tasting-rooms-in-healdsburg"
-tags: 
+tags:
   - "bubble-room"
   - "bubbles"
   - "bubbly"
@@ -21,7 +21,13 @@ tags:
 
 I was delighted to say yes to an invitation to check out [J Vineyards and Winery’s Bubble Room](https://www.jwine.com/Visit-Us), as my past couple of years blogging in the Bay Area has somehow resulted in remarkably few visits to wine country. **_Obligatory disclaimer:_** That means the meal and pairings I’m about to write about were absolutely free to me.
 
-\[caption id="attachment\_27651" align="aligncenter" width="384"\][![J Vineyards and Winery Bubble Room](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/J_Vineyards_01-384x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/J_Vineyards_01.jpg) But oh so pretty, no matter how free.\[/caption\]
+
+
+
+<div class="caption">
+
+[![J Vineyards and Winery Bubble Room](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/J_Vineyards_01-384x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/J_Vineyards_01.jpg) But oh so pretty, no matter how free.</div>
+
 
 Remodeled after a recent takeover by the Gallo family, the Bubble Room features the sparkling winemaking of Nicole Hitchcock and the food of Executive Chef Carl Shelton, both of whom seek to pay tribute to original owner Judy Jordan’s vision and passion for food and wine pairings.
 
@@ -113,4 +119,10 @@ All that will run you $110 per person or $95 for members. Honestly, that’s a g
 
 [![J Vineyards and Winery Bubble Room](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/J_Vineyards_54-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/J_Vineyards_54.jpg)
 
-\[caption id="attachment\_20774" align="aligncenter" width="40"\][![The Gourmez, rating, truffle, 5/5, excellent](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif) 5/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Gourmez, rating, truffle, 5/5, excellent](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif) 5/5</div>
+

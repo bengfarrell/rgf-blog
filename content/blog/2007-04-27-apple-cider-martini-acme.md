@@ -1,10 +1,10 @@
 ---
 title: "Apple Cider Martini (Acme)"
 date: "2007-04-27"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "watering-holes-in-carrboro-nc"
-tags: 
+tags:
   - "acme"
   - "apple-cider-martini"
   - "carrboro-cocktail"
@@ -16,4 +16,10 @@ This one did not live up to my expectations. I was anticipating the same level o
 
 The alcohol flavor was non-existent but overall, the drink was very smooth and the pomengrate seeds at the bottom were an inspired touch. They made the journey to drink it all worth the effort.
 
-\[caption id="attachment\_193" align="alignleft" width="40"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
+

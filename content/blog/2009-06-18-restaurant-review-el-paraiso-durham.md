@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--El Paraiso, Durham *CLOSED*"
 date: "2009-06-18"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "agua-fresca"
   - "durham-taquerias"
   - "el-paraiso"
@@ -25,6 +25,12 @@ I had a chorizo taco and a chicken sopa, both with cheese, onions, cilantro, let
 
 I liked El Paraiso but I didn't love it, except for that salsa verde, of course.  I'll probably stop in again but since I really want to find one of those taco carts or another taqueria, I won't be running back for another helping anytime soon.
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+
 
 _Reviewed 6.15.09_

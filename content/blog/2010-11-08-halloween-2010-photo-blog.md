@@ -1,10 +1,10 @@
 ---
 title: "Halloween 2010 Photo Blog"
 date: "2010-11-08"
-categories: 
+categories:
   - "events"
   - "chapel-hill-north-carolina-travel"
-tags: 
+tags:
   - "2010"
   - "alien"
   - "axl-rose"
@@ -34,21 +34,57 @@ I’ve loved those toys since the first time I heard them utter “The Claw.” 
 
 Back to Halloween 2010! Saturday night, we headed to the [West 94th Street Pub](http://www.west94stpub.com/) for costume karaoke!
 
-\[caption id="attachment\_1758" align="aligncenter" width="360"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010121.jpg "halloween201012")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010121.jpg) Of course it's the real Axl, ya'll! He's got the sways down.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010121.jpg "halloween201012")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010121.jpg) Of course it's the real Axl, ya'll! He's got the sways down.</div>
+
 
 A note here on the pictures—none of them are great due to those ongoing camera problems that recently resulted in no flash use, until it randomly worked again last Friday. That’s getting repaired tomorrow, thank god. When I saw the blurry, dark results of my photo taking, I considered not posting them at all. But after much reflection on the nature of Halloween, I decided the blur and dark lighting was rather appropriate. And once that camera gets fixed, I’ll be all out of bad-picture excuses.
 
 Here’s our crew, part zombie, part cartoon character, part uncostumed.
 
-\[caption id="attachment\_1763" align="aligncenter" width="540"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010031.jpg "halloween201003")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010031.jpg) Melissa in Medical Zombie glory.\[/caption\]
 
-\[caption id="attachment\_1762" align="aligncenter" width="360"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010041.jpg "halloween201004")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010041.jpg) Matt, the Zombie Hunter. Not hunter of zombies, for the record.\[/caption\]
 
-\[caption id="attachment\_1761" align="aligncenter" width="540"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010051.jpg "halloween201005")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010051.jpg) Rebecca as Leela from Futurama\[/caption\]
 
-\[caption id="attachment\_1745" align="aligncenter" width="360"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010011.jpg "halloween201001")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010011.jpg) Ben, claiming he was dressed as Socially Awkward\[/caption\]
+<div class="caption">
 
-\[caption id="attachment\_1754" align="aligncenter" width="540"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010261.jpg "halloween201026")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010261.jpg) Ellen, who brought a friend, too, but that picture was really, really bad.\[/caption\]
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010031.jpg "halloween201003")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010031.jpg) Melissa in Medical Zombie glory.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010041.jpg "halloween201004")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010041.jpg) Matt, the Zombie Hunter. Not hunter of zombies, for the record.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010051.jpg "halloween201005")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010051.jpg) Rebecca as Leela from Futurama</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010011.jpg "halloween201001")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010011.jpg) Ben, claiming he was dressed as Socially Awkward</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010261.jpg "halloween201026")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010261.jpg) Ellen, who brought a friend, too, but that picture was really, really bad.</div>
+
 
 A few of us joined in for costume karaoke, because how could we not?
 
@@ -70,7 +106,13 @@ Sadly none of us won the costume competition, though I personally believe Meliss
 
 For those of you that aren’t local, including my Ugandan, Franklin Street in Chapel Hill is the happening place on Halloween. You go to see what craziness can be had when college students design costumes. The downtown is cleared of traffic around 9:30 and the hordes descend. Since the town of Chapel Hill decided to try and scale down the crowds the last few years, it’s actually been a lot easier to get there, so hey, I appreciate the effort, Chapel Hill! Laura was my companion for this year’s street tour, in an adorable penguin costume.
 
-\[caption id="attachment\_1765" align="aligncenter" width="405"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010291.jpg "halloween201029")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010291.jpg) How Penguins Drink in the Wild\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010291.jpg "halloween201029")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010291.jpg) How Penguins Drink in the Wild</div>
+
 
 Laura, having been at a shindig previously in the weekend, already knew that her beak was a people magnet for grabbing or batting it countless times. We also learned that many, many people like to say the word _penguin_ as though it is a revelation. Here are a few other gross generalizations I’ve put together from our Franklin Street experience this year:
 
@@ -82,19 +124,55 @@ Laura, having been at a shindig previously in the weekend, already knew that her
 
 4.       The best costumes are group costumes that involve a bit of a sketch, also. For instance, the highlight of the evening was undoubtedly when a group of BP oilmen called out, “Penguin! Save the Penguin!” and swarmed Laura to “rescue” her from the spill. They did this over and over throughout the night to every animal-costumed person they saw.
 
-\[caption id="attachment\_1748" align="aligncenter" width="405"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010361.jpg "halloween201036")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010361.jpg) BP Men in Action\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010361.jpg "halloween201036")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010361.jpg) BP Men in Action</div>
+
 
 And now I conclude this blog of Halloween celebration with a few of my favorite costumes of the night. If anyone has a photo of the quetzalcoatl costume, you MUST send it to me. That contraption was amazing. Also, I did not take a picture, but of course, Captain Picard was there as he is every year.
 
-\[caption id="attachment\_1753" align="aligncenter" width="540"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010311.jpg "halloween201031")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010311.jpg) Peter Griffin and Bender, a chance meeting on the streets\[/caption\]
 
-\[caption id="attachment\_1751" align="aligncenter" width="405"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010341.jpg "halloween201034")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010341.jpg) Mario Kart\[/caption\]
 
-\[caption id="attachment\_1750" align="aligncenter" width="405"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010331.jpg "halloween201033")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010331.jpg) Man Holding His Head\[/caption\]
 
-\[caption id="attachment\_1749" align="aligncenter" width="405"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010381.jpg "halloween201038")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010381.jpg) Fellow Followers of the Claw\[/caption\]
+<div class="caption">
 
-\[caption id="attachment\_1747" align="aligncenter" width="405"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010411.jpg "halloween201041")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010411.jpg) Up, the movie. The cub scout's on the left.\[/caption\]
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010311.jpg "halloween201031")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010311.jpg) Peter Griffin and Bender, a chance meeting on the streets</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010341.jpg "halloween201034")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010341.jpg) Mario Kart</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010331.jpg "halloween201033")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010331.jpg) Man Holding His Head</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010381.jpg "halloween201038")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010381.jpg) Fellow Followers of the Claw</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010411.jpg "halloween201041")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010411.jpg) Up, the movie. The cub scout's on the left.</div>
+
 
 And I will end with another shot of Laura, because that costume really was fantastic.
 

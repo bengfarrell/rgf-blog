@@ -1,10 +1,10 @@
 ---
 title: "Minneapolis Blogging -- The Guthrie Theater and the Amen Corner"
 date: "2012-05-29"
-categories: 
+categories:
   - "events"
   - "minneapolis-travel"
-tags: 
+tags:
   - "austene-van"
   - "dennis-spears"
   - "endless-bridge"
@@ -42,9 +42,21 @@ The Guthrie is assuredly among the best theaters I’ve been too—Durham’s Pe
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis082.jpg "2012minneapolis082")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis082.jpg)
 
-\[caption id="attachment\_4266" align="aligncenter" width="500" caption="Looking through a slat."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis080.jpg "2012minneapolis080")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis080.jpg)\[/caption\]
 
-\[caption id="attachment\_4269" align="aligncenter" width="1024" caption="Click on me for a better view of the panorama!"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis085med-1024x229.jpg "2012minneapolis085med")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis085med.jpg)\[/caption\]
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis080.jpg "2012minneapolis080")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis080.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis085med-1024x229.jpg "2012minneapolis085med")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis085med.jpg)</div>
+
 
 That last one is of the view from the Endless Bridge, one of the Guthrie’s striking features. It’s of the Mississippi River with the Stone Arch Bridge from the building’s fifth floor.
 

@@ -1,10 +1,10 @@
 ---
 title: "Chubby's Tacos (Woodcroft, Durham)---Restaurant Review"
 date: "2010-04-08"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "al-pastor"
   - "bandidos"
   - "barbacoa"
@@ -56,6 +56,12 @@ I've been very impressed with all their other simple tacos, too, the ground beef
 
 Chubby's is a great option for tacos in Southwest Durham, and a delicious salsa bar is reason enough to go in my opinion. Let me know if you've tried any of their other options.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 4.1.10._

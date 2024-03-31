@@ -1,11 +1,11 @@
 ---
 title: "Sweetly Raw Desserts: Chocolate Gingerbread Brownies and Almond Pear Cream Tart Recipes"
 date: "2015-06-10"
-categories: 
+categories:
   - "food-product-review"
   - "product-reviews"
   - "recipes-2"
-tags: 
+tags:
   - "almond"
   - "cashews"
   - "chocolate-bar"
@@ -46,17 +46,17 @@ The cookbook’s photograph comes first and mine is second for comparison’s sa
 Chocolate Gingerbread Brownies (Photo & Recipe Copyrighted by Quarry Books)
 
 > _For the brownies_ 1 cup (145 g) almonds ²⁄³ cup (120 g) packed dates ½ cup (75 g) raisins ¼ cup (22 g) cacao powder ²⁄³ cup (65 g) pecans ½ teaspoon vanilla extract ¹⁄8 teaspoon Himalayan salt 2½ teaspoons (5 g) minced fresh ginger ¾ teaspoon ground ginger ½ teaspoon cinnamon
-> 
+>
 > _For the frosting_ ¼ cup (60 ml) warm water ¼ cup (38 g) coconut sugar ¼ cup (85 g) agave or coconut nectar 1 teaspoon vanilla extract ½ cup (120 ml) melted coconut butter (page 32) ¹⁄³ cup (80 ml) melted coconut oil ¹⁄³ cup (29 g) cacao powder
-> 
+>
 > _For the pecans_ Slightly heaping ½ cup (55 g) chopped pecans 2½ tablespoons (50 g) maple syrup 2 tablespoons (18 g) coconut sugar ¾ teaspoon cinnamon
-> 
+>
 > _To make the brownies_ Grind the almonds into flour in a food processor. Add the dates and raisins. Grind until they are completely broken down. Add the remaining ingredients and grind until everything is evenly combined. Press the dough into an 8-inch (20 cm) square pan.
-> 
+>
 > _To make the frosting_ Blend all but the cacao powder until smooth in a blender. Add the powder and blend again. Spread the frosting over the brownies and chill in the fridge until the frosting is firm, 4 to 6 hours. Slice into 2-inch (5 cm) pieces.
-> 
+>
 > _To make the pecans_ Toss all the ingredients together in a bowl. Spoon some of the pecans over each brownie before serving.
-> 
+>
 > _Yield_ 16 brownies
 
 The recipe was super easy to make as long as you have a food processer and a blender. They tasted fantastic, though I scoff at claims that coconut oil should be used because it has a neutral flavor—coconut oil should be used because it tastes of coconut! Yum! Also because it solidifies at room temp, making the texture of the frosting possible. I enjoyed the textural combination of a firmer and softer layer, and each bar was very moist. They were also easier to remove from the pan than expected.
@@ -76,22 +76,28 @@ And now for the second recipe. I should note that I chose these recipes based on
 Again, the cookbook’s image is first and mine is second. You’ll see that I added a dusting of cinnamon to my tart, wanting to liven up the coloring a bit and to hide how much worse my pear-slicing skills are than Ms. Pace’s. Other substitutions included again using unsalted dairy butter instead of the coconut alternative and leaving out the stevia drops as I doubted it would need the extra sweetness and I didn’t want to add another item to my pantry. I used a red Asian pear and a basc pear for skin color variation. I also upped the ingredient amounts a tad as I was working with a 10-inch, rather than 8-inch, tart pan. Yes, I can only be as specific as a _tad_, proof I am not qualified to be a recipe blogger!
 
 > _For the crust_
-> 
+>
 > 1 cup (145 g) almonds ²⁄³ cup (54 g) shredded coconut ¾ cup (97 g) finely chopped dried pear ¹⁄³ cup (60 g) packed dates 1½ teaspoons water ¹⁄³ cup (100 g) blackberry jam (page 33) or other berry jam
-> 
+>
 > _For the filling_ ½ cup (68 g) cashews ¹⁄³ cup (80 ml) water 2 tablespoons (40 g) agave or coconut nectar ½ to ¾ teaspoon almond extract ½ teaspoon vanilla extract ¼ cup (60 ml) melted coconut butter (page 32) 1 tablespoon (15 ml) melted coconut oil 5 or 6 drops stevia
-> 
+>
 > _For assembly_ 1 or 2 pears, cored and thinly sliced
-> 
+>
 > _To make the crust_ Grind the almonds, coconut, and dried pear in a food processor. Add the dates and water. Grind until the dates are incorporated. Press the dough into an 8-inch (20 cm) tart pan with a removable bottom. Spread the jam over the tart crust. Chill in the freezer while making the filling.
-> 
+>
 > _To make the filling_ Blend the cashews, water, nectar, and extracts in a blender until smooth and creamy. Add the butter, oil, and stevia. Blend again to incorporate. Pour the filling over the jam. Chill in the freezer for 4 to 6 hours and then in the fridge for 8 to 12 hours. Pop the whole tart out of the pan.
-> 
+>
 > _To assemble_ Once the filling is firm, arrange the pear slices on the top of the tart. Slice and serve.
 
 Other than wondering why _cashew_ was left out of this recipe’s title, being as it plays a significant role in providing the cream, I was again impressed with the final product. With the boost of almond extract and that delightful cashew, the cream element tasted fantastic. The crust held up well and was satisfyingly grainy. The thin layer of jam hit everything up a notch by contributing another layer of flavor.
 
-\[caption id="attachment\_24681" align="aligncenter" width="300"\][![A better picture of the jam layer from my tart.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/Sweetly_Raw_06-300x200.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/Sweetly_Raw_06.jpg) A better picture of the jam layer from my tart.\[/caption\]
+
+
+
+<div class="caption">
+
+[![A better picture of the jam layer from my tart.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/Sweetly_Raw_06-300x200.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/Sweetly_Raw_06.jpg) A better picture of the jam layer from my tart.</div>
+
 
 The cream could be firmer, which may just mean leaving it in the fridge for less time than suggested before consuming it. I moved it back to the freezer to experiment, and I wouldn’t recommend that method. Just eat faster! That’s not so hard to do, I promise.
 

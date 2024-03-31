@@ -1,7 +1,7 @@
 ---
 title: "A Vintner’s Village Vacation in Prosser Wine Country"
 date: "2017-05-30"
-categories: 
+categories:
   - "cabernet-franc"
   - "cabernet-rose"
   - "cabernet-sauvignon"
@@ -14,7 +14,7 @@ categories:
   - "travel-product-review"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "7-gables"
   - "bed-and-breakfast"
   - "bunnell-family"
@@ -50,21 +50,45 @@ This absolute gem of a location is spread out over 32 acres and home to 10 tasti
 
 That picture is of the patio out front of [the Winemakers Loft](https://www.facebook.com/WinemakersLoft) at the Vintner’s Village. It’s an incubator for smaller wineries (no more than 1,000 cases/year) with strong ties to the agriculture in the region. It also offers one of the prettiest fountains in the area, for sure. I stopped in to grab a bottle of the **Martinez & Martinez May Mae** **Rosé** for my mother on the way out of town. This sweet pink is their absolute best-selling wine, and you can bet lots of patrons were enjoying it on that patio on a warm afternoon. Especially since they use it in their slushie rosé ritas, too!
 
-\[caption id="attachment\_27742" align="aligncenter" width="281"\][![Me with the Mary Mae in the Horse Heaven Hills.](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/me-mm-mary-mae-281x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/me-mm-mary-mae.jpg) Me with the May Mae in the Horse Heaven Hills.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Me with the Mary Mae in the Horse Heaven Hills.](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/me-mm-mary-mae-281x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/me-mm-mary-mae.jpg) Me with the May Mae in the Horse Heaven Hills.</div>
+
 
 There are currently four tasting rooms in the Winemakers Studio section of the Vintner’s Village, but once you’re ready to stretch your legs – or head in aim of a meal – stroll down Cabernet Court to where the big boys play. Enjoy sweeping views of the Yakima River Valley as you go.
 
 ##### **Cabernet Court at the Vintner’s Village**
 
-\[caption id="attachment\_27728" align="aligncenter" width="500"\][![vintner's village prosser gamache](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-267-500x184.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-267.jpg) Gamache Vintners\[/caption\]
+
+
+
+<div class="caption">
+
+[![vintner's village prosser gamache](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-267-500x184.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-267.jpg) Gamache Vintners</div>
+
 
 I say big boys in jest, because the wineries here are still small ones that operate primarily out of Prosser and sell most their wines directly to consumers onsite. Barrel production per year is closer to 40,000 cases than the 2 million cases shipped by nearby 14 Hands. But these winemakers take great pride in their wares, and they take pride in handing down those wares through the generations. I especially enjoyed that sense of legacy when speaking with Jessica Gamache, general manager for her family’s [Gamache Vintners.](http://www.gamachevintners.com/)
 
-\[caption id="attachment\_27730" align="aligncenter" width="331"\][![Jessica Gamache Vintners village](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-283-331x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-283.jpg) Jessica Gamache\[/caption\]
+
+
+
+<div class="caption">
+
+[![Jessica Gamache Vintners village](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-283-331x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-283.jpg) Jessica Gamache</div>
+
 
 Jessica was very knowledgeable of all the details that go into their wine, of which I enjoyed quite a few. The elegant **2012 Gamache Vintners Cabernet Franc** offered licorice, berry candy, and a backbone of rose leaves.
 
-\[caption id="attachment\_27729" align="aligncenter" width="500"\][![gamache vintners cabernet franc sarah wolcott](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-279-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-279.jpg) Held by the delightful Sarah Wolcott of the Prosser Wine Network.\[/caption\]
+
+
+
+<div class="caption">
+
+[![gamache vintners cabernet franc sarah wolcott](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-279-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-279.jpg) Held by the delightful Sarah Wolcott of the Prosser Wine Network.</div>
+
 
 Nearly as notable is their **2012 Gamache Vintners Cabernet Sauvignon** that demands a good bolognese sauce to eat with its meaty and sautéed bell pepper notes.
 
@@ -80,7 +104,13 @@ Dr. Walter Clore is a legendary figure in Washington wine history, progressing t
 
 But if that feels too far afield for your wine-filled legs, our next destination has plenty of floral beauty itself.
 
-\[caption id="attachment\_27740" align="aligncenter" width="500"\][![flowers, orange, mums, prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-382-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-382.jpg) Outside Wine O'Clock\[/caption\]
+
+
+
+<div class="caption">
+
+[![flowers, orange, mums, prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-382-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-382.jpg) Outside Wine O'Clock</div>
+
 
 **Food O’Clock at Wine O’Clock**
 
@@ -90,7 +120,13 @@ I mentioned a meal, remember? If your appetite is on the lighter side, sidle up 
 
 With a wood oven prominently featured in the dining room, you know you’re in for a delightful meal the moment you step inside – if the absolutely gorgeous decorations don’t set the stage.
 
-\[caption id="attachment\_27734" align="aligncenter" width="334"\][![chandelier wine o'clock vintner's village pastels](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-369-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-369.jpg) Entry chandelier\[/caption\]
+
+
+
+<div class="caption">
+
+[![chandelier wine o'clock vintner's village pastels](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-369-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-369.jpg) Entry chandelier</div>
+
 
 The wine bar’s produce comes largely from farmers’ markets and the family’s gardens. The regular menu, which changes weekly, recommends flights to order with each item, though we enjoyed a full pairing lunch on our media trip. The autumn squash soup with blue cheese and a seductive sage scent made for a great starter to our meal. Just the right amount of crème fraiche pulled all the flavors together, and squash bits in the soup gave it great texture.
 
@@ -140,7 +176,13 @@ Did I mention you’ll also get a resident pet? Few things are more appealing to
 
 Visiting the Vintner’s Village in Prosser will make a great vacation anytime of the year. I hope you plot just the right course for your own relaxed wine adventuring.
 
-\[caption id="attachment\_27731" align="aligncenter" width="395"\][![wine o'clock, media trip, prosser, vintner's village](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-360-395x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-360.jpg) Our wine writers media group at Wine O’Clock.\[/caption\]
+
+
+
+<div class="caption">
+
+[![wine o'clock, media trip, prosser, vintner's village](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-360-395x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-360.jpg) Our wine writers media group at Wine O’Clock.</div>
+
 
 Salut!
 

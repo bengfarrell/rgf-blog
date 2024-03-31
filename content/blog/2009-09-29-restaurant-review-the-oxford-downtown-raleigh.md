@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--The Oxford (Downtown Raleigh)"
 date: "2009-09-29"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "blt-fried-green-tomato"
   - "downtown-raleigh-dining"
   - "raleigh-pubs"
@@ -36,6 +36,12 @@ The description sounded great but it was too greasy in reality. I think that wit
 
 This place has great potential if the rest of their dishes more closely resemble the bisque than the BLT.  I loved the atmosphere regardless.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Reviewed 9.19.09._

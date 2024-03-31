@@ -1,12 +1,12 @@
 ---
 title: "Minneapolis Blogging – Northeast and Loring Park"
 date: "2012-06-08"
-categories: 
+categories:
   - "coffee-shop"
   - "minneapolis-dining"
   - "restaurants"
   - "minneapolis-travel"
-tags: 
+tags:
   - "baby-geese"
   - "bridge"
   - "central"
@@ -35,7 +35,13 @@ tags:
   - "wilde-roast"
 ---
 
-\[caption id="attachment\_4406" align="aligncenter" width="1024" caption="Click on the panorama for a bigger view!"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis069small-1024x110.jpg "2012minneapolis069small")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis069small.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis069small-1024x110.jpg "2012minneapolis069small")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis069small.jpg)</div>
+
 
 Last week, you and I finished exploring the skyway system downtown and were about to cross the Hennepin Avenue Bridge into the Northeast neighborhood of Minneapolis.
 
@@ -69,7 +75,13 @@ But I wasn’t really in Northeast for sightseeing. I was there to try [Kramarcz
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis058.jpg "2012minneapolis058")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis058.jpg)
 
-\[caption id="attachment\_4378" align="aligncenter" width="500" caption="How do you like that deli case?"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis060.jpg "2012minneapolis060")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis060.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis060.jpg "2012minneapolis060")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis060.jpg)</div>
+
 
 It’s an impressive Polish deli with one half dedicated to meats and gourmet products and the other more of an eatery. There was a range of sausages, goulashes, and the like. I chose a Hungarian sausage roll and opted to have red cabbage on it instead of sauerkraut.
 
@@ -89,15 +101,39 @@ and eventually reached the Central Avenue Bridge. The view of downtown from it i
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis070.jpg "2012minneapolis070")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis070.jpg)
 
-\[caption id="attachment\_4382" align="aligncenter" width="500" caption="I heart you, too, MPLS."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis071.jpg "2012minneapolis071")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis071.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis071.jpg "2012minneapolis071")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis071.jpg)</div>
+
 
 The rest of that day was spent at the amazing Guthrie Theater watching the equally amazing _Amen Corner_ on the Wurtele Thrust Stage. You can catch my blog dedicated to that experience [here](http://www.thegourmez.com/2012/05/minneapolis-blogging-the-guthrie-theater-and-the-amen-corner/). But we are moving on to Day #3 and lunch at [Masa](http://www.masa-restaurant.com/) (1070 Nicollet Avenue), about two blocks from our hotel.
 
-\[caption id="attachment\_4394" align="aligncenter" width="500" caption="Outside of Masa."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis104.jpg "2012minneapolis104")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis104.jpg)\[/caption\]
 
-\[caption id="attachment\_4393" align="aligncenter" width="500" caption="Masa’s welcoming, and slightly terrifying, greeter."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis103.jpg "2012minneapolis103")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis103.jpg)\[/caption\]
 
-\[caption id="attachment\_4386" align="aligncenter" width="333" caption="Interior."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis096.jpg "2012minneapolis096")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis096.jpg)\[/caption\]
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis104.jpg "2012minneapolis104")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis104.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis103.jpg "2012minneapolis103")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis103.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis096.jpg "2012minneapolis096")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis096.jpg)</div>
+
 
 This was probably my favorite meal of the vacation. I love an upscale Mexican joint that realizes how delicious Mexican food can be if fresh ingredients and thoughtful preparations are used. Most importantly, though, I loved their coffee.
 
@@ -105,11 +141,29 @@ This was probably my favorite meal of the vacation. I love an upscale Mexican jo
 
 That is the Café d’Olla, brewed with orange zest, spices, and brown sugar. Refills are free for it, just like a regular coffee. Two glasses of this delicious brew is bliss. Of course, the food was darn good, too.
 
-\[caption id="attachment\_4383" align="aligncenter" width="333" caption="House-fried chips with salsas verde and rojo."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis093.jpg "2012minneapolis093")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis093.jpg)\[/caption\]
 
-\[caption id="attachment\_4384" align="aligncenter" width="333" caption="Strawberry and lime agua fresca."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis094.jpg "2012minneapolis094")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis094.jpg)\[/caption\]
 
-\[caption id="attachment\_4387" align="aligncenter" width="500" caption="Shrimp and scallop ceviche."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis097.jpg "2012minneapolis097")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis097.jpg)\[/caption\]
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis093.jpg "2012minneapolis093")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis093.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis094.jpg "2012minneapolis094")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis094.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis097.jpg "2012minneapolis097")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis097.jpg)</div>
+
 
 That ceviche was wonderful, full of vibrant lime and biting onion. Our friend who ordered it thought the onion too strong, but I enjoyed how it counteracted the creamy avocado and shrimp and scallop flavors. The enchiladas were more to our friend’s liking.
 
@@ -149,7 +203,13 @@ I love how it looks like a dandelion in the wind, all its silky threads being bl
 
 I became rather obsessed with those red-winged blackbirds, though I could never capture the wings well. Lord knows I tried.
 
-\[caption id="attachment\_4405" align="aligncenter" width="500" caption="Another attempt."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis251.jpg "2012minneapolis251")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis251.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis251.jpg "2012minneapolis251")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis251.jpg)</div>
+
 
 But I did get a few other birds worth awing over.
 

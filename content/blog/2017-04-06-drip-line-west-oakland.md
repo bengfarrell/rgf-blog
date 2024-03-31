@@ -1,10 +1,10 @@
 ---
 title: "Drip Line – West Oakland"
 date: "2017-04-06"
-categories: 
+categories:
   - "coffee-shop"
   - "oakland-coffee-shop-reviews"
-tags: 
+tags:
   - "coffee"
   - "coffee-shop"
   - "drip-line"
@@ -25,13 +25,25 @@ tags:
 
 _Obligatory Disclaimer: This review of Drip Line is based off a media dinner that was entirely free to me._
 
-\[caption id="attachment\_26996" align="aligncenter" width="500"\][![Drip Line Oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Drip-Line-01-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Drip-Line-01.jpg) Choose wisely...by choosing the right door!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Drip Line Oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Drip-Line-01-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Drip-Line-01.jpg) Choose wisely...by choosing the right door!</div>
+
 
 Hidden in the warehouses of West Oakland, you’ll find a new coffee shop full of bright light, much like [Trouble Coffee](https://www.yelp.com/biz/trouble-coffee-company-oakland) three-quarters of a mile closer in to the freeways. But what you won’t find at Trouble is a full menu of delicious Singaporean–Californian fusion cuisine available all day. I’m not knocking Trouble’s amazing cinnamon toast, but I am declaring that sometimes, proper brain stimulation comes from more substantial fare.
 
 [![Drip Line Oakland chicken rice](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Drip-Line-25-500x473.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Drip-Line-25.jpg)Chicken and rice for breakfast? You can get it at Drip Line. Or for lunch, too, if you’re the more conventional type. All the amazing cuisine at Drip Line comes from Chef Nora Dunning’s imagination in a way that reaches into Singaporean comfort cuisine and infuses it with a Californian insistence on the freshest and brightest of seasonal ingredients. Everything that can be made from scratch is, resulting in epic Sunday prep days for Chef Dunning.
 
-\[caption id="attachment\_27001" align="aligncenter" width="500"\][![Drip Line Oakland Chef Nora Dunning Josh Larson](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Drip-Line-13-500x399.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Drip-Line-13.jpg) Chef Dunning, right; co-owner Josh Larson, left.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Drip Line Oakland Chef Nora Dunning Josh Larson](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Drip-Line-13-500x399.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Drip-Line-13.jpg) Chef Dunning, right; co-owner Josh Larson, left.</div>
+
 
 At a recent dinner for food media, the chef shared her inspirations for Drip Line’s menu and how co-owners and architects Josh Larson and Carrie Shores pulled her in after previously working together on the defunct Monkey Forest Road restaurant. Larson and Shores’ firm is located right above the café.
 
@@ -83,6 +95,12 @@ That’s some beautiful bread, y’all. Sourdough brioche, for the fusion elemen
 
 The pandan sweetness in the butter is key to making all those elements come together. As I finish this post, I find myself wondering why, on God’s green Earth, I didn’t schedule my next writing session for Drip Line because I need more of EVERYTHING right about now. Rest assured, I won’t make that same mistake next time. If all this is not enough to convince you a great meal at Drip Line is worth having any time of day, I don’t know what is. It’s a shame they’re only open until 5 pm for now, because evening hunger yearns ever stronger for satiation.
 
-\[caption id="attachment\_20774" align="aligncenter" width="40"\][![The Gourmez, rating, truffle, 5/5, excellent](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif) 5/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Gourmez, rating, truffle, 5/5, excellent](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif) 5/5</div>
+
 
 _Reviewed 16 March 2017._

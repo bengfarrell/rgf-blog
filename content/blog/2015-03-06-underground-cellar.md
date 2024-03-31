@@ -1,9 +1,9 @@
 ---
 title: "Underground Cellar"
 date: "2015-03-06"
-categories: 
+categories:
   - "wine"
-tags: 
+tags:
   - "california"
   - "online-retailer"
   - "reputation"
@@ -25,18 +25,36 @@ I first learned about Underground Cellar while attending last year's [Wine Blogg
 
 But I'll give you the quick rundown.
 
-\[caption id="attachment\_9688" align="aligncenter" width="968"\]![UGCellars Explanation](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/UGCellars-Explanation.jpg) Here it is in their pretty visual form.\[/caption\]
+
+
+
+<div class="caption">
+
+![UGCellars Explanation](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/UGCellars-Explanation.jpg) Here it is in their pretty visual form.</div>
+
 
 1. There is no membership fee or automatic monthly payment.
 2. Underground Cellar has a limited number of boutique and often rare wines for sale at any time. They are offered for a limited time as well, typically three days.
 
-\[caption id="attachment\_9689" align="aligncenter" width="500"\]![Here's how the wine offers look on the front page.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/UGCellars-Offers-500x412.jpg) Here's how the wine offers look on the front page.\[/caption\]
+
+
+
+<div class="caption">
+
+![Here's how the wine offers look on the front page.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/UGCellars-Offers-500x412.jpg) Here's how the wine offers look on the front page.</div>
+
 
 The wines and wineries are detailed in the offer description and they come from well-established winemakers with sterling reputations. The current price range is $36-$59 per bottle. That's a bit rich for my blood, but maybe not for yours.
 
 3. This is where the gimmick comes in. Depending on how many bottles of wine you order, you will be given automatic upgrades to even better bottles of wine instead! The more you order, the more upgrades you'll get, holding steady at roughly 50-60% of your total. The upgrades will cost you nothing extra, and each offer description fully explains both the potential upgrade bottles and the percentage chance you'll have to get which one.
 
-\[caption id="attachment\_9687" align="aligncenter" width="677"\]![Part of a description page, including percentages.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/UGCellars-Descriptions.jpg) Part of a description page, including percentages.\[/caption\]
+
+
+
+<div class="caption">
+
+![Part of a description page, including percentages.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/UGCellars-Descriptions.jpg) Part of a description page, including percentages.</div>
+
 
 It's like playing roulette, except that you're always guaranteed to win because you'll always have wine! For a $50 bottle currently available to order, the possible upgrades retail from the wineries at $75, $110, $400, and $3500.  Note: That's _retails from the wineries_. It is possible to find some of the wines Underground Cellar offers at other places for cheaper prices, generally if those wines have a wider distribution than the norm. Underground Cellar's price is what you would pay if you bought the wine from the winery directly.
 

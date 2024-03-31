@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Bali Hai, 9th Street, Durham"
 date: "2009-05-11"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bali-hai-durham"
   - "cheap-eats"
   - "mongolian-grill"
@@ -29,6 +29,12 @@ Back to the food, both my husband and I ordered the spicy sauce.  You can speci
 
 As for atmosphere, Bali Hai was plainly attired with simple tables that matched the light cream walls.  My husband thought it was cafeteria-like but I'd disagree.  It's more like eating at a pizzeria with a bit of service for drinks and plate delivery.  For $6.95 a bowl, I was pleased.
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+
 
 _Reviewed 5.9.09._

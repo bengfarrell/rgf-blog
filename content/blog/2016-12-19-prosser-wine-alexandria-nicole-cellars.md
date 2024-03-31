@@ -1,13 +1,13 @@
 ---
 title: "Prosser Wine Part 1: The Allure of Alexandria Nicole Cellars"
 date: "2016-12-19"
-categories: 
+categories:
   - "red-wine-review"
   - "tasting-rooms-in-prosser"
   - "travel-guide-for-prosser"
   - "travel-product-review"
   - "white-wine-reviews"
-tags: 
+tags:
   - "alexandria-nicole"
   - "cellars"
   - "day-trip"
@@ -32,11 +32,23 @@ tags:
 
 I've been keeping a secret. Or rather, I've been too busy before now to share with you the fun, down-to-earth, yet fully ready for your enjoyment wine country based in and around Prosser, WA.
 
-\[caption id="attachment\_26797" align="aligncenter" width="500"\][![sunrise horse heaven hills alexandria nicole destiny ridge](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-296-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-296.jpg) Sunrise at Destiny Ridge Vineyard.\[/caption\]
+
+
+
+<div class="caption">
+
+[![sunrise horse heaven hills alexandria nicole destiny ridge](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-296-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-296.jpg) Sunrise at Destiny Ridge Vineyard.</div>
+
 
 In October, I took part in a media trip covering the area, and boy, did we hit up as much as possible over two and half days! **Obligatory disclaimer:** The [Prosser Wine Network](http://prosserwinenetwork.com/) sponsored this media trip, which means pretty much everything involved in this post was free to me to experience, taste, and enjoy.
 
-\[caption id="attachment\_26785" align="aligncenter" width="453"\][![rose wine 14 hands prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-060-453x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-060.jpg) And enjoy it I did! This is 14 Hands Reserve Rosé of Grenache 2015.\[/caption\]
+
+
+
+<div class="caption">
+
+[![rose wine 14 hands prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-060-453x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-060.jpg) And enjoy it I did! This is 14 Hands Reserve Rosé of Grenache 2015.</div>
+
 
 I thought I'd start out this series highlighting one winery—and its multiple wine experiences—as a stand-in for the Prosser wine country experience on the whole.
 
@@ -88,7 +100,13 @@ But if tasting among civilians isn't quite your style, you can always head out t
 
 For true wine fans, Alexandria Nicole extends their experience into those [tiny houses](http://www.anctinyhouses.com/) out in the Destiny Ridge Vineyards, where visitors can also taste wines at the estate. And staying overnight in a tiny home is such a memorable way to spend an evening or a weekend!
 
-\[caption id="attachment\_26793" align="aligncenter" width="500"\][![gravity tiny house alexandria nicole](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-285-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-285.jpg) The Gravity House\[/caption\]
+
+
+
+<div class="caption">
+
+[![gravity tiny house alexandria nicole](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-285-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-285.jpg) The Gravity House</div>
+
 
  
 
@@ -114,16 +132,28 @@ My new travel writing friend, [Carrie Uffindell,](http://carrieuffindell.com/abo
 
 Heck, I loved it too. I would have been happy to stay at any of the tiny home options. My only words of warning about the experience is that you should be fully prepared if you want to spend a weekend disappearing into these vines. Marketing describes it as "glamping," which it isn't in the slightest, but it _is_ a good 10 miles—that's 10 country road miles—from any restaurants, stores, or civilization beyond what the Hills themselves can provide, so pack snacks!
 
-\[caption id="attachment\_26804" align="aligncenter" width="500"\][![alexandria nicole tiny houses destiny ridge prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-316-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-316.jpg) Don't steal the grapes!\[/caption\]
+
+
+
+<div class="caption">
+
+[![alexandria nicole tiny houses destiny ridge prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-316-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-316.jpg) Don't steal the grapes!</div>
+
 
 That remoteness is part of how Prosser, WA, came to be the central gathering place for everyone making a living out of the Horse Heaven Hills — people love to gather, even when spread apart, farming over the countryside. The city only has a population of 5,700 people, but there are nearly 40 wineries and tasting rooms represented within its boundaries!
 
 > [City of #Prosser, it was a pleasure being introduced to your #wine country by the #ProsserWine Network! Blog posts next month! . . . . . #winelover #winereview #tastingnotes #tasting #wine #redwine #wineoclock #winetasting #winetime #winelovers #winelove #instawine #winerist #foodwinewomen #winestagram #travelgram #traveller #instatravel #travelblogger #travel #wa #WAwine #visit #hosted](https://www.instagram.com/p/BLUq3VDDVmP/)
-> 
+>
 > A photo posted by Becca Gomez Farrell (@thegourmez) on Oct 8, 2016 at 6:00pm PDT
 
 I'll share more about what role Prosser has to play in this winegrowing region, both makers and tasters, in my upcoming posts. But for now, I hope this peak into Alexandria Nicole Cellars whets your wine whistle for what else Prosser offers for wine vacationers. Here's a sneak peak of my next post in the series:
 
-\[caption id="attachment\_26786" align="aligncenter" width="332"\][![Horse Heaven Hills Brewery and Saloon gun door handle](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-099-332x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-099.jpg) Hmm...\[/caption\]
+
+
+
+<div class="caption">
+
+[![Horse Heaven Hills Brewery and Saloon gun door handle](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-099-332x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-099.jpg) Hmm...</div>
+
 
 _Visited October 6-8, 2016._

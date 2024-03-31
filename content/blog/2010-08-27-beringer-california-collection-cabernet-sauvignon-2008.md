@@ -1,10 +1,10 @@
 ---
 title: "Beringer California Collection Cabernet Sauvignon 2008"
 date: "2010-08-27"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "red-wine-review"
-tags: 
+tags:
   - "beringer"
   - "bleach"
   - "cabernet-sauvignon-2008"
@@ -24,7 +24,13 @@ Full disclosure: I've been drinking some cheap merlot all night, now to be suppl
 
 I think my taste buds may have been screwed by all that cheap merlot from earlier, because my tongue says, "Ow!" to the tannins in this one. It's too tart, too full of unripe berries and tobacco notes. It's like taking a glass of fine wine, pouring it down a large sheet of cinnamon bark, and drinking it.  Ultimately, it's a bit too chewy and too tannic to be for me.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
+  Other Bloggers' Thoughts:
 
 [Joe Peck Blogarhythms](http://joepeckblogarhythms.wordpress.com/2010/03/19/beringer-cabernet-sauvignon-2008/)
 

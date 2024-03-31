@@ -1,10 +1,10 @@
 ---
 title: "Summer Menu at the Washington Duke Inn"
 date: "2013-07-03"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "american-red-snapper"
   - "blackberry-shortcake"
   - "bobby-gorham"
@@ -35,15 +35,33 @@ tags:
   - "washington-duke"
 ---
 
-\[caption id="attachment\_6540" align="aligncenter" width="332"\][![An event room at the Inn, where this meal was held.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_WaDuke_Summer05-332x500.jpg)](http://www.thegourmez.com/2013/07/summer-menu-at-the-washington-duke-inn/2013_waduke_summer05/) An event room at the Inn, where this meal was held.\[/caption\]
+
+
+
+<div class="caption">
+
+[![An event room at the Inn, where this meal was held.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_WaDuke_Summer05-332x500.jpg)](http://www.thegourmez.com/2013/07/summer-menu-at-the-washington-duke-inn/2013_waduke_summer05/) An event room at the Inn, where this meal was held.</div>
+
 
 Over the past year, I've had the pleasure of previewing the seasonal menus at the [Washington Duke Inn](http://www.washingtondukeinn.com/) multiple times. I am absolutely biased at this point, because the staff at the Inn has been amazing each and every time, from the waitstaff to the executive team (that means you, Don Ball, Danielle Kaspar, Wendy Shannon, Bobby Gorham, and Deana Marrell!).  This year actually marks the twenty-first year of employment with Washington Duke for both Bobby, Director of Restaurants, and Deana, Director of Human Relations. Deana, on the right in the photo below, remarked that she perpetually feels like she's only been with the Inn for five to seven years at most.
 
-\[caption id="attachment\_6550" align="aligncenter" width="500"\][![ My lunch companions.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_WaDuke_Summer04-500x332.jpg)](http://www.thegourmez.com/2013/07/summer-menu-at-the-washington-duke-inn/2013_waduke_summer04/) My lunch companions.\[/caption\]
+
+
+
+<div class="caption">
+
+[![ My lunch companions.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_WaDuke_Summer04-500x332.jpg)](http://www.thegourmez.com/2013/07/summer-menu-at-the-washington-duke-inn/2013_waduke_summer04/) My lunch companions.</div>
+
 
 Of course, Jason Cunningham takes top billing at these events as he's the chef who prepares phenomenal new dishes for the Fairview Dining Room, the Bull Durham Bar, and the Inn's catering services that highlight North Carolinian farms and food producers and use quality ingredients from elsewhere when appropriate.  It honestly makes me sad that this is the last time I'll be able to give my readers a sneak peak of the menu. I don't think flying bloggers out from California is likely in their marketing budget. But if it is, you know how to find me, guys. \*wink wink\*
 
-\[caption id="attachment\_6547" align="aligncenter" width="500"\][![Alas, my last name card at the Inn.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_WaDuke_Summer01-500x332.jpg)](http://www.thegourmez.com/2013/07/summer-menu-at-the-washington-duke-inn/2013_waduke_summer01/) Alas, my last name card at the Inn.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Alas, my last name card at the Inn.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_WaDuke_Summer01-500x332.jpg)](http://www.thegourmez.com/2013/07/summer-menu-at-the-washington-duke-inn/2013_waduke_summer01/) Alas, my last name card at the Inn.</div>
+
 
 Enough sentimentalism. It's time to eat! Our first course, titled "Lush," was a quartet of goodies all available as the Spanish gazpacho item on the dinner menu.
 

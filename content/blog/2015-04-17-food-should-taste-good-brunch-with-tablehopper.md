@@ -1,12 +1,12 @@
 ---
 title: "Food Should Taste Good Brunch with Tablehopper!"
 date: "2015-04-17"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "events"
   - "food-product-review"
   - "restaurants"
-tags: 
+tags:
   - "bacon"
   - "bangers"
   - "brunch"
@@ -60,11 +60,23 @@ The fondue was served with FSTG sweet potato kettle chips. While great on their 
 
 I just proved how refined I am, didn't I? Marcia did a much better job at that, speaking a few words about how the brunch menu came together before introducing Chef Puccio.
 
-\[caption id="attachment\_9870" align="aligncenter" width="500"\]![Marcia Gagliardi](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/Cavalier_Brunch_06-500x353.jpg) Marcia Gagliardi\[/caption\]
+
+
+
+<div class="caption">
+
+![Marcia Gagliardi](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/Cavalier_Brunch_06-500x353.jpg) Marcia Gagliardi</div>
+
 
 We learned the menu was a collaboration between the two women, most notably in Marcia coming up with the idea of making a shaksuka from FSTG's falafel tortilla chips.
 
-\[caption id="attachment\_9871" align="aligncenter" width="488"\]![Chef Puccio and Marcia](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/Cavalier_Brunch_08-488x500.jpg) Chef Puccio and Marcia\[/caption\]
+
+
+
+<div class="caption">
+
+![Chef Puccio and Marcia](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/Cavalier_Brunch_08-488x500.jpg) Chef Puccio and Marcia</div>
+
 
 After those words from our hosts, it was time to eat! I swooned over the gorgeous centerpieces—I pretty much swoon over all flowers.
 

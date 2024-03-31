@@ -1,10 +1,10 @@
 ---
 title: "Wine Review--Pancake Cellars 2007 Big Day White"
 date: "2009-05-23"
-categories: 
+categories:
   - "sauvignon-blanc"
   - "white-wine-reviews"
-tags: 
+tags:
   - "big-day-white"
   - "giant-flapjack"
   - "pancake-cellars"
@@ -23,7 +23,13 @@ The Big Day White is mainly sauvignon blanc but also blends in chardonnay, gewü
 
 An entertaining glass of wine?  Sure, but the flavors didn't quite live up to the fanciful labels.
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+
 
 _Reviewed 5.13.09._
 

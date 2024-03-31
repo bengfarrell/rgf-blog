@@ -1,10 +1,10 @@
 ---
 title: "Farmhouse Kitchen Thai Cuisine Now Open in Oakland!"
 date: "2018-08-02"
-categories: 
+categories:
   - "oakland-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "dining"
   - "farmhouse-kitchen"
   - "jack-london-square"
@@ -19,7 +19,13 @@ tags:
 
 Last week, I attended the celebration party for the soft opening of Farmhouse Kitchen Thai Cuisine in Oakland, the newest restaurant from chef and owner Kasem "Pop" Saengsawang. _Obligatory disclaimer: That means everything I'm writing about in this post was free to me to sample and enjoy._ Farmhouse Kitchen is also open in San Francisco and Portland, while Montclair hosts Saengsawang's Daughter Thai.
 
-\[caption id="attachment\_28213" align="aligncenter" width="500"\][![Farmhouse kitchen oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Farmhouse-Kitchen-041-500x407.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Farmhouse-Kitchen-041.jpg) "Pop" with our singer and MC for the evening.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Farmhouse kitchen oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Farmhouse-Kitchen-041-500x407.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Farmhouse-Kitchen-041.jpg) "Pop" with our singer and MC for the evening.</div>
+
 
 The party was a lively affair, and I can't imagine the normal restaurant experience will quite match it, but from reviews of the locations in San Francisco and Portland, they will certainly try. Traditional "street peddlers" wandered through the restaurant's interior and waterfront tiki patio, offering snacks and adventurous eating for American palates. All the food I sampled offered sophistication and the love of spice expected from a high-end Thai restaurant in the Bay Area.
 
@@ -33,7 +39,13 @@ Dinner entrees were served in a giant cornucopia display in the beautiful, flowe
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Farmhouse-Kitchen-043-375x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Farmhouse-Kitchen-043.jpg) [![farmhouse kitchen oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Farmhouse-Kitchen-022-373x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Farmhouse-Kitchen-022.jpg)—I didn't actually taste any as I'd filled up on appetizers, cocktails, and amusement by that time of the evening. That said, I'm certain the _panang neua_—a slow-braised short rib served with broccolini, blue rice, and panang curry—will be a star of the menu.
 
-\[caption id="attachment\_28222" align="aligncenter" width="500"\][![farmhouse kitchen oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Panang-Nuea-500x375.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Panang-Nuea.jpg) I'm using a photo from the restaurant's promo material because banquet-style photos just can't do justice to HOW DELICIOUS those short ribs looked.\[/caption\]
+
+
+
+<div class="caption">
+
+[![farmhouse kitchen oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Panang-Nuea-500x375.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Panang-Nuea.jpg) I'm using a photo from the restaurant's promo material because banquet-style photos just can't do justice to HOW DELICIOUS those short ribs looked.</div>
+
 
 I left the rest for the vultures circling at the party, though not without admiring a few more options I hope to try in in the future. Of my own munching, what most stood out were the bananas fried in sesame batter –
 

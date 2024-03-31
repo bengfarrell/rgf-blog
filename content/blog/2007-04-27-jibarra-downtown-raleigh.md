@@ -1,10 +1,10 @@
 ---
 title: "Jibarra (Downtown Raleigh)"
 date: "2007-04-27"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "downtown-raleigh"
   - "jibarra"
   - "restaurant"
@@ -26,4 +26,10 @@ The drinks were even more exciting than the food as Jibarra pride's itself on se
 
 Jibarra's is separated into a lounge and dining area, each melting in earthy cholocate browns and beiges. It's definitely a posh establishment but the wait staff makes you feel at home. I will be back again and again and again.
 
-\[caption id="attachment\_59" align="alignleft" width="40" caption="4 stars"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+

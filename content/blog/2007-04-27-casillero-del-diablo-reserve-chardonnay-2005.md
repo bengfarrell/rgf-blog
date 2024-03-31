@@ -1,10 +1,10 @@
 ---
 title: "Casillero del Diablo Reserve Chardonnay 2005"
 date: "2007-04-27"
-categories: 
+categories:
   - "chardonnay"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2005"
   - "casillero-del-diablo"
   - "reserve-chardonnay"
@@ -18,4 +18,10 @@ The nose brings to mind a ginger crème brulee, which I've certainly never seen 
 
 The dulcified taste is balanced out with a hint of lime, lest you think this is really for dessert. The citrus lingers on the roof of your mouth long after the wine has made its exit.
 
-\[caption id="attachment\_49" align="alignleft" width="40"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+

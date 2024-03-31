@@ -1,13 +1,13 @@
 ---
 title: "A Day in Yakima"
 date: "2013-01-04"
-categories: 
+categories:
   - "coffee-shop"
   - "coffee-shops-in-yakima-wa"
   - "dining-in-yakima-wa"
   - "restaurants"
   - "yakima-travel"
-tags: 
+tags:
   - "ahoy-fish-and-chips"
   - "akin-center"
   - "arboretum"
@@ -45,15 +45,33 @@ So we start with Yakima. This is not an exact recounting of my Yakima adventures
 
 [![IMG_7787smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7787smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7787smallfb/)
 
-\[caption id="attachment\_5476" align="aligncenter" width="502"\][![My mother inside the restaurant.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7788smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7788smallfb/) My mother inside the restaurant.\[/caption\]
+
+
+
+<div class="caption">
+
+[![My mother inside the restaurant.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7788smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7788smallfb/) My mother inside the restaurant.</div>
+
 
 Backwoods Country Fare Café is a hybrid of American diner breakfast/lunch and Mexican influences, as all good things on the West Coast should be in my snobby Californian opinion. It’s all mountain kitsch inside, but not overwhelmingly so. A few wolves, American Indian crafts, and the like decorate the walls. But most importantly, it’s open until 2 pm and breakfast is available for all of their hours. And it’s good!
 
-\[caption id="attachment\_5478" align="aligncenter" width="335"\][![Hot chocolate](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7791smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7791smallfb/) Hot chocolate\[/caption\]
+
+
+
+<div class="caption">
+
+[![Hot chocolate](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7791smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7791smallfb/) Hot chocolate</div>
+
 
 My mother loved her thick potato soup.
 
-\[caption id="attachment\_5479" align="aligncenter" width="502"\][![BLT with a cup of potato soup.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7793smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7793smallfb/) BLT with a cup of potato soup.\[/caption\]
+
+
+
+<div class="caption">
+
+[![BLT with a cup of potato soup.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7793smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7793smallfb/) BLT with a cup of potato soup.</div>
+
 
 Coffee was pretty decent for a strip mall location, and my chorizo omelet was delicious.
 
@@ -85,21 +103,57 @@ There are a lot of unknown graves as well, but the most interesting ones belong 
 
 Early afternoon would be a good time to explore downtown Yakima and its several restored buildings. Just park in the municipal lot at 2nd and Chestnut.
 
-\[caption id="attachment\_5456" align="aligncenter" width="502"\][![IMG_7449smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7449smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7449smallfb/) The Capitol Theater, great place to catch a show later.\[/caption\]
+
+
+
+<div class="caption">
+
+[![IMG_7449smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7449smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7449smallfb/) The Capitol Theater, great place to catch a show later.</div>
+
 
 Take time to explore the city’s art installation in front of the Capital Theater.
 
-\[caption id="attachment\_5458" align="aligncenter" width="502"\][![The theater with sculpted groves from the installation.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7451smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7451smallfb/) The theater with sculpted groves from the installation.\[/caption\]
 
-\[caption id="attachment\_5460" align="aligncenter" width="502"\][![Crane catching flight.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7453smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7453smallfb/) Crane catching flight.\[/caption\]
 
-\[caption id="attachment\_5461" align="aligncenter" width="502"\][![Dolls throughout the ages.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7455smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7455smallfb/) Dolls throughout the ages.\[/caption\]
+
+<div class="caption">
+
+[![The theater with sculpted groves from the installation.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7451smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7451smallfb/) The theater with sculpted groves from the installation.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Crane catching flight.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7453smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7453smallfb/) Crane catching flight.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Dolls throughout the ages.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7455smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7455smallfb/) Dolls throughout the ages.</div>
+
 
 Make sure you cross the parking lot to the Larsen Building next. It’s right on 2nd and Yakima and it’s a gorgeous art deco building.
 
-\[caption id="attachment\_5470" align="aligncenter" width="335"\][![The Larsen Building.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7468smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7468smallfb/) The Larsen Building.\[/caption\]
 
-\[caption id="attachment\_5463" align="aligncenter" width="335"\][![My stepfather at the entrance.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7458smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7458smallfb/) My stepfather at the entrance.\[/caption\]
+
+
+<div class="caption">
+
+[![The Larsen Building.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7468smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7468smallfb/) The Larsen Building.</div>
+
+
+
+
+
+<div class="caption">
+
+[![My stepfather at the entrance.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7458smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7458smallfb/) My stepfather at the entrance.</div>
+
 
 Enter inside for a beautiful foyer.
 
@@ -113,21 +167,45 @@ At this point, you may need a coffee rejuvenation, and a few blocks away is [Nor
 
 It’s one of the few coffeehouses in the area that aren’t Starbucks and that serve locally roasted beans from Stumptown Coffee. The rest of the coffee options are drive-through stands, which are very convenient, but I love a coffeehouse vibe. Northtown has that.
 
-\[caption id="attachment\_5474" align="aligncenter" width="502"\][![Inside Northtown.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7784smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7784smallfb/) Inside Northtown.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Inside Northtown.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7784smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7784smallfb/) Inside Northtown.</div>
+
 
 [![Northtown Coffeehouse on Urbanspoon](http://www.urbanspoon.com/b/link/1643150/minilink.gif)](http://www.urbanspoon.com/r/333/1643150/restaurant/Yakima/Northtown-Coffeehouse-Selah)
 
 Now if the weather is good, I would definitely recommend getting some exercise among the [Yakima Greenway’s](http://yakimagreenway.org/) many riverfront trails.
 
-\[caption id="attachment\_5491" align="aligncenter" width="335"\][![View from the greenway.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7830smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7830smallfb/) View from the greenway.\[/caption\]
 
-\[caption id="attachment\_5492" align="aligncenter" width="502"\][![Plants off the greenway.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7831smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7831smallfb/) Plants off the greenway.\[/caption\]
+
+
+<div class="caption">
+
+[![View from the greenway.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7830smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7830smallfb/) View from the greenway.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Plants off the greenway.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7831smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7831smallfb/) Plants off the greenway.</div>
+
 
 But in late fall, when I was there, a safer bet would be taking a quick stroll at the [Yakima Area Arboretum and Botanical Garden](http://www.ahtrees.org/). It’s located just off Nob Hill Blvd. on Arboretum Drive and is free and open from dawn until dusk every day. Self-guided walking maps are available at the visitor’s center of the small arboretum.
 
 [![IMG_7795smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7795smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7795smallfb/)
 
-\[caption id="attachment\_5499" align="aligncenter" width="614"\][![View from behind the Visitor’s Center.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7804small-1024x191.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7804small/) View from behind the Visitor’s Center. Click for a larger view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![View from behind the Visitor’s Center.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7804small-1024x191.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7804small/) View from behind the Visitor’s Center. Click for a larger view.</div>
+
 
 [![IMG_7805smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7805smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7805smallfb/)
 
@@ -137,17 +215,41 @@ Most of the gardens are actually tiny groves of different types of trees.
 
 But there is also a nice Japanese garden in the center of the Arboretum with some intriguing plants and a pond and bridge.
 
-\[caption id="attachment\_5485" align="aligncenter" width="502"\][![Leaves turning colors in fall.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7812smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7812smallfb/) Leaves turning colors in fall.\[/caption\]
 
-\[caption id="attachment\_5486" align="aligncenter" width="335"\][![ Great bush for hiding in.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7813smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7813smallfb/) Great bush for hiding in.\[/caption\]
 
-\[caption id="attachment\_5488" align="aligncenter" width="335"\][![Small pagoda.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7815smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7815smallfb/) Small pagoda.\[/caption\]
+
+<div class="caption">
+
+[![Leaves turning colors in fall.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7812smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7812smallfb/) Leaves turning colors in fall.</div>
+
+
+
+
+
+<div class="caption">
+
+[![ Great bush for hiding in.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7813smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7813smallfb/) Great bush for hiding in.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Small pagoda.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7815smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7815smallfb/) Small pagoda.</div>
+
 
 [![IMG_7843smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7843smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7843smallfb/)
 
 The sunset may be best enjoyed by driving around the very pretty Terrace Heights neighborhood of Yakima. Just drive around these curvy, small rounds and take in every little orchard and vineyard you see.
 
-\[caption id="attachment\_5502" align="aligncenter" width="614"\][![IMG_7507small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7507small-1024x421.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7507small/) Click for a larger view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![IMG_7507small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7507small-1024x421.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7507small/) Click for a larger view.</div>
+
 
 [![IMG_7512smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7512smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7512smallfb/)
 
@@ -155,7 +257,13 @@ After all that sightseeing, you should be ready for dinner! We ate at home most 
 
 [![IMG_7425smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7425smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7425smallfb/)
 
-\[caption id="attachment\_5441" align="aligncenter" width="502"\][![ Considering the options at Ahoy.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7427smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7427smallfb/) Considering the options at Ahoy.\[/caption\]
+
+
+
+<div class="caption">
+
+[![ Considering the options at Ahoy.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7427smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7427smallfb/) Considering the options at Ahoy.</div>
+
 
 [![IMG_7426smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7426smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7426smallfb/)
 
@@ -181,4 +289,10 @@ And that’s my day in Yakima! If you want to see more pictures, click on the ga
 
 Next photoblog will be a stroll through Ellensburg, WA with a focus on the Dick and Jane house of insane art installations.
 
-\[caption id="attachment\_5413" align="aligncenter" width="335"\][![Sneak peek!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7574smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7574smallfb/) Sneak peek!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Sneak peek!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7574smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7574smallfb/) Sneak peek!</div>
+

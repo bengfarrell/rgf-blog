@@ -1,10 +1,10 @@
 ---
 title: "Noodles &amp; Company's Spring Asparagus Frenzy!"
 date: "2013-05-15"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "asparagus"
   - "bacon"
   - "blackberry-jasmine-green-tea"
@@ -32,13 +32,25 @@ tags:
   - "tres-leches"
 ---
 
-\[caption id="attachment\_6334" align="aligncenter" width="332"\][![Durham's Noodles & Company location.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/Noodles-Company-Spring08-332x500.jpg)](http://www.thegourmez.com/2013/05/noodles-companys-spring-asparagus-frenzy/noodles-company-spring08/) Durham's Noodles & Company location.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Durham's Noodles & Company location.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/Noodles-Company-Spring08-332x500.jpg)](http://www.thegourmez.com/2013/05/noodles-companys-spring-asparagus-frenzy/noodles-company-spring08/) Durham's Noodles & Company location.</div>
+
 
 With spring comes new dishes at many restaurants, and that includes Noodles & Company, a chain I've sampled a [few](http://www.thegourmez.com/2012/04/mac-and-cheese-at-noodles-company/) [times](http://www.thegourmez.com/2012/07/summer-salads-at-noodles-company/) before. Well, readers, it's your and my lucky day, because I was invited to come to their Erwin Rd. location in Durham to try their [spring asparagus menu](http://www.noodles.com/spring/dishes.php) and you get the chance to win a coupon for a free dish of your choice! The first five commenters on this post will win.
 
 All food and drink in this blog were provided free of charge by Noodles & Company.
 
-\[caption id="attachment\_6327" align="aligncenter" width="332"\][![Interior of the Erwin Rd. store.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/Noodles-Company-Spring01-332x500.jpg)](http://www.thegourmez.com/2013/05/noodles-companys-spring-asparagus-frenzy/noodles-company-spring01/) Interior of the Erwin Rd. store.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Interior of the Erwin Rd. store.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/Noodles-Company-Spring01-332x500.jpg)](http://www.thegourmez.com/2013/05/noodles-companys-spring-asparagus-frenzy/noodles-company-spring01/) Interior of the Erwin Rd. store.</div>
+
 
 About a month ago, the chain restaurant added three asparagus-centered options to their regular menu, and they are likely to be available through early summer. Let's dine on an appetizer first.
 

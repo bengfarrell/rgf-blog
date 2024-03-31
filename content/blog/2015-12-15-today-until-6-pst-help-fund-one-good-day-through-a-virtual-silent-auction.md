@@ -1,10 +1,10 @@
 ---
 title: "Today until 6 PST, Help Fund One Good Day through a Virtual Silent Auction!"
 date: "2015-12-15"
-categories: 
+categories:
   - "announcements"
   - "wine"
-tags: 
+tags:
   - "cancer"
   - "cordair-gallery-tweetup"
   - "donations"
@@ -31,6 +31,12 @@ But if you're like me, you can only dream of spending a wonderful evening with t
 
 Of course, you can also donate directly to [One Good Day](http://www.onegoodday.org/donate) at any time, forgoing all those wine prizes, at the website. Please consider doing so, and help Peter help others with terminal cancer get the chance to enjoy that one good day with their loved ones.
 
-\[caption id="attachment\_25410" align="aligncenter" width="281"\][![Me and Peter toasting his birthday this past summer.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/me-and-peter-281x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/me-and-peter.jpg) Me and Peter toasting his birthday this past summer.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Me and Peter toasting his birthday this past summer.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/me-and-peter-281x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/me-and-peter.jpg) Me and Peter toasting his birthday this past summer.</div>
+
 
 Salut! And happy bidding!

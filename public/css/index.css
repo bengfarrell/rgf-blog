@@ -314,3 +314,21 @@ a[href].header-anchor:focus,
 h2 + .header-anchor {
 	font-size: 1.5em;
 }
+
+div.caption {
+	display: inline-block;
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+	border-radius: 8px;
+	padding: 15px;
+	border: 1px solid var(--color-gray-20);
+}
+
+div.caption p {
+	display: flex;
+	flex-direction: column;
+}
+
+div.caption img {
+	border-radius: 8px;
+}

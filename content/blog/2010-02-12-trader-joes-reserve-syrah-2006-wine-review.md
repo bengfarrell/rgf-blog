@@ -1,10 +1,10 @@
 ---
 title: "Trader Joe's Reserve Syrah 2006 -- Wine Review"
 date: "2010-02-12"
-categories: 
+categories:
   - "red-wine-review"
   - "shiraz"
-tags: 
+tags:
   - "2006-vintage"
   - "black-raspberry-candy"
   - "syrah"
@@ -21,7 +21,13 @@ The nose was full of leather, pepper, and very dark fruit. It tasted, unexpected
 
 Trader Joe's Reserve Syrah 2006 was delicious and totally worth the purple teeth and lips. + 1 for both reserve and grocery store label wines!
 
-\[caption id="attachment\_59" align="aligncenter" width="40"\]![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars</div>
+
 
 **Other Blogger's Thoughts:**
 

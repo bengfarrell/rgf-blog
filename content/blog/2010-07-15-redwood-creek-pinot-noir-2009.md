@@ -1,10 +1,10 @@
 ---
 title: "Redwood Creek Pinot Noir 2009"
 date: "2010-07-15"
-categories: 
+categories:
   - "pinot-noir"
   - "red-wine-review"
-tags: 
+tags:
   - "2009-vintage"
   - "adventures-in-9-wines"
   - "blueberry"
@@ -26,7 +26,13 @@ When sipping, the element of spice is the most pronounced. The cardamom is prese
 
 Redwood Creek Pinot Noir 2009 is a great wine from yet another Californian region that I hadn't tasted any wines from before.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]  Other Bloggers' thoughts:
+
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+  Other Bloggers' thoughts:
 
 [Adventures in $9 Wines](http://www.ninebuckwines.com/2009/12/2008-redwood-creek-pinot-noir.html) on the 2008 vintage
 

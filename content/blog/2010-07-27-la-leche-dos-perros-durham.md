@@ -1,10 +1,10 @@
 ---
 title: "La Leche @ Dos Perros (Durham)"
 date: "2010-07-27"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "bourbon-punch"
   - "cocktail"
   - "dark-rum"
@@ -22,6 +22,12 @@ This drink is nothing but horchata and dark rum. I love both of those ingredient
 
 As a cold drink, La Leche was okay, but I think it could shine as a warm drink in the winter.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Reviewed 7.9.10._

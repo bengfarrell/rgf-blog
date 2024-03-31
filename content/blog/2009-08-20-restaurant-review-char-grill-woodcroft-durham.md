@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Char-Grill, Woodcroft, Durham"
 date: "2009-08-20"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "american-cheese"
   - "char-grill-durham"
   - "chargrill-durham"
@@ -41,6 +41,12 @@ Speaking of the shake, my chocolate one was very good but make no mistake, this 
 
 I'd pick Char-Grill over the nearby fast food joints any day.  Ingredients taste fresher and the level of customization offered is great.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Reviewed 8.19.09._

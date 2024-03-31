@@ -1,10 +1,10 @@
 ---
 title: "Pink Salt and Pepper Martini (Revolution, Durham)---Cocktail Review"
 date: "2010-04-09"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-chapel-hill-nc"
-tags: 
+tags:
   - "cucumber"
   - "durham"
   - "peppercorn-infused-gin"
@@ -21,6 +21,12 @@ This attractive gin martini was made with pink peppercorn-infused gin, sake, cuc
 
 For a gin drinker, this might just be heaven. Gin's growing on me, but I confess, it was the sake and pink peppercorn infusion that drew me in. The sake and gin complemented each other well, with the limelight bouncing between the two. The peppercorn was so subtle, I barely noted it. I'm not sure that any cucumber was added except by way of the rings inside the drink, but regardless, it had a lovely, delicate cucumber flavor that poked through occasionally. I would have liked more salt on my glass, but other than that and my own predisposition against drinking gin this close to straight, it was great.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 3.24.10._

@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Food and Drink of Contra Costa"
 date: "2016-12-22"
-categories: 
+categories:
   - "dining-in-walnut-creek"
   - "fortified-wine"
   - "moscato-dasti"
@@ -11,7 +11,7 @@ categories:
   - "sparkling-wine-review"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "adam-carpenter"
   - "annual-gala"
   - "awards-gala"
@@ -44,11 +44,23 @@ For the second year in a row, I had the honor of attending the [Sustainable Cont
 
 Lest you get confused, the event took place in September, not December! I'm a little behind on my blog write-ups…oh, and **obligatory disclaimer!** I was invited out by [Sustainable Contra Costa](http://sustainablecoco.org/) to highlight the food and drink vendors who donated their wares to the event. Each and everyone one of them also practice sustainability in their businesses. Thus, every nibble and tipple I mention in this post was provided to me for free _and_ they benefited a worthy cause.
 
-\[caption id="attachment\_26816" align="aligncenter" width="500"\][![crostini deviled egg sustainable contra costa](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-018-500x473.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-018.jpg) Tasty bites saving the planet!\[/caption\]
+
+
+
+<div class="caption">
+
+[![crostini deviled egg sustainable contra costa](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-018-500x473.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-018.jpg) Tasty bites saving the planet!</div>
+
 
 Appearing bottom right in the photo: caesar deviled eggs from [Corners Tavern](http://cornerstavern.com/) in Walnut Creek. Corners Tavern's chef, Adam Carpenter, just happens to have been the opening chef for [Jasper's Corner Tap](https://jasperscornertap.com/), which is one of my favorite San Francisco restaurants because of its inventive pub fare.
 
-\[caption id="attachment\_26810" align="aligncenter" width="500"\][![Corners tavern Adam Carpenter](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-005-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-005.jpg) Chef Carpenter and the Corners Tavern Crew\[/caption\]
+
+
+
+<div class="caption">
+
+[![Corners tavern Adam Carpenter](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-005-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-005.jpg) Chef Carpenter and the Corners Tavern Crew</div>
+
 
 If those deviled eggs are any indication, Walnut Creek patrons are lucky to have him now! Light anchovy had just enough presence to intrigue the palate, and the crouton bits provided a great crunch to challenge the deviled egg's typically soft texture.
 
@@ -60,7 +72,13 @@ Corners Tavern features reclaimed barn wood, pennies, and garage doors in their 
 
 Also on that plate are a black pepper + fig + prosciutto crostini and a caprese crostini from Walnut Creek's [PRIMA](http://www.primawine.com/). The caprese option, through simplicity, smartly focused on the bright flavors of tomato and basil, but the fig blew me away! Its black-pepper-butter bed had me thinking goat cheese at first bite because of the rich complexity it imparted. That butter complemented the fruit and meat so well. I love a surprise!
 
-\[caption id="attachment\_26815" align="aligncenter" width="425"\][![Chef Peter Chastain. Prima Walnut Creek](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-016-425x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-016.jpg) Chef Peter Chastain.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Chef Peter Chastain. Prima Walnut Creek](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-016-425x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-016.jpg) Chef Peter Chastain.</div>
+
 
 Chef Peter Chastain is one of PRIMA's co-owners. The restaurant's location has been a wine destination since its early days as a tiny deli in 1977; co-owner John Rittmaster is exceptionally well qualified to direct the wine program that now features over 1300 bottles. Chef Chastain uses only the best organic and seasonal ingredients, and the wine list shows them off. The Elvio Tintero Sori Gramella Moscato d'Asti poured that night was full of sweet peach, orange blossom, and honey notes. It's the kind of wine that reminds you terroir is really, truly, worth pondering.
 
@@ -68,7 +86,13 @@ Chef Peter Chastain is one of PRIMA's co-owners. The restaurant's location has b
 
 But domestic winemakers were also present, including the always delightful team behind [Captain Vineyards](http://captainvineyards.com/), Sal and Susan Captain.
 
-\[caption id="attachment\_26832" align="aligncenter" width="330"\][![sal susan captain vineyards](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-067-330x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-067.jpg) Sal and Susan Captain\[/caption\]
+
+
+
+<div class="caption">
+
+[![sal susan captain vineyards](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-067-330x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-067.jpg) Sal and Susan Captain</div>
+
 
 As Captain Vineyards is a very small operation, I tried many of the same wines from their dry-farmed vineyard that I had sampled last year, though different vintages brought different results! Last year, I loved their 2010 Petite Sirah for its woodsiness, but the 2011 had more of a grassy feel that called to mind hanging webs of Spanish moss. Tight, yet beautifully expressed fruit made for an interesting glass.[![ 2011 Captain Vineyards Petite Sirah](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-064-321x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-064.jpg)
 
@@ -82,7 +106,13 @@ Many smiling faces were happy to serve at the gala, and why not? Some of them se
 
 Using ingredients from local farms Dwelley, Shelly's, G & S, and First Generation, the students provided a bevy of options to choose from.
 
-\[caption id="attachment\_26820" align="aligncenter" width="500"\][![Sustainable contra costa diablo valley culinary](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-034-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-034.jpg) My selections.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Sustainable contra costa diablo valley culinary](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-034-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-034.jpg) My selections.</div>
+
 
 The bell pepper, broccoli, and cheese mini-quiches provided great flavor with a gentle heat kick, and the bacon-wrapped scallops shined for the smokiness imparted to the shellfish.
 
@@ -106,7 +136,13 @@ But this one would work wonderfully with a salt and pepper shrimp dish. Restrain
 
 The final wine table held another familiar face, that of John Viano, winemaker at [Viano Vineyards](http://www.vianovineyards.com/default.asp), a fourth generation winery in Contra Costa County.
 
-\[caption id="attachment\_26828" align="aligncenter" width="333"\][![john viano vineyards](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-057-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-057.jpg) John Viano\[/caption\]
+
+
+
+<div class="caption">
+
+[![john viano vineyards](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-057-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-057.jpg) John Viano</div>
+
 
 It was a delight to try John's zinfandels again, as they reflect the many years of experience in the family. I loved the Sand Rock Hill zin last year, and the 2012 vintage continued to impress with a full nose, unique spice, and toasted vanilla bourbon notes. [![viano vineyards zinfandel](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-056-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-056.jpg)Hard orange candy sticks also came to mind. The 2008 Viano Old Vines Vintage Zinfandel Port was even better than last year's and had a completely different flavor profile. This is a port for thrill seekers! Tamarind with a toffee nose and plenty of mango and chili pepper. Hardened sugar syrup coats the Mexican candy. Take a sip and smile.
 
@@ -114,7 +150,13 @@ It was a delight to try John's zinfandels again, as they reflect the many years 
 
 Another returning vendor was [Plate & Vine](http://plateandvinerestaurant.com/), which makes sense as the restaurant's home, the Hilton Concord, has long hosted the gala and is the Sustainability Flagship hotel, as designated by Interstate Hotels & Resorts. Chef Dwayne Griffiths was again on the assembly line.
 
-\[caption id="attachment\_26812" align="aligncenter" width="377"\][![chef dwayne griffiths plate & vine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-010-377x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-010.jpg) Chef Dwayne Griffiths\[/caption\]
+
+
+
+<div class="caption">
+
+[![chef dwayne griffiths plate & vine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-010-377x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-010.jpg) Chef Dwayne Griffiths</div>
+
 
 This time he was finishing off plates of pork belly served over risotto with mushrooms, black beans, and lemon honey.
 

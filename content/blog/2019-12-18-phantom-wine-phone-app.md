@@ -28,7 +28,13 @@ Can you sense it? That faint wisp of an unseasonal mist? The tortured scream of 
 
 Sure, it's almost Christmas, but that's no reason to leave these wines behind with those blustery fall nights. Especially not here in northern California, where Halloween temperatures linger for months. Heck, I still have dill sprouting in my backyard. And as I just discovered on my first visit to San Jose's Christmas in the Park, Day of the Dead Christmas trees are totally a thing, so . . .
 
-\[caption id="attachment\_28923" align="aligncenter" width="375"\][![la catrina, la calavera catrina, day of the dead, christmas tree, san jose christmas in the park](https://thegourmez-wpmedia.s3.amazonaws.com/2019/12/Catrina-1-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/12/Catrina-1.jpg) What a lovely La Calavera Catrina Christmas tree!\[/caption\]
+
+
+
+<div class="caption">
+
+[![la catrina, la calavera catrina, day of the dead, christmas tree, san jose christmas in the park](https://thegourmez-wpmedia.s3.amazonaws.com/2019/12/Catrina-1-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/12/Catrina-1.jpg) What a lovely La Calavera Catrina Christmas tree!</div>
+
 
 . . . there is absolutely no reason you should view these wines as a Halloween-only novelty. I first said yes to this review, however, back when that haunting spirit was still in the air. I received the wine shipment before this year's Tricking and Treating and shared a few pictures of me celebrating with some friends.
 

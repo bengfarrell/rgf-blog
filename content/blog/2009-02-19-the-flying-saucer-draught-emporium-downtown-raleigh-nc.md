@@ -1,13 +1,13 @@
 ---
 title: "The Flying Saucer Draught Emporium--Downtown Raleigh, NC"
 date: "2009-02-19"
-categories: 
+categories:
   - "barley-wine"
   - "bars-and-tasting-rooms"
   - "breweries-in-raleigh-nc"
   - "raleigh-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "99-bottles"
   - "chill-place-in-raleigh"
   - "flying-saucer-draught-emporium"
@@ -34,4 +34,10 @@ The cheese plates come with almonds, apples, olive tapenade, crackers, crostini,
 
 As a place to while away the hours on a weeknight with friends, The Flying Saucer is a great bet.  And for these prices, the food stands up to the challenge of sustaining you through a few rounds.
 
-\[caption id="attachment\_59" align="aligncenter" width="40"\]![5 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 5 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![5 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 5 stars</div>
+

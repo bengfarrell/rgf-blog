@@ -1,10 +1,10 @@
 ---
 title: "Wine Review--2007 Trentatre Rosso"
 date: "2009-10-22"
-categories: 
+categories:
   - "other-red-blends"
   - "red-wine-review"
-tags: 
+tags:
   - "date-notes"
   - "oc-wine-and-lifestyle"
   - "southern-wine-report"
@@ -20,7 +20,13 @@ Wine: **2007 Trentartre Rosso** Region: Salento, Italy
 
 This wine, emblazoned with the #33 on the label, is a blend of 33.3% each of cabernet, merlot, and montepulciano. It smells of dark maple syrup and tastes like you've bit into a bushel of dates.  There is also a hint of tobacco.  It's a bit bracing but also quite good.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+
 
 **Other Bloggers' Thoughts:**
 

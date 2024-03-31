@@ -1,10 +1,10 @@
 ---
 title: "Jasper's Corner Tap and Kitchen"
 date: "2013-11-12"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "restaurants"
-tags: 
+tags:
   - "amaro"
   - "and-kitchen"
   - "brussel-sprouts"
@@ -33,7 +33,13 @@ Jasper's Corner Tap and Kitchen is an appealing Tenderloin escape from the crowd
 
 Friend #1, my husband, and I quickly made our drink selections. Rather, they made their drink selections while I took forever to decide on the Smashing Pumpkin.
 
-\[caption id="attachment\_7575" align="aligncenter" width="500"\][![Smashing Pumpkin on the left, Friend #1's drink in the middle, and my husband's Wiessen Sour on the right.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/Jaspers_02.jpg)](http://www.thegourmez.com/2013/11/jaspers-corner-tap-and-kitchen/jaspers_02/) Smashing Pumpkin on the left, Friend #1's drink in the middle, and my husband's Wiessen Sour on the right.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Smashing Pumpkin on the left, Friend #1's drink in the middle, and my husband's Wiessen Sour on the right.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/Jaspers_02.jpg)](http://www.thegourmez.com/2013/11/jaspers-corner-tap-and-kitchen/jaspers_02/) Smashing Pumpkin on the left, Friend #1's drink in the middle, and my husband's Wiessen Sour on the right.</div>
+
 
 The Smashing Pumpkin was a heavy drink with a light texture from velvety egg foam. Maple pumpkin butter gave it depth and richness, but you could probably have two without feeling like you swam through calories. Dark rum, amaro, and sherry made for a creative combination of liqueurs with the amaro injecting smooth herbal notes into the mix. I would drink more. I would drink often.
 
@@ -47,7 +53,13 @@ You can pick thin, thick, or sweet potato fries and a variety of seasonings and 
 
 My dining companions continued the cheese celebration, both ordering grilled cheese sandwiches for their main course. My husband opted to add pork belly to his.
 
-\[caption id="attachment\_7570" align="aligncenter" width="500"\][![Apparently, I opted not to focus well.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/Jaspers_04.jpg)](http://www.thegourmez.com/2013/11/jaspers-corner-tap-and-kitchen/jaspers_04/) Apparently, I opted not to focus well.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Apparently, I opted not to focus well.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/Jaspers_04.jpg)](http://www.thegourmez.com/2013/11/jaspers-corner-tap-and-kitchen/jaspers_04/) Apparently, I opted not to focus well.</div>
+
 
 He and Friend #1 were equally happy with their sandwiches, and Friend #1 described her cup of tomato soup as "Totes delish!" Whatever the picture you're developing of Friend #1's personality, you're probably right. They both gave Jasper's bonus points for offering that classic sandwich.
 

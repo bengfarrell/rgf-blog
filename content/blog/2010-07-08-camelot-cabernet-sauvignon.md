@@ -1,10 +1,10 @@
 ---
 title: "Camelot Cabernet Sauvignon"
 date: "2010-07-08"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "red-wine-review"
-tags: 
+tags:
   - "camelot-cabernet-sauvignon"
   - "chocolate-note"
   - "decanting-blog"
@@ -25,7 +25,13 @@ This yearless wine is  . . .  drumroll . . . anticipation building . . . very,
 
 It tastes mild and clean with but a small burst of tannins. Light-bodied, a bit of herb in the aftertaste, which I'll call oregano. Smooth cherry mostly. Chocolate hints. I think it's very approachable for newbies, but if you've been exploring your palate for a few years like, oh, me, then it doesn't hold much to keep your interest.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1")</div>
+  Other Bloggers' Thoughts:
 
 On the 2007 vintage from [Decanting](http://www.wine-road.com/blog/?p=371):
 

@@ -1,13 +1,13 @@
 ---
 title: "KickAss Britchen Red"
 date: "2018-10-19"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "other-red-blends"
   - "zinfandel"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "aronhill-vineyards"
   - "kickass-britchen-red"
   - "tasting-notes"
@@ -23,7 +23,13 @@ tags:
 
 The Britchen Red is a blend of AronHill's estate primitivo (zinfandel) and cabernet sauvignon grapes, with some added zinfandel from elsewhere, likely still in the Templeton Gap area. Aside from the questionable label copy capitalization choices, I found the Britchen Red rather ideal for food pairings, offering a nose of blue cheese-laced fondue and stewing currants and prunes. The fruits continue into the glass, where lively tannins provide electricity that livens it up. Drinkable on its own but would work great with carnitas.
 
-\[caption id="attachment\_26029" align="aligncenter" width="40"\][![4/5](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif) 4/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![4/5](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif) 4/5</div>
+
 
 It's available for purchase on the [AronHill Vineyards website](https://www.aronhillvineyards.com/product/Britchen-Red).
 

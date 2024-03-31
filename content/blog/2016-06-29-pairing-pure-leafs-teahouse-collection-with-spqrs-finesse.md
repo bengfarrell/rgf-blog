@@ -1,14 +1,14 @@
 ---
 title: "Pairing Pure Leaf's Tea House Collection with SPQR's Finesse!"
 date: "2016-06-29"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "events"
   - "food-product-review"
   - "product-reviews"
   - "recipes-2"
   - "restaurants"
-tags: 
+tags:
   - "almond-cake-bars"
   - "chef-accarrino"
   - "michael-accarrino"
@@ -27,7 +27,13 @@ tags:
   - "waygu-beef"
 ---
 
-\[caption id="attachment\_26209" align="aligncenter" width="500"\][![Chef Matthew Accarrino of SPQR](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-05-500x350.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-05.jpg) Chef Matthew Accarrino of SPQR\[/caption\]
+
+
+
+<div class="caption">
+
+[![Chef Matthew Accarrino of SPQR](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-05-500x350.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-05.jpg) Chef Matthew Accarrino of SPQR</div>
+
 
 Last week, I had the pleasure of trying Chef Matthew Accarrino's cooking for the first time. No, I didn't try it at [SPQR](http://spqrsf.com/), the Michelin-starred restaurant the chef calls home. I sampled it at a travelling tea house!
 
@@ -49,11 +55,23 @@ Yes, I'm beginning with dessert and I'm unashamed. Impressed by the bars' boldne
 
 But man cannot live on sweets alone--or can he? Shall we test that theory?
 
-\[caption id="attachment\_26216" align="aligncenter" width="334"\][![SPQR strawberry summer soup](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-19-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-19.jpg) Chilled Summer Soup\[/caption\]
+
+
+
+<div class="caption">
+
+[![SPQR strawberry summer soup](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-19-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-19.jpg) Chilled Summer Soup</div>
+
 
 While sweet from natural fruit sugars, this strawberry dish is not dessert but a gazpacho-like combination of cucumber, tomato, bell pepper, basil, and jalapeno pureed into smoothness with the strawberries. Accarrino used Pure Leaf's Sicilian Lemon & Honeysuckle tea for this one. It's the most conventional combination in the Tea House Collection, as it's a pretty close approximation of a standard black tea with more delicate lemon and honey notes, but using it makes a lot of sense in combination with the soup's ingredients. The gently dehydrated strawberry garnishes add an essential pop to the dish that fresh strawberries on their own would not. You can find the recipe for it at the end of this post.
 
-\[caption id="attachment\_26213" align="aligncenter" width="416"\][![accarrino tea spritzer pure leaf](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-11-416x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-11.jpg) Tea "Spritz"\[/caption\]
+
+
+
+<div class="caption">
+
+[![accarrino tea spritzer pure leaf](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-11-416x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-11.jpg) Tea "Spritz"</div>
+
 
 This gentle cocktail reminded me a lot of the [Bon Affair Sauvignon Blanc](http://thegourmez.com/2015/09/21/bon-affair-sauvignon-blanc/) wine spritzer I reviewed last fall. Both are slight, with fleeting impressions of minerality. The Wild Blackberry & Sage tea was featured, though it didn't have a strong presence--you'll be fine with this drink even if you don't like black tea. This is a cocktail for thirst-quenching, one that won't weigh you down.
 
@@ -73,7 +91,13 @@ The Pure Leaf Tea House Collection highlights deft handling of subtle dried plan
 
 You can have the same experience I had! Or at least a facsimile of it. Pure Leaf will be sampling their new teas at the Ferry Building Farmers' Market on 6/30, 7/2, 7/7, and 7/9. Pick up a bottle of the Sicilian Lemon & Honeysuckle to use in that chilled summer soup recipe copied below. I'll share a few more of Chef Accarrino's recipes throughout the season. Thank you, Pure Leaf and Chef Accarrino, for inventing them!
 
-\[caption id="attachment\_26215" align="aligncenter" width="500"\][![summer strawberry soup spqr](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-18-500x399.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-18.jpg) Chef Accarrino garnishing the summer soup with basil oil.\[/caption\]
+
+
+
+<div class="caption">
+
+[![summer strawberry soup spqr](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-18-500x399.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-18.jpg) Chef Accarrino garnishing the summer soup with basil oil.</div>
+
 
 **Chilled Summer Soup**
 

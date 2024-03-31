@@ -1,10 +1,10 @@
 ---
 title: "Infuse Your Meal at the Infusion Lounge When You Visit San Francisco"
 date: "2015-11-16"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "restaurants"
-tags: 
+tags:
   - "asian-fusion"
   - "dancing"
   - "deals"
@@ -30,7 +30,13 @@ It’s no secret, the city of San Francisco is one of the most inviting cities i
 
 Without a doubt, the cuisine of San Francisco is broad and varied. But one spot that everyone, tourist and locals alike, needs to experience is the [Infusion Lounge](https://www.groupon.com/biz/san-francisco/infusion-lounge). This isn’t your typical restaurant; the Infusion Lounge has everything you are looking for in a great dinner spot. Start with the menu. Created by Chef Evan Turn, Infusion features a menu full of Pan-Asian dishes. Traditional appetizers like mini burgers are topped with wasabi aioli. Entrees have a similar Asian flare. Tea-scented coconut ribs and papaya-mango salads are just a few of the items that will have your mouth watering. The cocktail menu is just as varied. Lemon-drop cocktails are topped with a hint of ginger by bartenders that can make any drink that you desire.
 
-\[caption id="attachment\_25318" align="aligncenter" width="440"\][![ff](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/groupon-infusion.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/groupon-infusion.jpg) Photo taken from [the Groupon Page.](https://www.groupon.com/biz/san-francisco/infusion-lounge)\[/caption\]
+
+
+
+<div class="caption">
+
+[![ff](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/groupon-infusion.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/groupon-infusion.jpg) Photo taken from [the Groupon Page.](https://www.groupon.com/biz/san-francisco/infusion-lounge)</div>
+
 
 The food and drink menus obviously will get you in the door, but to get you to stay, Infusion transforms itself into more than a restaurant. After you finish your meal you get to trade the dim red lighting and white-clothed tables of the dining room for Infusion’s dance floor. There aren’t many restaurants that have a full dance floor in them, but Infusion is one of them! Red and orange neon lights illuminate the dance floor as visitors have the opportunity to dance along to the tracks the DJ is playing or the songs the live band is performing. Is it a little surreal to have a mini club inside a restaurant? Sure. Will you have a dining experience like none other? Absolutely. Fusion isn’t just a restaurant, it is a one-stop destination for you to start your night off.
 

@@ -1,10 +1,10 @@
 ---
 title: "Parker and Otis (Durham)"
 date: "2010-06-07"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "baked-goods"
   - "candy"
   - "coffee"
@@ -54,6 +54,12 @@ I think my lack of enthusiasm probably had something to do with thinking that $2
 
 To sum up:  fantastic sandwich, great atmosphere, variety galore, good coffee, boring side.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 5.26.10._

@@ -1,12 +1,12 @@
 ---
 title: "Stanley Park"
 date: "2016-01-15"
-categories: 
+categories:
   - "dining-vancouver-canada"
   - "restaurants"
   - "travel-guide-for-vancouver"
   - "travel-product-review"
-tags: 
+tags:
   - "burrard-inlet"
   - "canada"
   - "coal-harbor"
@@ -27,13 +27,25 @@ tags:
   - "visitors-guide"
 ---
 
-\[caption id="attachment\_25491" align="aligncenter" width="500"\][![At Prospect Point](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-075-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-075.jpg) At Prospect Point\[/caption\]
+
+
+
+<div class="caption">
+
+[![At Prospect Point](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-075-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-075.jpg) At Prospect Point</div>
+
 
 Time for the next installment in my Vancouver, Canada, series! This time, I won’t make you read through the whole post to get the code for a free night’s stay at a local’s place. That comes courtesy of Nightswapping, who comped my two nights in the city. The code is **Gourmez-NS**, which you can redeem after [making an account with Nightswapping](https://www.nightswapping.com/en-us/login/signup-mode) and typing it into the “Add Promo Code” or “Add Coupon” section. What’s Nightswapping? A new global travel app [I reviewed right here.](http://thegourmez.com/2015/12/07/product-review-nightswapping-a-new-travel-lodging-exchange-site/)
 
 We spent one of our two days in Vancouver at [Stanley Park](http://vancouver.ca/parks-recreation-culture/stanley-park.aspx), established in 1888. This national park takes up nearly 1,000 acres, spanning all of downtown Vancouver’s northwestern peninsula. The tundra is mainly rainforest, though the biggest draw is probably the 5.5 mile, multi-use Seawall trail that rings the park, allowing for views of English Bay and the Vancouver harbor.
 
-\[caption id="attachment\_25496" align="alignnone" width="900"\][![Coal Harbor](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-012-1024x414.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-012.jpg) Coal Harbor\[/caption\]
+
+
+
+<div class="caption">
+
+[![Coal Harbor](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-012-1024x414.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-012.jpg) Coal Harbor</div>
+
 
 Biking is the ideal way to travel the Seawall trail, but if you’re walking, like we were, you can still take in a lot of the park in a day. We started at the information center, where horse-drawn carriage tours are available for booking. The Coal Harbor views impressed me; they were my first looks at downtown Vancouver.
 
@@ -85,7 +97,13 @@ It’ll likely be inspiration for the next forest fantasy scene I write. The tra
 
 After crossing one road and one visitor parking lot, we arrived.
 
-\[caption id="attachment\_25489" align="aligncenter" width="500"\][![Almost there!](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-067-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-067.jpg) Almost there!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Almost there!](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-067-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-067.jpg) Almost there!</div>
+
 
 The endpoint I had in mind? [Prospect Point.](http://www.prospectpoint.ca/Prospect_Point/Home.html)
 
@@ -97,7 +115,13 @@ This viewpoint is where Burrard Inlet and English Bay meet, granting a panoramic
 
 By this time, we had worked up quite an appetite and were thrilled Prospect Point has a restaurant, one of five eateries located in Stanley Park. It’s essentially a giant patio, and being out of season, acquiring a window seat was no problem.
 
-\[caption id="attachment\_25493" align="aligncenter" width="500"\][![Ben shows off the view.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-079-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-079.jpg) Ben shows off the view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Ben shows off the view.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-079-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-079.jpg) Ben shows off the view.</div>
+
 
 My husband went straight for a flight of the local beers offered--
 
@@ -109,7 +133,13 @@ My husband went straight for a flight of the local beers offered--
 
 It was very, very good. Our lunch provided a welcome, and heartening, respite before heading back south along the Seawall and inland toward the bus stops near the gardens.
 
-\[caption id="attachment\_25495" align="aligncenter" width="900"\][![ Last view of Burrard Inlet.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-086-1024x174.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-086.jpg) Last view of Burrard Inlet.\[/caption\]
+
+
+
+<div class="caption">
+
+[![ Last view of Burrard Inlet.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-086-1024x174.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-086.jpg) Last view of Burrard Inlet.</div>
+
 
 It was darkening fast at that point in the day, and my energy had waned, so we did not check out the gardens, except for a quick peek at the Air Force Remembrance Garden. I imagine they are most delightful in the spring, so those, the Aquarium, and walking along the western side of the Seawall will wait for a return trip. Even then, I won’t have seen half of what Stanley Park has to offer!
 

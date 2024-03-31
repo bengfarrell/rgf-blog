@@ -1,10 +1,10 @@
 ---
 title: "La Granja 360 Tempranillo 2008---Wine Review"
 date: "2010-04-01"
-categories: 
+categories:
   - "red-wine-review"
   - "tempranillo"
-tags: 
+tags:
   - "2008"
   - "clove"
   - "dark-chocolate"
@@ -24,7 +24,13 @@ My first impression on drinking: This is not a great wine. Both the nose and fir
 
 So, a rough beginning but a smooth ending.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+  Other Bloggers' Thoughts:
 
 [](http://yourwinepick.com/2010/01/29/2008-la-granja-360-tempranillo/)Your Wine Pick
 

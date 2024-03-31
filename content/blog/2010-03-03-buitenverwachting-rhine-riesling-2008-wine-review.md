@@ -1,10 +1,10 @@
 ---
 title: "Buitenverwachting Rhine Riesling 2008---Wine Review"
 date: "2010-03-03"
-categories: 
+categories:
   - "riesling"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2008-vintage"
   - "buitenverwachting-rhine-riesling"
   - "lime"
@@ -23,7 +23,13 @@ I thought it was bubbly at first, which definitely confused me, but it's just so
 
 I like this wine a lot, which is great because I've been in a riesling dry spell. They've all seemed too sweet and mediocre lately, and I'm glad to have found one I enjoy again.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 **Other Bloggers' Thoughts:**
 

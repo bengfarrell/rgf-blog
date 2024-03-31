@@ -1,10 +1,10 @@
 ---
 title: "Los Portales, Southpoint (Durham) -- Restaurant Review"
 date: "2009-11-19"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "durham-mexican-food"
   - "los-portales-restaurant"
   - "los-portales-southpoint-durham"
@@ -43,6 +43,12 @@ She was not impressed with her food and reported that the enchilada was crispy a
 
 Overall, I found Los Portales to be an okay option for Mexican-American fare, though not enough to lure me from Bandidos when I'm craving that particular brand of Mexican food. I might go back to try the tacos, though, as they looked pretty traditional and appealing from the photo in the menu.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
+
 
 _Reviewed 11.12.09_.

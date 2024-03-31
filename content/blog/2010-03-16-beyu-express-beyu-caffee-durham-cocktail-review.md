@@ -1,10 +1,10 @@
 ---
 title: "Beyu Express (Beyu Caffee, Durham)---Cocktail Review"
 date: "2010-03-16"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "beyu-caffee"
   - "beyu-express"
   - "butterscotch"
@@ -21,6 +21,12 @@ tags:
 
 My picture does not do this drink justice. It's a martini made with chilled espresso, butterscotch, coffee and chocolate liquors, and milk. Fantastic, a perfect blend of flavors. The butterscotch was used sparingly, providing only an occasional hint of its presence, while the espresso was top notch, and the liquors complemented its bitterness perfectly. It also avoided being too creamy of a drink-milk was the right choice of fatness for the dairy.
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+
 
 _Reviewed 3.5.10._

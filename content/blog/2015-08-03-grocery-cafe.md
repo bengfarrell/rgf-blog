@@ -1,10 +1,10 @@
 ---
 title: "Grocery Cafe"
 date: "2015-08-03"
-categories: 
+categories:
   - "oakland-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "burmese"
   - "carolina-reaper"
   - "catfish-stew"
@@ -36,11 +36,29 @@ First thing you notice coming in is a giant bush of Carolina reaper peppers—
 
 The menu offers around 15 Burmese specialties, ranging in price from $9 to $12.50 for lunch. With a group our size, we ordered nearly half the menu!
 
-\[caption id="attachment\_24791" align="aligncenter" width="500"\][![ A mixed tea leaf salad](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_009-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_009.jpg) A mixed tea leaf salad\[/caption\]
 
-\[caption id="attachment\_24792" align="aligncenter" width="500"\][![Fish chowder with rice noodles](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_010-500x342.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_010.jpg) Fish chowder with rice noodles\[/caption\]
 
-\[caption id="attachment\_24793" align="aligncenter" width="500"\][![Nan Gyi Toke, a chicken curry salad with rice noodles](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_011-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_011.jpg) Nan Gyi Toke, a chicken curry salad with rice noodles\[/caption\]
+
+<div class="caption">
+
+[![ A mixed tea leaf salad](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_009-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_009.jpg) A mixed tea leaf salad</div>
+
+
+
+
+
+<div class="caption">
+
+[![Fish chowder with rice noodles](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_010-500x342.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_010.jpg) Fish chowder with rice noodles</div>
+
+
+
+
+
+<div class="caption">
+
+[![Nan Gyi Toke, a chicken curry salad with rice noodles](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_011-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_011.jpg) Nan Gyi Toke, a chicken curry salad with rice noodles</div>
+
 
 Most everyone was impressed with the level of spice in the dishes, edging close to the too hot border but not venturing over that line. I was more impressed by how that heat mixed in with the rest of the ingredients in my rainbow noodle salad.
 

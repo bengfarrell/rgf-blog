@@ -1,11 +1,11 @@
 ---
 title: "Roger Constant Lemaire Champage"
 date: "2017-06-16"
-categories: 
+categories:
   - "champagne"
   - "sparkling-wine-review"
   - "wine"
-tags: 
+tags:
   - "brix-chicks"
   - "champagne"
   - "luscious-lushes"
@@ -23,7 +23,13 @@ _Obligatory disclaimer: This tasting of Roger Constant Lemaire Champagne was ent
 
 It’s not every day you get to try some of the world’s best bubbly, and I’m a little in denial that this experience ever happened. But through [Luscious Lushes’s](http://lusciouslushes.com/) wine connections and [Brix Chick Liza’s](http://www.brixchicks.com/) hospitality, I was invited to try [Roger Constant Lemaire’s Champagne](http://www.champagne-lemaire.fr/en) a few months back, right before my tonsils were removed. Good timing!
 
-\[caption id="attachment\_27762" align="aligncenter" width="355"\][![Roger Constant Lemaire champagne](http://s3.amazonaws.com/thegourmez-wpmedia/2017/06/Lemaire-Champagne-3-355x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/06/Lemaire-Champagne-3.jpg) An Easter bubbly treat!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Roger Constant Lemaire champagne](http://s3.amazonaws.com/thegourmez-wpmedia/2017/06/Lemaire-Champagne-3-355x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/06/Lemaire-Champagne-3.jpg) An Easter bubbly treat!</div>
+
 
 Roger Constant Lemaire’s great-grandfather was the first in the family to grow grapes, and by 1860, his grandfather Désiré Lemaire had bought their first vineyard in Champagne’s birthplace. Roger’s father was the first in the family to make wine himself, and Roger took their winemaking to the next level by 1945, having mastered grape blending. His daughter, Brigitte, her husband, and their children, Sébastien and Guillaume, run the estate now. This is a family legacy to be proud of. I can confirm that with every glass.
 

@@ -1,11 +1,11 @@
 ---
 title: "Kinston, NC, Blogging: Mother Earth Brewing"
 date: "2013-04-01"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "breweries-in-kinston-nc"
   - "kinston-north-carolina-travel"
-tags: 
+tags:
   - "beer"
   - "brewery"
   - "downtown"
@@ -24,7 +24,13 @@ tags:
 
 In [my first blog](http://www.thegourmez.com/?p=6071) on this day trip to Kinston, I mentioned being pleasantly surprised to see [Mother Earth Brewing](http://www.motherearthbrewing.com/index.jsp) loom up as we entered downtown.
 
-\[caption id="attachment\_6113" align="aligncenter" width="1024"\][![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Mother-Earth-Brewing-01-1024x270.jpg)](http://www.thegourmez.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/mother-earth-brewing-01/) Click twice for the largest view!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Mother-Earth-Brewing-01-1024x270.jpg)](http://www.thegourmez.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/mother-earth-brewing-01/) Click twice for the largest view!</div>
+
 
 My husband is a fan of their Weeping Willow Wit, a Belgian-style beer that is often his choice when picking a local draft from a restaurant, so stumbling upon their brewery was especially exciting for us. Stopping in to relax at their taproom for a while was perfect after a day spent traipsing around the riverfront.  The brewery is located at 311 N. Heritage St.
 

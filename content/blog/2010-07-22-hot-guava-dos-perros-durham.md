@@ -1,11 +1,11 @@
 ---
 title: "Hot Guava (Dos Perros, Durham)"
 date: "2010-07-22"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
   - "tequila"
-tags: 
+tags:
   - "cocktails-durham"
   - "dos-perros"
   - "guava-juice"
@@ -26,6 +26,12 @@ The Hot Guava is a margarita made from guava juice, jalapenos, tequila, and lime
 
 Now, I love spice, so I drank this happily, but it's definitely not the best jalapeno cocktail I've had. [The Sting](../../../../../?p=472=1) at the Hive gets that honor.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Reviewed 7.9.10._

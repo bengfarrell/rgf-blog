@@ -1,11 +1,11 @@
 ---
 title: "Taylor Marsala -- Wine Review"
 date: "2010-01-26"
-categories: 
+categories:
   - "fortified-wine"
   - "marsala"
   - "wine"
-tags: 
+tags:
   - "dessert-wine"
   - "finger-lakes-wine"
   - "peach"
@@ -30,6 +30,12 @@ Vyas Sanzgiri @ Tuka Mhane--
 
 Deeply golden, warm and fruity, Taylor Marsala is a classic flavor in gourmet cooking and a smooth satisfying dessert wine. It is a creamy, medium sweet marsala with raisin-like flavoring. A delicious gourmet touch in recipes or for sipping. Serve at room temperature.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+
 
 _Reviewed by The Gourmez 1.16.10._

@@ -1,7 +1,7 @@
 ---
 title: "Bon Affair Sauvignon Blanc"
 date: "2015-09-21"
-categories: 
+categories:
   - "food-product-review"
   - "product-reviews"
   - "sauvignon-blanc"
@@ -9,7 +9,7 @@ categories:
   - "sparkling-wine-review"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "a-glass-after-work"
   - "alleigh"
   - "bloggers"
@@ -37,7 +37,13 @@ As Jayla described it to me, Bon Affair’s intended customer base is a subset 
 
 I recently sampled the sauvignon blanc along with fellow wine blogger, Alleigh of [A Glass After Work](http://aglassafterwork.com/blog/).  (Update: [Here's Alleigh's take!](http://aglassafterwork.com/blog/?p=3316))
 
-\[caption id="attachment\_25044" align="aligncenter" width="500"\][![Virtual Alleigh with her non-virtual sample bottle.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Bon-affair-500x379.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Bon-affair.jpg) Virtual Alleigh with her non-virtual sample bottle and a mini-me!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Virtual Alleigh with her non-virtual sample bottle.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Bon-affair-500x379.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Bon-affair.jpg) Virtual Alleigh with her non-virtual sample bottle and a mini-me!</div>
+
 
 **Obligatory Disclaimer!** _Sampled_, in this case, means we were both given a free bottle for review. And we decided why not review it together? Since we’re on opposite coasts, that meant a Google Hangout session. I think it’s fair to say Alleigh and I approached the spritzer with suspicion; part of why we’d been given the bottle was to provide a “serious” wine drinker’s impression of it, and skepticism of new wine products comes with the territory.
 

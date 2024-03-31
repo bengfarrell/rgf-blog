@@ -1,10 +1,10 @@
 ---
 title: "Jujube (Glen Lennox, Chapel Hill)"
 date: "2007-04-27"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "restaurants"
-tags: 
+tags:
   - "chapel-hill-restaurant"
   - "glen-lennox"
   - "jujube"
@@ -24,4 +24,10 @@ We ended the meal with Vietnamese Ice Cream and Shortbread. The ice cream was li
 
 If you're in the mood for a cozy table with intriguing food, then give Jujube a try!
 
-\[caption id="attachment\_59" align="alignleft" width="40"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars</div>
+

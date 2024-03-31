@@ -1,10 +1,10 @@
 ---
 title: "Mawa's Taste of Africa with the Social Media Supper Club *CLOSED*"
 date: "2011-01-25"
-categories: 
+categories:
   - "cary-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "african-morrisville"
   - "african-triangle"
   - "bissap"
@@ -31,9 +31,21 @@ Per the front of the menu, MAWA stands for My Authentic West African, but it doe
 
 The dim lighting could stand to be softened, but otherwise, the interior of Mawa’s is attractive and welcoming. The walls are orange with African masks hung on them. Murals of African animals and baobab trees adorned the overhang and back wall.
 
-\[caption id="attachment\_2140" align="aligncenter" width="400" caption="Blurry Rocio and Mandy, unaware of the charging elephants above them."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa11.jpg "mawa11")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa11.jpg)\[/caption\]
 
-\[caption id="attachment\_2140" align="aligncenter" width="400" caption="Brian and Dawn in front of the baobab mural and some rattan screens that hid a traditional African eating area."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa10.jpg "mawa10")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa10.jpg)\[/caption\]
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa11.jpg "mawa11")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa11.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa10.jpg "mawa10")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa10.jpg)</div>
+
 
 We ordered a number of tasty drinks. I had the iced Moroccan mint tea. Mint teas are always refreshing, but this one was too close of a relation to southern sweet tea for my taste buds—in other words, I’d like it unsweetened. From two small sips, I’d say the mango juice and the bissap hibiscus fruit punch were also pretty good.
 
@@ -43,7 +55,13 @@ The group ordered an appetizer sampler for $10. It included fatayas (minced beef
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa09.jpg "mawa09")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa09.jpg)
 
-\[caption id="attachment\_2140" align="aligncenter" width="329" caption="Mandy and Rocio showing their appetizer appreciation."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa08.jpg "mawa08")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa08.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa08.jpg "mawa08")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mawa08.jpg)</div>
+
 
 I loved the accara—they were similar to falafel, but somewhat spongy in texture due to the combination of smashed up beans and cornmeal. The tomato-onion sauce served with them was delicious and somewhat spicy. The fatayas were pretty good, housing lightly seasoned ground beef in a tasty pastry crust. Neemes are a heavier version of a spring roll, not my favorite of the bunch with its chewy texture but interesting, nonetheless. The plantains and shrimp beignets were delicious. Dawn was sticking to a vegan diet, and without even asking, they surprised her with vegan appetizers on a small plate since she couldn’t partake in the large sampler.
 

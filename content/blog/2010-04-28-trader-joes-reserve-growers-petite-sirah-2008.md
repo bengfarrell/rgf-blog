@@ -1,10 +1,10 @@
 ---
 title: "Trader Joe's Reserve Growers Petite Sirah 2008"
 date: "2010-04-28"
-categories: 
+categories:
   - "petite-sirah"
   - "red-wine-review"
-tags: 
+tags:
   - "2008-raspberry"
   - "anise"
   - "boozing-it"
@@ -20,7 +20,13 @@ tags:
 
 Nice raspberry and leather nose with plenty of clove. The wine is surprisingly thin before the spices fill in the gaps. Clove is indeed one of those spices, and anise is, too. The fruit is there, but it's second fiddle to the spice. In addition to the raspberry, there is a smoother fruit flavor, perhaps persimmon, but maybe even mango. The wine is plenty good for your daily glass.
 
-\[caption id="attachment\_55" align="alignnone" width="40" caption="2 stars"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+  Other Bloggers' Thoughts:
 
 [Boozing It](http://www.boozingit.com/2010/01/2008-trader-joes-petite-sirah-growers.html)
 

@@ -36,7 +36,13 @@ Shall we drink?
 
 **My score:**
 
-\[caption id="attachment\_24389" align="alignnone" width="40"\][![](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif) 4.5/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif) 4.5/5</div>
+
 
 **Bravante Vineyards 2013 Trio**
 
@@ -44,6 +50,12 @@ Shall we drink?
 
 **My score:**
 
-\[caption id="attachment\_24389" align="alignnone" width="40"\][![](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif) 4/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif) 4/5</div>
+
 
 _Reviewed 13 December 2018._

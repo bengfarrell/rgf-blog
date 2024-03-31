@@ -1,9 +1,9 @@
 ---
 title: "Wine Review--Rockbridge Lexington &amp; Concord"
 date: "2009-06-29"
-categories: 
+categories:
   - "dessert-wine-reviews"
-tags: 
+tags:
   - "concord-grape-wine"
   - "dessert-or-table-wine"
   - "rockbridge-lexington-concord"
@@ -22,4 +22,10 @@ It smells strongly of grape juice with a hint of musty leather.  The concord gr
 
 I have a feeling the alcohol of this wine is the type that sneaks up on you, obscured by the sweetness as it is.  It would pair well with a fruit-based dessert, though I wouldn't think chocolate would be a good choice.  What, you say, is this a dessert wine?  By labeling it a table wine, I would think not.  Yet after drinking it, I dub it one without hesitation.   Rather than inspire me to rebellion, it makes me wish I had some fresh fruit around to bake a pie.
 
-\[caption id="attachment\_55" align="alignnone" width="40" caption="2 stars"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+

@@ -1,10 +1,10 @@
 ---
 title: "Southern Fast Food Series #2: Chick-fil-A--Restaurant Review"
 date: "2010-02-18"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bojangles"
   - "chargrilled-chicken-club"
   - "chick-fil-a"
@@ -41,7 +41,13 @@ There was a thick layer of meringue that was a bit wetter than meringue should b
 
 Alas, fries and dessert aren't enough to get me back to a fast food joint unless in a pinch. Chick-fil-A sandwiches seem subpar and boring to me, so unless someone wants to convince me to try a wrap or a salad, I don't see myself frequenting this particular southern chain. So far, I give the edge to [Bojangles'](http://www.thegourmez.com/?p=717), but there are more southern fast food chains to be explored.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
+
 
 _Reviewed 2.12.10._
 

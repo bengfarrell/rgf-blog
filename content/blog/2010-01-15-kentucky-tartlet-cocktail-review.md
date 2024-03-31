@@ -1,10 +1,10 @@
 ---
 title: "Kentucky Tartlet -- Cocktail Review"
 date: "2010-01-15"
-categories: 
+categories:
   - "bourbon"
   - "recipes"
-tags: 
+tags:
   - "ancient-age"
   - "bourbon-whiskey"
   - "cocktail-recipes"
@@ -30,7 +30,13 @@ Shake together and pour into a martini glass that ought to have been chilled, bu
 
 **The Verdict:** Pretty good, actually. It lacks the tartness I was hoping for from the limeade, but those drops of rosewater give it a lot of depth. Believe me, keep it to two drops; overdosing on rosewater is not a good idea. I've ruined a good number of cocktails that way. But back to this drink, I don't taste the bourbon whiskey much, but it's stronger toward the bottom and combines well with the other ingredients. The juice is too sweet and should probably be cut back to two shots' worth, which would bring out the bourbon whiskey more, too. The triple sec and rosewater are definitely present in the right amounts.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 With some fiddling, it could easily rise to an avocado.
 

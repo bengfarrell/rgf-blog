@@ -1,10 +1,10 @@
 ---
 title: "Forage for Porcini in Italy with Punk Domestics!"
 date: "2015-08-20"
-categories: 
+categories:
   - "announcements"
   - "events"
-tags: 
+tags:
   - "cheese"
   - "classes"
   - "cooking"
@@ -25,7 +25,13 @@ tags:
   - "travel"
 ---
 
-\[caption id="" align="aligncenter" width="400"\][![](http://cdn.punkdomestics.com/sites/default/files/u7/SeanTimberlake)](http://www.punkdomestics.com) Sean Timberlake, photo by Paul Brown.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://cdn.punkdomestics.com/sites/default/files/u7/SeanTimberlake)](http://www.punkdomestics.com) Sean Timberlake, photo by Paul Brown.</div>
+
 
 My friend Sean Timberlake, founder of the beautiful [Punk Domestics](http://www.punkdomestics.com/) canning and preservation blog, has been leading hands-on culinary tours to Italy since 2012.  He has two coming up, 10/8/15--10/14/15 and 1/14/16--1/20/16, based out of the Emilia-Romagna region of Italy. These are can't miss experiences for those of you who love diving deep into food roots to gain a richer understanding of how we cultivate and make the Italian cuisine we love. While I'm just getting to know Sean, I'm positive he makes for a charming and knowledgeable guide throughout these tours.
 

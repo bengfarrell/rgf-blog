@@ -21,7 +21,13 @@ I may not be a bro, but I know a good present when I see one. [The BroBasket](ht
 
 So what's in a BroBasket? There are many different options, including mix and match, but most involve pairing either liquor or beer with snacks. Genius! We all know that good drinking needs good carbs to soak up the alcohol. I opted for **the BroBasket Ultimate Whiskey Sampler,** which retails for $99.95. I was impressed with how well packed the box was on arrival, using the wizardry of plastic and glue to appear as nicely arrayed as if it were hand-delivered.
 
-\[caption id="attachment\_28910" align="aligncenter" width="400"\][![the brobasket, gift basket, gift box, holiday gifts for men, holiday gifts, whiskey gift basket, snack basket](https://thegourmez-wpmedia.s3.amazonaws.com/2019/12/BroBasket-001-400x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/12/BroBasket-001.jpg) The BroBasket wrapped up.\[/caption\]
+
+
+
+<div class="caption">
+
+[![the brobasket, gift basket, gift box, holiday gifts for men, holiday gifts, whiskey gift basket, snack basket](https://thegourmez-wpmedia.s3.amazonaws.com/2019/12/BroBasket-001-400x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/12/BroBasket-001.jpg) The BroBasket wrapped up.</div>
+
 
 Unwrap the plastic and be amazed by the sheer number of items this basket contains! Two pouches of caramel and kettle Popcornopolis popcorn, one large Brookside's Acai and Blueberry dark chocolate bites package, one glass tumbler, one coaster, and the hard-plastic gift tin itself, which can be used for any household items you need to corral. Oh, and did I mention the TEN SAMPLE BOTTLES OF WHISKEY?!
 

@@ -1,10 +1,10 @@
 ---
 title: "Cafe Meridian"
 date: "2010-07-06"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "big-burrito"
   - "cafe-meridian"
   - "chicken-pesto-sandwich"
@@ -49,6 +49,12 @@ It was dense and had plenty of moisture and lemony vibrancy. I would call it an 
 
 Café Meridian made a great sandwich and definitely had me eyeing that burrito for a return visit. It's a shame they are only open for three hours a day, because this night owl often doesn't make it out to lunch until later.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 7.1.10._

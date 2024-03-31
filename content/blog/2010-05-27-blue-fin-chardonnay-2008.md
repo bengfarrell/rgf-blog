@@ -1,10 +1,10 @@
 ---
 title: "Blue Fin Chardonnay 2008"
 date: "2010-05-27"
-categories: 
+categories:
   - "chardonnay"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2008"
   - "bland-wine"
   - "blue-fin-chardonnay"
@@ -24,7 +24,13 @@ This wine is bland on first sip, but then a note of eucalyptus chimes in. It's j
 
 It's not a bad wine, but certainly doesn't tickle my taste buds.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1")</div>
+  Other Bloggers' Thoughts:
 
 [Eat Well and Prosper](http://eatwellandprosper.blogspot.com/2010/04/wine-of-week-blue-fin-2008-chardonnay.html)
 

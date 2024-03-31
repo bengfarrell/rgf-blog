@@ -1,10 +1,10 @@
 ---
 title: "Dame's Chicken and Waffles"
 date: "2011-04-18"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "dames-chicken-and-waffles"
   - "darn-good"
   - "downtown"
@@ -22,7 +22,13 @@ tags:
 
 When my family was in town, I had the chance to participate in a very important event for any Durhamite---I went to Dame’s Chicken and Waffles for the first time.
 
-\[caption id="attachment\_2576" align="aligncenter" width="400" caption="Note the chicken made of waffles logo on the door."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/dames9.jpg "dames9")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/dames9.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/dames9.jpg "dames9")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/dames9.jpg)</div>
+
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/dames2.jpg "dames2")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/dames2.jpg)
 

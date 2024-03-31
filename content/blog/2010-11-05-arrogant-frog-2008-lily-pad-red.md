@@ -1,11 +1,11 @@
 ---
 title: "Arrogant Frog 2008 Lily Pad Red"
 date: "2010-11-05"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "merlot"
   - "red-wine-review"
-tags: 
+tags:
   - "2008"
   - "arrogant-frog"
   - "beef-jerky"
@@ -23,7 +23,13 @@ The Lily Pad Red is a mix of cabernet sauvignon and merlot, both perfectly good 
 
 There’s not much going on in this wine, but it’s pleasant.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)</div>
+
 
 Other Bloggers’ Thoughts:
 

@@ -1,13 +1,19 @@
 ---
 title: "My Cat is Home"
 date: "2010-01-25"
-categories: 
+categories:
   - "announcements"
 ---
 
 Last summer, I posted this [blog](http://www.rebeccagomezfarrell.com/?p=336 "My Cat is Missing") about my cat, Loki, having disappeared a week earlier. It is leaps and bounds ahead of every other blog entry I've posted in terms of hits, and that must be because so many people have had pets go missing and reach out to find others in the same situation to look for some hope that their own animals might return.
 
-\[caption id="attachment\_337" align="alignleft" width="432"\]![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/06/loki-lost.jpg "loki-lost") Loki's Misssing Photo\[/caption\]
+
+
+
+<div class="caption">
+
+![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/06/loki-lost.jpg "loki-lost") Loki's Misssing Photo</div>
+
 
 Well, there is hope! Loki has returned! Last Friday, eight months after he disappeared, I received a phone call from Home Again, one of the microchip pet locator services.
 

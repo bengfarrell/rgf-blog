@@ -1,10 +1,10 @@
 ---
 title: "Bocci Trattoria (Sutton Station, Durham)"
 date: "2007-04-27"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bocci-trattoria"
   - "durham-restaurants"
   - "sutton-station"
@@ -24,4 +24,10 @@ We ended with a slice of turtle cheesecake that satisfied my sweet tooth but was
 
 Bocci gets rave reviews online for the pizza and we gave it a try on our next time out. It's so well-done that it made me raise my rating to an avocado.
 
-\[caption id="attachment\_49" align="alignleft" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+

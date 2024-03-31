@@ -1,10 +1,10 @@
 ---
 title: "Alfredo's Pizza Villa (Hope Valley Shopping Center, Durham)---Restaurant Review *CLOSED*"
 date: "2010-04-13"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "alfredos-pizza-villa"
   - "basil"
   - "caesar-salad"
@@ -35,6 +35,12 @@ Alfredo's is a definitely a great choice for pizza. I'm not sure about the rest 
 
 I don't think I'd be drawn again to Alfredo's if the pizza weren't so good. But that was definitely impressive enough to give them another try.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+
 
 _Reviewed 4.1.10_

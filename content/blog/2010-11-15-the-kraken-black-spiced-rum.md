@@ -1,9 +1,9 @@
 ---
 title: "The Kraken Black Spiced Rum"
 date: "2010-11-15"
-categories: 
+categories:
   - "rum-review"
-tags: 
+tags:
   - "black-rum"
   - "dr-bamboo"
   - "drink-hacker"
@@ -25,7 +25,13 @@ Its color is interesting, like a black licorice rope, but the reddish-brown colo
 
 In my opinion, there’s too much alcohol bite for sipping, but it may make a great base for simple soda and rum combos or a floater for fruity drinks. For the record, the husband thinks it’s great for sipping and has been doing so for weeks now.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 3 stars</div>
+
 
 Other Bloggers’ Thoughts:
 

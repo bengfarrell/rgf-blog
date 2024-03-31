@@ -1,9 +1,9 @@
 ---
 title: "Mexican Creamsicle @ My Place"
 date: "2010-01-28"
-categories: 
+categories:
   - "recipes"
-tags: 
+tags:
   - "50-50-bar"
   - "cinnamon"
   - "irish-cream"
@@ -21,6 +21,12 @@ Shake the first four ingredients and pour over crushed ice. Sprinkle cinnamon on
 
 This cocktail, by all rights, should not be drinkable. But it is! I think it's the orange and irish cream; I simply love an orange creamsicle, 50-50 bar, whatever you want to call them. I definitely added too much cinnamon on top and I think I should have gone with my gut and sprinkled cardamom instead. The chocolate is in a very small portion and that works to its benefit, merely adding a velvety richness. The tequila works surprisingly well. Drinkable, but I'll definitely make improvements next time.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Invented on 1.18.10._

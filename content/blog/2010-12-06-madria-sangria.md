@@ -1,10 +1,10 @@
 ---
 title: "Madria Sangria"
 date: "2010-12-06"
-categories: 
+categories:
   - "other-red-blends"
   - "red-wine-review"
-tags: 
+tags:
   - "bottled-sangria"
   - "citrus"
   - "confessions-of-a-foodie"
@@ -24,7 +24,13 @@ It 's made with no grape varietal known to man---okay, at least none known to me
 
 If you don’t drink it for the quality of wine but think of it as a pretty good punch in a pinch, then go for it.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)</div>
+
 
 _Reviewed 11.24.10._
 

@@ -1,7 +1,7 @@
 ---
 title: "50 Years of Cabernet: The Chateau Montelena Dream Tasting"
 date: "2018-12-06"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "cabernet-sauvignon"
   - "chardonnay"
@@ -9,7 +9,7 @@ categories:
   - "tasting-rooms-in-napa-valley-ca"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "cabernet-sauvignon"
   - "chateau-montelena"
   - "vertical-tasting"
@@ -31,7 +31,13 @@ Up the stairs, past the lake and an outbuilding, resides the Chateau proper.
 
 [![chateau montelena, great room, tapestry](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Chateau-Montelena-Tasting-41-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Chateau-Montelena-Tasting-41.jpg)The tasting itself was led by Bo Barrett and Matt Crafton, who led us through fifty years of winemaking history at Chateau Montelena.
 
-\[caption id="attachment\_28275" align="aligncenter" width="500"\][![chateau montelena, dream tasting, cabernet sauvignon, bo barrett, matt crafton](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Chateau-Montelena-Tasting-16-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Chateau-Montelena-Tasting-16.jpg) Bo on the left, Matt on the right.\[/caption\]
+
+
+
+<div class="caption">
+
+[![chateau montelena, dream tasting, cabernet sauvignon, bo barrett, matt crafton](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Chateau-Montelena-Tasting-16-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Chateau-Montelena-Tasting-16.jpg) Bo on the left, Matt on the right.</div>
+
 
 Bo began winemaking under the tutelage of Mike Grgich after his father, Jim Barrett, bought the winery in 1972. Bo has been chief winemaker since the early 1980s and is CEO to this day, with Matt at the day-to-day winemaking helm. During its first decade, Chateau Montelena took home the storied Judgement of Paris Best White Wine award for its 1973 Chardonnay.
 

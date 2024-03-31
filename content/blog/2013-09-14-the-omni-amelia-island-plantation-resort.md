@@ -1,10 +1,10 @@
 ---
 title: "The Omni Amelia Island Plantation Resort"
 date: "2013-09-14"
-categories: 
+categories:
   - "restaurants"
   - "amelia-island-florida-travel"
-tags: 
+tags:
   - "adult"
   - "amelia-island"
   - "bakery"
@@ -32,7 +32,13 @@ tags:
   - "turtle"
 ---
 
-\[caption id="attachment\_6692" align="aligncenter" width="1024"\][![Click twice for a view of the hotel and cabanas.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_81-1024x106.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_81/) Click twice for a view of the hotel and cabanas.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Click twice for a view of the hotel and cabanas.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_81-1024x106.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_81/) Click twice for a view of the hotel and cabanas.</div>
+
 
 This is Part 2 of my blog posts on our Amelia Island vacation last May. [In Part 1,](http://www.thegourmez.com/2013/09/pajama-daves-amelia-river-cruise/) we cruised down the Amelia River, but we'll stay closer to the hotel this time, the [Omni Amelia Island Plantation Resort](http://www.omnihotels.com/FindAHotel/AmeliaIsland.aspx). Spacious rooms, a welcoming lobby and bar, and this each morning:
 
@@ -40,13 +46,25 @@ This is Part 2 of my blog posts on our Amelia Island vacation last May. [In Part
 
 Sunrise is not something I normally do, but I didn't mind when _that_ was what dragged me out of bed. Besides, I promptly went back to bed after snapping a few pictures. My husband was the one doing things on normal-people hours, not I. He was speaking at JS Conf.
 
-\[caption id="attachment\_6671" align="aligncenter" width="1024"\][![Conference center grounds. Click twice for the large view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_07-1024x370.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_07/) Conference center grounds. Click twice for the large view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Conference center grounds. Click twice for the large view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_07-1024x370.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_07/) Conference center grounds. Click twice for the large view.</div>
+
 
 I was living the life of someone who gets a free hotel room because her husband is speaking at JS Conf. It's a good life. Even if I never left the hotel grounds, it would have been enough. The grounds are so huge, I'm giving you only the top 5 areas of it to visit.
 
 **#5 The Sunken Forest**
 
-\[caption id="attachment\_6686" align="aligncenter" width="1024"\][![View from the top. Click twice for the largest image.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_61-1024x161.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_61/) View from the top. Click twice for the largest image.\[/caption\]
+
+
+
+<div class="caption">
+
+[![View from the top. Click twice for the largest image.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_61-1024x161.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_61/) View from the top. Click twice for the largest image.</div>
+
 
 These pathways may or may not have been closed for renovations when I explored the Sunken Forest, (closed, shh!), but it would have been a short, sweet adventure regardless. I'm not going to lie; rickety old stairs added to the appeal.
 
@@ -58,7 +76,13 @@ The Sunken Forest is a small thatch of forest hidden behind a sand dune. There a
 
 **#4 The Nature Center**
 
-\[caption id="attachment\_6682" align="aligncenter" width="332"\][![Wooden sculpture outside the Nature Center entrance.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_35-332x500.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_35/) Wooden sculpture outside the Nature Center entrance.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Wooden sculpture outside the Nature Center entrance.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_35-332x500.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_35/) Wooden sculpture outside the Nature Center entrance.</div>
+
 
 There are many family friendly activities at this resort including a minigolf course, biking, and daily crafting activities by the pool, but animals are always intriguing. At least they are for me, and that's without a kid to gawk at them. Who needs kids when I have my own sense of wonder?
 
@@ -78,15 +102,39 @@ The Nature Center also leads many daily exploration tours, so make sure to find 
 
 **#3 The Shops at Amelia Island Plantation**
 
-\[caption id="attachment\_6673" align="aligncenter" width="332"\][![ Lake at the center of the Shops.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_13-332x500.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_13/) Lake at the center of the Shops.\[/caption\]
+
+
+
+<div class="caption">
+
+[![ Lake at the center of the Shops.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_13-332x500.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_13/) Lake at the center of the Shops.</div>
+
 
 Just a little ways farther up the main path from the Nature Center is the Shops at Amelia Island, a shopping and dining center on resort grounds. There are a few great restaurants right near the hotel, but walking over to the Shops can be a great change of pace, especially with the gem of Marché Burette.
 
-\[caption id="attachment\_6674" align="aligncenter" width="500"\][![Cookies!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_17-500x332.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_17/) Cookies!\[/caption\]
 
-\[caption id="attachment\_6675" align="aligncenter" width="332"\][![Muffins!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_18-332x500.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_18/) Muffins!\[/caption\]
 
-\[caption id="attachment\_6676" align="aligncenter" width="500"\][![Personal-sized lemon meringues!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_20-500x332.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_20/) Personal-sized lemon meringues!\[/caption\]
+
+<div class="caption">
+
+[![Cookies!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_17-500x332.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_17/) Cookies!</div>
+
+
+
+
+
+<div class="caption">
+
+[![Muffins!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_18-332x500.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_18/) Muffins!</div>
+
+
+
+
+
+<div class="caption">
+
+[![Personal-sized lemon meringues!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_20-500x332.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_20/) Personal-sized lemon meringues!</div>
+
 
 Just look at all those goodies. They have a bakery, deli, and plenty of shelves full of gourmet delights.
 
@@ -120,13 +168,31 @@ Just strolling back on the path can be delightful.
 
 Of course the pool is one of the biggest draws here, and I loved its design with separate areas for adults and children.
 
-\[caption id="attachment\_6689" align="aligncenter" width="500"\][![Adult pool and spa just beyond the rock falls.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_76-500x332.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_76/) Adult pool and spa just beyond the rock falls.\[/caption\]
 
-\[caption id="attachment\_6691" align="aligncenter" width="1024"\][![Kid pool. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_79-1024x313.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_79/) Kid pool. Click twice for the largest view.\[/caption\]
+
+
+<div class="caption">
+
+[![Adult pool and spa just beyond the rock falls.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_76-500x332.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_76/) Adult pool and spa just beyond the rock falls.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Kid pool. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_79-1024x313.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_79/) Kid pool. Click twice for the largest view.</div>
+
 
 Poolside service is available at any of the chaise lounges with prompt attention and delicious drinks by the pitcher. But the Oceanside restaurant has a great view of both the pool and the ocean and surprisingly good food for a resort. Get there at sunset for the prettiest meal.
 
-\[caption id="attachment\_6669" align="aligncenter" width="500"\][![Crab salad with plantain chips.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_05-500x332.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_05/) Crab salad with plantain chips.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Crab salad with plantain chips.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_05-500x332.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_05/) Crab salad with plantain chips.</div>
+
 
 I'm basing my prior resort food experiences on an all-inclusive in Jamaica, so it was an entirely different world from this. Expensive? Yes, but about the same as a nice meal at most upscale restaurants at around $25-$30 a plate. That salad was chockfull of crab that soaked up all the delicious, vibrant flavors of the citrus, garlic, and tomato. The plantain chips were an inventive and enjoyable way to scoop it up.
 
@@ -140,7 +206,13 @@ Now that I've thoroughly fed you, it's time to hit the beach.
 
 **#1 The Beach**
 
-\[caption id="attachment\_6693" align="aligncenter" width="1024"\][![Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_82-1024x169.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_82/) Click twice for the largest view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_82-1024x169.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_82/) Click twice for the largest view.</div>
+
 
 The resort has an appealing row of cabanas for rent, but you can always save some dough and plop your towel anywhere on the private beach. And don't forget to get in your strolls at sunset.
 

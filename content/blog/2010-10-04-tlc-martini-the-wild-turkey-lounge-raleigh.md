@@ -1,11 +1,11 @@
 ---
 title: "TLC Martini @ the Wild Turkey Lounge"
 date: "2010-10-04"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-raleigh-nc"
   - "vodka"
-tags: 
+tags:
   - "angus-barn"
   - "cointreau"
   - "cranberry"
@@ -22,6 +22,12 @@ The Wild Turkey Lounge is the upstairs bar at the Angus Barn. It used to be the 
 
 But on to my drink! I tried their TLC martini, a new name for a standard cocktail offering of vodka, Chambord, Grand Marnier, and cranberry juice. It was a good drink—a vodka with some personality might have made it more intriguing. The raspberry came through most strongly, making me think I’d want more Cointreau to counter it, but I’m not sure that’d have been the best fix. The cranberry wasn’t strong, which is good, but the drink just didn’t stand out in general. Great ingredients, lack of imagination.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)</div>
+
 
 _Reviewed 9.10.10._

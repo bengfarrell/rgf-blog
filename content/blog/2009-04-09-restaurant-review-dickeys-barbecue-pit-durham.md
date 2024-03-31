@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Dickey's Barbecue Pit, Durham"
 date: "2009-04-09"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "boring-mac-and-cheese"
   - "dickeys"
   - "dickeys-barbecue-pit"
@@ -29,4 +29,10 @@ I grabbed a seat at one of the well-kempt wooden booths and tables, complete wit
 
 I guess I'd recommend Dickey's, if you wanted to spend a lot of money for a lot of meat and mostly flavorless accompaniments.  As those aren't my cup of tea, I won't be back.
 
-\[caption id="attachment\_203" align="aligncenter" width="40"\]![0 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_mushroom1.gif "rating_mushroom1") 0 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![0 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_mushroom1.gif "rating_mushroom1") 0 stars</div>
+

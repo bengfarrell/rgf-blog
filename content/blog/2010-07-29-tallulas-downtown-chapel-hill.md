@@ -1,10 +1,10 @@
 ---
 title: "Tallulas (Downtown Chapel Hill)"
 date: "2010-07-29"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "restaurants"
-tags: 
+tags:
   - "adana-kebob"
   - "chapel-hill"
   - "dining"
@@ -58,6 +58,12 @@ For me, with the atmosphere and the great food, Tallulas would be a chocolate tr
 
 That said, if you've got a couple of hours to spare, Tallulas is totally worth spending an evening at. Plus, I could feel happy in that ambiance all night.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 7.16.10._

@@ -1,14 +1,14 @@
 ---
 title: "Chai Bar by David Rio Launch Party"
 date: "2015-05-04"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "breweries-in-san-francisco-ca"
   - "coffee-shop"
   - "san-francisco-coffee-shop-reviews"
   - "events"
   - "sake"
-tags: 
+tags:
   - "barrel-breaking"
   - "cafe"
   - "chai"
@@ -44,11 +44,23 @@ The tiling and giant centerpiece of a bar were complete, but furniture, equipmen
 
 I'm no stranger to using my imagination, so I could see the potential as described by David Rio's co-founder, Scott Lowe. Opening a storefront was his and his wife's, co-founder Rio Miura, original dream when they launched the company. It's only taken 18 years to get there!
 
-\[caption id="attachment\_9912" align="aligncenter" width="500"\]![The bar.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/05/David_Rio_Chai_Bar_10-500x333.jpg) The bar.\[/caption\]
+
+
+
+<div class="caption">
+
+![The bar.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/05/David_Rio_Chai_Bar_10-500x333.jpg) The bar.</div>
+
 
 There will be a long, winding, and inviting couch along the left wall leading toward the experimental lab in back, where customers will be invited to give their opinions on the chai and tea creations under development. Teas from all over the world will be sampled here, not just Masala blends.
 
-\[caption id="attachment\_9913" align="aligncenter" width="372"\]![The Chai Lab.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/05/David_Rio_Chai_Bar_11-372x500.jpg) The Chai Lab.\[/caption\]
+
+
+
+<div class="caption">
+
+![The Chai Lab.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/05/David_Rio_Chai_Bar_11-372x500.jpg) The Chai Lab.</div>
+
 
 At the bar, one side will focus on making espresso drinks and the other will be full of wands for steaming milk. Different types of and methods for steaming milk products will be highlighted—and I don't just mean dairy milk, of course. Not in this day and age.
 
@@ -70,7 +82,13 @@ It's a delicate drink that retains the smooth, velvety qualities of the Sho Chik
 
 Or by the sake barrel?
 
-\[caption id="attachment\_9916" align="aligncenter" width="329"\]![Luis Ruvalbaca, general manager of the Chai Bar, with the celebratory sake barrel.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/05/David_Rio_Chai_Bar_15-329x500.jpg) Luis Ruvalbaca, general manager of the Chai Bar, with the celebratory sake barrel.\[/caption\]
+
+
+
+<div class="caption">
+
+![Luis Ruvalbaca, general manager of the Chai Bar, with the celebratory sake barrel.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/05/David_Rio_Chai_Bar_15-329x500.jpg) Luis Ruvalbaca, general manager of the Chai Bar, with the celebratory sake barrel.</div>
+
 
 The finale to the launch party was the breaking of a sake barrel, following a tradition from the homeland of Miura. A few David Rio associates and family members and a Zendesk representative took on the honors. One…two…three…
 

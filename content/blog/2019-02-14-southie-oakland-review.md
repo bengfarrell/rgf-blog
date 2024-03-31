@@ -15,11 +15,23 @@ tags:
 
 Readers, this is the first of several posts I have planned on my favorite haunts around the Bay Area. It has been too long since I've done restaurant, cocktail, and specialty shop reviews, and I miss them. These posts will generally be cumulative ones spanning my experience over several months or years rather than a single visit. And they are likely to be pretty positive, because these joints are the ones I go back to again and again. For someone who likes to try everything, like me, there aren't many places worth a return visit, much less many!
 
-\[caption id="attachment\_28698" align="aligncenter" width="500"\][![southie, crostini, oakland, restaurant](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Southie-2-500x313.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Southie-2.jpg) Seasonal crostini at Southie.\[/caption\]
+
+
+
+<div class="caption">
+
+[![southie, crostini, oakland, restaurant](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Southie-2-500x313.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Southie-2.jpg) Seasonal crostini at Southie.</div>
+
 
 When we lived in the Rockridge neighborhood of Oakland, Southie was on our regular rotation. Even more so on mine—I'd come here for lunch often when my husband was at work. The restaurant is small; it has maybe ten countertop seats, a handful of two-top tables, and one that can fit three. Regardless, the wait list moves fast outside of prime dinner hours. The staff is always pleasant, and I love how bright and full of air it is—the big, open front window helps.
 
-\[caption id="attachment\_28706" align="aligncenter" width="500"\][![southie, oakland, restaurant, review](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/hargis_110409_012_LowRes-500x402.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/hargis_110409_012_LowRes.jpg) Inside Southie. Photo via [LMB Interiors](https://www.lmbinteriors.com/restaurant-design/southie-is-open-for-biz/), who designed the space.\[/caption\]
+
+
+
+<div class="caption">
+
+[![southie, oakland, restaurant, review](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/hargis_110409_012_LowRes-500x402.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/hargis_110409_012_LowRes.jpg) Inside Southie. Photo via [LMB Interiors](https://www.lmbinteriors.com/restaurant-design/southie-is-open-for-biz/), who designed the space.</div>
+
 
 Southie is owned by Rich and Rebekah Wood, Oakland restaurateurs most known for their fancier Wood Grill next door. They also own the Wolf on Piedmont, which I hope to try soon. Unlike Wood Grill, Southie does not offer cocktails, but it does have beer and wine on draft. The biggest draw here, however, is the $4–5 crostini.
 
@@ -27,7 +39,13 @@ Southie is owned by Rich and Rebekah Wood, Oakland restaurateurs most known for 
 
 My only complaint about Southie's crostini is that they don't appear on the lunch menu. But Southie is well worth a midday visit, as they have some of the best sandwiches and salads around. At least half the menu consists of long-running favorites. Those include the Balls, a classic meatball sub with spruced up flavors.
 
-\[caption id="attachment\_28707" align="aligncenter" width="500"\][![southie, yelp, shayla b, the balls, oakland, meatballs](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/the-balls-southie-500x375.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/the-balls-southie.jpg) [Pic via Yelp user Shayla B.](https://www.yelp.com/user_details?userid=LNzUe8fwKeS5HRaxtb55gw)\[/caption\]
+
+
+
+<div class="caption">
+
+[![southie, yelp, shayla b, the balls, oakland, meatballs](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/the-balls-southie-500x375.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/the-balls-southie.jpg) [Pic via Yelp user Shayla B.](https://www.yelp.com/user_details?userid=LNzUe8fwKeS5HRaxtb55gw)</div>
+
 
 The fried chicken and butter leaf salad is also a star regular: moist chicken strips, crisp butter lettuce, and lime vinaigrette always appear, but the accent ingredients rotate.
 
@@ -37,7 +55,13 @@ The fried chicken and butter leaf salad is also a star regular: moist chicken st
 
 During dinner service, entrees replace the sandwiches along with some smaller bites for sharing. The Balls are served with polenta rather than on a sub, and there is at least one pasta option.
 
-\[caption id="attachment\_28704" align="aligncenter" width="500"\][![rigatoni, sausage, southie, oakland, rockridge](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Southie-21-500x282.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Southie-21.jpg) It's often rigatoni with sausage, like this.\[/caption\]
+
+
+
+<div class="caption">
+
+[![rigatoni, sausage, southie, oakland, rockridge](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Southie-21-500x282.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Southie-21.jpg) It's often rigatoni with sausage, like this.</div>
+
 
 I can also recommend the desserts, which usually include an ice cream sandwich full of tangy or earthy flavors, like the current meyer lemon ice cream with ginger-rye cookies. Or perhaps a  cholate budino on your birthday?
 
@@ -49,6 +73,12 @@ Sunday brunch has more options, but I haven't made it out for one of those yet. 
 
 Rating:
 
-\[caption id="attachment\_24389" align="alignnone" width="40"\][![](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif) 4.5/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif) 4.5/5</div>
+
 
 _All photos from meals circa 2015–2018._

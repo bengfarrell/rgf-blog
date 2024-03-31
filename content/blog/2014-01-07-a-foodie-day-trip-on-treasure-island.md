@@ -1,12 +1,12 @@
 ---
 title: "A Foodie Day Trip on Treasure Island"
 date: "2014-01-07"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "tasting-rooms-in-san-francisco-ca"
   - "san-francisco-travel"
   - "wine"
-tags: 
+tags:
   - "bodega-wine-estates"
   - "bulkogi"
   - "charlie-frank-pies"
@@ -38,11 +38,23 @@ On the last full weekend of every month, the [Treasure Island flea market](http:
 
 But it’s never a barren land for winos, with several tasting rooms located within a mile walk of each other.
 
-\[caption id="attachment\_7771" align="aligncenter" width="500"\][![Outside the Fat Grape winery.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_42-500x332.jpg)](http://www.thegourmez.com/2014/01/a-foodie-day-trip-on-treasure-island/2013_treasure_island_42/) Outside the Fat Grape winery.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Outside the Fat Grape winery.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_42-500x332.jpg)](http://www.thegourmez.com/2014/01/a-foodie-day-trip-on-treasure-island/2013_treasure_island_42/) Outside the Fat Grape winery.</div>
+
 
 So combine the flea market experience with some afternoon wine tasting, and you have the makings of a perfect day slightly out of the city. And if you haven’t been to Treasure Island, then you must stop off at this midway point on the Bay Bridge stretch for the views alone.
 
-\[caption id="attachment\_7764" align="aligncenter" width="680"\][![Click twice for the largest pic!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_19-1024x80.jpg)](http://www.thegourmez.com/2014/01/a-foodie-day-trip-on-treasure-island/2013_treasure_island_19/) Click twice for the largest pic!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Click twice for the largest pic!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_19-1024x80.jpg)](http://www.thegourmez.com/2014/01/a-foodie-day-trip-on-treasure-island/2013_treasure_island_19/) Click twice for the largest pic!</div>
+
 
 [![2013_Treasure_Island_24](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_24-500x332.jpg)](http://www.thegourmez.com/2014/01/a-foodie-day-trip-on-treasure-island/2013_treasure_island_24/)
 
@@ -58,7 +70,13 @@ If you’re into the market by 12, there are usually changing drink specials ava
 
 Take your lunch over to the rocks by the water to enjoy all the views with your meal. You won’t regret it.
 
-\[caption id="attachment\_7762" align="aligncenter" width="332"\][![My friend nomming away on a sausage.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_16-332x500.jpg)](http://www.thegourmez.com/2014/01/a-foodie-day-trip-on-treasure-island/2013_treasure_island_16/) My friend nomming away on a sausage.\[/caption\]
+
+
+
+<div class="caption">
+
+[![My friend nomming away on a sausage.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_16-332x500.jpg)](http://www.thegourmez.com/2014/01/a-foodie-day-trip-on-treasure-island/2013_treasure_island_16/) My friend nomming away on a sausage.</div>
+
 
 My sandwich was on the sweeter side for bulkogi and overloaded with toppings but that’s a much better problem than too few of them.
 
@@ -70,7 +88,13 @@ I wouldn’t have minded more spice, but there was plenty of mayo for this glutt
 
 But the garlic fries were less interesting, overall.
 
-\[caption id="attachment\_7740" align="aligncenter" width="500"\][![Garlic fries on the rocks at Treasure Island.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_14-500x332.jpg)](http://www.thegourmez.com/2013/12/holiday-blog-break/2013_treasure_island_14/) Garlic fries on the rocks at Treasure Island.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Garlic fries on the rocks at Treasure Island.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_14-500x332.jpg)](http://www.thegourmez.com/2013/12/holiday-blog-break/2013_treasure_island_14/) Garlic fries on the rocks at Treasure Island.</div>
+
 
 Stroll around the flea market once your hunger is sated, and do take the time to drool over the baked goods at [Dot’s Baking Pantry](http://dotsbakingpantry.com/) tent.
 
@@ -86,7 +110,13 @@ Oh my, that was delicious. I just had a little of the coconut rum sweet potato p
 
 After probably an hour of perusing the flea market’s wares, we decided to move on to the wine tasting portion of the afternoon, having seen several signs for tasting rooms on the way in. Stroll rather than drive on your way to one so you can get a feel for life on the island. Maybe you’ll encounter unexplainable phenomena like we did.
 
-\[caption id="attachment\_7769" align="aligncenter" width="500"\][![Still have no idea what these were.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_32-500x332.jpg)](http://www.thegourmez.com/2014/01/a-foodie-day-trip-on-treasure-island/2013_treasure_island_32/) Still have no idea what these were.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Still have no idea what these were.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_32-500x332.jpg)](http://www.thegourmez.com/2014/01/a-foodie-day-trip-on-treasure-island/2013_treasure_island_32/) Still have no idea what these were.</div>
+
 
 Veering onto 13th Street about a mile from the market, we found [Bodega Wine Estates](http://www.bodegawineestates.com/).
 
@@ -96,7 +126,13 @@ It’s a midsize tasting room with a wine guide happy to give us large pours and
 
 Around the corner is [Fat Grape Winery](http://www.fatgrapewinery.com/), a sulfite-free purveyor housed inside the old navy brig.
 
-\[caption id="attachment\_7742" align="aligncenter" width="500"\][![Wine tasting on Treasure Island.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_36-500x91.jpg)](http://www.thegourmez.com/2013/12/holiday-blog-break/2013_treasure_island_36/) Click twice for the largest view!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Wine tasting on Treasure Island.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_36-500x91.jpg)](http://www.thegourmez.com/2013/12/holiday-blog-break/2013_treasure_island_36/) Click twice for the largest view!</div>
+
 
 They have a hefty list of wines to taste, and what’s more, you can taste them _all_ for free.
 

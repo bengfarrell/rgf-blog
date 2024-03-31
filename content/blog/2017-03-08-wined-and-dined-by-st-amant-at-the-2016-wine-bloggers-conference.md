@@ -1,14 +1,14 @@
 ---
 title: "Wined and Dined by St. Amant at the 2016 Wine Bloggers Conference"
 date: "2017-03-08"
-categories: 
+categories:
   - "barbera-rose"
   - "dessert-wine-reviews"
   - "zinfandel"
   - "red-wine-review"
   - "rose-review"
   - "wine"
-tags: 
+tags:
   - "amador-county"
   - "awards-banquet"
   - "barbara-spencer"
@@ -33,7 +33,13 @@ Six months have passed since [last year’s Wine Bloggers Conference](http://the
 
 It’s not the cheesy emceeing of [Alan Kropf](http://www.alankropf.com/index.php) I want to highlight, though that cracked me up quite a bit. Nor was it the traditional Southern dinner served up by South restaurant, though I’ll be talking about their dishes as well. What I’ve wanted to write about is a new twist added to the banquet -- getting to spend the evening with a representative from one of the featured region’s wineries. At my table, we feasted with Barbara Spencer, who has owned several vineyards and the [St. Amant Winery](http://www.stamantwine.com/About-Us/People) with her husband, Tim, since the 1970s. Their son, Stuart, has been the family’s winemaker since his father passed away in 2006, and Barbara has been the backbone of their venture for many decades. Indeed, the winery takes its name from her maiden one.
 
-\[caption id="attachment\_26952" align="aligncenter" width="333"\][![Barbara St. Amant Spencer](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/2016-WBC-111-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/2016-WBC-111.jpg) Barbara St. Amant Spencer\[/caption\]
+
+
+
+<div class="caption">
+
+[![Barbara St. Amant Spencer](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/2016-WBC-111-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/2016-WBC-111.jpg) Barbara St. Amant Spencer</div>
+
 
 Having each table at the Wine Blogger Awards dinner hosted by a representative from a different Lodi winery was a stroke of genius. How nice to sit down after a weekend of go-going and hear the personal stories behind the wines we were about to enjoy, with each table getting a different selection! It was from Barbara that I learned about the exciting [Lodi Natives project](http://www.lodinative.com/), of which St. Amant is a participant.
 

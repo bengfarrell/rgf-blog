@@ -1,11 +1,11 @@
 ---
 title: "Old Vine Zinfandel 2017 Releases from Lodi, CA"
 date: "2018-01-04"
-categories: 
+categories:
   - "zinfandel"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "lodi-wine"
   - "old-vine-zinfandel"
   - "zinfandel"
@@ -27,7 +27,13 @@ The Harney is much lighter bodied than expected with its rugged amber edges. Ear
 
 ##### Fields Family Wines 2014 Old Vine Zinfandel (Stampede Vineyard):
 
-\[caption id="attachment\_28004" align="aligncenter" width="500"\][![Lodi Old Vine Zinfandel Fields Family Wines](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Lodi_Zin_001-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Lodi_Zin_001.jpg) Why yes, that is a dragon with good taste.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Lodi Old Vine Zinfandel Fields Family Wines](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Lodi_Zin_001-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Lodi_Zin_001.jpg) Why yes, that is a dragon with good taste.</div>
+
 
 Tastes of shriveled blackberries with seeds. It’s spicy and dusty with a sharp finish of oregano and nopales. I can picture it standing up quite well to a dense, rich, berry mole. **4/5**
 
@@ -39,7 +45,13 @@ The Earthquake Zin has many layers, but it’s smooth across the board. Heat gro
 
 ##### Ironstone Vineyards 2015 Reserve Lodi Ancient Vine Zinfandel (Rous Vineyard):
 
-\[caption id="attachment\_28005" align="aligncenter" width="338"\][![Lodi Old Vine Zinfandel Ironstone Vineyards Reserve](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Lodi_Zin_002-338x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Lodi_Zin_002.jpg) I shall valorously protect my top choice!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Lodi Old Vine Zinfandel Ironstone Vineyards Reserve](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Lodi_Zin_002-338x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Lodi_Zin_002.jpg) I shall valorously protect my top choice!</div>
+
 
 Mmm, was my first thought drinking this wine, followed by a smile as cocoa notes gave me a hug. Then I galloped into fields of fresh, dark, ripe, rich fruit and left with my one true love and a lingering brandy note. **5/5**
 

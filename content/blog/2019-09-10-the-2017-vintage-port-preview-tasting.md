@@ -21,13 +21,25 @@ tags:
 
 [![2017 Vintage Port, tasting notes, wine tasting, port, ](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-030-500x403.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-030.jpg)Little did I know that when we convened for the [2016 Vintage Port tasting,](https://thegourmez.com/2018/11/27/2016-vintage-port-a-sign-of-good-things-to-comeand-good-drinking-now/) another Vintage Port declaration would follow in 2017. I was surprised to find an invitation to attend this year's preview tasting in my inbox, and I can safely say that the pre-eminent Port producers represented — [Symington](https://www.symington.com/), [Fladgate](https://fladgatepartnership.com/en/), and [Quinta do Noval](http://www.quintadonoval.com/en/) — were just as surprised to extend it. _Obligatory disclaimer:_ Participation in this industry tasting was entirely free to me.
 
-\[caption id="attachment\_28844" align="aligncenter" width="500"\][![2017 Vintage Port, tasting notes, wine tasting, port, rupert symintong, charles symington, david guimarens, adrian bridge, carlos agrellos, dominic symington ](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-034-500x480.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-034.jpg) L to R: Rupert Symington, Charles Symington, David Guimarens, Adrian Bridge, Carlos Agrellos, Dominic Symington\[/caption\]
+
+
+
+<div class="caption">
+
+[![2017 Vintage Port, tasting notes, wine tasting, port, rupert symintong, charles symington, david guimarens, adrian bridge, carlos agrellos, dominic symington ](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-034-500x480.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-034.jpg) L to R: Rupert Symington, Charles Symington, David Guimarens, Adrian Bridge, Carlos Agrellos, Dominic Symington</div>
+
 
 Rarely has a back-to-back declaration of vintage ports been made, but 2017 had all the same hallmarks of an extraordinary year for Port grape production as 2016. Even better, according to our hosts. Extreme drought and heat caused every step of grape farming to be completed early. For the Symington family, it was their earliest harvest on record. Such dry conditions yield lower quantities and higher concentration of flavor within the grapes that are brought to harvest. Both contribute greatly to the value of the wine produced and to their potential for excellent aging, which Port is well known for any given year, not just Vintage ones.
 
 How much is Vintage Port valued?
 
-\[caption id="attachment\_28842" align="aligncenter" width="500"\][![2017 Vintage Port, tasting notes, wine tasting, port, san francisco, hotel nikko](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-029-500x365.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-029.jpg) Enough for tastings to occur in San Francisco meeting rooms with excellent views.\[/caption\]
+
+
+
+<div class="caption">
+
+[![2017 Vintage Port, tasting notes, wine tasting, port, san francisco, hotel nikko](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-029-500x365.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-029.jpg) Enough for tastings to occur in San Francisco meeting rooms with excellent views.</div>
+
 
 The producers indicated that their 2017 Vintage Ports, on release, would market at $85–$250, with Quinta do Noval Nacional going for a whopping $820 per bottle. At the time of our tasting, most of the wines had not yet been commercially bottled — they are slated to go on sale this fall. With aging, those prices will only go up…and up…and up.
 

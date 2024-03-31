@@ -1,10 +1,10 @@
 ---
 title: "The Lodge at Tiburon"
 date: "2016-08-04"
-categories: 
+categories:
   - "travel-guide-for-tiburon"
   - "travel-product-review"
-tags: 
+tags:
   - "angel-island"
   - "ca"
   - "gardens"
@@ -24,7 +24,13 @@ tags:
 
 Last month, [the Lodge at Tiburon](https://huzza.io/wineantics/live-stream/wine-antics-wbc16-livestream-3) invited me out to try their new brunch menu at the attached Tiburon Tavern, [which I loved](http://thegourmez.com/2016/07/06/new-brunch-and-chef-at-tiburon-tavern/). Because Ben's birthday fell on the same day, I thought, why not make it an overnight trip and stay at the hotel as well? They offered me a discounted media rate, which we jumped on for such an ideal location just two blocks from the shorefront.
 
-\[caption id="attachment\_26337" align="aligncenter" width="500"\]![Tiburon shore](http://s3.amazonaws.com/thegourmez-wpmedia/2016/08/Tiburon-04-500x333.jpg) And what a fine shorefront it is!\[/caption\]
+
+
+
+<div class="caption">
+
+![Tiburon shore](http://s3.amazonaws.com/thegourmez-wpmedia/2016/08/Tiburon-04-500x333.jpg) And what a fine shorefront it is!</div>
+
 
 The hotel turned out to be a great choice as it's the type of place that makes one feel truly relaxed and welcome due to its many thoughtful touches.
 

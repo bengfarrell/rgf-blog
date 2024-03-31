@@ -1,9 +1,9 @@
 ---
 title: "Kinston, NC Blogging: An Afternoon by the Neuse River"
 date: "2013-03-27"
-categories: 
+categories:
   - "kinston-north-carolina-travel"
-tags: 
+tags:
   - "bank"
   - "birds-of-prey"
   - "confederate"
@@ -32,7 +32,13 @@ tags:
 
 **Kinston, NC Blogging: An Afternoon by the Neuse River**
 
-\[caption id="attachment\_6101" align="aligncenter" width="333"\][![Neuse River bank.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston30.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston30/) Neuse River bank.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Neuse River bank.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston30.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston30/) Neuse River bank.</div>
+
 
 Occasionally (often), I get a craving to head out of town and end up somewhere I've never been before. Some may say that relates to the cabin fever of working at home, but as I've always been this way, I attribute it to my wanderlust. I should put together a wanderlusters support group at some point. The only problem is that I don't want a cure—we'd just travel together.
 
@@ -40,7 +46,13 @@ My most recent day trip was to Kinston, NC, two hours away from Durham, my prese
 
 The second reason I chose Kinston was because it has a lot of Ingress portals by the Neuse riverfront, Ingress being a Google game my husband is obsessed with.
 
-\[caption id="attachment\_6093" align="aligncenter" width="333"\][![Looks, it's the husband!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston22.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston22/) Looks, it's the husband!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Looks, it's the husband!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston22.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston22/) Looks, it's the husband!</div>
+
 
 He gets to run around hacking into imaginary portals; I get to wander through places I've never been and journey through a digestive system.
 
@@ -50,7 +62,13 @@ Yes, you read that right. At the [Lenoir Memorial Hospital Health and Science Mu
 
 [![Kinston03](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston03.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston03/)
 
-\[caption id="attachment\_6075" align="aligncenter" width="500"\][![Deep in the bowels...](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston04.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston04/) Deep in the bowels...\[/caption\]
+
+
+
+<div class="caption">
+
+[![Deep in the bowels...](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston04.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston04/) Deep in the bowels...</div>
+
 
 I probably should have let it stop me, because pulling myself through was a challenge! And yet I hurried on to crawl through the giant heart next.
 
@@ -64,9 +82,21 @@ The rest of the museum contains an assortment of oddities centered around fire s
 
 \--and the universe, being as a planetarium is also on site.
 
-\[caption id="attachment\_6094" align="aligncenter" width="500"\][![You can see the planetarium dome here.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston23.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston23/) You can see the planetarium dome here.\[/caption\]
 
-\[caption id="attachment\_6083" align="aligncenter" width="500"\][![Astronaut Becca!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston12.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston12/) Astronaut Becca!\[/caption\]
+
+
+<div class="caption">
+
+[![You can see the planetarium dome here.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston23.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston23/) You can see the planetarium dome here.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Astronaut Becca!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston12.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston12/) Astronaut Becca!</div>
+
 
 The giant Operation game was especially intriguing and pretty funny to see after crawling through a digestive system.
 
@@ -112,11 +142,29 @@ Personally, I was happy looking at the patterns on the reproduction.
 
 Then Ben led us through downtown in search of his portals, and I snapped at any buildings that intrigued me along the way.
 
-\[caption id="attachment\_6103" align="aligncenter" width="333"\][![Love decorative columns on storefronts.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston32.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston32/) Love decorative columns on storefronts.\[/caption\]
 
-\[caption id="attachment\_6109" align="aligncenter" width="500"\][![This burnt-out building was especially beautiful.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston38.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston38/) This burnt-out building was especially beautiful. I'm not being sarcastic.\[/caption\]
 
-\[caption id="attachment\_6105" align="aligncenter" width="333"\][![ Pretty historic home.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston34.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston34/) Pretty historic home.\[/caption\]
+
+<div class="caption">
+
+[![Love decorative columns on storefronts.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston32.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston32/) Love decorative columns on storefronts.</div>
+
+
+
+
+
+<div class="caption">
+
+[![This burnt-out building was especially beautiful.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston38.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston38/) This burnt-out building was especially beautiful. I'm not being sarcastic.</div>
+
+
+
+
+
+<div class="caption">
+
+[![ Pretty historic home.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Kinston34.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/kinston34/) Pretty historic home.</div>
+
 
 On a Saturday afternoon, downtown was mostly abandoned, but there's a food scene that livens up as night falls.
 
@@ -124,6 +172,12 @@ On a Saturday afternoon, downtown was mostly abandoned, but there's a food scene
 
 And as the sun set, we made our way to Mother Earth Brewing to pass some time before our Chef & the Farmer reservations.
 
-\[caption id="attachment\_6113" align="aligncenter" width="1024"\][![Click twice for the largest view!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Mother-Earth-Brewing-01-1024x270.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/mother-earth-brewing-01/) Click twice for the largest view!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Click twice for the largest view!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/03/Mother-Earth-Brewing-01-1024x270.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/mother-earth-brewing-01/) Click twice for the largest view!</div>
+
 
 It was a pleasant surprise to realize Mother Earth is located in Kinston, too! But more on that in the next Kinston blog…if you'd like more pictures from our afternoon stroll, [click here.](https://www.facebook.com/media/set/?set=a.10151360033944607.1073741826.567409606&type=1&l=d5b20f9adc "Kinston NC Photos on Facebook")

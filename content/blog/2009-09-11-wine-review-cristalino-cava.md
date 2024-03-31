@@ -1,10 +1,10 @@
 ---
 title: "Wine Review--Cristalino Cava"
 date: "2009-09-11"
-categories: 
+categories:
   - "cava"
   - "sparkling-wine-review"
-tags: 
+tags:
   - "cava-review"
   - "chicken-soup-wine"
   - "cristalino-cava"
@@ -19,4 +19,10 @@ This is my first sparkling wine review, can you believe that? It's also, well, s
 
 But it's still strange.
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+

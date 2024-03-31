@@ -1,12 +1,12 @@
 ---
 title: "Best Bites in Barcelona"
 date: "2016-01-29"
-categories: 
+categories:
   - "cava"
   - "dining-barcelona"
   - "restaurants"
   - "barcelona-spain-catalunya-travel-tips"
-tags: 
+tags:
   - "barcelona"
   - "carpaccio"
   - "carpaccio-cut"
@@ -32,7 +32,13 @@ tags:
   - "travel-guide"
 ---
 
-\[caption id="attachment\_25728" align="aligncenter" width="500"\][![This just missed the cut.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_739-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_739.jpg) This just missed the cut.\[/caption\]
+
+
+
+<div class="caption">
+
+[![This just missed the cut.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_739-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_739.jpg) This just missed the cut.</div>
+
 
 **Disclaimer:** I have only been in Barcelona for five days of my life. There is no way I can determine the best bites in the city. None. But “Best Bites in Barcelona While I Was There” is not a catchy title. That said, these are guaranteed by the Gourmez to be good bites, some of them exceptional!
 

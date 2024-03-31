@@ -1,11 +1,11 @@
 ---
 title: "Absente Minded @ Posta Tuscan Grille"
 date: "2010-08-31"
-categories: 
+categories:
   - "absinthe"
   - "bars-and-tasting-rooms"
   - "bars-in-raleigh-nc"
-tags: 
+tags:
   - "absente-minded"
   - "cocktail"
   - "cranberry"
@@ -29,6 +29,12 @@ Back to the drink: I'm a big fan of absinthe and love the high profile it's been
 
 You wouldn't necessarily think that licorice and lemon, or licorice and cranberry, went together, but the peach schnapps smooths over any disconnect between the disparate flavors. The licorice isn't subtle, but it's at just the right level before veering into overwhelming. The fruit and citrus flavors complement it quite well. It's lightly sweet and wonderfully delicious.
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+
 
 _Reviewed 8.28.10._

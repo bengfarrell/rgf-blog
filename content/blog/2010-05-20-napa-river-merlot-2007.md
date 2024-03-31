@@ -1,10 +1,10 @@
 ---
 title: "Napa River Merlot 2007"
 date: "2010-05-20"
-categories: 
+categories:
   - "merlot"
   - "red-wine-review"
-tags: 
+tags:
   - "2007"
   - "berry"
   - "clove"
@@ -23,7 +23,13 @@ Nose: Clove, tobacco, and prune in that order.
 
 There's a lot of fruit in this medium-bodied wine including raspberry, cherry, and prune. Clove notes hang out for the aftertaste. It's not terribly complex, but it's a good, easy sipper.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+  Other Bloggers' Thoughts:
 
 [Star Silver Creek](http://www.starksilvercreek.com/2009/01/napa-river-merlot-2005-mysterious-in-origin-trader-joes-review.html) on the 2005 vintage
 

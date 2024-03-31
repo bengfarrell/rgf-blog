@@ -1,10 +1,10 @@
 ---
 title: "Barcelona Beach Strolling"
 date: "2015-04-10"
-categories: 
+categories:
   - "dining-barcelona"
   - "barcelona-spain-catalunya-travel-tips"
-tags: 
+tags:
   - "barcelona"
   - "barceloneta"
   - "beaches"
@@ -53,9 +53,21 @@ Once you've soaked all that exquisiteness in, it's time to keep moving. Or be mo
 
 Right outside the restaurant, get a one-way ticket to Platja de Sant Sebastia and get in line for our journey down to the beach.
 
-\[caption id="attachment\_9842" align="aligncenter" width="333"\]![Farewell, Hotel Miramar!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/2014_Barcelona_106-333x500.jpg) Farewell, Hotel Miramar!\[/caption\]
 
-\[caption id="attachment\_9832" align="aligncenter" width="500"\]![Hello, Platja de Sant Sebastia!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/2014_Barcelona_076-500x333.jpg) Hello, Platja de Sant Sebastia!\[/caption\]
+
+
+<div class="caption">
+
+![Farewell, Hotel Miramar!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/2014_Barcelona_106-333x500.jpg) Farewell, Hotel Miramar!</div>
+
+
+
+
+
+<div class="caption">
+
+![Hello, Platja de Sant Sebastia!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/2014_Barcelona_076-500x333.jpg) Hello, Platja de Sant Sebastia!</div>
+
 
 Once you disembark, walk toward the water about a block and just keep walking. You'll figure out what you're headed toward pretty fast:
 
@@ -81,7 +93,13 @@ And so will the langostinos and a bottle of bubbly.
 
 ![2014_Barcelona_082](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/2014_Barcelona_082-500x235.jpg)
 
-\[caption id="attachment\_9861" align="aligncenter" width="500"\]![Photography credit to my husband for this one.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/becca-barcelona-500x309.jpg) Photography credit to my husband for this one.\[/caption\]
+
+
+
+<div class="caption">
+
+![Photography credit to my husband for this one.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/becca-barcelona-500x309.jpg) Photography credit to my husband for this one.</div>
+
 
 Let that sea air relax and refresh you before you set your sights on the other side of the water.
 
@@ -135,7 +153,13 @@ Your journey to the Golden Fish is nearing its end. Say farewell to the beautifu
 
 What better way to end a full day than with dessert? Crêperie Bretonne is a French chain of restaurants, so you know their sweet treats will be worth it.
 
-\[caption id="attachment\_9858" align="aligncenter" width="333"\]![Strawberry, mango, and lemon ice creams with blackberry topping.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/2014_Barcelona_654-333x500.jpg) Strawberry, mango, and lemon ice creams with blackberry topping.\[/caption\]
+
+
+
+<div class="caption">
+
+![Strawberry, mango, and lemon ice creams with blackberry topping.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/2014_Barcelona_654-333x500.jpg) Strawberry, mango, and lemon ice creams with blackberry topping.</div>
+
 
 And with such whimsical décor, it's a fun way to spend a few more minutes near the Fish.
 

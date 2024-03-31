@@ -1,12 +1,12 @@
 ---
 title: "Minneapolis Blogging: Lowry Hill and Final Food Destinations"
 date: "2012-07-02"
-categories: 
+categories:
   - "coffee-shop"
   - "minneapolis-dining"
   - "restaurants"
   - "minneapolis-travel"
-tags: 
+tags:
   - "angels-food"
   - "bakery"
   - "bloody-mary"
@@ -43,7 +43,13 @@ tags:
   - "waterway"
 ---
 
-\[caption id="attachment\_4504" align="aligncenter" width="614" caption="View of downtown Minneapolis from our hotel room. Click for a better view."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis197med-1024x316.jpg "2012minneapolis197med")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis197med.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis197med-1024x316.jpg "2012minneapolis197med")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis197med.jpg)</div>
+
 
  
 
@@ -51,11 +57,23 @@ In the [last Minneapolis Blogging post](http://www.thegourmez.com/2012/06/minnea
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis204.jpg "2012minneapolis204")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis204.jpg)
 
-\[caption id="attachment\_4511" align="aligncenter" width="500" caption="I love when ivy overtakes a home."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis212.jpg "2012minneapolis212")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis212.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis212.jpg "2012minneapolis212")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis212.jpg)</div>
+
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis221.jpg "2012minneapolis221")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis221.jpg)
 
-\[caption id="attachment\_4514" align="aligncenter" width="500" caption="Wouldn’t you like that porch?"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis222.jpg "2012minneapolis222")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis222.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis222.jpg "2012minneapolis222")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis222.jpg)</div>
+
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis216.jpg "2012minneapolis216")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis216.jpg)
 
@@ -107,7 +125,13 @@ After that refreshing pause, I continued back north toward the hotel and through
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis242.jpg "2012minneapolis242")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis242.jpg)
 
-\[caption id="attachment\_4520" align="aligncenter" width="333" caption="Why hello, little fella. Why do you feel so blue?"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis241.jpg "2012minneapolis241")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis241.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis241.jpg "2012minneapolis241")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis241.jpg)</div>
+
 
 And thus ended my jaunts through Minneapolis. Never fear! There were still two more meals to enjoy! That night, dinner was at [Kieran’s Irish Pub](http://www.kierans.com/) (601 1st Ave. North), part of an end-of-conference party for the author wife of one of Ben’s conference friends.
 
@@ -137,19 +161,49 @@ That last image is their macaroni and cheese served up with two large sausages. 
 
 And because Ben can’t sing karaoke without me posting a picture, here you go.
 
-\[caption id="attachment\_4528" align="aligncenter" width="500" caption="Ben"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis259.jpg "2012minneapolis259")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis259.jpg)\[/caption\]
 
-\[caption id="attachment\_4529" align="aligncenter" width="500" caption="New friends belting out a song together."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis261.jpg "2012minneapolis261")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis261.jpg)\[/caption\]
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis259.jpg "2012minneapolis259")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis259.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis261.jpg "2012minneapolis261")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis261.jpg)</div>
+
 
 Breakfast our last morning was at the [Keys at the Foshay](http://www.keysfoshay.com/), which was very popular on a Sunday morning with a fast wait.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis265.jpg "2012minneapolis265")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis265.jpg)
 
-\[caption id="attachment\_4531" align="aligncenter" width="500" caption="Keys’s bakery case."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis266.jpg "2012minneapolis266")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis266.jpg)\[/caption\]
 
-\[caption id="attachment\_4532" align="aligncenter" width="500" caption="Look at that awesome whipped-cream-lumps design on the pies."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis267.jpg "2012minneapolis267")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis267.jpg)\[/caption\]
 
-\[caption id="attachment\_4533" align="aligncenter" width="333" caption="Keys’s interior."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis268.jpg "2012minneapolis268")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis268.jpg)\[/caption\]
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis266.jpg "2012minneapolis266")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis266.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis267.jpg "2012minneapolis267")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis267.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis268.jpg "2012minneapolis268")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis268.jpg)</div>
+
 
  
 

@@ -1,10 +1,10 @@
 ---
 title: "Novella Synergy 2008"
 date: "2010-08-18"
-categories: 
+categories:
   - "other-red-blends"
   - "red-wine-review"
-tags: 
+tags:
   - "2008"
   - "de-cantation"
   - "food-snob-on-a-tuesday-night"
@@ -22,7 +22,13 @@ This is a very smooth blend of bunches of varietals. The nose smells richly of r
 
 It's a lightweight wine and easy to drink. Tannins are light, and the strawberry is in full effect when sipping, with a small amount of spice that enhances it. After a glass, though, I found it rather blasé: there was nothing to excite me in it, even if there was nothing to put me off, either.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+  Other Bloggers' Thoughts:
 
 [Jason's Wine Blog](http://jasonswineblog.com/2007/09/10/2004-novella-synergy/) on the 2004 vintage
 

@@ -1,10 +1,10 @@
 ---
 title: "Tom Yum Thai (Cary)---Restaurant Review"
 date: "2010-02-26"
-categories: 
+categories:
   - "cary-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "calamari-rings"
   - "chive-dumplings"
   - "green-papaya-salad"
@@ -51,6 +51,12 @@ The rice was in the basket and I found it overcooked and crunchy. The beef was s
 
 Our friends were all happy with their choices, too. Other than the boring appetizers, I found Tom Yum Thai to be a great place for Thai food and will definitely consider going again next time I hit up Galaxy Cinemas. That is, if I can stop myself from trying somewhere new (I never stop myself from trying somewhere new).
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 2.20.10._

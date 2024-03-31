@@ -1,10 +1,10 @@
 ---
 title: "The Sustainable Classroom: Practical Vs. Purist"
 date: "2012-12-07"
-categories: 
+categories:
   - "events"
   - "travel-product-review"
-tags: 
+tags:
   - "2012"
   - "angelo-mojica"
   - "bon-appetit"
@@ -44,7 +44,13 @@ The panel was the perfect blend of people from both sides of the practical versu
 
 First, I must give props to the moderator, Bruce Schoenfeld, the wine and spirits editor at [Travel + Leisure](http://www.travelandleisure.com/) magazine.
 
-\[caption id="attachment\_5261" align="aligncenter" width="500" caption="Bruce is on the left in the purple."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012129.jpg "TerraVita2012129")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012129.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012129.jpg "TerraVita2012129")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012129.jpg)</div>
+
 
 He had amazing, pointed questions that repeatedly got to the heart of the discussion and didn’t let the conversation dwell on the value of choosing sustainability and local produce. They were all preaching to the choir, so that sort of discussion was unnecessary. Instead, it was the practicality of how much change can be made: Is it really possible to eat all your meals that way? And more importantly, can it be done on any scale of food production?
 

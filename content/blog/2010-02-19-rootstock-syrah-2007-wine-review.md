@@ -1,11 +1,11 @@
 ---
 title: "Rootstock Syrah 2007--Wine Review"
 date: "2010-02-19"
-categories: 
+categories:
   - "red-wine-review"
   - "shiraz"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2007-vintage"
   - "boozing-it"
   - "oak"
@@ -27,7 +27,13 @@ Taste: A well-rounded wine with minimal fruit, though there is that bit of plum.
 
 This wine is fine and dandy but nothing special.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 **Other Bloggers' Thoughts:**
 

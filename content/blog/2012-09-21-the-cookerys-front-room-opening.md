@@ -1,11 +1,11 @@
 ---
 title: "The Cookery’s Front Room Opening"
 date: "2012-09-21"
-categories: 
+categories:
   - "events"
   - "food-trucks-and-carts"
   - "ice-cream-bakery-food-truck"
-tags: 
+tags:
   - "apex-salsa"
   - "bar"
   - "big-spoon-roasters"
@@ -26,19 +26,49 @@ tags:
 
 Last Saturday, I had the pleasure of attending the media preview event before the grand opening of [the Cookery’s](http://durhamcookery.com/) new Front Room.
 
-\[caption id="attachment\_4902" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview01.jpg "cookerypreview01")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview01.jpg) The Cookery as seen from the corner of the building.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview01.jpg "cookerypreview01")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview01.jpg) The Cookery as seen from the corner of the building.</div>
+
 
 The Cookery, as you may recall from when I attended [their open house last year](http://www.rebeccagomezfarrell.com/2011/04/the-cookery-open-house/), is an incubator for small food producers, providing kitchen use for folks selling all sorts of food products, whether food truck owners or purveyors of canned items for local specialty stores and restaurants. The Front Room is an event space that will “host a series of pop-up restaurants, specialty food events, Culinary Workshops, and wine and beer dinners, as well as private dinners and receptions.  The space accommodates up to 200 people, and includes a mezzanine and outdoor patio, a full bar with local NC beers on tap and audio/visual equipment. In addition, the Front Room’s access to the Cookery’s kitchen facility will equip chefs and caterers with a commercial kitchen and bakery facility to expand upon their culinary repertoire to design unprecedented events” per the Cookery’s press release.
 
 Let me tell you folks, it’s a gorgeous space. Or better yet, let me show you:
 
-\[caption id="attachment\_4890" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview26.jpg "cookerypreview26")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview26.jpg) This is from the balcony area.\[/caption\]
 
-\[caption id="attachment\_4887" align="aligncenter" width="333"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview27.jpg "cookerypreview27")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview27.jpg) Awesome bar stools found throughout the Front Room.\[/caption\]
 
-\[caption id="attachment\_4897" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview12.jpg "cookerypreview12")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview12.jpg) The elegant brick and wood bar.\[/caption\]
 
-\[caption id="attachment\_4900" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview04.jpg "cookerypreview04")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview04.jpg) Looking out toward the patio.\[/caption\]
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview26.jpg "cookerypreview26")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview26.jpg) This is from the balcony area.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview27.jpg "cookerypreview27")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview27.jpg) Awesome bar stools found throughout the Front Room.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview12.jpg "cookerypreview12")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview12.jpg) The elegant brick and wood bar.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview04.jpg "cookerypreview04")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview04.jpg) Looking out toward the patio.</div>
+
 
 What made this a media preview, however, was the chance to try samples from a number of local food vendors. On hand was the [Apex Salsa Company](https://www.facebook.com/pages/Apex-Salsa/164374376925828?v=wall) —
 
@@ -70,7 +100,13 @@ Once we’d had our fill of checking out the gorgeous new space, the sausages ma
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview28.jpg "cookerypreview28")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview28.jpg)
 
-\[caption id="attachment\_4885" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview29.jpg "cookerypreview29")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview29.jpg) Chow Chow by the Apex Salsa Company to go with those sausages.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview29.jpg "cookerypreview29")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/cookerypreview29.jpg) Chow Chow by the Apex Salsa Company to go with those sausages.</div>
+
 
 We also got a sneak sound-check peek of Justin Robinson and the Mary Annettes, who were the musical entertainment for the rest of the afternoon. They sounded wonderful, and I’m sure they were amazing during their set later on.
 

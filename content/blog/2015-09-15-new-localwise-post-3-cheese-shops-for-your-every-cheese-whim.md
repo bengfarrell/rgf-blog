@@ -1,14 +1,14 @@
 ---
 title: "New Localwise Post! 3 Cheese Shops for Your Every Cheese Whim"
 date: "2015-09-15"
-categories: 
+categories:
   - "announcements"
   - "cheesemongers"
   - "oakland-restaurant-reviews"
   - "ice-cream-bakery-food-truck"
   - "restaurants"
   - "writing"
-tags: 
+tags:
   - "berkeley"
   - "blogger"
   - "camembert"
@@ -36,18 +36,66 @@ Here's your teaser:
 
 And because I have a plethora of cheesy photos that didn't make it into the post, I hope these images entice you over to check out the article on [cheesy goodness in Oakland and Berkeley.](https://www.localwisejobs.com/blog/3-cheese-shops-for-fulfilling-your-every-cheese-whim/)
 
-\[caption id="attachment\_25010" align="aligncenter" width="500"\][![Cheeses at AG Ferrari.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/AG-Ferrari-Cheese_001-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/AG-Ferrari-Cheese_001.jpg) Cheeses at AG Ferrari.\[/caption\]
 
-\[caption id="attachment\_25011" align="aligncenter" width="500"\][![An AMAZING Camembert at AG Ferrari.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/AG-Ferrari-Cheese_006-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/AG-Ferrari-Cheese_006.jpg) An AMAZING Camembert at AG Ferrari.\[/caption\]
 
-\[caption id="attachment\_25012" align="aligncenter" width="500"\][![More Market Hall Cheeses.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-002-500x198.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-002.jpg) More Market Hall Cheeses.\[/caption\]
 
-\[caption id="attachment\_25013" align="aligncenter" width="362"\][![An impressive block of Nero Imperiale at the top of this display.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-003-362x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-003.jpg) An impressive block of Nero Imperiale at the top of this display.\[/caption\]
+<div class="caption">
 
-\[caption id="attachment\_25014" align="aligncenter" width="500"\][![A small portion of Market Hall Foods' cheese selection.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-006-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-006.jpg) A small portion of Market Hall Foods' cheese selection.\[/caption\]
+[![Cheeses at AG Ferrari.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/AG-Ferrari-Cheese_001-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/AG-Ferrari-Cheese_001.jpg) Cheeses at AG Ferrari.</div>
 
-\[caption id="attachment\_25015" align="aligncenter" width="425"\][![My cheese selections from Market Hall Foods.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-016-425x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-016.jpg) My cheese selections from Market Hall Foods.\[/caption\]
 
-\[caption id="attachment\_25016" align="aligncenter" width="500"\][![Sacred Wheel, Temescal](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Sacred-Wheel-Cheese-001-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Sacred-Wheel-Cheese-001.jpg) Sacred Wheel, Temescal\[/caption\]
 
-\[caption id="attachment\_25017" align="aligncenter" width="500"\][![Inside the Sacred Wheel.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Sacred-Wheel-Cheese-003-500x172.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Sacred-Wheel-Cheese-003.jpg) Inside the Sacred Wheel.\[/caption\]
+
+
+<div class="caption">
+
+[![An AMAZING Camembert at AG Ferrari.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/AG-Ferrari-Cheese_006-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/AG-Ferrari-Cheese_006.jpg) An AMAZING Camembert at AG Ferrari.</div>
+
+
+
+
+
+<div class="caption">
+
+[![More Market Hall Cheeses.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-002-500x198.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-002.jpg) More Market Hall Cheeses.</div>
+
+
+
+
+
+<div class="caption">
+
+[![An impressive block of Nero Imperiale at the top of this display.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-003-362x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-003.jpg) An impressive block of Nero Imperiale at the top of this display.</div>
+
+
+
+
+
+<div class="caption">
+
+[![A small portion of Market Hall Foods' cheese selection.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-006-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-006.jpg) A small portion of Market Hall Foods' cheese selection.</div>
+
+
+
+
+
+<div class="caption">
+
+[![My cheese selections from Market Hall Foods.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-016-425x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Market-Hall-Cheese-016.jpg) My cheese selections from Market Hall Foods.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Sacred Wheel, Temescal](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Sacred-Wheel-Cheese-001-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Sacred-Wheel-Cheese-001.jpg) Sacred Wheel, Temescal</div>
+
+
+
+
+
+<div class="caption">
+
+[![Inside the Sacred Wheel.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Sacred-Wheel-Cheese-003-500x172.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Sacred-Wheel-Cheese-003.jpg) Inside the Sacred Wheel.</div>
+

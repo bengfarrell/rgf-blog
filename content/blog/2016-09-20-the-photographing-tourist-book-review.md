@@ -1,10 +1,10 @@
 ---
 title: "The Photographing Tourist Book Review"
 date: "2016-09-20"
-categories: 
+categories:
   - "product-reviews"
   - "travel-product-review"
-tags: 
+tags:
   - "book-review"
   - "david-noyes"
   - "getting-good-photos"
@@ -28,7 +28,13 @@ _Obligatory disclaimer: This review of_ the Photographing Tourist _comes from a 
 
 I rarely do book reviews on this blog, because I’m more interested in how the final product tastes, whether that be a dinner entrée or a glass of wine, than in how the goods got on the plate. But y’all may have noticed the [Travelogue section](http://thegourmez.com/travelogues) of the site? Actually, you may not have because I’ve accidentally had it disabled for a while! Oops! It’s back up and categorized now, and it’s full of photography- and food-heavy accounts of typical tourist activities. While I appreciate the current conventional wisdom that true travel involves immersion in a culture, I am also fully aware that I won’t be satisfied without a picture of myself at the Tower of London, if you know what I mean.
 
-\[caption id="attachment\_26055" align="aligncenter" width="333"\][![Me....at the Tower of London, obvi.](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/london310-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/london310.jpg) Me....at the Tower of London, obvi.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Me....at the Tower of London, obvi.](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/london310-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/london310.jpg) Me....at the Tower of London, obvi.</div>
+
 
 My family are go-go travelers, but the Gomezes have always gone gone sightseeing, and it’s in my blood. If I don’t visit those iconic locales or have a country’s most celebrated food, I feel I have failed myself. Which is why, when asked to review David Noyes’s _the Photographing Tourist,_ I knew it’d be a good match for my sensibilities.
 
@@ -36,7 +42,13 @@ My family are go-go travelers, but the Gomezes have always gone gone sightseeing
 
 There are few nonfiction books more perfectly crafted for me than this beautiful coffee table collection of photography tips, travelogues, and most of all, gorgeous images.
 
-\[caption id="attachment\_26507" align="aligncenter" width="500"\][![The Photographing Tourist pages](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/PhotoTourist-05-500x270.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/PhotoTourist-05.jpg) See what I mean?\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Photographing Tourist pages](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/PhotoTourist-05-500x270.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/PhotoTourist-05.jpg) See what I mean?</div>
+
 
 Why? Because it’s written for the photographer whose travel is mainly limited to tour groups and the usual landmarks. In other words, me! Noyes is an accomplished photographer and travel writer, but still, most of his assignments have taken place on a tour or at least with a guide, which introduces a level of disconnect between the photographer and the experience being documented. That distance needs to be bridged for the final result—the plated dish, if you will--to be truly engaging. The book is full of tips on how to approach taking more genuine images, from getting permission to go ahead of the group from a guide to repeated admonitions to gain the permission of potential portrait subjects, thus moving beyond the tourist tendency to make the people we meet during travels into an attraction themselves.
 

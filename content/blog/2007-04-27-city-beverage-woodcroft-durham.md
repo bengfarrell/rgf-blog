@@ -1,10 +1,10 @@
 ---
 title: "City Beverage (Woodcroft, Durham) *CLOSED*"
 date: "2007-04-27"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "city-beverage"
   - "durham"
 ---
@@ -21,4 +21,10 @@ For dessert, we tried their chocolate crème brulee. This delight took me by sur
 
 City Beverage will hopefully make a great addition to our local rounds. They don't always hit the target, but they do enough of the time to make exploring the menu an adventure. Plus, I loved, loved the atmosphere. The red and purple walls, lamps made from bowling pins, hurricane glasses hanging from humongous polka dots on the ceiling, not to mention tiki gods hiding in various nooks and crannies. Above all else, you need to enjoy the luxury of bucket seats that pull you in and keep you feeling trendy and comfy for your evening. Come to City Beverage and learn why it's much more than it seems on the drive by.
 
-\[caption id="attachment\_49" align="alignleft" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+

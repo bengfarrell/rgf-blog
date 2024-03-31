@@ -1,10 +1,10 @@
 ---
 title: "Cuban Revolution, American Tobacco District (Durham)"
 date: "2009-11-04"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "american-tobacco-district-restaurant"
   - "cafe-cubano"
   - "cuban-revolution-restaurant"
@@ -51,6 +51,12 @@ The cafe cubano did not have a good balance of sweet to bitter, so I think I'd p
 
 All in all, Cuban Revolution has average food in the midst of their intriguing, if only for novelty purposes, atmosphere.  There are still a number of dishes that I'd like to try, so I'll probably be back.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Reviewed 10.21.09._

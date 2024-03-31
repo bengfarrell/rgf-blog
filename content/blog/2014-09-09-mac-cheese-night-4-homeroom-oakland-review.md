@@ -1,11 +1,11 @@
 ---
 title: "Mac &amp; Cheese Night #4: Homeroom"
 date: "2014-09-09"
-categories: 
+categories:
   - "oakland-restaurant-reviews"
   - "events"
   - "restaurants"
-tags: 
+tags:
   - "best-of-the-bay"
   - "crab"
   - "dinner"
@@ -25,7 +25,13 @@ My 4th Mac & Cheese Night took place at the East Bay’s prime mac & cheese dest
 
 Nearly every time I’ve mentioned my mac & cheese quest, I’ve been interrupted by an excited new acquaintance asking if I’ve tried Homeroom yet. Finally, FINALLY, I can say yes when asked.
 
-\[caption id="attachment\_8728" align="aligncenter" width="322"\][![Schoolroom décor in keeping with their name. I approve.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Homeroom_004-322x500.jpg)](http://www.thegourmez.com/2014/09/mac-cheese-night-4-homeroom-oakland-review/homeroom_004/) Schoolroom décor in keeping with their name. I approve.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Schoolroom décor in keeping with their name. I approve.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Homeroom_004-322x500.jpg)](http://www.thegourmez.com/2014/09/mac-cheese-night-4-homeroom-oakland-review/homeroom_004/) Schoolroom décor in keeping with their name. I approve.</div>
+
 
 Homeroom is owned by a pair of friends with a passion for comfort food, Allison Arevalo and Erin Wade, who also happen to both be pregnant with their second children right now, which I found out from reading an article about their planned expansion for Homeroom in the fall. That expansion will be geared toward meeting their to-go and large party needs, which are big contributors to the constant wait times at the midsize restaurant.
 

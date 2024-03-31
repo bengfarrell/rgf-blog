@@ -1,12 +1,12 @@
 ---
 title: "Azzurre Spirits Vodka and Gin"
 date: "2016-11-17"
-categories: 
+categories:
   - "recipes"
   - "gin-reviews"
   - "spirits"
   - "vodka"
-tags: 
+tags:
   - "apple-liquor"
   - "azzurre"
   - "carrot-cake"
@@ -33,7 +33,13 @@ Are they good? Azzurre Spirits picked up a few brownie points from me right away
 
 I’ll have a vodka first, please.
 
-\[caption id="attachment\_26678" align="aligncenter" width="368"\][![Azzurre Spirits](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/AzzurreSpirits-007-368x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/AzzurreSpirits-007.jpg) Yes, I am showing off my triple shot glass again.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Azzurre Spirits](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/AzzurreSpirits-007-368x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/AzzurreSpirits-007.jpg) Yes, I am showing off my triple shot glass again.</div>
+
 
 It has a soft, berry bubblegum nose. Tasting it makes me feel like a Care Bear, riding a cloud in a balmy breeze. The 40% ABV alcohol is indeed gentle on the palate, and I taste faint berry and sweet, vegetal carrot on the finish.
 

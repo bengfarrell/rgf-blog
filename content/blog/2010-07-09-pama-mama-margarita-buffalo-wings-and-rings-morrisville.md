@@ -1,11 +1,11 @@
 ---
 title: "Pama-Mama Margarita @ Buffalo Wings and Rings (Morrisville)"
 date: "2010-07-09"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-morrisville-nc"
   - "tequila"
-tags: 
+tags:
   - "buffalo-wings-and-rings"
   - "cocktails-morrisville"
   - "cocktails-rdu"
@@ -22,6 +22,12 @@ Honestly, this drink didn't taste much different from the [Cherry-aid](../../../
 
 There were two tequilas in this margarita, Patron Silver and Patron Citron, but I could only taste the silver, and only on the aftertaste. For me, this was much less of a margarita and more of a punch.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
+
 
 _Reviewed 7.1.10._

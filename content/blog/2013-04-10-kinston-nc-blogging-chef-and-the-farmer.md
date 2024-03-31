@@ -1,10 +1,10 @@
 ---
 title: "Kinston, NC, Blogging: Chef and the Farmer"
 date: "2013-04-10"
-categories: 
+categories:
   - "kinston-nc-restaurant-review"
   - "restaurants"
-tags: 
+tags:
   - "benjamin-knight"
   - "bourbon-dark-chocolate-ice-cream"
   - "carolina-gold-rice-risotto"
@@ -36,7 +36,13 @@ tags:
 
 **Kinston, NC, Blogging: Chef and the Farmer**
 
-\[caption id="attachment\_6189" align="aligncenter" width="500"\][![Outside the Chef and the Farmer.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/Chef-and-the-Farmer-02.jpg)](http://www.thegourmez.com/2013/04/kinston-nc-blogging-chef-and-the-farmer/chef-and-the-farmer-02/) Outside the Chef and the Farmer.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Outside the Chef and the Farmer.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/Chef-and-the-Farmer-02.jpg)](http://www.thegourmez.com/2013/04/kinston-nc-blogging-chef-and-the-farmer/chef-and-the-farmer-02/) Outside the Chef and the Farmer.</div>
+
 
 This is the third and final installment on our recent day trip to Kinston, NC. Blog 1 covered [the various ways we amused ourselves](http://www.thegourmez.com/?p=6071) by the Neuse riverfront last month. Blog 2 was on [Mother Earth Brewing,](http://www.thegourmez.com/2013/04/mother-earth-brewing/) which we were delighted to discover is based in downtown Kinston — oh happy Providence! This one is devoted to [Chef and the Farmer](http://chefandthefarmer.com/), the farm-to-fork restaurant of Chef Vivian Howard, a James Beard semifinalist, and her husband, Ben Knight, an artist and the front house and beverage manager. Located just around the corner from Mother Earth Brewing at 120 W. Gordon St., it's ideally located for a final destination on a day spent downtown.
 

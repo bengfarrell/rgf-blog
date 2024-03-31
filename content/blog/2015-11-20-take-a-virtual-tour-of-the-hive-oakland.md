@@ -1,7 +1,7 @@
 ---
 title: "Take a Virtual Tour of Oakland's the Hive in time for Firebrand's Grand Opening!"
 date: "2015-11-20"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-oakland"
   - "breweries-in-oakland-ca"
@@ -9,7 +9,7 @@ categories:
   - "oakland-coffee-shop-reviews"
   - "oakland-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "alison-roessler"
   - "bakery"
   - "barber"
@@ -57,16 +57,28 @@ I can't make it opening day, but you can bet I'll be there soon to check out wha
 I'm still thinking of how good the banana pudding cream puffs were.
 
 > [These banana pudding cream puffs are just one of many pastries we have to look forward to when Firebrand Breads open ups at the Hive in a month. \_\_\_\_\_\_\_\_ #Oakland #uptownoakland #thehive #foodpics #foodie #Eastbay](https://instagram.com/p/8CEM3gwQvh/)
-> 
+>
 > A photo posted by Becca Gomez Farrell (@thegourmez) on Sep 24, 2015 at 4:45pm PDT
 
 What else is going on at the Hive? In addition to hosting the offices for Inner City Advisors, Balfour Beatty Construction, Signature Development (which funded the project), Zarsion America, Stice & Block law firm, and Flynn Architecture (which designed it), the Hive is also home base for [Impact Hub](https://oakland.impacthub.net/) --
 
-\[caption id="attachment\_25303" align="aligncenter" width="312"\][![Lisa Chacon, co-founder, co-director, & COO](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-037-312x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-037.jpg) Lisa Chacon, co-founder, co-director, & COO\[/caption\]
+
+
+
+<div class="caption">
+
+[![Lisa Chacon, co-founder, co-director, & COO](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-037-312x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-037.jpg) Lisa Chacon, co-founder, co-director, & COO</div>
+
 
 \-- a co-working space and gallery "at the intersection of art, technology and enterprise"; and Numi Tea --
 
-\[caption id="attachment\_25290" align="aligncenter" width="334"\][![Samples flowing of Numi's tea.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-022-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-022.jpg) Samples flowing of Numi's tea.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Samples flowing of Numi's tea.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-022-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-022.jpg) Samples flowing of Numi's tea.</div>
+
 
 \-- a fair-trade tea company that's risen to the top of the tea field since their 1999 founding in Oakland.  Try the Golden Tonic from their [new tumeric tea line](http://shop.numitea.com/Turmeric-Tea/c/NumiTeaStore@Teabag@Turmeric) for a lively, invigorating tea experience. There's more? [Mason at the Hive](http://www.masonathive.com/) is the name of the Hive's apartments -- 104 of them spread throughout the complex. Unfortunately, we didn't get a tour of those, but if you rent one, call me? And of course, there are the rest of those retail spaces. Here are photosets from each of these new businesses -- only one left to open now! -- and a little more description from me as to what sets them apart. **[Truve,](http://www.truvefit.com/) the fitness gym that doubles as an art gallery.** It was truly beautiful inside these walls, and Alison Roessler's commitment to sustainability in designing the space and to sustaining the community by offering free classes shows that she has a beautiful soul as well.
 

@@ -1,10 +1,10 @@
 ---
 title: "Farm Burger"
 date: "2015-04-22"
-categories: 
+categories:
   - "berkeley-restaurant-review"
   - "restaurants"
-tags: 
+tags:
   - "berkeley"
   - "burger-joint"
   - "chicken-livers"
@@ -41,7 +41,13 @@ The rest of Farm Burger's stores are in the South, and those Southern roots are 
 
 In addition to sides and burgers, there are salads, several varieties of fries, shakes, and boozy and standard floats.
 
-\[caption id="attachment\_9883" align="aligncenter" width="500"\]![The Young's Chocolate Stout float](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/Farm_Burger_01-500x383.jpg) The Young's Chocolate Stout float\[/caption\]
+
+
+
+<div class="caption">
+
+![The Young's Chocolate Stout float](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/Farm_Burger_01-500x383.jpg) The Young's Chocolate Stout float</div>
+
 
 I could taste the quality of their ingredients, always a plus, but a few dishes rested too firmly on those all-natural laurels—in other words, they were bland. The fried chicken livers, in particular, are a dish I would not order again.
 

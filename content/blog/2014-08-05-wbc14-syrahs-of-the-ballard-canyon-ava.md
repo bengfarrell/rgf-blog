@@ -1,12 +1,12 @@
 ---
 title: "WBC14: Syrahs of the Ballard Canyon AVA"
 date: "2014-08-05"
-categories: 
+categories:
   - "events"
   - "red-wine-review"
   - "shiraz"
   - "wine-bloggers-conference-2014-buellton"
-tags: 
+tags:
   - "appellation"
   - "ava"
   - "ballard-canyon"
@@ -51,7 +51,13 @@ Each of them, in turn, introduced the syrah they brought in for us to taste. The
 
 My notes will start, as the tasting did, with Ruben’s wine.
 
-\[caption id="attachment\_8578" align="aligncenter" width="500"\][![Anatoli of Talk-A-Vino evaluating our line-up.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/WBC_14_134-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wbc14-syrahs-of-the-ballard-canyon-ava/wbc_14_134/) Anatoli of Talk-A-Vino evaluating our line-up.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Anatoli of Talk-A-Vino evaluating our line-up.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/WBC_14_134-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wbc14-syrahs-of-the-ballard-canyon-ava/wbc_14_134/) Anatoli of Talk-A-Vino evaluating our line-up.</div>
+
 
 **Kimsey Vineyard** ($60): I found Ruben’s Syrah 2012 young but full of potential with aging. In time, its spice and tight berry will unwrap to offer the most inviting of embraces.
 

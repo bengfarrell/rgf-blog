@@ -1,11 +1,11 @@
 ---
 title: "Wine Review--Black Swan Shiraz Cabernet 2008"
 date: "2009-08-31"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "red-wine-review"
   - "shiraz"
-tags: 
+tags:
   - "australian-wines"
   - "mulberry-nose"
   - "shiraz-cabernet-review"
@@ -17,6 +17,12 @@ Wine: **Black Swan Shiraz Cabernet 2008** Region: Southeastern Australia
 
 This wine's nose is like a warmed mulberry potpourri. It tastes of bright blackberries that have been spiced with cardamom and cinnamon.  Other than the slight kick at the end, I thought it was intriguing, enjoyable, and paired very well with monterey jack.
 
-\[caption id="attachment\_59" align="aligncenter" width="40"\]![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars</div>
+
 
 _Reviewed 8.17.09._

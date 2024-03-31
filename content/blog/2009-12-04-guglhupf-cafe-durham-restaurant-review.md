@@ -1,10 +1,10 @@
 ---
 title: "Guglhupf Cafe (Durham) -- Restaurant Review"
 date: "2009-12-04"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "cider-cocktail"
   - "durham-bakery"
   - "durham-coffee-house"
@@ -72,6 +72,12 @@ Yum. Not that I'm hard to impress with dessert, but it was really good and the b
 
 I still love Guglhupf, but I think I'm more inclined to go there during the day, when the porch is an option or the sunlight streams through all the windows. The dishes we tried were similar to their daytime offerings, though classed up with fancier presentations.  Of course, we didn't try the entrees and it's very possible that they provide a little more variation from the (excellent) ingredients piled and tossed on a plate that many of their smaller plates use. Don't get me wrong, Guglhupf does that simplistic style well, but I'd be very interested in hearing if any of you have tried an entrée!
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 11.19.09._

@@ -25,7 +25,13 @@ tags:
 
 So is the Huckster pulling a fast one with this vino?
 
-\[caption id="attachment\_28785" align="aligncenter" width="404"\][![usa cabernet, usa, cabernet, wine, tasting notes, review, peter woods, the gourmez, rebecca gomez farrell](https://thegourmez-wpmedia.s3.amazonaws.com/2019/05/Magic-Flute-USA-Cabernet-015-404x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/05/Magic-Flute-USA-Cabernet-015.jpg) L, Peter Woods; R, me.\[/caption\]
+
+
+
+<div class="caption">
+
+[![usa cabernet, usa, cabernet, wine, tasting notes, review, peter woods, the gourmez, rebecca gomez farrell](https://thegourmez-wpmedia.s3.amazonaws.com/2019/05/Magic-Flute-USA-Cabernet-015-404x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/05/Magic-Flute-USA-Cabernet-015.jpg) L, Peter Woods; R, me.</div>
+
 
 I don't think so. I tried the 2016 USA Cabernet on two separate occasions: during that wine dinner at [the Magic Flute](http://www.magicfluteristorante.com/) in San Francisco's Presidio Heights neighborhood and again with plenty of decanting at home.
 
@@ -35,7 +41,13 @@ I don't think so. I tried the 2016 USA Cabernet on two separate occasions: durin
 
 At that price point, USA Cabernet offers plenty to peruse at your leisure or to enjoy in balance with little thought. With [the Scotto family's](https://thegourmez.com/?s=scotto) cabernet sauvignon, barbera, and petit verdot grapes out of Lodi, Calaveras, and Lake County, an intriguing mélange of flavors resides in the glass.
 
-\[caption id="attachment\_28784" align="aligncenter" width="500"\][![magic flute, pistachio, cheesecake, pistachio cheesecake, san francisco](https://thegourmez-wpmedia.s3.amazonaws.com/2019/05/Magic-Flute-USA-Cabernet-014-500x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/05/Magic-Flute-USA-Cabernet-014.jpg) An intriguing mélange in the Magic Flute's pistachio cheesecake, as well.\[/caption\]
+
+
+
+<div class="caption">
+
+[![magic flute, pistachio, cheesecake, pistachio cheesecake, san francisco](https://thegourmez-wpmedia.s3.amazonaws.com/2019/05/Magic-Flute-USA-Cabernet-014-500x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/05/Magic-Flute-USA-Cabernet-014.jpg) An intriguing mélange in the Magic Flute's pistachio cheesecake, as well.</div>
+
 
 If you enjoy USA Cabernet, and I certainly did, be assured that USA Rosé and Chardonnay can't be too far in our futures. Heck, maybe Peter will even attempt a USA Gamay someday? I'll stop now with the wordplay.
 

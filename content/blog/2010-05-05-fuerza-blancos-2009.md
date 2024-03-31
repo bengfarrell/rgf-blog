@@ -1,10 +1,10 @@
 ---
 title: "Fuerza Blancos 2009"
 date: "2010-05-05"
-categories: 
+categories:
   - "torrontes"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2009"
   - "apple"
   - "argentina"
@@ -23,7 +23,13 @@ For the record, I'm drinking this white wine blend very chilled, which can lesse
 
 I enjoy all of the differing layers to it, but none of them stand out so I won't be rushing out for more.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+  Other Bloggers' Thoughts:
 
 [Viva la Wino!](http://www.vivalawino.com/2009/02/2007-fuerza-blancos.html) on the 2007 Vintage
 

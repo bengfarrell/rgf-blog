@@ -1,14 +1,14 @@
 ---
 title: "On the Go with Anywhere Cellars and Heavyweight Wines!"
 date: "2017-09-15"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "chardonnay"
   - "red-wine-review"
   - "rose-review"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "anywhere-cellars"
   - "cabernet"
   - "canned-wine"
@@ -38,7 +38,13 @@ I’ve reviewed a pair of [Scotto’s Heavyweight wines](http://thegourmez.com/2
 
 The to-go Heavyweight 2015 Chardonnay was a peacemaker, not fully committing to either the buttery or acidic sides of this grape’s profile. You’ll find more solace in this gulp of lemon meringue and green apple than you ever will at the UN – especially on a hot, late summer day in Oakland, when the blowing fans need a little extra chill to help them out. 3.5/5
 
-\[caption id="attachment\_27893" align="aligncenter" width="500"\][![anywhere cellars wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/09/Samples-Party-002-500x488.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/09/Samples-Party-002.jpg) The four-pack cube.\[/caption\]
+
+
+
+<div class="caption">
+
+[![anywhere cellars wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/09/Samples-Party-002-500x488.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/09/Samples-Party-002.jpg) The four-pack cube.</div>
+
 
 The Anywhere canned wines kept up the streak of surprising sophistication, and believe me, some canned wines I’ve tried do _not_ pull that off. I won’t mention a label name, but suffice it to say that adding raspberry flavor to wine is not advised if you’re hoping to sway wine aficionados. Ugh, I’m gagging even thinking about that can of pink nightmares.
 

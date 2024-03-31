@@ -1,10 +1,10 @@
 ---
 title: "The Great American Duck Race (10.2.10)"
 date: "2010-11-04"
-categories: 
+categories:
   - "events"
   - "durham-north-carolina-travel"
-tags: 
+tags:
   - "bat"
   - "duck-race"
   - "durham"
@@ -21,37 +21,97 @@ tags:
   - "tobacco-district"
 ---
 
-\[caption id="attachment\_1719" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace39.jpg "duckrace39")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace39.jpg) The Racers\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace39.jpg "duckrace39")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace39.jpg) The Racers</div>
+
 
 For the third or fourth year (reports vary) the American Tobacco District hosted the Great American Duck Race. I finally remembered it in time to attend this year, even though I didn’t get nearly enough duck-in-action shots as I would have liked due to that faulty camera of mine. Sadly, Ben couldn’t come, even though he was the first to notice signs for it a few years back. Someday, husband mine, you and the ducks will be together!
 
 So it’s basically a family fun affair put together by Fox 50. In addition to the main attraction, where individuals can purchase rubber duckies to race for $10 (corporate donors for $250) and support local charities, there was a petting zoo,
 
-\[caption id="attachment\_1728" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace10.jpg "duckrace10")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace10.jpg) A gorgeous fox pup\[/caption\]
 
-\[caption id="attachment\_1729" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace11.jpg "duckrace11")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace11.jpg) Small breed of alligator or crocodile\[/caption\]
 
-\[caption id="attachment\_1730" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace12.jpg "duckrace12")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace12.jpg) Bat hanging in\[/caption\]
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace10.jpg "duckrace10")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace10.jpg) A gorgeous fox pup</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace11.jpg "duckrace11")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace11.jpg) Small breed of alligator or crocodile</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace12.jpg "duckrace12")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace12.jpg) Bat hanging in</div>
+
 
 Lego display,
 
-\[caption id="attachment\_1731" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace13.jpg "duckrace13")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace13.jpg) Appropriately themed Lego racetrack\[/caption\]
 
-\[caption id="attachment\_1732" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace15.jpg "duckrace15")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace15.jpg) Yes, that cow is being transported to a UFO, and it is AWESOME.\[/caption\]
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace13.jpg "duckrace13")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace13.jpg) Appropriately themed Lego racetrack</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace15.jpg "duckrace15")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace15.jpg) Yes, that cow is being transported to a UFO, and it is AWESOME.</div>
+
 
 planetarium, and video gaming center on hand to keep everyone entertained. And that was just in one of the District’s side rooms. Out on the green
 
-\[caption id="attachment\_1726" align="aligncenter" width="334"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace20.jpg "duckrace20")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace20.jpg) Loved those duck balloon pillars\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace20.jpg "duckrace20")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace20.jpg) Loved those duck balloon pillars</div>
+
 
 were face painters, balloon artists,
 
-\[caption id="attachment\_1724" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace25.jpg "duckrace25")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace25.jpg) Duck with trailing bubbles?\[/caption\]
 
-\[caption id="attachment\_1725" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace29.jpg "duckrace29")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace29.jpg) Somebody's watching you!\[/caption\]
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace25.jpg "duckrace25")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace25.jpg) Duck with trailing bubbles?</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace29.jpg "duckrace29")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace29.jpg) Somebody's watching you!</div>
+
 
 yoga training, and contender decorating.
 
-\[caption id="attachment\_1727" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace22.jpg "duckrace22")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace22.jpg) The warm-up pool\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace22.jpg "duckrace22")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2010/11/duckrace22.jpg) The warm-up pool</div>
+
 
 Excitement mounted as the ducks were taken to the start line to begin the race. It was impossible to have a good view of all of Ol’ Bull River (who knew it had a name?), so I got a spot in the middle section. My first view of the racers came as they started to trickle in under the bridge.
 

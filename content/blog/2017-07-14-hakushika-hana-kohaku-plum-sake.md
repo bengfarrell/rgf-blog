@@ -1,9 +1,9 @@
 ---
 title: "Hakushika Hana Kohaku Plum Sake"
 date: "2017-07-14"
-categories: 
+categories:
   - "sake"
-tags: 
+tags:
   - "hakushika"
   - "hana-kohaku"
   - "nanko-plum"
@@ -25,7 +25,13 @@ I like it. It’s completely straightforward as a blend of sake and plum wine, k
 
 The Hakushika Hana Kohaku Plum Sake is a smooth, sweet drink providing a pleasant end to the evening. Ultimately, though, I’d like a little more panache.
 
-\[caption id="attachment\_24388" align="alignnone" width="40"\][![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 3/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 3/5</div>
+
 
 ##### Other Bloggers’ Thoughts
 

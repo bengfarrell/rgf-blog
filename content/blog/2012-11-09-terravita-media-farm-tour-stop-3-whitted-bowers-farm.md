@@ -1,11 +1,11 @@
 ---
 title: "TerraVITA Media Farm Tour: Stop 3, Whitted Bowers Farm"
 date: "2012-11-09"
-categories: 
+categories:
   - "events"
   - "chapel-hill-north-carolina-travel"
   - "travel-product-review"
-tags: 
+tags:
   - "biodynamic"
   - "biodynamics"
   - "blueberry"
@@ -29,35 +29,101 @@ tags:
 
 After learning about different methods for processing coffee beans and getting our buzz on at Joe Van Gogh’s coffee roastery, the [TerraVITA 2012](http://www.terravitaevent.com/) Media Farm Tour group headed on to the next stop in our jam-packed day. That stop was [Whitted Bowers Farm](http://www.whittedbowersfarm.com/Welcome.html) in Cedar Grove, NC. It’s owned by Rob Bowers and Cheri Whitted Bowers, fellow Californian transplants (we are everywhere!).
 
-\[caption id="attachment\_5112" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012027.jpg "TerraVita2012027")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012027.jpg) Welcome Rooster\[/caption\]
 
-\[caption id="attachment\_5113" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012028.jpg "TerraVita2012028")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012028.jpg) Our group walking toward the cabin.\[/caption\]
 
-\[caption id="attachment\_5114" align="aligncenter" width="334"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012029.jpg "TerraVita2012029")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012029.jpg) Entrance to new wooden cabin used for the strawberry you-pick season.\[/caption\]
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012027.jpg "TerraVita2012027")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012027.jpg) Welcome Rooster</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012028.jpg "TerraVita2012028")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012028.jpg) Our group walking toward the cabin.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012029.jpg "TerraVita2012029")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012029.jpg) Entrance to new wooden cabin used for the strawberry you-pick season.</div>
+
 
 Whitted Bowers Farm is 52 acres, and when the farmers purchased it, the only structure was the house.
 
-\[caption id="attachment\_5125" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012040.jpg "TerraVita2012040")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012040.jpg) The house in the distance.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012040.jpg "TerraVita2012040")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012040.jpg) The house in the distance.</div>
+
 
 Rob, who has that rugged farmer’s look, spoke with us inside the cabin to keep warm, and we learned an amazing amount about biodynamic farming in a short period of time.
 
-\[caption id="attachment\_5115" align="aligncenter" width="334"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012030.jpg "TerraVita2012030")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012030.jpg) Rob Bowers.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012030.jpg "TerraVita2012030")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012030.jpg) Rob Bowers.</div>
+
 
 The farm is the only one on the East Coast certified as both organic and biodynamic. What is biodynamic? Before this visit I had heard about biodynamic farmers burying cow horns but that was all I knew. Rob said the idea of biodynamic farming techniques is to make the soil itself better and more fertile rather than viewing it solely as a medium for plants to grow in. That cow horn example is real, but it’s not just a crazy tradition. The cow horn is filled with manure and buried on the autumn equinox. It is unearthed at the spring equinox, and the manure is then mixed with water to make a fertilizer. Once completely made, a 1/2 cup of the fertilizer can provide an acre’s worth of coverage. So it’s definitely more concrete in intention than just quirky farming.
 
-\[caption id="attachment\_5116" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012031.jpg "TerraVita2012031")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012031.jpg) Fields overrun with clover for this next season.\[/caption\]
 
-\[caption id="attachment\_5117" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012032.jpg "TerraVita2012032")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012032.jpg) Sunflowers breaking through the clover-blueberry fields.\[/caption\]
 
-\[caption id="attachment\_5119" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012034.jpg "TerraVita2012034")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012034.jpg) Rob talking about the various crops behind him that included blackberries and raspberries.\[/caption\]
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012031.jpg "TerraVita2012031")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012031.jpg) Fields overrun with clover for this next season.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012032.jpg "TerraVita2012032")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012032.jpg) Sunflowers breaking through the clover-blueberry fields.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012034.jpg "TerraVita2012034")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012034.jpg) Rob talking about the various crops behind him that included blackberries and raspberries.</div>
+
 
 Rob explained that biodynamics involves a lot of precise methods that stem from believing that the planets and stars impact their crops. He was surprised when they moved here to hear locals confirm some of his beliefs from their own folklore, specifically giving “everybody knows you don’t plant potatoes under Pisces” as an example. This method of farming is much more common in Europe, and Rob uses it because it works. They’ve been able to grow peaches, pomegranates, Jupiter table grapes, and plums organically when they were told such crops could never be grown in this area.
 
-\[caption id="attachment\_5120" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012035.jpg "TerraVita2012035")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012035.jpg) Passing the raspberry bushes.\[/caption\]
 
-\[caption id="attachment\_5121" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012036.jpg "TerraVita2012036")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012036.jpg) Passing grapevines.\[/caption\]
 
-\[caption id="attachment\_5122" align="aligncenter" width="334"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012037.jpg "TerraVita2012037")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012037.jpg) It was a gorgeous day.\[/caption\]
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012035.jpg "TerraVita2012035")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012035.jpg) Passing the raspberry bushes.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012036.jpg "TerraVita2012036")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012036.jpg) Passing grapevines.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012037.jpg "TerraVita2012037")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012037.jpg) It was a gorgeous day.</div>
+
 
 Another of Rob’s goals is to show that a family farm can support itself as long as the family is committed to that land. The family focus must always be the farm—once the focus turns to outside jobs, for example, the farm is much less likely to succeed.
 
@@ -69,7 +135,13 @@ Whitted Bowers Farm does have some honey bees on hand for pollination---
 
 The farm gets a lot of its water from a stream-fed pond, but not all of it yet.
 
-\[caption id="attachment\_5124" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012039.jpg "TerraVita2012039")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012039.jpg) Figs are grown near the pond for the water proximity.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012039.jpg "TerraVita2012039")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012039.jpg) Figs are grown near the pond for the water proximity.</div>
+
 
 They are working on collecting water runoff from the buildings to make the farm entirely self-sustaining for water.
 

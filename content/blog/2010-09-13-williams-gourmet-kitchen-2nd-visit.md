@@ -1,10 +1,10 @@
 ---
 title: "William's Gourmet Kitchen, 2nd visit"
 date: "2010-09-13"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "cheeseburger"
   - "covered-porch"
   - "hamburger"
@@ -32,6 +32,12 @@ This was no gigantic cupcake, but the size of the ones that used to be considere
 
 Based on this experience, I'm raising William's Gourmet Kitchen to an
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\] It's definitely a great lunch spot, especially if you want a burger.
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+ It's definitely a great lunch spot, especially if you want a burger.
 
 _Reviewed 8.31.10._

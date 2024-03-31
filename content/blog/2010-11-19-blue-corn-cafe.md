@@ -1,11 +1,11 @@
 ---
 title: "Blue Corn Cafe"
 date: "2010-11-19"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "events"
   - "restaurants"
-tags: 
+tags:
   - "arroz-con-pollo"
   - "blue-corn-cafe"
   - "durham"
@@ -63,6 +63,12 @@ It was the arroz con leche, a warm rice pudding. I thought it was quite deliciou
 
 The group’s reactions to the whole meal at Blue Corn Cafe were mostly along the lines of “Totally decent but overrated” and “Overpriced.” The creativity of entrees was celebrated even if quality control failed in some areas (in addition to our temperature issues, another Carpe Durham poster has reported being served a nearly-rare chicken breast once). I think I was the only person completely happy with my choices; the menu was definitely hit and miss in the dessert department but the food was good to great for the most part. Overall, I think any of us would eat there again, but we wouldn’t go out of our way to seek it out.
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 2 stars</div>
+
 
 _Reviewed 11.13.10._

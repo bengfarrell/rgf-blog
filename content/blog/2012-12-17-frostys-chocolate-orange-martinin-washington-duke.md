@@ -1,12 +1,12 @@
 ---
 title: "Nonfiction Bragging: My Winning Cocktail, the Frosty's Chocolate Orange Martini at the Washington Duke Inn"
 date: "2012-12-17"
-categories: 
+categories:
   - "announcements"
   - "recipes"
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bull-durham-bar"
   - "cardamom"
   - "cardamom-simple-syrup"
@@ -34,7 +34,13 @@ For the month of December, you can order a cocktail of my very own creation at t
 
 The night of the winner unveiling, _Durham Magazine_ [posted a brief piece](http://www.durhammag.com/blogs/durham-magazine-blog/washington-duke-cocktail-recipe-contest/) on my victory, from which I’m stealing this picture.
 
-\[caption id="attachment\_5323" align="aligncenter" width="496" caption="Me and my Frosty."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/durhammagphoto.jpg "durhammagphoto")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/durhammagphoto.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/durhammagphoto.jpg "durhammagphoto")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/durhammagphoto.jpg)</div>
+
 
 You can also watch the following video of bar manager Chris Thomas mixing up the concoction.
 

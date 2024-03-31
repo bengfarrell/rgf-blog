@@ -1,13 +1,13 @@
 ---
 title: "Banana Split @ Beyu Caffe"
 date: "2010-09-03"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
   - "coffee-shop"
   - "spirits"
   - "vodka"
-tags: 
+tags:
   - "banana-split-cocktail"
   - "bars"
   - "beyu-caffe"
@@ -28,6 +28,12 @@ This creamy cocktail is made from Stoli vodka, crème de banane, creme de cacao,
 
 It can use some sophistication, but it's still tasty.
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+
 
 _Reviewed 8.14.10._

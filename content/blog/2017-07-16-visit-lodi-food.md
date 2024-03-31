@@ -1,14 +1,14 @@
 ---
 title: "Visit Lodi for…Food Worth Finding!"
 date: "2017-07-16"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "dining-in-lodi-ca"
   - "restaurants"
   - "tasting-rooms-in-lodi-ca"
   - "lodi-travel"
   - "travel-product-review"
-tags: 
+tags:
   - "cheese-central"
   - "chef-bernardo-martinez"
   - "cindy-della-monica"
@@ -32,7 +32,13 @@ tags:
 
 In late May, the [Visit Lodi tourism bureau](http://www.visitlodi.com/) invited me and a few other bloggers out for a press trip introducing us to all Lodi has to offer for a weekend trip. [The word has spread](http://thegourmez.com/2016/09/02/most-memorable-wines-from-the-2016-wine-bloggers-conference-part-1/) about Lodi’s quality grapes and up-and-coming wine estates, but there’s not a lot out there yet on what else a trip to Lodi might entail to supplement the wine tasting experience.
 
-\[caption id="" align="aligncenter" width="364"\][![The Gourmez arrives at the Lodi Mission Arch.](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-067-364x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-067.jpg) The Gourmez arrives at the Lodi Mission Arch.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Gourmez arrives at the Lodi Mission Arch.](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-067-364x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-067.jpg) The Gourmez arrives at the Lodi Mission Arch.</div>
+
 
 Thus, I’ll be offering up a series of suggestions on what you should seek out when you visit Lodi in addition to wineries and tasting rooms. **Obligatory disclaimer:** That means everything mentioned in this post was free for me courtesy of Visit Lodi and the participating businesses.
 
@@ -42,7 +48,13 @@ My initial focus will be on the all-important stomach and where you can fill it 
 
 [Viaggio Estate and Winery](http://www.viaggiowinery.com/viaggiowinery/) isn’t hard to find (100 E. Taddei Road), though it is a 7-mile drive out of town and into the Acampo area. Rather, it’s Viaggio’ s amazing food that’s hard to experience as it’s only available on Friday evenings and weekend afternoons! Which is a shame, because talent as strong as Chef Bernardo Martinez’s needs to be appreciated every day of the week.
 
-\[caption id="attachment\_27809" align="aligncenter" width="500"\][![visit lodi food viaggio winery chef martinez larry lawrence](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-102-500x357.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-102.jpg) Chef Martinez with co-owner Larry Lawrence\[/caption\]
+
+
+
+<div class="caption">
+
+[![visit lodi food viaggio winery chef martinez larry lawrence](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-102-500x357.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-102.jpg) Chef Martinez with co-owner Larry Lawrence</div>
+
 
 I really and truly mean that, as our four-course dinner at Viaggio was the most memorable meal we had all trip, and not merely because Viaggio Estates is beautiful all over, including the formal dining room.
 
@@ -68,11 +80,23 @@ As mentioned, you can catch Chef Martinez’s artistry at the Vino di Vita Patio
 
 I didn’t see Cheese Central for myself this trip, but I did see the passion of its proprietor, Cindy Della Monica, at Calturas Winery and Brewery, where we enjoyed a cheese and wine pairing course to start off our weekend. Calturas’s wines will be somewhat harder to find soon, as they’ve just sold their tasting room, which was quirkily housed in a remodeled auto mall.
 
-\[caption id="attachment\_27821" align="aligncenter" width="500"\][![calturas lodi wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-004-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-004.jpg) We'll miss you, Calturas breezeway!\[/caption\]
+
+
+
+<div class="caption">
+
+[![calturas lodi wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-004-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-004.jpg) We'll miss you, Calturas breezeway!</div>
+
 
 But the Cheese Central shop remains a downtown fixture (11 N School Street), and you should absolutely schedule time for Cindy and her crew to aid in your cheese discovery.
 
-\[caption id="attachment\_27797" align="aligncenter" width="500"\][![Cindy Della Monica cheese central lodi food](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-008-500x362.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-008.jpg) Cindy Della Monica\[/caption\]
+
+
+
+<div class="caption">
+
+[![Cindy Della Monica cheese central lodi food](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-008-500x362.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-008.jpg) Cindy Della Monica</div>
+
 
 Cindy’s absolutely delightful, and the sheer knowledge she has of each cheese she stocks is impressive.
 
@@ -98,11 +122,23 @@ You can currently seek out [Calturas wines](https://www.calturas.com/) online or
 
 [The Olive Drop Olive Oil Company](http://www.olivedropoliveoil.com/), formerly Cecchetti Olive Oil, doesn’t have a sign, so it took me several drive-bys to realize that yes, Google was right and that driveway covered by olive trees was where I needed to be for this tasting.
 
-\[caption id="attachment\_27815" align="aligncenter" width="500"\][![olive drop estate lodi food bloggers](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-144-500x367.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-144.jpg) Our group in the olive trees.\[/caption\]
+
+
+
+<div class="caption">
+
+[![olive drop estate lodi food bloggers](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-144-500x367.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-144.jpg) Our group in the olive trees.</div>
+
 
 Proprietor Karen Chandler was the consummate host, joined by her daughter, Nicole Chandler Gross. The family didn’t quite believe Karen when she said she was going into the olive oil business over a decade ago, but they are all believers now, helping with every aspect of it, including the grandkids selling at farmers’ markets.
 
-\[caption id="attachment\_27812" align="aligncenter" width="500"\][![Karen and Nicole chandler olive drop lodi food](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-108-500x465.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-108.jpg) Nicole and Karen\[/caption\]
+
+
+
+<div class="caption">
+
+[![Karen and Nicole chandler olive drop lodi food](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-108-500x465.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-108.jpg) Nicole and Karen</div>
+
 
 We were treated to a full line-up of olive oil tastes in Karen’s beautiful home, and I was greatly impressed by her products. They dry farm, harvest by hand, and get the olive oils to the press within 45 minutes of picking, when they are at peak flavor in the fall. And that hard, detailed work yields quality in spades.
 
@@ -132,7 +168,13 @@ This charming restaurant, bakery, brewery, and winery offers a fairy tale feel w
 
 I could live in this space, I’m pretty sure, especially if I could keep the constant flow of food coming like happened for us this media trip. So many specialty pizzas and salads to choose from!
 
-\[caption id="attachment\_27805" align="aligncenter" width="500"\][![the dancing fox pizza lodi food](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-031-500x411.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-031.jpg) Served on wooden stumps!\[/caption\]
+
+
+
+<div class="caption">
+
+[![the dancing fox pizza lodi food](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-031-500x411.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-031.jpg) Served on wooden stumps!</div>
+
 
 I am glad we didn’t venture onto the sausage page, because that would have just been too much wonder to take in at one time. But having tried at least eight combinations of pizza that night, I can confidently proclaim the Don Pedro my favorite.
 
@@ -148,7 +190,13 @@ For the salads, the poppy seed dressing on the Mandarin Almond and chipotle dres
 
 Like many Lodi establishments we visited, the Dancing Fox is truly a family affair. Speaking with winemaker Gregg Lewis was a delight, especially learning how the paintings hanging around the space and on the label art are inspired by the fairy tales he used to tell his children and that he someday hopes to collect in a book.
 
-\[caption id="attachment\_27803" align="aligncenter" width="412"\][![gregg lewis dancing fox lodi](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-026-412x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-026.jpg) Gregg Lewis at the head of the table.\[/caption\]
+
+
+
+<div class="caption">
+
+[![gregg lewis dancing fox lodi](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-026-412x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-026.jpg) Gregg Lewis at the head of the table.</div>
+
 
 Gregg’s wife bakes the bread and his son brews the beer. Of the solid wine selection, **the 2013 Dancing Fox Petite Sirah** stood out most with lush strawberry notes and a mist of fog and salt. I found it dramatically romantic.
 
@@ -156,6 +204,12 @@ Gregg’s wife bakes the bread and his son brews the beer. Of the solid wine sel
 
 I’m sure Lodi has a great many more food-based quests just waiting to be taken, but do let me know if any of these inspire your own journeying when visiting Lodi and its winemaking wonders.
 
-\[caption id="attachment\_27802" align="aligncenter" width="362"\][![the dancing fox lodi food mugs](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-024-362x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-024.jpg) Cheers from the Dancing Fox!\[/caption\]
+
+
+
+<div class="caption">
+
+[![the dancing fox lodi food mugs](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-024-362x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-024.jpg) Cheers from the Dancing Fox!</div>
+
 
 _Trip taken 2-4 June 2017._

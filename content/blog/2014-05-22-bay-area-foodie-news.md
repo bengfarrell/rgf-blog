@@ -1,10 +1,10 @@
 ---
 title: "Bay Area Foodie News"
 date: "2014-05-22"
-categories: 
+categories:
   - "events"
   - "restaurants"
-tags: 
+tags:
   - "affordable"
   - "bay-area"
   - "berkeley"
@@ -53,7 +53,13 @@ Currently, Cozymeal has 36 meals and cooking classes to choose from. And their d
 
 2. **It’s affordable—no really, I mean affordable!** The #1 thing that puts me off from companies offering similar dining experiences is how expensive they usually are. More often than not—and in areas much more affordable than the Bay Area—I’ve seen single evening cooking classes start at well more than $100 per person. For Cozymeal, the most expensive ones are just shy of that mark at $95, but they run all the way down to $40—try to beat that! Dinners are even more affordable, with a range from $12 to $50, and those are for multicourse meals!
 
-\[caption id="attachment\_8201" align="aligncenter" width="680"\][![Awatif’s African and Middle Eastern menu for $29](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/awatif-pricing-1024x926.jpg)](http://www.thegourmez.com/2014/05/bay-area-foodie-news/awatif-pricing/) Awatif’s African and Middle Eastern menu for $29\[/caption\]
+
+
+
+<div class="caption">
+
+[![Awatif’s African and Middle Eastern menu for $29](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/awatif-pricing-1024x926.jpg)](http://www.thegourmez.com/2014/05/bay-area-foodie-news/awatif-pricing/) Awatif’s African and Middle Eastern menu for $29</div>
+
 
 How do they keep prices so low? It’s not actually by design—Samad tells me the chefs are the ones who price their dinners. Some do want to make a profit, but some do it just for the sheer joy of entertaining. Chefs, my hats are off and wallets open to you. Which brings me to my next reason to love Cozymeal,
 

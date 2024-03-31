@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Magnolia Grill, Ninth Street, Durham"
 date: "2009-08-27"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "durham-restaurants"
   - "fig-dessert"
   - "fig-salad"
@@ -49,7 +49,13 @@ Obviously, figs were a big hit this evening.  The dessert was divine as the bab
 
 Magnolia Grill lived up to my expectations.  Other than perhaps trying to do too much with the entree, every dish was well-crafted and satisfying.  I look forward to trying it again when the seasons change.
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+
 
 _Reviewed 8.19.09._
 

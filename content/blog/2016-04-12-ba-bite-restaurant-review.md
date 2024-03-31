@@ -1,10 +1,10 @@
 ---
 title: "Ba-Bite"
 date: "2016-04-12"
-categories: 
+categories:
   - "oakland-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "ba-bite"
   - "beets"
   - "cabbage"
@@ -38,7 +38,13 @@ The beet salad, pictured at the back, was my favorite. Made of roasted beets and
 
 Also in that picture is the classic hummus plate topped with lamb. All of the hummus plates are garbanzo beans pureed with olive oil and pine nuts, though one choice adds in whole garbanzo beans and another does a fava bean puree. Get the extra pita bread for $2 more -- you’ll need it with that much hummus! The pita, which comes from a local baker, was partially warmed and pretty good, though I’ve had better. The hummus was high-quality, and the lamb was probably the best item we sampled; moist and rubbed with a palatable mélange of herbs. The accompanying pickles and olives were tasty, if not very memorable. Isn't most comfort food about the same, though?
 
-\[caption id="attachment\_25874" align="aligncenter" width="500"\][![Ba-Bite cabbage salad and pickles](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Ba-Bite-04-2-500x349.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Ba-Bite-04-2.jpg) Pickles on the right.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Ba-Bite cabbage salad and pickles](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Ba-Bite-04-2-500x349.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Ba-Bite-04-2.jpg) Pickles on the right.</div>
+
 
 We also ordered the mint tea and the spiced coffee. My friend thought a sprig of mint to decorate her tea would have been nice, but the drinks are self-serve, so that may not be a functional wish. The coffee was great, with spices so smoothly simmered into the brew that it was hard to tell what they were. Perhaps cinnamon and a touch of cardamom?
 

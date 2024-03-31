@@ -1,7 +1,7 @@
 ---
 title: "The Sustainable Classroom: Coffee &amp; Chocolate"
 date: "2012-11-16"
-categories: 
+categories:
   - "chocolatiers"
   - "coffee-shop"
   - "chapel-hill-coffee-shop-reviews"
@@ -9,7 +9,7 @@ categories:
   - "events"
   - "ice-cream-bakery-food-truck"
   - "travel-product-review"
-tags: 
+tags:
   - "carrboro-coffee"
   - "chapel-hill"
   - "chocolate"
@@ -39,11 +39,23 @@ As part of my whirlwind weekend at [TerraVITA 2012](http://www.terravitaevent.co
 
 But first the basics: the Sustainable Classroom was a day of hour-long sessions that brought together experts and entrepreneurs in various fields to demonstrate and discuss their sustainable practices and what it means to be sustainable for them. More often than not that also involved tasting their goodies, often in pairings. There were eight courses to choose from, and it took all day to fit in four. Half were held at the Greenbridge Development and half at TOPO distillery, both in downtown Chapel Hill.
 
-\[caption id="attachment\_5245" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012134.jpg "TerraVita2012134")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012134.jpg) Entrance to TOPO.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012134.jpg "TerraVita2012134")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012134.jpg) Entrance to TOPO.</div>
+
 
 [TOPO](http://topodistillery.com/) is an extension of Top of the Hill Restaurant and Brewery, a staple of the Chapel Hill scene. They are distilling vodka, gin, and whiskey from organic North Carolinian wheat and botanicals.
 
-\[caption id="attachment\_5235" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012113.jpg "TerraVita2012113")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012113.jpg) A selection of TOPO’s line.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012113.jpg "TerraVita2012113")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012113.jpg) A selection of TOPO’s line.</div>
+
 
 I am definitely planning to go back and take a tour of the facility because I was unable to do so that afternoon. Who wants to come with me?
 
@@ -69,11 +81,29 @@ Meeting all 3 of those goals is essential, and that is what results in higher co
 
 Sam passed around three parts of the cocoa bean that are separated in stages of the processing, and we sniffed the growing chocolate aromas from each.
 
-\[caption id="attachment\_5238" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012116.jpg "TerraVita2012116")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012116.jpg) Whole cocoa beans.\[/caption\]
 
-\[caption id="attachment\_5239" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012117.jpg "TerraVita2012117")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012117.jpg) Cocoa nibs.\[/caption\]
 
-\[caption id="attachment\_5240" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012118.jpg "TerraVita2012118")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012118.jpg) Cocoa husks after roasting.\[/caption\]
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012116.jpg "TerraVita2012116")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012116.jpg) Whole cocoa beans.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012117.jpg "TerraVita2012117")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012117.jpg) Cocoa nibs.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012118.jpg "TerraVita2012118")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012118.jpg) Cocoa husks after roasting.</div>
+
 
 He then filled us in on a lot of his history with chocolate making, its potential health benefits, and the principles he is following at Videri to make the whole process of chocolate making transparent. Videri comes from the NC state motto and means “to see.”
 
@@ -91,7 +121,13 @@ The chocolate bites were a 70% dark chocolate, a dark milk chocolate, a nugget o
 
 And what do Michael and Sam love about what they do? For Michael, it’s the ritual of coffee preparation.
 
-\[caption id="attachment\_5243" align="aligncenter" width="334"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012121.jpg "TerraVita2012121")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012121.jpg) Here he is ensconced in it.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012121.jpg "TerraVita2012121")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012121.jpg) Here he is ensconced in it.</div>
+
 
 For Sam, it’s the experimentation in the process of taking chocolate from beans to bar. For me? It’s the confidence of knowing that people like these fine gentlemen —
 

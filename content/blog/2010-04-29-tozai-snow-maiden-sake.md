@@ -1,9 +1,9 @@
 ---
 title: "Tozai Snow Maiden Sake"
 date: "2010-04-29"
-categories: 
+categories:
   - "sake"
-tags: 
+tags:
   - "apw-try"
   - "banana"
   - "junmai"
@@ -23,7 +23,13 @@ Snow Maiden is a junmai nigori sake; in other words, it's sake made with no adde
 
 That bad impression is spoiled milk. This is a very acidic sake and combined with its creamy texture, I could not get it out of my head that I was drinking curdled milk. I know it's not true, but that's just how it tasted to me. At first, it would taste mellow, like banana, along with the graininess and slightly toasty flavor of the rice, but that acidity made the flavor turn sour right away to me. I stress that this was to me---you may totally dig it if you don't have the same hang-ups or lack of sake experience.
 
-\[caption id="attachment\_203" align="aligncenter" width="40" caption="0 stars"\]![0 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_mushroom1.gif "rating_mushroom1")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![0 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_mushroom1.gif "rating_mushroom1")</div>
+  Other Bloggers' Thoughts:
 
 There are a number of video reviews of this sake, but I don't tend to watch those. I could only find the one written review below:
 

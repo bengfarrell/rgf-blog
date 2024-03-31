@@ -1,11 +1,11 @@
 ---
 title: "Dykki @ Whiskey (Durham)"
 date: "2009-10-06"
-categories: 
+categories:
   - "absinthe"
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "cocktail-review"
   - "cocktails-durham"
   - "dykki"
@@ -22,6 +22,12 @@ Dykki Whiskey Five Points, Durham
 
 This colorless cocktail was made with Plymouth gin, St. Germain elderflower liquor, Lillet Blanc, and an absinthe rinse.  It smelled of both licorice and pine trees.  The elderflower liquor gave a hint of sweetness to the drink and the Lillet Blanc provided smoothness.  These two elements combined made the gin very drinkable.  It was well-chilled, well-mixed, and delightful.
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+
 
 _Reviewed 9.1.09._

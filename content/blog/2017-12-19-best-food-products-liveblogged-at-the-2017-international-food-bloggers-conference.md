@@ -1,11 +1,11 @@
 ---
 title: "Best Food Products Liveblogged at the 2017 International Food Bloggers Conference"
 date: "2017-12-19"
-categories: 
+categories:
   - "beverage-product-review"
   - "food-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "2017"
   - "blogging"
   - "bread-seriously"
@@ -23,13 +23,25 @@ tags:
 
 Liveblogging sessions are always a highlight of the [Wine Bloggers Conferences](http://winebloggersconference.org/) I’ve attended since 2014. So it should come as no surprise that I found the liveblogging session at my first [International Food Bloggers Conference (IFBC](http://foodbloggerconference.org/)) to be the most exciting event there as well.
 
-\[caption id="attachment\_27965" align="aligncenter" width="500"\][![california capitol, capitol building, sacramento](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Food_Bloggers_Con_02-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Food_Bloggers_Con_02.jpg) The California Capitol Building in Sacramento.\[/caption\]
+
+
+
+<div class="caption">
+
+[![california capitol, capitol building, sacramento](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Food_Bloggers_Con_02-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Food_Bloggers_Con_02.jpg) The California Capitol Building in Sacramento.</div>
+
 
 The IFBC took place in Sacramento, CA, at the end of September, and yes, this is the first I’ve written about it. It’s been a crazy fall with promotion for my fantasy book[, Wings Unseen](http://www.rebeccagomezfarrell.com/creative-works/wings-unseen/); attending the IFBC, the WBC, and SirensCon; and fitting in a road trip up to Washington State to bring my mom a car. I basically collapsed for two weeks at the end of November. Only now am I getting the chance to gather my thoughts and blog on my first IFBC. So, here we go!
 
 ##### What’s Liveblogging?
 
-\[caption id="attachment\_27966" align="aligncenter" width="500"\][![downtown and vine, sacramento, polenta bites, international food bloggers conference](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Food_Bloggers_Con_30-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Food_Bloggers_Con_30.jpg) Polenta bites from Downtown & Vine...at the Taste of Sacramento Expo, not the liveblogging session. I'm pulling a fast one on you.\[/caption\]
+
+
+
+<div class="caption">
+
+[![downtown and vine, sacramento, polenta bites, international food bloggers conference](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Food_Bloggers_Con_30-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Food_Bloggers_Con_30.jpg) Polenta bites from Downtown & Vine...at the Taste of Sacramento Expo, not the liveblogging session. I'm pulling a fast one on you.</div>
+
 
 Once upon a time, the goal of liveblogging at the Wine Bloggers Conference was to post a series of blogs, or a large wrap-up blog, on ten different wines being tasted within an hour session. Each of those wines are presented and poured directly from winery representatives, who have five minutes at each of ten tables (there are usually twice that many tables total) to sell the bloggers on the wines and their brands’ virtues.
 
@@ -66,7 +78,7 @@ Bread SRSLY gave each of us a loaf of their classic sourdough to try at our leis
 I tried mine once home the next day, toasting three separate slices. I slathered one with butter, one with Maison de Monaco’s Peach Lavender Jam, which I had picked up from that previously mentioned swag table, and one with Cabot’s white cheddar, also from the swag table.
 
 > [Amazed by how good gluten-free and vegan Bread SRSLY sourdough is, toasted or not. Went smashingly with balanced Maison de Monaco 's peach and lavender jam and Cabot Cheese 's seriously sharp cheddar. Wouldn't kick any of these combos out of bed! . . . . . #glutenfree #glutenfreevegan #vegan #veganlife #glutenfreelife #sourdough #breakfast #lunch #lavender #jam #peach #cheddar #cheese #cheesey #instafood #instaeat #foodiechats #foodiepic #foodblogger #foodblogs #bloggerslife #amblogging #toast #toastlove #toastgasm #ifbc17](https://www.instagram.com/p/BZ1epKrnVkm/)
-> 
+>
 > A post shared by [Becca Gomez Farrell](https://www.instagram.com/thegourmez/) (@thegourmez) on Oct 4, 2017 at 11:08am PDT
 
 The sourdough taste was fantastic! I’d call it tangier than most sourdough, yes, even here in the Bay Area. That’s a welcome quality for me, and the bread crisped nicely with minimal crumbs and tearing. And it kept for nearly three weeks after opening, just refrigerated. That’s super impressive as Bread SRSLY says a little over a week is the usual time it’ll last in the fridge.
@@ -75,7 +87,13 @@ If you’re looking for a great bread and you suffer from pretty much any food a
 
 Order at [their online store](https://shop.breadsrsly.com/) or find in select markets throughout the country.
 
-\[caption id="attachment\_27967" align="aligncenter" width="406"\][![international food bloggers conference, ifbc, food bloggers](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Food_Bloggers_Con_03-406x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Food_Bloggers_Con_03.jpg) Bloggers assembled for a picnic lunch outside the Capitol Building.\[/caption\]
+
+
+
+<div class="caption">
+
+[![international food bloggers conference, ifbc, food bloggers](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Food_Bloggers_Con_03-406x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Food_Bloggers_Con_03.jpg) Bloggers assembled for a picnic lunch outside the Capitol Building.</div>
+
 
 Those are my three top picks from the Liveblogging Session at the International Food Bloggers Conference!
 

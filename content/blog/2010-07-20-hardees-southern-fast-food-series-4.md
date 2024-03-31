@@ -1,10 +1,10 @@
 ---
 title: "Hardee's (Southern Fast Food Series #4)"
 date: "2010-07-20"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "restaurants"
-tags: 
+tags:
   - "angus-burger"
   - "carls-junior"
   - "chain-restaurants"
@@ -36,6 +36,12 @@ The curly fries dispelled my lack-of-potato fears-they were great!
 
 So the food was better than expected, but I didn't find anything to drag me back more often than once every six years. Was there anything else I should have tried that you'd recommend, anything you have to get every time you're at Hardee's?
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Reviewed 7.12.10._

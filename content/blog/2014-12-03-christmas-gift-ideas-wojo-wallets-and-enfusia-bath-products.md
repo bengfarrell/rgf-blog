@@ -1,11 +1,11 @@
 ---
 title: "Christmas Gift Ideas: Wojo Wallets and Enfusia Bath Products"
 date: "2014-12-03"
-categories: 
+categories:
   - "bath-product-review"
   - "product-reviews"
   - "travel-product-review"
-tags: 
+tags:
   - "all-natural"
   - "bath-bomb"
   - "bath-products"
@@ -46,7 +46,13 @@ The Wojo Wallet is $13 and can be ordered at [http://www.wojowallet.com](http://
 
 **Item #2** has nothing to do with my normal blogging topics, but it has plenty to do with my normal weekly activities, being as I take a bath around once a week. It’s a luxury I enjoy, even when the luxury is crammed into my tiny bathtub. Item #2 is also a misnomer because it actually covers a whole sampler pack of items sent to me by **Enfusia**, a bath and beauty company specializing in products that are animal, chemical, and gluten free—that’s a lot of possible ingredients to avoid!
 
-\[caption id="attachment\_9007" align="aligncenter" width="500"\]![The Enfusia Bath Bomb trio of pomegranate rose ylang ylang, and lavender.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/12/Enfusia_001-500x318.jpg) The Enfusia Bath Bomb trio of pomegranate, rose ylang ylang, and lavender.\[/caption\]
+
+
+
+<div class="caption">
+
+![The Enfusia Bath Bomb trio of pomegranate rose ylang ylang, and lavender.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/12/Enfusia_001-500x318.jpg) The Enfusia Bath Bomb trio of pomegranate, rose ylang ylang, and lavender.</div>
+
 
 Now, I love Lush, but I don’t love Lush’s prices. Because it’s the best company around offering all-natural bath bombs, scrubs, shampoos, melts, etc., I use them. So I was excited to try out Enfusia as it seems similar to Lush in its practices and ingredients, though it takes a less whimsical and more sensible route to marketing its products. Well, unless you count the cupcake bath bomb.
 

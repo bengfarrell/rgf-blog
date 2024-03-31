@@ -1,10 +1,10 @@
 ---
 title: "Mac &amp; Cheese Night at Mission Cheese"
 date: "2014-06-03"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "restaurants"
-tags: 
+tags:
   - "bay-area"
   - "best-mac-cheese"
   - "breadcrumbs"
@@ -35,7 +35,13 @@ Our first night was at [Mission Cheese](http://missioncheese.net/) (736 Valencia
 
 It’s a busy spot on a Friday night, and you may find yourself waiting a while for one of the few tables after you place your order. But in pursuit of great mac & cheese, sometimes you must make sacrifices of convenience.
 
-\[caption id="attachment\_8262" align="aligncenter" width="500"\][![Go on, cram in with us at the corner of the bar!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/Mission_Cheese_007-500x332.jpg)](http://www.thegourmez.com/2014/06/mac-cheese-night-at-mission-cheese/mission_cheese_007/) Go on, cram in with us at the corner of the bar!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Go on, cram in with us at the corner of the bar!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/Mission_Cheese_007-500x332.jpg)](http://www.thegourmez.com/2014/06/mac-cheese-night-at-mission-cheese/mission_cheese_007/) Go on, cram in with us at the corner of the bar!</div>
+
 
 Consider this your introduction to my mac & cheese rating guide. I’ll fill it out for each mac & cheese we sample.
 

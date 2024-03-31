@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Tandoor Indian Restaurant, Greenwood Commons, Durham"
 date: "2009-07-10"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "indian-restaurant-durham"
   - "kheer"
   - "mediocre-indian-food"
@@ -49,6 +49,12 @@ As with many of the individual dishes, I have to say of Tandoor that I've had be
 
 And my quest for outstanding Indian food in Durham continues...
 
-\[caption id="attachment\_193" align="aligncenter" width="40"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
+
 
 _Reviewed 7.8.2009._

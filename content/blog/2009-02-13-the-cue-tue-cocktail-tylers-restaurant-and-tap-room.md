@@ -1,12 +1,12 @@
 ---
 title: "The Cue-Tue Cocktail, Tyler's Restaurant and Tap Room"
 date: "2009-02-13"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "watering-holes-in-carrboro-nc"
   - "restaurants"
   - "spirits"
-tags: 
+tags:
   - "bars"
   - "carrboro-restaurants"
   - "cocktails"
@@ -22,4 +22,10 @@ We ate at the Carrboro location of Tyler's Tap Room for the first time a few Thu
 
 The cucumber is fantastic in this drink and overall, it was very similar to the cucumber agua fresca I made when we had an overabundance of the veggies from our porch jungle a few years back. The blend of vodka, gin, rum, tequila, cider, and lemonade was unobtrusive and perfectly mixed.
 
-\[caption id="attachment\_59" align="aligncenter" width="40"\]![5 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 5 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![5 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 5 stars</div>
+

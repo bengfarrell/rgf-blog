@@ -1,11 +1,11 @@
 ---
 title: "Philadelphia Food and Drink, Day 2: Cheesesteaks, Indian, and Pretzels"
 date: "2012-01-02"
-categories: 
+categories:
   - "philadelphia-restaurant-review"
   - "restaurants"
   - "philadelphia-travel"
-tags: 
+tags:
   - "cash-only"
   - "center-city"
   - "chai"
@@ -32,7 +32,13 @@ tags:
   - "terminal-market"
 ---
 
-\[caption id="attachment\_3715" align="aligncenter" width="500" caption="At the Independence National Historical Park"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly047.jpg "philly047")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly047.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly047.jpg "philly047")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly047.jpg)</div>
+
 
  
 

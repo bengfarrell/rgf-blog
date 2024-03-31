@@ -1,10 +1,10 @@
 ---
 title: "Bay Area Foodie News - Late September 2016"
 date: "2016-09-26"
-categories: 
+categories:
   - "announcements"
   - "events"
-tags: 
+tags:
   - "alameda"
   - "bay-area"
   - "bay-area-foodie-news"
@@ -38,11 +38,11 @@ Hello readers! On occasion, I learn about upcoming or ongoing food or drink even
 **What:** A dancing, drinking, and eating benefit for [Girls Inc. of the Island City,](http://www.girlsincislandcity.org/aboutus.php)  a nonprofit that has been empowering the girls of Alameda by providing developmental services since 1964.  As the description reads,
 
 > Enjoy a stunning panoramic view of the San Francisco Bay Area while you:
-> 
+>
 > •Dine on a variety of savory and sweet culinary presentations from top chefs and restaurants at their exclusive stations
-> 
+>
 > •Drink award-winning wines, craft beers, and exceptional spirits
-> 
+>
 > •Dance the night away to the live music of The Sun Kings, or enjoy their music as a concert in our seating area
 
 **When:** Friday, September 30, 2016 from 6:30 pm to 9:30 pm
@@ -69,4 +69,10 @@ I'll be checking out some of their dishes at a media event next month, but the
 
 Most of all, though, have a tasty September no matter where your food-loving heart takes you!
 
-\[caption id="attachment\_26515" align="aligncenter" width="301"\][![The Gourmez](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/becca-eating-brownies-301x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/becca-eating-brownies.jpg) Dig in!\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Gourmez](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/becca-eating-brownies-301x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/becca-eating-brownies.jpg) Dig in!</div>
+

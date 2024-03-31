@@ -1,14 +1,14 @@
 ---
 title: "A Foodie Day Trip to Sonoma"
 date: "2014-01-23"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "dining-in-sonoma"
   - "restaurants"
   - "tasting-rooms-in-sonoma-ca"
   - "sonoma-travel"
   - "wine"
-tags: 
+tags:
   - "affogato"
   - "angelos-deli"
   - "chocolate-cow"
@@ -32,17 +32,41 @@ tags:
   - "wine-country"
 ---
 
-\[caption id="attachment\_7826" align="aligncenter" width="500"\][![A view from Homewood Winery.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Sonoma_32-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/01/a-foodie-day-trip-to-sonoma/2013_sonoma_32/) A view from Homewood Winery.\[/caption\]
+
+
+
+<div class="caption">
+
+[![A view from Homewood Winery.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Sonoma_32-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/01/a-foodie-day-trip-to-sonoma/2013_sonoma_32/) A view from Homewood Winery.</div>
+
 
 My first visit to Sonoma took place a few days before Thanksgiving 2013. It was a quick jaunt into the winery-laden countryside not so far from San Francisco. The downtown area is very cute, full of alleyways and courtyards that hide a range of stores and tasting rooms.
 
-\[caption id="attachment\_7815" align="aligncenter" width="332"\][![Entering one such alleyway](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Sonoma_03-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/01/a-foodie-day-trip-to-sonoma/2013_sonoma_03/) Entering one such alleyway\[/caption\]
 
-\[caption id="attachment\_7818" align="aligncenter" width="332"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Sonoma_18-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/01/a-foodie-day-trip-to-sonoma/2013_sonoma_18/) And exiting another.\[/caption\]
+
+
+<div class="caption">
+
+[![Entering one such alleyway](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Sonoma_03-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/01/a-foodie-day-trip-to-sonoma/2013_sonoma_03/) Entering one such alleyway</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Sonoma_18-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/01/a-foodie-day-trip-to-sonoma/2013_sonoma_18/) And exiting another.</div>
+
 
 Of course, I managed to eat and wine-taste the afternoon away quite easily. The [Highway 12 Winery Tasting Room](http://www.highway12winery.com/) is a great place to start due to its central location at the corner of 1st Street and Highway 12.
 
-\[caption id="attachment\_7814" align="aligncenter" width="500"\][![On the corner!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Sonoma_01-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/01/a-foodie-day-trip-to-sonoma/2013_sonoma_01/) On the corner!\[/caption\]
+
+
+
+<div class="caption">
+
+[![On the corner!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Sonoma_01-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/01/a-foodie-day-trip-to-sonoma/2013_sonoma_01/) On the corner!</div>
+
 
 The tasting was free, possibly because it was a lazy Monday. Highway 12 features wines from a variety of Sonoma-area vineyards, and the wine pourer was happy to guide my friend, who was on her first wine-tasting experience, toward the sweeter wines that she preferred.
 
@@ -102,7 +126,13 @@ I did have to take a fair bit of the meat off—there was just too much of it! T
 
 Finishing our sandwiches and the setting sun signaled that it was time to go home.
 
-\[caption id="attachment\_7830" align="aligncenter" width="2500"\][![Click twice for a magnified view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Sonoma_39.jpg)](http://www.rebeccagomezfarrell.com/2014/01/a-foodie-day-trip-to-sonoma/2013_sonoma_39/) Click twice for a magnified view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Click twice for a magnified view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Sonoma_39.jpg)](http://www.rebeccagomezfarrell.com/2014/01/a-foodie-day-trip-to-sonoma/2013_sonoma_39/) Click twice for a magnified view.</div>
+
 
 I think we managed to pack a lot of foodie fun into just a few hours' worth of escape from the city! I can easily see Ben and myself spending a weekend in downtown Sonoma, exploring the courtyards and the various breweries and wineries hiding in the hills. Now to give Napa a try!
 

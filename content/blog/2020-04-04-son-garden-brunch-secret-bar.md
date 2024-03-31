@@ -20,7 +20,13 @@ I was delighted to dine in this festive space evocative of a garden party, and I
 
 [![son and garden, san francisco, the gourmez, review, brunch, restaurant review](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-001.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-001.jpg)Why was I so delighted to dine there? As I explained to co-owner Arty Larpnampha, I love the celebratory feel at Farmhouse Kitchen Thai in Oakland ([my review](https://thegourmez.com/2018/08/02/farmhouse-kitchen-thai-cuisine-now-open-in-oakland/)), one of his and chef/owner Kasem “Pop” Saengsawang’s other establishments. Song and Garden carries forth that ambience through its décor, plating, and most of all, the welcoming spirit of its employees.
 
-\[caption id="attachment\_28940" align="aligncenter" width="375"\][![son and garden, san francisco, the gourmez, review, brunch, restaurant review, arty](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-023-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-023.jpg) Co-Owner Arty Larpnampha at Son and Garden\[/caption\]
+
+
+
+<div class="caption">
+
+[![son and garden, san francisco, the gourmez, review, brunch, restaurant review, arty](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-023-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-023.jpg) Co-Owner Arty Larpnampha at Son and Garden</div>
+
 
 The brand-new restaurant was packed on this particular Saturday brunch, all the way into the late afternoon. One group was celebrating a friend’s birthday together, and the wait staff did more than sing a simple song. They sang it with gusto, for several rounds, accompanied by an explosion of percussion. What fun it’ll be to celebrate such occasions with friends again in a place like this, once we all can!
 
@@ -34,11 +40,23 @@ Of course, coffee was also required. It’s brunch! Double fisting is a given.
 
 [![son and garden, san francisco, the gourmez, review, brunch, restaurant review, coffee](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-009-493x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-009.jpg)Even with a simple coffee service, Son and Garden puts forth extra touches. Look at the beauty of that cream ramekin! It’s perfect for the high teas that Son and Garden will be hosting every weekday in the Secret Bar, once they are back in full-service mode.
 
-\[caption id="attachment\_28932" align="aligncenter" width="375"\][![son and garden, san francisco, the gourmez, review, brunch, restaurant review, secret bar](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-005-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-005.jpg) The Secret Bar Entrance\[/caption\]
+
+
+
+<div class="caption">
+
+[![son and garden, san francisco, the gourmez, review, brunch, restaurant review, secret bar](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-005-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-005.jpg) The Secret Bar Entrance</div>
+
 
  
 
-\[caption id="attachment\_28931" align="aligncenter" width="1000"\][![son and garden, san francisco, the gourmez, review, brunch, restaurant review, secret bar](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-002.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-002.jpg) Inside the Secret Bar.\[/caption\]
+
+
+
+<div class="caption">
+
+[![son and garden, san francisco, the gourmez, review, brunch, restaurant review, secret bar](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-002.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-002.jpg) Inside the Secret Bar.</div>
+
 
 The Secret Bar is _not_ that secret, but it isn’t advertised from the street, so I’ll give them a pass. It’s located just across a residential lobby from the restaurant proper. I loved the blue chandeliers inside and those pink chairs.
 
@@ -58,7 +76,13 @@ We also dug into the deep-fried french toast.
 
 Of course, Son and Garden is not currently open for full-service, but you can order brunch, lunch, or dinner for pickup or delivery [via Square](https://sonandgarden.square.site/s/order). Chef Kasem is now also offering a “Good Morning, San Francisco” Brunch Set for two people that comes with a selection of eggs, meats, coffees, juices, and ricotta or matcha pancakes or that french toast. You can even add on bubbly to combine with your OJ for mimosas, a sparkling idea!
 
-\[caption id="attachment\_28929" align="aligncenter" width="500"\][![son and garden, san francisco, the gourmez, review, brunch, restaurant review](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/brunch-for-two-500x334.jpeg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/brunch-for-two.jpeg) Photo of brunch for two from the Son and Garden Website\[/caption\]
+
+
+
+<div class="caption">
+
+[![son and garden, san francisco, the gourmez, review, brunch, restaurant review](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/brunch-for-two-500x334.jpeg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/brunch-for-two.jpeg) Photo of brunch for two from the Son and Garden Website</div>
+
 
 Once quarantine is lifted, high tea will be back on the menu as well. Making a reservation for it is something wonderful I can look forward to in the meantime.
 

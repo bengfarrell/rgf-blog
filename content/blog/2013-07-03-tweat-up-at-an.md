@@ -1,11 +1,11 @@
 ---
 title: "Tweat-Up at An"
 date: "2013-07-03"
-categories: 
+categories:
   - "cary-restaurant-reviews"
   - "events"
   - "restaurants"
-tags: 
+tags:
   - "almond-financier"
   - "an"
   - "asian"
@@ -35,11 +35,23 @@ tags:
   - "yuzu-lemon-tart"
 ---
 
-\[caption id="attachment\_6518" align="aligncenter" width="333"\][![Steamed dumplings](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/An_Tweatup_05-333x500.jpg)](http://www.thegourmez.com/2013/07/tweat-up-at-an/an_tweatup_05/) Steamed dumplings\[/caption\]
+
+
+
+<div class="caption">
+
+[![Steamed dumplings](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/An_Tweatup_05-333x500.jpg)](http://www.thegourmez.com/2013/07/tweat-up-at-an/an_tweatup_05/) Steamed dumplings</div>
+
 
 When [An's](http://www.ancuisines.com/) (2800 Renaissance Park Place, Cary) promotional team invited me to a blogger night to sample some cocktails and appetizers, I was thrilled. An's beautifully presented dishes, photographs of which are always on rotation at the RDU baggage claim screens, have tempted me for years, but I had not managed to visit the restaurant before. So the opportunity to try their fare for free (I see you, obligatory disclaimer!) was a chance I couldn't pass up.
 
-\[caption id="attachment\_6527" align="aligncenter" width="500"\][![And I wasn't the only one.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/An_Tweatup_16-500x333.jpg)](http://www.thegourmez.com/2013/07/tweat-up-at-an/an_tweatup_16/) And I wasn't the only one.\[/caption\]
+
+
+
+<div class="caption">
+
+[![And I wasn't the only one.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/An_Tweatup_16-500x333.jpg)](http://www.thegourmez.com/2013/07/tweat-up-at-an/an_tweatup_16/) And I wasn't the only one.</div>
+
 
 Members of the Triangle food media (including representatives from [Taste Carolina](http://www.tastecarolina.net/), [Cary Magazine](http://www.carymagazine.com/), and [Visit Raleigh](http://www.visitraleigh.com/) in the above photo) gathered in An's attractive bar, and a driftwood-inspired presentation set the mood for a relaxing reception and light selection of appetizers.
 
@@ -79,9 +91,21 @@ I say surprisingly because everyone else adored them. The lamb's strong flavor w
 
 Even more surprising was that the star of the night was the cocktail nuts served on the tables along with pickled vegetables.
 
-\[caption id="attachment\_6523" align="aligncenter" width="500"\][![Carrots and pickles.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/An_Tweatup_12-500x333.jpg)](http://www.thegourmez.com/2013/07/tweat-up-at-an/an_tweatup_12/) Carrots and pickles.\[/caption\]
 
-\[caption id="attachment\_6525" align="aligncenter" width="500"\][![The nuts in question.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/An_Tweatup_14-500x333.jpg)](http://www.thegourmez.com/2013/07/tweat-up-at-an/an_tweatup_14/) The nuts in question.\[/caption\]
+
+
+<div class="caption">
+
+[![Carrots and pickles.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/An_Tweatup_12-500x333.jpg)](http://www.thegourmez.com/2013/07/tweat-up-at-an/an_tweatup_12/) Carrots and pickles.</div>
+
+
+
+
+
+<div class="caption">
+
+[![The nuts in question.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/An_Tweatup_14-500x333.jpg)](http://www.thegourmez.com/2013/07/tweat-up-at-an/an_tweatup_14/) The nuts in question.</div>
+
 
 Those nuts were amazing. Chef Steven Devereaux Greene explained that they are tossed with shichimi togarashi, a Japanese seven-spice blend that makes for an addictive, fiery combination. It's worth a drink at An's just for the excuse to eat those.
 
@@ -111,7 +135,13 @@ The yuzu and Meyer lemon tart was best of the bunch for me.
 
 I know a tart seems tame for my taste buds, but that fleeting floral from whatever topped the white chocolate mousse infused the whole tart with a little something special. I would say that's a talent both Chef Devereaux and Chef Almaguar have in spades.
 
-\[caption id="attachment\_6531" align="aligncenter" width="333"\][![Chef Steven Devereaux Greene](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/An_Tweatup_22-333x500.jpg)](http://www.thegourmez.com/2013/07/tweat-up-at-an/an_tweatup_22/) Chef Steven Devereaux Greene\[/caption\]
+
+
+
+<div class="caption">
+
+[![Chef Steven Devereaux Greene](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/An_Tweatup_22-333x500.jpg)](http://www.thegourmez.com/2013/07/tweat-up-at-an/an_tweatup_22/) Chef Steven Devereaux Greene</div>
+
 
 Most of the food we tried was elevated by the attention to detail they pay to layering flavors. It leaves my tongue curious and me happy when my usual ability to pick out the individual ingredients of a dish is stumped. I would love to explore what else is offered at An for that challenge, but because I'm moving soon, I hope these fabulous food bloggers can do it for me.
 

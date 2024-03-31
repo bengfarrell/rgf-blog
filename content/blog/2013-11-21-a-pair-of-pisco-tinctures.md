@@ -1,10 +1,10 @@
 ---
 title: "A Pair of Pisco Tinctures"
 date: "2013-11-21"
-categories: 
+categories:
   - "recipes"
   - "pisco"
-tags: 
+tags:
   - "cocktail"
   - "fennel"
   - "mixed-drink"
@@ -19,7 +19,13 @@ tags:
 
 I have a pair of cocktails to share with you today. Each features the trio of pisco, orange, and a Royal Rose simple syrup. As you may recall, [Royal Rose](http://www.royalrosesyrups.com/) sent me a sampler of their organic, small-batch syrups a while back (meaning it was free!).
 
-\[caption id="attachment\_7494" align="aligncenter" width="500"\][![Still so pretty!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/royal-rose-syrups.jpg)](http://www.thegourmez.com/2013/10/topo-piedmont-gin/royal-rose-syrups/) Still so pretty!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Still so pretty!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/royal-rose-syrups.jpg)](http://www.thegourmez.com/2013/10/topo-piedmont-gin/royal-rose-syrups/) Still so pretty!</div>
+
 
 I've been slowly sharing new cocktail recipes that feature them as I experiment. I also relocated cross-country in August, so what I have to experiment with is limited right now, and thus the reason for the use of orange and pisco in both drinks, lest you think I'm actually put together enough to aim for a theme.
 

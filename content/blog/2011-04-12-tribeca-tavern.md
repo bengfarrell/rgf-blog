@@ -1,10 +1,10 @@
 ---
 title: "Tribeca Tavern"
 date: "2011-04-12"
-categories: 
+categories:
   - "cary-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "blue-devil-burger"
   - "burger"
   - "cary"
@@ -44,7 +44,13 @@ The desserts sounded amazing. I couldn’t pass one up.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tribecatavern3.jpg "tribecatavern3")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tribecatavern3.jpg)
 
-\[caption id="attachment\_2467" align="aligncenter" width="400" caption="Digging down to the chocolate!"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tribecatavern4.jpg "tribecatavern4")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tribecatavern4.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tribecatavern4.jpg "tribecatavern4")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tribecatavern4.jpg)</div>
+
 
 My s’mores dessert, as you can see, came in a ramekin. The fluff mentioned on the menu was actually small marshmallows. The dessert was layered with a deliciously fresh graham cracker base, a rich chocolate sauce that was a step more luscious and thinner than hot fudge sauce, and those marshmallows that were toasted under a broiler of some sort. Folks, it was divine. Getting a small bite of all three key elements was tasty, tasty, yum, especially if the toasted shell of a marshmallow came off, giving a whole new level of texture to the dish. Did I mention I loved it?
 

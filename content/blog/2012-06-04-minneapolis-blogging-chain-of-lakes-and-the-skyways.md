@@ -1,11 +1,11 @@
 ---
 title: "Minneapolis Blogging - Chain of Lakes and the Skyways"
 date: "2012-06-04"
-categories: 
+categories:
   - "minneapolis-dining"
   - "restaurants"
   - "minneapolis-travel"
-tags: 
+tags:
   - "activities"
   - "beaches"
   - "biking"
@@ -71,7 +71,13 @@ As a Californian, I just don’t think of a lakefront as a place to lay out and 
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis011.jpg "2012minneapolis011")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis011.jpg)
 
-\[caption id="attachment\_4307" align="aligncenter" width="819" caption="Click on the panorama for a better view!"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis017med-1024x190.jpg "2012minneapolis017med")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis017med.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis017med-1024x190.jpg "2012minneapolis017med")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis017med.jpg)</div>
+
 
 Dinner that night was back downtown and at [Hell’s Kitchen](http://www.hellskitcheninc.com/) (80 9th Street), a restaurant renowned for its inventive takes on classic American food.
 
@@ -97,13 +103,31 @@ It was the texture of zucchini bread and the taste of bread pudding in bread for
 
 On Thursday morning, I crossed “Explore the skyways” off my list. Minneapolis is smart, you see, because they have 8 miles of passages in between their buildings, making travelling between them in the winter much more pleasant. Make sure you explore on a weekday, though, because they all have different times that they close down at night, so you can end up lost between buildings with no way through but out!
 
-\[caption id="attachment\_4329" align="aligncenter" width="500" caption="Double decker skyways as seen from another one."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis038.jpg "2012minneapolis038")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis038.jpg)\[/caption\]
 
-\[caption id="attachment\_4328" align="aligncenter" width="333" caption="Inside one of the skyways."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis037.jpg "2012minneapolis037")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis037.jpg)\[/caption\]
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis038.jpg "2012minneapolis038")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis038.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis037.jpg "2012minneapolis037")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis037.jpg)</div>
+
 
 The skyways are home to a multitude of shops and quick eat spots that you wouldn’t know were there from the street level.
 
-\[caption id="attachment\_4325" align="aligncenter" width="500" caption="The street level, where a farmer's market is held every Thursday on the Nicollet Mall."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis034.jpg "2012minneapolis034")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis034.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis034.jpg "2012minneapolis034")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis034.jpg)</div>
+
 
 Walking through them feels exactly like making your way through a huge mall with food courts all around -- the humor that Minneapolis is also home to the Mall of America was not lost on me. I looked up some of the best skyway eateries and dragged Ben along to one of them, the [Zen Box](http://www.zen-box.com/?sPage=lunch_menu&adv1=1) in the 6 Quebec building.
 
@@ -119,12 +143,36 @@ I’m still trying to figure out what sauce the soba used. It reminded me a lot 
 
 Heading across the Mississippi to the Northeast neighborhood was my plan for the rest of the afternoon. I took a few more pictures of downtown while strolling to the end of the Nicollet Mall and crossing over to Hennepin Avenue.
 
-\[caption id="attachment\_4333" align="aligncenter" width="500" caption="Marquette Plaza"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis042.jpg "2012minneapolis042")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis042.jpg)\[/caption\]
 
-\[caption id="attachment\_4332" align="aligncenter" width="333" caption="The downtown library."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis041.jpg "2012minneapolis041")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis041.jpg)\[/caption\]
 
-\[caption id="attachment\_4337" align="aligncenter" width="500" caption="The ING Reliastar Building."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis046.jpg "2012minneapolis046")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis046.jpg)\[/caption\]
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis042.jpg "2012minneapolis042")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis042.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis041.jpg "2012minneapolis041")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis041.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis046.jpg "2012minneapolis046")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis046.jpg)</div>
+
 
 As always, I took far more pictures than I've shared with you. Swing by [the album](https://www.facebook.com/media/set/?set=a.10150832997214607.405315.567409606&type=3 "Facebook Album") to view them all. Next time, we'll cross that bridge into Northeast together.
 
-\[caption id="attachment\_4338" align="aligncenter" width="500" caption="Hennepin Avenue Bridge"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis047.jpg "2012minneapolis047")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis047.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis047.jpg "2012minneapolis047")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis047.jpg)</div>
+

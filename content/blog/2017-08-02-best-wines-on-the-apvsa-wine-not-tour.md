@@ -1,7 +1,7 @@
 ---
 title: "Best Wines on the APVSA Wine Not! Tour"
 date: "2017-08-02"
-categories: 
+categories:
   - "champagne"
   - "languedoc"
   - "malvasia"
@@ -10,7 +10,7 @@ categories:
   - "sparkling-wine-review"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "avpsa"
   - "avpsa-wines"
   - "brut"
@@ -29,7 +29,13 @@ tags:
 
 In May, the [Association for the Promotion of Wines and Spirits in North America](https://apvsa.ca/) (the APVSA, based in Montreal) came to San Francisco on their spring tasting tour--the Wine Not! Tour. As a member of the new media, I was invited along to taste the wines they sampled for potential distributors, importers, and retail clients. _Obligatory disclaimer:_ That means the wines mentioned in this post were free to me to taste.
 
-\[caption id="attachment\_27857" align="aligncenter" width="500"\][![AVPSA Wine Not! Tour Champagne L'Hoste](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/AVPSA-1-500x282.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/AVPSA-1.jpg) And taste I did! Wines from Champagne L’Hoste.\[/caption\]
+
+
+
+<div class="caption">
+
+[![AVPSA Wine Not! Tour Champagne L'Hoste](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/AVPSA-1-500x282.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/AVPSA-1.jpg) And taste I did! Wines from Champagne L’Hoste.</div>
+
 
 The Wine Not! Tour offered portfolios from 20 of the APVSA’s producers. Full disclosure: I only made it to 10 tables. But of those 10 tables, I am very happy to share my favorite wines with you, and I hope to see more of them at Bay Area locations in the future.  Each one earned 5/5 from me, and I sampled 33 wines in all.
 
@@ -47,7 +53,13 @@ The 2005 Brut Millésime from Charles Clément was a world apart from the Tradit
 
 ##### Verum Malvasia 2016
 
-\[caption id="attachment\_27862" align="aligncenter" width="282"\][![Verum Malvasia AVPSA Wine tour](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/AVPSA-6-282x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/AVPSA-6.jpg) On the L.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Verum Malvasia AVPSA Wine tour](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/AVPSA-6-282x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/08/AVPSA-6.jpg) On the L.</div>
+
 
 This wine is one of a series that La Mancha’s [Verum Bodegas Y Viñedos](https://www.bodegasverum.com/en/) has made to profile blending grapes not often bottled on their own. I think this experimentation is doing a great service for wine lovers, as the 2016 Malvasia, made 100% from a grape usually used in the Rioja to add aroma, is a revelation. The nose transported me to lychee groves with aloe vera plants growing between the trees. The taste was the same except brighter, greener, and oh-so-soothing.
 

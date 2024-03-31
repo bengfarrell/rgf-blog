@@ -1,9 +1,9 @@
 ---
 title: "Fruit Tree in the Forest"
 date: "2010-06-15"
-categories: 
+categories:
   - "recipes"
-tags: 
+tags:
   - "choya-ume"
   - "cocktail-recipe"
   - "fruit-tree-in-the-orchard"
@@ -20,4 +20,10 @@ Shake together the gin and elderflower and pour into a martini glass. Slowly pou
 
 I think I succeeded. This might be the first good cocktail I've made at home in months. Yes, I restocked the bar; why do you ask? It's sweet but not cloyingly so. I think the mellow ume, bright elderflower, and gin flavors play quite well together, and the lemonade provides a great meeting ground for them. Give it a try!
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\] _Created 6.6.10._
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+ _Created 6.6.10._

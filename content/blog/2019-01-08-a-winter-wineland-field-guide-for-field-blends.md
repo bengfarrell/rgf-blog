@@ -25,7 +25,13 @@ tags:
 
 It's time for a midwinter trip on the Wine Road of Northern Sonoma County! Once a year, the Wine Road puts on the [Winter Wineland celebration](https://www.wineroad.com/events/winter-wineland/), a delightful invitation to hit up as many of their boutique, family-owned wineries and/or major label, large-scale producers as you desire along this beautiful stretch of wine country. The Wine Road, a tourism association of the wineries and nearby lodgings, has them all.
 
-\[caption id="attachment\_28664" align="aligncenter" width="500"\]![wine road, sonoma county, winter wineland, armida, armida winery, russian river valley, grapevines](https://thegourmez-wpmedia.s3.amazonaws.com/2019/01/WineRoad-098.jpg) Armida Winery View\[/caption\]
+
+
+
+<div class="caption">
+
+![wine road, sonoma county, winter wineland, armida, armida winery, russian river valley, grapevines](https://thegourmez-wpmedia.s3.amazonaws.com/2019/01/WineRoad-098.jpg) Armida Winery View</div>
+
 
 _Obligatory disclaimer:_ The Wine Road hosted me on a two-day media tour this last fall, which included tastings, meals, and my hotel stay. That's why I can recommend exceptional wineries for your own Winter Wineland agenda, should you choose to attend. The event lasts January 19-20, 2019, and for about $50, you'll have free reign to visit any of the 100+ participating wineries over the weekend and sample their featured wines, each of which is detailed on the Winter Wineland's [program guide.](https://www.wineroad.com/events/winter-wineland/#program) Simply buy tickets, select a starting winery destination, and you're on your way!
 
@@ -33,8 +39,14 @@ But what should that way be with so many options? Beth Costa, the Wine Road's ex
 
 ##### First things first: What's a field blend?
 
-\[caption id="attachment\_28677" align="aligncenter" width="500"\]![acorn, acorn winery, alegria vineyard, grape vines, grapes](https://thegourmez-wpmedia.s3.amazonaws.com/2019/01/WineRoad-211.jpg) Field blends come from field friends!
-(I crack myself up)\[/caption\]
+
+
+
+<div class="caption">
+
+![acorn, acorn winery, alegria vineyard, grape vines, grapes](https://thegourmez-wpmedia.s3.amazonaws.com/2019/01/WineRoad-211.jpg) Field blends come from field friends!
+(I crack myself up)</div>
+
 
 Eater has [a great article](https://www.eater.com/drinks/2016/4/25/11464748/field-blends) that goes in depth into field blends. The quick answer is that a field blend is a wine made from vineyard sections that are planted with multiple grape varietals. The varietals are typically greatly intermingled, and this co-habitation often arises in vineyards with deep historical roots. Different farmers at different times have planted different grapes, and over decades or even centuries, they've all come up together. Often a winemaker doesn't even know what all the grape varietals are on that same plot of land. The grapes are harvested together, with educated guesses made as to what percentage of each makes it into the final blend.
 
@@ -48,7 +60,13 @@ Field blends can be exceptional by this happenstance of existence, and they can 
 
 There's no question that Acorn Winery and its Alegria Vineyard should be your first stop if field blends intrigue you. Owners Bill and Betty Nachbur are huge believers in their worth, and Winter Wineland is the perfect time to ask them about it.
 
-\[caption id="attachment\_28669" align="aligncenter" width="334"\]![wine road, sonoma county, winter wineland, bill nachbur](https://thegourmez-wpmedia.s3.amazonaws.com/2019/01/WineRoad-201.jpg) Bill Nachbur showing off the white grapes in his field blend fermentation.\[/caption\]
+
+
+
+<div class="caption">
+
+![wine road, sonoma county, winter wineland, bill nachbur](https://thegourmez-wpmedia.s3.amazonaws.com/2019/01/WineRoad-201.jpg) Bill Nachbur showing off the white grapes in his field blend fermentation.</div>
+
 
 Indeed, all the wines Acorn makes are field blends. As Bill explained, "It's easier to harvest together than to separate" out the 70+ varietals growing in the vineyard. And Alegria is a prized vineyard, selling a third to a half of those grapes to other wineries.
 
@@ -100,7 +118,13 @@ But I enjoyed the views most at our next field blend destination.
 
 That fountain-fed pond sets the stage for a lovely view of the Russian River Valley and Mayacama mountains from Armida Winery's beautiful deck not far from Healdsburg.  The tasting room is housed in a very cool geodesic dome dating from 70s' hippie culture, and it's there we met Brandon Lapides, Armida's winemaker, to try their field blends.
 
-\[caption id="attachment\_28665" align="aligncenter" width="500"\]![brandon lapides, armida winery, winemaker, armida, healdsburg](https://thegourmez-wpmedia.s3.amazonaws.com/2019/01/WineRoad-106.jpg) Brandon Lapides\[/caption\]
+
+
+
+<div class="caption">
+
+![brandon lapides, armida winery, winemaker, armida, healdsburg](https://thegourmez-wpmedia.s3.amazonaws.com/2019/01/WineRoad-106.jpg) Brandon Lapides</div>
+
 
 Through Brandon, we learned that the Il Campo vineyard surrounding the tasting room and winery grounds was planted in 2000 with a hope to make Italian field blends from it. Most field blend wines arise from a happy vineyard discovery rather than an intentional plan to plant them, so Armida is unique in that regard. Zinfandel, petite sirah, and carignan are Il Campo's primary grapes, and they are picked and fermented together. The resultant wine is usually about 80% zinfandel and a mix of the other two depending on the needs of the blend.
 
@@ -122,9 +146,21 @@ Those three stops would make for a delectable day spent exploring the field blen
 
 Tapas and sherry flights are on the agenda here. Doesn't that sound like a felicitous, hearty end to your Winter Wineland Saturday? The crispy pig ears are totally worth it.
 
-\[caption id="attachment\_28675" align="aligncenter" width="205"\]![wine road, sonoma county, bravas, tapas, healdsburg, sherry flight](https://thegourmez-wpmedia.s3.amazonaws.com/2019/01/WineRoad-153.jpg) Sherry flight\[/caption\]
 
-\[caption id="attachment\_28676" align="aligncenter" width="427"\]![wine road, sonoma county, healdsburg, bravas, tapas, pig ear](https://thegourmez-wpmedia.s3.amazonaws.com/2019/01/WineRoad-155.jpg) Pig ears\[/caption\]
+
+
+<div class="caption">
+
+![wine road, sonoma county, bravas, tapas, healdsburg, sherry flight](https://thegourmez-wpmedia.s3.amazonaws.com/2019/01/WineRoad-153.jpg) Sherry flight</div>
+
+
+
+
+
+<div class="caption">
+
+![wine road, sonoma county, healdsburg, bravas, tapas, pig ear](https://thegourmez-wpmedia.s3.amazonaws.com/2019/01/WineRoad-155.jpg) Pig ears</div>
+
 
  
 

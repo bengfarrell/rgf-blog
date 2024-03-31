@@ -1,14 +1,14 @@
 ---
 title: "Most Memorable Wines from the 2016 Wine Bloggers Conference: Part 1"
 date: "2016-09-02"
-categories: 
+categories:
   - "cider"
   - "red-wine-review"
   - "sparkling-wine-review"
   - "white-wine-reviews"
   - "wine"
   - "wine-bloggers-conference-2016"
-tags: 
+tags:
   - "best-wines"
   - "bokisch-albarino"
   - "concannon-cabernet-sauvignong"
@@ -36,7 +36,13 @@ tags:
 
 This was my third year attending the Wines Bloggers Conference (WBC), and I feel like I’m getting the hang of the endless wine sampling challenge that it is — three to four days full of it, if you add an excursion! I’m still forgetting hair ties to assist with the spitting, though. Maybe I need to chop it all off again?
 
-\[caption id="attachment\_26396" align="aligncenter" width="440"\][![That’s about as short as my hair gets.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/EarlyChildhood35-440x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/EarlyChildhood35.jpg) That’s about as short as my hair gets.\[/caption\]
+
+
+
+<div class="caption">
+
+[![That’s about as short as my hair gets.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/EarlyChildhood35-440x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/EarlyChildhood35.jpg) That’s about as short as my hair gets.</div>
+
 
 With so many wines to consider in so little time, a lot of them blend together. It takes a special bottle to leave an impression. Two weeks later, I know these wines are unique if I’m still thinking about them! That doesn’t mean they were the best wines I had over the Wine Bloggers Conference weekend, but they are the ones I’m most likely to remember in the future. Give them a try and let me know if they take up permanent residence in your memory, too!
 
@@ -66,7 +72,13 @@ Speaking of cider…
 
 ([Website](http://www.ciderbrothers.com/our-ciders/pacific-coast-cider/))
 
-\[caption id="attachment\_26401" align="aligncenter" width="161"\][![Pacific Coast Apple Cider](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Pacific-Coast-Hard-Apple-Cider-with-Pinot-Grigio-161x500.png)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Pacific-Coast-Hard-Apple-Cider-with-Pinot-Grigio.png) Pic from the brand\[/caption\]
+
+
+
+<div class="caption">
+
+[![Pacific Coast Apple Cider](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Pacific-Coast-Hard-Apple-Cider-with-Pinot-Grigio-161x500.png)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Pacific-Coast-Hard-Apple-Cider-with-Pinot-Grigio.png) Pic from the brand</div>
+
 
 I enjoyed getting to see the new Scotto Cellars tasting room in downtown Lodi during one of the after parties, and while it was fun to try the [Masthead wine](http://www.grape-experiences.com/2016/07/scotto-cellars-masthead/) blended by my fellow WBC bloggers (Cindy of [Grape Experiences](http://www.grape-experiences.com/2016/07/scotto-cellars-masthead/), Melanie of [Dallas Wine Chick](http://www.dallaswinechick.com/), and Nancy and Peter of [Pull That Cork](http://www.pullthatcork.com/)), what I enjoyed most that evening was the Cider Brothers’ Dry Apple Cider with Pinot Grigio. It awakened my palate just when I’d given up hope on my poor little taste buds. The bubbles explode over the tongue, and the sharp apple taste and appealing acidity combine with pinot grigio’s sweetness to make a stellar refresher.
 
@@ -80,7 +92,13 @@ Seeing my excitement over the cider, Michael Scotto quickly set me up with a fli
 
 ([Website](http://www.concannonvineyard.com/))
 
-\[caption id="attachment\_26405" align="aligncenter" width="361"\][![Concannon mother view wine harvesting](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-075-361x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-075.jpg) Thaddaeus of the [Minority Wine Report](http://theminoritywinereport.com/) harvesting from the Concannon mother vine.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Concannon mother view wine harvesting](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-075-361x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-075.jpg) Thaddaeus of the [Minority Wine Report](http://theminoritywinereport.com/) harvesting from the Concannon mother vine.</div>
+
 
 We heard a lot over the weekend about the old zinfandel vines that Lodi could boast of — I’m pretty sure every vineyard has the oldest one around! But the Concannon’s claim over in Livermore that they have the oldest cabernet sauvignon and chardonnay grapes in the state is possibly the most impressive, and we got to pluck grapes and press juice straight from those mother vines!
 
@@ -88,7 +106,13 @@ We heard a lot over the weekend about the old zinfandel vines that Lodi could bo
 
 Over 80% of California’s cabernet sauvignon grapes are clones from Concannon Vineyards, and lucky for us, the family is still producing wines straight from those storied branches. The 2013 vintage floored me with an initial smokiness that deepened into candy worth savoring, the type purchased at the corner store on the walk home after school as a child. It went super well with the tri-tip on our dinner plates. Green bell pepper and dried iris and lavender came out as we lingered over the glass.
 
-\[caption id="attachment\_26408" align="aligncenter" width="333"\][![Dining at Concannon Vineyards sunset](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-089-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-089.jpg) Can you blame us for lingering here?\[/caption\]
+
+
+
+<div class="caption">
+
+[![Dining at Concannon Vineyards sunset](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-089-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-089.jpg) Can you blame us for lingering here?</div>
+
 
 ### The Lucas Winery Chardonnay 2001 – 4/5
 
@@ -100,13 +124,25 @@ The Lucas Winery knew how to stand out in a crowd, bringing their 2001 chardonna
 
 Here ends Part 1 of my most memorable wines from the 2016 Wine Bloggers’ Conference. You may have noticed that I honed in on the white wines, which I think was as much the result of the heat of a Central Valley summer as it was the winemakers’ desire to show off what else they could do than zinfandel, the varietal Lodi is most known for.
 
-\[caption id="attachment\_26409" align="aligncenter" width="333"\][![brix tasting wine grapes ironstone](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-020-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-020.jpg) Staving off the heat under a tent, guessing grape sugar contents, at Teichart Ranch.\[/caption\]
+
+
+
+<div class="caption">
+
+[![brix tasting wine grapes ironstone](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-020-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-020.jpg) Staving off the heat under a tent, guessing grape sugar contents, at Teichart Ranch.</div>
+
 
 Still…I wish I had had more zinfandel! A contingent of bloggers got to experience the Lodi Native project firsthand, a celebration of zinfandel in the area, and I am so jealous. Here’s Joe of Wine Country Getaways [great write-up](http://winecountrygetaways.com/should-napa-vintners-follow-lodis-lead/) on the experience.
 
 Part 2 will be up early next week. I will also be writing about the Livermore Valley pre-excursion in a separate post, as well as the Wine Blogger Awards dinner, during which I got to dine with Barbara St. Amant Spencer, the original co-founder of St. Amant winery.
 
-\[caption id="attachment\_26404" align="aligncenter" width="333"\][![St. Amant Lodi Native Zinfandel](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-101-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-101.jpg) The St. Amant Lodi Native wine.\[/caption\]
+
+
+
+<div class="caption">
+
+[![St. Amant Lodi Native Zinfandel](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-101-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-101.jpg) The St. Amant Lodi Native wine.</div>
+
 
 In the meantime, I have my memories of these wines to sustain me…
 

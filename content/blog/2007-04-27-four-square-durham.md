@@ -1,10 +1,10 @@
 ---
 title: "Four Square (Durham) *CLOSED*"
 date: "2007-04-27"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "durham-dining"
   - "four-square-restaurant"
 ---
@@ -17,4 +17,10 @@ My husband and I shared a frisee and baby red onion salad and a seafood crepe fo
 
 For dessert, I had the Bourbon Pecan Pie. I couldn't taste any bourbon but it was tasty and the piecrust was to die for. My husband's Rum Raisin Bread Pudding was more like a muffin. It had a great chocolaty flavor but both rum and raisin were missing as far as we could tell. A satisfying meal but we aren't necessarily coming back again.
 
-\[caption id="attachment\_55" align="alignleft" width="40"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+

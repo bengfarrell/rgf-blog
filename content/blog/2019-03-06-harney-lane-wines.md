@@ -27,7 +27,13 @@ Harney Lane Winery and Vineyards stands on farmland owned by the Mettler family 
 
 I was first introduced to Harney Lane wines at the [2016 Wine Bloggers Conference.](http://thegourmez.com/category/wine-bloggers-conference-2016/) I've always admired their elegant label design, which is difficult to capture in a single shot. Thus, here's their logo instead.
 
-\[caption id="attachment\_28732" align="aligncenter" width="500"\][![harney lane, wines, vineyards, lodi wine](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Screenshot_2019-02-28-HARNEY-LANE-Google-Search-500x250.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Screenshot_2019-02-28-HARNEY-LANE-Google-Search.png) Image via Harney Lane's website.\[/caption\]
+
+
+
+<div class="caption">
+
+[![harney lane, wines, vineyards, lodi wine](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Screenshot_2019-02-28-HARNEY-LANE-Google-Search-500x250.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Screenshot_2019-02-28-HARNEY-LANE-Google-Search.png) Image via Harney Lane's website.</div>
+
 
 ##### The Wines:
 
@@ -39,7 +45,13 @@ It's medium-bodied with minimal acidity. Notes of pears and turbinado simple syr
 
 For me, the 2017 Harney Lane Chardonnay is a
 
-\[caption id="attachment\_24388" align="alignnone" width="40"\][![Chicken the Gourmez Rating 3/5 Average](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_chicken11.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_chicken11.gif) 3/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![Chicken the Gourmez Rating 3/5 Average](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_chicken11.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_chicken11.gif) 3/5</div>
+
 
 But if you love a buttery, classic-style chardonnay, you may enjoy it more! I also had the pleasure of sampling the **2015 Harney Lane "Lizzy James" Old Vine Zinfandel**. It's name is a combination of the same for Jorja and Kyle's children.
 
@@ -49,7 +61,13 @@ With two day's aging, this wine becomes more appealing – and it was already pr
 
 Because this one retained my interest for multiple days in a row, I give it a
 
-\[caption id="attachment\_25954" align="alignnone" width="40"\][![](https://thegourmez-wpmedia.s3.amazonaws.com/2009/05/rating_avocado11.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2009/05/rating_avocado11.gif) 4/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2009/05/rating_avocado11.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2009/05/rating_avocado11.gif) 4/5</div>
+
 
 Current vintages of both the Harney Lane Chardonnay and the Lizzy James Old Vine Zinfandel are available [on their website.](https://shop.harneylane.com/xe/xe.asp?page=viewcat&cat=wine)
 

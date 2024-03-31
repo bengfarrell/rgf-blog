@@ -1,12 +1,12 @@
 ---
 title: "Maryhill Proprietor’s Reserve 2011 Tavola Rosso and Maryhill Day Trip"
 date: "2014-10-28"
-categories: 
+categories:
   - "red-wine-review"
   - "super-tuscan"
   - "tasting-rooms-in-maryhill-wa"
   - "maryhill-washington-travel"
-tags: 
+tags:
   - "2011"
   - "cassie-courtney"
   - "columbia-river-gorge"
@@ -35,7 +35,13 @@ tags:
 
 Last time I reviewed a Maryhill wine, I pledged to have my pictures edited from our winery visit before the next one. I am happy to say I completed that mission!
 
-\[caption id="attachment\_8907" align="aligncenter" width="1500"\][![Click 2x for the panoramic view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/10/Dulles_California_Drive_001.jpg)](http://www.rebeccagomezfarrell.com/2014/10/maryhill-proprietors-reserve-2011-tavola-rosso/dulles_california_drive_001/) Click 2x for the panoramic view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Click 2x for the panoramic view.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/10/Dulles_California_Drive_001.jpg)](http://www.rebeccagomezfarrell.com/2014/10/maryhill-proprietors-reserve-2011-tavola-rosso/dulles_california_drive_001/) Click 2x for the panoramic view.</div>
+
 
 And wow, [Maryhill](http://www.maryhillwinery.com/) is a breathtaking winery (9774 Hwy 14, WA). It’s hard not to be right on the Columbia River Gorge. I honestly think being there on a stormy, foggy day added a whole other level of beauty to the location.
 
@@ -43,7 +49,13 @@ And wow, [Maryhill](http://www.maryhillwinery.com/) is a breathtaking winery (97
 
 Of course, my friend Cassie, who works at Maryhill, also ups the pretty factor.
 
-\[caption id="attachment\_8908" align="aligncenter" width="500"\][![Cassie and I looking adorable, if I do so say myself.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/10/Dulles_California_Drive_006.jpg)](http://www.rebeccagomezfarrell.com/2014/10/maryhill-proprietors-reserve-2011-tavola-rosso/dulles_california_drive_006/) Cassie and I looking adorable, if I do so say myself.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Cassie and I looking adorable, if I do so say myself.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/10/Dulles_California_Drive_006.jpg)](http://www.rebeccagomezfarrell.com/2014/10/maryhill-proprietors-reserve-2011-tavola-rosso/dulles_california_drive_006/) Cassie and I looking adorable, if I do so say myself.</div>
+
 
 We met at the 2014 Wine Bloggers Conference, and she graciously guided my husband and I through the tasting then strong-armed me into buying a few of Maryhill’s wines reserved for wine club members, the first of which [I reviewed last month](http://www.rebeccagomezfarrell.com/2014/10/maryhill-mourvedre-2011/) for you.
 
@@ -73,7 +85,13 @@ It’s not built to scale, but it’s an atmospheric draw on a stormy day, regar
 
 [![Dulles_California_Drive_019](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/10/Dulles_California_Drive_019.jpg)](http://www.rebeccagomezfarrell.com/2014/10/maryhill-proprietors-reserve-2011-tavola-rosso/dulles_california_drive_019/)
 
-\[caption id="attachment\_8912" align="aligncenter" width="1500"\][![View from Sam Hill's Stonehenge. Click 2x for the panoramic image.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/10/Dulles_California_Drive_015.jpg)](http://www.rebeccagomezfarrell.com/2014/10/maryhill-proprietors-reserve-2011-tavola-rosso/dulles_california_drive_015/) View from Sam Hill's Stonehenge. Click 2x for the panoramic image.\[/caption\]
+
+
+
+<div class="caption">
+
+[![View from Sam Hill's Stonehenge. Click 2x for the panoramic image.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/10/Dulles_California_Drive_015.jpg)](http://www.rebeccagomezfarrell.com/2014/10/maryhill-proprietors-reserve-2011-tavola-rosso/dulles_california_drive_015/) View from Sam Hill's Stonehenge. Click 2x for the panoramic image.</div>
+
 
 [![Dulles_California_Drive_012](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/10/Dulles_California_Drive_012.jpg)](http://www.rebeccagomezfarrell.com/2014/10/maryhill-proprietors-reserve-2011-tavola-rosso/dulles_california_drive_012/)
 

@@ -1,10 +1,10 @@
 ---
 title: "Cocktail Review--Flirtini, West 94th Street Pub, Durham"
 date: "2009-04-30"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "creme-de-banane"
   - "durham-cocktails"
   - "flirtini"
@@ -17,4 +17,10 @@ This cocktail came with an unappealing pink film on top, but that is often the c
 
 _Reviewed 4.22.09._
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+

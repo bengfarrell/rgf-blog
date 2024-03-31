@@ -1,11 +1,11 @@
 ---
 title: "Capital Club 16"
 date: "2011-08-31"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "restaurants"
   - "spirits"
-tags: 
+tags:
   - "bars"
   - "butternut-squash"
   - "capital-club-16"
@@ -31,7 +31,13 @@ tags:
 
 About a week and a half ago, I went to Capital Club 16 with the [Social Media Supper Club,](https://www.facebook.com/pages/Social-Media-Supper-Club/174214375962246) which is always a fun time of trying a restaurant together.
 
-\[caption id="attachment\_3209" align="aligncenter" width="500" caption="The Supper Club tw-eaters this go-round."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/capitalclub1603.jpg "capitalclub1603")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/capitalclub1603.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/capitalclub1603.jpg "capitalclub1603")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/capitalclub1603.jpg)</div>
+
 
 I quite liked Capital Club 16, which may be related to its reputation as a hipster locale—I think I meet several of the vastly changing definitions of _hipster_, and I’m not afraid to admit it. Especially when being hipster means enjoying a relaxed dinner in a room with tasteful, rather than boring, white walls full of light and most importantly, delicious cocktails.
 
@@ -43,7 +49,13 @@ That is the Moore County Moonshine cocktail, made with Gentleman Jack moonshine,
 
 The menu is a blend of classed-up Southern American comfort food and German specialties.
 
-\[caption id="attachment\_3207" align="aligncenter" width="500" caption="Contemplating the menu options."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/capitalclub1605.jpg "capitalclub1605")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/capitalclub1605.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/capitalclub1605.jpg "capitalclub1605")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/capitalclub1605.jpg)</div>
+
 
 The former consists of items like skillet macaroni and cheese made with white cheddar, gouda, and jarlsberg and roasted chicken with dill cucumber and potato salads. The latter includes schnitzel sandwiches and sausage platters of varying sizes and ingredients. For the meat lovers among you, the Butcher Plate is a pretty good deal at $12 per person for mixed grilled sausages, smoked pork chops, griddled pork belly with sauerkraut, hand-cut spaetzle and gravy, sautéed apples, and house mustards.  Not loving meat that much, I opted to start with the pimento cheese and fig crostinis with apple jam.
 

@@ -1,9 +1,9 @@
 ---
 title: "Wine Review--Elkin Creek Vineyard Dessert Wine"
 date: "2009-10-14"
-categories: 
+categories:
   - "dessert-wine-reviews"
-tags: 
+tags:
   - "boysenberry-syrup"
   - "elkin-creek-vineyard-dessert-wine"
   - "sweet-wine"
@@ -17,7 +17,13 @@ This dessert wine smells of boysenberries and blueberries. It tastes like boysen
 
 Overall, too thick to really enjoy as a wine for me, but sweet enough to make it worth my while.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 **Other Bloggers Said:**
 

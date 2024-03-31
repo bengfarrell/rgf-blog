@@ -1,13 +1,13 @@
 ---
 title: "Dishcrawl Durham"
 date: "2013-07-15"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "events"
   - "restaurants"
   - "durham-north-carolina-travel"
   - "travel-product-review"
-tags: 
+tags:
   - "american-tobacco-district"
   - "avocado"
   - "chocolate-tiramisu"
@@ -47,7 +47,13 @@ From left to right is a bacon croquette, a smoked salmon crostini with goat chee
 
 Our second stop was a block up the road at [Revolution](http://www.revolutionrestaurant.com/), which [I've enjoyed](http://www.thegourmez.com/2010/04/revolution-downtown-durham-restaurant-review/) a number [of times](http://www.thegourmez.com/2010/04/easter-brunch-at-revolution-restaurant-review/).
 
-\[caption id="" align="aligncenter" width="459"\]![](http://www.thegourmez.com/gourmez/photos/revolution12.JPG) Inside Revolution on a previous visit.\[/caption\]
+
+
+
+<div class="caption">
+
+![](http://www.thegourmez.com/gourmez/photos/revolution12.JPG) Inside Revolution on a previous visit.</div>
+
 
 We were seated at the family table by the closed caption views of the kitchen, which excited several members of the group. The cocktail list was a big hit, but the appetizers were on the small side—I was grateful for the delicious peasant bread also served.  The platters held ahi "poke" tuna with cucumber, greens, and wasabi caviar; housemade potato chip with steak tartare; and a crostini with whipped goat-cheese mousse, local arugula, heirloom cherry tomatoes, and vin cotto.
 
@@ -57,7 +63,13 @@ The steak tartare and chip was a fun combination of textures, but the crostini w
 
 We walked down to the American Tobacco district next and ended up at the Durham branch of the small [Cuban Revolution](http://www.thecubanrevolution.com/) chain.
 
-\[caption id="" align="aligncenter" width="459"\]![](http://www.thegourmez.com/gourmez/photos/cubanrev4.jpg) Cuban Revolution on a [previous visit](http://www.thegourmez.com/2009/11/cuban-revolution-american-tobacco-district-durham/).\[/caption\]
+
+
+
+<div class="caption">
+
+![](http://www.thegourmez.com/gourmez/photos/cubanrev4.jpg) Cuban Revolution on a [previous visit](http://www.thegourmez.com/2009/11/cuban-revolution-american-tobacco-district-durham/).</div>
+
 
 They offered their most popular item, which is the iconic cubano sandwich, of course.
 
@@ -67,7 +79,13 @@ It was served with rice and beans and maduros. I've enjoyed most of the food I'v
 
 Our final stop of the evening was a few doors down at another restaurant I can highly recommend: [L'Uva Enoteca](http://www.luvaenoteca.com/).
 
-\[caption id="" align="aligncenter" width="500"\]![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/01/luva01.jpg) The view from my first L'Uva visit.\[/caption\]
+
+
+
+<div class="caption">
+
+![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/01/luva01.jpg) The view from my first L'Uva visit.</div>
+
 
 An Italian restaurant was a surprising stop for dessert, but Chef John Tate used to be the pastry chef at Revolution, so it actually made sense. He personally prepared our chocolate tiramisus, and we were given complimentary tastes of a Lambrusco Rosso, which is a fruity and carbonated red wine, to wash it down.
 

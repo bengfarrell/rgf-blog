@@ -1,9 +1,9 @@
 ---
 title: "Amelia Island: Downtown Fernandina Beach and Walker's Landing"
 date: "2013-11-14"
-categories: 
+categories:
   - "amelia-island-florida-travel"
-tags: 
+tags:
   - "amelia-island"
   - "day-trip"
   - "downtown"
@@ -31,19 +31,55 @@ It's nearly six months later, but I'm finally finishing up my photo blogs for ou
 
 Fernandina Beach is the city under seven flags, which means seven different countries have claimed it at one point or another. Those influences are present walking the few short blocks near their retail center along Centre Street. Just follow Highway A1A in and you can't miss it.
 
-\[caption id="attachment\_7588" align="aligncenter" width="332"\][![Original US Post Office Lamps](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/11/Fernandina_Beach_03-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/fernandina_beach_03/) Original US Post Office Lamps\[/caption\]
 
-\[caption id="attachment\_7590" align="aligncenter" width="332"\][![Walking by the Island Art Gallery](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/11/Fernandina_Beach_09-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/fernandina_beach_09/) Walking by the Island Art Gallery\[/caption\]
 
-\[caption id="attachment\_7589" align="aligncenter" width="500"\][![The Palace Saloon, oldest operating bar in Florida.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/11/Fernandina_Beach_07-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/fernandina_beach_07/) The Palace Saloon, oldest operating bar in Florida.\[/caption\]
+
+<div class="caption">
+
+[![Original US Post Office Lamps](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/11/Fernandina_Beach_03-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/fernandina_beach_03/) Original US Post Office Lamps</div>
+
+
+
+
+
+<div class="caption">
+
+[![Walking by the Island Art Gallery](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/11/Fernandina_Beach_09-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/fernandina_beach_09/) Walking by the Island Art Gallery</div>
+
+
+
+
+
+<div class="caption">
+
+[![The Palace Saloon, oldest operating bar in Florida.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/11/Fernandina_Beach_07-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/fernandina_beach_07/) The Palace Saloon, oldest operating bar in Florida.</div>
+
 
 There are several beautiful churches on the small stretch, and a few just down the low-numbered side streets.
 
-\[caption id="attachment\_7594" align="aligncenter" width="500"\][![St. Peter's church](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/11/Fernandina_Beach_26-500x390.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/fernandina_beach_26/) St. Peter's church\[/caption\]
 
-\[caption id="attachment\_7595" align="aligncenter" width="332"\][![Memorial United Methodist Church](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/11/Fernandina_Beach_35-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/fernandina_beach_35/) Memorial United Methodist Church\[/caption\]
 
-\[caption id="attachment\_7597" align="aligncenter" width="332"\][![Graveyard at St. Michael's Church](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/11/Fernandina_Beach_51-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/fernandina_beach_51/) Graveyard at St. Michael's Church\[/caption\]
+
+<div class="caption">
+
+[![St. Peter's church](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/11/Fernandina_Beach_26-500x390.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/fernandina_beach_26/) St. Peter's church</div>
+
+
+
+
+
+<div class="caption">
+
+[![Memorial United Methodist Church](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/11/Fernandina_Beach_35-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/fernandina_beach_35/) Memorial United Methodist Church</div>
+
+
+
+
+
+<div class="caption">
+
+[![Graveyard at St. Michael's Church](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/11/Fernandina_Beach_51-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/fernandina_beach_51/) Graveyard at St. Michael's Church</div>
+
 
 The colorful wildlife will keep you entertained on the walk as well.
 

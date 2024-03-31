@@ -1,10 +1,10 @@
 ---
 title: "China Camp State Park Hiking"
 date: "2015-12-24"
-categories: 
+categories:
   - "san-francisco-travel"
   - "travel-guide-for-san-rafael"
-tags: 
+tags:
   - "bay-area"
   - "california-history"
   - "camping"
@@ -26,7 +26,13 @@ tags:
 
 I had a few extra hours to kill before a critique group meeting in San Rafael, so I thought why not spend it hiking? Turns out, there’s a really cool state park I’d never heard of on San Pablo Bay. Just take San Pedro Road from San Rafael, and you’ll get there—the road is a loop and the eastern side of it runs through the park, so go north or east from the city. You’ll get back eventually either way.
 
-\[caption id="attachment\_25380" align="aligncenter" width="500"\][![Driving San Pedro Road.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_35-500x156.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_35.jpg) Driving San Pedro Road.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Driving San Pedro Road.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_35-500x156.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_35.jpg) Driving San Pedro Road.</div>
+
 
 The park is called [China Camp](http://www.parks.ca.gov/?page_id=466), and it has [quite the historic legacy](http://www.friendsofchinacamp.org/history.html). First, it was home to the coastal Miwok for thousands of years before the Spanish came and forcefully moved most of the population to the San Rafael and San Francisco missions over a few centuries. Then, in 1828, the property was land-granted to San Rafael mayor Timothy Murphy. In 1869, the McNear Brothers took over what was then a cattle ranch. During that time period, the China Camp village came into being through Chinese immigrants from Canton who settled there in the 1870s.
 
@@ -44,7 +50,13 @@ The remains of the shrimp-drying facility are still there and well-preserved.
 
 There’s also a general store and café. They're run by Frank Quan, the grandson of Quan Hong Quock, who started the general store there in 1895. How cool is that? It’s open on weekends. You can also walk through the tiny village museum anytime the park is open.
 
-\[caption id="attachment\_25362" align="aligncenter" width="500"\][![Looking out from the museum.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_10-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_10.jpg) Looking out from the museum.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Looking out from the museum.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_10-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_10.jpg) Looking out from the museum.</div>
+
 
 The beach at China Camp village is quite peaceful with lovely views.
 
@@ -60,13 +72,37 @@ After taking in the village, I decided to catch the trail spur from the parking 
 
 I stuck to the Shoreline Trail, going west, for the rest of my hike. It’s an easy, mostly flat hike that took me past several beautiful bays that just kept coming, one curve after the other.
 
-\[caption id="attachment\_25374" align="aligncenter" width="500"\][![2014_China_Camp_43](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_43-500x429.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_43.jpg) Buckeye Point\[/caption\]
 
-\[caption id="attachment\_25379" align="aligncenter" width="500"\][![Abandoned pier at Buckeye Point.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_62-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_62.jpg) Abandoned pier at Buckeye Point.\[/caption\]
 
-\[caption id="attachment\_25370" align="aligncenter" width="500"\][![2014_China_Camp_34](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_34-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_34.jpg) Bullhead Flat\[/caption\]
 
-\[caption id="attachment\_25376" align="aligncenter" width="333"\][![A tree at one of the unnamed lookout points.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_49-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_49.jpg) A tree at one of the unnamed lookout points.\[/caption\]
+<div class="caption">
+
+[![2014_China_Camp_43](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_43-500x429.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_43.jpg) Buckeye Point</div>
+
+
+
+
+
+<div class="caption">
+
+[![Abandoned pier at Buckeye Point.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_62-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_62.jpg) Abandoned pier at Buckeye Point.</div>
+
+
+
+
+
+<div class="caption">
+
+[![2014_China_Camp_34](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_34-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_34.jpg) Bullhead Flat</div>
+
+
+
+
+
+<div class="caption">
+
+[![A tree at one of the unnamed lookout points.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_49-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2014_China_Camp_49.jpg) A tree at one of the unnamed lookout points.</div>
+
 
 As you hike away from Buckeye Point, the trail takes you into a forested region, where, if you’re quiet enough, you may find wild turkeys!
 

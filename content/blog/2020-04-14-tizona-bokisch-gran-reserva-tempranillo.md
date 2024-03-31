@@ -43,7 +43,13 @@ Only 300 cases of the 2014 Tizona by Bokisch Gran Reserva Tempranillo exist. It 
 
 A great way to be introduced to this and other Bokisch wines would be to take part in one of Bokisch’s new virtual tasting experiences! The next one is coming up this Friday, April 17, and will highlight their 2019 Garnacha Blanca with a visit to the Bokisch’s home kitchen for storytelling about the vineyard and a cooking demonstration.
 
-\[caption id="" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180210_152153_425.jpg)](https://thegourmez.com/2019/01/03/lodi-wine-and-chocolate-festival-february/) Me at the Bokisch Vineyards in 2018 for [the Lodi Wine & Chocolate Festival.](https://thegourmez.com/2019/01/03/lodi-wine-and-chocolate-festival-february/)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180210_152153_425.jpg)](https://thegourmez.com/2019/01/03/lodi-wine-and-chocolate-festival-february/) Me at the Bokisch Vineyards in 2018 for [the Lodi Wine & Chocolate Festival.](https://thegourmez.com/2019/01/03/lodi-wine-and-chocolate-festival-february/)</div>
+
 
 To participate in virtual tastings at Bokisch Vineyards, call their tasting room at (209) 642-8880 to be added to the list or respond via email at [salutclub@bokisch.wine](mailto:salutclub@bokisch.wine).
 

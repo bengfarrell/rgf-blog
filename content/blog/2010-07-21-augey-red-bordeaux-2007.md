@@ -1,10 +1,10 @@
 ---
 title: "Augey Red Bordeaux 2007"
 date: "2010-07-21"
-categories: 
+categories:
   - "red-bordeaux"
   - "red-wine-review"
-tags: 
+tags:
   - "2007"
   - "augey-bordeaux"
   - "blackberry"
@@ -24,7 +24,13 @@ This is a subtle wine with a lot of flavor, which may be a contradiction of sort
 
 It's a good, pleasant, easy-to-drink wine. For Bordeauxs, it's one of my favorites so far. I think that means I need to try more Bordeauxs.
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+
 
 Other Bloggers' Thoughts:
 

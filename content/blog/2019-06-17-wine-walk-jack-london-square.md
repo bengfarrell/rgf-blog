@@ -33,23 +33,47 @@ I tried the **Enat Winery Orange Blossom Honey Wine**, and I loved it. It shared
 
 Another highlight was [Wachira Wines](https://www.wholesale.wachirawines.com/), which is on the list of participating wineries for the upcoming Wine Walks. At a special press session, I enjoyed a more leisurely tasting of Wachira's wines than regular attendees are likely to get, but I'm sure owner Christine Wachira will be on hand and happy to share with you the story of these Kenyan-inspired wines.
 
-\[caption id="attachment\_28793" align="aligncenter" width="400"\][![wachira wines, christine wachira, jack london square, wine walk, oakland, kenyan wine, california wine](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-10-400x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-10.jpg) Christine Wachira, Founder and CEO of Wachira Wines\[/caption\]
+
+
+
+<div class="caption">
+
+[![wachira wines, christine wachira, jack london square, wine walk, oakland, kenyan wine, california wine](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-10-400x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-10.jpg) Christine Wachira, Founder and CEO of Wachira Wines</div>
+
 
 Wachira sources grapes from California to make wines that reflect the softer, lighter style that Kenyans, and a lot of wine tasters who've tired of high alcohol products, appreciate. Thus far, Wachira Wines makes cabernet sauvignon, zinfandel, muscat, and sparkling wine, all of which are nonvintage. The colors in their name on the label design reflect the Kenyan and American flags.
 
 [![wachira wines, wachira, kenyan wine, oakland, wine sellar, california grapes, tasting notes](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-01-333x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-01.jpg)I found the **Wachira Wines Cabernet Sauvignon** quite appealing, with notes of dried strawberries and flowers on the nose. Its body was remarkably light for a cabernet, with smooth leather tannins. With food, the wine's spice notes released.
 
-\[caption id="attachment\_28792" align="aligncenter" width="392"\][![dyafa, hummus trio, hummus, oakland, jack london square](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-03-392x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-03.jpg) Mmmm, food. More specifically, the hummus trio at [Dyafa](https://www.dyafaoakland.com/).\[/caption\]
+
+
+
+<div class="caption">
+
+[![dyafa, hummus trio, hummus, oakland, jack london square](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-03-392x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-03.jpg) Mmmm, food. More specifically, the hummus trio at [Dyafa](https://www.dyafaoakland.com/).</div>
+
 
 The **Wachira Wines Muscat** is also worth noting, especially with summer here. Normally, I think of muscat as a dessert wine because of its inherent sweetness. Wachira's was indeed sweet, but with only 10% ABV, it offered a refreshing alternative choice for an afternoon in the sun. Peach and golden grape notes abounded.
 
 [![oakland, jack london square, wine walk, muscat, wachira wines, dyafa](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-07-404x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-07.jpg)As press, I was given a VIP pass, which costs twice as much at $80. Last year, VIP ticket holders were entitled to a free nibble from four nearby restaurants and food vendors during the Wine Walk.
 
-\[caption id="attachment\_28800" align="aligncenter" width="375"\][![oakland, jack london square, wine walk, antonik's bbq](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-29-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-29.jpg) [Antonik's BBQ](https://www.instagram.com/antoniksbbq/?hl=en) grilling up some meat during the Wine Walk.\[/caption\]
+
+
+
+<div class="caption">
+
+[![oakland, jack london square, wine walk, antonik's bbq](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-29-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-29.jpg) [Antonik's BBQ](https://www.instagram.com/antoniksbbq/?hl=en) grilling up some meat during the Wine Walk.</div>
+
 
 This year, it appears there will be private lounge areas for VIP guests instead. Inside the lounges, those free nibbles will be available and premium wines sampled. That sounds like a great improvement to the VIP experience! It eliminates the awkwardness of having to ask for a sample at the restaurants, provides a space for breathers from the crowd, and offers access to more wines unavailable elsewhere on the Wine Walk. And you don't want to miss out on trying wares like this sampler plate from [Farmhouse Kitchen Thai](http://www.farmhousethai.com/oakland/).
 
-\[caption id="attachment\_28797" align="aligncenter" width="404"\][![farmhouse kitchen thai, thai, oakland, jack london square](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-24-404x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-24.jpg) Those spring rolls! That peanut sauce!\[/caption\]
+
+
+
+<div class="caption">
+
+[![farmhouse kitchen thai, thai, oakland, jack london square](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-24-404x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-24.jpg) Those spring rolls! That peanut sauce!</div>
+
 
 Farmhouse Kitchen Thai has proven itself a great addition to Jack London Square [since it opened last summer](https://thegourmez.com/2018/08/02/farmhouse-kitchen-thai-cuisine-now-open-in-oakland/). But the Wine Walk's focus is on wine, so I wanted to highlight one more new-to-me wine from this event: **Rock Wall 2017 Sparkling Ros****é Wine.**
 

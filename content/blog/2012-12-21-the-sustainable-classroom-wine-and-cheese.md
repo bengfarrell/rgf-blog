@@ -1,12 +1,12 @@
 ---
 title: "The Sustainable Classroom #4: Wine and Cheese"
 date: "2012-12-21"
-categories: 
+categories:
   - "events"
   - "chapel-hill-north-carolina-travel"
   - "travel-product-review"
   - "wine"
-tags: 
+tags:
   - "alexander-kast"
   - "breana-lai"
   - "butternut-squash-soup"
@@ -74,11 +74,23 @@ Next up was the Montgomery Cheddar with a butternut squash and young ginger soup
 
 Breana prepared these on the spot, so you can bet that room smelled good.
 
-\[caption id="attachment\_5342" align="aligncenter" width="500" caption="Breana passing out the goods."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012150.jpg "TerraVita2012150")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012150.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012150.jpg "TerraVita2012150")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012150.jpg)</div>
+
 
 The cheddar was imported from England, and it was amazing. I’m certain I could eat nothing but it for the rest of life and be happy. Paired with the soup was even better, especially with the mellow undercurrent that the North Carolinian ginger provided. The wine was Le TelQuel from the Loire Valley, and as often happens for me with French wines, I found it too thin.
 
-\[caption id="attachment\_5350" align="aligncenter" width="402" caption="Inez would undoubtedly disagree."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012151.jpg "TerraVita2012151")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012151.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012151.jpg "TerraVita2012151")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012151.jpg)</div>
+
 
 Our lovely trio’s final offering was the Rogue River Blue cheese paired with Saddle Rock Tawny from California. They were excellent together, allowing for a battle of intense flavors wherein both would be declared the victors by my overloaded palate.
 

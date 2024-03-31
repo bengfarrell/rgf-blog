@@ -1,9 +1,9 @@
 ---
 title: "Jamaica Travelogue:  3/4-3/8/09"
 date: "2009-03-12"
-categories: 
+categories:
   - "travel-guide-to-ocho-rios-jamaica"
-tags: 
+tags:
   - "all-inclusive-resort"
   - "chukka-canopy-tour"
   - "jamaica-vacation"
@@ -42,7 +42,13 @@ We found we'd been upgraded from a manor deluxe room to a plantation villa, whic
 
 That evening, we spent lots of time wandering around both the Manor and Riviera hotels, as Sandals Grande Ocho Rios is divided into two hotels separated by a road.    There is always a bar nearby to grab another drink.  They know how to make most everything; I had pina coladas, daiquiris, white russians, and plenty of merlot.  All the frozen drinks come from a slushee type of machine; the bartender adds the alcohol after.  The Bloody Marys had the perfect amount of spice and beware of the poolside bar's rum drinks-strong stuff!
 
-\[caption id="attachment\_134" align="aligncenter" width="300"\]![Swim on up to the bar on the right.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/03/img_1946-for-blog-300x200.jpg "img_1946-for-blog") Swim on up to the bar on the right.\[/caption\]
+
+
+
+<div class="caption">
+
+![Swim on up to the bar on the right.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/03/img_1946-for-blog-300x200.jpg "img_1946-for-blog") Swim on up to the bar on the right.</div>
+
 
 As for the food, it was also included in the price.  Breakfast and lunch were available at two different buffets and we had the choice of about 8 different restaurants for dinner.  Of the three we went too, only San Genarro's exceeded buffet quality food surpassing the offerings at the formal restaurant, Orchid's, that we tried out the night before.  There were also two grills open until 1am in case you needed a midnight snack.  Popcorn and nachos were always within reach as well.
 
@@ -62,7 +68,13 @@ It was great fun, though, and I love adrenaline rushes.  I only wish the lines 
 
 Nighttime, the resort usually had entertainment arranged for the masses, though the place never felt that crowded.  I spent an evening singing along at a piano, when strong-armed by another guest who wanted people to sing with him. We also went to a beach party where reggae musicians played.
 
-\[caption id="attachment\_139" align="aligncenter" width="300"\]![Reggae Musicians from the back.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/03/img_1977-for-blog-300x200.jpg "img_1977-for-blog") Reggae Musicians from the back.\[/caption\]
+
+
+
+<div class="caption">
+
+![Reggae Musicians from the back.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/03/img_1977-for-blog-300x200.jpg "img_1977-for-blog") Reggae Musicians from the back.</div>
+
 
 A steel drum band performed on the last night.  These people were so fast, I couldn't get a good picture no matter how I tried.
 

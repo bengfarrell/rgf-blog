@@ -1,10 +1,10 @@
 ---
 title: "Guest Post: Pairing Beer and Wine with BBQ!"
 date: "2018-09-19"
-categories: 
+categories:
   - "beer"
   - "wine"
-tags: 
+tags:
   - "barbeque"
   - "bbq"
   - "beer"
@@ -15,7 +15,13 @@ tags:
 
 Hello readers! I'm sharing a guest post today from Jack Thompson of [Bro BBQ](http://brobbq.com), a website devoted to all things grilling, from best smokers to best ways to get charcoal glowing. Here are his recommendations for pairing beer and wine with BBQ, and a photo from me to get you in the mood. _~The Gourmez_
 
-\[caption id="attachment\_28392" align="aligncenter" width="500"\][![lodi chocolate and wine, lodi, wine, linguice, grilling](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-004-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-004.jpg) Linguica grilling at St. Jorge Winery in Lodi.\[/caption\]
+
+
+
+<div class="caption">
+
+[![lodi chocolate and wine, lodi, wine, linguice, grilling](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-004-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-004.jpg) Linguica grilling at St. Jorge Winery in Lodi.</div>
+
 
 #### How Do You Know Which Beverage To Pair With Which Meat?
 

@@ -1,12 +1,12 @@
 ---
 title: "Restaurant and Cocktail Review--Papa Mojo's Roadhouse, Brunch"
 date: "2009-08-18"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "beignets"
   - "brunch-durham"
   - "cajun-food-durham"
@@ -44,6 +44,12 @@ The home fries were really, really good with lots of chili powder, paprika and s
 
 I really love the atmosphere of Papa Mojo's and have felt very welcomed by the staff both times I've been there.  The food is sometimes excellent, sometimes adequate so give it a try, especially if you're in the mood for some music with your gumbo.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 8.9.09._

@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Piazza Italia, Brightleaf Square, Durham"
 date: "2009-05-19"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "brightleaf"
   - "brightleaf-restaurants"
   - "durham-restaurants"
@@ -33,6 +33,12 @@ We headed down to the gelato counter for dessert, though our waiter did offer to
 
 Piazza Italia is a charming restaurant that I will look forward to trying again.  Perhaps the seafood menu next time?
 
-\[caption id="attachment\_59" align="aligncenter" width="40"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars</div>
+
 
 _Reviewed 5.1.09._

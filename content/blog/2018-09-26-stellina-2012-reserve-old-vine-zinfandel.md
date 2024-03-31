@@ -1,11 +1,11 @@
 ---
 title: "Stellina 2012 Reserve Old Vine Zinfandel"
 date: "2018-09-26"
-categories: 
+categories:
   - "zinfandel"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "lodi-ca"
   - "review"
   - "stellina-old-vine"
@@ -21,7 +21,13 @@ Stellina 2012 Reserve Old Vine Zinfandel comes from [Estate Crush](https://estat
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Zins-4-2-411x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Zins-4-2.jpg)I did not expect to like it…but I loved it. It's the perfect complement to a nice, juicy steak. No need to order toppings; the wine has all the necessary elements. Warmed fruit joins the mushroom and blue cheese, and pencil shavings finishes it off.
 
-\[caption id="attachment\_26029" align="aligncenter" width="40"\][![4/5](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif) 4/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![4/5](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif) 4/5</div>
+
 
 **Other Bloggers' Thoughts:**
 

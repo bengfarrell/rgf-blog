@@ -1,12 +1,12 @@
 ---
 title: "Farley’s East Expansion and New Menu"
 date: "2017-07-28"
-categories: 
+categories:
   - "coffee-shop"
   - "oakland-coffee-shop-reviews"
   - "oakland-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "chia-pudding"
   - "chocolate-chip-cookies"
   - "coffee"
@@ -29,7 +29,13 @@ tags:
 
 Yes, it’s a coffee shop, but healthy and tasty soups, salads, and sandwiches have always been part of its appeal. And with the new digs comes the addition of new menu items, which I was invited out to preview during their soft re-opening a few weeks ago. _Obligatory disclaimer: that means the food I’m about to describe was entirely free to me._
 
-\[caption id="attachment\_27847" align="aligncenter" width="500"\][![farley's east owners chris amy hillyard](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Farleys-East-012-500x399.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Farleys-East-012.jpg) Owners Chris and Amy Hillyard\[/caption\]
+
+
+
+<div class="caption">
+
+[![farley's east owners chris amy hillyard](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Farleys-East-012-500x399.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Farleys-East-012.jpg) Owners Chris and Amy Hillyard</div>
+
 
 Amy is head of the kitchen, and she impressed me when she gave her opinion that people want choices on a menu, but not too many of them, which I have found to be very true in my food-writing experience. We humans get overwhelmed easily! Of the additional choices Farley’s East is offering is a surprising one: casseroles!
 
@@ -49,7 +55,13 @@ Also available there are granola cups and delicious [Urban Remedy](https://urban
 
 For salads, the Whole Health Protein Bowl was the best of them that I tried. It’s vegan without being advertised as such.
 
-\[caption id="attachment\_27851" align="aligncenter" width="500"\][![salads farley's east](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Farleys-East-016-500x332.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Farleys-East-016.jpg) Pictured Top R\[/caption\]
+
+
+
+<div class="caption">
+
+[![salads farley's east](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Farleys-East-016-500x332.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Farleys-East-016.jpg) Pictured Top R</div>
+
 
 I loved its vibrant colors, and I enjoyed how the bitter greens complemented the sweetness of roasted butternut squash and raw beets. The tahini dressing is tasty as well. It’s a satisfying salad that doesn’t feel heavy, which is a rare find.
 
@@ -70,7 +82,7 @@ Made with Amy’s recipe, these chocolate chips cookies are a house staple for g
 I realize I just wrote a whole article on a coffee house without reviewing the coffee at all! While I didn’t taste any during this media dinner—we were more focused on that beer and wine—Chris did send us home with whole beans of Farley’s house blend.
 
 > [Farley's East has been roasting their own coffee since the fall, and I'm loving the light, bright, and non-acidic flavor. ☕ Thx for the beans & rocking mug at your media soft re-opening event!](https://www.instagram.com/p/BWLaAY4Bqoe/)
-> 
+>
 > A post shared by Becca Gomez Farrell (@thegourmez) on Jul 5, 2017 at 1:25pm PDT
 
 Farley’s East just started roasting their own beans last fall. I find myself skeptical of third wave coffee houses’ brews these days, because they are often too acidic for me in pursuit of those fruitier notes that others love, but that house brew was earthy and grounded enough to please me while also offering a mild body. Would, and likely will, purchase it myself in the future!

@@ -1,10 +1,10 @@
 ---
 title: "WOATS Oatsnack"
 date: "2015-03-24"
-categories: 
+categories:
   - "food-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "butter-toffee-peanuts"
   - "cookies-and-cream"
   - "cookies-n-dreaming"
@@ -34,7 +34,13 @@ tags:
 
 WOATS has just launched their fourth flavor, Jammin' Strawberry Shortbread, and I received it along with the whole WOATS product line to review (obligatory disclaimer! That means I didn't pay for these WOATS treats). That's a lot of oats! Luckily, oats and I go way back--I may even eat instant oatmeal uncooked with milk on occasion (often), so I was up to this task. My husband was up to the task of quickly inhaling whatever I left on the kitchen table.
 
-\[caption id="attachment\_9785" align="aligncenter" width="500"\]![The Jammin' Strawberry Shortbread](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/Woats_02-500x470.jpg) The Jammin' Strawberry Shortbread\[/caption\]
+
+
+
+<div class="caption">
+
+![The Jammin' Strawberry Shortbread](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/Woats_02-500x470.jpg) The Jammin' Strawberry Shortbread</div>
+
 
 First off, WOATS is to granola as Fig Newtons are to granola bars. In other words, they are indeed soft, a little chewy, and extra sweet. That texture is very appealing! Additionally, each bag contains about a cereal bowl's worth of food and offers a variety of sizes, from chunks nearly large enough to be a granola bar on their own to loose oats good for sprinkling over other foods or adding milk to and making a cereal of it (I may have done that. I may also recommend it.).
 

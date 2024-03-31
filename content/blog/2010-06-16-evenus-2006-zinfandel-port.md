@@ -1,10 +1,10 @@
 ---
 title: "Evenus 2006 Zinfandel Port"
 date: "2010-06-16"
-categories: 
+categories:
   - "fortified-wine"
   - "port-fortified-wine"
-tags: 
+tags:
   - "2006"
   - "365-sweet-wines-in-365-days"
   - "evenus-zinfandel-port"
@@ -24,7 +24,13 @@ The nose of this lovely dessert wine is mainly black raspberry, but there's also
 
 What can I say? It's been a good couple of weeks for zinfandel wines in my house.
 
-\[caption id="attachment\_59" align="aligncenter" width="40"\]![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars</div>
+
 
 Other Bloggers' Thoughts:
 

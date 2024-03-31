@@ -1,10 +1,10 @@
 ---
 title: "Come to the Work Local Awards Banquet, 4/28!"
 date: "2016-04-18"
-categories: 
+categories:
   - "announcements"
   - "events"
-tags: 
+tags:
   - "bay-area"
   - "best-employers"
   - "localwise"
@@ -33,4 +33,10 @@ We’d love to see you at the event! [Get your tickets here](https://www.eventbr
 
 Hope to see you there!
 
-\[caption id="attachment\_12226" align="aligncenter" width="500"\][![The Gourmez Blogger](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/george-rose-shot-500x402.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/george-rose-shot-500x402.jpg) What working hard looks like for me. Photo credit @GeorgeRose.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Gourmez Blogger](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/george-rose-shot-500x402.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/george-rose-shot-500x402.jpg) What working hard looks like for me. Photo credit @GeorgeRose.</div>
+

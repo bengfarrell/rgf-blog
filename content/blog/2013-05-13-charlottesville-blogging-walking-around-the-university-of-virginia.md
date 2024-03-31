@@ -1,9 +1,9 @@
 ---
 title: "Charlottesville Blogging: Walking Around the University of Virginia"
 date: "2013-05-13"
-categories: 
+categories:
   - "charlottesville-virginia-travel"
-tags: 
+tags:
   - "brooks-hall"
   - "charlottesville"
   - "edgar-allen-poe"
@@ -43,7 +43,13 @@ Hello, giant "Z"! I imagine it wouldn't take me long to figure out what all the 
 
 [![2013_Charlottesville_25](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/05/2013_Charlottesville_25-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/05/charlottesville-blogging-walking-around-the-university-of-virginia/2013_charlottesville_25/)
 
-\[caption id="attachment\_6305" align="aligncenter" width="500"\][![Hard to see, but there's an "IMP" on Brook's Hall in the distance.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/05/2013_Charlottesville_24-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/05/charlottesville-blogging-walking-around-the-university-of-virginia/2013_charlottesville_24/) Hard to see, but there's an "IMP" on Brook's Hall in the distance.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Hard to see, but there's an "IMP" on Brook's Hall in the distance.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/05/2013_Charlottesville_24-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/05/charlottesville-blogging-walking-around-the-university-of-virginia/2013_charlottesville_24/) Hard to see, but there's an "IMP" on Brook's Hall in the distance.</div>
+
 
 I figured it was the campus's main lawn, but I discovered how wrong I was as we continued our journey around the side of Brook's Hall. The Rotunda captured our eye next, as Jefferson designed it to do as the landmark building of the campus.
 
@@ -73,17 +79,35 @@ Right behind the chapel is the West Range, part of the large Academical Village 
 
 The West Range dates to the early 1800s. It is still in use today as grad student housing and contains a gorgeous meeting room used by the Jefferson Society. But what surprised me was stumbling upon Edgar Allen's Poe's old room, furnished with period pieces and complete with a "Press Me!" button that gives Poe's history with UVA.
 
-\[caption id="attachment\_6315" align="aligncenter" width="332"\][![2013_Charlottesville_46](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/05/2013_Charlottesville_46-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/05/charlottesville-blogging-walking-around-the-university-of-virginia/2013_charlottesville_46/) That's my reflection, not Poe's ghost.\[/caption\]
+
+
+
+<div class="caption">
+
+[![2013_Charlottesville_46](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/05/2013_Charlottesville_46-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/05/charlottesville-blogging-walking-around-the-university-of-virginia/2013_charlottesville_46/) That's my reflection, not Poe's ghost.</div>
+
 
 If I were a UVA grad student, I would LOVE to live in the Academical Village. Walking past some hidden gardens toward the East Range only made me sadder I never had despite how hot those old brick rooms likely get in summer.
 
 [![2013_Charlottesville_48](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/05/2013_Charlottesville_48-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/05/charlottesville-blogging-walking-around-the-university-of-virginia/2013_charlottesville_48/)
 
-\[caption id="attachment\_6319" align="aligncenter" width="500"\][![The East Range.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/05/2013_Charlottesville_53-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/05/charlottesville-blogging-walking-around-the-university-of-virginia/2013_charlottesville_53/) The East Range.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The East Range.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/05/2013_Charlottesville_53-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/05/charlottesville-blogging-walking-around-the-university-of-virginia/2013_charlottesville_53/) The East Range.</div>
+
 
 Right in the middle of the Ranges is the proper Lawn, and it's a beautiful sight. On a warm Saturday afternoon, it bustled with residents, students, tour groups, and visiting families.
 
-\[caption id="attachment\_6320" align="aligncenter" width="500"\][![Also, painters painting the Rotunda.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/05/2013_Charlottesville_54-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/05/charlottesville-blogging-walking-around-the-university-of-virginia/2013_charlottesville_54/) Also, painters painting the Rotunda.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Also, painters painting the Rotunda.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/05/2013_Charlottesville_54-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/05/charlottesville-blogging-walking-around-the-university-of-virginia/2013_charlottesville_54/) Also, painters painting the Rotunda.</div>
+
 
 [![2013_Charlottesville_51](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/05/2013_Charlottesville_51-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/05/charlottesville-blogging-walking-around-the-university-of-virginia/2013_charlottesville_51/)
 

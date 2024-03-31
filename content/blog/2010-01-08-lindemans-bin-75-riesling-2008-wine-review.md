@@ -1,10 +1,10 @@
 ---
 title: "Lindemans' Bin 75 Riesling 2008 -- Wine Review"
 date: "2010-01-08"
-categories: 
+categories:
   - "riesling"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2008"
   - "acidity"
   - "fickle-palate"
@@ -20,7 +20,13 @@ tags:
 
 On first sip, I like it. A lot. There's a mild sweetness that contrasts with its acidity. Fresh honeydew and tangerine notes linger. There's some flower in the party, too -- perhaps lavender, but I'm no expert at guessing floral notes.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+
 
 **Other Bloggers' Thoughts:**
 

@@ -1,11 +1,11 @@
 ---
 title: "Charlottesville Blogging: Dinner at Mas"
 date: "2013-05-06"
-categories: 
+categories:
   - "charlottesville-virginia-bar-reviews"
   - "charlottesville-virginia-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "belmont"
   - "broccolini"
   - "brussel-sprouts"
@@ -42,9 +42,21 @@ A friend in town recommended we spend our dinner meal at [Mas](http://www.mastap
 
 It is definitely a happening restaurant! Even at 10, we had a short wait. There's an inviting front patio area, but the night was too chilly for me, so we opted for a seat in the restaurant proper, which is two-level.
 
-\[caption id="attachment\_6280" align="aligncenter" width="500"\][![Upper level.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/2013_Charlottesville_10-500x332.jpg)](http://www.thegourmez.com/2013/05/charlottesville-blogging-dinner-at-mas/2013_charlottesville_10/) Upper level.\[/caption\]
 
-\[caption id="attachment\_6282" align="aligncenter" width="500"\][![Lower level.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/2013_Charlottesville_03-500x332.jpg)](http://www.thegourmez.com/2013/05/charlottesville-blogging-dinner-at-mas/2013_charlottesville_03/) Lower level.\[/caption\]
+
+
+<div class="caption">
+
+[![Upper level.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/2013_Charlottesville_10-500x332.jpg)](http://www.thegourmez.com/2013/05/charlottesville-blogging-dinner-at-mas/2013_charlottesville_10/) Upper level.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Lower level.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/2013_Charlottesville_03-500x332.jpg)](http://www.thegourmez.com/2013/05/charlottesville-blogging-dinner-at-mas/2013_charlottesville_03/) Lower level.</div>
+
 
 Apparently the upper level near the bar is hotter real estate because we were asked whether the lower level was satisfactory and at least one other waiting party turned it down. I saw nothing wrong with the lower level, and I loved the mix of materials, which shouldn't surprise those of you who read my [Chef and the Farmer](http://www.thegourmez.com/2013/04/kinston-nc-blogging-chef-and-the-farmer/) post. Brick, multiple cuts and types of wood, gray concrete, and smoky glass pleased my eye.
 

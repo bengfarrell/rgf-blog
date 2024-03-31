@@ -1,7 +1,7 @@
 ---
 title: "Country Vintner 2013 Trade Show Finds"
 date: "2013-03-29"
-categories: 
+categories:
   - "beverage-product-review"
   - "events"
   - "merlot"
@@ -14,7 +14,7 @@ categories:
   - "valpolicella"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "blanc-2004"
   - "50-50"
   - "avignonesi"
@@ -70,7 +70,13 @@ From [Avignonesi](http://www.avignonesi.it/), a vineyard using organic methods i
 
 My husband's friend Nick, wine manager at the [Spirited Gourmet](http://www.thespiritedgourmet.com/) in Belmont, MA, and Bartholomew Broadbent, owner of [Broadbent Selections](http://www.broadbent.com/) and the man who invited me to come, both suggested I try [Chateau Musar](http://www.chateaumusar.com/)'s offerings. It's in Lebanon, and I think they may have recommended it for me because of its location in the Bekaa Valley (See, my name is Becca so the Bekaa Valley would be…okay, bad punnage. My apologies.). Their Blanc 2004 is that rare white wine I adore.
 
-\[caption id="" align="aligncenter" width="83"\]![](http://www.winewatch.com/thumb.php?pth=product_images/Chateau_Musar_Blanc.jpg&wdt=200&hgt=200) Photo borrowed from WineWatch.com.\[/caption\]
+
+
+
+<div class="caption">
+
+![](http://www.winewatch.com/thumb.php?pth=product_images/Chateau_Musar_Blanc.jpg&wdt=200&hgt=200) Photo borrowed from WineWatch.com.</div>
+
 
 It's sweeter than I would normally be drawn to, but the whipped cream, kiwi, banana, and strawberry notes reminded me of a dessert my mom made with slices of those fruits stacked together and topped with whipped cream. There couldn't be a simpler and pleasanter ending to a meal. I was also impressed with the Red 2004 full of berry, tobacco, soil, and gritty seed notes.
 

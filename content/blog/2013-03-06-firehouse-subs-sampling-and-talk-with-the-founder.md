@@ -1,11 +1,11 @@
 ---
 title: "Firehouse Subs Sampling and Talk with the Founder"
 date: "2013-03-06"
-categories: 
+categories:
   - "cary-restaurant-reviews"
   - "events"
   - "restaurants"
-tags: 
+tags:
   - "captain-sorenson"
   - "cary"
   - "cherry-limeade"
@@ -40,7 +40,13 @@ tags:
 
 **Firehouse Subs Sampling and Talk with the Founder**
 
-\[caption id="attachment\_5949" align="aligncenter" width="490"\][![Blogger David of Lunchboy Says, Robin Sorenson, and myself.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Firehouse-Subs-19.jpg)](http://www.thegourmez.com/2013/03/firehouse-subs-sampling-and-talk-with-the-founder/firehouse-subs-19/) Blogger David of [Lunchboy Says](http://www.lunchboysays.com/ "Lunchboy Says"), Robin Sorenson, and myself.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Blogger David of Lunchboy Says, Robin Sorenson, and myself.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Firehouse-Subs-19.jpg)](http://www.thegourmez.com/2013/03/firehouse-subs-sampling-and-talk-with-the-founder/firehouse-subs-19/) Blogger David of [Lunchboy Says](http://www.lunchboysays.com/ "Lunchboy Says"), Robin Sorenson, and myself.</div>
+
 
 Two weeks ago, I was invited to the Firehouse Subs on Kildaire Farms Road in Cary for a night of sub sandwich and soda tasting with my blogging peers. The real draw for me was the chance to hear Robin Sorenson, who founded Firehouse Subs with his brother Chris, speak about the origins of the company, their goals, and their nonprofit work. I jumped at the chance because (a) I am not against chain stores unless they have dubious practices or a bad quality of food, and (b) I had never been to a Firehouse Subs.
 
@@ -54,7 +60,13 @@ In case you’re one of the few people in the country who also hasn’t been, Fi
 
 Why the firehouse theme? Both of the Sorenson brothers are former firefighters, and Robin was inspired by the quality of eats and the sense of fellowship that came from breaking bread with his coworkers in the firehouse. I’ve heard legends of the skills of fireman and policemen at the stove, so I believe him. The Sorenson family has a history of entrepreneurship, so it was only natural the brothers would eventually try their hands at it. And they did, opening the first Firehouse Subs in Jacksonville, FL, in 1994.
 
-\[caption id="attachment\_5940" align="aligncenter" width="326"\][![Robin showing off the brisket used in their restaurants.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Firehouse-Subs-13.jpg)](http://www.thegourmez.com/2013/03/firehouse-subs-sampling-and-talk-with-the-founder/firehouse-subs-13/) Robin showing off the brisket used in their restaurants.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Robin showing off the brisket used in their restaurants.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Firehouse-Subs-13.jpg)](http://www.thegourmez.com/2013/03/firehouse-subs-sampling-and-talk-with-the-founder/firehouse-subs-13/) Robin showing off the brisket used in their restaurants.</div>
+
 
 The Firehouse Sub sandwich-building technique involves toasting the bread then adding the meat, cheese, and dressings and sending all that through a steamer. The cold toppings are added before serving the sandwich. The result is outstanding for me, but I’m a fan of messy sandwiches with lots of mayo. For my husband, it was generally too drippy. I was especially impressed with the creamy, mellow mustard they use because strong mustard can be off-putting for me. The mustard on these sandwiches was a nice complement instead.
 
@@ -70,7 +82,13 @@ The second sandwich we tried was the Smokehouse Beef and Cheddar Brisket.
 
 The brisket comes from Sadler’s Barbecue in Texas, where it is smoked with hickory wood for 16 to 18 hours. Served with the delicious Sweet Baby Ray’s barbecue sauce and mayo, it was fantastic. I especially liked how pretty the sandwich is. Those extra-thin slices of meat make it an eye-pleaser.
 
-\[caption id="attachment\_5942" align="aligncenter" width="490"\][![Robin discussing Firehouse Subs’ goals, which are posted in every restaurant.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Firehouse-Subs-10.jpg)](http://www.thegourmez.com/2013/03/firehouse-subs-sampling-and-talk-with-the-founder/firehouse-subs-10/) Robin discussing Firehouse Subs’ goals, which are posted in every restaurant.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Robin discussing Firehouse Subs’ goals, which are posted in every restaurant.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Firehouse-Subs-10.jpg)](http://www.thegourmez.com/2013/03/firehouse-subs-sampling-and-talk-with-the-founder/firehouse-subs-10/) Robin discussing Firehouse Subs’ goals, which are posted in every restaurant.</div>
+
 
 Robin shared way more information about Firehouse Sub’s goals and beginnings than a single blog post can cover, but I should note his special passion for their foundation, Firehouse Subs’ Public Safety Foundation. It is “dedicated to improving the life-saving capabilities of emergency service entities in communities served by Firehouse Subs.” Primarily, they donate emergency equipment that each individual community needs, such as thermal imaging gear and training systems. Robin and Chris have personally donated disaster relief through the foundation as well, driving in two-wheelers full of food during Hurricane Katrina and in Haiti during their last major earthquake. Customers can contribute to the foundation through purchasing leftover pickle buckets for $2, giving cash donations, or rounding up their orders to the nearest dollar amount, giving the difference to the foundation.
 
@@ -78,7 +96,13 @@ Robin shared way more information about Firehouse Sub’s goals and beginnings t
 
 The New York Steamer, which is Robin’s favorite, is made with corned beef, pastrami, provolone, mayo, mustard, and Italian dressing—no veggies here! They weren’t sure about adding this sandwich at first, because in Florida, where the company started, no one eats those meats except on Saint Paddy’s Day. But they focused as usual on quality ingredients, using whole-muscle beef that is sliced in-store rather than ground, and it has done well. The fat melts off in the steamer.
 
-\[caption id="attachment\_5939" align="aligncenter" width="326"\][![Regional manager, XX, slicing up the Firehouse Subs’ meat for the NY Steamer.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Firehouse-Subs-15.jpg)](http://www.thegourmez.com/2013/03/firehouse-subs-sampling-and-talk-with-the-founder/firehouse-subs-15/) Firehouse Subs Area Representative, Tim Goss, slicing up  meat for the NY Steamer.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Regional manager, XX, slicing up the Firehouse Subs’ meat for the NY Steamer.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Firehouse-Subs-15.jpg)](http://www.thegourmez.com/2013/03/firehouse-subs-sampling-and-talk-with-the-founder/firehouse-subs-15/) Firehouse Subs Area Representative, Tim Goss, slicing up  meat for the NY Steamer.</div>
+
 
 Corned beef and pastrami are not my favorite deli meats, but they were much less fatty and more flavorful in this sandwich than I usually find them.
 
@@ -96,7 +120,13 @@ Confusing at first, these soda machines are much better for people like me who d
 
 I also had to take this opportunity to try some of the 50 hot sauces kept in all Firehouse Subs because spicy is my middle name.
 
-\[caption id="attachment\_5945" align="aligncenter" width="490"\][![A few of those beauties.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Firehouse-Subs-03.jpg)](http://www.thegourmez.com/2013/03/firehouse-subs-sampling-and-talk-with-the-founder/firehouse-subs-03/) A few of those beauties.\[/caption\]
+
+
+
+<div class="caption">
+
+[![A few of those beauties.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Firehouse-Subs-03.jpg)](http://www.thegourmez.com/2013/03/firehouse-subs-sampling-and-talk-with-the-founder/firehouse-subs-03/) A few of those beauties.</div>
+
 
 Firehouse’s own sauce, called Captain Sorenson, is made from datil peppers, which Robin shared grows everywhere in Florida. They are extremely hot peppers, but picked when yellow, that spice is mellowed and sweeter. The sauce has a great, thick texture and ingredient blend. For me, it was too tame, ketchup’s livelier cousin, but I can definitely see it as a people-pleaser. It’s their most popular sauce sold in store. I don’t see the point of Bull Snort Jalapeno Water; it really is a spicy sauce of water consistency. The Gator Hammock sauce was my favorite of the five I tried, full of black and cayenne pepper with a vinegar tang.
 

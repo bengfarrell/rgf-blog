@@ -1,7 +1,7 @@
 ---
 title: "A Day in Downtown Prosser"
 date: "2017-05-26"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "breweries-in-prosser-wa"
   - "dining-in-prosser-wa"
@@ -9,7 +9,7 @@ categories:
   - "tasting-rooms-in-prosser"
   - "travel-guide-for-prosser"
   - "travel-product-review"
-tags: 
+tags:
   - "alys-means"
   - "andrea-schutt"
   - "bacchus"
@@ -38,11 +38,23 @@ tags:
 
 _Disclaimer: Everything I’m writing about in this downtown Prosser blog post was free to me as part of a media trip sponsored by the_ [Prosser Wine Network](http://prosserwinenetwork.com/)_._
 
-\[caption id="attachment\_27696" align="aligncenter" width="500"\][![downtown Prosser mural](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-070-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-070.jpg) A mural in downtown Prosser\[/caption\]
+
+
+
+<div class="caption">
+
+[![downtown Prosser mural](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-070-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-070.jpg) A mural in downtown Prosser</div>
+
 
 Last time I wrote about Prosser, I wrote about [the best wines in the region](http://thegourmez.com/2016/12/29/prosser-wine-part-2-best-wines-in-the-area/), many of which can be found in the [Vintner’s Village](http://prosservintnersvillage.com/) in town or at tasting rooms surrounding the Prosser Wine & Food Park, a short few miles up Wine Country Road. But there are few tasting rooms in the downtown proper, which is surprising for a city so tied to the grape.
 
-\[caption id="attachment\_27701" align="aligncenter" width="334"\][![Bill’s Tasting Room prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-078-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-078.jpg) Bill’s Tasting Room\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bill’s Tasting Room prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-078-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-078.jpg) Bill’s Tasting Room</div>
+
 
 But there are those few! And there are great activities to be found throughout the downtown area, as I learned on a tour led by Andrea Schutt, executive director of [Historic Downtown Prosser.](https://historicprosser.com/)
 
@@ -64,7 +76,13 @@ The space is currently an event center for the city. The Mercer Building also ho
 
 Around either corner of Meade Ave from 6th St, you’ll find those few tasting rooms. Sidle up to [Bacchus](https://historicprosser.com/discover-downtown/name/bacchus-tasting-room-interiors/), the first built in town, for some shopping mixed in with your wine.
 
-\[caption id="attachment\_27698" align="aligncenter" width="500"\][![Bacchus wine tasting downtown prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-074-500x299.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-074.jpg) Inside Bacchus\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bacchus wine tasting downtown prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-074-500x299.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-074.jpg) Inside Bacchus</div>
+
 
 I loved the feel of this store, with the tasting bar right up front and a parlor couch, lounger, and display cases in back. I also loved the **Vine Heart Whitney Alyssa ‘92 Port**, pictured in this shot.
 
@@ -90,11 +108,23 @@ For a small space, a lot of economic history is packed into it! Beginning with t
 
 But the biggest jewel in this museum is probably Alys Means, its curator. She gathered us round for storytelling about the area and charmed us all right back into kindergarten, wishing for nap rolls to cuddle up on.
 
-\[caption id="attachment\_27706" align="aligncenter" width="366"\][![benton county museum prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-089-366x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-089.jpg) Alys Means\[/caption\]
+
+
+
+<div class="caption">
+
+[![benton county museum prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-089-366x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-089.jpg) Alys Means</div>
+
 
 Every museum needs an Alys in it! We learned from her that the Newhouse family were the first to plant wine grapes in the area, up in the Snipes Mountain appellation, and that the science of Walter Clore and others helped the farmers in the region move the wine industry forward, pinpointing the best grapes and soil conditions for the area. Still, though, it’s the Concord grape, your average table grape, that has the longest history in Prosser.
 
-\[caption id="attachment\_27715" align="aligncenter" width="500"\][![grave vines prosser domanico cellars](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-128-500x218.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-128.jpg) Not Concord grapes, but morning over Domanico Cellars’ vines.\[/caption\]
+
+
+
+<div class="caption">
+
+[![grave vines prosser domanico cellars](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-128-500x218.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-128.jpg) Not Concord grapes, but morning over Domanico Cellars’ vines.</div>
+
 
 ##### Downtown Prosser Tasting Room Stop #2
 
@@ -104,7 +134,13 @@ After taking in your fill of history—I could have used an extra 30 minutes or 
 
 This is a tasting room with personality in spades! And a shuffleboard table and jukebox in the small room in back. Winemaker Bill Jenkin is now a Washington State representative. The winery only makes 1,500 cases a year, so take the opportunity to compare their oaked and unoaked **Little White Lie blends** while you can. What I liked more than the wine in this spot, however, was the insight into the Prosser wine community from tasting room manager Dana Hobbs.
 
-\[caption id="attachment\_27702" align="aligncenter" width="334"\][![Dana Hobbs Bill's tasting room](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-082-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-082.jpg) Dana Hobbs\[/caption\]
+
+
+
+<div class="caption">
+
+[![Dana Hobbs Bill's tasting room](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-082-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-082.jpg) Dana Hobbs</div>
+
 
 Dana shared how tight-knit of a wine community Prosser enjoys, with the people in it always willing to help each other out through harvest or any time of year. Per Dana, there’s no backstabbing here; they all want each other to succeed.
 

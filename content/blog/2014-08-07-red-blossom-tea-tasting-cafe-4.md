@@ -1,12 +1,12 @@
 ---
 title: "Red Blossom Tea Tasting at Café 4"
 date: "2014-08-07"
-categories: 
+categories:
   - "coffee-shop"
   - "castro-valley-coffee-shop-review"
   - "san-francisco-coffee-shop-reviews"
   - "events"
-tags: 
+tags:
   - "alice"
   - "alishan"
   - "cafe-4"
@@ -33,7 +33,13 @@ tags:
   - "white-tea"
 ---
 
-\[caption id="attachment\_8588" align="aligncenter" width="500"\][![Dragon Pearl white tea](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_008-500x348.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_008/) Dragon Pearl white tea\[/caption\]
+
+
+
+<div class="caption">
+
+[![Dragon Pearl white tea](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_008-500x348.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_008/) Dragon Pearl white tea</div>
+
 
 Last week, I took part in a free Chinese tea tasting held at C[afé 4,](http://www.cvcafe4.com/) one of my favorite coffee shops round these parts. One of these days, I’m going to give Café 4 its own post to highlight how awesome it is, but for now, just know that you can find it right near these guys.
 
@@ -55,7 +61,13 @@ Namely, the teas offered by [Red Blossom Tea](http://www.redblossomtea.com/) loc
 
 I was impressed by how easily Alice, daughter of Red Blossom Tea’s founders, explained the basic concepts of what they look for: which mountain the tea comes from, what elevation the tea is grown at, and what time of year it’s harvested.
 
-\[caption id="attachment\_8590" align="aligncenter" width="500"\][![The dried versions of the teas we were about to sample.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_011-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_011/) The dried versions of the teas we were about to sample.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The dried versions of the teas we were about to sample.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_011-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_011/) The dried versions of the teas we were about to sample.</div>
+
 
 I was also impressed by how easily she and her assistant navigated the 20 of us gathered for the tasting.
 
@@ -65,27 +77,57 @@ I did not expect that many people for a tea tasting at a relatively unknown coff
 
 First and foremost, loose leaf tea is a world apart from packaged tea. As Alice explained, packaged tea is meant to be uniform, but loose leaf is much like wine, with variations expected from mountain to mountain and batch to batch. She recommends using one gram of tea leaves for one ounce of water, with the understanding that steeping times will change based on the flavor you want and that the tea can be re-steeped multiple times. That’s right, folks, no more one and you’re done! You can get a lot more value out of loose leaf tea than that.
 
-\[caption id="attachment\_8591" align="aligncenter" width="500"\][![Completely unfurled white tea leaves after multiple steepings.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_012-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_012/) Completely unfurled white tea leaves after multiple steepings.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Completely unfurled white tea leaves after multiple steepings.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_012-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_012/) Completely unfurled white tea leaves after multiple steepings.</div>
+
 
 We began with Dragon Pearl Da Bai white tea buds from Fuding County, Fujian in the spring. The first steeping yielded a delicate, creamy profile from lukewarm water. Why so low? Because boiling water could harm these young leaves!
 
-\[caption id="attachment\_8584" align="aligncenter" width="500"\][![First steeping](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_004-500x376.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_004/) First steeping\[/caption\]
+
+
+
+<div class="caption">
+
+[![First steeping](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_004-500x376.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_004/) First steeping</div>
+
 
 We would return to the same batch of Dragon Pearl, with fresh water, two more times throughout the tasting so we could see how much the length of steeping affected the taste. A lot of the tasters around me preferred the stronger brews with clearer flavors, but I liked that first cup the most.
 
 Our second tea was Liu An Gua Pian green tea picked this past April 20th in Anhui. Because the tea leaves were more mature than the Dragon Pearl, Alice recommended using a higher temperature of water to steep the leaves, but she cautioned us against steeping for longer than a minute or two, likening the result to drinking boiled spinach water.
 
-\[caption id="attachment\_8586" align="aligncenter" width="500"\][![“That’d be gross, right?” (I’m paraphrasing)](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_006-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_006/) “That’d be gross, right?” (I’m paraphrasing)\[/caption\]
+
+
+
+<div class="caption">
+
+[![“That’d be gross, right?” (I’m paraphrasing)](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_006-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_006/) “That’d be gross, right?” (I’m paraphrasing)</div>
+
 
 I also found that tea creamy. The vegetal flavor was there, but only enough to be soothing.
 
 Next up was Alishan Formosa oolong from Spring 2014 at 1600 meters above sea level. Through my slurped sips (It’s how you taste tea, I swear!), I could discern how much more layered it was than the previous teas we’d tried. I would need more to describe it well, and I look forward to getting more to do just that.
 
-\[caption id="attachment\_8583" align="aligncenter" width="332"\][![Alice’s assistant pouring the next round.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_003-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_003/) Alice’s assistant pouring the next round.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Alice’s assistant pouring the next round.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_003-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_003/) Alice’s assistant pouring the next round.</div>
+
 
 Our final hot tea was a big shift. From Yunnan Province, the Grand Shou Wild Leaf LinCang Pu-Erh has spent seven years in fermentation. Without aging, Alice shared, the pu-erh leaves would be too astringent to drink.
 
-\[caption id="attachment\_8589" align="aligncenter" width="500"\][![See the difference?](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_009-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_009/) See the difference in color?\[/caption\]
+
+
+
+<div class="caption">
+
+[![See the difference?](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/07/Red_Blossom_Tea_009-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/red-blossom-tea-tasting-cafe-4/red_blossom_tea_009/) See the difference in color?</div>
+
 
 Perhaps because its robust flavor was the most similar to the black teas most Americans grow up drinking, it was a favorite at the table. But I’ve rarely liked pu-erh, and this one was no exception, though I found it less aggressive than others I’ve tried. It did go well with the fresh Chinese cookies Alice brought to share from a Chinatown bakery.
 

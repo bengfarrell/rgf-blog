@@ -1,10 +1,10 @@
 ---
 title: "Mole-Mole (bu·ku, Raleigh)"
 date: "2011-06-17"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-raleigh-nc"
-tags: 
+tags:
   - "3-olive-chocolate-vodka"
   - "bu-ku"
   - "buku"
@@ -19,7 +19,13 @@ tags:
 
 **Mole-Mole** [bu·ku,](http://bukuraleigh.com/buku/) Downtown Raleigh
 
-\[caption id="attachment\_2972" align="aligncenter" width="375" caption="Apologies, the coloring is off!"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/molemole.jpg "molemole")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/molemole.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/molemole.jpg "molemole")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/molemole.jpg)</div>
+
 
 This thick cocktail should be listed as a dessert. With both chocolate vodka and crème de cacao in the ingredient list, it’s awfully close to drinking a Mexican hot chocolate in cold cocktail form. The Navan, which is a vanilla cognac as I just learned, is very subtle in the mixture. I’d argue that it might detract a little from the chocolate, smoothing it out too much. Actually, the milky nature of the chocolate elements, probably more than the Navan, is my problem with the drink—I like my chocolate bitter and spicy! The chiles can definitely be tasted but mostly as a pleasing afterburn.
 

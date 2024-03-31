@@ -1,10 +1,10 @@
 ---
 title: "New Localwise Post: A North Oakland Burger Locator"
 date: "2015-11-24"
-categories: 
+categories:
   - "oakland-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "burgers"
   - "hamburgers"
   - "localwise"
@@ -18,6 +18,12 @@ My next Localwise blog post is up! On the menu this time? Different types of [bu
 
 And of course, the real teaser:
 
-\[caption id="attachment\_25347" align="aligncenter" width="500"\][![The Nirvana Burger from Ben & Nick's Pub.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Ben-and-Nicks-04-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Ben-and-Nicks-04.jpg) The Nirvana Burger from Ben & Nick's Pub.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Nirvana Burger from Ben & Nick's Pub.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Ben-and-Nicks-04-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Ben-and-Nicks-04.jpg) The Nirvana Burger from Ben & Nick's Pub.</div>
+
 
 To read the post, [head on over to Localwise](https://www.localwisejobs.com/blog/a-north-oakland-burger-locator/)!

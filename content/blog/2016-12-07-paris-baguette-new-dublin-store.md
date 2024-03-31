@@ -1,10 +1,10 @@
 ---
 title: "Paris Baguette's New Dublin Store"
 date: "2016-12-07"
-categories: 
+categories:
   - "dining-in-dublin"
   - "restaurants"
-tags: 
+tags:
   - "asian"
   - "bakery"
   - "breakfast"
@@ -41,9 +41,21 @@ Before this visit, I had only been to Paris Baguette twice before, and before my
 
 As I walked in, I experienced the familiar sensation of "What do I do?!" that's greeted me on my past visits to Berkeley's Paris Baguette. The sensation comes because the first things you see are rows of baked goods, display cases, and shelves without clear instructions on the process for purchasing.
 
-\[caption id="attachment\_26756" align="aligncenter" width="500"\][![Paris Baguette](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_32-500x354.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_32.jpg) Take this?\[/caption\]
 
-\[caption id="attachment\_26751" align="aligncenter" width="334"\][![Paris Baguette cheese pretzel](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_14-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_14.jpg) Take that?\[/caption\]
+
+
+<div class="caption">
+
+[![Paris Baguette](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_32-500x354.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_32.jpg) Take this?</div>
+
+
+
+
+
+<div class="caption">
+
+[![Paris Baguette cheese pretzel](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_14-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_14.jpg) Take that?</div>
+
 
 At the Dublin store, there is also a register in back along with menus, cold cases, and a coffee counter. Plan of attack? Grab a cute bamboo tray, select your pastry items, then order everything else you want at the register. Don't forget to grab some ready-to-go sweet breads for holiday hostess gifts!
 

@@ -1,7 +1,7 @@
 ---
 title: "Uncorked Ventures Wine Club"
 date: "2015-11-09"
-categories: 
+categories:
   - "carignan"
   - "food-product-review"
   - "grenache-blanc"
@@ -11,7 +11,7 @@ categories:
   - "red-wine-review"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "bay-area"
   - "bliss-wine-imports"
   - "mark-aselstine"
@@ -25,13 +25,25 @@ tags:
 
 The world of wine is huge. Finding a wine you enjoy often feels like searching for that proverbial needle in the haystack. If there’s one thing my recent [Finger Lakes wine bloggers trip](http://thegourmez.com/?s=finger+lakes) taught me, it’s that there are whole regions of wineries that wine writers like myself have barely heard of, much less sampled in any quantity.
 
-\[caption id="attachment\_12096" align="alignnone" width="300"\][![Where to begin?!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_074-300x200.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_074.jpg) Where to begin?!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Where to begin?!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_074-300x200.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_074.jpg) Where to begin?!</div>
+
 
 Much like staring down the shelves of a bookstore, where do you start? Luckily, there are guides on such journeys, and I’m not talking sommeliers. I’m talking wine distributors, like [Bliss Wine Imports](http://thegourmez.com/2015/07/20/bliss-wine-imports-tasting/), that have owners dedicated to doing the dirty work to find amazing wine for you—okay, not everyone would consider buttering up winemakers to be dirty work, but seeking out and getting to know winemakers is a lot more effort than most wine procurers undertake. Bliss specializes in European wineries, spending months meeting winemakers at their cellars, touring their fields, and sampling wide ranges of bottlings. Such intensive methods are ways to gain winemakers’ trust and gain access to the hidden treasures they keep out of the public eye.
 
 While Bliss is doing exceptional work, we also have someone who employs a similar spirit of discovery and deal-making right here at home: Mark Aselstine of [Uncorked Ventures.](http://www.uncorkedventures.com/) Mark started his online wine club business with his brother-in-law, Matt Krause, a few years back. In addition to successfully navigating the murky waters of a family business, Mark and Matt have navigated the landscape of the wineries of California, Oregon, and Washington.
 
-\[caption id="attachment\_25247" align="alignnone" width="500"\][![Mark Aselstine](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Uncorked_Ventures_006-500x390.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Uncorked_Ventures_006.jpg) Mark Aselstine\[/caption\]
+
+
+
+<div class="caption">
+
+[![Mark Aselstine](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Uncorked_Ventures_006-500x390.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Uncorked_Ventures_006.jpg) Mark Aselstine</div>
+
 
 [Uncorked Ventures](http://www.uncorkedventures.com) offers their diamonds found in the rough straight to consumers through their wine clubs. You may be surprised, but a lot of wine importers and retailers never do more than place a phone call or send an email to winemakers before purchasing their bottles, having face-to-face encounters only with their customers. That can lead to run-of-the-mill wines filling real or virtual store shelves, and how are we to know the difference? As Mark put it, “What if we tried the inverse of that, if we actually met winemakers and folks in decision-making positions at vineyards ourselves, and being an Internet-based company, we didn’t meet our customers in person?”
 

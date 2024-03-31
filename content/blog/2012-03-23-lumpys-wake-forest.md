@@ -1,10 +1,10 @@
 ---
 title: "Lumpy's Ice Cream"
 date: "2012-03-23"
-categories: 
+categories:
   - "ice-cream-bakery-food-truck"
   - "ice-cream-parlors"
-tags: 
+tags:
   - "baklava"
   - "bourbon-bacon"
   - "buck-buchanan"
@@ -38,7 +38,13 @@ tags:
 
 Lumpy’s is a new restaurant in Wake Forest offering ice cream and easy eats like hamburgers and frankfurters. Their grand opening is tomorrow from 11 to 7, but that’s just for the storefront. Lumpy’s owner and ice cream creator, Buck Buchanan, has been serving up his scoops since 2001 by cart at farmers’ markets, Highland games, and anywhere ice cream is welcomed. He studied ice cream making techniques for three years before going into the business.
 
-\[caption id="attachment\_4063" align="aligncenter" width="500" caption="Buck and me. Yes, he’s that sort of guy. I suppose that makes me that sort of girl."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/03/lumpys14.jpg "lumpys14")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/03/lumpys14.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/03/lumpys14.jpg "lumpys14")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/03/lumpys14.jpg)</div>
+
 
 Over 200 flavors have come from his culinary mind, and the store offers 14 at any one time.
 

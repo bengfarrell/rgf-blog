@@ -1,12 +1,12 @@
 ---
 title: "The Hospitality of the Finger Lakes—and Other Reasons to Visit"
 date: "2015-09-10"
-categories: 
+categories:
   - "travel-guide-for-corning"
   - "travel-guide-for-the-finger-lakes"
   - "wine"
   - "wine-bloggers-conference-2015"
-tags: 
+tags:
   - "coffee"
   - "corning"
   - "corning-museum-of-glass"
@@ -95,7 +95,13 @@ I do have more pictures of the opening reception and downtown Corning [right her
 
 The best examples of how well the Finger Lakes organizations treated us come from our two nights out at two Corning museums in easy walking distance of the Gaffer District.
 
-\[caption id="attachment\_24994" align="aligncenter" width="500"\][![The Rockwell Museum](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_165-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_165.jpg) The Rockwell Museum\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Rockwell Museum](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_165-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_165.jpg) The Rockwell Museum</div>
+
 
 [The Rockwell Museum](http://rockwellmuseum.org/) hosted our Friday night reception, which our tour guides were wise enough to take us straight to at the end of our excursions to Seneca Lake; otherwise, we’d have been too tired to meander over the couple of blocks from the hotel! And that would have been a shame, because the Rockwell Museum hosts a really interesting collection of primarily Western art, beginning with the buffalo butting out of the exterior wall!
 
@@ -125,9 +131,21 @@ A few hours were not enough! I made my way through the Contemporary Art and Desi
 
 And then I went zoomed through the Innovation Center that details the history of glass-based discoveries, taking us from fiberglass to optical fibers with a number of interactive exhibits.
 
-\[caption id="attachment\_25001" align="aligncenter" width="333"\][![Pyrex](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_388-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_388.jpg) Pyrex\[/caption\]
 
-\[caption id="attachment\_25002" align="aligncenter" width="500"\][![No trip is complete without a self-portrait…in glass!](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_397-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_397.jpg) No trip is complete without a self-portrait…in glass!\[/caption\]
+
+
+<div class="caption">
+
+[![Pyrex](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_388-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_388.jpg) Pyrex</div>
+
+
+
+
+
+<div class="caption">
+
+[![No trip is complete without a self-portrait…in glass!](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_397-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_397.jpg) No trip is complete without a self-portrait…in glass!</div>
+
 
 Then I found yet another section of the museum devoted to Contemporary Glass designs…
 
@@ -141,6 +159,12 @@ I barely had time to get through three centuries before I realized I needed to h
 
 What’s that? A whole post about the WBC without a single wine descriptor? I warned you at the start—Woman Cannot Blog on Wine Alone. She occasionally has to enthuse about the exceptional warmth extended her way from the people of the Finger Lakes instead, whether that warmth comes through in small-town charm, well-sourced and prepared food, a friendly banner, or a free ride at the end of a long weekend. Thanks to all of our Finger Lakes hosts, and extra special thanks go out to Laury Ellen Poland, president of the Finger Lakes Wine Country Association, for wrangling that warmth out of so many different organizations in the area.
 
-\[caption id="attachment\_24991" align="aligncenter" width="347"\][![Laury Ellen Poland](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_035-347x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_035.jpg) Laury Ellen Poland\[/caption\]
+
+
+
+<div class="caption">
+
+[![Laury Ellen Poland](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_035-347x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_035.jpg) Laury Ellen Poland</div>
+
 
 I’m not sure how I didn’t catch a picture of her smiling, because I’m pretty sure she didn’t stop all weekend. This wine blogger appreciated every bit of that thought and care, and if you visit the Finger Lakes and Corning, NY, I don’t think you’ll have a far-off experience.

@@ -16,13 +16,25 @@ tags:
 
 The Manly Man Co. ([website](https://manlymanco.com/)) is a purveyor of gender stereotypes and beef jerky—beef jerky in the form of laser-engraved meat “cards” and meat bouquets, that is.
 
-\[caption id="attachment\_29042" align="aligncenter" width="476"\][![manly man, manly man co, beef jerky, jerky, meat bouquet, jerky bouquet, gift box](https://thegourmez-wpmedia.s3.amazonaws.com/2020/12/beef-jerky-flower-bouquet-beer-mug-14435228254291_2000x-2-476x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/12/beef-jerky-flower-bouquet-beer-mug-14435228254291_2000x-2.jpg) Yes, really, meat bouquets.\[/caption\]
+
+
+
+<div class="caption">
+
+[![manly man, manly man co, beef jerky, jerky, meat bouquet, jerky bouquet, gift box](https://thegourmez-wpmedia.s3.amazonaws.com/2020/12/beef-jerky-flower-bouquet-beer-mug-14435228254291_2000x-2-476x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/12/beef-jerky-flower-bouquet-beer-mug-14435228254291_2000x-2.jpg) Yes, really, meat bouquets.</div>
+
 
 I took one look at that beautiful creation of beef jerky splendor and said yes, I would happily review a gift box from the company. **_Obligatory disclaimer:_** That means the jerky I am about to review was entirely free to me.
 
 I can hear some of you now. “Wow, the Gourmez, way to perpetuate gender stereotypes.” “That’s so progressive of you, buying into men = meat products marketing.” Look, friends. This is [not my first time](https://thegourmez.com/2019/12/09/brobasket-gift-basket-whiskey/) reviewing a gift box advertised for men. And my opinion remains the same now as it did then—there are some men who truly enjoy the warm embrace of stereotypical manhood, and some women who think it’s hilarious to receive a gift meant for that sort of man. I don’t see anything wrong with buying gifts geared toward such people. And c’mon, they offered me a MEAT BOUQUET.
 
-\[caption id="attachment\_29044" align="aligncenter" width="468"\][![](https://thegourmez-wpmedia.s3.amazonaws.com/2020/12/PXL_20201104_194736425-468x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/12/PXL_20201104_194736425.jpg) Here’s what I got.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2020/12/PXL_20201104_194736425-468x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/12/PXL_20201104_194736425.jpg) Here’s what I got.</div>
+
 
 Tragically, as you can see, that is not a meat bouquet but a pile of beef jerky, which arrived expertly stuffed in a box. A mix-up in communications ended up in my being delivered [the Best Jerky Gift Box](https://manlymanco.com/products/best-jerky-gift-basket) ($65) instead. For a time, I mourned my lack of meat bouquet, then sucked it up and did my food blogger duty.
 

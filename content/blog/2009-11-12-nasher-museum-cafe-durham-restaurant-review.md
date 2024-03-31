@@ -1,10 +1,10 @@
 ---
 title: "Nasher Museum Cafe (Durham) -- Restaurant Review"
 date: "2009-11-12"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "blue-cheese-slaw"
   - "durham-lunch-spots"
   - "nasher-museum-cafe"
@@ -35,6 +35,12 @@ All of their sandwiches come with either quinoa or potato salad. I opted for the
 
 With fresh ingredients, fabulous dishes, and a nice view, what's not to love about lunch at the Nasher Museum Cafe?
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+
 
 _Reviewed 11.3.09._

@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Fins, Downtown Raleigh"
 date: "2009-10-09"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "asian-fusion"
   - "banana-rum-baba"
   - "clams"
@@ -53,6 +53,12 @@ It was called the banana rum baba, if my memory serves me well.  The rum baba w
 
 In case you couldn't tell, but for a disappointing cocktail, I loved Fins.  I also, upon reading back the review, I found their offerings to all be quite creamy and melty, a good thing for them but not for my thesaurus skills. I will definitely be back and will order something else off the drink list next time. Or have more sake. Or simply revel in the scrumptious dishes.
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+
 
 _Reviewed 9.19.09._

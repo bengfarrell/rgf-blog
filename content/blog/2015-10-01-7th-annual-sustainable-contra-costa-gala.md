@@ -1,7 +1,7 @@
 ---
 title: "7th Annual Sustainable Contra Costa Gala"
 date: "2015-10-01"
-categories: 
+categories:
   - "chardonnay-rose"
   - "dining-in-concord"
   - "events"
@@ -11,7 +11,7 @@ categories:
   - "red-wine-review"
   - "rose-review"
   - "wine"
-tags: 
+tags:
   - "awards"
   - "beer"
   - "black-diamond-brewing"
@@ -43,11 +43,23 @@ How often do you get to chat with winemakers fresh from harvest with the purple 
 
 Okay, for me, it’s fairly often. But for people who don’t food blog for a living, the annual [Sustainable Contra Costa](http://www.sustainablecontracosta.org/) (SCOCO) gala is a great way to do all of the above for a reasonable price ($50 this year) that, of course, goes to support the nonprofit’s work. SCOCO is devoted to promoting sustainability practices among residents, businesses, students, and community leaders throughout Contra Costa County. Every year, they hold this gala to fundraise and to award their Leadership in Sustainability and Green Building awards to deserving individuals and businesses who have shown “an outstanding commitment to implementing sustainable practices and \[who\] serve to educate the public and inspire change.”
 
-\[caption id="attachment\_25125" align="aligncenter" width="476"\][![Winegrower Susan Captain of Captain Vineyards, one of those business owners dedicated to sustainability.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-047-476x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-047.jpg) Winegrower Susan Captain of Captain Vineyards, one of those business owners dedicated to sustainability.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Winegrower Susan Captain of Captain Vineyards, one of those business owners dedicated to sustainability.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-047-476x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-047.jpg) Winegrower Susan Captain of Captain Vineyards, one of those business owners dedicated to sustainability.</div>
+
 
 I was tapped by a good friend on the board to come in and bring some extra attention to the food and drink vendors donating their time and energy at the gala.
 
-\[caption id="attachment\_25110" align="aligncenter" width="500"\][![Cheese and fruit platters donated by Whole Foods of Walnut Creek. ](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-023-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-023.jpg) Cheese and fruit platters donated by [Whole Foods of Walnut Creek.](http://www.wholefoodsmarket.com/stores/walnutcreek)\[/caption\]
+
+
+
+<div class="caption">
+
+[![Cheese and fruit platters donated by Whole Foods of Walnut Creek. ](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-023-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-023.jpg) Cheese and fruit platters donated by [Whole Foods of Walnut Creek.](http://www.wholefoodsmarket.com/stores/walnutcreek)</div>
+
 
 Each one of the local vendors I talked with are also committed to using sustainable practices, and I’ve long been a friend to restaurants and wineries that recognize how important the environment is to all of us and how much of a difference we can make even on the small scale. TerraVITA, a North Carolinian festival that celebrates sustainability, immediately comes to mind as an event [I had extensive media involvement with](http://thegourmez.com/2012/11/05/terravita-2012-media-farm-tour-stop-1-southern-season/) when I lived in Durham (_Psst! [This year’s TerraVITA](http://terravitaevent.com/) starts 10/8/2015!)._ Throw in the fact that I’ve had little-to-no experience with the food scene in Contra Costa County so far, and the SCOCO gala was a perfect match for me.
 
@@ -77,7 +89,13 @@ The gnocchi was lathered in a sweet red pepper cream sauce, sprinkled with goat�
 
 For this virtual pairing, I choose [the Starmont 2012 Merlot](http://store.merryvale.com/product?productid=09B9D2EF-B6C9-7E1F-C674-993F74A2ED6E) from [the Merryvale family](http://www.merryvale.com/) of wines to go with that gnocchi. Merryvale Vineyards is Napa Green Land and Napa Green Winery certified.
 
-\[caption id="attachment\_25128" align="aligncenter" width="349"\][![Jessica Colburn representing Merryvale.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-053-349x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-053.jpg) Jessica Colburn representing Merryvale.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Jessica Colburn representing Merryvale.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-053-349x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-053.jpg) Jessica Colburn representing Merryvale.</div>
+
 
 Strawberry and spice notes sounds like a wine cliché, but here, it’s a revelation. The sharp spice elevates the wine, giving me the feel of a Jamaican jerk rub with cinnamon, annatto, star anise, and charred habanero with subdued heat. Well-blended tobacco rounds it out.
 
@@ -85,11 +103,23 @@ Strawberry and spice notes sounds like a wine cliché, but here, it’s a revela
 
 My next plate came from [Yalla Mediterranean](http://www.yallamedi.com/), located in Pleasant Hill and Walnut Creek.
 
-\[caption id="attachment\_25113" align="aligncenter" width="500"\][![The Yalla Mediterranean crew.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-028-500x370.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-028.jpg) The Yalla Mediterranean crew.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Yalla Mediterranean crew.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-028-500x370.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-028.jpg) The Yalla Mediterranean crew.</div>
+
 
 This restaurant group is committed to using meat from responsibly raised animals, ingredients as local as the lemon tree inside the store, compostable packaging, and an interior of salvaged wood.
 
-\[caption id="attachment\_25114" align="aligncenter" width="500"\][![A glimpse of some of that wood.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-029-500x377.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-029.jpg) A glimpse of some of that wood.\[/caption\]
+
+
+
+<div class="caption">
+
+[![A glimpse of some of that wood.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-029-500x377.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-029.jpg) A glimpse of some of that wood.</div>
+
 
 My plate consisted of chicken shawarma, hummus and pita, Moroccan carrot salad, Turkish cabbage slaw, and falafel.
 
@@ -147,7 +177,13 @@ What else to pair a ratatouille that good with than an equally spicy zinfandel?
 
 [Viano Vineyards](http://www.vianovineyards.com/) brought two exceptional zinfandels with them: the 2011 Sand Rock Hill and the 2008 Vintage Port.
 
-\[caption id="attachment\_25091" align="aligncenter" width="327"\][![Winemaker John Viano offers a glass.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-067-327x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-067.jpg) Winemaker John Viano offers a glass.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Winemaker John Viano offers a glass.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-067-327x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/10/2015-Sustainable-Contra-Costa-067.jpg) Winemaker John Viano offers a glass.</div>
+
 
 The oldest vines at Viano date to 1888, and Sand Rock Hill has them! Lighter berries, like gooseberry, floated through the exquisite brambles of this wine, only getting more character with each thrash of a spicy thorn. The port’s grapes were dry farmed and from vines aged 70+ years, yielding a tawny impression with little to no alcohol heat and excellent walnut, butterscotch, and grapeseed character.
 

@@ -1,7 +1,7 @@
 ---
 title: "4 Beer Gardens in the East Bay with Extra Bang for Your Buck - Localwise Post"
 date: "2016-05-02"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "breweries-in-alameda"
   - "bars-berkeley-ca"
@@ -10,7 +10,7 @@ categories:
   - "oakland-restaurant-reviews"
   - "publication-news"
   - "restaurants"
-tags: 
+tags:
   - "beer"
   - "beer-gardens"
   - "berkeley"
@@ -28,7 +28,13 @@ tags:
   - "westbrae-biergarten"
 ---
 
-\[caption id="attachment\_24902" align="aligncenter" width="351"\][![Westbrae Biergarten beer garden](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/Westbrae_004-351x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/Westbrae_004.jpg) Beers at Westbrae Biergarten's picnic tables.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Westbrae Biergarten beer garden](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/Westbrae_004-351x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/Westbrae_004.jpg) Beers at Westbrae Biergarten's picnic tables.</div>
+
 
 You may have noticed my recent post on [Telegraph Beer Garden](http://thegourmez.com/2016/04/26/telegraph-beer-garden/)? I went there to gather info for my new Localwise article: [4 Beer Gardens in the East Bay with Extra Bang for Your Buck](https://www.localwisejobs.com/blog/4-beer-gardens-giving-extra-bang-for-your-buck/)! You can head over and read that article now, but I also have full reviews here on the other beer gardens I chose to profile....except for Brotzeit Lokal, whose review is going up in a couple of days! [Find it here when it is.](http://thegourmez.com/2016/05/05/brotzeit-lokal-review-oakland)
 
@@ -38,6 +44,12 @@ The other two beer gardens that have most impressed me--thus far--in the East Ba
 
 Hope you enjoy the new Localwise post! And I am always open for beer garden suggestions -- I may not be the biggest beer drinker, but I love trying new brews regardless.
 
-\[caption id="attachment\_25924" align="aligncenter" width="500"\][![Beer Brotzeit Lokal Oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Brotzeit-Lokal-03-500x454.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Brotzeit-Lokal-03.jpg) A Dirty Hoe and a Dirty Blonde, drunk by friends on my most recent Brotzeit Lokal excursion.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Beer Brotzeit Lokal Oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Brotzeit-Lokal-03-500x454.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Brotzeit-Lokal-03.jpg) A Dirty Hoe and a Dirty Blonde, drunk by friends on my most recent Brotzeit Lokal excursion.</div>
+
 
 Cheers!

@@ -1,10 +1,10 @@
 ---
 title: "Persona Pizzeria"
 date: "2016-09-12"
-categories: 
+categories:
   - "dining-in-santa-rosa"
   - "restaurants"
-tags: 
+tags:
   - "basil"
   - "brick-oven"
   - "build-your-own"
@@ -47,7 +47,13 @@ I tried out the Santa Rosa location on a recent weekend trip to the Russian Rive
 
 Knowing how to harness the power of cellphone trends shows smart marketing acumen. But Persona Pizzeria doesn’t really need it, because the concept is great from the get-go. Nick Ulrich, who owns the franchised location with his two brothers, guided me through the process. Nick has been with Persona Pizzeria in some capacity or other since early on, having been friends with Glenn since they were kids.
 
-\[caption id="attachment\_26467" align="aligncenter" width="362"\][![Nick Ulrich Persona Pizzeria](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Persona-Pizza-26-362x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Persona-Pizza-26.jpg) Nick Ulrich\[/caption\]
+
+
+
+<div class="caption">
+
+[![Nick Ulrich Persona Pizzeria](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Persona-Pizza-26-362x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Persona-Pizza-26.jpg) Nick Ulrich</div>
+
 
 When opening a downtown Santa Rosa location became a possibility, Nick couldn’t resist trying his hand at the day-to-day operation of the restaurant with his family. On this particular day, that hand prepared my pizza from scratch.
 

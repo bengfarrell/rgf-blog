@@ -33,11 +33,23 @@ Yamhill-Carlton is a beautiful subregion, isn’t it? That video was taken at [A
 
 If you’ve followed my wine writing for any period of time, you know that I’m not all that interested in terroir beyond how good of a wine it deposits in my glass. But I could not help but catch some of Ken Wright’s enthusiasm on the subject, as we began the day’s tastings and informational tours.
 
-\[caption id="attachment\_29116" align="aligncenter" width="375"\][![Ken Wright, ball cap on, using a marker on a large notepad](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon142-375x500.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon142.png) Wright illustrating his points, quite literally.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Ken Wright, ball cap on, using a marker on a large notepad](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon142-375x500.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon142.png) Wright illustrating his points, quite literally.</div>
+
 
 Wright is a local winemaker, vineyard owner, and most of all, a farmer who just happens to be one of the stars of Oregon wine. At [Ken Wright Cellars](https://kenwrightcellars.com/), located in Carlton, OR, we began our tour with a talk from Ken on the local soils—or rather, as he quickly made clear, the more important “Mother Rock” that the oldest vines will reach about 30–35 feet down through the soil. According to Wright, the Mother Rock’s terroir results in an agricultural product that simply cannot exist anywhere else. He likened the region’s pinot noirs to the bamboo celebrated in Kyoto in late April, the perfect time and place to experience that particular delicacy.
 
-\[caption id="attachment\_29115" align="aligncenter" width="355"\][![Bottle shot of Shea Vineyards Ken Wright Pinot noir. Bold green and yellow art](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon141-355x500.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon141.png) The Kyoto Bamboo of Yamhill-Carlton: A 2017 Shea Vineyards Ken Wright Cellars Pinot Noir.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bottle shot of Shea Vineyards Ken Wright Pinot noir. Bold green and yellow art](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon141-355x500.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon141.png) The Kyoto Bamboo of Yamhill-Carlton: A 2017 Shea Vineyards Ken Wright Cellars Pinot Noir.</div>
+
 
 Wright made clear his unflattering thoughts on the pinot noir coming from other regions of the world (_cough cough_ Napa Valley). He described such wines as a hammer that hits one over the head, while the pinot noirs of Yamhill-Carlton are as they should be: all about gracefulness.
 
@@ -49,7 +61,13 @@ The chardonnay’s mild lime acidity matched beautifully with notes of cucumber,
 
 From Ken Wright Cellars, we headed over to the local high school, home to the only high-school based vineyard in the country. Students help tend the vineyard and make the wine, with Wright as a mentor, among other local wine professionals.
 
-\[caption id="attachment\_29118" align="aligncenter" width="500"\][![Grape vines below a blue sky with puffy clouds](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon157-500x334.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon157.png) Vineyards at Yamhill-Carlton High School\[/caption\]
+
+
+
+<div class="caption">
+
+[![Grape vines below a blue sky with puffy clouds](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon157-500x334.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon157.png) Vineyards at Yamhill-Carlton High School</div>
+
 
 The proceeds from [Tiger Vines wines](https://www.tigervineswine.org/) go back into the school’s viticulture program, which provides a valuable service by helping local kids learn a potential future career they could enjoy in Yamhill-Carlton.
 
@@ -59,7 +77,13 @@ My friend Kelly Cohen, writer of [Off the Beaten Glass](https://www.offthebeaten
 
 We headed to Abbey Roads Farm for lunch. As already mentioned, I’m skipping over them for now. So we’ll jump ahead to the final destination of our Yamhill-Carlton excursion: [Beacon Hill](https://www.beaconhillwinery.com/).
 
-\[caption id="attachment\_29124" align="aligncenter" width="500"\][![A two story white estate house behind a lawn and gardens](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon214-500x285.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon214.png) The lovely estate at Beacon Hill.\[/caption\]
+
+
+
+<div class="caption">
+
+[![A two story white estate house behind a lawn and gardens](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon214-500x285.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon214.png) The lovely estate at Beacon Hill.</div>
+
 
 At this winery, we were able to taste more adventurous white wines from Beacon Hill and their neighboring [Kramer Vineyards](https://www.kramervineyards.com/). While Ken Wright educated us on the prime grapes best suited to Yamhill-Carlton soils, Beacon Hill and Kramer Vineyards’ winemakers wield that experimental spirit that can keep a wine region feeling young and fresh. They shared with us mostly white wine grapes, and some that are not so familiar to an American palate: Grüner Veltliner, Riesling, Albariño, and Müller-Thurgau.
 
@@ -77,9 +101,21 @@ Lots of creaminess from its oak with pineapple notes, pie spices, crème brulee,
 
 You can purchase any of the wines I’ve mentioned at their wineries’ websites, linked earlier in this post. My thanks go out to [Play Nice PR](https://www.playnicepr.com/) for organizing the tour, Ken Wright, and all our hosts along the way for putting together this Wine Media Conference excursion. I enjoyed my introduction to Yamhill-Carlton wines, and the excuse to check out McMinnville, OR overnight afterward.
 
-\[caption id="attachment\_29122" align="aligncenter" width="500"\][![The Gourmez, Rebecca Gomez Farrell, with a Benjamin Franklin statue](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon245-500x375.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon245.png) Meeting the locals\[/caption\]
 
-\[caption id="attachment\_29121" align="aligncenter" width="500"\][![A chalk drawing on the sidewalk that reads Love the Wine You're With](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon230-500x394.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon230.png) Enjoying McMinnville sidewalk art.\[/caption\]
+
+
+<div class="caption">
+
+[![The Gourmez, Rebecca Gomez Farrell, with a Benjamin Franklin statue](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon245-500x375.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon245.png) Meeting the locals</div>
+
+
+
+
+
+<div class="caption">
+
+[![A chalk drawing on the sidewalk that reads Love the Wine You're With](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon230-500x394.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon230.png) Enjoying McMinnville sidewalk art.</div>
+
 
 The excursions at the WMC continue to be the highlights of the whole trip, and a great deal from $20-$40 for the experiences. In addition to the warm and vibrant wine media community I’ve come to love, the WMC excursions are a big reason I’ve attended five times since my first conference in 2013. We’re still waiting to learn where 2022’s conference will be, but my hat goes off to [Zephyr Adventures](https://www.zephyradventures.com/) for managing to pull together a WMC at all in 2021.
 

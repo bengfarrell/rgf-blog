@@ -1,7 +1,7 @@
 ---
 title: "Jujube's Bubbly Recession Wine Dinner"
 date: "2010-12-15"
-categories: 
+categories:
   - "cava"
   - "cava-rose"
   - "dining-in-chapel-hill-nc"
@@ -11,7 +11,7 @@ categories:
   - "restaurants"
   - "rose-review"
   - "sparkling-wine-review"
-tags: 
+tags:
   - "adami-garbel-13"
   - "aria"
   - "brut"
@@ -52,6 +52,12 @@ Last but never least was dessert: rosewater flan with lime confiture. This one n
 
 It was another lovely dinner out at Jujube, and I always look forward to seeing what Charlie will come up with next. If that grilled calamari isn’t on the summer menu, I’m going to be sad.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 3 stars</div>
+
 
 _Reviewed 7 Dec 10._

@@ -1,11 +1,11 @@
 ---
 title: "Prix Fixe Fridays at Parizade"
 date: "2013-06-18"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "events"
   - "restaurants"
-tags: 
+tags:
   - "arugula"
   - "bruschetta"
   - "campari"
@@ -38,7 +38,13 @@ tags:
 
 **Parizade** 2200 West Main Street Erwin Square, Durham [Website](http://parizadedurham.com/) $35 + tax & tip
 
-\[caption id="attachment\_6444" align="aligncenter" width="333"\][![Parizade’s interior, as whimsical as ever.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/06/Parizade_Medit_Dinenrs14.jpg)](http://www.thegourmez.com/2013/06/prix-fixe-fridays-at-parizade/parizade_medit_dinenrs14/) Parizade’s interior, as whimsical as ever.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Parizade’s interior, as whimsical as ever.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/06/Parizade_Medit_Dinenrs14.jpg)](http://www.thegourmez.com/2013/06/prix-fixe-fridays-at-parizade/parizade_medit_dinenrs14/) Parizade’s interior, as whimsical as ever.</div>
+
 
 [The last time I blogged](http://www.thegourmez.com/2007/04/parizade-erwin-square-durham/) about Parizade, a Giorgios Group restaurant, was all the way back in 2007, so I was due for a revisit even if they had not approached me to try out their new prix fixe menu. It’s an insanely good deal for $35 a head. It’s an even better deal if you get to try it for free, so thank you, Parizade, for the opportunity! (Obligatory disclaimer? Check.).
 

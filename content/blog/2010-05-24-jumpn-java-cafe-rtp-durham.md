@@ -1,11 +1,11 @@
 ---
 title: "Jump'n Java Cafe (RTP, Durham)"
 date: "2010-05-24"
-categories: 
+categories:
   - "coffee-shop"
   - "durham-coffee-shop-reviews"
   - "restaurants"
-tags: 
+tags:
   - "artichoke-hearts"
   - "curry-bowl"
   - "durham-coffee"
@@ -42,6 +42,12 @@ While the broccoli was skimped on, the artichoke and cheeses gave the sandwich g
 
 I'm intrigued by the curry bowls, and I saw a number of people digging into them, so I'll definitely be back to try that sometime, as well as the red espresso, which is something I haven't tried anywhere as yet. Jump'n Java, while not necessarily the best foam makers in the world, has a relaxed, pleasant atmosphere. It's a good place to spend an early afternoon or morning with your laptop, especially if you're craving some artichoke hearts.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 5.18.10._

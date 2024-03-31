@@ -1,10 +1,10 @@
 ---
 title: "La Residence (Chapel Hill) -- Restaurant Review"
 date: "2009-12-31"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "restaurants"
-tags: 
+tags:
   - "chapel-hill-dining"
   - "chapel-hill-restaurants"
   - "chocolate-apricot-torte"
@@ -41,6 +41,12 @@ The pumpkin layer was delicious as was the crust and sauces. I was disappointed 
 
 There were fabulous elements in our meal and ones that made us stop and ask, "Huh?" Ambience was lovely, especially at our table by the fireplace. I liked the imagination used in the meals, even if I didn't think it always succeeded.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 12.16.09._

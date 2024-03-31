@@ -1,10 +1,10 @@
 ---
 title: "Dos Perros (Downtown Durham)"
 date: "2010-07-16"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bunuelos"
   - "charlie-deal"
   - "chile-tamarind"
@@ -57,6 +57,12 @@ It was a very simple dessert, which isn't bad for $4, but I wanted more pizazz. 
 
 So what did I think? On the basis of the outstanding duck and pretty good offerings otherwise, I would definitely come back. It's no Jujube for me, but hey, maybe I'll change my mind after having one of those tacos.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 7.9.10._

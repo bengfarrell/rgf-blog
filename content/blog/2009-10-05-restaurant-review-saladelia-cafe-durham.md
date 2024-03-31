@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Saladelia Cafe (Durham)"
 date: "2009-10-05"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "brunch-durham"
   - "chicken-salad-sandwich"
   - "mediterranean-durham"
@@ -36,6 +36,12 @@ The penne pasta was mixed with sundried tomato, feta, parsley, and scallions.  
 
 Saladelia continues to be a great spot to get a deluxe sandwich and/or intriguing sides.  I've yet to try one of their desserts or pastries but they certainly look appealing.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 9.30.09._

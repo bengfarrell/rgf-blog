@@ -1,7 +1,7 @@
 ---
 title: "Best Wines (and Armagnac!) of the APVSA Once Upon a Wine Tour"
 date: "2018-10-01"
-categories: 
+categories:
   - "brandy"
   - "red-wine-review"
   - "spirits"
@@ -9,7 +9,7 @@ categories:
   - "vermentino"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "apvsa"
   - "armagnac"
   - "european"
@@ -19,7 +19,13 @@ tags:
 
 Early this year, I attended the San Francisco leg of the [Association for the Promotion of Wines and Spirits in North America](https://apvsa.ca/) (APVSA) tour of the USA. The Once Upon a Wine tour was this year's chance for the European labels represented by the APVSA to introduce their wares to potential distributors and importers.
 
-\[caption id="attachment\_28300" align="aligncenter" width="500"\][![AVPSA, wine, tasting, european](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180205_133511_1-500x370.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180205_133511_1.jpg) A few of the wines available for tasting.\[/caption\]
+
+
+
+<div class="caption">
+
+[![AVPSA, wine, tasting, european](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180205_133511_1-500x370.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180205_133511_1.jpg) A few of the wines available for tasting.</div>
+
 
 Attending wine shows like these as media is a chance to try wines I've never come across before and hunt for ones that strike me as unique or extraordinary—sometimes both at the same time! This was my second time attending an APVSA event ([my thoughts on the first one here](http://thegourmez.com/2017/08/02/best-wines-on-the-apvsa-wine-not-tour/)). _Obligatory disclaimer:_ All that explanation means the products mentioned in this post were free to me to taste as a media member.
 

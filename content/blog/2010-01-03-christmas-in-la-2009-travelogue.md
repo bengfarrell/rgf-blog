@@ -1,9 +1,9 @@
 ---
 title: "Christmas in LA 2009 -- Travelogue"
 date: "2010-01-03"
-categories: 
+categories:
   - "los-angeles-travel"
-tags: 
+tags:
   - "avila-adobe"
   - "christmas-eve-dinner"
   - "christmas-la"
@@ -24,15 +24,33 @@ Swinging it involved getting cheap tickets that made us fly from Durham to O'Har
 
 We slept at Christa's house in Culver City that night and the next. Christa took on tour guide duties, something we both do well, and took us to Olvera Street in downtown LA on my request. Olvera Street, also known as El Pueblo Monument, is the oldest part of Los Angeles and a nicely remodeled Mexican marketplace with small taquerias and stands.
 
-\[caption id="" align="aligncenter" width="388"\]![View from the end of Olvera Street](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-011.jpg "View from the end of Olvera Street") View from the end of Olvera Street\[/caption\]
+
+
+
+<div class="caption">
+
+![View from the end of Olvera Street](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-011.jpg "View from the end of Olvera Street") View from the end of Olvera Street</div>
+
 
 We ate at [Cielito Lindo](http://www.cielitolindo.org/), a spot that specializes in taquitos covered in a thin avocado sauce. They were okay. I liked the sopa and taco we stopped for later a bit better but I still haven't found anywhere as good as Taqueria Vallarta in Santa Cruz. [La Vaquita](http://lavaquitanc.com/) in Durham is a close second, though I've only been twice.
 
 We explored the Avila Adobe next, the oldest house in LA, which is decorated to resemble mid-19th century life.
 
-\[caption id="" align="aligncenter" width="289"\]![Front of the Avila Adobe](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-017.jpg) Main room in the Avila Adobe\[/caption\]
 
-\[caption id="" align="aligncenter" width="388"\]![Courtyard View](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-021.jpg) Courtyard View\[/caption\]
+
+
+<div class="caption">
+
+![Front of the Avila Adobe](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-017.jpg) Main room in the Avila Adobe</div>
+
+
+
+
+
+<div class="caption">
+
+![Courtyard View](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-021.jpg) Courtyard View</div>
+
 
 It was worth taking the few minutes to explore it if only to say I've been there.  Further down the marketplace, we saw wrestling masks for sale.
 
@@ -54,7 +72,13 @@ We said goodbye to Daniel for now and Christa drove us around downtown LA, with 
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-065.jpg)
 
-\[caption id="" align="aligncenter" width="240"\]![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-063.jpg) Me attempting to drink from a huge wine vat outside of San Antonio Winery.\[/caption\]
+
+
+
+<div class="caption">
+
+![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-063.jpg) Me attempting to drink from a huge wine vat outside of San Antonio Winery.</div>
+
 
 That night, we went to C & O Cucina in Marina del Rey, where I met up with some of my fave college friends, Donna and Angela, and their boyfriends, in addition to my sister's boyfriend, Joe, and my cousin, Kelly. Thus began the overeating!
 
@@ -76,7 +100,13 @@ Presents were opened after and Ben and I received a hot chocolate frother from D
 
 After dinner, we transitioned to the Secret Santa/Blessing Tree portion of the day, which my family started doing a few years ago and Gary insists should only be every other year because he wants to buy presents for everyone.  I think it's a neat little tradition. At Thanksgiving, everyone wrote what they were grateful for from the past year and hung the blessings on the tree. Ben and I added ours right beforehand instead. Then we took turns picking a card from the tree and reading it aloud, then had the person whose card it was give their Secret Santa gift to the person they had picked at Thanksgiving. Present would be opened, then that person would pick a new tag to read. Sounds like a convoluted procedure because it was! We forgot what method we were using many times but everyone did get their presents eventually. I received a few books from Mikey that I'd been looking forward to reading and Ben got the new Super Mario Brothers game from Uncle Fermin.
 
-\[caption id="" align="aligncenter" width="539"\]![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-097.jpg) Aunt Penny reads the first card.\[/caption\]
+
+
+
+<div class="caption">
+
+![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-097.jpg) Aunt Penny reads the first card.</div>
+
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-101.jpg)
 
@@ -92,9 +122,21 @@ After dinner, we transitioned to the Secret Santa/Blessing Tree portion of the d
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-131.jpg)
 
-\[caption id="" align="aligncenter" width="539"\]![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-132.jpg) Uncle Mike's annual tradition.\[/caption\]
 
-\[caption id="" align="aligncenter" width="241"\]![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-134.jpg) I have no idea why we look this guilty.\[/caption\]
+
+
+<div class="caption">
+
+![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-132.jpg) Uncle Mike's annual tradition.</div>
+
+
+
+
+
+<div class="caption">
+
+![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-134.jpg) I have no idea why we look this guilty.</div>
+
 
 We then decided to try for a cousins' picture and managed to succeed getting a few good shots!
 

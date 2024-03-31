@@ -1,7 +1,7 @@
 ---
 title: "A Winemaker’s Downtown Sonoma Afternoon"
 date: "2016-05-30"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "belle-de-blanc"
   - "dining-in-sonoma"
@@ -11,7 +11,7 @@ categories:
   - "travel-product-review"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "cynthia-cosco"
   - "dining"
   - "gloria-ferrer"
@@ -33,7 +33,7 @@ tags:
 Let's begin this blog post from the end!
 
 > [Farewell, Sonoma! Had a great time tasting your wares with grower Henry Matthes! Blogs coming soon.... \_\_\_\_\_ #winelover #CAwine #whitewines #rhône #sonoma #norcal #travel #landscape #nature #grapes](https://www.instagram.com/p/BEeufePwQr2/)
-> 
+>
 > A photo posted by Becca Gomez Farrell (@thegourmez) on Apr 21, 2016 at 4:05pm PDT
 
 [If you read my blog last week](http://thegourmez.com/an-intro-to-henry-matthes-vineyards-grenache-blanc), you saw my introduction to Sonoma’s [Matthes Vineyards](http://matthesvineyards.com/), an extra small estate vineyard specializing in grenache blanc. Henry Matthes, the grower and winemaker behind the label, showed me around his property….but he also showed me around _his_ Sonoma, or at least a few spots he’d recommend visiting for a delightful afternoon in the downtown area.
@@ -86,7 +86,13 @@ If you head inside this tasting room, make sure to ask for the white wines made 
 
 **4. [Passaggio Wines](http://www.passaggiowines.com/)** (25 East Napa St. Suite C).
 
-\[caption id="attachment\_26142" align="aligncenter" width="373"\][![Henry Matthes and Passaggio’s winemaker, Cynthia Cosco.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/MathesSonoma-29-373x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/MathesSonoma-29.jpg) Henry Matthes and Passaggio’s winemaker, Cynthia Cosco.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Henry Matthes and Passaggio’s winemaker, Cynthia Cosco.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/MathesSonoma-29-373x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/MathesSonoma-29.jpg) Henry Matthes and Passaggio’s winemaker, Cynthia Cosco.</div>
+
 
 Though I had not tried any Passaggio wines before, I knew of it as it happens to be a favorite of the local wine blogger community -- in large part, because winemaker Cynthia Cosco is a pretty regular blogger herself. Luckily for me, Cynthia happened to be in when Henry and I passed by. As they enjoyed catching up on all the industry happenings, I sampled a couple glasses from the many, many varieties on offer in this tasting room. Cynthia is a busy woman!
 

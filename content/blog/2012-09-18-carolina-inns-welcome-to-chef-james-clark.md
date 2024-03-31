@@ -1,11 +1,11 @@
 ---
 title: "Carolina Inn’s Welcome to Chef James Clark"
 date: "2012-09-18"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "events"
   - "restaurants"
-tags: 
+tags:
   - "banan-spice-cake"
   - "carolina-crossroads"
   - "carolina-inn"
@@ -29,15 +29,33 @@ tags:
 
 Last Thursday, I was invited along with a banquet hall’s worth of other food media and industry folks and Carolina Inn sponsors, to a complimentary event welcoming Chef James Clark to the Carolina Inn.
 
-\[caption id="attachment\_4863" align="aligncenter" width="333" caption="The man of the hour."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames13.jpg "chefjames13")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames13.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames13.jpg "chefjames13")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames13.jpg)</div>
+
 
 Chef Clark took up the role of executive chef for the Carolina Crossroads restaurant in June. Per the press release, he’s originally from Elizabeth City, and he comes to Chapel Hill by way of four and five star restaurants in Myrtle Beach, Washington DC, Charleston, and New Orleans. He “specializes in sustainable dining serving locally grown ‘Farm to Table’ seafood, meats, and vegetables. His individual style is inspired by local, Southern influences infused with modern techniques.  He is as meticulous about leaving carbon footprints on the environment as he is about the unique dishes he creates. He concentrates on three or four ingredients for each dish, focusing on them to maximize their flavors using proper cooking techniques.”
 
 This event was a chance to meet Chef Clark and try out a sample of his cooking style, which was NC trigger fish with Carolina rice grits and succotash.
 
-\[caption id="attachment\_4871" align="aligncenter" width="333" caption="A selection of his favorite fish on display."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames01.jpg "chefjames01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames01.jpg)\[/caption\]
 
-\[caption id="attachment\_4864" align="aligncenter" width="500" caption="Trigger fish searing in action."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames16.jpg "chefjames16")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames16.jpg)\[/caption\]
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames01.jpg "chefjames01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames01.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames16.jpg "chefjames16")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames16.jpg)</div>
+
 
 There was no doubt from this sample that Chef Clark is returning the Carolina Crossroads to a style more grounded in its Southern roots, which fits the inn’s classic ambience. The fish had a delicious outer shell from that sear, though I’m unsure about the rice grits and succotash combination.
 
@@ -65,7 +83,13 @@ Who can blame her with a centerpiece like that? She provided a huge selection of
 
 \-- and the banana spice cake on the right that was one of her personal favorites. Both cakes were on the dry side, but I did enjoy that banana and spice combination.
 
-\[caption id="attachment\_4860" align="aligncenter" width="500" caption="The banana spice cake and a pistachio macaroon cookie."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames22.jpg "chefjames22")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames22.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames22.jpg "chefjames22")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames22.jpg)</div>
+
 
 More up my alley, though, was the panna cotta.
 
@@ -83,4 +107,10 @@ In addition to the flavors in both the chefs’ wares, the feeling of Southern r
 
 Thank you to the team at the Carolina Inn for the invitation, and welcome to Chefs Clark and Thomas!
 
-\[caption id="attachment\_4870" align="aligncenter" width="500" caption="One last picture of Chef Clark, this time meeting travel writer Leigh Powell Hines (@HinesSightBlog of Hines-Sight Blog who I had the pleasure of meeting as well!"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames02.jpg "chefjames02")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames02.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames02.jpg "chefjames02")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/chefjames02.jpg)</div>
+

@@ -1,10 +1,10 @@
 ---
 title: "South African Wine Dinner at Nana's (Durham)"
 date: "2009-11-10"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "buitenverwachting-rhine-riesling-2008"
   - "cape-classics-wines"
   - "celery-root-soup"
@@ -58,4 +58,10 @@ For me, this was the best dish of the evening, though that's not surprising: I h
 
 I was amazed at how much nose and body the wines had this evening. The whites were not up my alley, but the reds most definitely were with lots of spice, character, and layers of fruit. For the food, I think I enjoyed the presentations more than the dishes themselves, the creme brulee excepted, but they fed me well and kept me happy.  It was a lovely evening of wine, conversation, and food and priced well at $55/person. Thanks to both Nana's and HBVS for putting it on.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+

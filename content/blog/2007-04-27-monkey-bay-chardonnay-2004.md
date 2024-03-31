@@ -1,10 +1,10 @@
 ---
 title: "Monkey Bay Chardonnay 2004"
 date: "2007-04-27"
-categories: 
+categories:
   - "chardonnay"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2004"
   - "monkey-bay"
 ---
@@ -19,4 +19,10 @@ With no sign of monkey business afoot, I took my first sip. It was nearly as swe
 
 While I'm tempted to knock the wine down a rating due to the lack of zombie monkey, I'll refrain. It's sweet, dry and tasty. I wonder if it pairs well with bananas foster?
 
-\[caption id="attachment\_49" align="alignleft" width="40"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+

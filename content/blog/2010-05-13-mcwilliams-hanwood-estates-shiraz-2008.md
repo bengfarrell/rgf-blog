@@ -1,10 +1,10 @@
 ---
 title: "McWilliams Hanwood Estates Shiraz 2008"
 date: "2010-05-13"
-categories: 
+categories:
   - "red-wine-review"
   - "shiraz"
-tags: 
+tags:
   - "2008"
   - "cherry"
   - "micwillians-hanwood-estates"
@@ -20,7 +20,13 @@ tags:
 
 Curry leaves and pepper come forward in the nose. The taste is interesting: cherry, not fully ripe, is foremost on the palate, but with a spicy tone that actually reminds me a lot of Trader Joe's Cherry Cider. I can down a jug of that beverage in no time at all, so this is a good sign for this wine. The spice is mellower here than in the cider, more like a hint or undercurrent of cinnamon and cardamom that mellows out the cherry. It is medium-bodied and I really dig it.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+  Other Bloggers' Thoughts:
 
 [Wine Girl Wines](http://wgwines.com/dinner-with-wine-maker-phil-ryan-of-mcwilliams-winery) on the 2007 vintage
 

@@ -1,10 +1,10 @@
 ---
 title: "Handy Kitchen, Durham"
 date: "2010-05-17"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "durham-chinese"
   - "handy-kitchen"
   - "hunan-chicken"
@@ -44,6 +44,12 @@ Handy Kitchen has plenty of vegetarian options, and they also have a steamed men
 
 For me, I doubt I'll go back unless I have a shrimp toast craving.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
+
 
 _Reviewed 5.11.10._

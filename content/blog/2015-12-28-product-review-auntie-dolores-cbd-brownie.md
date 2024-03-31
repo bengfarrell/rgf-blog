@@ -1,10 +1,10 @@
 ---
 title: "Product Review: Auntie Dolores CBD Brownie"
 date: "2015-12-28"
-categories: 
+categories:
   - "food-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "auntie-dolores"
   - "brownie"
   - "cannabidiol"
@@ -25,7 +25,13 @@ Last month, I posted my first review of a cannabidiol product. It was [ViPova Te
 
 Products containing only hemp-derived CBD oil are legal in the USA (to my fullest understanding of the law, which is admittedly not comprehensive), and so when asked if I would review another, I said, sure, why not? I can be a food critic regardless of what that food contains. And thus, I agreed to try an edible made with CBD oil from Oakland-based [Auntie Dolores](http://auntiedolores.com/about-2/), a name inspired by Dolores Park across the Bay.
 
-\[caption id="attachment\_25422" align="aligncenter" width="500"\][![My sister and cousin at Dolores Park.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/dolores-park-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/dolores-park.jpg) My sister and cousin at Dolores Park.\[/caption\]
+
+
+
+<div class="caption">
+
+[![My sister and cousin at Dolores Park.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/dolores-park-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/dolores-park.jpg) My sister and cousin at Dolores Park.</div>
+
 
 _Auntie Dolores_ can be translated as “anti-pain,” if you’re getting whimsical and clever enough. The company explains their philosophy behind their goods in great detail on [the website.](http://auntiedolores.com/about-2/) I would summarize it as keeping a focus on quality ingredients and processes in all aspects of producing edibles, not just making sure the cannibidiols get delivered adequately in the final product. And what this dark chocolate, vegan, low-glycemic, preservative-free brownie is delivered in is adorable!
 

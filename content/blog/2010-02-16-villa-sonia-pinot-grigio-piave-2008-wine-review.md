@@ -1,10 +1,10 @@
 ---
 title: "Villa Sonia Pinot Grigio Piave 2008--Wine Review"
 date: "2010-02-16"
-categories: 
+categories:
   - "pinot-grigio-gris"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2008-vintage"
   - "casaba"
   - "no-juice-boxes"
@@ -20,7 +20,13 @@ The Villa Sonia Pinot Grigio Piave 2008 has very little color, which fits as it 
 
 While it's an interesting ride, the wine is pretty meh.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1")</div>
+
 
 **Other Bloggers' Thoughts:**
 

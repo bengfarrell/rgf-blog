@@ -1,10 +1,10 @@
 ---
 title: "Vimala's Curryblossom Cafe"
 date: "2011-01-11"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "restaurants"
-tags: 
+tags:
   - "chapel-hill"
   - "curryblossom"
   - "dining-chapel-hill"
@@ -24,7 +24,13 @@ tags:
 
 **Vimala’s Curryblossom Cafe** 431 West Franklin, the Courtyard Downtown Chapel Hill [Website](http://www.curryblossom.com/) $7--$17
 
-\[caption id="attachment\_2074" align="aligncenter" width="400" caption="The sign is much prettier than my bad photo shows."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/vimala11.jpg "vimala11")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/vimala11.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/vimala11.jpg "vimala11")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/vimala11.jpg)</div>
+
 
 Vimala’s Curryblossom Cafe has been in [Sandwhich’s](../../../../../?p=924) old space in the Chapel Hill Courtyard plaza since July. It is an Indian, order-at-the-counter restaurant, and we were excited to find a sitar player providing music on the evening we went. This is a very small space, so don’t be surprised if you don’t find a seat right away---that will be better once the weather warms up and the larger patio area can be used more comfortably.
 

@@ -1,10 +1,10 @@
 ---
 title: "Neal's Deli (Carrboro)"
 date: "2010-06-23"
-categories: 
+categories:
   - "dining-in-carrboro-nc"
   - "restaurants"
-tags: 
+tags:
   - "carrboro-lunch"
   - "cold-cauliflower-soup"
   - "gourmet-hot-dogs"
@@ -38,6 +38,12 @@ This was really good for a cauliflower fan like myself. The first spoonful taste
 
 Simple is a great word for Neal's Deli. The food I tried was simply done and simply good. I'm definitely going back for a hotdog. It's worth noting that a lot of their sandwiches and dogs featured sauerkraut, for those of you who are big fans of that. I'm not, but how fresh and crisp theirs looked might almost convince me to try it someday.
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+
 
 _Reviewed 6.7.10._

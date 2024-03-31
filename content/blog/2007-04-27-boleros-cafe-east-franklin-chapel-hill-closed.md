@@ -1,10 +1,10 @@
 ---
 title: "Bolero's Cafe (East Franklin, Chapel Hill) *CLOSED*"
 date: "2007-04-27"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "restaurants"
-tags: 
+tags:
   - "boleros-cafe"
   - "chapel-hill-dining"
 ---
@@ -17,4 +17,10 @@ Every table receives chips, salsa, and a creamy-speckled sauce that may have bee
 
 My dish was nothing to write home about as it was a bit bland but I'm interested to try more at another visit.
 
-\[caption id="attachment\_193" align="alignleft" width="40"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
+

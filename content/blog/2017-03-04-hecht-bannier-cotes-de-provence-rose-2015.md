@@ -1,11 +1,11 @@
 ---
 title: "Hecht &amp; Bannier Côtes de Provence Rosé 2015"
 date: "2017-03-04"
-categories: 
+categories:
   - "provencal-rose"
   - "rose-review"
   - "wine"
-tags: 
+tags:
   - "cotes-de-provence"
   - "hecht-bannier-cotes-de-provence-rose-2015"
   - "hecht-bannier"
@@ -27,7 +27,13 @@ At $19, perhaps this should be an any fortnight rosé rather than an any day one
 
 My rating:
 
-\[caption id="attachment\_24388" align="alignnone" width="40"\][![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 3/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 3/5</div>
+
 
 ##### **Other Bloggers’ Thoughts:**
 

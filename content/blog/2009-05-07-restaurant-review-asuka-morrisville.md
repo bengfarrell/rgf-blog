@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Asuka, Morrisville *Renovated*"
 date: "2009-05-07"
-categories: 
+categories:
   - "morrisville-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "asuka"
   - "japanese-fusion"
   - "morrisville-restaurants"
@@ -27,6 +27,12 @@ I began my meal with tempura soft shell crab (I know, not very adventurous) that
 
 Everyone else on the table had sushi and it was beautifully presented, often arranged in a curve rather than simple straight lines.  My companions raved over most of it and for that reason, coupled with a great waiter, good sake, and a relaxed ambience, the restaurant ranks a step up from where I'd place it for my food alone.  Guess I should have tried the sushi.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado11.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado11.gif "rating_avocado1") 3 stars</div>
+
 
 _Reviewed 4.25.09_

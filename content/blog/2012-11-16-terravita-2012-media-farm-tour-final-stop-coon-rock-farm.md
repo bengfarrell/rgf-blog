@@ -1,11 +1,11 @@
 ---
 title: "TerraVITA 2012 Media Farm Tour: Final Stop, Coon Rock Farm"
 date: "2012-11-16"
-categories: 
+categories:
   - "events"
   - "chapel-hill-north-carolina-travel"
   - "travel-product-review"
-tags: 
+tags:
   - "agriculture"
   - "bronze-rangers"
   - "chickens"
@@ -39,7 +39,13 @@ tags:
   - "zely-ritz"
 ---
 
-\[caption id="attachment\_5204" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012106.jpg "TerraVita2012106")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012106.jpg) Coon Rock Farm greenhouses.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012106.jpg "TerraVita2012106")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012106.jpg) Coon Rock Farm greenhouses.</div>
+
 
 It was a whirlwind day on the media farm tour, but our last stop still arrived sooner than expected. I may have been lulled into laziness by the delicious food at Boxcarr, the previous stop. [Coon Rock Farm](http://coonrockfarm.com/) was our final destination, and it’s owned by Richard Holcomb and Jamie DeMent.
 
@@ -47,37 +53,91 @@ It was a whirlwind day on the media farm tour, but our last stop still arrived s
 
 The farm is organic, and its production is equally divided between raising crops and raising animals. It’s nestled on the Eno River and consists of 55 acres, which is large enough that the owners run a program of interns, mostly college students, to help with its day-to-day activities.  At this time of the year, they have 3 to 4, but at the height of growing season, they may have as many as 15.
 
-\[caption id="attachment\_5178" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012080.jpg "TerraVita2012080")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012080.jpg) A few of those interns planting onions, garlic, and other vegetables for harvesting the green varieties in early spring.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012080.jpg "TerraVita2012080")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012080.jpg) A few of those interns planting onions, garlic, and other vegetables for harvesting the green varieties in early spring.</div>
+
 
 Coon Rock Farm, like many that take a sustainable approach to agriculture, has partnerships with other local businesses. Richard partly owns [Zely & Ritz](http://zelyandritz.com/) and [Piedmont](http://piedmontrestaurant.com/), two restaurants that feature all organic produce and sustainable meet, and the food waste is in turn used by Coon Rock Farm for compost. They also use chaff from Counter Culture’s coffee production as mulch for their blueberries.
 
-\[caption id="attachment\_5172" align="aligncenter" width="334"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012074.jpg "TerraVita2012074")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012074.jpg) Not blueberries, but blue blossoms from weeds that they let sprout up as feed for the animals.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012074.jpg "TerraVita2012074")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012074.jpg) Not blueberries, but blue blossoms from weeds that they let sprout up as feed for the animals.</div>
+
 
 Richard grew up farming, and his expertise was obvious as he guided us. Their balance between raising animals and raising crops came across to me as a very cyclical, efficient process. They refer to it on their website as “intensive rotational grazing.” At any given time, some of the acres will be producing vegetables and some will have been harvested and the animals moved onto them to clear away the remainders and any weeds they find tasty.
 
-\[caption id="attachment\_5173" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012075.jpg "TerraVita2012075")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012075.jpg) The sheep had been through here recently.\[/caption\]
 
-\[caption id="attachment\_5175" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012077.jpg "TerraVita2012077")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012077.jpg) Weeds that didn’t pass the sheep taste bud test were left.\[/caption\]
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012075.jpg "TerraVita2012075")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012075.jpg) The sheep had been through here recently.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012077.jpg "TerraVita2012077")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012077.jpg) Weeds that didn’t pass the sheep taste bud test were left.</div>
+
 
 The animals are moved multiple times a week, and they are 100% grass fed. Not long before our arrival the sheep had been taken through a Spanish peanut field, and Richard explained that they cleared it of other greenery but left the peanuts intact underground.
 
-\[caption id="attachment\_5176" align="aligncenter" width="334"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012078.jpg "TerraVita2012078")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012078.jpg) Richard showing off some peanuts.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012078.jpg "TerraVita2012078")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012078.jpg) Richard showing off some peanuts.</div>
+
 
 Most of their sheep are Dorpers that need no shearing, but this specific group was Tunis.
 
-\[caption id="attachment\_5177" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012079.jpg "TerraVita2012079")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012079.jpg) As seen from afar.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012079.jpg "TerraVita2012079")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012079.jpg) As seen from afar.</div>
+
 
 They can be hard to raise because of parasites, but if they are moved regularly, then the cycle of those parasites can be broken, usually allowing 3 months before bringing them back to any ground they’ve covered before.  The dogs on the farm are primarily for herding and guarding the sheep.
 
-\[caption id="attachment\_5185" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012087.jpg "TerraVita2012087")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012087.jpg) The maremma guard dog.\[/caption\]
 
-\[caption id="attachment\_5186" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012088.jpg "TerraVita2012088")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012088.jpg) A pack of border collie herding dogs that really, really wanted to play fetch.\[/caption\]
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012087.jpg "TerraVita2012087")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012087.jpg) The maremma guard dog.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012088.jpg "TerraVita2012088")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012088.jpg) A pack of border collie herding dogs that really, really wanted to play fetch.</div>
+
 
 We were led to a garden mainly growing leafy vegetables at present, though by now, temperatures have probably fallen too much to continue production. Baby lettuces are one of the most profitable crops, and Coon Rock Farm grows them in several different plantings throughout the year.
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012081.jpg "TerraVita2012081")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012081.jpg)
 
-\[caption id="attachment\_5181" align="aligncenter" width="334"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012083.jpg "TerraVita2012083")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012083.jpg) Nice color variation in lettuce types.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012083.jpg "TerraVita2012083")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012083.jpg) Nice color variation in lettuce types.</div>
+
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012085.jpg "TerraVita2012085")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012085.jpg)
 
@@ -99,7 +159,13 @@ They start laying eggs at 20 to 22 weeks old.  Richard said all the chickens go
 
 We also peeked inside Coon Rock Farm’s greenhouses.
 
-\[caption id="attachment\_5187" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012089.jpg "TerraVita2012089")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012089.jpg) Richard with the border collies leading the group.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012089.jpg "TerraVita2012089")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012089.jpg) Richard with the border collies leading the group.</div>
+
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012090.jpg "TerraVita2012090")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012090.jpg)
 
@@ -113,21 +179,51 @@ Squashes reigned supreme in the last greenhouse.
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012099.jpg "TerraVita2012099")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012099.jpg)
 
-\[caption id="attachment\_5198" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012100.jpg "TerraVita2012100")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012100.jpg) See the patty pans peeking through the leaves?\[/caption\]
 
-\[caption id="attachment\_5199" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012101.jpg "TerraVita2012101")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012101.jpg) Oblong summer squashes on this bush.\[/caption\]
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012100.jpg "TerraVita2012100")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012100.jpg) See the patty pans peeking through the leaves?</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012101.jpg "TerraVita2012101")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012101.jpg) Oblong summer squashes on this bush.</div>
+
 
 We took one more detour into another portion of the farm—the pig pens.
 
-\[caption id="attachment\_5200" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012102.jpg "TerraVita2012102")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012102.jpg) Pretty detour, huh?\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012102.jpg "TerraVita2012102")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012102.jpg) Pretty detour, huh?</div>
+
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012103.jpg "TerraVita2012103")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012103.jpg)
 
 Those were all young pigs who Richard said were rather put off by being separated out from the adults. Just like the ones at Boxcarr, their mad dashes back and forth made us all laugh. Perhaps it’s less of a laughing matter to then be led through the slaughterhouse, but that’s all part of the operations at Coon Rock Farm.
 
-\[caption id="attachment\_5202" align="aligncenter" width="384"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012104.jpg "TerraVita2012104")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012104.jpg) Our group heading toward the slaughterhouse on the left.\[/caption\]
 
-\[caption id="attachment\_5203" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012105.jpg "TerraVita2012105")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012105.jpg) A stove we passed on the way. I love the “more heat” motto on it.\[/caption\]
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012104.jpg "TerraVita2012104")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012104.jpg) Our group heading toward the slaughterhouse on the left.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012105.jpg "TerraVita2012105")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012105.jpg) A stove we passed on the way. I love the “more heat” motto on it.</div>
+
 
  
 
@@ -143,11 +239,23 @@ Further in were the refrigerated lockers for meat with chalkboards indicating pr
 
 That was all very familiar from my days in high school when I used to lead groups of nervous eighth graders through our school’s slaughterhouse so they could recoil at the hanging, draining animals that kids in our agricultural classes learned to raise, slaughter, and chop. We just walked past the doors to the meat lockers here, but those memories sure came back!
 
-\[caption id="attachment\_5207" align="aligncenter" width="334"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012109.jpg "TerraVita2012109")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012109.jpg) Guide to meat cuts on the slaughterhouse walls.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012109.jpg "TerraVita2012109")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012109.jpg) Guide to meat cuts on the slaughterhouse walls.</div>
+
 
 The farmers handle the chickens at Coon Rock Farm, but their facilities aren’t really large enough to take care of the larger animals in-house. I didn’t catch who they used to process most of their meat, but they do use Weeping Radish for any cured meats they offer as it’s one of the few that provide that service in the state.
 
-\[caption id="attachment\_5209" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012111.jpg "TerraVita2012111")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012111.jpg) Farewell, Coon Rock Farm.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012111.jpg "TerraVita2012111")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012111.jpg) Farewell, Coon Rock Farm.</div>
+
 
 I was impressed with the systems Coon Rock Farm has set up to operate as sustainably as possible, taking care of both their soil and their animals, giving them as full of a life as possible. Just keeping track of everything they are growing and where all their animals are at any given time was impressive enough for me, much less running the place.
 

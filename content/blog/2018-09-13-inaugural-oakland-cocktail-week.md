@@ -1,10 +1,10 @@
 ---
 title: "The Inaugural Oakland Cocktail Week 9/15-9/23!"
 date: "2018-09-13"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-oakland"
-tags: 
+tags:
   - "cocktails"
   - "oakland"
   - "oakland-cocktail-week"
@@ -12,11 +12,23 @@ tags:
 
 It's rare that a press release results in a post on _the Gourmez_, but I'll make an exception for the inaugural [Oakland Cocktail Week](https://www.oaklandcocktailweek.com/), September 15 through 23, 2018.
 
-\[caption id="attachment\_28327" align="aligncenter" width="500"\][![oakland cocktail week, cocktails, oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/OCW_SocialStatic_Square-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/OCW_SocialStatic_Square.jpg) Photo courtesy of Oakland Cocktail Week\[/caption\]
+
+
+
+<div class="caption">
+
+[![oakland cocktail week, cocktails, oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/OCW_SocialStatic_Square-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/OCW_SocialStatic_Square.jpg) Photo courtesy of Oakland Cocktail Week</div>
+
 
 [I've taken a tour before](http://thegourmez.com/2017/02/06/the-oakland-urban-wine-tour/) with Raquel Navarro of [See.Eat.Love](http://www.seeeatlove.com/), a founding company behind the Cocktail Week, so I'm confident it'll be well organized, and wow, does the early info seem to indicate just that! The first Oakland Cocktail Week will primarily consist of $10 unique, inventive cocktails available at over 40 Oakland, Alameda, and Emeryville venues throughout the week.
 
-\[caption id="attachment\_28329" align="aligncenter" width="334"\][![oakland cocktail week, ](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Plum-Bar-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Plum-Bar.jpg) Photo courtesy of Oakland Cocktail Week and Plum Bar\[/caption\]
+
+
+
+<div class="caption">
+
+[![oakland cocktail week, ](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Plum-Bar-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Plum-Bar.jpg) Photo courtesy of Oakland Cocktail Week and Plum Bar</div>
+
 
 Each locale, bar or restaurant, will have its own featured $10 drink that celebrates some facet of the spirit, people, and/or history of the area – though some of them are making a whole featured menu's worth! I'm booked up at the beginning of the week, but I'm going to hit up as many as I can toward the end of it. Here's what's catching my eye:
 
@@ -26,7 +38,13 @@ Each locale, bar or restaurant, will have its own featured $10 drink that celebr
 
 Keep in mind, those are only a few of over 40 options! For the full list of featured cocktails for Oakland Cocktail Week, [click here](https://www.oaklandcocktailweek.com/Cocktails). But imbibing on the rich cocktail lore and offerings of Oakland aren't all that's on the menu for Oakland Cocktail Week – though let's be real, it's the focus.
 
-\[caption id="attachment\_28326" align="aligncenter" width="500"\][![oakland cocktail week](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Mai-Tai-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Mai-Tai.jpg) Photo courtesy of Oakland Cocktail Week\[/caption\]
+
+
+
+<div class="caption">
+
+[![oakland cocktail week](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Mai-Tai-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Mai-Tai.jpg) Photo courtesy of Oakland Cocktail Week</div>
+
 
 There are [additional ticketed events](https://www.oaklandcocktailweek.com/events) throughout the week, with a portion of their proceeds going to support [ROC the Bay,](http://bit.ly/2wknA0N) a local nonprofit that brings together restaurant workers, employers, and consumers to create just and dignified workplaces for all, seeking to transform and lift-up the Bay Area’s restaurant industry by eliminating exploitation and discrimination. Not a bad reason to drink! What're the event highlights for me?
 
@@ -35,8 +53,20 @@ There are [additional ticketed events](https://www.oaklandcocktailweek.com/event
 
 There's also a Mai Tai tiki bar crawl, a cocktail competition and dance party, a cocktail pairing dinner at Hopscotch, and more! Seriously, check it out. Individual events range from free to $85.
 
-\[caption id="attachment\_28325" align="aligncenter" width="446"\][![oakland cocktail week and Dyafa](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Dyafa-446x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Dyafa.jpg) Photo courtesy of Oakland Cocktail Week and Dyafa\[/caption\]
+
+
+
+<div class="caption">
+
+[![oakland cocktail week and Dyafa](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Dyafa-446x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Dyafa.jpg) Photo courtesy of Oakland Cocktail Week and Dyafa</div>
+
 
 Wait are you waiting for? Start planning your cocktail calendar now, because it all begins in two days! Want to join me for a drink? Well, you know where to find me.
 
-\[caption id="attachment\_28328" align="aligncenter" width="500"\][![oakland cocktail week](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/OCW_team03-500x333.jpeg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/OCW_team03.jpeg) Photo courtesy of Oakland Cocktail Week\[/caption\]
+
+
+
+<div class="caption">
+
+[![oakland cocktail week](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/OCW_team03-500x333.jpeg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/OCW_team03.jpeg) Photo courtesy of Oakland Cocktail Week</div>
+

@@ -1,10 +1,10 @@
 ---
 title: "Cocktail Review--Mandarin Crush, Thai Cafe, Durham"
 date: "2009-06-16"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "cherry-brandy-cocktail"
   - "durham-cocktails"
   - "mandarin-crush"
@@ -20,6 +20,12 @@ And enjoy it I did.  The cocktail is mildly sweet with a bite from the brandy t
 
 The restaurant review will follow tomorrow!
 
-\[caption id="attachment\_59" align="aligncenter" width="40"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars</div>
+
 
 _Reviewed 6.4.09._

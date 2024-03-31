@@ -1,13 +1,13 @@
 ---
 title: "Charlottesville Blogging: Downtown Food and the Downtown Mall"
 date: "2012-07-20"
-categories: 
+categories:
   - "charlottesville-virginia-bar-reviews"
   - "coffee-shop"
   - "charlottesville-virginia-restaurant-reviews"
   - "restaurants"
   - "charlottesville-virginia-travel"
-tags: 
+tags:
   - "amphitheater"
   - "cafe-cubano"
   - "caprese-omelette"
@@ -68,9 +68,21 @@ The chicken was fairly flavorless; the spices in the coating were perhaps too de
 
 After dinner, our friend took us on a stroll through the Downtown Mall, Charlotte’s pedestrian shopping center that takes up a few brick-lined blocks with storefronts and eateries galore.
 
-\[caption id="attachment\_4610" align="aligncenter" width="500" caption="East portion of the Mall."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville09.jpg "Charlottesville09")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville09.jpg)\[/caption\]
 
-\[caption id="attachment\_4611" align="aligncenter" width="500" caption="One of many blocked off dining areas in the center of the Mall."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville10.jpg "Charlottesville10")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville10.jpg)\[/caption\]
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville09.jpg "Charlottesville09")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville09.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville10.jpg "Charlottesville10")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville10.jpg)</div>
+
 
 At the eastern end of the Mall is an outdoor amphitheater that hosts many shows, both local and national. There was a small brass band playing when we strolled by it the next day.
 
@@ -78,13 +90,25 @@ At the eastern end of the Mall is an outdoor amphitheater that hosts many shows,
 
 I found the large slate chalkboard much more intriguing, however. It’s Charlottesville’s monument to free speech, and anybody can write anything they like on it. Even the First Amendment engraved on the wall is not off limits.
 
-\[caption id="attachment\_4617" align="aligncenter" width="333" caption="You can barely make out the engraving beneath the layers of chalk."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville18.jpg "Charlottesville18")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville18.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville18.jpg "Charlottesville18")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville18.jpg)</div>
+
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville11.jpg "Charlottesville11")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville11.jpg)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville17.jpg "Charlottesville17")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville17.jpg)
 
-\[caption id="attachment\_4615" align="aligncenter" width="500" caption="The Mormons claimed a fair bit of the wall that week."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville16.jpg "Charlottesville16")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville16.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville16.jpg "Charlottesville16")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville16.jpg)</div>
+
 
 But most of those pictures were taken the next morning. That first night, dessert was on the agenda. We went to [Splendora’s](http://www.shebeen.com/) gelato café (317 East Main Street).
 
@@ -104,13 +128,31 @@ The next morning we were still powerless, as were hundreds of thousands of peopl
 
 The Downtown Mall was the only area that we knew had power, at least through generators, so we went back there for breakfast and some more pictures.
 
-\[caption id="attachment\_4614" align="aligncenter" width="333" caption="The three Virginian presidents."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville14.jpg "Charlottesville14")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville14.jpg)\[/caption\]
 
-\[caption id="attachment\_4619" align="aligncenter" width="333" caption="One of three restored theaters on the mall."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville21.jpg "Charlottesville21")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville21.jpg)\[/caption\]
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville14.jpg "Charlottesville14")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville14.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville21.jpg "Charlottesville21")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville21.jpg)</div>
+
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville27.jpg "Charlottesville27")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville27.jpg)
 
-\[caption id="attachment\_4625" align="aligncenter" width="500" caption="Street vendors. Strangely, they nearly all sold the same clothing."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville28.jpg "Charlottesville28")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville28.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville28.jpg "Charlottesville28")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville28.jpg)</div>
+
 
 All the restaurants were serving brunch, so I decided to choose one that was primarily a coffee shop to ensure that I had good coffee—I have priorities. It was [Café Cubano](http://www.cafecubano-cville.com/) (112 West Main Street).
 
@@ -138,11 +180,29 @@ We were unsure if any of the wineries would have power, but we decided to risk i
 
 The winery we chose, [Keswick Vineyards](http://www.keswickvineyards.com/) (1575 Keswick Winery Drive), was indeed open. Wine tasting would be had—hooray!
 
-\[caption id="attachment\_4628" align="aligncenter" width="500" caption="The winery"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville31.jpg "Charlottesville31")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville31.jpg)\[/caption\]
 
-\[caption id="attachment\_4626" align="aligncenter" width="500" caption="Outside the winery."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville29.jpg "Charlottesville29")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville29.jpg)\[/caption\]
 
-\[caption id="attachment\_4630" align="aligncenter" width="500" caption="The tasting room."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville30.jpg "Charlottesville30")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville30.jpg)\[/caption\]
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville31.jpg "Charlottesville31")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville31.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville29.jpg "Charlottesville29")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville29.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville30.jpg "Charlottesville30")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/Charlottesville30.jpg)</div>
+
 
 We went home with a bottle of their Les Vents d’Anges Viogner, which is similar to a chardonnay but less overwhelming in terms of butter and wood notes, and a bottle of their rosé, which was quite dry, just how I like my rosé. We also tried to hit up a nearby cidery, but they were closed for a wedding. Next time!
 

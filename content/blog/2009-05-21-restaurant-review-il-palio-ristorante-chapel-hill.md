@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Il Palio Ristorante, Chapel Hill"
 date: "2009-05-21"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "restaurants"
-tags: 
+tags:
   - "chapel-hill-restaurants"
   - "il-palio"
   - "lemon-pepper-pasta"
@@ -31,7 +31,13 @@ For dessert, I inhaled the strawberry crisp with pistachio and mint ice cream, b
 
 Overall, I savored my meal though my companion was not quite as impressed.  The confusion with the hostess was a bit off-putting but I'll just assume we didn't communicate well.  I must come back for $5 martini night on a Thursday!
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+
 
 Check out another [review](http://www.ericandleandra.com/wp/2009/05/19/triangle-restaurant-week-il-palio/) of Il Palio during Triangle Restaurant Week at Eric and Leandra's site, another Durham-based food (and travel and wine) blogging site!
 

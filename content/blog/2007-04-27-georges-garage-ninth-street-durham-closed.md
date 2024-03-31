@@ -1,10 +1,10 @@
 ---
 title: "George's Garage (Ninth Street, Durham) *CLOSED*"
 date: "2007-04-27"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "durham-dining"
   - "georges-garage"
   - "ninth-street"
@@ -18,4 +18,10 @@ Mr. Gourmez' sashimi platter was very pretty but as I'm not a big fan of raw foo
 
 My meal was accompanied by an [Alex Martini](http://www.thegourmez.com/gourmez/cocktails/review.php?id=12&type=), which got high marks. Overall, the bland atmosphere was overshadowed by dishes that definitely exceeded expectations. I'll just sit by the bar next time.
 
-\[caption id="attachment\_49" align="alignleft" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+

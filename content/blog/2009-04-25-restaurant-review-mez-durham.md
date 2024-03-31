@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Mez, Durham"
 date: "2009-04-25"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "jibarra"
   - "mez-durham"
   - "mez-mexican"
@@ -29,4 +29,10 @@ For dessert, I feasted on their tres leches cake, which was very yummy if a tad 
 
 If I were rating this solely on the food, I would probably give it an avocado, but the difficulty hearing, menu description problems, and a server with a penchant for taking away food and drinks before they were finished makes it a little less likely I’ll be back.Also, a twenty percent tip is added to large parties, which is what I usually tip as a former server myself, but I think it’s a bit high to expect, rather than hope, of your guests.Mez is an interesting addition to the Mexican offerings in the area but I think I’ll be sticking to my local taqueria or making the trek out to Jibarra when the craving for my comfort food strikes.
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+

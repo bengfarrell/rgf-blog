@@ -1,7 +1,7 @@
 ---
 title: "Virginia Wine Tasting at the Fox Liquor Bar"
 date: "2012-11-19"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-raleigh-nc"
   - "red-bordeaux"
@@ -11,7 +11,7 @@ categories:
   - "sparkling-wine-review"
   - "viognier"
   - "white-wine-reviews"
-tags: 
+tags:
   - "barbara-ensrud"
   - "boxwood"
   - "brut"
@@ -51,7 +51,13 @@ I passed over [Foggy Ridge Cider](http://www.foggyridgecider.com/) and the charm
 
 Kerry also sampled their Cru, which they are selling as an aperitif. It’s a blend of Chardonnay grapes with Chardonnay brandy that is aged in bourbon barrels.
 
-\[caption id="attachment\_5225" align="aligncenter" width="600"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox041.jpg "VA Wine at Fox04")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox041.jpg) It’s on the right.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox041.jpg "VA Wine at Fox04")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox041.jpg) It’s on the right.</div>
+
 
 The Cru was not overly sweet, which I prefer, and the mesquite elements from the bourbon barrels were quite tasty. It’s a nicely balanced aperitif. You can give it a try when Trump expands distribution in NC statewide next year.
 
@@ -59,11 +65,23 @@ The Cru was not overly sweet, which I prefer, and the mesquite elements from the
 
 I came to the [Boxwood Winery](http://www.boxwoodwinery.com/) table just as Rachel Martin, their executive vice president and resident promoter for the family-owned vineyard, was packing up. She was happy to put that off for a few more minutes so I could try her wines.
 
-\[caption id="attachment\_5226" align="aligncenter" width="400"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox051.jpg "VA Wine at Fox05")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox051.jpg) Rachel modeling the 2010 Boxwood.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox051.jpg "VA Wine at Fox05")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox051.jpg) Rachel modeling the 2010 Boxwood.</div>
+
 
 In Virginian wine terms, they are newcomers, first planting their vines in 2004. They follow a different Bordeaux blending style for each of their wines, using 5 varietals in all. The vineyard is sustainable, and they only produce 2500 cases.
 
-\[caption id="attachment\_5227" align="aligncenter" width="436"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox061.jpg "VA Wine at Fox06")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox061.jpg) The 2010 Boxwood Topiary\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox061.jpg "VA Wine at Fox06")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox061.jpg) The 2010 Boxwood Topiary</div>
+
 
 I tried the Topiary first, and I must say, I love their label art. The wine was densely, darkly red, and Rachel explained that is the result of the bleed they do of the grapes. For me, the wine was too tightly tannic. I thought the same of the Boxwood, though the raspberry smell was quite appealing. The wines weren’t quite there yet in aging, and I’ll be interested in how they turn out a few years from now. In the meantime, Boxwood as a brand impressed. Rachel’s style and that of the brand in general was fun and makes me want to give them a shot in the future.
 

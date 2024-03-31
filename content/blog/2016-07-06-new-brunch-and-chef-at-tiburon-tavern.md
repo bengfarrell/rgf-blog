@@ -1,11 +1,11 @@
 ---
 title: "New Brunch--and Chef!--at Tiburon Tavern"
 date: "2016-07-06"
-categories: 
+categories:
   - "dining-in-tiburon"
   - "restaurants"
   - "travel-product-review"
-tags: 
+tags:
   - "bay-area-overnights"
   - "beet-cocktails"
   - "bellini"
@@ -24,7 +24,13 @@ tags:
   - "tiburon-tavern"
 ---
 
-\[caption id="attachment\_26241" align="aligncenter" width="900"\][![Tiburon Shoreline](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Tiburon-01_1-1024x160.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Tiburon-01_1.jpg) View of Tiburon, CA\[/caption\]
+
+
+
+<div class="caption">
+
+[![Tiburon Shoreline](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Tiburon-01_1-1024x160.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Tiburon-01_1.jpg) View of Tiburon, CA</div>
+
 
 [The Lodge at Tiburon](http://lodgeattiburon.com/), and its restaurant, [the Tiburon Tavern,](http://lodgeattiburon.com/amenities/tiburon-tavern/) are located just a hop and skip from the scenic old shipping town's shoreline and historic Main Street. You won't even need to jump.
 
@@ -78,6 +84,12 @@ In case you can't tell, I think brunch at Tiburon Tavern is a great choice. At $
 
 I'll write up a separate post on the Lodge itself soon, with pictures of the grounds and that nice room upgrade. Thanks again, to Chef L'Esperance, General Manager Brian, and everyone at the Lodge at Tiburon and the Tiburon Tavern for the great introduction to Tiburon hospitality. Here's looking at you, kid.
 
-\[caption id="attachment\_26242" align="aligncenter" width="500"\][![ Tiburon's downtown sculpture.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Tiburon-09-500x484.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Tiburon-09.jpg) Tiburon's downtown sculpture.\[/caption\]
+
+
+
+<div class="caption">
+
+[![ Tiburon's downtown sculpture.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Tiburon-09-500x484.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Tiburon-09.jpg) Tiburon's downtown sculpture.</div>
+
 
 [![Tiburon Tavern Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16862026/minilink)](https://www.zomato.com/tiburon-ca/tiburon-tavern-tiburon "View Menu, Reviews, Photos & Information about Tiburon Tavern, Tiburon and other Restaurants in Tiburon") _Brunch took place 26 June 2016._

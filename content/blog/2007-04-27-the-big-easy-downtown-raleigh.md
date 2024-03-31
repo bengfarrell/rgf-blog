@@ -1,10 +1,10 @@
 ---
 title: "The Big Easy (Downtown Raleigh)"
 date: "2007-04-27"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "downtown-raleigh-dining"
   - "the-big-easy"
 ---
@@ -19,4 +19,10 @@ I went for the Taste of Louisiana meal, which offers gumbo, jambalaya, red beans
 
 From other guests, I learned that the shrimp was overcooked and if you're going to serve fried spinach, it should really be labeled as such on the menu. My [drinks](http://www.thegourmez.com/gourmez/cocktails/) were pretty good; I heard rave reviews of their bloody marys, but the food just failed to deliver.
 
-\[caption id="attachment\_193" align="alignleft" width="40"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
+

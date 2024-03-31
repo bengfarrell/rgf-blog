@@ -1,10 +1,10 @@
 ---
 title: "The Union Square Hilton’s Urban Tavern"
 date: "2017-02-10"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "restaurants"
-tags: 
+tags:
   - "buffalo-chicken-meatballs"
   - "chicken-wine-bottle"
   - "deep-friend-deviled-eggs"
@@ -24,7 +24,13 @@ tags:
 
 _Obligatory disclaimer: My Urban Tavern meal, reviewed in this post, was entirely free to me._
 
-\[caption id="attachment\_26919" align="aligncenter" width="500"\][![Urban Tavern horse Union Square Hilton](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_15-500x356.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_15.jpg) The restaurant’s central showpiece at Christmastime: a colorful, metallic horse.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Urban Tavern horse Union Square Hilton](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_15-500x356.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_15.jpg) The restaurant’s central showpiece at Christmastime: a colorful, metallic horse.</div>
+
 
 When I visited [the Cityscape Lounge](http://thegourmez.com/2016/11/15/cityscape-san-francisco/) last fall, high up on the 46th floor of the Union Square Hilton, Executive Chef Michael Vaughn was still working on the vision for remodeling the hotel’s ground floor restaurant, [Urban Tavern](http://www.urbantavernsf.com/). But he was full of excitement for the project, describing it as the next stage in the evolution of the gastro pub. As of December, and with Chef Michael Raub heading up this branch of the Hilton’s culinary program, that vision has been realized.
 

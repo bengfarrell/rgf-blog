@@ -1,10 +1,10 @@
 ---
 title: "Pink's Hot Dogs"
 date: "2015-01-22"
-categories: 
+categories:
   - "los-angeles-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "celebrities"
   - "dinner"
   - "hollywood"
@@ -52,7 +52,13 @@ Because yes, there will be a next time. You can bet I will be going to Pink's ag
 
 If you're interested in seeing all those crazy combinations, _Serious Eats_ actually ordered, photographed, and consumed them in 2013! That slideshow [is located here.](http://www.seriouseats.com/2013/01/we-eat-every-hot-dog-at-pinks-in-hollywood-los-angeles-menu-chili-dogs.html)
 
-\[caption id="attachment\_9481" align="aligncenter" width="500"\]![Thank you, Pink's!](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/me-at-pinks-500x5001.jpg) Foodie mission acocomplished!\[/caption\]
+
+
+
+<div class="caption">
+
+![Thank you, Pink's!](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/me-at-pinks-500x5001.jpg) Foodie mission acocomplished!</div>
+
 
 **Pink's Hot Dogs** 709 North La Brea Avenue Hollywood, Los Angeles [Website](http://www.pinkshollywood.com/) $3.80--$10.25
 

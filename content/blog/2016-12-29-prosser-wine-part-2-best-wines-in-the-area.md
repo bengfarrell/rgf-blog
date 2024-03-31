@@ -1,7 +1,7 @@
 ---
 title: "Prosser Wine Part 2: Best Wines in the Area"
 date: "2016-12-29"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "champagne"
   - "dessert-wine-reviews"
@@ -14,7 +14,7 @@ categories:
   - "travel-product-review"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "14-hands"
   - "alexandria-nicole"
   - "arisol"
@@ -37,19 +37,43 @@ tags:
   - "winemakers-loft"
 ---
 
-\[caption id="attachment\_26840" align="aligncenter" width="500"\][![14 Hands Prosser Wine tasting room](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-038-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-038.jpg) 14 Hands Winery, named after the height of the Horse Heaven Hills wild mustangs.\[/caption\]
+
+
+
+<div class="caption">
+
+[![14 Hands Prosser Wine tasting room](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-038-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-038.jpg) 14 Hands Winery, named after the height of the Horse Heaven Hills wild mustangs.</div>
+
 
 I don't know a lot about Washington wine. I'm aware Yakima Valley is a wine destination, because my mother lives in little Tieton to the north of Yakima itself. But my family doesn't drink, so I've only gone tasting out there once.
 
-\[caption id="attachment\_26859" align="aligncenter" width="500"\][![Naches Heights vineyard gomez girls](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/naches-heights-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/naches-heights.jpg) At Naches Heights Vineyard with my mom and sister.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Naches Heights vineyard gomez girls](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/naches-heights-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/naches-heights.jpg) At Naches Heights Vineyard with my mom and sister.</div>
+
 
 As much as I know I need to visit more wineries local to Yakima on family visits, I _really_ know now that an hour southeast lies another wine destination that's on even fewer radars: Prosser, WA. But if my experience is any indication, Prosser is ready for its turn in the limelight.
 
-\[caption id="attachment\_26861" align="aligncenter" width="500"\][![Prosser wine seven gables](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-035-500x405.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-035.jpg) A table of wine writers carbing up for a day of Prosser Wine!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Prosser wine seven gables](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-035-500x405.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-035.jpg) A table of wine writers carbing up for a day of Prosser Wine!</div>
+
 
 **Obligatory disclaimer:** That opinion is formed from a media trip I took this last October, sponsored by [the Prosser Wine Network](http://prosserwinenetwork.com/), which means all the wine I'm about to discuss was free to me to taste.
 
-\[caption id="attachment\_26862" align="aligncenter" width="500"\][![prosser wine bordeaux walter clore](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-244-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-244.jpg) Breaking down Bordeaux at the Walter Clore Center.\[/caption\]
+
+
+
+<div class="caption">
+
+[![prosser wine bordeaux walter clore](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-244-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-244.jpg) Breaking down Bordeaux at the Walter Clore Center.</div>
+
 
 And oh, there was a lot of it! A count of my notebook yields 68 wines tasted while I learned, over two and a half days, about this town situated on the edge of the Yakima Valley and Horse Heaven Hills appellations. And of those 68 wines, I rated 10% of them as high as I could. That's astoundingly good! I'm now going to share them with you, you lucky dogs. So here are my top wines from the Prosser area, all awarded a 5/5.
 
@@ -59,11 +83,23 @@ And oh, there was a lot of it! A count of my notebook yields 68 wines tasted whi
 
 This was the first wine tried on the trip, but I don't attribute the high score to the freshness of my palate. The wine's almond notes simply spoke to me, reminding me of Chinese almond cookies. Add bourbon vanilla, pear, and golden delicious apples and you have a fruity bubbly that knows how to linger. Winemaker Keith Kenison takes a hands-off approach to his 14 Hands reserve line, trusting in the fruit to tell their own story. As he explained, they only make reserve bottles when the fruit merits it.
 
-\[caption id="attachment\_26844" align="aligncenter" width="500"\][![Keith Kenison 14 hands winemaker prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-063-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-063.jpg) Winemaker Keith Kenison\[/caption\]
+
+
+
+<div class="caption">
+
+[![Keith Kenison 14 hands winemaker prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-063-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-063.jpg) Winemaker Keith Kenison</div>
+
 
 The [14 Hands Winery](https://www.14hands.com/our-winery/visit-us) (660 Frontier Rd., Prosser) is the state's third largest, and like the first and second, it is owned by Ste. Michelle Wine Estates. A processing plant where 95% of all Ste. Michelle Wine grapes are sampled is located right outside 14 Hands' tasting room.
 
-\[caption id="attachment\_26841" align="aligncenter" width="407"\][![grape sampling harvest ste. michelle wines prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-044-407x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-044.jpg) Sampling grapes during harvest.\[/caption\]
+
+
+
+<div class="caption">
+
+[![grape sampling harvest ste. michelle wines prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-044-407x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-044.jpg) Sampling grapes during harvest.</div>
+
 
 Many of the smaller wineries in the Prosser area sell grapes to Ste. Michelle or to the Mercer family, often using the larger companies as their primary client before making their own wines from their own grapes. That's true of my next top wine on this list.
 
@@ -77,11 +113,23 @@ We met winemaker Andrew Martinez at Phinny Hill in the Horse Heaven Hills, where
 
 That same hill is where the Martinez family has owned a vineyard since 1981, and it's where the grapes for their winery, the second Hispanic-owned one in the state, come from. The view was lovely, but the wines we tried shined nearly as much as Andrew's personality, making them fantastic.
 
-\[caption id="attachment\_26858" align="aligncenter" width="334"\][![Winemaker Andrew Martinez & martinez prosser wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-356-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-356.jpg) Winemaker Andrew Martinez\[/caption\]
+
+
+
+<div class="caption">
+
+[![Winemaker Andrew Martinez & martinez prosser wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-356-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-356.jpg) Winemaker Andrew Martinez</div>
+
 
 The 2011 Martinez & Martinez Cabernet Sauvignon was a wonderfully precise blend that was cool going down and left with a pleasing tingle, a huntress in a fantasy novel making her way through a forest of fennel, anise, caper, grass, evergreen, strawberry, cherry, and blackberry all bound together with smoke. Their crowd-pleasing May Mae Rosé is what Martinez & Martinez is known for, but this bottle is what should secure the family's winemaking legacy. With only 1800 cases of wine produced annually by Martinez & Martinez, the 2011 vintage is no longer available, but you can [secure the 2013 online](http://www.martinezwine.com/shop/2013-cabernet-sauvignon/) or at their tasting room (357 Port Avenue, Studio C, Prosser).
 
-\[caption id="attachment\_26860" align="aligncenter" width="1000"\][![The Martinez & Martinez patio at the Winemaker's Studio prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/WinemakersStudio2.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/WinemakersStudio2.jpg) The Winemakers Loft patio, home of the Martinez & Martinez tasting room.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Martinez & Martinez patio at the Winemaker's Studio prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/WinemakersStudio2.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/WinemakersStudio2.jpg) The Winemakers Loft patio, home of the Martinez & Martinez tasting room.</div>
+
 
 The next entry was also poured by Andrew, though it's not his wine. Instead, this label is the largest and oldest in the state.
 
@@ -89,7 +137,13 @@ The next entry was also poured by Andrew, though it's not his wine. Instead, thi
 
 Tasting this wine by way of Andrew Martinez is, to me, emblematic of the cooperation and genuine desire wineries in this area have to help each other succeed, whether they are tiny or titanic in scope.
 
-\[caption id="attachment\_26842" align="aligncenter" width="500"\][![Ste. Michelle wine vats Prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-045-500x351.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-045.jpg) Here's some of those titanic Chateau Ste. Michelle vats at 14 Hands.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Ste. Michelle wine vats Prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-045-500x351.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-045.jpg) Here's some of those titanic Chateau Ste. Michelle vats at 14 Hands.</div>
+
 
 I sensed no resentment between the bigger and smaller players in Prosser, but rather, appreciation for helping each other grow no matter the size. I'm not sure why Andrew chose this specific wine to share with us, but I'm glad he did.
 
@@ -121,7 +175,13 @@ And this wine embraces that apricot fully!  A white flower nose entices you int
 
 Why am I singling out a winery rather than a single wine for an honorable mention here? Because I didn't score a single Daven Lore wine as 5/5….but I did score three of them as 4.5/5! I think that qualifies them for a mention, and our visit to Daven Lore was certainly one of the most memorable of the trip.
 
-\[caption id="attachment\_26847" align="aligncenter" width="334"\][![Winemaker Gordon Taylor Daven Lore davenlore ](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-119-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-119.jpg) Winemaker Gordon Taylor\[/caption\]
+
+
+
+<div class="caption">
+
+[![Winemaker Gordon Taylor Daven Lore davenlore ](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-119-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-119.jpg) Winemaker Gordon Taylor</div>
+
 
 I think you can see why? Owned by partners Gordon Taylor and Joan Davenport, Daven Lore's people are full of personality that makes its way into the bottle, and oh, the stories I imagine those bottles could tell. There's also something to be said for the appeal of drinking at twilight – the stories _I_ could tell just pondering these views, and part of that is knowing that fire touched this stretch of the hills just two months before we visited.
 
@@ -129,11 +189,23 @@ I think you can see why? Owned by partners Gordon Taylor and Joan Davenport, Dav
 
 Perhaps that's why the reds spoke to me most; they provide warmth when looking out at what might have been. The 2013 Tempranillo has characteristic spice but a light body and stirring black currant and mulberry. The 2012 Aridisol Red is a grenache, syrah, and mourvedre blend full of inky hibiscus with strawberry jello fruit. The 2013 Durif, the predecessor of the petite sirah grape, had the presence of a purposefully placed dried bouquet in a tea room with boysenberry and plenty of leaves. All three wines are $28.50 and available for purchase from [the Daven Lore online store](http://www.davenlore.com/our-wines/).
 
-\[caption id="attachment\_26849" align="aligncenter" width="334"\][![daven lore davenlore prosser wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-122-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-122.jpg) Which will you choose?\[/caption\]
+
+
+
+<div class="caption">
+
+[![daven lore davenlore prosser wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-122-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-122.jpg) Which will you choose?</div>
+
 
 Wow, that's a lot of great wine at blessedly affordable prices. And there's still so much more ground for us to cover in the Prosser vines…
 
-\[caption id="attachment\_26850" align="aligncenter" width="500"\][![Domanico Cellars prosser wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-150-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-150.jpg) Domanico Cellars Vineyard\[/caption\]
+
+
+
+<div class="caption">
+
+[![Domanico Cellars prosser wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-150-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-150.jpg) Domanico Cellars Vineyard</div>
+
 
 I hope you'll be back to walk them with me.
 

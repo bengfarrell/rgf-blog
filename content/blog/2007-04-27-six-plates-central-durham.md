@@ -1,10 +1,10 @@
 ---
 title: "six plates (Central Durham) *REOPENED as Black Twig Cider*"
 date: "2007-04-27"
-categories: 
+categories:
   - "bars-in-durham-nc"
   - "restaurants"
-tags: 
+tags:
   - "central-durham-dining"
   - "six-plates"
   - "wine-bar"
@@ -20,4 +20,10 @@ First and foremost, the atmosphere is fabulous. It's like a gothic mansion witho
 
 We shared a cheese and meat plate, each with intriguing accoutrements that I can't remember. Sorry, I didn't have my notebook with me! Both plates were good but quite steep at $11. The ingredients were definitely top-notch but sparse for that price. Presentation was lovely, though.
 
-\[caption id="attachment\_49" align="alignleft" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+

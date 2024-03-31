@@ -1,10 +1,10 @@
 ---
 title: "Tandoor (East Franklin, Chapel Hill)"
 date: "2007-04-27"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "restaurants"
-tags: 
+tags:
   - "chapel-hill-restaurant"
   - "tandoor"
 ---
@@ -25,4 +25,10 @@ For dessert, we received small saucers of a plain rice pudding. I'm never one to
 
 I'll definitely head back to Tandoori, as it's the best Indian food I've had yet in the Triangle. As you can tell, I wasn't thrilled, just satisfied, so if you have somewhere you think I should try instead, please let me know! I'm not sure anywhere else could beat the price for the dinner for two, however. A good value when you're in the need of some naan.
 
-\[caption id="attachment\_55" align="alignleft" width="40"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+

@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Amelia Cafe, Brightleaf Square, Durham"
 date: "2009-09-15"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "amelia-cafe-durham"
   - "brightleaf-square-dessert"
   - "coffee-shop-durham"
@@ -51,6 +51,12 @@ It was my idea of heaven.  Rich dark chocolate crust, with a rich dark chocolat
 
 If the crepes are half as good as the focaccia and tart, this will fast become one of my regular destinations.  And it actually stays open reasonably late, until 9:30 pm M-Sat!
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+
 
 _Reviewed 9.8.09._

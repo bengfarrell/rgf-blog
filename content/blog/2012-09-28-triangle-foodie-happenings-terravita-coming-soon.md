@@ -1,9 +1,9 @@
 ---
 title: "Triangle Foodie Happenings: TerraVITA Coming Soon!"
 date: "2012-09-28"
-categories: 
+categories:
   - "events"
-tags: 
+tags:
   - "2012"
   - "andrea-resuing"
   - "beer-festival"
@@ -33,11 +33,29 @@ TerraVITA features "some of the finest biodynamic and organically grown wines an
 
 A couple of years ago, I attended the first **Grand Tasting on the Green**, and here are some highlight pictures from that experience.
 
-\[caption id="" align="aligncenter" width="361" caption="Tea display from Tea Chi."\]![](http://www.blastanova.com/photoalbum/Events/Terra%20Vita/terravita23.JPG "TerraVITA 23")\[/caption\]
 
-\[caption id="" align="aligncenter" width="540" caption="Goat cheese panna cotta from the Fearrington Inn restaurant."\]![](http://www.blastanova.com/photoalbum/Events/Terra%20Vita/terravita15.JPG "TerraVITA 15")\[/caption\]
 
-\[caption id="" align="aligncenter" width="540" caption="Venison on brioche from Nana's."\]![](http://www.blastanova.com/photoalbum/Events/Terra%20Vita/terravita07.JPG "TerraVITA 07")\[/caption\]
+
+<div class="caption">
+
+![](http://www.blastanova.com/photoalbum/Events/Terra%20Vita/terravita23.JPG "TerraVITA 23")</div>
+
+
+
+
+
+<div class="caption">
+
+![](http://www.blastanova.com/photoalbum/Events/Terra%20Vita/terravita15.JPG "TerraVITA 15")</div>
+
+
+
+
+
+<div class="caption">
+
+![](http://www.blastanova.com/photoalbum/Events/Terra%20Vita/terravita07.JPG "TerraVITA 07")</div>
+
 
 You can read my full post on that year's Grand Tasting [here](http://www.rebeccagomezfarrell.com/2010/10/terravita-the-first-biodynamic-and-sustainable-food-and-drink-fair-of-the-southeast/ "TerraVITA 2010"). Advance tickets are $65 or $55 without alcohol. Tickets can be purchased [here](http://www.terravitaevent.com/TerraVITA/BuyTKTS.html "TerraVITA tickets"). The full list of participating restaurants/beverage vendors can be seen [here](http://www.terravitaevent.com/TerraVITA/2012Participants.html "TerraVITA participants"), and it includes local favorites like Herons, Acme, Crumb, Market, and Escazu.
 

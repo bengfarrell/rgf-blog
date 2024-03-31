@@ -1,9 +1,9 @@
 ---
 title: "Order an Autographed Gift of Wings Unseen by 12/16!"
 date: "2017-12-06"
-categories: 
+categories:
   - "writing"
-tags: 
+tags:
   - "author-signature"
   - "fantasy"
   - "gift-ideas"
@@ -17,7 +17,13 @@ tags:
 
 Apologies for a brief diversion from food and drink for an announcement for my day job - fiction writing! We're only 20 days out from Christmas, and thus the time for gift giving is upon us! For $15, you can send a signed, personalized copy of my epic fantasy, _Wings Unseen_, to anyone you love - heck, it's cool if you send it to someone you only kind of like, too. ;)
 
-\[caption id="attachment\_10756" align="aligncenter" width="320"\]![wings unseen, book, epic fantasy](http://www.rebeccagomezfarrell.com/wp-content/uploads/2017/12/Octopus-Launch-15.jpg) My friends, Paul and Ann, whom I kind of like, I guess, getting their signed copies at my book launch.\[/caption\]
+
+
+
+<div class="caption">
+
+![wings unseen, book, epic fantasy](http://www.rebeccagomezfarrell.com/wp-content/uploads/2017/12/Octopus-Launch-15.jpg) My friends, Paul and Ann, whom I kind of like, I guess, getting their signed copies at my book launch.</div>
+
 
 $15 includes the book, and my signature and a personal message, filled out from your instructions on whom I should address that message too. It also includes shipping costs! What is _Wings Unseen_? [Here's my full page on it and a close-up of the cover.](http://www.rebeccagomezfarrell.com/creative-works/wings-unseen/)
 

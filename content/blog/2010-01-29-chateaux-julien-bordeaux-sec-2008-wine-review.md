@@ -1,10 +1,10 @@
 ---
 title: "Chateau Julian Bordeaux Sec 2008--Wine Review"
 date: "2010-01-29"
-categories: 
+categories:
   - "bordeaux-sec"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2008-vintage"
   - "appellations"
   - "chateaux-julien-bordeaux-sec"
@@ -27,6 +27,12 @@ That's a lot of expectation for any wine to handle, but the Chateau Julian Borde
 
 Couldn't find any!
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+
 
 _Reviewed by the Gourmez 1.13.10._

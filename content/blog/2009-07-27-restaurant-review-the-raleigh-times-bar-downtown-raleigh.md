@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--The Raleigh Times Bar, Downtown Raleigh"
 date: "2009-07-27"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "avocado-sandwiches"
   - "belgian-beers"
   - "raleigh-bars"
@@ -35,4 +35,10 @@ While the food was just okay, the relaxed and hip atmosphere of The Raleigh Time
 
 _Reviewed 7.17.09._
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+

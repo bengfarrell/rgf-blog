@@ -1,10 +1,10 @@
 ---
 title: "Condesa de Sarabella Viura 2008 -- Wine Review"
 date: "2009-12-04"
-categories: 
+categories:
   - "macabeo-viura"
   - "white-wine-reviews"
-tags: 
+tags:
   - "apple-nose"
   - "condesa-de-sarabella-viura-2008"
   - "notes-cream-kiwi-green-grapes"
@@ -16,7 +16,13 @@ Wine: **Condesa de Sarabella Viura 2008** Region:  Spain
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/condesa 004.jpg)
 
-This pleasant wine starts with a faint nose of apples.  A mild sweetness rolls over your tongue until it fades to minerality, with a twist of lime. Sweet cream, kiwi, and fresh green grapes usher it to the back of your throat. \[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+This pleasant wine starts with a faint nose of apples.  A mild sweetness rolls over your tongue until it fades to minerality, with a twist of lime. Sweet cream, kiwi, and fresh green grapes usher it to the back of your throat.
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 **Other Bloggers' Thoughts:**
 

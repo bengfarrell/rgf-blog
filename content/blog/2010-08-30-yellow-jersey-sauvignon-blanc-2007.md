@@ -1,10 +1,10 @@
 ---
 title: "Yellow Jersey Sauvignon Blanc 2007"
 date: "2010-08-30"
-categories: 
+categories:
   - "sauvignon-blanc"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2007"
   - "butterscotch"
   - "honeydew"
@@ -22,7 +22,13 @@ A plastic bottle of wine!? What is this world coming to? Eh, I'm trying to work 
 
 There's no nose to speak of. The taste is mineral and bright with lime and lemon notes. There's fruit, but it's minimal, perhaps some honeydew and lychee. It's a thin-bodied wine. I like the hint of butterscotch running through it, but mostly, I like white wines that have that minerality as their main component.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+  Other Bloggers' Thoughts:
 
 [Under the Grape Tree](http://underthegrapetree.blogspot.com/2009/02/alfonse-checks-in-with-some-faves-for.html)
 

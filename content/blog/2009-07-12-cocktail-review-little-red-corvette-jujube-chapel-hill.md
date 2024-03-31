@@ -1,10 +1,10 @@
 ---
 title: "Cocktail Review--Little Red Corvette, Jujube, Chapel Hill"
 date: "2009-07-12"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "agave-syrup"
   - "cocktail-review"
   - "hibiscus"
@@ -22,7 +22,13 @@ Hibiscus is a great choice for a tequila cocktail.  It has a strong punch that 
 
 Final Verdict?  A tad too sweet for it to be a masterpiece but it's close.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+
 
  
 

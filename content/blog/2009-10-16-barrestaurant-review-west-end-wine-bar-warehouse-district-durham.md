@@ -1,10 +1,10 @@
 ---
 title: "Bar/Restaurant Review--West End Wine Bar, Warehouse District (Durham)"
 date: "2009-10-16"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "tasting-rooms-in-durham-nc"
-tags: 
+tags:
   - "add-new-tag"
   - "durham-nightlife"
   - "durham-wine"
@@ -43,6 +43,12 @@ I think I might be partial to Chapel Hill's location as I like my bars somewhat 
 
 I haven't tried the Cellar, West End Wine Bar's liquor and music club, at either location, so sorry, can't fill you in on those yet!
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 10.9.09._

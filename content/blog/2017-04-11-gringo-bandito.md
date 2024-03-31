@@ -1,10 +1,10 @@
 ---
 title: "Gringo Bandito Hot Sauce Line"
 date: "2017-04-11"
-categories: 
+categories:
   - "food-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "dexter-holland"
   - "facebook-live"
   - "gringo-bandito"
@@ -43,7 +43,13 @@ I loved this hot sauce. As you can see in the video, its strong, roasted flavor 
 
 The final sauce is the hottest one Gringo Bandito offers, featuring peppers with names like Scorpion and Bhut Jolokia, that last one being better known as the Ghost Pepper. Mr. Holland must have plumbed the depths of the jungle—or the farmer’s market stalls—to find them. It’ll tingle nose hairs right away and is best suited for people looking to challenge their resistance to spice’s eternal flame; in other words, a little bit will go a long way with this one. But that vibrant orange coloring may tempt the brave into using more than is wise. Ah, the perils of hot sauce love.
 
-\[caption id="attachment\_27021" align="aligncenter" width="500"\][![Gringo Bandito Hot Sauce](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Gringo-Bandito-06-500x320.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Gringo-Bandito-06.jpg) Make your selections.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Gringo Bandito Hot Sauce](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Gringo-Bandito-06-500x320.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Gringo-Bandito-06.jpg) Make your selections.</div>
+
 
 My preference was obvious: the Gringo Bandito spicy green sauce is the one worth keeping in the fridge at all times. The original has just enough heat to thrill folks with milder palates while imparting plenty of flavor to the rest of us, and the super hot will send most people running after dairy to quench the fire within—for the record, though, I handled it like the hot sauce pro I am, with only a glass of water. _Pride_.
 

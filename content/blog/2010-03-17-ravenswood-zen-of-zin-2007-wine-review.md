@@ -1,9 +1,9 @@
 ---
 title: "Ravenswood Zen of Zin 2007---Wine Review"
 date: "2010-03-17"
-categories: 
+categories:
   - "red-wine-review"
-tags: 
+tags:
   - "2007-vintage"
   - "a-good-time-with-wine"
   - "earthy"
@@ -25,7 +25,13 @@ The nose of this old vine Zinfandel is really nice and earthy. I could sit and s
 
 It is thin-bodied for a zinfandel. Tastes oaky, with rich plum and leather. There are passing notes of pepper and raspberry also. Sounds like a good mix of notes, but honestly, they didn't mix together that well. I still drained my share, but a subtler, smoother blend would have been better.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 Other Bloggers' Thoughts:
 

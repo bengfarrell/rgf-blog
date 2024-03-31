@@ -1,10 +1,10 @@
 ---
 title: "Coffee Fest Atlanta 2015: Best Coffee Shop Competition"
 date: "2015-02-25"
-categories: 
+categories:
   - "coffee-shop"
   - "events"
-tags: 
+tags:
   - "2015"
   - "allison-bouley"
   - "americas-best-coffeehouse"
@@ -30,7 +30,13 @@ tags:
   - "winners"
 ---
 
-\[caption id="attachment\_9650" align="aligncenter" width="500"\]![Gratuitous espresso shots.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_040-500x333.jpg) Gratuitous espresso shots.\[/caption\]
+
+
+
+<div class="caption">
+
+![Gratuitous espresso shots.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_040-500x333.jpg) Gratuitous espresso shots.</div>
+
 
 Last month, I had the pleasure of covering the 2015 Southeastern Regional Coffee Fest, which took place in Atlanta. The [Coffee Fest](http://www.coffeefest.com/Default.aspx "Coffee Fest site") is a trade show and coffee education opportunity held in four different regions each year—upcoming ones for 2015 will be held in Tokyo, Chicago, and Portland.
 
@@ -42,19 +48,43 @@ I am no stranger to latte art and best espresso competitions, and I'll be writin
 
 ![2015_Coffee_Fest_046](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_046.jpg)
 
-\[caption id="attachment\_9667" align="aligncenter" width="500"\]![Judging the drinks.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_214-500x333.jpg) Judging the drinks.\[/caption\]
+
+
+
+<div class="caption">
+
+![Judging the drinks.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_214-500x333.jpg) Judging the drinks.</div>
+
 
 What takes place at the regional coffee fests are only the last stage in a multi-pronged competition that begins with an application to compete and moves on to fan voting on the Best Coffeehouse website and secret shopper reports from the actual coffeehouse locations. From those scores, six semi-finalists are chosen to compete at the event itself.
 
-\[caption id="attachment\_9673" align="aligncenter" width="500"\]![The winners of the America's Best Coffeehouse Competition.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_235-500x287.jpg) The winners of the America's Best Coffeehouse Competition.\[/caption\]
+
+
+
+<div class="caption">
+
+![The winners of the America's Best Coffeehouse Competition.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_235-500x287.jpg) The winners of the America's Best Coffeehouse Competition.</div>
+
 
 They all share the same basic set-up behind the counter, but other than that, the teams bring in their own materials. They get an hour total of prep, customer service time, and clean-up. Each semi-finalist team is comprised of three employees who have worked at the shop for at least 120 days. Each coffeehouse must offer standard espresso drinks, two coffee varieties, a flavored latte, and a specialty drink during their competition round.
 
-\[caption id="attachment\_9654" align="aligncenter" width="486"\]![Peregrine Espresso's pourover set-up.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_059-486x500.jpg) Peregrine Espresso's pourover set-up.\[/caption\]
+
+
+
+<div class="caption">
+
+![Peregrine Espresso's pourover set-up.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_059-486x500.jpg) Peregrine Espresso's pourover set-up.</div>
+
 
 Semi-finalists are judged on their expertise on coffee, their skill at drink making, their customer service, and their teamwork by at least 30 judges who mingle in with the Coffee Fest attendees during the café's 30-minute period of serving drinks.
 
-\[caption id="attachment\_9656" align="aligncenter" width="500"\]![Ready to judge!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_069-500x351.jpg) Ready to judge!\[/caption\]
+
+
+
+<div class="caption">
+
+![Ready to judge!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_069-500x351.jpg) Ready to judge!</div>
+
 
 A pair of judges also watches from behind the scenes and rates the competitors on an impressively detailed checklist. You can peruse [that here.](http://www.coffeefest.com/newsletter/newsletterimages/BestCoffeehouse/Judges%20Score%20Sheet%202015.pdf "PDF file")
 
@@ -64,7 +94,13 @@ Watching from the sidelines, America's Best Coffeehouse Competition is a remarka
 
 Plus, it was impressive to watch people in the midst of a stressful competition serve up both customer-pleasing drinks and that ever-important smile.
 
-\[caption id="attachment\_9674" align="aligncenter" width="500"\]![Smiles from team CG Pops.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_123-500x333.jpg) Smiles from team CG Pops.\[/caption\]
+
+
+
+<div class="caption">
+
+![Smiles from team CG Pops.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_123-500x333.jpg) Smiles from team CG Pops.</div>
+
 
 The first team I observed was from Cool Beans Coffee Roasters of Marietta, GA, and they dressed to the nines! I can't imagine wearing Cheryl Katz's heels on a normal day, much less working behind a counter with them.
 
@@ -98,7 +134,13 @@ They also made an attractive, and what looked to be indulgent, mocha—only fitt
 
 I loved owner Crystal Gembala's enthusiasm as she competed fiercely, even with a leg injury.
 
-\[caption id="attachment\_9660" align="aligncenter" width="500"\]![Crystal explaining the concept of CG Pops along with her employees Kali Malham and Kaylan English.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_142-500x344.jpg) Crystal explaining the concept of CG Pops along with her employees Kali Malham and Kaylan English.\[/caption\]
+
+
+
+<div class="caption">
+
+![Crystal explaining the concept of CG Pops along with her employees Kali Malham and Kaylan English.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_142-500x344.jpg) Crystal explaining the concept of CG Pops along with her employees Kali Malham and Kaylan English.</div>
+
 
 Team Black Water Loft of Floyd, VA, came with matching plaid and braids!
 
@@ -114,7 +156,13 @@ They also were armed with enough customer service style and espresso skills to t
 
 So who was first? The brand-new and extremely talented team from Washington DC's Peregrine Espresso.
 
-\[caption id="attachment\_9657" align="aligncenter" width="349"\]![Allison Bouley, Britt Calder, and Joseph Stout.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_072-349x500.jpg) Allison Bouley, Britt Calder, and Joseph Stout.\[/caption\]
+
+
+
+<div class="caption">
+
+![Allison Bouley, Britt Calder, and Joseph Stout.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_072-349x500.jpg) Allison Bouley, Britt Calder, and Joseph Stout.</div>
+
 
 I spoke to these three winners after their first bout of competition two days before the final. I was pretty darn impressed by their cocktail-inspired specialty drink and wanted to learn more. The Old-Fashioned Revision, developed by Joseph, features cherry-orange simple syrup, two shots of La Golandrina espresso, 40 grams of ice, and orange peel and bada-bing cherry garnishes.
 
@@ -124,7 +172,13 @@ Those beautiful garnishes were a great way to leave an impression on the judges!
 
 I had no idea that watching people sling coffee drinks would be as exciting and innovative as it was, but the competitors at Coffee Fest Atlanta proved otherwise to me, even if I never did get to try their drinks myself. Each 30-minute competition slot had a steady, long line of attendees wanting to sample the wares so I satisfied my curiosity with photographs.
 
-\[caption id="attachment\_9670" align="aligncenter" width="500"\]![Black Water Loft heading up to claim their 2nd place prize.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_230-500x307.jpg) Black Water Loft heading up to claim their 2nd place prize.\[/caption\]
+
+
+
+<div class="caption">
+
+![Black Water Loft heading up to claim their 2nd place prize.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/02/2015_Coffee_Fest_230-500x307.jpg) Black Water Loft heading up to claim their 2nd place prize.</div>
+
 
 Congrats again to Peregrine Espresso, the 2015 Eastern Region Champions! They won $2000 for their excellent work.
 

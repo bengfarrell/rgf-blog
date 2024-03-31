@@ -1,10 +1,10 @@
 ---
 title: "International Delights"
 date: "2010-09-17"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "durham"
   - "falafel"
   - "international-delights"
@@ -34,6 +34,12 @@ I thought it made a really attractive, open-faced sandwich. The falafel were sma
 
 A perfect falafel sandwich? Nah, but pretty good! I'll go back if I have a craving for Middle Eastern fare while in the area. I've heard especially great things about their hummus, but knew I couldn't fit anything more in than the sandwich for this meal.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Reviewed 9.10.10._

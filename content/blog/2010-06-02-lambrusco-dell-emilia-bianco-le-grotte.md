@@ -1,10 +1,10 @@
 ---
 title: "Lambrusco Dell 'Emilia Bianco Le Grotte"
 date: "2010-06-02"
-categories: 
+categories:
   - "lambrusco"
   - "sparkling-wine-review"
-tags: 
+tags:
   - "bubbles"
   - "common-man-vin"
   - "emilia-romagne"
@@ -23,7 +23,13 @@ This sparkling white wine, with a very pretty label if I do so say myself, smell
 
 It's not bad, but much sweeter than I like my whites.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+  Other Bloggers' Thoughts:
 
 [Good Wines Cheap](http://goodwinescheap.blogspot.com/2009/08/bubble-bubbles-and-more-bubbles.html)
 

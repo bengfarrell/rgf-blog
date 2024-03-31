@@ -1,14 +1,14 @@
 ---
 title: "San Marcos Creek Wines"
 date: "2018-05-01"
-categories: 
+categories:
   - "cabernet-franc"
   - "other-red-blends"
   - "white-wine-blends"
   - "red-wine-review"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "cabernet"
   - "paso-robles"
   - "san-marcos-creek"
@@ -18,7 +18,13 @@ tags:
 
 One of the biggest pros of attending blogging conferences is getting to meet the people behind the wines and food products that I enjoy writing about. Kimberly Morelli, whom I first met at the 2017 Food Bloggers Conference, is one of those people.
 
-\[caption id="attachment\_28098" align="aligncenter" width="333"\][![san marcos creek, winery, kimberly morelli](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_277-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_277.jpg) Kimberly offering a taste.\[/caption\]
+
+
+
+<div class="caption">
+
+[![san marcos creek, winery, kimberly morelli](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_277-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_277.jpg) Kimberly offering a taste.</div>
+
 
 Kimberly is co-owner of [San Marcos Creek Vineyard and Winery](http://sanmarcoscreek.com/) in Paso Robles, which she and her husband bought in 2015 to pursue a new direction for their lives on California's Central Coast. Over the course of a spontaneous lunch at the conference, I was introduced to San Marcos Creek's wines and was very excited to take home their cabernet franc to review at my leisure. Yes, **obligatory disclaimer,** that means it and all the other wines I’m about to review were free to me.
 
@@ -28,7 +34,13 @@ Kimberly is co-owner of [San Marcos Creek Vineyard and Winery](http://sanmarcosc
 
 At the 2017 Wine Bloggers Conference, I was delighted to learn that Demetra Molina serves as San Marcos Creek's tasting room and hospitality manager. I met and bonded with Demetra and her husband Eddie at the 2015 Wine Bloggers Conference in the Finger Lakes.
 
-\[caption id="attachment\_28103" align="aligncenter" width="500"\][![demetra molina, boozy tatto wife, odd bacchus, rob frisch](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2015_WBC_216-500x460.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2015_WBC_216.jpg) Demetra at the 2015 WBC with fellow wine blogger Rob Frisch of the Odd Bacchus.\[/caption\]
+
+
+
+<div class="caption">
+
+[![demetra molina, boozy tatto wife, odd bacchus, rob frisch](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2015_WBC_216-500x460.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2015_WBC_216.jpg) Demetra at the 2015 WBC with fellow wine blogger Rob Frisch of the Odd Bacchus.</div>
+
 
 Demetra runs the blog [the Boozy Life of a Tattoo Wife](http://boozylife.com/). Through Facebook, I enjoyed watching the Molinas' westward journey to California to pursue their own dreams, much as Kimberly had done in buying San Marcos Creek. How great that those dreams overlapped! At the 2017 WBC, I sampled my favorite of Kimberly's wines so far: the **San Marcos Creek Paso Robles "Epiphany" 2014.**
 

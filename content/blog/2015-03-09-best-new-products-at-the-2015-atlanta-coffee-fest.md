@@ -1,10 +1,10 @@
 ---
 title: "Best New Products at the 2015 Atlanta Coffee Fest"
 date: "2015-03-09"
-categories: 
+categories:
   - "coffee-shop"
   - "events"
-tags: 
+tags:
   - "2015"
   - "airflow-cooling-lid"
   - "akiva-shapiro"
@@ -32,19 +32,37 @@ tags:
   - "tropics-refreshers"
 ---
 
-\[caption id="attachment\_9695" align="aligncenter" width="359"\]![Everything that goes into a David Rio Chai.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_097-359x500.jpg) Everything that goes into a David Rio Chai.\[/caption\]
+
+
+
+<div class="caption">
+
+![Everything that goes into a David Rio Chai.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_097-359x500.jpg) Everything that goes into a David Rio Chai.</div>
+
 
 You can find fast-paced, ongoing [barista competitions](http://www.rebeccagomezfarrell.com/2015/02/coffee-fest-atlanta-2015-best-coffee-shop-competition/) in any corner of a Coffee Fest show, but at their heart, these events are trade shows. And I had far more fun than expected discovering up-and-coming products among the many established brands. This isn't a list featuring my favorite coffee beans from the weekend—that would be expected. Rather, it's a list of my favorite unexpected finds, all products I hope may be appearing at a coffee shop near me soon.
 
 **1\. The Airflow Cooling Lid**
 
-\[caption id="attachment\_9700" align="aligncenter" width="333"\]![Founder Akiva Shapiro with his prototype.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_184-333x500.jpg) Founder Akiva Shapiro with his prototype.\[/caption\]
+
+
+
+<div class="caption">
+
+![Founder Akiva Shapiro with his prototype.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_184-333x500.jpg) Founder Akiva Shapiro with his prototype.</div>
+
 
 This lid is designed to deal with a very important problem of coffee consumption: how to cool down coffee with a lid on! I understand that many of you enjoy super-hot coffee, but I prefer mine only a few notches above lukewarm. And while taking off a lid does create a beautiful steam show, it's not very convenient in many circumstances, especially if the liquid threatens to spill over.
 
 Apparently I'm not alone in that concern, because Akiva Shapiro has invented the Airflow Cooling Lid to solve the problem! With its double-hole design, you can blow through one end to cool down your coffee, and hot air will exit out of the back hole.
 
-\[caption id="attachment\_9705" align="aligncenter" width="500"\]![Up-close with the Airflow Cooling Lid.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_185-500x396.jpg) Up-close with the Airflow Cooling Lid.\[/caption\]
+
+
+
+<div class="caption">
+
+![Up-close with the Airflow Cooling Lid.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_185-500x396.jpg) Up-close with the Airflow Cooling Lid.</div>
+
 
 This product is still in the prototype stage and seeking investors, so I avidly await the day it'll be mass-produced.
 
@@ -84,14 +102,44 @@ Not my most descriptive review, but a heartfelt "great" it was! And [Milkadamia'
 
 Of course, Coffee Fest Atlanta offered plenty traditional vendors of coffee beans, tea leaves, and chai and blended beverages mixes as well as those new products. Here are a couple photos of my favorites from among those:
 
-\[caption id="attachment\_9697" align="aligncenter" width="500"\]![Periodic Espresso being served up at the Slayer espresso machine booth.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_103-500x366.jpg) Periodic Espresso being served up at the Slayer espresso machine booth.\[/caption\]
 
-\[caption id="attachment\_9696" align="aligncenter" width="500"\]![Glub, glub, a beautiful shot from the Slayer.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_102-500x421.jpg) Glub, glub, a beautiful shot from the Slayer.\[/caption\]
 
-\[caption id="attachment\_9698" align="aligncenter" width="500"\]![Numi's display of steeping teas.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_104-500x333.jpg) Numi's display of teas.\[/caption\]
 
-\[caption id="attachment\_9701" align="aligncenter" width="500"\]![The Metropolitan Tea's Collection and…](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_191-500x333.jpg) The Metropolitan Tea's Collection and…\[/caption\]
+<div class="caption">
 
-\[caption id="attachment\_9702" align="aligncenter" width="500"\]![…their really fun infusers.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_195-500x333.jpg) …their really fun infusers.\[/caption\]
+![Periodic Espresso being served up at the Slayer espresso machine booth.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_103-500x366.jpg) Periodic Espresso being served up at the Slayer espresso machine booth.</div>
+
+
+
+
+
+<div class="caption">
+
+![Glub, glub, a beautiful shot from the Slayer.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_102-500x421.jpg) Glub, glub, a beautiful shot from the Slayer.</div>
+
+
+
+
+
+<div class="caption">
+
+![Numi's display of steeping teas.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_104-500x333.jpg) Numi's display of teas.</div>
+
+
+
+
+
+<div class="caption">
+
+![The Metropolitan Tea's Collection and…](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_191-500x333.jpg) The Metropolitan Tea's Collection and…</div>
+
+
+
+
+
+<div class="caption">
+
+![…their really fun infusers.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_195-500x333.jpg) …their really fun infusers.</div>
+
 
 I was heartened to find that the lion's share of vendors ensure their global partners provide living wages and encourage sustainable practices at the coffee plantations. If you'd like to see more of what the vendors at Coffee Fest Atlanta had to offer, then head right here for [my album full of them](https://www.facebook.com/media/set/?set=a.10152734043559607.1073741940.567409606&type=1&l=4073da8442).

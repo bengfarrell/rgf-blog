@@ -1,10 +1,10 @@
 ---
 title: "Spring Menu at the Fairview Dining Room (Durham)"
 date: "2012-04-04"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "artichoke"
   - "au-jus"
   - "blogging-perks"
@@ -39,13 +39,31 @@ tags:
 
 Last Thursday, I was invited with a bunch of other Durham food bloggers and lovers to sample the new spring menu for the Fairview Dining Room at the Washington Duke Inn.  We were treated to a four course lunch, and it was absolutely gorgeous on their patio.
 
-\[caption id="attachment\_4086" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview01blog.jpg "fairview01blog")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview01blog.jpg) View from the patio.\[/caption\]
 
-\[caption id="attachment\_4083" align="aligncenter" width="333"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview04blog.jpg "fairview04blog")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview04blog.jpg) Quite the lineup of food bloggers and Washington Duke Inn staff.\[/caption\]
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview01blog.jpg "fairview01blog")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview01blog.jpg) View from the patio.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview04blog.jpg "fairview04blog")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview04blog.jpg) Quite the lineup of food bloggers and Washington Duke Inn staff.</div>
+
 
 I’ve dined at the Fairview Dining Room once before [and I loved it](http://www.thegourmez.com/2010/12/fairview-dining-room/), but I hadn’t been outside. The grounds are incredible, especially on a warm spring day like this one was. And the food lived up to the setting in every way. Plus, they made my life easy and gave us printed menus.
 
-\[caption id="attachment\_4085" align="aligncenter" width="333"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview02blog.jpg "fairview02blog")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview02blog.jpg) Bonus points for not having to write down the ingredients.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview02blog.jpg "fairview02blog")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview02blog.jpg) Bonus points for not having to write down the ingredients.</div>
+
 
 You’ll notice in my descriptions how much I love Chef Jason Cunningham’s expertise mixing up tastes and textures—I adore having contrasting elements come together in a dish. You’ll note as well that I said four courses, but we actually had eight dishes. The kitchen prepared small versions of several menu items and served them together for most courses. The first one, however, was on its own and dubbed the Bloom course, an ahi tuna tartare.
 
@@ -83,7 +101,13 @@ It’s hard to decide which of the last two desserts was the runner up, but I’
 
 I’m not sure that the cookie was paired with the angel food cake, but that was super good.
 
-\[caption id="attachment\_4076" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview10blog.jpg "fairview10blog")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview10blog.jpg) Cookie on the right, lavender strawberry ice cream soon to be discussed on the left.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview10blog.jpg "fairview10blog")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview10blog.jpg) Cookie on the right, lavender strawberry ice cream soon to be discussed on the left.</div>
+
 
 The dark, brittle chocolate discs were delicious, and the cream filling pleasantly reminded me of the wafers you can buy at the store—you know the ones. They come in vanilla, chocolate, and strawberry varieties and the texture of the wafer is nearly cardboard but it’s somehow really addictive anyway? This was like those but a million times more bright in flavor.
 

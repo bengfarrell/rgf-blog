@@ -1,11 +1,11 @@
 ---
 title: "Wine Review--Dellatorri Chianti 2007"
 date: "2009-07-17"
-categories: 
+categories:
   - "chianti"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "cherry"
   - "clove"
   - "dellatorri-chianti-2004"
@@ -24,6 +24,12 @@ Cherry, lemon seed, and clove.  They don't combine that well but the wine was s
 
 Interesting to note that I found the 2004 vintage to be quite delicious, as you can read in my [review](http://www.rebeccagomezfarrell.com/gourmez/wines/review.php?id=16&type=redwines).  Perhaps with a few years of aging, this wine would mature quite well, hopefully dulling the bitterness and deepening the cherry.
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+
 
 _Reviewed 7.13.09._

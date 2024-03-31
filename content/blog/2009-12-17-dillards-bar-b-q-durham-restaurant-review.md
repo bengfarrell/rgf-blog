@@ -1,10 +1,10 @@
 ---
 title: "Dillard's Bar-B-Q (Durham) -- Restaurant Review"
 date: "2009-12-17"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "candied-yams"
   - "croaker-sandwich"
   - "dillards-bar-b-q"
@@ -37,6 +37,12 @@ All their entrees come with a trio of hush puppies.  Those hush puppies were de
 
 What struck me most about Dillard's was that everyone there seemed to know everyone else and the owners and employees greeted each person who sat down to eat.  I'd say, in this Californian's opinion, that Dillard's Bar-B-Q is a great example of that legendary Southern hospitality with pretty good food to boot.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 Reviewed 12.9.09.

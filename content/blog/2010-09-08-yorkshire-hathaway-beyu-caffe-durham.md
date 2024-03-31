@@ -1,10 +1,10 @@
 ---
 title: "Yorkshire Hathaway @ Beyu Caffe"
 date: "2010-09-08"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "beyu-caffe"
   - "butterscotch-schnapps"
   - "coffee-cocktail"
@@ -22,6 +22,12 @@ This hot coffee drink came with butterscotch, coffee liqueur, Irish cream, and w
 
 The Yorkshire Hathaway was a solid coffee cocktail offering, especially because the butterscotch had just a hint of presence. Tasty and simple.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 8.14.10._

@@ -1,11 +1,11 @@
 ---
 title: "Mac &amp; Cheese Night #8 at Fat Angel"
 date: "2015-04-07"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "restaurants"
   - "wine"
-tags: 
+tags:
   - "beer"
   - "cayenne"
   - "cheddar"
@@ -24,7 +24,13 @@ tags:
 
 Fat Angel's menu is focused on nibbles to go with their exceptionally long list of beers, wines, and meads, including after-dinner selections for all of their beverage categories. As usually happens, that leads to meat and cheese boards, nuts and olives, and in their case, a selection of fancy butter schmears served with Firebrand breads. Because they also offer flatbreads, salads, and a trio of larger plates, Fat Angel doesn't operate quite like the typical trendy wine/beer bar. They do, typically, not take reservations, but you don't have to fight for elbow room and hunker over a tiny corner of surface space and can instead enjoy your meal with friends in relative peacefulness after your wait is over—ours took about 20 minutes for 3 people at 8 pm on a Saturday.
 
-\[caption id="attachment\_9823" align="aligncenter" width="389"\]![The main dining room.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/Fat_Angel_021-389x500.jpg) The main dining room.\[/caption\]
+
+
+
+<div class="caption">
+
+![The main dining room.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/Fat_Angel_021-389x500.jpg) The main dining room.</div>
+
 
 We opted to start with one meat and one cheese, choosing the El Trigal semi-hard sheep's cheese and the salametto piccante for $10.25 total. I don't think I'd order either the meat or cheese again—the meat was too dry and thinly sliced to leave an impression, and the cheese had good texture but not much flavor.
 

@@ -1,10 +1,10 @@
 ---
 title: "Spanky's (Downtown Chapel Hill)"
 date: "2007-04-27"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "restaurants"
-tags: 
+tags:
   - "downtown-chapel-hill-dining"
   - "spankys-bar-and-restaurant"
 ---
@@ -21,4 +21,10 @@ Mr. Gourmez had the BBQ Pulled Pork sandwich and it was very dry indeed. To be f
 
 To sum up, Spanky's is good for a relaxing dinner but the food is nothing to write home about.
 
-\[caption id="attachment\_55" align="alignleft" width="40"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+

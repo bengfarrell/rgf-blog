@@ -1,11 +1,11 @@
 ---
 title: "Travelogue: Abita Springs and Covington, LA"
 date: "2013-02-04"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "breweries-in-abita-springs-la"
   - "new-orleans-travel"
-tags: 
+tags:
   - "abita-brewery"
   - "abita-mystery-house"
   - "animatronic"
@@ -37,7 +37,13 @@ tags:
   - "visitor-guide"
 ---
 
-\[caption id="attachment\_5720" align="aligncenter" width="500"\][![Art at the Abita Mystery House](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_060small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_060small/) Art at the Abita Mystery House\[/caption\]
+
+
+
+<div class="caption">
+
+[![Art at the Abita Mystery House](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_060small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_060small/) Art at the Abita Mystery House</div>
+
 
 The hubby and I did a whirlwind tour of New Orleans and the surrounding areas in early December. The quintessence of the city—Cajun food, voodoo religion, laissez faire—has always placed it high on my list of places to see. I had considered moving there not long before Hurricane Katrina hit. Its pull on me is that strong, and yes, I'm the type of girl that will move without ever having seen the area where I'm relocating. I've done it a few times, actually.
 
@@ -47,7 +53,13 @@ So December was when I finally had the chance to indulge my Crescent City hanker
 
 The town of Abita Springs is tiny and centered around a cute roundabout of an intersection, just about a mile south of the brewery on Route 36. We were there on a Saturday, and tours start on the hour from 10 am to 3 pm. They'll assign you to the next tour when you arrive at the courtyard. In the meantime, soak up that southern sun!
 
-\[caption id="attachment\_5695" align="aligncenter" width="334"\][![My husband in the courtyard.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_003small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_003small/) My husband in the courtyard.\[/caption\]
+
+
+
+<div class="caption">
+
+[![My husband in the courtyard.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_003small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_003small/) My husband in the courtyard.</div>
+
 
 The tour begins right inside the french doors in a large, mahogany barroom.
 
@@ -63,9 +75,21 @@ or admire bottlecap art while you enjoy the beers!
 
 The tour of the facilities goes pretty fast and covers the basic process of brewing .
 
-\[caption id="attachment\_5699" align="aligncenter" width="334"\][![Our tour guide explaining the process.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_009small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_009small/) Our tour guide explaining the process.\[/caption\]
 
-\[caption id="attachment\_5700" align="aligncenter" width="500"\][![Beer barrels and our tour group.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_010small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_010small/) Beer barrels and our tour group.\[/caption\]
+
+
+<div class="caption">
+
+[![Our tour guide explaining the process.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_009small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_009small/) Our tour guide explaining the process.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Beer barrels and our tour group.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_010small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_010small/) Beer barrels and our tour group.</div>
+
 
 Each of those barrels holds enough beer to fill about 100,000 bottles. It's insane to think of such quantities even for midsize craft labels like Abita. All in all, the whole tour took about an hour tops. That means you'll have time to head back south on Route 36 to check out the [Abita Mystery House](http://abitamysteryhouse.com/ "Abita Mystery House") (22275 Highway 36, Abita Springs).
 
@@ -79,29 +103,59 @@ I'm honestly jealous of her figure. But don't stay in the gift shop. Wander on t
 
 [![2012_Dec_Nola_014small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_014small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_014small/)
 
-\[caption id="attachment\_5703" align="aligncenter" width="500"\][![Porch outside the exhibits.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_017small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_017small/) Porch outside the exhibits.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Porch outside the exhibits.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_017small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_017small/) Porch outside the exhibits.</div>
+
 
  
 
-\[caption id="attachment\_5704" align="aligncenter" width="500"\][![Entrance to the hall.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_018small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_018small/) Entrance to the hall.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Entrance to the hall.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_018small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_018small/) Entrance to the hall.</div>
+
 
 Many of the displays are both whimsical and politically pointed miniatures of life in the bayou and the Big Easy. Some of them are animatronic, powered by various buttons to whirl a tornado or send a float on its way.
 
 [![2012_Dec_Nola_020small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_020small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_020small/) [![2012_Dec_Nola_024small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_024small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_024small/) [![2012_Dec_Nola_026small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_026small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_026small/)
 
-\[caption id="attachment\_5709" align="aligncenter" width="500"\][![Tornado in this one!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_032small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_032small/) Tornado in this one!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Tornado in this one!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_032small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_032small/) Tornado in this one!</div>
+
 
 The walls are covered in sayings, etchings, and various bits of found art.
 
 [![2012_Dec_Nola_025small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_025small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_025small/) [![2012_Dec_Nola_043small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_043small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_043small/)
 
-\[caption id="attachment\_5710" align="aligncenter" width="334"\][![My husband testing out a crank player piano.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_034small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_034small/) My husband testing out a crank player piano.\[/caption\]
+
+
+
+<div class="caption">
+
+[![My husband testing out a crank player piano.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_034small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_034small/) My husband testing out a crank player piano.</div>
+
 
 The House of Shards is a mosaic of, well, shards of ceramics, glass, and plenty of other materials.
 
 [![2012_Dec_Nola_044small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_044small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_044small/) [![2012_Dec_Nola_048small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_048small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_048small/)
 
-\[caption id="attachment\_5715" align="aligncenter" width="500"\][![Inside the guest bathroom, a portrait of the photographer.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_045small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_045small/) Inside the guest bathroom, a portrait of the photographer.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Inside the guest bathroom, a portrait of the photographer.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_045small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_045small/) Inside the guest bathroom, a portrait of the photographer.</div>
+
 
 A big draw is a cast of a bigfoot print, the Honey Island Monster.
 
@@ -119,13 +173,25 @@ The most exciting of the animals is the Amazing Bassigator.
 
 [![2012_Dec_Nola_058small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_058small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_058small/)
 
-\[caption id="attachment\_5719" align="aligncenter" width="334"\][![Truly terrifying.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_059small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_059small/) Truly terrifying.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Truly terrifying.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_059small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_059small/) Truly terrifying.</div>
+
 
 Make sure you spend some time in that gift shop before heading out. There were plenty of awesome souvenirs.
 
 What can top the Mystery House? Not much, I promise, but we continued on into Covington anyhow. It's just a few miles west on Route 36. Our reason? Finding the world's largest Ronald Reagan statue.
 
-\[caption id="attachment\_5723" align="aligncenter" width="334"\][![Mission accomplished!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_067small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_067small/) Mission accomplished!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Mission accomplished!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_067small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_067small/) Mission accomplished!</div>
+
 
 It would be a lot more impressive if you could actually get close to the statue, but it's on a raised platform at the Covington Trailhead (419 E. New Hampshire St.).
 

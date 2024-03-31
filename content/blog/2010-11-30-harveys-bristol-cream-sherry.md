@@ -1,10 +1,10 @@
 ---
 title: "Harveys Bristol Cream Sherry"
 date: "2010-11-30"
-categories: 
+categories:
   - "fortified-wine"
   - "sherry-fortified-wine"
-tags: 
+tags:
   - "chocolate"
   - "cream"
   - "dessert-wine"
@@ -20,7 +20,13 @@ Harveys Bristol Cream Sherry is so well-known, Saturday Night Live did a [spoof]
 
 It’s not a tawny, thankfully. Tawny’s are so not my thing. It’s the color of a rich, dark apple cider. Smells like sherry, with an emphasis on the chocolate, brown sugar, and maybe rhubarb. Very sweet with some bark flavor and a little earthiness that gives it a unique counterpoint to that sweetness. The creaminess helps it all go down well. I’m happy with it, but I think a glass and a half will do me in.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 3 stars</div>
+
 
 Other Bloggers’ Thoughts:
 

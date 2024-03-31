@@ -1,7 +1,7 @@
 ---
 title: "A Tasting at Turiya Wines"
 date: "2018-07-28"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "merlot"
   - "other-red-blends"
@@ -9,7 +9,7 @@ categories:
   - "red-wine-review"
   - "tasting-rooms-in-lompoc-ca"
   - "wine"
-tags: 
+tags:
   - "angela-soleno"
   - "central-coast"
   - "high-end"
@@ -25,13 +25,25 @@ _Obligatory disclaimer: This tasting of [Turiya Wines](https://www.turiyawines.c
 
 I spent my formative years on the Central Coast, in Santa Maria, California. While I lived there, I had no idea it was a wine-growing region. My family is conservative, religious stock – having a drink is as likely to bring forth admonitions about my Christian witness as it is relaxation. So before the movie _Sideways_ came out in 2004, I, like much of the wine-drinking public, hadn't realized the Central Coast is a fantastic producer of wines. Nor did I know that so many of my classmates' families were involved in the wine business.
 
-\[caption id="attachment\_28197" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/ERHSSeniorYear090-500x344.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/ERHSSeniorYear090.jpg) Righetti Graduation '98!\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/ERHSSeniorYear090-500x344.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/ERHSSeniorYear090.jpg) Righetti Graduation '98!</div>
+
 
 This past June was the occasion of my 20th high school reunion, and the occasion of my finally getting to try [Turiya Wines](https://www.turiyawines.com/), a high-end line of wines that one of my ERHS '98 classmates founded. Through the magic of Facebook, I'd been following Angela Soleno's success and knew I wanted to do a profile on her wines once I had the chance. Our 20th reunion provided that chance! So I made my way to the [Lompoc Wine Factory,](https://lompocwinefactory.com/) where Turiya shares a tasting room and event space with a few other wineries.
 
 [![turiya wines, lompoc wine factory](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/Turyia-Wines-14-375x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/Turyia-Wines-14.jpg)Angela met me and my husband inside and proceeded to take us straight back to her barrel room for a barrel tasting, as she often does for private tastings that can be arranged ahead of time. Public tastings, no reservation required, are $25. Angela's handprints adorn each barrel; after the wine's gone in, she dips her hands in the leftover grape must to leave her mark.
 
-\[caption id="attachment\_28188" align="aligncenter" width="500"\][![turiya wines, lompoc wine factory, angela soleno](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/Turyia-Wines-03-500x397.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/Turyia-Wines-03.jpg) Angela Soleno\[/caption\]
+
+
+
+<div class="caption">
+
+[![turiya wines, lompoc wine factory, angela soleno](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/Turyia-Wines-03-500x397.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/Turyia-Wines-03.jpg) Angela Soleno</div>
+
 
 Unlike some of our classmates, Angela does not come from a wine-making family, but rather, she fell in love with wine after falling out of love with an ex-boyfriend. Nothing like a broken heart for breeding true companionship. 😉 After learning the ropes at Consilience Wines and Central Coast Wine Services, writing about wine, and taking viticulture and enology courses, Angela went into business for herself as owner and winemaker of Turiya Wines. She released her first vintage in 2008. Because she's a one-woman operation and because she values quality, she keeps production small at only 400 cases, so every step of the process can have her full attention. And she does not release her wines until they've been barreled for at least four years.
 
@@ -53,6 +65,12 @@ Or, to get a taste, you can seek membership in the ERHS graduating class of '98,
 
 [![turiya wines, lompoc wine factory](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/Turyia-Wines-17-331x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/Turyia-Wines-17.jpg)It was a pleasure to catch up on Angela's life and to try Turiya Wines. The bottles I took home will be kept for a very special occasion indeed—maybe our 25th anniversary?
 
-\[caption id="attachment\_28193" align="aligncenter" width="335"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/Turyia-Wines-15-335x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/Turyia-Wines-15.jpg) Cheers to that!\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/Turyia-Wines-15-335x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/07/Turyia-Wines-15.jpg) Cheers to that!</div>
+
 
 _Tasted 30 June 2018._

@@ -1,10 +1,10 @@
 ---
 title: "Beyu Caffé"
 date: "2010-04-30"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "alicia-hylton"
   - "beyu-cafe"
   - "beyu-caffe"
@@ -74,6 +74,12 @@ I found the frosting too dry-it's a thick buttercream, I think-though the crunch
 
 Having lunch at [Toast](../../../../../?p=1165) and then strolling down the street to Beyu Caffé for coffee and dessert seems like a popular thing to do in downtown Durham. I can definitely recommend it for that, but I must say, I think I found the cocktails the most impressive of all Beyu's offerings. Whatever you're in the mood for, though, the relaxed, but modern atmosphere is inviting, as is the free wireless.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed from 2.10 to 4.10._

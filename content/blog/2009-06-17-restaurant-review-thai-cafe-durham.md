@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Thai Cafe, Durham"
 date: "2009-06-17"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "eclectic-glob-of-tangential-verbosity"
   - "mandarin-crush-cocktail"
   - "penang-curry"
@@ -28,6 +28,12 @@ I decided to try the mango sticky rice for dessert and I was mostly pleased with
 
 Thai Cafe is a restaurant I will definitely check out again.  My companions loved it while I mostly liked it, so I'm giving it an avocado.  I suspect it may improve to a truffle once I try a few more dishes and drinks.  I won't mind trying out that theory at all.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+
 
 _Reviewed 6.4.09._

@@ -34,7 +34,13 @@ This is a very approachable absinthe for first timers, and a lovely everyday ext
 
 ##### My Absinthia Rating:
 
-\[caption id="attachment\_20774" align="alignnone" width="40"\][![The Gourmez, rating, truffle, 5/5, excellent](https://thegourmez-wpmedia.s3.amazonaws.com/2015/01/rating_truffle1.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2015/01/rating_truffle1.gif) 5/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Gourmez, rating, truffle, 5/5, excellent](https://thegourmez-wpmedia.s3.amazonaws.com/2015/01/rating_truffle1.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2015/01/rating_truffle1.gif) 5/5</div>
+
 
 ##### Other Absinthia Reviews:
 

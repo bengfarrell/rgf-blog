@@ -1,9 +1,9 @@
 ---
 title: "GardenGate Vineyards Semi-Sweet Scuppernoag 2003"
 date: "2007-04-27"
-categories: 
+categories:
   - "dessert-wine-reviews"
-tags: 
+tags:
   - "2003"
   - "gardengate-vineyards"
   - "semi-sweet-scuppernoag"
@@ -17,4 +17,10 @@ On tasting, this wine is very similar to a rum-spiked apple cider. It's not as s
 
 The wine is colored like caramel syrup over strawberry ice cream. It's pleasing to the eye and refreshing on a humid evening.
 
-\[caption id="attachment\_49" align="alignleft" width="40"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+

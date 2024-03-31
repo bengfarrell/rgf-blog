@@ -1,11 +1,11 @@
 ---
 title: "So Old Fashioned @ Revolution"
 date: "2010-11-12"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
   - "spirits"
-tags: 
+tags:
   - "bars"
   - "bookers-bourbon"
   - "candied-orange"
@@ -23,6 +23,12 @@ tags:
 
 This drink serves mainly to remind me that I’m picking up quite the bourbon habit in the South. It’s made with Booker’s Bourbon, orange bitters, sugar, and candied orange, though I can’t vouch for there actually being candied orange in the drink—anyone else notice how easily advertised garnishes fall by the wayside and don’t make it into a drink? Moving on from that tangent, the So Old Fashioned is a great vehicle for appreciating bourbon’s appeal. I’d double the amount of bitters, but otherwise, I was quite happy with it. The cherries helped.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif) 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif) 3 stars</div>
+
 
 _Reviewed 10.29.10._

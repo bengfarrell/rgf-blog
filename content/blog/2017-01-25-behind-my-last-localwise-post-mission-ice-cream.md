@@ -1,12 +1,12 @@
 ---
 title: "Behind My Last Localwise Post - Mission Ice Cream!"
 date: "2017-01-25"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "ice-cream-bakery-food-truck"
   - "ice-cream-parlors"
   - "restaurants"
-tags: 
+tags:
   - "flavors"
   - "humphrey-slocombe"
   - "humphry-slocombe"
@@ -27,19 +27,37 @@ tags:
 
 [My last Localwise post](https://www.localwise.com/a/357-touring-the-mission-district-scoop-by-scoop) actually went up in November....and I seriously have not had time to promote it until now! It's been an insane couple of months, for sure. I also, admittedly, wasn't in a rush to do so because ice cream is the theme and that's not a typical holiday post. But it's January now, and sure, it's still cold, but as my fearless guide for this ice cream tour can tell you, there's always room for ice cream!
 
-\[caption id="attachment\_26868" align="aligncenter" width="334"\][![Jennifer Ng Ice Cream Travel Guide](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/icecreamguide1-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/icecreamguide1.jpg) Jennifer Ng, author of the Ice Cream Travel Guide.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Jennifer Ng Ice Cream Travel Guide](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/icecreamguide1-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/icecreamguide1.jpg) Jennifer Ng, author of the Ice Cream Travel Guide.</div>
+
 
 My friend Jennifer Ng is an ice cream maven, to the point that she's written a whole book, [the Ice Cream Travel Guide](http://www.icecreamtravelguide.com/), about ice cream shops and their owners from all over the globe! For the Localwise post, ["Touring the Mission District Scoop by Scoop,](https://www.localwise.com/a/357-touring-the-mission-district-scoop-by-scoop)" I asked her to take me on a tour around her favorite Mission-based ice cream joints, which is a route she's well familiar with as she provides private ice cream tours as well. PRIVATE ICE CREAM TOURS. Rejoice!
 
 As always when I write a post for another site, I end up with a lot more pictures than are used in the article, including that portrait of Jennifer above at [The Velvet Scoop,](http://www.thevelvetscoop.com/?pg=home) a frozen custard spot we hit up for a change of pace (or rather, a change of milk base!) So I'm sharing with you a few of my faves that got left out. Yes, readers of _the Gourmez_ get the behind-the-scenes experience. 😉
 
-\[caption id="attachment\_26873" align="aligncenter" width="395"\][![the Velvet Scoop frozen custard gummy worms san francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/icecreamguide6-395x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/icecreamguide6.jpg) The Velvet Scoop scoop! \[/caption\]
+
+
+
+<div class="caption">
+
+[![the Velvet Scoop frozen custard gummy worms san francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/icecreamguide6-395x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/icecreamguide6.jpg) The Velvet Scoop scoop! </div>
+
 
 That photo is of my seasonal pumpkin spice frozen custard at the Velvet Scoop, which I topped with gummy worms. Together with the colorful countertops, it made for quite a playful shot! Jennifer is enjoying the "Malted Milk 'N Cereal," a regular Velvet Scoop creation, in the previous photo.
 
 I also took an interior look at the ice cream shops, as that can be a huge part of the experience. The giant counter at [Mitchell's](http://mitchellsicecream.com/) gives a glimpse of the old-fashioned feel of the store, even with adventurous flavors such as horchata on the menu.
 
-\[caption id="attachment\_26874" align="aligncenter" width="1000"\][![Mitchell's ice cream, san francisco, ice cream counter](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/icecreamguide7.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/icecreamguide7.jpg) Mitchell's Ice Cream\[/caption\]
+
+
+
+<div class="caption">
+
+[![Mitchell's ice cream, san francisco, ice cream counter](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/icecreamguide7.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/icecreamguide7.jpg) Mitchell's Ice Cream</div>
+
 
 I think the Fifties-esque diner look of [Humphry Slocombe](http://www.humphryslocombe.com/) also says plenty about that joint's alternative style. It may look familiar, but a glimpse farther back, or further into the flavors, shows their wild side.
 

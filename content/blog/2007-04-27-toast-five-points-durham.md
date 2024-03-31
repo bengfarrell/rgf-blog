@@ -1,10 +1,10 @@
 ---
 title: "Toast (Five Points, Durham)"
 date: "2007-04-27"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "durham-dining"
   - "five-points"
   - "toast"
@@ -22,4 +22,10 @@ We also had a crostasta for dessert with fresh strawberries, blueberries, and wh
 
 We may not have fully enjoyed all of our selections but the ones that we did were definitely enough to get me back to Toast again. Besides, I haven't tried a tramezzini yet!
 
-\[caption id="attachment\_49" align="alignleft" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+

@@ -1,14 +1,14 @@
 ---
 title: "The Lunchpad in San Francisco"
 date: "2016-12-05"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-san-francisco"
   - "san-francisco-restaurant-review"
   - "restaurants"
   - "spirits"
   - "vodka"
-tags: 
+tags:
   - "brunch"
   - "brunchpad"
   - "candied-bacon"
@@ -29,11 +29,23 @@ tags:
 
 _Obligatory disclaimer: This post is based on a media event held by the Lunchpad, so portions are sized down and it was all free to me._
 
-\[caption id="attachment\_26726" align="aligncenter" width="393"\][![the Lunchpad San francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/TheLunchPad_05-393x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/TheLunchPad_05.jpg) The Coming Storm\[/caption\]
+
+
+
+<div class="caption">
+
+[![the Lunchpad San francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/TheLunchPad_05-393x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/TheLunchPad_05.jpg) The Coming Storm</div>
+
 
 [The Lunchpad](http://www.thelunchpadsf.com/) has been holding court in Hayes Valley’s Noir Lounge for about three years now, transforming the posh, gothic nightlife space into . . . a posh, gothic daytime space with breakfast and lunch fare.
 
-\[caption id="attachment\_26723" align="aligncenter" width="1000"\][![The Lunchpad Noir Lounge](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/TheLunchPad_02.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/TheLunchPad_02.jpg) Okay, it's _somewhat_ less gothic when it's not Halloween.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Lunchpad Noir Lounge](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/TheLunchPad_02.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/TheLunchPad_02.jpg) Okay, it's _somewhat_ less gothic when it's not Halloween.</div>
+
 
 That unique atmosphere—one doesn’t usually think dark for brunch dates—may be the Lunchpad’s biggest draw. Nah, who am I kidding. That’s the candied habanero bacon.
 
@@ -95,7 +107,13 @@ Besides the bacon, this tomato bisque was my favorite part of our brunch. The ro
 
 So if you stroll through Hayes Valley on a lovely San Francisco day and find your curiosity piqued by a sign advertising sandwiches beside a snazzy lounge, head on in and explore the Lunchpad’s sandwich boards.
 
-\[caption id="attachment\_26727" align="aligncenter" width="404"\][![the Lunchpad Noir Lounge](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/TheLunchPad_08-404x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/TheLunchPad_08.jpg) Yes, I find the dark super inviting!\[/caption\]
+
+
+
+<div class="caption">
+
+[![the Lunchpad Noir Lounge](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/TheLunchPad_08-404x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/TheLunchPad_08.jpg) Yes, I find the dark super inviting!</div>
+
 
 Pick an item featuring pickled pickles, pickled veggies, candied bacon, tomato bisque, or brunch and you won’t be disappointed. But you will be full.
 

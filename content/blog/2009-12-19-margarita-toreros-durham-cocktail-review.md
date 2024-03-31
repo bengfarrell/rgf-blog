@@ -1,10 +1,10 @@
 ---
 title: "Margarita @ Torero's (Durham) -- Cocktail Review"
 date: "2009-12-19"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "cocktail-review"
   - "house-sour-mix"
   - "margarita"
@@ -25,6 +25,12 @@ Torero's makes their own margarita mix and on first sip, it was sweet, and I fea
 
 It was drinkable for me, but not a margarita that made me thirst for more.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
+
 
 _Reviewed 12.15.09._

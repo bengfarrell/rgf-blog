@@ -1,10 +1,10 @@
 ---
 title: "Bakehouse Bistro (Southpoint, Durham) *CLOSED*"
 date: "2007-04-27"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bakehouse-bistro"
   - "durham-restaurants"
   - "southpoint"
@@ -22,4 +22,10 @@ I loved my side of (strong on the) garlic-mashed potatoes but the roasted vegeta
 
 I went back for breakfast recently and I can highly recommend the omelettes. It was light and fluffy and I think the coffee service has improved but not by much-all drinks are still served in a 20 oz. to go cup, including my double short cappuccino.
 
-\[caption id="attachment\_193" align="alignleft" width="40"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
+

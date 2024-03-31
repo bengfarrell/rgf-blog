@@ -1,10 +1,10 @@
 ---
 title: "Kahlua Midnight"
 date: "2013-05-03"
-categories: 
+categories:
   - "recipes"
   - "liqueur-reviews"
-tags: 
+tags:
   - "almond"
   - "black-coffee-liqueur"
   - "cafe-dolla"
@@ -35,7 +35,13 @@ I am tasting it at room temperature, although the bottle says it's best as a chi
 
 I think this liqueur is pleasing on its own, but I couldn't help but imagine it over ice with the [RumChata](http://www.thegourmez.com/2012/11/rumchata/) in my alcohol cabinet (_Note, in the interests of honesty, it's an alcohol stand. But no image would have come to mind if I said_ stand_, right?_). RumChata is also rum based, and it has cream and spices in the mix. In other words, while I take my coffee black, I do not take my cocktails the same way. So I present a coffee cocktail for you …
 
-\[caption id="attachment\_6267" align="aligncenter" width="500"\][![Note, I had no orange, so no zest.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/Kahlua_Midnight_03.jpg)](http://www.thegourmez.com/2013/05/kahlua-midnight/kahlua_midnight_03/) _Note, I had no orange, so no slice._\[/caption\]
+
+
+
+<div class="caption">
+
+[![Note, I had no orange, so no zest.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/Kahlua_Midnight_03.jpg)](http://www.thegourmez.com/2013/05/kahlua-midnight/kahlua_midnight_03/) _Note, I had no orange, so no slice._</div>
+
 
 **Café D'olla on a Bender** 1.5 shots Kahlua Midnight 0.5 shots RumChata 0.5 shots Grand Marnier Orange slice
 

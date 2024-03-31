@@ -1,11 +1,11 @@
 ---
 title: "Cocktails and Other Night Sights in New Orleans"
 date: "2013-02-20"
-categories: 
+categories:
   - "absinthe"
   - "new-orleans-bar-review"
   - "new-orleans-travel"
-tags: 
+tags:
   - "aquarium-of-the-americas"
   - "balcony"
   - "bourbon-st-hurricane"
@@ -70,7 +70,13 @@ We moved on after one drink, not realizing there was a full courtyard in back th
 
 It's hard to make out in that second picture, but if there's room at the actual bar rather than in the parlor, grab a spot! The bar is a beautiful old carousel and it spins!
 
-\[caption id="attachment\_5788" align="aligncenter" width="500"\]![2012_Dec_Nola_081small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_081small.jpg) A partial drink list.\[/caption\]
+
+
+
+<div class="caption">
+
+![2012_Dec_Nola_081small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_081small.jpg) A partial drink list.</div>
+
 
 [![2012_Dec_Nola_083small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_083small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_083small/)
 
@@ -86,9 +92,21 @@ My husband had the Brazilian Sparkler with rum, lime, lemon, pineapple, and club
 
 After Drink #2, more exploring ensued. The streets were still remarkably empty for a Saturday night, but I didn't mind—I had been worried it would be wall-to-wall people. As it turns out, December is a wonderful time to visit. There are lights everywhere for Christmas, and it's not prime tourist season, so you can breathe. Plus, the weather was beautiful; we only hit humidity on our last day. But back to exploring!
 
-\[caption id="attachment\_5791" align="aligncenter" width="500"\][![A carriage stopped for a story.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_088small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_088small/) A carriage stopped for a story.\[/caption\]
 
-\[caption id="attachment\_5792" align="aligncenter" width="500"\][![Papá Noel decorations.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_091small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_091small/) Papá Noel decorations.\[/caption\]
+
+
+<div class="caption">
+
+[![A carriage stopped for a story.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_088small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_088small/) A carriage stopped for a story.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Papá Noel decorations.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_091small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_091small/) Papá Noel decorations.</div>
+
 
 Around the corner from a particularly lively restaurant,
 
@@ -106,9 +124,21 @@ Yes, folks, we had made it to Bourbon St. It has plenty of neon, plenty of gay b
 
 You bet we crowded onto one of those balconies, though I threw no beads. A few hit me in the head, however!
 
-\[caption id="attachment\_5798" align="aligncenter" width="500"\][![View from a balcony.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_113small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_113small/) View from a balcony.\[/caption\]
 
-\[caption id="attachment\_5799" align="aligncenter" width="500"\][![Christmas lights on Bourbon St.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_114small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_114small/) Christmas lights on Bourbon St.\[/caption\]
+
+
+<div class="caption">
+
+[![View from a balcony.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_113small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_113small/) View from a balcony.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Christmas lights on Bourbon St.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_114small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_114small/) Christmas lights on Bourbon St.</div>
+
 
 I also engaged in a task required of anyone who strolls a party street anywhere in the world:
 
@@ -122,31 +152,97 @@ The next night began with stumbling upon Jackson Square at night.
 
 I don't know why, but a sidewalk full of fortune tellers feels right.
 
-\[caption id="attachment\_5801" align="aligncenter" width="500"\][![Closed up park gates.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_200small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_200small/) Closed up park gates.\[/caption\]
 
-\[caption id="attachment\_5802" align="aligncenter" width="500"\][![Row of shops bordering Jackson Square.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_202small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_202small/) Row of shops bordering Jackson Square.\[/caption\]
 
-\[caption id="attachment\_5803" align="aligncenter" width="500"\][![Decorated carriages hoping for customers.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_209small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_209small/) Decorated carriages hoping for customers.\[/caption\]
 
-\[caption id="attachment\_5804" align="aligncenter" width="500"\][![Fleur de Lis in the evening.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_211small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_211small/) Fleur de Lis in the evening.\[/caption\]
+<div class="caption">
 
-\[caption id="attachment\_5813" align="aligncenter" width="333"\][![Merry Christmas walkway.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_355small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_355small/) Merry Christmas walkway.\[/caption\]
+[![Closed up park gates.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_200small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_200small/) Closed up park gates.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Row of shops bordering Jackson Square.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_202small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_202small/) Row of shops bordering Jackson Square.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Decorated carriages hoping for customers.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_209small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_209small/) Decorated carriages hoping for customers.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Fleur de Lis in the evening.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_211small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_211small/) Fleur de Lis in the evening.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Merry Christmas walkway.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_355small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_355small/) Merry Christmas walkway.</div>
+
 
 We walked back to CBD and the hotel that evening by way of Woldenberg Riverfront Park. It was a scenic, romantic way to get a good, long look at the Mississippi River.
 
-\[caption id="attachment\_5806" align="aligncenter" width="1024"\][![Decatur St. from the river. Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_219small-1024x267.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_219small/) Decatur St. from the river. Click twice for the largest view!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Decatur St. from the river. Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_219small-1024x267.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_219small/) Decatur St. from the river. Click twice for the largest view!</div>
+
 
  
 
-\[caption id="attachment\_5807" align="aligncenter" width="334"\][![Ole Man River Ole Man River](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_220small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_220small/) Ole Man River Ole Man River\[/caption\]
 
-\[caption id="attachment\_5830" align="aligncenter" width="500"\][![Bridge view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_222small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_222small/) Bridge view.\[/caption\]
 
-\[caption id="attachment\_5808" align="aligncenter" width="500"\][![Holocaust Memorial.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_226small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_226small/) Holocaust Memorial.\[/caption\]
 
-\[caption id="attachment\_5809" align="aligncenter" width="334"\][![Aquarium of the Americas](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_227small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_227small/) Aquarium of the Americas\[/caption\]
+<div class="caption">
 
-\[caption id="attachment\_5810" align="aligncenter" width="500"\][![Octopus in the sky/I wish I could fly so high  ♫](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_228small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_228small/) Octopus in the sky/I wish I could fly so high  ♫\[/caption\]
+[![Ole Man River Ole Man River](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_220small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_220small/) Ole Man River Ole Man River</div>
+
+
+
+
+
+<div class="caption">
+
+[![Bridge view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_222small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_222small/) Bridge view.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Holocaust Memorial.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_226small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_226small/) Holocaust Memorial.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Aquarium of the Americas](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_227small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_227small/) Aquarium of the Americas</div>
+
+
+
+
+
+<div class="caption">
+
+[![Octopus in the sky/I wish I could fly so high  ♫](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_228small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_228small/) Octopus in the sky/I wish I could fly so high  ♫</div>
+
 
 Harrah's casino is pretty in the night sky, too.
 
@@ -170,15 +266,39 @@ It's the home of the Hurricane—I told you New Orleans was the granddaddy of co
 
 Honestly, their version was too sweet for me, but I drank it like the dutiful tourist I am. You can keep the souvenir glass if you want, but if you don't, turn that sucker in before you go to get a few extra dollars back. The real draw at Pat O'Brien's is the gorgeous courtyard and the flaming fountain.
 
-\[caption id="attachment\_5819" align="aligncenter" width="500"\][![There's a piano bar off one of these rooms leading toward the courtyard.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_385small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_385small/) There's a piano bar off one of these rooms leading toward the courtyard.\[/caption\]
 
-\[caption id="attachment\_5822" align="aligncenter" width="500"\][![My husband pretending he cares as much about ambience as I do.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_389small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_389small/) My husband pretending he cares as much about ambience as I do.\[/caption\]
+
+
+<div class="caption">
+
+[![There's a piano bar off one of these rooms leading toward the courtyard.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_385small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_385small/) There's a piano bar off one of these rooms leading toward the courtyard.</div>
+
+
+
+
+
+<div class="caption">
+
+[![My husband pretending he cares as much about ambience as I do.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_389small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_389small/) My husband pretending he cares as much about ambience as I do.</div>
+
 
  
 
-\[caption id="attachment\_5820" align="aligncenter" width="333"\][![The flame!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_387small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_387small/) The flame!\[/caption\]
 
-\[caption id="attachment\_5823" align="aligncenter" width="333"\][![Me and the flame!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_392small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_392small/) Me and the flame!\[/caption\]
+
+
+<div class="caption">
+
+[![The flame!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_387small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_387small/) The flame!</div>
+
+
+
+
+
+<div class="caption">
+
+[![Me and the flame!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_392small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_392small/) Me and the flame!</div>
+
 
 [![Pat O'Brien's Courtyard Restaurant on Urbanspoon](http://www.urbanspoon.com/b/link/1609025/minilink.gif)](http://www.urbanspoon.com/r/57/1609025/restaurant/French-Quarter/Pat-OBriens-Courtyard-Restaurant-New-Orleans)
 

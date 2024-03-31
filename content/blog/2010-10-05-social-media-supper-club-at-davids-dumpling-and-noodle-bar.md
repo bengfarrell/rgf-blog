@@ -1,11 +1,11 @@
 ---
 title: "Social Media Supper Club at David’s Dumpling and Noodle Bar"
 date: "2010-10-05"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "restaurants"
   - "sake"
-tags: 
+tags:
   - "chef-mao"
   - "chinese-comfort-food"
   - "chinese-food"
@@ -31,11 +31,29 @@ Inside, a group of fifteen of us hung out at the bar while waiting for a table, 
 
 I blame my bad focus for this set of photos on my camera being on the fritz. Sure, its problems have nothing to do with focusing, but I’m blaming it anyway. One must not admit their own shortcomings. As you can see, the space is quite open, with two rows of tables around the bar, leading into a larger room where we were sat. Large pictures of Chef Mao making dumplings and noodles are hung all around the green, blue, and brick walls. He has the most gigantic hands we’ve ever seen, though they seemed strangely normal-sized as he made the rounds at various table, saying hello to guests. A trick of the eye, I’m sure. I thought the background music was a great choice: good beats at a volume just high enough to make the restaurant feel more happening than it was.
 
-\[caption id="" align="aligncenter" width="408" caption="@demandycom, @\_thon, and @BoraZ"\]![](http://www.thegourmez.com/gourmez/photos/davidsdumplings09.JPG)\[/caption\]
 
-\[caption id="" align="aligncenter" width="408" caption="@demandycom, @\_thon, and @BCwritr"\]![](http://www.thegourmez.com/gourmez/photos/davidsdumplings05.JPG)\[/caption\]
 
-\[caption id="" align="aligncenter" width="408" caption="@ . . . well, she has a lot of twitter names. We'll go with @DawnACrawford."\]![](http://www.thegourmez.com/gourmez/photos/davidsdumplings04.JPG)\[/caption\]
+
+<div class="caption">
+
+![](http://www.thegourmez.com/gourmez/photos/davidsdumplings09.JPG)</div>
+
+
+
+
+
+<div class="caption">
+
+![](http://www.thegourmez.com/gourmez/photos/davidsdumplings05.JPG)</div>
+
+
+
+
+
+<div class="caption">
+
+![](http://www.thegourmez.com/gourmez/photos/davidsdumplings04.JPG)</div>
+
 
 As for libations, I tried the Kikusui sake, which was a tad sweet, really good, and tasted of caramel and orange water. The beer drinkers all enjoyed the Great Divide Samurai rice ale. No full bar for the present at least. As for food, nearly all of us opted to try a few of the appetizers ($2.50--$6.00), noodle plates ($5.50--$9.00), and “Quick Stir” dishes ($10)---stir-fry is so passé---rather than the entrees ($16) to see if the dumplings and noodles were worthy of claiming the restaurant’s name. The small plates, soups, and apps are a great deal, especially the noodles that were plenty large enough to be a full meal on their own.
 
@@ -65,12 +83,30 @@ Reactions to the other dishes ranged greatly. The beef with black bean sauce was
 
 Overall impressions went from “awesome” to “nothing blew me away.” I fall in the middle and would describe David’s Dumpling and Noodle Bar just as its name advertises: simple comfort food and preparations done in a healthier manner than a Chinese take-out. If I lived in Raleigh, it would easily be my choice for Chinese food out, and the atmosphere was welcoming and soothing. Just don’t expect fancy, inventive preparations like Chef Mao created at the Duck and Dumpling.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)</div>
+
 
 As for the tale of the Social Media Supper Club, it ended well with full bellies, pleasant conversations, and enough rice beer for all!
 
-\[caption id="" align="aligncenter" width="408" caption="@BoraZ, @durhamfoodie, Todd, (who may or may not have a twitter name), @\_thon, and @demandycom"\]![](http://www.thegourmez.com/gourmez/photos/davidsdumplings07.JPG)\[/caption\]
 
-\[caption id="" align="aligncenter" width="408" caption="@Mary\_Eats, @JadBean, half of @mistersugar’s face, and @rdugonnaeatthat"\]![](http://www.thegourmez.com/gourmez/photos/davidsdumplings06.JPG)\[/caption\]
+
+
+<div class="caption">
+
+![](http://www.thegourmez.com/gourmez/photos/davidsdumplings07.JPG)</div>
+
+
+
+
+
+<div class="caption">
+
+![](http://www.thegourmez.com/gourmez/photos/davidsdumplings06.JPG)</div>
+
 
 Will there be a sequel? Only time and the mellow, lax decision-making process of the organizers will tell. Let us know if you’d like to come to the next one, and what restaurants you’d like to check out if so. If anyone has more pictures to share, please link to them in the comments.

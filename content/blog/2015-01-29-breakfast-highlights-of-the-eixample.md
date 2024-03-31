@@ -1,10 +1,10 @@
 ---
 title: "Breakfast Highlights of the Eixample"
 date: "2015-01-29"
-categories: 
+categories:
   - "dining-barcelona"
   - "barcelona-spain-catalunya-travel-tips"
-tags: 
+tags:
   - "alsur-cafe"
   - "architecture"
   - "barcelona"
@@ -42,7 +42,13 @@ So let's start with the Eixample, the only region of the city center that was pl
 
 I loved that set-up, though it does make for longer blocks than you might think. The Eixample is also home to most of the city's famous buildings designed by the Modernist architect Antonin Gaudi and his compatriots. This beauty, la Pedrera, was two blocks from our hotel and the first site that caught my eye as we dragged our suitcases up Passeig de Gracia from the Placa de Cataluyna bus stop.
 
-\[caption id="attachment\_9580" align="aligncenter" width="500"\]![We're not in Kansas anymore. Thank God.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/01/2014_Barcelona_20-500x327.jpg) We're not in Kansas anymore. Thank God.\[/caption\]
+
+
+
+<div class="caption">
+
+![We're not in Kansas anymore. Thank God.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/01/2014_Barcelona_20-500x327.jpg) We're not in Kansas anymore. Thank God.</div>
+
 
 But the food, Becca! You said this was about the food!
 
@@ -120,7 +126,13 @@ Though if you want a hearty, greasy repast, that ham and cheese on sliced brioch
 
 _English menu available._ _Nearby Sights: Montjuic, Placa de les Drassanes, Santa Madrona, and the fine drag queens at El Molina, who will try to convince you to come inside for a show._
 
-\[caption id="attachment\_9586" align="aligncenter" width="333"\]![Ahoy! Drag queens incoming!!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/01/2014_Barcelona_122-333x500.jpg) Ahoy! Drag queens incoming!!\[/caption\]
+
+
+
+<div class="caption">
+
+![Ahoy! Drag queens incoming!!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/01/2014_Barcelona_122-333x500.jpg) Ahoy! Drag queens incoming!!</div>
+
 
 **Next up:** Spending the day at la Sagrada Familia. Not a dining highlight, but the highlight of my whole trip.
 

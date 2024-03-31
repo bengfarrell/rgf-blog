@@ -1,10 +1,10 @@
 ---
 title: "Baguetteaboutit"
 date: "2012-12-19"
-categories: 
+categories:
   - "food-trucks-and-carts"
   - "ice-cream-bakery-food-truck"
-tags: 
+tags:
   - "baguettaboutit"
   - "baguette"
   - "chapel-hill"
@@ -25,13 +25,25 @@ tags:
 
 **Baguetteaboutit** [Various Triangle Parking Lots](http://baguettaboutit.com/schedule/) [Website](http://baguettaboutit.com/)
 
-\[caption id="attachment\_5330" align="aligncenter" width="600"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/baguettaboutit.jpg "baguettaboutit")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/baguettaboutit.jpg) This picture shamelessly stolen from their Facebook page.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/baguettaboutit.jpg "baguettaboutit")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/baguettaboutit.jpg) This picture shamelessly stolen from their Facebook page.</div>
+
 
 Despite the fact that I really want to spell it _bahgeddaboudit_, I can’t resist a food truck with a good pun for a name. A good bun, in this case, too. Baguetteaboutit is one soldier in the Triangle’s army of food trucks, and I’ve had their sandwich rolls twice now. The first time was in Raleigh the night that the Natural Life and Science Museum opened their new wing. The second time was at lunch during the Sustainable Classroom at TerraVITA in Chapel Hill. Unlike some food trucks, they don’t appear to have a regular schedule of locations. They seem to move on to greener pastures pretty much every day, which I imagine is good for getting more people exposed to their inventive food.
 
 That food is simple: a french baguette hollowed out so a sausage can be shoved inside of it along with some sauce. That’s all it is, but the combinations cover a vast spectrum of global cuisine. Chicken spinach sausage with tzatziki sauce? Bratwurst with mustard? You bet. They manage to make the experience of ordering fun, too, through the use of cute paper bags the sandwich rolls are delivered in and ordered on.
 
-\[caption id="attachment\_5328" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012132.jpg "TerraVita2012132")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012132.jpg) The grease spots make it look more appetizing, right?\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012132.jpg "TerraVita2012132")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012132.jpg) The grease spots make it look more appetizing, right?</div>
+
 
 They have eight different combinations of sausage and sauce, or you can make your own flavor explosion. And I do mean explosion. So much so that the first one I tried, the South of the Border, was too much heat for these taste buds. I love spice, adore it! I’m proud of my ability to amaze most men with the amount of hot wing heat I can stand and my willingness to use habaneros when making a Mexican dish. I even chop them without gloves! But the habanero hellfire sauce on this roll blew me away. I can’t even remember the taste of the chorizo beyond noting it was Spanish-cured and thus harder than crumbly Mexican chorizo. I’m not sure I can recommend it, because all I remember is valiantly eating my way through the large roll because my husband couldn’t take that heat. I also found the roll dry despite the hellfire sauce.
 

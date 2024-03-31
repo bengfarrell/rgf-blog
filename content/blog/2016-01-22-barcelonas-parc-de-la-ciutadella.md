@@ -1,9 +1,9 @@
 ---
 title: "Barcelona’s Parc de la Ciutadella"
 date: "2016-01-22"
-categories: 
+categories:
   - "barcelona-spain-catalunya-travel-tips"
-tags: 
+tags:
   - "arc-de-triomf"
   - "barcelona"
   - "cascada"
@@ -33,7 +33,13 @@ In a city as large as Barcelona, four days is never long enough to explore. On o
 
 I know what you’re thinking: Barcelona has a triumphal arch too?! I thought that was Paris’s thing! Well, there is no copyright on arches, at least according to 19th Century builders, who reprised the Roman practice. London, Brooklyn, and Bucharest all boast notable examples. Barcelona’s was built as the main access gate to the 1888 Barcelona World Fair, and plenty of tourists and residents are still passing through it today.
 
-\[caption id="attachment\_25676" align="aligncenter" width="500"\][![A better idea of its scale?](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_490-500x369.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_490.jpg) A better idea of its scale?\[/caption\]
+
+
+
+<div class="caption">
+
+[![A better idea of its scale?](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_490-500x369.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_490.jpg) A better idea of its scale?</div>
+
 
 Nearly as appealing was the palm tree-lined pedestrian avenue that led our way to the park from the Arc, along the Passeig de Lluis Companys.
 
@@ -55,7 +61,13 @@ Parc de la Ciutadella is the city of Barcelona’s oldest green space, the desce
 
 On the left of the Plaça d’Armes is the former armory. That now houses the Catalan Parliament, the legislative government of Catalonia, which is still under Spanish rule but partially autonomous. On the right is the Military Parish Church of Barcelona, which was the chapel during the Citadel years.
 
-\[caption id="attachment\_25689" align="aligncenter" width="325"\][![Door panel](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_545-325x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_545.jpg) Door panel\[/caption\]
+
+
+
+<div class="caption">
+
+[![Door panel](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_545-325x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_545.jpg) Door panel</div>
+
 
 The trees in this section of the park delighted me -- and the parakeets. I found them beautifully lit in the afternoon sun, in a way that stirred my artistic side, and apparently that of Sculptor Josep Clarà as his _Aux Volontaires Catalans_ makes a perfect line with the trees in winter.
 

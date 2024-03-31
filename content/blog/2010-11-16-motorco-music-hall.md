@@ -1,10 +1,10 @@
 ---
 title: "Motorco Music Hall"
 date: "2010-11-16"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "central-park-district"
   - "durham"
   - "geer-and-rigsbee"
@@ -27,7 +27,13 @@ Nice sign, huh? Motorco is an almost two-month-old addition to the corner of Rig
 
 It’s got the classic, dark rock club feel in the main room, with a nice curveball of a full-length window that runs nearly the whole length of the establishment. It adds a wonderful, street-scene appeal to the space.
 
-\[caption id="attachment\_3838" align="aligncenter" width="300"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/motorco10-300x200.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/motorco10.jpg) You can kind of see the windows here.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/motorco10-300x200.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/motorco10.jpg) You can kind of see the windows here.</div>
+
 
 There are also bleachers on both sides of the large room, and an attractive row of lights above the bar.
 

@@ -1,12 +1,12 @@
 ---
 title: "Eats and Night Sights in New Orleans"
 date: "2013-02-08"
-categories: 
+categories:
   - "new-orleans-bar-review"
   - "new-orleans-restaurant-review"
   - "restaurants"
   - "new-orleans-travel"
-tags: 
+tags:
   - "alligator"
   - "bar"
   - "barbecue-shrimp"
@@ -46,7 +46,13 @@ tags:
 
 **Eats and Night Sights in New Orleans**
 
-\[caption id="attachment\_5753" align="aligncenter" width="1024"\][![Click twice on the panorama for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_217small-1024x306.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_217small/) Click twice on the panorama for the largest view!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Click twice on the panorama for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_217small-1024x306.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_217small/) Click twice on the panorama for the largest view!</div>
+
 
 Why, you might ask, are you focusing on dining at night in New Orleans? Isn't the food there good anytime? Of course it is! But one must make distinctions between their blog posts somehow, and with the massive amount of eating we did in New Orleans, I figured divvying up the meals by time of day made as much sense as any other reasoning. So yes, you can expect an Eats in the Day post in a few weeks. There will also be Drinks at Night coming up, and in all my New Orleans travelogues, sights found while walking through the streets will be interspersed. But I know you, you know me, and we all know that food and drink is our priority. So let's dig in!
 
@@ -54,7 +60,13 @@ Why, you might ask, are you focusing on dining at night in New Orleans? Isn't th
 
 [![2012_Dec_Nola_070small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_070small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_070small/)
 
-\[caption id="attachment\_5736" align="aligncenter" width="500"\][![Waiting at the counter to order.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_071small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_071small/) Waiting at the counter to order.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Waiting at the counter to order.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_071small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_071small/) Waiting at the counter to order.</div>
+
 
 Or perhaps I've spent too much time in the South. It's the same meat plus three sort of establishment I've been to a million times by now, and I’m not that enamored with most Southern sides. I opted for the crawfish etoufée.
 
@@ -70,9 +82,21 @@ He was not impressed. It was drenched in juice, not that flavorful, and the brea
 
 Discouraged that Mother's didn't live up to the hype for me, we walked a few blocks from the Central Business District to get our first experiences in the French Quarter.
 
-\[caption id="attachment\_5739" align="aligncenter" width="500"\][![Crossing Canal St.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_076small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_076small/) Crossing Canal St.\[/caption\]
 
-\[caption id="attachment\_5740" align="aligncenter" width="500"\][![Typical French Quarter block at night.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_087small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_087small/) Typical French Quarter block at night.\[/caption\]
+
+
+<div class="caption">
+
+[![Crossing Canal St.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_076small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_076small/) Crossing Canal St.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Typical French Quarter block at night.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_087small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_087small/) Typical French Quarter block at night.</div>
+
 
 Crossing the French Quarter entirely, with a few drinks mixed in to sustain us, we eventually arrived at Fauborg Maurigny. Frenchmen St. was our target, the prime spot for music lovers. Of course, there's live music every night in many of the city's restaurants and bars, but Frenchmen has a concentration of small clubs.
 
@@ -158,15 +182,33 @@ Night #3 began with an early appetizer at the [Crescent City Brewhouse](http://w
 
 [![2012_Dec_Nola_341small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_341small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_341small/)
 
-\[caption id="attachment\_5764" align="aligncenter" width="334"\][![Awesome octopi above the bar.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_348small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_348small/) Awesome octopi above the bar.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Awesome octopi above the bar.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_348small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_348small/) Awesome octopi above the bar.</div>
+
 
 [![2012_Dec_Nola_346small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_346small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_346small/)
 
 Those Cajun meat pies were very good, and so was the beer.
 
-\[caption id="attachment\_5761" align="aligncenter" width="334"\][![Seasonal fall brew.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_345small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_345small/) Seasonal fall brew.\[/caption\]
 
-\[caption id="attachment\_5763" align="aligncenter" width="334"\][![The Black Forest.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_347small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_347small/) Black Forest beer.\[/caption\]
+
+
+<div class="caption">
+
+[![Seasonal fall brew.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_345small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_345small/) Seasonal fall brew.</div>
+
+
+
+
+
+<div class="caption">
+
+[![The Black Forest.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_347small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_347small/) Black Forest beer.</div>
+
 
 I would avoid their cocktails, though.
 

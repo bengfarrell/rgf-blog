@@ -1,11 +1,11 @@
 ---
 title: "Momoyama (Southpoint, Durham)---Restaurant Review"
 date: "2010-03-31"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "plum-wine"
   - "restaurants"
-tags: 
+tags:
   - "japanese-restaurant"
   - "momoyama"
   - "sashimi-platter"
@@ -45,6 +45,12 @@ My husband had a sushi and sashimi combo dinner. I didn't try it, but he thought
 
 Momoyama, while a little lacking in atmosphere, does provide a great dinner. I enjoyed every morsel of mine. I cannot say how much the gorgeous weather that day gets the credit for that.
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\]![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]
+
+
+
+<div class="caption">
+
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+
 
 _Reviewed 3.19.10._

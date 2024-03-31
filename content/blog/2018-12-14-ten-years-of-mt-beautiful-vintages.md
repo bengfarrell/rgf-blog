@@ -1,7 +1,7 @@
 ---
 title: "Ten Years of Mt. Beautiful Vintages"
 date: "2018-12-14"
-categories: 
+categories:
   - "chardonnay"
   - "san-francisco-restaurant-review"
   - "pinot-grigio-gris"
@@ -12,7 +12,7 @@ categories:
   - "sauvignon-blanc"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "mt-beautiful"
   - "new-zealand-wine"
   - "sens-restaurant"
@@ -24,11 +24,23 @@ Did you say _vertical tasting_?
 
 [![Mt. Beautiful wine, pinot gris, vertical tasting](http://s3.amazonaws.com/thegourmez-wpmedia/2018/11/2018-Mt-Beautiful-17-396x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/11/2018-Mt-Beautiful-17.jpg)That's an irresistible invitation for wine bloggers. We love to compare and contrast different vintages from the same winery, to ponder the sometimes subtle, sometimes great, differences between them.  Make it five vertical tastings in an evening, at a restaurant I've never tried before and from a wine region with which I'm barely familiar, and my participation is a foregone conclusion. _Obligatory disclaimer:_ As media, this experience was entirely free to me at the invitation of Mt. Beautiful Winery.
 
-\[caption id="attachment\_28438" align="aligncenter" width="375"\][![rebecca gomez farrell, the gourmez, wine, rose](http://s3.amazonaws.com/thegourmez-wpmedia/2018/11/2018-Mt-Beautiful-03-375x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/11/2018-Mt-Beautiful-03.jpg) Kicking things off with a glass of rosé in Sens' garden.\[/caption\]
+
+
+
+<div class="caption">
+
+[![rebecca gomez farrell, the gourmez, wine, rose](http://s3.amazonaws.com/thegourmez-wpmedia/2018/11/2018-Mt-Beautiful-03-375x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/11/2018-Mt-Beautiful-03.jpg) Kicking things off with a glass of rosé in Sens' garden.</div>
+
 
 [Mt. Beautiful Winery's](https://mtbeautiful.co.nz/) 10th Vintage Anniversary was the reason for the vertical tastings. Owned by the Teece family of North Canterbury, New Zealand, the farms and other properties that make up Mt. Beautiful are based right below the Kaikoura Seaward Mountains.
 
-\[caption id="attachment\_28449" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/12/mt-beautiful-stock-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/11/mt-beautiful-stock.jpg) Photo from Mt. Beautiful's website.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/12/mt-beautiful-stock-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/11/mt-beautiful-stock.jpg) Photo from Mt. Beautiful's website.</div>
+
 
 Mt Beautiful's first wine was released to the public in 2008. They currently make seven types: four white wines and pinot noir, from which they also make a barrel select wine and a rosé. Minus the rosé, we had a full vertical of each available to us. That's a lot of wine, folks! Thirty-eight different vintage­­–varietal combinations, in fact. Which was way too many for me to attempt in an evening. Even spitting, that curiosity would kill this cat. Instead, I homed in on four from each grape, for a grand total of twenty wines. And that was still plenty! Luckily, we had a great selection of palate-cleansing appetizers from our host restaurant, [Sens](http://www.sens-sf.com/).
 

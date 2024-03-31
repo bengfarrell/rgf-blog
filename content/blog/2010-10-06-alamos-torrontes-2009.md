@@ -1,10 +1,10 @@
 ---
 title: "Alamos Torrontes 2009"
 date: "2010-10-06"
-categories: 
+categories:
   - "torrontes"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2009"
   - "alamos-torrontes"
   - "celery"
@@ -23,7 +23,13 @@ tags:
 
 This is the perfect white wine for me. It’s very tart with plentiful grapefruit and acidity at first, but that gets bathed and soothed with a vegetal greenness: leek? celery? Vanilla pops in with a slight tang of eucalyptus to help wash things down.
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)</div>
+
 
 Other Bloggers’ Thoughts
 

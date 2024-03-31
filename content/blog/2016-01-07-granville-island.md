@@ -1,13 +1,13 @@
 ---
 title: "Granville Island"
 date: "2016-01-07"
-categories: 
+categories:
   - "dining-vancouver-canada"
   - "restaurants"
   - "sake"
   - "travel-guide-for-vancouver"
   - "travel-product-review"
-tags: 
+tags:
   - "artisan-sake-maker"
   - "british-columbia"
   - "canada"
@@ -89,7 +89,13 @@ The primary draw at Granville Island is the [Public Market](http://granvilleisla
 
 I did grab sweet and spicy popcorn and a cappuccino and headed out the back for a breath of fresh, and much less crowded, air. Did I mention the view?
 
-\[caption id="attachment\_25468" align="aligncenter" width="900"\][![Downtown Vancouver across False Creek.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-169-1024x281.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-169.jpg) Downtown Vancouver across False Creek.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Downtown Vancouver across False Creek.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-169-1024x281.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-169.jpg) Downtown Vancouver across False Creek.</div>
+
 
 While the Public Market and Edible Canada are certainly enough to fill up the three hours we had, I decided to stroll more and ended up in the Railspur District.
 

@@ -1,10 +1,10 @@
 ---
 title: "Watts Grocery and Listen to Your Elders Reviews"
 date: "2009-03-15"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "cocktails-triangle"
   - "listen-to-your-elders-cocktail"
   - "the-gourmez"
@@ -33,8 +33,20 @@ Watts Grocery has a great drink list available and I will enjoy making my way th
 
 Restaurant:
 
-\[caption id="attachment\_49" align="alignnone" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+
 
 Cocktail:
 
-\[caption id="attachment\_55" align="alignnone" width="40"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+

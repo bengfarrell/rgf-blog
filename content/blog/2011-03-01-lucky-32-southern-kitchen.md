@@ -1,11 +1,11 @@
 ---
 title: "Lucky 32 Southern Kitchen"
 date: "2011-03-01"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "events"
   - "restaurants"
-tags: 
+tags:
   - "apicius-apprenti"
   - "barbecue-shrimp"
   - "cary-dining"
@@ -35,7 +35,13 @@ For this month’s [Social Media Supper Club](http://www.amiando.com/smsc.html),
 
 First off, Lucky 32 is a huge space with an outdoor patio, large bar, and two spacious dining rooms that still manages to feel cozy and modern.
 
-\[caption id="attachment\_2308" align="aligncenter" width="450" caption="Mandy, Brian, and Chelsea unknowingly showing off the decor behind them."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/lucky3206.jpg "lucky3206")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/lucky3206.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/lucky3206.jpg "lucky3206")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/lucky3206.jpg)</div>
+
 
 We all loved the cherry wood tables, red-and-brown-patterned chairs, and beige walls. Add in fun, floral- and saucer-shaped lamps, and you have a stellar atmosphere. Also stellar was the variety of appetizers that Lucky 32 gave us with their compliments! I didn't take pictures of them this time, but if you want to see them, check out the earlier tweetup link. The voodoo pig bread was definitely the winner with its sweet and spicy glaze, goat cheese, red onion, and cilantro on soft ciabatta flatbread. The jazz fest shrimp bread with a rich cheese sauce and green onions was Valentina’s favorite—a party in her mouth was the quote. Votes also went out for the sweet potato hushpuppies with country gravy. I was impressed with the fried green tomatoes, as I’ve rarely enjoyed them when I’ve tried the Southern classic, but these came with a great blue cheese sauce, small bits of bacon, and more of Lucky 32’s fab voodoo sauce—yes, they bottle it, and I really ought to have brought one home. The tomatoes were too firm in the opinion of some clubbers, but I like the texture. The Whistle Bite Sliders’ pork belly was extra fatty this time so not as amazing as during the foodie tweetup, but if you are a pork belly fan, they aren’t to be missed.
 
@@ -93,7 +99,13 @@ She would have preferred a fluffier pie with more chocolate but was pretty happy
 
 So what did we think?
 
-\[caption id="attachment\_2306" align="aligncenter" width="450" caption="The discerning judges of the evening."\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/lucky3208.jpg "lucky3208")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/lucky3208.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/lucky3208.jpg "lucky3208")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/lucky3208.jpg)</div>
+
 
 We were pretty evenly torn between 3 and 4 stars, with the lower, yet still satisfied, scores due to a couple of service errors, a few dishes that could use more refinement, and a general feeling that the entrees would be more appealing if priced a couple of dollars lower. However, I’m writing this, so I get the last vote and I opt for 4! My choices were pretty great, I think those appetizers are outstanding, and I’d be happy to return and try more. Definitely order anything with sweet potatoes or voodoo sauce!
 

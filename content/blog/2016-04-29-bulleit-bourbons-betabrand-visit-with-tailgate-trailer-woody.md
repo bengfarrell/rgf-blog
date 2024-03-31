@@ -1,11 +1,11 @@
 ---
 title: "Bulleit Bourbon’s Betabrand Visit with Tailgate Trailer Woody!"
 date: "2016-04-29"
-categories: 
+categories:
   - "bourbon"
   - "events"
   - "spirits"
-tags: 
+tags:
   - "betabrand"
   - "bourbon-reviews"
   - "bourbon-cocktails"
@@ -20,11 +20,23 @@ tags:
 
  
 
-\[caption id="attachment\_25918" align="aligncenter" width="415"\][![Photograph credit to Bulleit.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/bulleit-woody-1-415x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/bulleit-woody-1.jpg) Photograph credit to Bulleit.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Photograph credit to Bulleit.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/bulleit-woody-1-415x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/bulleit-woody-1.jpg) Photograph credit to Bulleit.</div>
+
 
 Two weeks ago, I picked up an invite to come see Woody, a trailer beautifully designed by Brad Ford and furnished by Moore & Giles, two names that mean a lot in luxury circles. Woody is currently an ambassador of [Bulleit Brand](https://www.bulleit.com/) bourbons and whiskeys, which makes a lot of sense as the refinished wood that panels its deluxe sleeper interior is from reclaimed Bulleit bourbon casks.
 
-\[caption id="attachment\_25913" align="aligncenter" width="334"\][![ A tiny peek inside.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BetabrandBulleit05-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BetabrandBulleit05.jpg) A tiny peek inside.\[/caption\]
+
+
+
+<div class="caption">
+
+[![ A tiny peek inside.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BetabrandBulleit05-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BetabrandBulleit05.jpg) A tiny peek inside.</div>
+
 
 Woody’s been travelling the county, combining bourbon promotion with spotlighting local businesses under the hashtag #WheresWoody. The night I made this trailer’s acquaintance, the answer to that question was San Francisco’s [Betabrand](https://www.betabrand.com/) office in the Mission District.
 
@@ -36,7 +48,13 @@ Woody was parked right inside Betabrand’s space, making great pictures of the 
 
 I wish we could have had a tour, but the event was really more of a socializing hour for Betabrand employees and their friends--or friends removed a few degrees at least! I didn’t meet anyone who worked for the company, as everyone introduced themselves as friends of someone who did. That includes these characters, who kept me company in the taco truck line:
 
-\[caption id="attachment\_25920" align="aligncenter" width="500"\][![I told you that you’d make the blog post!](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BetabrandBulleit24-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BetabrandBulleit24.jpg) I told you that you’d make the blog post!\[/caption\]
+
+
+
+<div class="caption">
+
+[![I told you that you’d make the blog post!](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BetabrandBulleit24-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BetabrandBulleit24.jpg) I told you that you’d make the blog post!</div>
+
 
 Inside, the bartenders served up two classic cocktails with bourbon twists, some of them coming directly from Woody’s impressive back bar.
 

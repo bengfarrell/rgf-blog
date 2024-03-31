@@ -1,9 +1,9 @@
 ---
 title: "A Mural Tour in the Mission"
 date: "2014-04-17"
-categories: 
+categories:
   - "san-francisco-travel"
-tags: 
+tags:
   - "24th-and-york"
   - "art"
   - "artists"
@@ -42,7 +42,13 @@ It begins at the Precita Arts Center at 2981 24th Street with an informative—a
 
 Why yes, that is a ballerina skeleton! I thought it was beautifully colorful and fun, and the artist is none other than Patricia Rose, who is likely to be your tour guide as well as she is the director of the tours program.
 
-\[caption id="attachment\_8067" align="aligncenter" width="333"\][![Patricia Rose, showing off electrical-box art.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/04/Mural_Tour_08-333x500.jpg)](http://www.rebeccagomezfarrell.com/2014/04/a-mural-tour-in-the-mission/mural_tour_08/) Patricia Rose, showing off electrical-box art.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Patricia Rose, showing off electrical-box art.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/04/Mural_Tour_08-333x500.jpg)](http://www.rebeccagomezfarrell.com/2014/04/a-mural-tour-in-the-mission/mural_tour_08/) Patricia Rose, showing off electrical-box art.</div>
+
 
 Make sure you take the time to explore the gift shop. It has several early sketches for large-scale murals on the walls in addition to a lot of really interesting souvenir items. More interesting than another magnet of Alcatraz Island, I promise you.
 
@@ -108,11 +114,29 @@ But Patricia brought us there to highlight the mosaic work, a type of mural that
 
 The park’s centerpiece is a mosaic snake for climbing on and running around that I thought was breathtaking.
 
-\[caption id="attachment\_8085" align="aligncenter" width="333"\][![Up close on the snake’s back.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/04/Mural_Tour_84-333x500.jpg)](http://www.rebeccagomezfarrell.com/2014/04/a-mural-tour-in-the-mission/mural_tour_84/) Up close on the snake’s back.\[/caption\]
 
-\[caption id="attachment\_8086" align="aligncenter" width="500"\][![ One of many plaques celebrating different types of crafts embedded within the snake’s scales.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/04/Mural_Tour_86-500x333.jpg)](http://www.rebeccagomezfarrell.com/2014/04/a-mural-tour-in-the-mission/mural_tour_86/) One of many plaques celebrating different types of crafts embedded within the snake’s scales.\[/caption\]
 
-\[caption id="attachment\_8087" align="aligncenter" width="500"\][![Its head.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/04/Mural_Tour_87-500x333.jpg)](http://www.rebeccagomezfarrell.com/2014/04/a-mural-tour-in-the-mission/mural_tour_87/) Its head.\[/caption\]
+
+<div class="caption">
+
+[![Up close on the snake’s back.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/04/Mural_Tour_84-333x500.jpg)](http://www.rebeccagomezfarrell.com/2014/04/a-mural-tour-in-the-mission/mural_tour_84/) Up close on the snake’s back.</div>
+
+
+
+
+
+<div class="caption">
+
+[![ One of many plaques celebrating different types of crafts embedded within the snake’s scales.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/04/Mural_Tour_86-500x333.jpg)](http://www.rebeccagomezfarrell.com/2014/04/a-mural-tour-in-the-mission/mural_tour_86/) One of many plaques celebrating different types of crafts embedded within the snake’s scales.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Its head.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/04/Mural_Tour_87-500x333.jpg)](http://www.rebeccagomezfarrell.com/2014/04/a-mural-tour-in-the-mission/mural_tour_87/) Its head.</div>
+
 
 That park was an appropriate place to end the tour because it brought us back to the people of the Mission who have done so much to support the muralists among them. Again and again, I was impressed by Patricia’s obvious love for her neighbors and her enthusiasm for using the arts as a means of fostering community. It was an impressive element of a tour that I found well-worth taking. If you’re interested in learning more about the artwork you pass in the Mission, make sure you take an hour or two and hit it up sometime.
 

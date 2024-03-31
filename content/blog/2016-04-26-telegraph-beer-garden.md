@@ -1,13 +1,13 @@
 ---
 title: "Telegraph Beer Garden"
 date: "2016-04-26"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-oakland"
   - "breweries-in-oakland-ca"
   - "oakland-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bar"
   - "beer"
   - "burgers"
@@ -50,7 +50,13 @@ At least half the people lounging on benches had one in hand, making it likely y
 
 I’d say Telegraph Beer Garden is best enjoyed with a crowd of friends in the early evening hours.
 
-\[caption id="attachment\_25889" align="aligncenter" width="500"\][![Telegraph Beer Garden patio](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Telegraph-02-500x317.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Telegraph-02.jpg) This crowd big enough for you?\[/caption\]
+
+
+
+<div class="caption">
+
+[![Telegraph Beer Garden patio](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Telegraph-02-500x317.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Telegraph-02.jpg) This crowd big enough for you?</div>
+
 
 But if you’re feeling antisocial, there’s room for you here too. Slink into an open spot and you can people watch for hours. Either way, it’s a great uptown Oakland destination with food and drink that’ll intrigue you, even if it doesn’t all pile up quite as nicely as it could. Who cares when another round of cider slushies is on its way?
 

@@ -1,11 +1,11 @@
 ---
 title: "Alexander &amp; Fitch 2007 Cabernet Sauvignon---Wine Review"
 date: "2010-04-12"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "2007-vintage"
   - "alexander-fitch-cabernet-sauvignon"
   - "chocolate"
@@ -20,7 +20,13 @@ tags:
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/alexanderfitchcabsav.JPG)
 
-This red was really dense on first sip, with lots of chocolate, spice, and fruit. Those are all things that are good. The nose had the same qualities, except there was a light element of menthol as well. It was tart but in that great, jam-like way that tantalizes the taste buds. It's medium-bodied with a sweetness that creeps up on you after a few sips. An intriguing, lively wine. \[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\] Other Bloggers' Thoughts:
+This red was really dense on first sip, with lots of chocolate, spice, and fruit. Those are all things that are good. The nose had the same qualities, except there was a light element of menthol as well. It was tart but in that great, jam-like way that tantalizes the taste buds. It's medium-bodied with a sweetness that creeps up on you after a few sips. An intriguing, lively wine.
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+ Other Bloggers' Thoughts:
 
 [The Wine Saver](http://winesaver.blogspot.com/2007/11/alexander-fitch-cabernet-sauvignon.html) on the 2005 vintage
 

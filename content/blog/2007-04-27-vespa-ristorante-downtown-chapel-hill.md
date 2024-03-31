@@ -1,10 +1,10 @@
 ---
 title: "Vespa Ristorante (Downtown Chapel Hill)"
 date: "2007-04-27"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "restaurants"
-tags: 
+tags:
   - "downtown-chapel-hill-dining"
   - "vespa-ristorante"
 ---
@@ -17,4 +17,10 @@ Bread service included yummy breadsticks and an intriguing sesame roll with a st
 
 We've been to Vespa a few times now and it's always a pleasant end to a day.
 
-\[caption id="attachment\_49" align="alignleft" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+

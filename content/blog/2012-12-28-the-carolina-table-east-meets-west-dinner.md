@@ -1,13 +1,13 @@
 ---
 title: "The Carolina Table: East Meets West Dinner"
 date: "2012-12-28"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "kinston-nc-restaurant-review"
   - "events"
   - "restaurants"
   - "travel-product-review"
-tags: 
+tags:
   - "adam-rose"
   - "arancini"
   - "bourbon-ganache"
@@ -56,7 +56,13 @@ tags:
 
 **The Carolina Table: East Meets West Dinner**
 
-\[caption id="attachment\_5367" align="aligncenter" width="334" caption="Table settings for the dinner."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012163.jpg "TerraVita2012163")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012163.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012163.jpg "TerraVita2012163")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012163.jpg)</div>
+
 
 We have finally made it, dear eaters. It’s the last of my posts on TerraVITA 2012, which you may find funny because I passed up the Grand Tasting on the Square, which is TerraVITA’s main event. It did not take place until the day after this meal, and there are several [nice](http://farmfreshnorthcarolina.com/2012/11/food-fest-recap-all-yummy-all-the-time/) [write](https://www.facebook.com/media/set/?set=a.10151097770190759.437392.123680860758&type=1) [ups](http://inezsays.com/long-live-terra-vita.htm) for it. But this blogger knows herself, and she knew she would need a tasting bud sabbatical after the mad rush of the [Media Farm Tour](http://www.rebeccagomezfarrell.com/2012/11/terravita-2012-media-farm-tour-stop-1-southern-season/) and [the Sustainable Classroom](http://www.rebeccagomezfarrell.com/2012/11/the-sustainable-classroom-coffee-chocolate/). So I chose to end my TerraVITA experience with the [East Meets West Dinner](http://www.terravitaevent.com/TerraVITA/CarolinaTable.html), a new addition to TerraVITA. Once again, my meal ticket was complimentary.
 
@@ -72,11 +78,23 @@ The dinner took place at the Chatham Mills in Pittsboro, which I had been to bef
 
 Before we claimed our spots, we were treated to a cocktail and appetizer hour. Chef Adam Rose of [il Palio](http://www.sienahotel.com/IlPalio.aspx) in Chapel Hill supplied arancini with NC truffles and Carolina Gold rice and guafrette potato chips with Elodie Farm goat cheese, Atlantic sturgeon caviar, and Lucky Leaf Garden micro herbs.
 
-\[caption id="attachment\_5383" align="aligncenter" width="334" caption="Chef Adam Rose"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012179.jpg "TerraVita2012179")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012179.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012179.jpg "TerraVita2012179")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012179.jpg)</div>
+
 
 Chef Vivian Howard of [the Chef and the Farmer](http://chefandthefarmer.com/) in Kinston offered collard dolmades with pork, pecan, cranberry, and sweet potato yogurt.
 
-\[caption id="attachment\_5382" align="aligncenter" width="359" caption="Chef Vivian Howard"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012178.jpg "TerraVita2012178")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012178.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012178.jpg "TerraVita2012178")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012178.jpg)</div>
+
 
 Both the mushrooms and dolmades stand out in my mind because I normally don’t like either, but they pleased me this evening.
 
@@ -106,15 +124,33 @@ The cannelloni were too cheesy for me, but the sauce was rich and savory.
 
 Throughout the meal, wine and beer flowed, and the beer was poured by none other than Sean Lilly Wilson, owner of Fullsteam Brewery.
 
-\[caption id="attachment\_5373" align="aligncenter" width="296" caption="Dashing, Sean, dashing."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012169.jpg "TerraVita2012169")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012169.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012169.jpg "TerraVita2012169")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012169.jpg)</div>
+
 
 I am not a huge beer drinker, but I’m learning, and I love trying every new experiment Sean comes up with. I’m not entirely certain my memory’s correct, but I believe I had a bourbon-barrel-aged Workingman’s Lunch that evening and a Sweet Potato Carver.
 
-\[caption id="attachment\_5366" align="aligncenter" width="334" caption="Likely the Carver."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012162.jpg "TerraVita2012162")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012162.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012162.jpg "TerraVita2012162")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012162.jpg)</div>
+
 
 The second course consisted of one dish from Chef Howard and two from Chef and Farmer Cassie Parsons of [Harvest Moon Grille](http://www.harvestmoongrillecharlotte.com/) in Charlotte.
 
-\[caption id="attachment\_5384" align="aligncenter" width="272" caption="Chef Cassie Parsons"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012181.jpg "TerraVita2012181")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012181.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012181.jpg "TerraVita2012181")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012181.jpg)</div>
+
 
 She had also been a participant in the highly engaging [panel discussion](http://www.rebeccagomezfarrell.com/2012/12/terravita-2012-the-sustainable-classroom-session-2/) on sustainability versus practicality during the Sustainable Classroom earlier that day. Chef Parsons’s rabbit ravioli were adorable.
 
@@ -122,7 +158,13 @@ She had also been a participant in the highly engaging [panel discussion](http:/
 
 They were part of a dish that featured rabbit prepared three ways: in ravioli, in sausage, and in confit. Obviously, the ravioli shapes were cute, but the texture was lacking. It was chewy, dry, and unevenly cooked. The sausage was quite satisfying though a bit greasy.
 
-\[caption id="attachment\_5375" align="aligncenter" width="500" caption="The Rabbit Three Ways arranged together on the platter."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012171.jpg "TerraVita2012171")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012171.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012171.jpg "TerraVita2012171")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012171.jpg)</div>
+
 
 The rabbit leg was teeny and charming, but I think I would have liked it better if it were cooked for longer.
 
@@ -140,7 +182,13 @@ It was such a bright dish for what I’d expect to be wholly earthy. The vegetab
 
 Finally, it was time for dessert. When I went to the first TerraVITA Grand Tasting three years ago, Jael and Dan Rattigan of the [French Broad Chocolate Lounge](http://frenchbroadchocolates.com/articles/the-lounge) most impressed me out of all the vendors.
 
-\[caption id="attachment\_5385" align="aligncenter" width="334" caption="The Rattigans. That last name is fun to say."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012183.jpg "TerraVita2012183")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012183.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012183.jpg "TerraVita2012183")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012183.jpg)</div>
+
 
 I must not be alone, because they were tapped for dessert at this dinner. They came up with a parfait of a gingerbread financier, bourbon chocolate ganache, Long Island cheese squash pots du crème, cinnamon whipped cream, and a pecan tuile.
 

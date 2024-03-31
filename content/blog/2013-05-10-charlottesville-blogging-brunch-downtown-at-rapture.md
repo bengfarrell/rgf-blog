@@ -1,12 +1,12 @@
 ---
 title: "Charlottesville Blogging: Brunch Downtown at Rapture"
 date: "2013-05-10"
-categories: 
+categories:
   - "charlottesville-virginia-bar-reviews"
   - "charlottesville-virginia-restaurant-reviews"
   - "restaurants"
   - "spirits"
-tags: 
+tags:
   - "bars"
   - "biscuit"
   - "brunch"
@@ -28,7 +28,13 @@ tags:
   - "visitors-guide"
 ---
 
-\[caption id="attachment\_6296" align="aligncenter" width="500"\][![Ben at our table at Rapture.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/2013_Charlottesville_14-500x332.jpg)](http://www.thegourmez.com/2013/05/charlottesville-blogging-brunch-downtown-at-rapture/2013_charlottesville_14/) Ben at our table at Rapture.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Ben at our table at Rapture.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/2013_Charlottesville_14-500x332.jpg)](http://www.thegourmez.com/2013/05/charlottesville-blogging-brunch-downtown-at-rapture/2013_charlottesville_14/) Ben at our table at Rapture.</div>
+
 
 I have blogged about Charlottesville's downtown mall [before](http://www.thegourmez.com/2012/07/charlottesville-blogging-downtown-food-and-the-downtown-mall/), but the brunch that trip was not so memorable, and Charlottesville is a town that brunches, so I needed to fix that. Most places offer brunch until at least 3 pm on the weekend, and that's a beautiful, beautiful practice for this late riser. I decided we needed to commit to the Charlottesville brunching tradition and pick a spot with seating in the middle of the downtown strip and a more inventive menu than we had before. Quick scans of posted menus as we walked led me to [Rapture](http://www.clubr2.com/Rapture/home.html) (303 E. Main Street).
 

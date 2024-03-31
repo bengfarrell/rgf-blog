@@ -1,11 +1,11 @@
 ---
 title: "Tasting My Way through Japanese Rice Exports: Grain, Snacks, and Sake"
 date: "2017-07-11"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "restaurants"
   - "sake"
-tags: 
+tags:
   - "beika"
   - "hakutsuru-superior-junmai-ginjo"
   - "hana"
@@ -27,7 +27,13 @@ _Obligatory disclaimer: This post on Japanese rice exports to the Bay Area is ba
 
 As I write this post, I am sipping on Ȯzeki’s Hana-Fuga Peach Sparkling Sake, one of the items in my take-home goodie bag from an informative event hosted by the Japan Rice Exports Association (JRE) last January. It is the only item I’ve managed to keep hidden from my husband these last six months—he went through the sample bag of Morihaku Confectionary’s rice crackers so fast, I couldn’t snap a picture of them. To be fair, they were very tasty. If you are importing them, SEND ME SOME.
 
-\[caption id="attachment\_27781" align="aligncenter" width="500"\][![jre japanese rice exports](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Sake-Event-32-500x263.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Sake-Event-32.jpg) Sadly, not Morihaku’s crackers but a riceball treat I didn’t get to try.\[/caption\]
+
+
+
+<div class="caption">
+
+[![jre japanese rice exports](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Sake-Event-32-500x263.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Sake-Event-32.jpg) Sadly, not Morihaku’s crackers but a riceball treat I didn’t get to try.</div>
+
 
 The event was geared toward educating potential clients and media members on the value of rice-based exports from Japan, and while I was very impressed with the pedigrees and enthusiasm of the esteemed guests, who taught us more about what makes Japanese rice so high quality, you know I was there for the tastings! The first was a side-by-side comparison of Japanese and American rice.
 
@@ -41,7 +47,13 @@ A second, fantastic, pairing dish involved mushrooms, scallops, prawns, bonito, 
 
 I was admittedly too happy eating the dish to truly compare it with each type of rice, and that fault is entirely Chef Kenichi Tominaga’s, of Sonoma County’s Hana and San Francisco’s PABU, who prepared the dish.
 
-\[caption id="attachment\_27787" align="aligncenter" width="473"\][![ken tominaga japanese rice exports sushi](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Sake-Event-30-473x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Sake-Event-30.jpg) Chef Tominaga rolling sushi.\[/caption\]
+
+
+
+<div class="caption">
+
+[![ken tominaga japanese rice exports sushi](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Sake-Event-30-473x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Sake-Event-30.jpg) Chef Tominaga rolling sushi.</div>
+
 
 I’ll have to take his word for it that eating salty foods with rice creates harmony in your mouth. I was being too typically American and just stuffing mine.
 
@@ -68,7 +80,7 @@ I’d also be happy to have a chef like Mr. Tominaga at home, but I guess I’ll
 How fun! I didn’t try a roll, but based on that scallop dish, trying one of his restaurants is a must. A full, thoughtful Japanese dinner is among the best sensory experiences available. I think the last time I had one was at iSushi in Castro Valley at least three years ago.
 
 > [A parade of 007 #sushi for tonight's celebration. #EastBay](https://www.instagram.com/p/putEwywQgG/)
-> 
+>
 > A post shared by Becca Gomez Farrell (@thegourmez) on Jun 26, 2014 at 6:53pm PDT
 
 Thanks to the JRE for inviting me along on this peek into “This is Japan Quality” imported rice products, and I hope I get to see more such treats at my local stores soon—yes, local retailers, you can consider that a pledge to purchase. Before I go, however, just how was that Ȯzeki’s Hana-Fuga Peach Sparkling Sake?

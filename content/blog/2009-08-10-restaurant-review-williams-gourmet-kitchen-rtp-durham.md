@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--William's Gourmet Kitchen, RTP, Durham"
 date: "2009-08-10"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "durham-fast-food"
   - "durham-restaurants"
   - "lunch-breakfast-spots-durham"
@@ -34,6 +34,12 @@ There were also plenty of baked goods including brownies, rice crispy treats and
 
 I'll be back to try breakfast, though I wish they had more than drip coffee to offer in the morning caffeine department.  But with omelets and home fries available for $5, I'll forgo the cappuccino.
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+
 
 _Reviewed  8.10.2009._

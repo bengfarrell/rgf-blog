@@ -1,10 +1,10 @@
 ---
 title: "Cocktail Review--Cancun Cocktail, Bandido's, Durham"
 date: "2009-06-22"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "bandidos-durham"
   - "cancun-cocktail"
   - "durham-cocktails"
@@ -19,6 +19,12 @@ The Cancun Cocktail, served in a hurricane glass, is the color of a salmon fille
 
 This drink is ideal for a beachside vacation, especially since it's as highly alcoholic as it is drinkable so that nearby hotel room would be a plus.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+
 
 _Reviewed 6.16.09._

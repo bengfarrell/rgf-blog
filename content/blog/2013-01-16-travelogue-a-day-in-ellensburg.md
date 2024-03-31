@@ -1,12 +1,12 @@
 ---
 title: "Travelogue: A Day in Ellensburg"
 date: "2013-01-16"
-categories: 
+categories:
   - "coffee-shop"
   - "dining-in-ellensburg-wa"
   - "restaurants"
   - "ellensburg-travel"
-tags: 
+tags:
   - "art"
   - "buildings"
   - "canyon-road"
@@ -34,7 +34,13 @@ tags:
   - "washington"
 ---
 
-\[caption id="attachment\_5552" align="aligncenter" width="333"\][![Art at Dick and Jane’s Spot in Ellensburg](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7574.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7574/) Art at Dick and Jane’s Spot in Ellensburg\[/caption\]
+
+
+
+<div class="caption">
+
+[![Art at Dick and Jane’s Spot in Ellensburg](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7574.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7574/) Art at Dick and Jane’s Spot in Ellensburg</div>
+
 
 This is the second travelogue on my adventures in Washington State in October 2012. The first covered my suggestions for a great [day trip in Yakima](index.php?p=5412 "Yakima Day Trip"), and this one is in the same vein. So spend a day with me in Ellensburg, located smack dab in the middle of the state. But first, we must get to its central valley location through some gorgeous mountain passes on Canyon Road.
 
@@ -54,23 +60,53 @@ First stop in town should definitely be taking a gander at [Dick and Jane’s Sp
 
 This is a private residence owned by the Dick and Jane of the name. They are both artists in their own right and have been working on their “spot” for nearly 30 years. There is artwork from over 40 other Washington artists also on display in the yard.  Inside the fence is off limits, but take your time wandering around the whole house.
 
-\[caption id="attachment\_5555" align="aligncenter" width="500"\][![Peering inside the fence.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7579.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7579/) Peering inside the fence.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Peering inside the fence.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7579.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7579/) Peering inside the fence.</div>
+
 
 [![IMG_7581](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7581.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7581/)
 
 These are several of my favorite shots from our visit.
 
-\[caption id="attachment\_5554" align="aligncenter" width="500"\][![Senor Frog](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7578.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7578/) Senor Frog\[/caption\]
 
-\[caption id="attachment\_5553" align="aligncenter" width="500"\][![Just a lazy day in the yard.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7576.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7576/) Just a lazy day in the yard.\[/caption\]
 
-\[caption id="attachment\_5551" align="aligncenter" width="333"\][![I love the creep factor of that net of teddy bears.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7571.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7571/) I love the creep factor of that net of teddy bears.\[/caption\]
+
+<div class="caption">
+
+[![Senor Frog](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7578.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7578/) Senor Frog</div>
+
+
+
+
+
+<div class="caption">
+
+[![Just a lazy day in the yard.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7576.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7576/) Just a lazy day in the yard.</div>
+
+
+
+
+
+<div class="caption">
+
+[![I love the creep factor of that net of teddy bears.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7571.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7571/) I love the creep factor of that net of teddy bears.</div>
+
 
 [![IMG_7564](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7564.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7564/)
 
 [![IMG_7562](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7562.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7562/)
 
-\[caption id="attachment\_5547" align="aligncenter" width="333"\][![Sometimes, we all need a yawn.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7557.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7557/) Sometimes, we all need a yawn.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Sometimes, we all need a yawn.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7557.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7557/) Sometimes, we all need a yawn.</div>
+
 
 [![IMG_7553](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7553.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7553/)
 
@@ -88,7 +124,13 @@ The entry room features a shiny, old gas pump, too.
 
 There are a few interesting takes on tried and true American favorites at Palace Café. My parents love the Screamin’ Jack Burger that comes with pepperjack, grilled onions, bacon, and a secret blend of toppings. It is one messy burger.
 
-\[caption id="attachment\_5568" align="aligncenter" width="500"\][![The Screamin’ Jack with fries](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7609.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7609/) The Screamin’ Jack with fries\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Screamin’ Jack with fries](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7609.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7609/) The Screamin’ Jack with fries</div>
+
 
 As one of those topping ingredients is drippy yellow mustard, I was glad I refrained from that choice, though my parents find it finger-licking good. I opted for a special burger of the day that came with jalapeno-pepper bacon and was served up on crusty ciabetta.
 
@@ -112,9 +154,21 @@ This restored stairwell on the way into Me & the Girls was gorgeous and cozy, as
 
 [![IMG_7587](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7587.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7587/)
 
-\[caption id="attachment\_5560" align="aligncenter" width="333"\][![Gallery One](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7588.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7588/) Gallery One\[/caption\]
 
-\[caption id="attachment\_5561" align="aligncenter" width="333"\][![Downtown Mural](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7589.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7589/) Downtown Mural\[/caption\]
+
+
+<div class="caption">
+
+[![Gallery One](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7588.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7588/) Gallery One</div>
+
+
+
+
+
+<div class="caption">
+
+[![Downtown Mural](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7589.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7589/) Downtown Mural</div>
+
 
 Stop at the Rotary Pavilion to visit with a civilized bull. As a Durhamite, I had to stop and chat with him for a while.
 
@@ -132,11 +186,23 @@ Because coffee should be roasted as locally as possible, I would be willing to g
 
 Before you head out of town, be sure to drive over to Central Washington University’s main campus. The Visitor’s Center is at 100 E. University Way, and it’s a hop over the street to head onto the campus and explore the grounds.
 
-\[caption id="attachment\_5565" align="aligncenter" width="500"\][![The Normal School, original site of CWU.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7599.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7599/) The Normal School, original site of CWU.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Normal School, original site of CWU.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7599.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7599/) The Normal School, original site of CWU.</div>
+
 
 On the way out of town, stop at the scenic viewpoint on I-82  and take in as much of the Kittitas Valley as you can.
 
-\[caption id="attachment\_5569" align="aligncenter" width="1024"\][![Click on the panorama for a larger view](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7640-1024x68.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7640/) Click on the panorama for a larger view\[/caption\]
+
+
+
+<div class="caption">
+
+[![Click on the panorama for a larger view](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7640-1024x68.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7640/) Click on the panorama for a larger view</div>
+
 
 There’s plenty of gorgeous coming to and going from Ellensburg, and plenty of shopping and gawking to do in town in-between. Hope you enjoyed this day trip with me!
 

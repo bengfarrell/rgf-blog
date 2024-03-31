@@ -1,13 +1,13 @@
 ---
 title: "Affordable Vinho Verde Varietals and Vintages"
 date: "2017-04-24"
-categories: 
+categories:
   - "alvarinho"
   - "san-francisco-restaurant-review"
   - "restaurants"
   - "vinho-verde"
   - "white-wine-reviews"
-tags: 
+tags:
   - "avesso"
   - "bargain-wines"
   - "conde-villar"
@@ -26,7 +26,13 @@ tags:
 
 White wines from the Portuguese Vinho Verde region are some of my favorites, so I jumped at the chance to try a quartet of them last month in San Francisco.
 
-\[caption id="attachment\_27037" align="aligncenter" width="398"\][![Vinho Verde Portal do Fidalgo Alvarinho](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Hawker-Fare-Wine-10-398x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Hawker-Fare-Wine-10.jpg) The 2013 Portal do Fidalgo Alvarinho\[/caption\]
+
+
+
+<div class="caption">
+
+[![Vinho Verde Portal do Fidalgo Alvarinho](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Hawker-Fare-Wine-10-398x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Hawker-Fare-Wine-10.jpg) The 2013 Portal do Fidalgo Alvarinho</div>
+
 
 **Obligatory disclaimer:** The food and Vinho Verde wines I’m about to write about were provided for free to me from Benson Marketing, which represents the [Wines of Vinho Verde](http://winesofvinhoverde.com/) and [Wines of Portugal](http://winesofportugal.info/) organizations.
 

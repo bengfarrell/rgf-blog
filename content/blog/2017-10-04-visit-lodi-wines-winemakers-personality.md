@@ -1,7 +1,7 @@
 ---
 title: "Visit Lodi for…Wines and Winemakers with Personality!"
 date: "2017-10-04"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "dessert-wine-reviews"
   - "grenache-blanc"
@@ -17,7 +17,7 @@ categories:
   - "viognier"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "acquiesce"
   - "blake-bomben"
   - "calturas"
@@ -49,11 +49,23 @@ tags:
 
 At summer’s onset, I took part in a press trip to Lodi, CA, a wine region I’ve become [happily familiar](http://thegourmez.com/?s=lodi) with over the last year. _Took part_ means I tried all the wines and enjoyed all the experiences mentioned in this post courtesy of the [Visit Lodi](http://www.visitlodi.com/) tourism bureau – and I was not compensated for this or any other related posts. Though having a good time _might_ be considered compensation. If so, my friends owe me a lot of money over the years!
 
-\[caption id="attachment\_27917" align="aligncenter" width="500"\][![lodi wine, viaggio, swing, press, dessert wine, chocolate wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-168-500x405.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-168.jpg) Having a good time at Viaggio Winery with the rest of the press trip crew.\[/caption\]
+
+
+
+<div class="caption">
+
+[![lodi wine, viaggio, swing, press, dessert wine, chocolate wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-168-500x405.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-168.jpg) Having a good time at Viaggio Winery with the rest of the press trip crew.</div>
+
 
 Over the course of two days, we visited 6 different tasting rooms and tried 34 wines, putting my sip and spit skills to the challenge yet again. Four wines stood out to me, earning 5/5 each. I’m sharing my thoughts on each of them in this post. And I’m also highlighting the winery that I think provides the best tasting room experience of them all, because of their excellent pairing skills.
 
-\[caption id="attachment\_27929" align="aligncenter" width="334"\][![acquiesce wine, lodi wine, acquiesce winery, door, entry way, tasting room](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-095-1-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-095-1.jpg) That winery boasts this beautiful entry door.\[/caption\]
+
+
+
+<div class="caption">
+
+[![acquiesce wine, lodi wine, acquiesce winery, door, entry way, tasting room](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-095-1-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-095-1.jpg) That winery boasts this beautiful entry door.</div>
+
 
 In addition to quality wines, our small group spent quality time with honest and honestly hilarious Lodi winemakers. I’ll share thoughts from each of them as we make our way down the list.
 
@@ -63,15 +75,33 @@ In addition to quality wines, our small group spent quality time with honest and
 
 I loved this velvety, medium-bodied syrah rosé, from its intriguing nose of strong vanilla and strawberry perfume to its seductive cherry wed with the tartness of pomegranate. I also loved how Blake Bomben, [Calturas’s](https://www.calturas.com/) winemaker, went from being a brewpub manager to a winemaker. He plans to head up distillation for spirits with Calturas in the future as well.
 
-\[caption id="attachment\_27919" align="aligncenter" width="500"\][![Blake Bomben, winemaker, calturas wine, calturas winery, lodi wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-009-1-500x403.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-009-1.jpg) Blake Bomben\[/caption\]
+
+
+
+<div class="caption">
+
+[![Blake Bomben, winemaker, calturas wine, calturas winery, lodi wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-009-1-500x403.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-009-1.jpg) Blake Bomben</div>
+
 
 What won’t Blake do? To paraphrase him, “I’ll have my own vineyard on the 10th of never!” Farming is one aspect of the beverage world that Blake’s happy to leave to others, as the unpredictability is just too much. I concur! The end product interests both of us more than the methods taken to get there – that’s sacrilege to some wine lovers, but I’m sure of my own preferences. 😉
 
-\[caption id="attachment\_27920" align="aligncenter" width="334"\][![calturas syrah rose, lodi wine, calturas wine, rose](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-011-1-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-011-1.jpg) Mmm…end product.\[/caption\]
+
+
+
+<div class="caption">
+
+[![calturas syrah rose, lodi wine, calturas wine, rose](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-011-1-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-011-1.jpg) Mmm…end product.</div>
+
 
 ##### 2\. M2 2014 Lani's Vineyard Syrah 2014
 
-\[caption id="attachment\_27930" align="aligncenter" width="402"\][![layne montgomery, m2, m2 wines, winemaker, lodi wine, tasting room](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-101-1-402x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-101-1.jpg) Layne Montgomery\[/caption\]
+
+
+
+<div class="caption">
+
+[![layne montgomery, m2, m2 wines, winemaker, lodi wine, tasting room](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-101-1-402x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-101-1.jpg) Layne Montgomery</div>
+
 
 As the winemaker and founder of [M2](https://www.m2wines.com/), Layne Montgomery makes all his wines bold and unafraid to embrace the big fruit profiles they’re capable of. I enjoyed all four of his wines that we sampled, but only this syrah could compete with his outlandish personality. Chocolate comes in first, bitter and milky. Itchy sawgrass gives way to black raspberry, licorice, and black pepper and stop reading my notes and just go buy a bottle.
 
@@ -91,7 +121,13 @@ Mulberry, blueberry, and strawberry mix it up with the dirt from hence they came
 
 Winemaker and Viaggio co-owner Teri Lawrence led me to believe the wine would be brighter and fruiter than the average zin, but I found it to be the exact opposite, reveling in the soil. For me, that’s an absolute win. And so is Teri’s outlook on life.
 
-\[caption id="attachment\_27934" align="aligncenter" width="334"\][![teri lawrence, viaggio, viaggio wines, winemaker, lodi wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-161-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-161.jpg) Teri Lawrence\[/caption\]
+
+
+
+<div class="caption">
+
+[![teri lawrence, viaggio, viaggio wines, winemaker, lodi wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-161-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-161.jpg) Teri Lawrence</div>
+
 
 She regaled us throughout the multi-course meal with stories of former business partners who didn’t think she could hack it as a winemaker. The 2013 Estate Zinfandel is named “Little Missy” in honor of one such naysayer’s response when she first proposed to give it a try five years ago. I’ll just let the fact that two Viaggio wines made this list be proof enough of how well she’s done. I don't believe she makes the second one, but she certainly has the talent to know it's worth adding to their collection.
 
@@ -123,13 +159,25 @@ It threw some unexpectedly strong strawberry punches! Spritzes of cranberry adde
 
 Most of the other bites served used Rodney’s cracker recipes, and let me tell you, it is _hard_ to pull off homemade crackers. But he served us thyme-gouda and Moroccan-spiced varieties, and they improved every sip of the grenache blanc and viognier wines they were served with, respectively.
 
-\[caption id="attachment\_27925" align="aligncenter" width="500"\][![Thyme-gouda crackers topped with violet confit, thyme crackers, acquiesce winery, cracker recipe,](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-085-1-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-085-1.jpg) Thyme-gouda crackers topped with violet confit.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Thyme-gouda crackers topped with violet confit, thyme crackers, acquiesce winery, cracker recipe,](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-085-1-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-085-1.jpg) Thyme-gouda crackers topped with violet confit.</div>
+
 
 Knowing how to pair such small nibbles with such refined wines shows great skill as well, though Susan and Rodney’s humbleness and sweetness might deny such claims. Their combined skills assuredly deserve them, however.
 
 Visit Acquiesce and you can also go home with recipes for Rodney’s crackers, or any of his other great pairings that show Rhône whites can truly shine when paired with food. Even for this unbeliever.
 
-\[caption id="attachment\_27922" align="aligncenter" width="282"\][![acquiesce winery, acquiesce lodi, lodi wines, the gourmez](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-081-1-282x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-081-1.jpg) Enjoying a sip outside at Acquiesce.\[/caption\]
+
+
+
+<div class="caption">
+
+[![acquiesce winery, acquiesce lodi, lodi wines, the gourmez](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-081-1-282x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-081-1.jpg) Enjoying a sip outside at Acquiesce.</div>
+
 
 Here’s one of those recipes, because you deserve it now and not just when you plan your trip to visit Lodi wine country. But you’re planning that too, right? If the answer’s anything but an enthusiastic yes, you’re missing out.
 

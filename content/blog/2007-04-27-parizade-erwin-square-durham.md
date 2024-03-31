@@ -1,10 +1,10 @@
 ---
 title: "Parizade (Erwin Square, Durham)"
 date: "2007-04-27"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "durham-dining"
   - "erwin-square"
   - "parizade"
@@ -22,4 +22,10 @@ For dessert, I chose the Gran Gala Chocolate Torte, as I love orange and chocola
 
 The food had moments of excellence and of mediocrity but the atmosphere was just right. If my eyes are entertained, the meal doesn't have to stand out.
 
-\[caption id="attachment\_49" align="alignleft" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+

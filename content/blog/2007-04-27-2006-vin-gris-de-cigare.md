@@ -1,10 +1,10 @@
 ---
 title: "2006 Vin Gris de Cigare"
 date: "2007-04-27"
-categories: 
+categories:
   - "rose-review"
   - "vin-gris-de-cigare"
-tags: 
+tags:
   - "2006"
   - "bonny-doon-vineyard"
 ---
@@ -17,4 +17,10 @@ This is my first rose to review and I'm looking forward to the change of pace. I
 
 It's fairly acidic for a pink wine, as Bonny Doon labeled it, which is why I enjoyed it at the tasting room. I don't shirk from sugar but I do like balance. My first thought at taste is green apple but as it lingers, I'm more inclined towards casaba melon. I've only had casaba melon once and found it rather bland but in wine form, it packs more of a flavor punch. There's a slight tang of eucalyptus at the end. Yes, I chewed eucalyptus leaves as a child.
 
-\[caption id="attachment\_55" align="alignleft" width="40"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+

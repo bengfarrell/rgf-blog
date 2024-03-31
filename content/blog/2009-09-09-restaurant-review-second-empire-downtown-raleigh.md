@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Second Empire, Downtown Raleigh"
 date: "2009-09-09"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "buttermilk-pie"
   - "fine-dining-triangle"
   - "scottish-salmon"
@@ -47,6 +47,12 @@ It came with berries, a brown sugar anglaise sauce, and an almond lace cookie. 
 
 Second Empire definitely deserves its stars for service, atmosphere, and desserts.  My appetizer and entrée could have wowed me more but they were still very good.  Not my favorite fine dining spot in the area but a fine meal, nonetheless.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 8.25.09._

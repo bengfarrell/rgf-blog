@@ -1,11 +1,11 @@
 ---
 title: "From Wine to William Tell Cider: The Scotto Brothers Can Juice!"
 date: "2017-03-29"
-categories: 
+categories:
   - "cider"
   - "mead-review"
   - "pinot-grigio-gris"
-tags: 
+tags:
   - "cider"
   - "cider-brothers"
   - "cidery"
@@ -23,11 +23,23 @@ tags:
 
 If you’re wondering if I meant that post title to be a pun, wonder no longer—
 
-\[caption id="attachment\_26983" align="aligncenter" width="353"\][![William Tell Cider Blueberry Zin](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-08-353x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-08.jpg) Canned juice.\[/caption\]
+
+
+
+<div class="caption">
+
+[![William Tell Cider Blueberry Zin](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-08-353x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-08.jpg) Canned juice.</div>
+
 
 The pun works on so many levels, I couldn’t resist! Of course, your appreciation of my cleverness may be enhanced if you have some background information on Scotto Cellars, a fifth-generation, Lodi-based winemaking family that has climbed out of the grape vats and into the trees to create [the Cider Brothers](http://www.ciderbrothers.com/). That winemaking knowledge fully informs their approach to cider production, a truth that I witnessed firsthand a few months back at a dinner with brother Paul Scotto, his wife Whitney, and a gaggle of fellow wine bloggers and industry friends. _Obligatory disclaimer:_ That means the food and drink I’m writing about in this post were entirely free to me.
 
-\[caption id="attachment\_26983" align="aligncenter" width="500"\][![William Tell Cider Diner Paul Scotto](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-11-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-11.jpg) Paul Scotto, center right, framed by Whitney, Martin of [Enofylz Wine Blog](http://enofylzwineblog.com/), and Kerry of [Grape Live.](http://www.grapelive.com/)\[/caption\]
+
+
+
+<div class="caption">
+
+[![William Tell Cider Diner Paul Scotto](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-11-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-11.jpg) Paul Scotto, center right, framed by Whitney, Martin of [Enofylz Wine Blog](http://enofylzwineblog.com/), and Kerry of [Grape Live.](http://www.grapelive.com/)</div>
+
 
 I am a dry wine fan by nature, and that preference extends to cider. I much prefer the traditional English style over the juicier, sweeter American ones provided by the biggest cider companies out here — you shouldn’t have to think too hard to come up with some names. But there has been a craft cider awakening of late! And with it comes the Cider Brothers’ experimentation that isn’t afraid to go to either side of the dry/sweet divide under the Pacific Coast and William Tell Cider labels.
 

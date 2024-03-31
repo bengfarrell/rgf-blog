@@ -1,10 +1,10 @@
 ---
 title: "Elaine's on Franklin (Downtown Chapel Hill)"
 date: "2007-04-27"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "restaurants"
-tags: 
+tags:
   - "chapel-hill"
   - "elaines-on-franklin"
 ---
@@ -29,4 +29,10 @@ The chocolate cake had your average molten surprise inside. Our meal was accompa
 
 Elaine's decor is the brick warehouse look that's been popular for the past 5 years or so. It is predictably decorated with large prints of colorful fruit. The food mainly followed this same pattern-interesting a few years ago but a bit stale these days. The bar area looked to be a quite pleasant break from the rest of the room. It was sharply divided from the main dining area but not in a separate room at all. It had a friendly air about it. I also was pleased that the waiters could wear their piercings. At least that's more modern than your average restaurant.
 
-\[caption id="attachment\_55" align="alignleft" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+

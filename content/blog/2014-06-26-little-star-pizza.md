@@ -1,10 +1,10 @@
 ---
 title: "Little Star Pizza"
 date: "2014-06-26"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "restaurants"
-tags: 
+tags:
   - "almonds"
   - "baby-greens"
   - "deep-dish"
@@ -22,7 +22,13 @@ tags:
   - "thin-crust"
 ---
 
-\[caption id="attachment\_8251" align="aligncenter" width="500"\][![Our waitress rushing out, concerned my husband left his bag behind. Thanks!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/Little_Star_04-500x332.jpg)](http://www.thegourmez.com/2014/06/little-star-pizza/little_star_04/) Our waitress rushing out, concerned my husband left his bag behind. Thanks!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Our waitress rushing out, concerned my husband left his bag behind. Thanks!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/Little_Star_04-500x332.jpg)](http://www.thegourmez.com/2014/06/little-star-pizza/little_star_04/) Our waitress rushing out, concerned my husband left his bag behind. Thanks!</div>
+
 
 Little Star is a small gourmet-pizza chain with three outlets in San Francisco. We chose it for an early dinner on a Saturday afternoon because it had the best ratings for open eateries in that neck of the Mission at that time, aside from the also-appealing arepas spot across the street.
 

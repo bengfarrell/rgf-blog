@@ -1,10 +1,10 @@
 ---
 title: "The Indie Coffee Passport – East Bay"
 date: "2015-03-13"
-categories: 
+categories:
   - "announcements"
   - "coffee-shop"
-tags: 
+tags:
   - "alameda"
   - "albany"
   - "bargain"
@@ -35,7 +35,13 @@ Last week, Marc Callado, who launched [Shift Local](https://shiftlocal.wordpress
 
 And what's better? Those coffeehouses are easily accessible. As Marc wrote, "These 22 shops are all independent coffee shops in 8 East Bay cities along Highway 580 and BART. The idea is to get people to try out and experience the blossoming independent coffee scene in the East Bay and also to explore a variety of interesting neighborhoods in Richmond, El Cerrito, Albany, Berkeley, Oakland, Alameda, Hayward and Dublin."
 
-\[caption id="attachment\_7917" align="aligncenter" width="402"\]![A pourover from Eko in Hayward, which I reviewed last year and is participating in the Passport.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/02/eko_03-402x500.jpg) A pourover from Eko in Hayward, [which I reviewed last year](http://www.rebeccagomezfarrell.com/2014/02/eko-coffee-bar-and-tea-house/) and is participating in the Passport.\[/caption\]
+
+
+
+<div class="caption">
+
+![A pourover from Eko in Hayward, which I reviewed last year and is participating in the Passport.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/02/eko_03-402x500.jpg) A pourover from Eko in Hayward, [which I reviewed last year](http://www.rebeccagomezfarrell.com/2014/02/eko-coffee-bar-and-tea-house/) and is participating in the Passport.</div>
+
 
 Walking distance from BART?! This promotion couldn't smell better to me if they dipped it in tri-tip seasonings and set it on the grill. As I can attest from using the [Santa Cruz Winegrowers' Association Passport](http://www.rebeccagomezfarrell.com/2014/03/wine-tasting-in-the-santa-cruz-mountains/), simply getting stamps on my passport will keep me entertained. (Yes, it's that easy.)
 

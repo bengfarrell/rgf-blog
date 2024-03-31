@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Bavarian Brathaus, Cary"
 date: "2009-06-25"
-categories: 
+categories:
   - "cary-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "authentic-german-food"
   - "bavarian-brathaus"
   - "cary-brathaus"
@@ -41,10 +41,22 @@ I couldn't resist dessert, though I wish I had stuck to the more authentic apple
 
 Jagermeister shots were ordered to finish off the evening.  If it were just my opinion, I would rate the Bavarian Brathaus as a
 
-\[caption id="attachment\_55" align="alignnone" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 but since I am not a beer drinker, nor a lover of meat-centric cuisine, I will take my companions opinions into consideration and call it an
 
-\[caption id="attachment\_49" align="alignnone" width="40" caption="3 stars."\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 6.20.09._

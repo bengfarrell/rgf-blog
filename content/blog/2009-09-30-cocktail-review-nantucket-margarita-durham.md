@@ -1,10 +1,10 @@
 ---
 title: "Cocktail Review--Nantucket Margarita (Durham)"
 date: "2009-09-30"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "cocktail-reviews"
   - "drink-reviews"
   - "durham-cocktails"
@@ -20,6 +20,12 @@ tags:
 
 Wow, the Sauza tequila comes out strong in this margarita.  So does the house sweet and sour blend.  It's really, really sour.  I can't pick out the Grand Marnier but that's probably because my mouth is too busy puckering due to the lemon juice.  If you try this one out, don't get a salt rim: it just intensifies the citrus.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
+
 
 _Reviewed 8.10.09._

@@ -1,11 +1,11 @@
 ---
 title: "Chateau Montelena Calistoga Zinfandel 2014"
 date: "2018-06-28"
-categories: 
+categories:
   - "zinfandel"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "2014"
   - "calistoga"
   - "chateau-montelena"
@@ -28,7 +28,13 @@ The Chateau Montelena Calistoga Zinfandel 2014 is a young wine with plenty of po
 
 ##### My Rating:
 
-\[caption id="attachment\_26029" align="aligncenter" width="40"\][![4/5](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif) 3.5/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![4/5](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif) 3.5/5</div>
+
 
 ##### Other Wine Writers' Thoughts
 

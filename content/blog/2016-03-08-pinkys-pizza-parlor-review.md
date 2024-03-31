@@ -1,10 +1,10 @@
 ---
 title: "Pinky's Pizza Parlor"
 date: "2016-03-08"
-categories: 
+categories:
   - "dining-in-walnut-creek"
   - "restaurants"
-tags: 
+tags:
   - "drink-specials"
   - "east-bay"
   - "mead-cocktails"
@@ -21,7 +21,13 @@ tags:
 
 Pinky’s Pizza Parlor is a neighborhood joint worth leaving your neighborhood for. Two of our good friends are regulars, drawn in by the amazing bar specials Pinky’s runs, and we’ve joined them a number of times. On a Sunday, go for the $2 bloody marys. On a Thursday, get any draft beer for the same price, including their half-dozen craft options. I won’t even mention the deals on pitchers.
 
-\[caption id="attachment\_25813" align="aligncenter" width="334"\][![Black Butte Porter!](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Peppers_Pizzza_07-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Peppers_Pizzza_07.jpg) $2 Black Butte Porter!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Black Butte Porter!](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Peppers_Pizzza_07-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Peppers_Pizzza_07.jpg) $2 Black Butte Porter!</div>
+
 
 I’m as much of a fan of their main draw -- pizza -- as I am of their bar deals.
 

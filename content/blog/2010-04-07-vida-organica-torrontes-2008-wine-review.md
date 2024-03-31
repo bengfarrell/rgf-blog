@@ -1,10 +1,10 @@
 ---
 title: "Vida Organica Torrontes 2008---Wine Review"
 date: "2010-04-07"
-categories: 
+categories:
   - "torrontes"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2008-vintage"
   - "bon-gourmet-blog"
   - "enotheque"
@@ -24,7 +24,13 @@ This organic, white wine smells floral, with a hint of lime and vanilla. The tas
 
 I tried this wine at a tasting at my local wine shop, and I loved it then so I bought a couple of bottles. Now, with time for a more relaxed examination, I find I still love it.
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\]![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+  Other Bloggers' Thoughts:
 
 [Bon Gourmet Blog](http://blog.bon-gourmet.com/2009/11/02/2008-familia-zuccardi--vida-organica-torrontes.aspx?ref=rss)
 

@@ -1,10 +1,10 @@
 ---
 title: "Ike's Place"
 date: "2014-05-20"
-categories: 
+categories:
   - "danville-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bay-area"
   - "castro"
   - "chain"
@@ -39,7 +39,13 @@ Bright with thick block lettering and a quirky sense of humor, the store’s sle
 
 \--is dwarfed by the options shown in their online menu. It might be an overwhelming number of choices, but I like not having to compile my own sandwich ingredient list, and Ike’s has nearly any combination you want covered. That includes sandwiches stuffed with jalapeno poppers! Vegans and vegetarians also have a bevy of options, and lettuce, tomato, and onion are givens.
 
-\[caption id="attachment\_8188" align="aligncenter" width="332"\][![Friend #2 cleansing his palate before the meal.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/ikes_05-332x500.jpg)](http://www.thegourmez.com/2014/05/ikes-place/ikes_05/) Friend #2 cleansing his palate before the meal.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Friend #2 cleansing his palate before the meal.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/ikes_05-332x500.jpg)](http://www.thegourmez.com/2014/05/ikes-place/ikes_05/) Friend #2 cleansing his palate before the meal.</div>
+
 
 Every sandwich comes with Ike’s signature dirty sauce, which tasted to me like a creamy horseradish sauce…but really, really light on the horseradish, which made it very good. The interwebs tell me that it’s actually a garlic and herb sauce, but I’d swear there’s a little horseradish hiding in their somewhere. The sauce is grilled into the bread and also added to the ingredient pile—some sandwiches even come extra dirty. The messier a sandwich, the more likely I am to love it, so I thought those methods were fantastic.
 

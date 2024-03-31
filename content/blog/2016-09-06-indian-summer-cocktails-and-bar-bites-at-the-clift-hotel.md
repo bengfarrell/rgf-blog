@@ -1,10 +1,10 @@
 ---
 title: "Indian Summer Cocktails and Bar Bites at the Clift Hotel"
 date: "2016-09-06"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-san-francisco"
-tags: 
+tags:
   - "anthony-kim"
   - "bar-bites"
   - "bar-menu"
@@ -30,11 +30,23 @@ It’s September in the Bay Area, and we all know what that means – Indian Sum
 
 #### The Clift Hotel: A Modern Classic Setting for Style and Sipping
 
-\[caption id="attachment\_26443" align="aligncenter" width="333"\][![Clift Hotel Union Square](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-35-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-35.jpg) Looking up at the Clift Hotel.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Clift Hotel Union Square](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-35-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-35.jpg) Looking up at the Clift Hotel.</div>
+
 
 There wasn’t a drop in sight the day I tried the Indian Summer cocktail and bar menu at the iconic Redwood Room in [the Clift Hotel](https://www.sonesta.com/us/california/san-francisco/clift-royal-sonesta-hotel/dining) (495 Geary St., Union Square, SF). What makes it iconic? How about being paneled from a single redwood tree? Is that iconic enough for you?
 
-\[caption id="attachment\_26437" align="aligncenter" width="329"\][![First look at the whimsical, atmospheric Redwood Room.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-06-329x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-06.jpg) First look at the whimsical, atmospheric Redwood Room.\[/caption\]
+
+
+
+<div class="caption">
+
+[![First look at the whimsical, atmospheric Redwood Room.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-06-329x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-06.jpg) First look at the whimsical, atmospheric Redwood Room.</div>
+
 
 The whole hotel is quite historic, which anyone who’s lived in the Bay Area awhile probably already knows. Commissioned in 1913, it has hosted a slew of celebrities and was the first earthquake-proof hotel of its time. The modern classic style it currently boasts is the result of a remodel once [the Morgans Hotel Group,](https://backofhouse.morganshotelgroup.com/morgans-classic) a firm specializing in big city boutique offerings, took it over in the mid-1990s. I knew from the moment I walked through the lavender-lighted entryway that this was no ordinary hotel. It’s more of an adult wonderland!
 
@@ -60,7 +72,13 @@ How fun! But I was talking about cocktails, wasn’t I?
 
 #### Suggested Indian Summer Pairings
 
-\[caption id="attachment\_26449" align="aligncenter" width="395"\][![Anthony Kim Redwood Room Bartendar](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-12-395x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-12.jpg) Anthony Kim at the bar.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Anthony Kim Redwood Room Bartendar](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-12-395x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-12.jpg) Anthony Kim at the bar.</div>
+
 
 Anthony Kim, the Redwood Room’s head mixologist, has come up with a great menu of cocktails inspired by classics but jazzed up with his own spin. Combined with Chef Thomas Weibull’s inventive bar bites, they make for a great beginning or end to a night out in Union Square. Note: I’m using the Clift Hotel’s images for most of these pictures, as believe me, you want to see these in their full glory rather than the dimly lit versions I ended up taking.
 
@@ -112,7 +130,13 @@ Place the emphasis on _sour_ for the cocktail, as looks here are deceiving. Rasp
 
 Whatever your choice, the Redwood Room’s Indian Summer menu has plenty hiding inside it to whet or sate your palate. Just step on in through its alluring doors…
 
-\[caption id="attachment\_26436" align="aligncenter" width="500"\][![Clift Hotel Redwood Room](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-05-500x399.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-05.jpg) Entering the Redwood Room through the lobby.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Clift Hotel Redwood Room](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-05-500x399.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Clift-Hotel-Summer-05.jpg) Entering the Redwood Room through the lobby.</div>
+
 
 _Event took place 17 August 2016._
 

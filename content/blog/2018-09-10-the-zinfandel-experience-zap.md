@@ -1,11 +1,11 @@
 ---
 title: "The Zinfandel Experience from ZAP: Tasting More Zinfandel Than You Knew Existed"
 date: "2018-09-10"
-categories: 
+categories:
   - "zinfandel"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "zap"
   - "zin-expo"
   - "zinexpo"
@@ -18,7 +18,13 @@ The Zinfandel Advocates & Producers (ZAP) association, [website here](https://zi
 
 My first experience at a ZAP event was their marquee festival, the Zinfandel Experience (ZinExpo), this last January. My media ticket was comped, so feel free to consider that in my description of the day. And yes, that was my _obligatory disclaimer._
 
-\[caption id="attachment\_28256" align="aligncenter" width="391"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/ZAP-7-391x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/ZAP-7.jpg) Just one of many zinfandel lineups at the ZinExpo.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/ZAP-7-391x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/ZAP-7.jpg) Just one of many zinfandel lineups at the ZinExpo.</div>
+
 
 The Zinfandel Experience is the largest single-vintage wine festival in the world, with over 500 wines available for tasting from over 120 winemakers last year. Gaining entry before Saturday's Grand Tasting enables ticket holders to try barrel samples and private reserve vintages that magically disappear when the public at large is let in for the Grand Tasting. I visited most tables with my wine blogging friend, [Liza of Brix Chicks](http://www.brixchicks.com/), and we _had_ to take pics of this barrel pour from Quivera Vineyards.
 

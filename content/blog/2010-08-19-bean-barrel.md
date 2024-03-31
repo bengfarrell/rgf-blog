@@ -1,10 +1,10 @@
 ---
 title: "Bean &amp; Barrel"
 date: "2010-08-19"
-categories: 
+categories:
   - "coffee-shop"
   - "chapel-hill-coffee-shop-reviews"
-tags: 
+tags:
   - "bar"
   - "bean-barrel"
   - "cappuccino"
@@ -41,6 +41,12 @@ The fruit salad was made of the usual subjects: cantaloupe, honeydew, and pineap
 
 I'm glad I found this place! It's a fairly close alternative to my normal coffee stomping grounds at Bean Traders. The coffee was just fine, and the food was, too. It's a bit isolated, so I think it's a prime spot to escape to with your laptop when you want quieter white noise.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Reviewed 8.11.10._

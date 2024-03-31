@@ -1,12 +1,12 @@
 ---
 title: "Milk &amp; Honey Cream Liqueur Review"
 date: "2018-06-26"
-categories: 
+categories:
   - "beverage-product-review"
   - "liqueur-reviews"
   - "product-reviews"
   - "recipes-2"
-tags: 
+tags:
   - "cream"
   - "date-honey"
   - "dates"
@@ -31,7 +31,13 @@ The ingredients in Milk & Honey are all-natural and simple. They consist of ligh
 
 ##### My Rating:
 
-\[caption id="attachment\_20774" align="aligncenter" width="40"\][![The Gourmez, rating, truffle, 5/5, excellent](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif) 5/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Gourmez, rating, truffle, 5/5, excellent](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif) 5/5</div>
+
 
 ##### A Cocktail Recipe
 

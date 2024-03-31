@@ -1,10 +1,10 @@
 ---
 title: "Grass Roots Farmers’ Coop Meat Delivery"
 date: "2017-07-25"
-categories: 
+categories:
   - "food-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "animal-husbandry"
   - "beef-short-rib"
   - "butchered-meat"
@@ -65,7 +65,13 @@ I removed the thick casings and gave the sausages a sear first, as these are not
 
 Next, I cooked up three pounds of chicken thighs, on and off the bone, in a few different saucy wing preparations. The boneless chicken yielded around six pieces, with plenty of meat for each bite.
 
-\[caption id="attachment\_27838" align="aligncenter" width="500"\][![grass roots farmers' coop raw boneless chicken](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Grass-Roots-Coop-023-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Grass-Roots-Coop-023.jpg) Raw boneless chicken.\[/caption\]
+
+
+
+<div class="caption">
+
+[![grass roots farmers' coop raw boneless chicken](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Grass-Roots-Coop-023-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Grass-Roots-Coop-023.jpg) Raw boneless chicken.</div>
+
 
 While the bone-in thighs gave me four large pieces, which took very well to the spicy cherry glaze I tossed them in after baking.
 

@@ -1,10 +1,10 @@
 ---
 title: "Fullsteam Brewery"
 date: "2010-11-09"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "breweries-in-durham-nc"
-tags: 
+tags:
   - "barbecue"
   - "basil"
   - "brewery"
@@ -18,11 +18,23 @@ tags:
 
 **Fullsteam Brewery** 726 Rigsbee Avenue Central Park District, Durham W–Th: 4 pm to 10 pm, Fri: 4 pm to 2 am Sat: 12 pm to 2 am, Sun: 12 pm to 10 pm [Website](http://www.fullsteam.ag/)
 
-\[caption id="attachment\_3744" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/fullsteam01.jpg "fullsteam01")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/fullsteam01.jpg) The Entrance\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/fullsteam01.jpg "fullsteam01")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/fullsteam01.jpg) The Entrance</div>
+
 
 Fullsteam Brewery’s tavern has been open since August, serving up beers that focus on Southern ingredients, from the grains to the produce that sometimes gives them a bit of extra flavor. I’m not a beer drinker, but I am someone who loves to try new things including interesting ingredient combinations. With a line of offerings that have ranged from Carver sweet potato ale and Hogwash hickory smoked porter to Summer Basil farmhouse ale, they’ve got plenty of that! Beers are available at very affordably priced sizes of half-pints ($2), pints ($4), and growlers ($10).
 
-\[caption id="attachment\_3739" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/fullsteam05.jpg "fullsteam05")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/fullsteam05.jpg) Growlers returned for more grog.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/fullsteam05.jpg "fullsteam05")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/fullsteam05.jpg) Growlers returned for more grog.</div>
+
 
 In addition to the beer, Fullsteam has been offering up tamales ($3.50) from Dos Perros that are steamed in Fullsteam’s beer. They also have peanuts, and there’s usually a food truck or two (or four this last weekend because of Troika) around. [Joey D’s NY Dogs](http://www.thegourmez.com/?p=1603) has taken up nearly daily residence there as well. I really like Fullsteam’s space; it’s very open with blond wood, creme and red walls, and brick, and three separate rooms: one with picnic tables to bring in your food or order a tamale and enjoy,
 

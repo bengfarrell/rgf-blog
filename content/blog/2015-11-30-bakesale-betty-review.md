@@ -1,10 +1,10 @@
 ---
 title: "Bakesale Betty"
 date: "2015-11-30"
-categories: 
+categories:
   - "oakland-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bakesale-betty"
   - "coleslaw"
   - "dining"
@@ -25,7 +25,13 @@ I expected to blog about this Temescal hotspot a year and a half ago, when Frien
 
 I enjoyed it enough that day to take my sister to try it last summer. Again, photography was not in the cards. So when Friends #2 and #3 came out from North Carolina to visit last month, I jumped at the option for a third strike.
 
-\[caption id="attachment\_25212" align="aligncenter" width="500"\][![Friends #2 and #3](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Bakesale-Betty-002-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Bakesale-Betty-002.jpg) Friends #2 and #3\[/caption\]
+
+
+
+<div class="caption">
+
+[![Friends #2 and #3](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Bakesale-Betty-002-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Bakesale-Betty-002.jpg) Friends #2 and #3</div>
+
 
 As everyone should, Friends #2 and #3 loved Bakesale Betty’s colorful ironing board tables on the sidewalk. My only complaint is that there are too few of them for Bakesale Betty’s lunchtime crowds, but as it’s intended to be a grab-and-go joint, I can only complain so much. And it’s hard to with a gigantic sandwich shoved in your mouth.
 
@@ -44,7 +50,7 @@ To address that, spice lovers can ask for a Texas Pete hot sauce packet at the r
 For dessert, Bakesale Betty has a rotating list of cookies, scones, and usually, strawberry shortcake. I have no memory of the copious amounts of cookies I got on that first visit with Friend #1, who knows one of the workers, but I thought I remembered the shortcake well enough to tell Friends #2 and #3 that it was good, but not a must-have like the sandwich. Well, now that I’ve dove into my Instagram archive to find a picture, I think I was wrong!
 
 > [The strawberry shortcake @bakesalebetty was divine, y'all. #foodporn #Oakland](https://instagram.com/p/pE2lMZwQkd/)
-> 
+>
 > A photo posted by Becca Gomez Farrell (@thegourmez) on Jun 10, 2014 at 12:48pm PDT
 
 Despite being a food writer, I do not believe I’m prone to hyperbole. As you can see, I called the shortcake divine, and thus I mistrust the recollection I shared with my compatriots. Clearly, this requires further investigation. As I live a 10-minute walk away, that won’t be a problem. And the fact that I haven’t tried the buttermilk-fried tofu yet is practically a call to action.

@@ -1,9 +1,9 @@
 ---
 title: "Pajama Dave's Amelia River Cruise"
 date: "2013-09-09"
-categories: 
+categories:
   - "amelia-island-florida-travel"
-tags: 
+tags:
   - "amelia-island"
   - "amelia-river"
   - "amelia-river-cruise"
@@ -45,7 +45,13 @@ We took the Cumberland Island Cruise, which takes about two hours in all. Loadin
 
 We passed a sawmill and a street full of oleander that Dave was sure to tell us was popular for poisoning husbands in tea form back in the day. All along the way, dolphins frolicked around us, though it took me until near the end of the cruise to snap their pictures successfully.
 
-\[caption id="attachment\_6654" align="aligncenter" width="500"\][![Photo magic!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/09/Amelia_River_Cruise_42-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/09/pajama-daves-amelia-river-cruise/amelia_river_cruise_42/) Photo magic!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Photo magic!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/09/Amelia_River_Cruise_42-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/09/pajama-daves-amelia-river-cruise/amelia_river_cruise_42/) Photo magic!</div>
+
 
 No manatee sightings, but I'll recover from that injustice. The first point of interest for me was the historic Fernandina Beach neighborhood, Old Town Fernandina, where the Timucua American Indians settled and the first European invaders came around 1811. It wasn't the history that caught my attention, however. It was the house used in the filming of 1989's the _New Adventures of Pippi Longstocking!_ Appealing to my 80's childhood is a surefire way to my heart.
 
@@ -55,15 +61,33 @@ Close by, on the northwestern tip of Amelia Island, is Fort Clinch, a fort that 
 
 [![Amelia_River_Cruise_14](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/09/Amelia_River_Cruise_14-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/09/pajama-daves-amelia-river-cruise/amelia_river_cruise_14/)
 
-\[caption id="attachment\_6653" align="aligncenter" width="500"\][![The whole of Fort Clinch on the return trip.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/09/Amelia_River_Cruise_40-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/09/pajama-daves-amelia-river-cruise/amelia_river_cruise_40/) The whole of Fort Clinch on the return trip.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The whole of Fort Clinch on the return trip.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/09/Amelia_River_Cruise_40-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/09/pajama-daves-amelia-river-cruise/amelia_river_cruise_40/) The whole of Fort Clinch on the return trip.</div>
+
 
 Onward we sailed until we were in the brackish waters of Cumberland Sound and the St. Marys River. Both border Cumberland Island, which is the largest barrier island on the southeastern US coast. Unlike Amelia Island, our base for this vacation, Cumberland Island is mostly uninhabited, unless you count the wild horses.
 
-\[caption id="attachment\_6650" align="aligncenter" width="500"\][![Left side of the photo. Hi, horsies!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/09/Amelia_River_Cruise_30-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/09/pajama-daves-amelia-river-cruise/amelia_river_cruise_30/) Left side of the photo. Hi, horsies!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Left side of the photo. Hi, horsies!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/09/Amelia_River_Cruise_30-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/09/pajama-daves-amelia-river-cruise/amelia_river_cruise_30/) Left side of the photo. Hi, horsies!</div>
+
 
 They like to congregate near the abandoned Dungeness mansion, home to Lucy Carnegie when she was alive.  You can't see it well, but with a zoom lens, it's somewhat photographable from the boat.
 
-\[caption id="attachment\_6660" align="aligncenter" width="819"\][![Amelia_River_Cruise_35](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/09/Amelia_River_Cruise_351-1024x324.jpg)](http://www.rebeccagomezfarrell.com/2013/09/pajama-daves-amelia-river-cruise/amelia_river_cruise_35-2/) Click on the photo twice for a better view, including more wild horses!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Amelia_River_Cruise_35](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/09/Amelia_River_Cruise_351-1024x324.jpg)](http://www.rebeccagomezfarrell.com/2013/09/pajama-daves-amelia-river-cruise/amelia_river_cruise_35-2/) Click on the photo twice for a better view, including more wild horses!</div>
+
 
 I would love to explore the mansion, but then again, I love all abandoned buildings. Yes, I'm an abandoned-building-photographer junkie. We all have our vices. Mine also include taking photos of Spanish-moss-drenched trees and wildlife, which this tour also supplied in plenty.
 

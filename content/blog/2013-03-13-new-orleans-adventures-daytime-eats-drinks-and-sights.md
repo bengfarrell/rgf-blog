@@ -1,12 +1,12 @@
 ---
 title: "New Orleans Adventures: Daytime Eats, Drinks, and Sights"
 date: "2013-03-13"
-categories: 
+categories:
   - "new-orleans-bar-review"
   - "new-orleans-restaurant-review"
   - "restaurants"
   - "new-orleans-travel"
-tags: 
+tags:
   - "big-easy"
   - "bourbon-house"
   - "central-business-district"
@@ -30,13 +30,25 @@ tags:
   - "woldenberg-riverfront"
 ---
 
-\[caption id="attachment\_6012" align="aligncenter" width="700"\][![The Mississippi riverfront. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_409small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_409small/) The Mississippi riverfront. Click twice for the largest view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Mississippi riverfront. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_409small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_409small/) The Mississippi riverfront. Click twice for the largest view.</div>
+
 
 I bet you never thought I’d finish my New Orleans series! This is the fifth and final installment. [Blog #1](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/) was on sights to the north of Lake Pontchartrain, [Blog #2](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/) was on dining at night, and [Blog #3](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/) was on drinking at night. [Blog #4](http://www.thegourmez.com/2013/02/new-orleans-adventures-honey-island-swamp-touring/) took us through the Honey Island Swamp. This time around, we’ll walk through the Garden district, stop for meals, beers, and streetcar rides, and finish the visit up with bourbon, breakfast, and one last Jackson Square view. Let’s go!
 
 On our first morning in town, I wanted to take in some regular New Orleans street views. My husband wanted to shop and stop for several beers to recover from my fast pace. So we decided on Magazine St., where retail, food, and pretty houses are plentiful throughout the Central Business and Garden districts.
 
-\[caption id="attachment\_5992" align="aligncenter" width="334"\][![Heading out.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_120small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_120small/) Heading out.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Heading out.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_120small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_120small/) Heading out.</div>
+
 
 [Surrey’s Café and Juice Bar](http://www.surreyscafeandjuicebar.com/Surreys-New-Orleans-Restaurant.html) (1418 Magazine St.) was our choice for breakfast because it’s highly recommended among locals on Yelp.
 
@@ -60,9 +72,21 @@ Coffee was served in large, cozy mugs perfect for a lazy morning.
 
 Our morning was anything but lazy, however, because I had streets to walk!
 
-\[caption id="attachment\_5997" align="aligncenter" width="500"\][![Lively corner café.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_127small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_127small/) Lively corner café.\[/caption\]
 
-\[caption id="attachment\_5998" align="aligncenter" width="500"\][![Sidewalk restaurant art.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_129small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_129small/) Sidewalk restaurant art.\[/caption\]
+
+
+<div class="caption">
+
+[![Lively corner café.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_127small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_127small/) Lively corner café.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Sidewalk restaurant art.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_129small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_129small/) Sidewalk restaurant art.</div>
+
 
 For the antique lovers, take a left on Jackson Ave. for a truly unique antique shop, Antiques on Jackson (1028 Jackson Ave.).
 
@@ -70,7 +94,13 @@ For the antique lovers, take a left on Jackson Ave. for a truly unique antique s
 
 I don’t even like antiquing, but I couldn’t help walking in with a storefront like that. The proprietors are super friendly. But my street strolling would not be waylaid for long.
 
-\[caption id="attachment\_6000" align="aligncenter" width="334"\][![Love that wrought ironwork.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_135small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_135small/) Love that wrought ironwork.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Love that wrought ironwork.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_135small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_135small/) Love that wrought ironwork.</div>
+
 
 Don’t forget to look up as you stroll! The trees just plain pretty--
 
@@ -100,13 +130,31 @@ Who could resist that? Not us.
 
 We were about three drinks in after the Bulldog, so after another few blocks, we headed up Napoleon Ave. to catch the streetcar on St. Charles Ave.
 
-\[caption id="attachment\_6006" align="aligncenter" width="500"\][![Streetcar approaching.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_149small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_149small/) Streetcar approaching.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Streetcar approaching.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_149small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_149small/) Streetcar approaching.</div>
+
 
 We decided to ride it until the end of the line on S. Carrollton, taking in the mansions, colleges, and parks that line the road as we went.
 
-\[caption id="attachment\_6007" align="aligncenter" width="500"\][![Loyola or Tulane University. Can’t remember which!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_156small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_156small/) Loyola or Tulane University. Can’t remember which!\[/caption\]
 
-\[caption id="attachment\_6009" align="aligncenter" width="500"\][![ Audubon Park](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_163small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_163small/) Audubon Park\[/caption\]
+
+
+<div class="caption">
+
+[![Loyola or Tulane University. Can’t remember which!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_156small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_156small/) Loyola or Tulane University. Can’t remember which!</div>
+
+
+
+
+
+<div class="caption">
+
+[![ Audubon Park](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_163small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_163small/) Audubon Park</div>
+
 
 [![2012_Dec_Nola_166small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_166small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_166small/)
 
@@ -114,7 +162,13 @@ We decided to ride it until the end of the line on S. Carrollton, taking in the 
 
 On a nice day, it’s a truly relaxing way to spend the afternoon and well worth the $3 or so roundtrip. We hopped right back on it to return to the Central Business District.
 
-\[caption id="attachment\_6008" align="aligncenter" width="500"\][![Inside the streetcar.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_160small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_160small/) Inside the streetcar.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Inside the streetcar.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_160small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_160small/) Inside the streetcar.</div>
+
 
 On foot, we traversed the CBD for a few blocks, determined to make it to the riverfront by sunset.
 
@@ -122,23 +176,53 @@ On foot, we traversed the CBD for a few blocks, determined to make it to the riv
 
 [![2012_Dec_Nola_180small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_180small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_180small/)
 
-\[caption id="attachment\_5971" align="aligncenter" width="500"\][![Canal St.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_181small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_181small/) Canal St.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Canal St.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_181small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_181small/) Canal St.</div>
+
 
 Strolling along the Woldenberg Riverfront Park is a pleasure, and you can follow the river on it from the Aquarium—
 
-\[caption id="attachment\_5977" align="aligncenter" width="468"\][![Aquarium sculptures at sunset.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_332small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_332small/) Aquarium sculptures at sunset.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Aquarium sculptures at sunset.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_332small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_332small/) Aquarium sculptures at sunset.</div>
+
 
 \--to Jackson Square.
 
-\[caption id="attachment\_5978" align="aligncenter" width="500"\][![Walking toward Jackson Square.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_336small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_336small/) Walking toward Jackson Square.\[/caption\]
 
-\[caption id="attachment\_5981" align="aligncenter" width="333"\][![ Tribute to the Immigrant](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_405small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_405small/) Tribute to the Immigrant\[/caption\]
+
+
+<div class="caption">
+
+[![Walking toward Jackson Square.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_336small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_336small/) Walking toward Jackson Square.</div>
+
+
+
+
+
+<div class="caption">
+
+[![ Tribute to the Immigrant](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_405small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_405small/) Tribute to the Immigrant</div>
+
 
 We ventured off around Conti St. to see how beautiful the French Quarter is at sunset as well.
 
 [![2012_Dec_Nola_337small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_337small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_337small/)
 
-\[caption id="attachment\_5980" align="aligncenter" width="500"\][![Decatur Ave. at sunset.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_340small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_340small/) Decatur Ave. at sunset.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Decatur Ave. at sunset.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_340small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_340small/) Decatur Ave. at sunset.</div>
+
 
 [The Bourbon House](http://bourbonhouse.com/) (144 Bourbon St.) was our next stop, and we were happy to take advantage of their $5 small plates happy hour.
 
@@ -186,9 +270,21 @@ Made with Charlie T’s boudin, smoked ham, creole hollandaise, soft baguettes, 
 
 I made use of our last few hours in New Orleans by giving Jackson Square its due in the daylight hours, having documented it quite well at night already.
 
-\[caption id="attachment\_5987" align="aligncenter" width="333"\][![Park gates.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_416small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_416small/) Park gates.\[/caption\]
 
-\[caption id="attachment\_5988" align="aligncenter" width="500"\][![Iconic view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_418small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_418small/) Iconic view.\[/caption\]
+
+
+<div class="caption">
+
+[![Park gates.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_416small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_416small/) Park gates.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Iconic view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_418small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_418small/) Iconic view.</div>
+
 
 [![Stanley on Foodio54](http://foodio54.com/images/badge-1-ccacf.jpg)](http://foodio54.com/restaurant/New-Orleans-LA/ccacf/Stanley)
 
@@ -196,7 +292,13 @@ We walked back to the hotel and our waiting car, taking in a few more sights of 
 
 [![2012_Dec_Nola_423small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_423small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_423small/)
 
-\[caption id="attachment\_5990" align="aligncenter" width="500"\][![Louis Armstrong Park down the block.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_428small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_428small/) Louis Armstrong Park down the block.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Louis Armstrong Park down the block.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_428small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_428small/) Louis Armstrong Park down the block.</div>
+
 
 [![2012_Dec_Nola_429small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_429small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_429small/)
 

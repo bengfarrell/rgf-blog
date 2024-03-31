@@ -1,10 +1,10 @@
 ---
 title: "Summer Salads at Noodles &amp; Company"
 date: "2012-07-27"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "backyard-barbecue"
   - "balsamic-fig"
   - "blue-cheese"
@@ -36,9 +36,21 @@ This salad wants to be amazing. It looks pretty cool with that pile of rice nood
 
 The other two summer salads on Noodles & Company’s menu are much better options than the first. Salad #2 is the Backyard Barbecue Chicken Salad.
 
-\[caption id="attachment\_4657" align="aligncenter" width="500" caption="Chicken profile"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/noodlesandco02.jpg "noodlesandco02")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/noodlesandco02.jpg)\[/caption\]
 
-\[caption id="attachment\_4656" align="aligncenter" width="500" caption="Veggie profile"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/noodlesandco01.jpg "noodlesandco01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/noodlesandco01.jpg)\[/caption\]
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/noodlesandco02.jpg "noodlesandco02")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/noodlesandco02.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/noodlesandco01.jpg "noodlesandco01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/noodlesandco01.jpg)</div>
+
 
 It’s a mixed greens salad topped with freshly cut corn, roma tomatoes, pulled chicken, and a smoky, creamy dressing. I have two critiques of the salad. The first is that the red cabbage tasted dry; perhaps radicchio would be a better option. The second is that the dressing was too thick and a tad too sweet, but it was also addictively smoky and that quality made the whole salad pop. The chicken was moist, and I always love having whole chunks of corn cut off a cob—it saves my teeth from the need for toothpick battles and tastes amazing all at the same time.  One word-description: Smoky.
 

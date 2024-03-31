@@ -1,11 +1,11 @@
 ---
 title: "Carolina Crossroads Winter Media Dinner"
 date: "2013-03-15"
-categories: 
+categories:
   - "dining-in-chapel-hill-nc"
   - "events"
   - "restaurants"
-tags: 
+tags:
   - "2013"
   - "ahi-tuna"
   - "amanda-miller"
@@ -36,11 +36,23 @@ tags:
 
 **Carolina Crossroads Winter Media Dinner**
 
-\[caption id="attachment\_6019" align="aligncenter" width="333"\][![Carolina Crossroads Winter01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Carolina-Crossroads-Winter01.jpg)](http://www.thegourmez.com/2013/03/carolina-crossroads-winter-media-dinner/carolina-crossroads-winter01/) The setting\[/caption\]
+
+
+
+<div class="caption">
+
+[![Carolina Crossroads Winter01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Carolina-Crossroads-Winter01.jpg)](http://www.thegourmez.com/2013/03/carolina-crossroads-winter-media-dinner/carolina-crossroads-winter01/) The setting</div>
+
 
 Two weeks ago, I was lucky enough to be invited to a complimentary media dinner at Carolina Crossroads in Chapel Hill. [Carolina Crossroads](http://www.carolinainn.com/crossroads-restaurant.php) is located inside the Carolina Inn, which has received 4 diamonds from AAA for the last 16 years. The restaurant has received 11 consecutive 4-star AAA ratings and 13 consecutive 4-star ratings from _Forbes_, which is quite an accomplishment. This night was a whirlwind tour of Chef James's winter menu offerings. By whirlwind, I mean we had twelve dishes over seven courses, counting an amuse-bouche. Insanity!
 
-\[caption id="attachment\_6020" align="aligncenter" width="333"\][![My place card.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Carolina-Crossroads-Winter02.jpg)](http://www.thegourmez.com/2013/03/carolina-crossroads-winter-media-dinner/carolina-crossroads-winter02/) My place card.\[/caption\]
+
+
+
+<div class="caption">
+
+[![My place card.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Carolina-Crossroads-Winter02.jpg)](http://www.thegourmez.com/2013/03/carolina-crossroads-winter-media-dinner/carolina-crossroads-winter02/) My place card.</div>
+
 
 I learned a lot about the Carolina Inn from a few of our dining companions at this dinner: Martin Armes, their publicist, and Jack Schmidt, their general manager. Both men are charming and take obvious pride in being associated with the Carolina Inn. Jack is especially proud of being part of the University of North Carolina at Chapel Hill system and that proceeds from the inn and restaurant fund the North Carolina Collection at the UNC Library. Indeed, the Inn has a resident historian who is available to give tours about the Inn's nearly 90-year history and the bar, with its newest remodel, shows off a large collection of illustrations from the _Daily Tar Heel._
 
@@ -94,7 +106,13 @@ I'll start with the warm banana bread pudding on the far end, served with salted
 
 What's nice about these media dinners, beyond the opportunity to sample cuisine that would qualify as a rare splurge on a blogger's budget, is the opportunity to talk with the chef and the restaurant proprietors. Chef James gave us an introduction to each of our courses--
 
-\[caption id="attachment\_6028" align="aligncenter" width="500"\][![The chef doing so at the end of our long table](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Carolina-Crossroads-Winter12.jpg)](http://www.thegourmez.com/2013/03/carolina-crossroads-winter-media-dinner/carolina-crossroads-winter12/) The chef doing so at the end of our long table\[/caption\]
+
+
+
+<div class="caption">
+
+[![The chef doing so at the end of our long table](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Carolina-Crossroads-Winter12.jpg)](http://www.thegourmez.com/2013/03/carolina-crossroads-winter-media-dinner/carolina-crossroads-winter12/) The chef doing so at the end of our long table</div>
+
 
 \--and sat down for a well-deserved break at the end the meal, fielding our questions. (Yes, readers, he is working on a rabbit entree, if your question happens to be the same as mine was.) It's always a treat to be invited, and I want to extend my thanks to the Carolina Crossroads team for a delicious feast that conquered us all with the sheer magnitude of food and the imagination shown in the creative pairings. Try that winter menu while you can, especially the oysters, red velvet mousse, lamb terrine, and pulled duck and tuna sandwiches.
 

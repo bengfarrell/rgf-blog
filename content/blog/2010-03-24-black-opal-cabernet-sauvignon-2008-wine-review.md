@@ -1,11 +1,11 @@
 ---
 title: "Black Opal Cabernet Sauvignon 2008---Wine Review"
 date: "2010-03-24"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "2008-vintage"
   - "black-opal-cabernet-sauvignon"
   - "paprika"
@@ -25,7 +25,13 @@ Nose: Plum and spice---most notably, paprika.
 
 The spice definitely comes to the forefront when tasting, but it's much more peppery, though the paprika is still there. For fruit, there's raspberry and prune, with some of the dense molasses-type of sugar that comes with that dried plum, but not enough to be obnoxious. It's medium-bodied and pretty good.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+  Other Bloggers' Thoughts:
 
 [Tom and Melody's Wine Blog](http://tomandmelodywine.com/2010/01/13/black-opal-cabernet-sauvignon-2008/)
 

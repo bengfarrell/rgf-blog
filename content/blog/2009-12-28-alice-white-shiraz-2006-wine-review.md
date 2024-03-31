@@ -1,10 +1,10 @@
 ---
 title: "Alice White Shiraz 2006 -- Wine Review"
 date: "2009-12-28"
-categories: 
+categories:
   - "red-wine-review"
   - "shiraz"
-tags: 
+tags:
   - "alice-white-shiraz-2006"
   - "cherry-notes"
   - "medium-bodied"
@@ -19,7 +19,13 @@ tags:
 
 _Nose:_ Candied cherry and chocolates. _Taste:_ Bright, ripe cherries and semisweet chocolate, which surprises me as a lot of the wines I've tried lately have had noses that vastly diverge from their tastes. This is a medium-bodied wine, mildly tannic, and overly pleasant. It's easy to enjoy on its own, so why not do just that?
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Other Bloggers' Thoughts:_
 

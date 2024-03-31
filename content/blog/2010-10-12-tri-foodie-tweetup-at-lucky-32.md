@@ -1,11 +1,11 @@
 ---
 title: "Tri Foodie Tweetup at Lucky 32"
 date: "2010-10-12"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "events"
   - "restaurants"
-tags: 
+tags:
   - "anna-mae-bread"
   - "buttermilk-pie"
   - "chocolate-chess-pie"
@@ -62,7 +62,13 @@ On this plate, you see persimmon bread pudding with Southern Comfort sauce, butt
 
 Another foodie tweetup success, no doubt, because I love to mingle with people who know their food and drink better than I do! As for Lucky 32, my final verdict is an
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)</div>
+
 
 You might think that’s a bit high after the critiques I had, but I loved the chef’s inventiveness. That’s more important to me than perfectly pulling off a dish, especially since most of the elements of them were great, just not always in combination with each other. Plus, the man knows how to get a good level of spicy heat into his food, and I love that. Yes, spice prowess can occasionally triumph over dessert disappointment for me. I will happily give Lucky 32 Southern Kitchen another try when I have the occasion to hit up that end of Cary. Plus, I thought they did very well pulling off quality when cooking for a group our size, so that counts for giving them the benefit of the doubt as well.
 

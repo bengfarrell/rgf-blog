@@ -1,11 +1,11 @@
 ---
 title: "Marqués de Cáceres Crianza 2006 Cosecha"
 date: "2010-09-15"
-categories: 
+categories:
   - "garnacha"
   - "red-wine-review"
   - "tempranillo"
-tags: 
+tags:
   - "2006-vintage"
   - "beachside-resident"
   - "cayenne"
@@ -27,7 +27,13 @@ Everything I like about Spanish wine is in this glass---spicy, leathery, fruit t
 
 The flavors in this Crianza Cosecha, which is a blend of tempranillo and grenache, are a little too bright but definitely intriguing and fun to drink.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+
 
 Other Bloggers' Thoughts
 

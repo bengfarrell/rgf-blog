@@ -1,7 +1,7 @@
 ---
 title: "Alamos and Gascón Malbec Lunch at Perbacco"
 date: "2018-01-08"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "malbec"
   - "red-wine-review"
@@ -9,7 +9,7 @@ categories:
   - "torrontes"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "italian"
   - "malbec"
   - "san-francisco"
@@ -18,7 +18,13 @@ tags:
 
 [![alamos gascon malbec wine dinner perbacco](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_04-398x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_04.jpg)By some feat of great fortune, during the only two weeks I was home last fall, I squeezed in a lunch with representatives of [Alamos](http://www.alamoswinesus.com/) and [Gascón](http://www.gasconwine.com/)  wineries at Perbacco in San Francisco. Of course, their wines were there, too. 😉 And delicious food, all free to me by the hospitality of my hosts. It was my first time at [Perbacco](http://www.perbaccosf.com/), and I enjoyed discovering their bold Italian flavors.
 
-\[caption id="attachment\_28044" align="aligncenter" width="362"\][![perbacco gnocchi](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_20-362x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_20.jpg) Chive-potato gnocchi in a tomato sauce, enjoyed by my dining companions.\[/caption\]
+
+
+
+<div class="caption">
+
+[![perbacco gnocchi](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_20-362x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_20.jpg) Chive-potato gnocchi in a tomato sauce, enjoyed by my dining companions.</div>
+
 
 My hosts included winemaker Matías Ciciani of Don Miguel Gascón winery and Tatiana Nessier, the brand ambassador for Alamos wines. Both wineries are based in Mendoza, Chile, where they focus on high-quality malbec wines, whether varietal wines or table wines.
 
@@ -46,6 +52,12 @@ The meal finished with an impressive dessert of hazelnut brown butter cake, peac
 
 Oops, _that_ wine’s name is embargoed. 😉 I greatly enjoyed Tatiana and Matías’s company, and that of my fellow wine media peers, and the public relations contingents from [Calhoun & Company](http://www.calhounwine.com/) and [E. & J. Gallo](http://www.gallo.com/portfolio/), under whose portfolio Alamos and Gascón fall. A pleasure to make all your acquaintances, and a pleasure to be reunited with the wines of Mendoza.
 
-\[caption id="attachment\_28049" align="aligncenter" width="364"\][![alamos gascon malbec lunch](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_29-364x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_29.jpg) Outtake!\[/caption\]
+
+
+
+<div class="caption">
+
+[![alamos gascon malbec lunch](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_29-364x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_29.jpg) Outtake!</div>
+
 
 _This media dinner took place 2 October 2017._

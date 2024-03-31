@@ -1,7 +1,7 @@
 ---
 title: "Most Memorable Wines from the 2015 Finger Lakes Wine Bloggers Conference"
 date: "2015-08-27"
-categories: 
+categories:
   - "champagne"
   - "cider"
   - "ice-wine"
@@ -13,7 +13,7 @@ categories:
   - "vidal-blanc"
   - "wine"
   - "wine-bloggers-conference-2015"
-tags: 
+tags:
   - "2015"
   - "atwater"
   - "atwater-chardonnay"
@@ -49,7 +49,13 @@ tags:
   - "wine-country"
 ---
 
-\[caption id="attachment\_24941" align="aligncenter" width="900"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/2015_WBC_141-1024x239.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/2015_WBC_141.jpg) Sunset over Seneca Lake from Chateau Lafayette Reneau.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/2015_WBC_141-1024x239.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/2015_WBC_141.jpg) Sunset over Seneca Lake from Chateau Lafayette Reneau.</div>
+
 
 It’s been two weeks since the 2015 Wine Bloggers Conference (WBC), my second WBC and my second time being truly impressed with the events that [Zephyr Adventures](http://www.zephyradventures.com/) organizes. The elite sponsors for this year’s WBC—the [Finger Lakes Wine Country Tourism Marketing Association,](http://www.fingerlakeswinecountry.com/) [Corning Enterprises](http://www.corning.com/), and the [Elmira Corning Regional Airport](http://www.chemungcounty.com/index.asp?pageId=577)—went above and beyond in introducing us to Finger Lakes wines and the region itself. Corning’s sights to see and places to eat will be another post, but for my first takeaway from the WBC, I’ll let the wines take precedence.
 
@@ -57,7 +63,13 @@ It’s been two weeks since the 2015 Wine Bloggers Conference (WBC), my second W
 
 You may have read my [Pre-Con Preconceptions](http://thegourmez.com/2015/08/11/pre-con-preconceptions-of-the-finger-lakes/) post about the Finger Lakes, and #3 on my list was _that the Finger Lakes produce all riesling all the time._ They do produce a lot of riesling, 22,000,000 cases of it a year according to the [Finger Lakes Wine Alliance](http://www.fingerlakeswinealliance.com/finger-lakes-ava.html). But the vastly differing microclimates of the region and its variable weather patterns, as described by [Alan Lakso](http://hort.cals.cornell.edu/people/alan-lakso) of Cornell University in a great introductory session, force Finger Lakes winemakers to experiment with new grapes every year.
 
-\[caption id="attachment\_24939" align="alignleft" width="369"\][![Alan Lakso](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/2015_WBC_037-500x465.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/2015_WBC_037.jpg) Alan Lakso\[/caption\]
+
+
+
+<div class="caption">
+
+[![Alan Lakso](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/2015_WBC_037-500x465.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/2015_WBC_037.jpg) Alan Lakso</div>
+
 
 That experimentation was our reward! Luckily, the winemakers realized we might tire of the region’s signature wine after four days, so they brought in many other varietals to show off. Of course, there was plenty of riesling, but most of those were quite dry with an acidic, mineral-laden pop. It showed a conscious effort on the winemakers’ part to move beyond my #4 pre-con preconception, _that the Finger Lakes’ wines are all crazy sweet._ Some winemakers I spoke to admitted sweeter rieslings will probably always be their primary product—American wine drinkers have a sweet tooth, y’all—but they are avidly seeking, and in my opinion, earning, a more distinguished wine reputation.
 
@@ -77,7 +89,13 @@ I had never encountered the saperavi grape varietal, which originates from the r
 
  
 
-\[caption id="attachment\_24940" align="alignleft" width="333"\][![2015_WBC_117](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/2015_WBC_117-500x371.jpg)](http://www.atwatervineyards.com/) Ted Marks.\[/caption\]
+
+
+
+<div class="caption">
+
+[![2015_WBC_117](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/2015_WBC_117-500x371.jpg)](http://www.atwatervineyards.com/) Ted Marks.</div>
+
 
 [2\. Atwater 2007 Dry Riesling](http://www.atwatervineyards.com/)
 
@@ -87,7 +105,13 @@ I must also mention [Atwater’s 2014 Chardonnay,](http://www.atwatervineyards.c
 
  
 
-\[caption id="attachment\_24943" align="alignleft" width="191"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/2015_WBC_236-352x500.jpg)](https://www.thirstyowl.com/secure/details.asp?Prod_ID=89&Sku=2013CabernetSauvignonIce) The Cabernet Sauvignon Ice Wine as modeled by Thirsty Owl's representative.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/2015_WBC_236-352x500.jpg)](https://www.thirstyowl.com/secure/details.asp?Prod_ID=89&Sku=2013CabernetSauvignonIce) The Cabernet Sauvignon Ice Wine as modeled by Thirsty Owl's representative.</div>
+
 
 3. [Thirsty Owl 2013 Cabernet Sauvignon Ice Wine](https://www.thirstyowl.com/secure/details.asp?Prod_ID=89&Sku=2013CabernetSauvignonIce)
 
@@ -159,4 +183,10 @@ I didn’t highlight any, but I should note that many of my fellow bloggers were
 
 Go forth and let your taste buds experiment with these experimental creations!
 
-\[caption id="attachment\_24936" align="aligncenter" width="281"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/IMG_20150815_123823695-281x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/IMG_20150815_123823695.jpg) Me and Rebecca of [My Vino Rules](http://This delicious ice wine gets its extra juicy and jammy cassis notes from the grape skins being left on during the winemaking process. On a hot, humid day touring the Cayuga Lake Wine Trail on the post-conference excursion, it made for a very welcome refreshment.) doing just that after Saturday's lunch.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/IMG_20150815_123823695-281x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/IMG_20150815_123823695.jpg) Me and Rebecca of [My Vino Rules](http://This delicious ice wine gets its extra juicy and jammy cassis notes from the grape skins being left on during the winemaking process. On a hot, humid day touring the Cayuga Lake Wine Trail on the post-conference excursion, it made for a very welcome refreshment.) doing just that after Saturday's lunch.</div>
+

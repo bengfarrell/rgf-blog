@@ -1,7 +1,7 @@
 ---
 title: "Most Memorable Wines from the 2016 Wine Bloggers Conference: Part 2"
 date: "2016-09-04"
-categories: 
+categories:
   - "bread-wine"
   - "liqueur-reviews"
   - "other-spirits"
@@ -12,7 +12,7 @@ categories:
   - "white-wine-reviews"
   - "wine"
   - "wine-bloggers-conference-2016"
-tags: 
+tags:
   - "3-steves"
   - "cafe-daristi"
   - "carawy"
@@ -49,7 +49,7 @@ tags:
 Last week, I posted [Part 1](http://thegourmez.com/2016/09/02/most-memorable-wines-from-the-2016-wine-bloggers-conference-part-1/) of this two-part series on the most memorable wines from the 2016 Wine Bloggers Conference (WBC), based in Lodi. I also participated in the Livermore Valley pre-excursion, so those wines crop up here. And they crop up on Instagram, where I first posted this picture from our Concannon dinner:
 
 > [Trying out Concannon's Assemblage Blanc 2014 before dinner by this historic home. Cannot complain! . . . . . #LVWineCountry #winelover #winereview #tastingnotes #tasting #wine #redwine #wineoclock #winetasting #winetime #winelovers #winelove #instawine #wines #wbc16 #livermorevalley #livermore](https://www.instagram.com/p/BI854cyDH3O/)
-> 
+>
 > A photo posted by Becca Gomez Farrell (@thegourmez) on Aug 10, 2016 at 7:27pm PDT
 
 Because my selections spilled over with delight and lengthiness in my previous post, I broke the list in half. Here are my final four wines, the ones that imprinted themselves upon my memory. Being named here doesn’t mean these are the best wines of the conference, but they are the ones I’m still recalling three weeks later.
@@ -60,7 +60,13 @@ _Obligatory disclaimer: Each product mentioned below was sampled either as part 
 
 ([Website](https://3steveswinery.com/))
 
-\[caption id="attachment\_26421" align="aligncenter" width="500"\][![3 Steves and Wine Antics in Livermore Wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-012-500x356.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-012.jpg) One of the 3 Steves chatting with Jennifer of [Wine Antics](https://wineantics.com/)\[/caption\]
+
+
+
+<div class="caption">
+
+[![3 Steves and Wine Antics in Livermore Wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-012-500x356.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-012.jpg) One of the 3 Steves chatting with Jennifer of [Wine Antics](https://wineantics.com/)</div>
+
 
 I’ve never had a sauvignon blanc like this one. It begs, pleads for seafood to the point that I’m not sure I’d want to drink it again without a pile of mussels besides me. This Livermore Valley wine comes from three friends named Steve who combined their forces for the greater good. Or at least for the greater contemplation, as there are so many ways this wine wanders, I’m not sure I’ll ever get out of its labyrinth alive! Lots of salinity, like smelling the sea breeze with tastes of stone fruit, lychee, Indonesian curry spices, and five-spice broth on my tongue.
 
@@ -72,17 +78,35 @@ I’ve never had a sauvignon blanc like this one. It begs, pleads for seafood to
 
 The winery excursions are one of the Wine Bloggers Conference’s hallmarks. On mine this year, titled “the Rolling Stones,” we checked out Teichart Ranch, where [Ironstone Vineyards](http://www.ironstonevineyards.com/) grows most of their grapes. This scenic, farming-focused tour ended with a delicious meal of Mexican food, freshly made by Teichart Ranch employees.
 
-\[caption id="attachment\_26417" align="aligncenter" width="500"\][![Fresh tortilla teichart ranch](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-034-500x331.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-034.jpg) Tortillas pressed before my eyes? YUM!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Fresh tortilla teichart ranch](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-034-500x331.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-034.jpg) Tortillas pressed before my eyes? YUM!</div>
+
 
 How wonderful to have such amazing food and get to share it with Ironstone’s founders, Gail and John Kautz, and the rest of the family!
 
-\[caption id="attachment\_26419" align="aligncenter" width="500"\][![Kautz Family Ironstone](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/merged-founders-1-500x420.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/merged-founders-1.jpg) Gail and John Kautz\[/caption\]
+
+
+
+<div class="caption">
+
+[![Kautz Family Ironstone](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/merged-founders-1-500x420.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/merged-founders-1.jpg) Gail and John Kautz</div>
+
 
 The Obsession Symphony went very well with my heaping plate of food, especially the tamales. At only $12, this bottle packs a flowery, tropical wallop while simultaneously cooling the heat of spicy salsa and a chicken tamale that Tim Chappell, vineyard manager, told me I had to try.
 
 [![Homemade tamales in cooler](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-036-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-036.jpg)
 
-\[caption id="attachment\_26415" align="aligncenter" width="333"\][![Tamales at Teichart Ranch](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-009-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-009.jpg) Tim knows his tamales.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Tamales at Teichart Ranch](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-009-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/2016-WBC-Rolling-Stones-009.jpg) Tim knows his tamales.</div>
+
 
 The symphony varietal is a cross of muscat and grenache gris grapes.
 
@@ -98,7 +122,13 @@ Of the spirits I tried, the Polugars definitely left an impression.
 
 My hands down favorite of the spirits lounge, however, was the Casa D’Aristi Huana liqueur.
 
-\[caption id="attachment\_26400" align="aligncenter" width="325"\][![Image provided by the brand.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Nicole-Preiss-Huana-2-325x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Nicole-Preiss-Huana-2.jpg) Image provided by the brand.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Image provided by the brand.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Nicole-Preiss-Huana-2-325x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Nicole-Preiss-Huana-2.jpg) Image provided by the brand.</div>
+
 
 From the Yucatan, [Casa D’Aristi](http://www.hpsepicurean.com/preiss-spirits/casa-daristi/) makes modern-day versions of Mayan alcoholic beverages. This one comes from the guanabana fruit, commonly known as the soursop. It is related to the custard apple, cherimoya, and paw paw, which is a particularly blessed family of fruits for its delicious blend of creamy strawberry and banana notes. Despite how much fun it is to say “Huana guanabana,” the flavor enchanted me most, and I can picture it as the star ingredient in any number of cocktails I’ve yet to come up with. I’m super excited to taste what else Casa D’Aristi has distilled.
 
@@ -116,13 +146,25 @@ You’ll be forgiven if you thought Longue Carabine was the name of some obscure
 
 ([Purchase](http://nottinghamcellars.com/wine/2013-heine/))
 
-\[caption id="attachment\_26420" align="aligncenter" width="333"\][![Vasco Urbano winemaker Collin Cranor.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-006-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-006.jpg) Vasco Urbano winemaker Collin Cranor.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Vasco Urbano winemaker Collin Cranor.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-006-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-006.jpg) Vasco Urbano winemaker Collin Cranor.</div>
+
 
 Another Livermore wine! Clearly, I need to go back to the region, and I have no excuse, being as it’s 40 minutes from home. Each of the bloggers I tried this with had the same visceral reaction: a smile breaking out and a desire for a hefty, perfectly cooked steak taking hold. It’s a big wine, not at all tight as I sometimes associate with petite sirah. Vanilla, cassis, and smoke were the primary flavors I noted, but what I noted more was a sense that the fruit and smokiness chased each other through the glass, much like the hippo and alligator in Fantasia’s _Dance of the Hours._
 
 With that, I end this two part series on the most memorable wines from the 2016 Wine Bloggers Conference.
 
-\[caption id="attachment\_26422" align="aligncenter" width="333"\][![Concannon sunset My Vino Rules](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-080-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-080.jpg) Rebecca of [My Vino Rules](http://myvinorules.com/vinorules/) during a most memorable sunset at Concannon Vineyards.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Concannon sunset My Vino Rules](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-080-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-080.jpg) Rebecca of [My Vino Rules](http://myvinorules.com/vinorules/) during a most memorable sunset at Concannon Vineyards.</div>
+
 
 Nearly all the wines I tasted this year were above average, which is one of the reasons I went for listing the most memorable rather than the best. I am excited I live so close to two under-recognized winemaking regions in California, and I can’t wait to learn more about them now that I’ve had such a stellar introduction. Onward to my own explorations!
 

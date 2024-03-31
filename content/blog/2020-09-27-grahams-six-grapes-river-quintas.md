@@ -26,7 +26,13 @@ tags:
 
 Luckily, well-crafted wine brings a taste of its mother country with it through the magic of terroir! So I was more than willing to try **W. & J. Graham’s “Six Grapes” Special River Quintas Edition Reserve Porto,** and with it take a journey on the Tua River in the heart of the Douro Valley in Portugal.
 
-\[caption id="attachment\_29005" align="aligncenter" width="500"\][![](https://thegourmez-wpmedia.s3.amazonaws.com/2020/09/Screenshot_2020-09-27-Rio-Tua-Portugal-500x333.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/09/Screenshot_2020-09-27-Rio-Tua-Portugal.jpg) Photographer: Vitor Oliveira at [Flickr](https://www.flickr.com/photos/vitor107/10034387995/in/photostream/).\[/caption\]
+
+
+
+<div class="caption">
+
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2020/09/Screenshot_2020-09-27-Rio-Tua-Portugal-500x333.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/09/Screenshot_2020-09-27-Rio-Tua-Portugal.jpg) Photographer: Vitor Oliveira at [Flickr](https://www.flickr.com/photos/vitor107/10034387995/in/photostream/).</div>
+
 
 **_Obligatory disclaimer:_** This wine was free to me to sample for this blog.
 
@@ -42,6 +48,12 @@ This Port smells of warm strawberry preserves. I find I appreciate strawberry no
 
 The suggested retail price for W. & J. Graham’s “Six Grapes” Special River Quintas Edition Reserve Porto is USD $42. You can learn more about it at the [W. & J. Graham’s website,](https://sixgrapes.grahams-port.com/special-edition) or purchase it from Wine.com [here](https://www.wine.com/product/grahams-six-grapes-special-river-quintas-edition-reserve-port/208177?state=CA&s=GoogleBase_CSE_208177_type_Wine_DessertWine_Port_7931&utm_source=google&utm_medium=cpc&utm_term=&utm_campaign=Google_Shopping_Smart_CA_Relaunch&showpromo=true&promo=10PS6&gclid=CjwKCAjwh7H7BRBBEiwAPXjadrL36OgNSb_qNNr_EJ8pQJ9Wzj5hyNPiO5Zp5k0D4XK2Gmx_GwIgRhoCMhkQAvD_BwE&gclsrc=aw.ds). Enjoy your journey.
 
-\[caption id="attachment\_28999" align="aligncenter" width="454"\][![the gourmez, rebecca gomez farrell, port sipper, port, port review, tasting notes](https://thegourmez-wpmedia.s3.amazonaws.com/2020/09/SixGrapesSpecial-005-454x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/09/SixGrapesSpecial-005.jpg) My own journey from my desk while sampling this Port.\[/caption\]
+
+
+
+<div class="caption">
+
+[![the gourmez, rebecca gomez farrell, port sipper, port, port review, tasting notes](https://thegourmez-wpmedia.s3.amazonaws.com/2020/09/SixGrapesSpecial-005-454x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/09/SixGrapesSpecial-005.jpg) My own journey from my desk while sampling this Port.</div>
+
 
 _Reviewed 1 September 2020._

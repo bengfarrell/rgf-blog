@@ -1,13 +1,13 @@
 ---
 title: "Tea Tasting at Tin Roof Teas"
 date: "2011-07-05"
-categories: 
+categories:
   - "beverage-product-review"
   - "beverages-to-go"
   - "events"
   - "ice-cream-bakery-food-truck"
   - "product-reviews"
-tags: 
+tags:
   - "assam"
   - "black-tea"
   - "cameron-village"
@@ -24,11 +24,23 @@ tags:
 
 **Tea Tasting at Tin Roof Teas** 419-B Daniels Street Cameron Village, Raleigh [Website](http://tinroofteas.com/) $10
 
-\[caption id="attachment\_3049" align="aligncenter" width="500" caption="Tea bush on the right, right in front of Owner Ryan Hinson"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/06/tinroof4.jpg "tinroof4")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/06/tinroof4.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/06/tinroof4.jpg "tinroof4")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/06/tinroof4.jpg)</div>
+
 
 Tin Roof Teas is a heavenly store for fans of tea for a number of reasons. Not only do they have a huge selection of teas from all parts of the globe, they offer tea by the glass, all sorts of tea preparation tools and vessels, and most importantly for this post, tea tastings!
 
-\[caption id="attachment\_3051" align="aligncenter" width="500" caption="The Tasters"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/06/tinroof1.jpg "tinroof1")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/06/tinroof1.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/06/tinroof1.jpg "tinroof1")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/06/tinroof1.jpg)</div>
+
 
 The tastings are always held at 8:30 on Saturday mornings, though they don’t hold them every week. You must call and reserve a spot by credit card ahead of time, because people—like me—have a tendency to just say no to a planned tasting that early on a Saturday morning. It’s totally worth pulling yourself out of bed, though, if you’re a tea lover or you hope to learn more about it. Sometimes the tastings focus on specific types of teas whether white, yellow, green, oolong, or black, and other times on a preparation style like iced. On this day, the focus was general tea knowledge, dubbed Basic Tea 101. We were given thick packets of information on the tea plants, oxidation levels, production from leaf picking to tea packing, and well, anything you could want to know about tea. Ryan Hinson, one half of the brothers who own the store, deftly led us through the thick packet of material, pausing along the way for tasting one tea from each of the main types.
 

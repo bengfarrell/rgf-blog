@@ -1,10 +1,10 @@
 ---
 title: "Bring Me That Restaurant Delivery Service"
 date: "2013-05-29"
-categories: 
+categories:
   - "food-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "asian-kitchen"
   - "bring-me-that"
   - "chapel-hill"
@@ -36,7 +36,13 @@ Bring Me That aims to make ordering delivery less painful by providing an online
 
 To order, go to their website ([linked here](http://www.bringmethat.com/)), enter your zip code, and voila!
 
-\[caption id="attachment\_6387" align="aligncenter" width="500"\][![First-page results for my zip code.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/bmt-restaurant-list-500x281.jpg)](http://www.thegourmez.com/2013/05/bring-me-that-restaurant-delivery-service/bmt-restaurant-list/) First-page results for my zip code.\[/caption\]
+
+
+
+<div class="caption">
+
+[![First-page results for my zip code.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/bmt-restaurant-list-500x281.jpg)](http://www.thegourmez.com/2013/05/bring-me-that-restaurant-delivery-service/bmt-restaurant-list/) First-page results for my zip code.</div>
+
 
 It gives you a list of nearby restaurants offering delivery to your area. The website is easily navigable, and if you have any difficulties, a chat window pops up after a few minutes to assist you. Now you might notice two things about that screen: (1) There are a lot of chain restaurants listed, many of which already have online ordering systems; and (2) Catering only and large minimum purchase amounts abound. I asked Michael LaMarca, one of Bring Me That’s founders, about that. His response:
 
@@ -48,11 +54,23 @@ Sounds like a good plan to make sifting through the options easier, but supporti
 
 In southern Durham, there were roughly five local restaurants for me to choose from. Ordering is simple.
 
-\[caption id="attachment\_6388" align="aligncenter" width="500"\][![Example of the order screen.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/order-screen-500x281.jpg)](http://www.thegourmez.com/2013/05/bring-me-that-restaurant-delivery-service/order-screen/) Example of the order screen.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Example of the order screen.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/order-screen-500x281.jpg)](http://www.thegourmez.com/2013/05/bring-me-that-restaurant-delivery-service/order-screen/) Example of the order screen.</div>
+
 
 If there is no price listed on the order screen, the menu item likely has different prices based on the portion size, so you’ll see that choice as soon as you select the item.
 
-\[caption id="attachment\_6386" align="aligncenter" width="500"\][![Menu item selection.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/bmt-menu-item-500x373.jpg)](http://www.thegourmez.com/2013/05/bring-me-that-restaurant-delivery-service/bmt-menu-item/) Menu item selection.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Menu item selection.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/bmt-menu-item-500x373.jpg)](http://www.thegourmez.com/2013/05/bring-me-that-restaurant-delivery-service/bmt-menu-item/) Menu item selection.</div>
+
 
 You can also add in special instructions at that point. Just confirm the order in the cart when you’re done, give Bring Me That your billing info, and wait for that confirmation email.
 

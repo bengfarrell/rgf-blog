@@ -1,10 +1,10 @@
 ---
 title: "Southern Fast Food Series #1: Bojangles' -- Restaurant Review"
 date: "2009-12-22"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bojangles"
   - "cajun-fries"
   - "chicken-biscuit"
@@ -51,7 +51,13 @@ Okay, that's a lie. I finished the meal off with more fries after eating half my
 
 On its own, I give Bojangles' a
 
-\[caption id="attachment\_55" align="alignnone" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 rating. In the grand scheme of fast food, I'd place it above Taco Bell and Wendy's but below the other burger joints.  What about you?  What should I try if I go back again? Is it impossible to truly understand Bojangles' appeal without drinking the sweet tea? Anywhere else you'd like to see me try?  I think Sonic might be next on the list.
 

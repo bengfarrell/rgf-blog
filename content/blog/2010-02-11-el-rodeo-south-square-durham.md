@@ -1,10 +1,10 @@
 ---
 title: "El Rodeo -- South Square (Durham)"
 date: "2010-02-11"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "agua-de-jamaica"
   - "avocado"
   - "ccamarones-de-chipotle"
@@ -29,6 +29,12 @@ I had the camarones de chipotle for my entrée and I was very happy with it. Fir
 
 All in all, El Rodeo offered decent Mexican American food at a great price.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Reviewed 1.28.10._

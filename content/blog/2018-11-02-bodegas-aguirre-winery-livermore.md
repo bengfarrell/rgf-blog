@@ -1,7 +1,7 @@
 ---
 title: "Livermore's Bodegas Aguirre Winery"
 date: "2018-11-02"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "chardonnay"
   - "fortified-wine"
@@ -11,7 +11,7 @@ categories:
   - "tasting-rooms-in-livermore-ca"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "bodegas-aguirre"
   - "livermore"
   - "review"
@@ -25,11 +25,23 @@ Last spring, I had the pleasure of visiting [Bodegas Aguirre Winery](https://www
 
 Located in the Livermore Valley, which is a historic Californian wine region, Bodegas Aguirre is the passion project of cardiac surgeon Ricardo Aguirre.
 
-\[caption id="attachment\_28336" align="aligncenter" width="500"\][![Bodegas Aguirre, wine, livermore, ricardo aguirre](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_140554-500x403.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_140554.jpg) Dr. Aguirre, L, with Dale Virgil, who works with the winery.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bodegas Aguirre, wine, livermore, ricardo aguirre](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_140554-500x403.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_140554.jpg) Dr. Aguirre, L, with Dale Virgil, who works with the winery.</div>
+
 
 Dr. Aguirre purchased his first 30 acres in 1986, began planting in 1996, and produced his first vintage in 2000, just a single barrel of a red wine blend.
 
-\[caption id="attachment\_28335" align="aligncenter" width="500"\][![Bodegas Aguirre, wine, livermore](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_135711-500x225.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_135711.jpg) The vineyards right outside the tasting room, on a rainy day.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bodegas Aguirre, wine, livermore](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_135711-500x225.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_135711.jpg) The vineyards right outside the tasting room, on a rainy day.</div>
+
 
 From there, Aguirre's passion only grew, and the winery has an amazing selection of the many wines he's produced since then. It includes red and white single varietal wines, port-style wines, and three main red wine blends: the Duo Classico, the Trio, and the Castello Novo.
 
@@ -41,11 +53,23 @@ The oldest wines we sampled were a 2001 field blend and a 2002 Estate Merlot. Bo
 
 [![Bodegas Aguirre, wine, livermore, smoked duck, duck salami](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_142901-375x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_142901.jpg)But my favorite of Aguirre's library wines was assuredly the **2004 Estate Petite Sirah (5/5).** It may have been my favorite of the day. It drank like pepper, lavender, and cardamom had ribboned through a bright, gourmet, dark chocolate bar. Restrained blackberry and dark cherry gave them plenty of room to play.
 
-\[caption id="attachment\_28344" align="aligncenter" width="268"\][![Bodegas Aguirre, wine, livermore, petite sirah](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_152114-268x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_152114.jpg) Pictured: Not quite the right vintage of petite syrah.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bodegas Aguirre, wine, livermore, petite sirah](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_152114-268x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_152114.jpg) Pictured: Not quite the right vintage of petite syrah.</div>
+
 
 That petite sirah was matched by the current release of **Estate Cabernet Sauvignon Reserve 2013 (5/5).** The cabernet smelled of brisket or a steak worth salivating over. Ripe rainier and red cherries blended with elderberry, cedar, vanilla, oak, and eucalyptus. Beef seemed a natural pairing, but it also begged for cheese.
 
-\[caption id="attachment\_28338" align="aligncenter" width="396"\][![Bodegas Aguirre, wine, livermore, wine pairing, cheese](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_141548-396x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_141548.jpg) Have a little.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bodegas Aguirre, wine, livermore, wine pairing, cheese](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_141548-396x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_141548.jpg) Have a little.</div>
+
 
 White wine grapes came later to Bodegas Aguirre's repertoire—their first chardonnay was made in 2007. But I can vouch, via the **2017 Bodegas Aguirre Chardonnay (4.5/5),** that these wines have benefited extensively from Aguirre's previous experience.
 
@@ -65,6 +89,12 @@ For the record, my compatriots all loved the **2017 Bodegas Sylvia Ros****é** a
 
 Bodegas Aguirre does not currently offer wine pairing options for a regular visit, though I've encouraged them to after our experience with their delightful appetizer selections. But the winery is eager and able to plan food for special events. The tasting room is open to the public on weekends between 12 pm and 4:30 pm. For $10, explore five Bodegas Aguirre current releases and likely a dessert wine. Don't forget to grab some of the library wines on your way out, often on sale, for a fun surprise when you open them later at home!
 
-\[caption id="attachment\_28340" align="aligncenter" width="419"\][![Bodegas Aguirre, wine, livermore, the gourmez, rebecca gomez farrell](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_142750-419x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_142750.jpg) Me, enjoying a glass.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bodegas Aguirre, wine, livermore, the gourmez, rebecca gomez farrell](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_142750-419x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_142750.jpg) Me, enjoying a glass.</div>
+
 
 _Visited 7 April 2018._

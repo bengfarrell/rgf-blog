@@ -1,10 +1,10 @@
 ---
 title: "Cocktail Review--Mango Mojito"
 date: "2009-09-03"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "10-cane-rum"
   - "cocktail-reviews"
   - "firebirds-cocktaills"
@@ -19,6 +19,12 @@ tags:
 
 The Mango Mojito is made with 10 Cane rum, mango and lime juices, mint, and club soda.  It tasted like sugar syrup with a tease of mango that I couldn't catch up to until I was halfway through the drink.  At that point, a bit of mint and lime also joined the party but the rum was mostly a no show.  It's not a party if I can't taste the rum.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
+
 
 _Reviewed 8.14.09._

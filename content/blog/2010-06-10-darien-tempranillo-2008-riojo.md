@@ -1,11 +1,11 @@
 ---
 title: "Darien Tempranillo 2008 Riojo"
 date: "2010-06-10"
-categories: 
+categories:
   - "red-wine-review"
   - "tempranillo"
   - "wine"
-tags: 
+tags:
   - "2008-vintage"
   - "bitter-greens"
   - "cheap-wine-critics"
@@ -24,7 +24,13 @@ tags:
 
 This Spanish red rises to the roof of my mouth right away. There's some pucker for sure, too much for me. I taste orange, currant, and leafy bitter greens. I don't like drinking it; it's not full enough or balanced enough for me. No nose to speak of.
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]  Other Bloggers' Thoughts:\*
+
+
+
+<div class="caption">
+
+![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1")</div>
+  Other Bloggers' Thoughts:\*
 
 [Cheap Wine Critics](http://www.cheapwinecritics.com/varietal/tempranillo/darien-tempranillo-rioja-nv/)
 

@@ -1,10 +1,10 @@
 ---
 title: "Novella Zinfandel"
 date: "2010-06-08"
-categories: 
+categories:
   - "zinfandel"
   - "red-wine-review"
-tags: 
+tags:
   - "cinnamon"
   - "currant"
   - "irregular-times"
@@ -20,7 +20,13 @@ tags:
 
 This wine has everything I love in a zinfandel, especially that dense layer of tobacco beneath the rest of its flavors. There are thick, juicy berries along with some dried currant texture. Honestly, the Novella Zinfandel seems really well done for a zinfandel at this price range, but that might be my new aerator talking. There's a mild sweetness to it that enhances all the flavors, and a lovely cinnamon aftertaste washes it all down.
 
-\[caption id="attachment\_59" align="aligncenter" width="40" caption="4 stars"\]![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1")\[/caption\]  Other Bloggers' Thoughts:
+
+
+
+<div class="caption">
+
+![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+  Other Bloggers' Thoughts:
 
 [Irregular Times](http://irregulartimes.com/index.php/archives/2008/11/16/novella-zinfandel-by-paso-robles/)
 

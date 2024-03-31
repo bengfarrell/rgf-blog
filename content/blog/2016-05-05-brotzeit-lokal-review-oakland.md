@@ -1,11 +1,11 @@
 ---
 title: "Brotzeit Lokal"
 date: "2016-05-05"
-categories: 
+categories:
   - "cider"
   - "oakland-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "aspalls-cider"
   - "beer-review"
   - "beer-garden"
@@ -27,13 +27,25 @@ Brotzeit Lokal is memorable for more than being a mouthful to pronounce. We all 
 
 You can see it from inside the tinted glass walls of Brotzeit’s dining room, but the open-air patio is where that beer garden pull is strongest. The patio is lined with picnic benches and comes with a refreshing breeze from the little marina it shares space with. It’s especially scenic in those late afternoon, early evening, happiest of hours on weekdays. I have one friend who’s a big fan of the $1.50 oyster specials at that time.
 
-\[caption id="attachment\_25930" align="aligncenter" width="375"\][![brotzeit lokal mussels oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/brotzeit-lokal-mussels-375x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/brotzeit-lokal-mussels.jpg) Yes, those are mussels, but just play along and pretend I have the right photograph.\[/caption\]
+
+
+
+<div class="caption">
+
+[![brotzeit lokal mussels oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/brotzeit-lokal-mussels-375x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/brotzeit-lokal-mussels.jpg) Yes, those are mussels, but just play along and pretend I have the right photograph.</div>
+
 
 Brooklyn Basin isn’t the same as gazing across the Bay to San Francisco, of course, but it’s ideal for feeling more secluded from the crowd. You’re more likely to find housecats dashing between the moored boats than cargo ships crossing under a bridge there.
 
 In food and beer selection, Brotzeit Lokal aims squarely at the fatherland of beer gardens: Germany. Belgium also plays a significant role in the list of 16 drafts and 20-odd bottles available.
 
-\[caption id="attachment\_25924" align="aligncenter" width="500"\][![Beer Brotzeit Lokal Oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Brotzeit-Lokal-03-500x454.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Brotzeit-Lokal-03.jpg) A Dirty Hoe and a Dirty Blonde, drunk by friends on my most recent excursion.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Beer Brotzeit Lokal Oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Brotzeit-Lokal-03-500x454.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Brotzeit-Lokal-03.jpg) A Dirty Hoe and a Dirty Blonde, drunk by friends on my most recent excursion.</div>
+
 
 Luckily for me, Brotzeit also has a selection of ciders. Possman’s Pure Cider, from Germany, was a little too sweet for my tastes--
 
@@ -56,7 +68,7 @@ A little greasy, but they had great crunch, good flavor, and just the right amou
 We’ve had the most success with dishes at dinner time, as I believe Brotzeit does a pretty good job of serving up the standards, such as wiener schnitzel and sauerbraten. Of course, I’ve also tried the sausages, specifically the wurzige, a “spicy chicken and pork everything sausage”:
 
 > [My own wurzige with varous accoutrements, including a wonderful marina view. #Oakland](https://www.instagram.com/p/z55f-4QQr6/)
-> 
+>
 > A photo posted by Becca Gomez Farrell (@thegourmez) on Mar 6, 2015 at 3:27pm PST
 
 The sausage accoutrements are good, though warmer than I prefer for pickles and slaw. The sausage itself disappeared within that bun, leaving me with little impression other than dryness. To be fair, that is partially my fault for not liking mustard. I know, German sausage without mustard?! _The scandal._ But I would hope the sausage served would leave an impression without it.

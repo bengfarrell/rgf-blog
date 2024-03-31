@@ -1,10 +1,10 @@
 ---
 title: "The Cricket (My Place)---Cocktail Review"
 date: "2010-03-19"
-categories: 
+categories:
   - "recipes"
   - "vodka"
-tags: 
+tags:
   - "chocolate"
   - "cocktail-review"
   - "cream"
@@ -24,6 +24,12 @@ Drizzle some chocolate syrup around the sides of a martini glass. Shake together
 
 This drink was inspired by my nearly empty bottle of crème de menthe. You absolutely must limit the crème de menthe to a splash-any more than that and it will take over the drink. Instead, it and the Sambuca act as mere flavor suggestions, with the creamy, nutty, chocolate of the other ingredients standing out. I thought it was pretty good, though could still use some finagling of portions. Let me know if you've tried to shake up anything similar.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Created 3.13.10_

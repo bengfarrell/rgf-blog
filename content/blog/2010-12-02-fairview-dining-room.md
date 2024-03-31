@@ -1,10 +1,10 @@
 ---
 title: "Fairview Dining Room"
 date: "2010-12-02"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "celebrity-dairy-goat-cheese"
   - "duke-inn"
   - "fairview"
@@ -66,6 +66,12 @@ Other dessert options we tried were brioche bread pudding with maple ice cream (
 
 The Washington Duke Inn offers more affordable fair ($10--20) in their Bull Durham Bar, which is still a nice option, and honestly, I might have liked the atmosphere a bit more. They’ve got gourmet takes on standard pub fare and some of the Fairview Dining Room’s options as well. For me, other than a somewhat lackluster appetizer, I was in heaven with my choices. I’d definitely go back---especially if you want to pay for me, faithful reader. ,)
 
-\[caption id="attachment\_59" align="aligncenter" width="40"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif) 4 stars\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif) 4 stars</div>
+
 
 _Reviewed 11.16.10_.

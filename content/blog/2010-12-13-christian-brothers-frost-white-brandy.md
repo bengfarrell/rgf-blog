@@ -1,9 +1,9 @@
 ---
 title: "Christian Brothers Frost White Brandy"
 date: "2010-12-13"
-categories: 
+categories:
   - "brandy"
-tags: 
+tags:
   - "christian-brothers"
   - "cocktails-only"
   - "frost-white-brandy"
@@ -20,7 +20,13 @@ This clear brandy, which is still aged in oak so I’m a bit confused how it man
 
 Ultimately, those odd flavors together made this brandy unsippable for me, but I’ve since had it in cocktails, and it fares much better when combined with other spirits and juices. I’d recommend it for berry-based elixirs, but if you want to pass it by entirely, I won’t tell.
 
-\[caption id="attachment\_193" align="aligncenter" width="40"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif) 1 star\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif) 1 star</div>
+
 
 Other Bloggers’ Thoughts:
 

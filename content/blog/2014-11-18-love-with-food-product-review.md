@@ -1,10 +1,10 @@
 ---
 title: "Love With Food Product Review"
 date: "2014-11-18"
-categories: 
+categories:
   - "food-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "180-snacks"
   - "cinnamon-grahams"
   - "coupon"
@@ -33,13 +33,25 @@ tags:
 
 I have another product review for you guys this week! One thing most foodies have in common is a love of variety. [Love With Food](https://lovewithfood.com/shop) is a company that offers just that for organic and/or all-natural snack foods with a changing selection of goodies delivered every month.
 
-\[caption id="attachment\_8965" align="aligncenter" width="399"\][![The Tasting Box](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/11/Love_With_Food_001-399x500.jpg)](http://www.rebeccagomezfarrell.com/2014/11/love-with-food-product-review/love_with_food_001/) The Tasting Box\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Tasting Box](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/11/Love_With_Food_001-399x500.jpg)](http://www.rebeccagomezfarrell.com/2014/11/love-with-food-product-review/love_with_food_001/) The Tasting Box</div>
+
 
 Love With Food gave me a tasting box for review, which is their smallest subscription option. It comes with 8 or more snack items and retails at $10 per month. Bigger snackers can choose the Deluxe box with twice as many snacks for $17, and there is a gluten-free-only option at $24.50 per month.
 
 Now, as you can see, those snacks aren’t exactly gifted in large quantities.
 
-\[caption id="attachment\_8972" align="aligncenter" width="500"\][![Fruit Snacks from YumEarth--tiny portions, big flavor!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/11/Love_With_Food_008-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/11/love-with-food-product-review/love_with_food_008/) Fruit Snacks from YumEarth--tiny portions, big flavor!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Fruit Snacks from YumEarth--tiny portions, big flavor!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/11/Love_With_Food_008-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/11/love-with-food-product-review/love_with_food_008/) Fruit Snacks from YumEarth--tiny portions, big flavor!</div>
+
 
 So you should really think of Love With Food as more of a sampler pack than a month’s supply of snack items. But you can purchase many of their items in larger quantities at [Love With Food’s store](https://lovewithfood.com/shop) once you’ve tried them and liked them. My box came with coupons for two of the snack items, and every box order comes with additional bonus points that can be redeemed in the store. Plus, Love With Food offers a bonus feel-good donation of 1 meal to a food bank for every tasting box and 2 for the deluxe and gluten-free boxes. Many of the companies whose products are shipped have charitable pledges of their own as well.
 
@@ -73,7 +85,13 @@ The first standout of the box, for me, was the great selection of teas from Revo
 
 Those leaves unfurl fast! The tropical green tea’s tropical elements were just a suggestion of flavor, which I loved. I can’t stand it when tea companies overwhelm the actual tea with fruit infusions (Celestial Seasonings, I’m looking at you).
 
-\[caption id="attachment\_8971" align="aligncenter" width="332"\][![My tropical tea steeping its little heart out.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/11/Love_With_Food_007-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/11/love-with-food-product-review/love_with_food_007/) My tropical tea steeping its little heart out.\[/caption\]
+
+
+
+<div class="caption">
+
+[![My tropical tea steeping its little heart out.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/11/Love_With_Food_007-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/11/love-with-food-product-review/love_with_food_007/) My tropical tea steeping its little heart out.</div>
+
 
 The second standout, and probably my favorite of the bunch, was Vintage Italia’s Marinara Pasta Chips.
 

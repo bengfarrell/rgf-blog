@@ -1,13 +1,13 @@
 ---
 title: "Gastown + Olympic Cauldron Waterfront Park"
 date: "2016-01-18"
-categories: 
+categories:
   - "bars-in-vancouver-canada"
   - "dining-vancouver-canada"
   - "restaurants"
   - "travel-guide-for-vancouver"
   - "travel-product-review"
-tags: 
+tags:
   - "bao-down"
   - "british-columbia"
   - "canada"
@@ -97,16 +97,34 @@ Well, first we slid into an open spot at the bar and about ten minutes later our
 
 I have to say, while there were interesting ingredient combinations, overall, I did not find Tacofino worth a two-hour wait.
 
-\[caption id="attachment\_25555" align="aligncenter" width="500"\][![Tacos al pastor](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-122-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-122.jpg) Tacos al pastor\[/caption\]
+
+
+
+<div class="caption">
+
+[![Tacos al pastor](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-122-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-122.jpg) Tacos al pastor</div>
+
 
 Mostly, I was disappointed in the tortillas. The tacos came with flour ones, not corn, and they tasted stale and dry. For such a high-demand joint, I expected better. Now, I expect that the burrito to-go counter is, indeed, the way to go. But the cocktails were top-notch, so maybe aim for elbowing your way into a place at the bar?
 
-\[caption id="attachment\_25556" align="aligncenter" width="383"\][![The Mexican Socialite](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-124-383x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-124.jpg) The Mexican Socialite\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Mexican Socialite](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-124-383x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-124.jpg) The Mexican Socialite</div>
+
 
 I’m sorry, Vancouver. I’m Californian. We have taco standards. But I’m not sorry for the weekend I spent in your beautiful city, and I imagine there is much within your streets to stir my future interests --  I didn’t even make it to the Olympic Village! And I hear there’s a beach of note on your southwestern side? And you have an island of a fairly large size?
 
 See, Vancouver. I really know nothing. Discount my opinion of your tacos.
 
-\[caption id="attachment\_25538" align="aligncenter" width="900"\][![Farewell, pretty city!](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-094-1024x295.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-094.jpg) Farewell, pretty city!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Farewell, pretty city!](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-094-1024x295.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-094.jpg) Farewell, pretty city!</div>
+
 
 _Visited October 2015._

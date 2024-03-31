@@ -1,10 +1,10 @@
 ---
 title: "Southern Fast Food Series #4: Biscuitville---Restaurant Review"
 date: "2010-03-18"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "biscuit-sandwich"
   - "biscuitville"
   - "country-ham"
@@ -44,6 +44,12 @@ While the sandwich was okay, and the turnover unappealing, I have to say that Bi
 
 Anything I should have tried but didn't? Let me know in the comments!
 
-\[caption id="attachment\_193" align="aligncenter" width="40" caption="1 star"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
+
 
 _Reviewed 3.10.10._

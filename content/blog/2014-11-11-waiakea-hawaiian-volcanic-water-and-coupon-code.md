@@ -1,10 +1,10 @@
 ---
 title: "Waiākea Hawaiian Volcanic Water -- and Coupon Code!"
 date: "2014-11-11"
-categories: 
+categories:
   - "beverage-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "coupon-code"
   - "dehydration"
   - "electrolytes"
@@ -31,7 +31,13 @@ I’m drifting. This isn’t a post on my hatred of sugar substitutes. It’s a 
 
 Oops, sorry. Drifting again. So how does Waiākea water taste? Going in, I admit to being skeptical that I’d taste any difference between it and my Brita-filtered, City of Hayward, tap water. They certainly didn’t look different.
 
-\[caption id="attachment\_8954" align="aligncenter" width="500"\][![The Waiākea water’s on the left and the tap water is on the right.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/11/Waiakea_Water_003-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/11/waiakea-hawaiian-volcanic-water-and-coupon-code/waiakea_water_003/) The Waiākea water’s on the left and the tap water is on the right.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The Waiākea water’s on the left and the tap water is on the right.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/11/Waiakea_Water_003-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/11/waiakea-hawaiian-volcanic-water-and-coupon-code/waiakea_water_003/) The Waiākea water’s on the left and the tap water is on the right.</div>
+
 
 In sniffing them both, I must admit the Waiākea water had something mildly sweet and floral about it. For the sake of keeping this tropical, let’s call it a hibiscus-blossom scent. Was it my imagination that called up images of pumice stone while drinking the Waiākea water? Mayhaps, but I did taste a stronger minerality and a teensy bit of salinity from it that I didn’t expect. In contrast, the Brita water tasted softer, but otherwise I’d have to just go with “water” in terms of description—and there’s nothing wrong with just water, but the Waiākea wiggled my foodie curiosity whiskers more.
 

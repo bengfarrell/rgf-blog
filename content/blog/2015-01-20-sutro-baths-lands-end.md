@@ -1,9 +1,9 @@
 ---
 title: "Sutro Baths and Land's End"
 date: "2015-01-20"
-categories: 
+categories:
   - "san-francisco-travel"
-tags: 
+tags:
   - "abandoned-places"
   - "day-trip"
   - "golden-gate-park"
@@ -23,7 +23,13 @@ tags:
   - "visitors-guide"
 ---
 
-\[caption id="attachment\_9473" align="aligncenter" width="680"\]![Click twice for the panorama.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/01/2014_Sutro_Baths_102-1024x277.jpg) Click twice for the panorama.\[/caption\]
+
+
+
+<div class="caption">
+
+![Click twice for the panorama.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/01/2014_Sutro_Baths_102-1024x277.jpg) Click twice for the panorama.</div>
+
 
 On the western tip of San Francisco lies the abandoned [Sutro Baths.](http://www.nps.gov/goga/planyourvisit/cliff-house-sutro-baths.htm) It's a popular—but not always populous—tourist destination that draws photographers from far and wide for its breathtaking views of the Pacific Coast. Along with nearby Land's End, the Sutro Baths are part of the larger [National Golden Gate Recreation Area](http://www.nps.gov/goga/index.htm).
 
@@ -31,7 +37,13 @@ On the western tip of San Francisco lies the abandoned [Sutro Baths.](http://www
 
 The Land's End Lookout visitors' center and parking lot is located right above the ruins at 680 Point Lobos Avenue. When I went in early summer, I found a spot right away, but it was close to full.  The visitors' center is worth a look for its exhibits on the area's history and its gift shop. Access to the whole area is free.
 
-\[caption id="attachment\_9451" align="aligncenter" width="500"\]![This cutie's right out front of the visitors' center.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/01/2014_Sutro_Baths_001-500x333.jpg) This cutie's right out front of the visitors' center.\[/caption\]
+
+
+
+<div class="caption">
+
+![This cutie's right out front of the visitors' center.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/01/2014_Sutro_Baths_001-500x333.jpg) This cutie's right out front of the visitors' center.</div>
+
 
 Once you've had your fill of information, it's time to pick a path to climb down toward the ruins.
 

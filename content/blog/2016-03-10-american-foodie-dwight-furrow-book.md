@@ -1,10 +1,10 @@
 ---
 title: "American Foodie by Dwight Furrow"
 date: "2016-03-10"
-categories: 
+categories:
   - "announcements"
   - "product-reviews"
-tags: 
+tags:
   - "aesthetics"
   - "american-foodie"
   - "book"
@@ -17,7 +17,13 @@ tags:
 
 I don't often recommend books without having read them, but from the sounds of this press release, I think those of us in the food and drink blogging world will appreciate _American Foodie: Taste, Art and the Cultural Revolution_ by Dwight Furrow. Released by Rowman & Littlefield, _American Foodie_ is Furrow's treatise on the value of food and drink aesthetics to modern Americans, from the celebrity chef to the humble (or not so) food blogger. There's no question that the social media and digital photography eras have exploded foodie culture. We analyze our daily meals well beyond their simple nutritional values, and in doing so, partake in a pleasurable hobby that brings me enjoyment far beyond what I get from staring at a piece of artwork on the wall -- yes, I just admitted to being more moved by a moonshine cocktail than the "Mona Lisa," and I'm not ashamed of it. Rather, I embrace my passions and dedicate my spare time to documenting whatever crosses my palate worth noting. Usually with a picture as well as words.
 
-\[caption id="attachment\_25819" align="aligncenter" width="329"\][![Morning bun at Prep Kitchen, San Diego](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/morning-bun-prep-kitchen-500x500.jpeg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/morning-bun-prep-kitchen.jpeg) My most recently Instagrammed pastry, a chocolate and pineapple morning bun from Prep Kitchen in San Diego.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Morning bun at Prep Kitchen, San Diego](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/morning-bun-prep-kitchen-500x500.jpeg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/morning-bun-prep-kitchen.jpeg) My most recently Instagrammed pastry, a chocolate and pineapple morning bun from Prep Kitchen in San Diego.</div>
+
 
 As the _Publishers' Weekly_ review puts it, "In chapters about reading a meal, the beauty of a tuna casserole, and the future of taste, Furrow argues that the foodie craze is in revolt against ‘a life that has become bureaucratic and digitized.’ In the end, Furrow makes a case for the taste revolution in a text." As a fellow blogger, Furrow is qualified to make that case, but even more so because he is a professor of philosophy of food and wine, aesthetics, and ethics at San Diego Mesa College. He is also a certified wine specialist with certification from the Society of Wine Educators and an advanced level certification from the Wine and Spirits Educational Trust. He deeply understands the implications of taking the time to savor from many different angles. In his own words,
 

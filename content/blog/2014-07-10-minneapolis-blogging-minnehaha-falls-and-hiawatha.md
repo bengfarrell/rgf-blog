@@ -1,11 +1,11 @@
 ---
 title: "Minneapolis Blogging: Minnehaha Falls and Hiawatha"
 date: "2014-07-10"
-categories: 
+categories:
   - "minneapolis-dining"
   - "restaurants"
   - "minneapolis-travel"
-tags: 
+tags:
   - "beer-review"
   - "day-trip"
   - "gardens"
@@ -27,11 +27,23 @@ tags:
   - "visitors-guide"
 ---
 
-\[caption id="attachment\_8280" align="aligncenter" width="500"\][![Outhouse at the John Stevens House in Minnehaha Falls Park.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_011-500x332.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_011/) Outhouse at the John Stevens House in Minnehaha Falls Park.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Outhouse at the John Stevens House in Minnehaha Falls Park.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_011-500x332.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_011/) Outhouse at the John Stevens House in Minnehaha Falls Park.</div>
+
 
 On my third trip to Minneapolis this past May, I felt the challenge of figuring out what was left for me to tour in the area. I’d conquered [the Chain of Lakes,](http://www.thegourmez.com/2012/06/minneapolis-blogging-chain-of-lakes-and-the-skyways/) [the Walker Museum](http://www.thegourmez.com/2011/06/minneapolis-evening-1-and-dayevening-2-photo-blog/), [the Sculpture Garden](http://www.thegourmez.com/2012/06/minneapolis-blogging-the-sculpture-garden-and-eat-street/), [the Guthrie Theater](http://www.thegourmez.com/2012/05/minneapolis-blogging-the-guthrie-theater-and-the-amen-corner/), [the Mall of America,](http://www.thegourmez.com/2011/06/minneapolis-evening-1-and-dayevening-2-photo-blog/#more-2837) and plenty of delicious eats and drinks downtown. Yet somehow, in my prior searches of things to do in the city, I never came across Minnehaha Falls.
 
-\[caption id="attachment\_8314" align="aligncenter" width="680"\][![Keep clicking on the photo to get the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_023-1024x485.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_023/) Keep clicking on the photo to get the largest view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Keep clicking on the photo to get the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_023-1024x485.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_023/) Keep clicking on the photo to get the largest view.</div>
+
 
 The Falls are famous for being the focus of Henry Wadsworth Longfellow’s “Song of Hiawatha,” which is actually a name stolen from a nearby lake—we’ll get to that on this day trip, too. This sprawling recreational area is impossible to miss if you’re taking the Blue Line—and you should take the Blue Line because Minneapolis’s public transit is awesome. Just get off at the Minnehaha Falls stop and cross the street to the park. The first thing you’ll see is the John Stevens House.
 
@@ -61,9 +73,21 @@ After you’ve had your fill of dandelions, walk through the nearby trellis—
 
 I couldn’t decide. Right past that mask is the falls. You can’t miss them.
 
-\[caption id="attachment\_8283" align="aligncenter" width="371"\][![From the top.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_022-371x500.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_022/) From the top\[/caption\]
 
-\[caption id="attachment\_8289" align="aligncenter" width="332"\][![From below](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_034-332x500.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_034/) From below\[/caption\]
+
+
+<div class="caption">
+
+[![From the top.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_022-371x500.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_022/) From the top</div>
+
+
+
+
+
+<div class="caption">
+
+[![From below](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_034-332x500.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_034/) From below</div>
+
 
 There are a lot of stairs to descend, and climb back up later, if you want to see it from the bottom. In fact, the rest of this blog post involves a lot of walking, so if you like to take it easy, perhaps just stroll around the lovely grounds of the park’s upper levels. The rest of us will continue following the creek….after lunch!
 
@@ -103,9 +127,21 @@ Near the mouth of the Minnehaha Creek, you’ll encounter my favorite part of th
 
 You’ll hit all that limestone at the exact same time as you reach the confluence of the creek and the Mississippi River. That’s a beautiful sight worthy of the walk all on its own.
 
-\[caption id="attachment\_8316" align="aligncenter" width="680"\][![Keep clicking on the photo until you get the panoramic view.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_063-1024x206.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_063/) Keep clicking on the photo until you get the panoramic view.\[/caption\]
 
-\[caption id="attachment\_8317" align="aligncenter" width="332"\][![Muck from the Minnehaha Creek washing up against the fishing bridge.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_066-332x500.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_066/) Scenic muck from the Minnehaha Creek washing up against the fishing bridge.\[/caption\]
+
+
+<div class="caption">
+
+[![Keep clicking on the photo until you get the panoramic view.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_063-1024x206.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_063/) Keep clicking on the photo until you get the panoramic view.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Muck from the Minnehaha Creek washing up against the fishing bridge.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_066-332x500.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_066/) Scenic muck from the Minnehaha Creek washing up against the fishing bridge.</div>
+
 
 Now you can take the trail back to the Falls, keeping the Mississippi on your right as you go. The view of the Ford Parkway and Lock and Dam #1 are pretty scenic, if you can find them between the trees.
 
@@ -135,7 +171,13 @@ Yes, my imagination is overactive.
 
 Continue following the creek and take in the Hiawatha neighborhood as you go.
 
-\[caption id="attachment\_8309" align="aligncenter" width="500"\][![Passing under a bridge](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_085-500x332.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_085/) Passing under a bridge\[/caption\]
+
+
+
+<div class="caption">
+
+[![Passing under a bridge](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_085-500x332.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_085/) Passing under a bridge</div>
+
 
 [![2014_Minneapolis_087](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_087-500x332.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_087/)
 
@@ -143,7 +185,13 @@ You’ll know when you hit the lake. It’s what truly inspired Longfellow’s p
 
 [![2014_Minneapolis_090](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_090-500x332.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_090/)
 
-\[caption id="attachment\_8311" align="aligncenter" width="680"\][![Keep clicking on the photo until you get the panoramic view.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_088-1024x177.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_088/) Keep clicking on the photo until you get the panoramic view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Keep clicking on the photo until you get the panoramic view.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_088-1024x177.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_088/) Keep clicking on the photo until you get the panoramic view.</div>
+
 
 Follow the trails south around the lake, and you’ll find a much larger one just across the road—Lake Nokomis. The clouds were perfect for picture taking that day.
 
@@ -153,16 +201,40 @@ Follow the trails south around the lake, and you’ll find a much larger one jus
 
 [![2014_Minneapolis_093](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_093-500x332.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_093/)
 
-\[caption id="attachment\_8295" align="aligncenter" width="680"\][![Keep clicking on the photo until you get the panoramic view.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_097-1024x227.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_097/) Keep clicking on the photo until you get the panoramic view.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Keep clicking on the photo until you get the panoramic view.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_097-1024x227.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_097/) Keep clicking on the photo until you get the panoramic view.</div>
+
 
 I only took a quick peek at both lakes, but spending a quiet afternoon on their shores would be lovely. Not to mention needed rest before heading back those 1.5 miles to the Blue Line. I got that rest at Nokomis Beach Café, just up the first block on 50th St and 28th Ave.
 
-\[caption id="attachment\_8296" align="aligncenter" width="500"\][![Canoe marks the spot of this café!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_099-500x332.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_099/) Canoe marks the spot of this café!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Canoe marks the spot of this café!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_099-500x332.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_099/) Canoe marks the spot of this café!</div>
+
 
 Enjoy a pleasant walk back up 50th; it’s a straight shot to the Blue Line stop. And you’ll discover a few strange sights along the way.
 
-\[caption id="attachment\_8297" align="aligncenter" width="500"\][![A teeny lending library](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_102-500x332.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_102/) A teeny lending library\[/caption\]
 
-\[caption id="attachment\_8298" align="aligncenter" width="500"\][![Art deco dentistry](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_104-500x387.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_104/) Art deco dentistry\[/caption\]
+
+
+<div class="caption">
+
+[![A teeny lending library](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_102-500x332.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_102/) A teeny lending library</div>
+
+
+
+
+
+<div class="caption">
+
+[![Art deco dentistry](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/2014_Minneapolis_104-500x387.jpg)](http://www.thegourmez.com/2014/06/minneapolis-blogging-minnehaha-falls-and-hiawatha/2014_minneapolis_104/) Art deco dentistry</div>
+
 
 I hope you enjoyed this photoblogging stroll through Minnehaha Falls and the Hiawatha neighborhood of Minneapolis! Want more pictures? You can [find them here](https://www.facebook.com/photo.php?fbid=10152133645864607&l=7dc800dc35).

@@ -1,11 +1,11 @@
 ---
 title: "Cribari Cellars California Madeira -- Wine Review"
 date: "2010-01-11"
-categories: 
+categories:
   - "fortified-wine"
   - "madeira"
   - "wine"
-tags: 
+tags:
   - "apricot-note"
   - "brandy-sauce"
   - "caramel-note"
@@ -32,6 +32,12 @@ This is a wine with a lot of flavors and I'd take it over a regular sherry anyda
 
 Could not find any other blogger reviews. Let me know if you have reviewed it!
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+
 
 _Reviewed by The Gourmez 1.1.10._

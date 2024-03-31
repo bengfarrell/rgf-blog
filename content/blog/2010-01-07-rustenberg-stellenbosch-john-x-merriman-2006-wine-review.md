@@ -1,11 +1,11 @@
 ---
 title: "Rustenberg Stellenbosch John X Merriman 2006 -- Wine Review"
 date: "2010-01-07"
-categories: 
+categories:
   - "red-bordeaux"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "big-bold-wine"
   - "date-note"
   - "eucalyptus-note"
@@ -31,7 +31,13 @@ Letting this wine breath is definitely recommended as I first tried it at [a win
 
 The nose was full of eucalyptus and a bit of smokiness. On drinking, my mouth filled with raisins and dates. There was a soft leather undertone and some sort of berry that I couldn't put my finger on, though raspberry was close.  A great wine with the potential to be even better.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]  **Other Bloggers' Thoughts:**
+
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+  **Other Bloggers' Thoughts:**
 
 Fiona Beckett @[Matching Food and Wine](http://www.matchingfoodandwine.com/articles/20090105) on the 2005 Vintage--
 

@@ -1,10 +1,10 @@
 ---
 title: "Screw Kappa Napa Sauvignon Blanc 2007---Wine Review"
 date: "2010-03-10"
-categories: 
+categories:
   - "sauvignon-blanc"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2007-vintage"
   - "cream"
   - "dry"
@@ -27,7 +27,13 @@ The smell of this wine was all green apple. I could taste its peel on first sip,
 
 This is a good, lingering white wine.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 Other Bloggers' Thoughts:
 

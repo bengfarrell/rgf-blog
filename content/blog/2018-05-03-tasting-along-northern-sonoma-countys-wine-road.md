@@ -1,7 +1,7 @@
 ---
 title: "Tasting along Northern Sonoma County's Wine Road"
 date: "2018-05-03"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "cabernet-sauvignon"
   - "chardonnay"
@@ -14,7 +14,7 @@ categories:
   - "tasting-rooms-in-sonoma-ca"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "battaglini"
   - "beth-costa"
   - "harvest-moon"
@@ -36,7 +36,13 @@ tags:
 
 I've known Marcy for the past four years, as we met at the 2014 Wine Bloggers Conference in Buellton. Prior to the 2017 conference, Marcy arranged for a few bloggers to take a mystery tour of some of the Wine Road's member wineries. I was delighted to be among the guests, and yes, that means I paid nothing for this experience <-- **obligatory disclaimer**. After meeting Beth and her son Aaron, who served as our driver, the delight only grew!
 
-\[caption id="attachment\_28112" align="aligncenter" width="500"\][![the wine road, sonoma county, beth costa, aaron costa](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_108-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_108.jpg) Our intrepid blogger group at the Willow Wood Cafe. Beth, front L; Aaron front R. Eli, middle L. Liza, back L; Kelly, back R.\[/caption\]
+
+
+
+<div class="caption">
+
+[![the wine road, sonoma county, beth costa, aaron costa](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_108-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_108.jpg) Our intrepid blogger group at the Willow Wood Cafe. Beth, front L; Aaron front R. Eli, middle L. Liza, back L; Kelly, back R.</div>
+
 
 Aaron runs his own Healdsburg wine tour company, which you can [check out here](http://www.healdsburgvinotours.com/). I can highly recommend his professionalism – we didn't even know Beth and Aaron were related at first, as Aaron was fully immersed in his role as chauffer. I'm sure he's a fantastic guide as well.
 
@@ -48,7 +54,13 @@ Our tour was based in the center of the Russian River appellation, 4-5 miles sou
 
 [![the wine road, sonoma county, battaglini wine](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_079-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_079.jpg)Owner and winemaker Giuseppe Battaglini opened up the tasting barn just for us. Eight different wines hit our tasting glasses, all while Giuseppe regaled us with tales of his roots in Italy. He absolutely lights up sharing photos from his homeland.
 
-\[caption id="attachment\_28109" align="aligncenter" width="333"\][![battaglini wine, giuseppe battaglini](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_090-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_090.jpg) Giuseppe Battaglini\[/caption\]
+
+
+
+<div class="caption">
+
+[![battaglini wine, giuseppe battaglini](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_090-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_090.jpg) Giuseppe Battaglini</div>
+
 
 Giuseppe has preserved the old zinfandel and petite sirah vines dating from the winery's birth in 1885. He released his own first vintage in 1994. Thirty years later, he produces only 2,500 cases, but that's a big increase from his initial 250. And oh, what cases they are! The youngest wine we tried was from 2011. And the oldest? A 2001 Proprietor's Reserve Zinfandel. What a treat! But my absolute favorite wine was the **Battaglini Estate 2010 Reserve Chardonnay**.
 
@@ -92,7 +104,13 @@ The moment we pulled down the driveway toward this estate, I was thinking of tro
 
 [![wine road, tara bella, winery](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_137-500x347.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_137.jpg)And it is! Owners Kevin and Wendy Morrow are unafraid to tackle cabernet sauvignon in an appellation not known for it. And they do it well by focusing on just two clones . . . two clones that happen to yield two very different wines!  The tasting cellar yields plenty of its own wine-drenched aroma.
 
-\[caption id="attachment\_28121" align="aligncenter" width="500"\][![wine road, tara bella, winery, tasting room](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_139-500x317.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_139.jpg) Bloggers at work.\[/caption\]
+
+
+
+<div class="caption">
+
+[![wine road, tara bella, winery, tasting room](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_139-500x317.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_139.jpg) Bloggers at work.</div>
+
 
 The **2013 Tara Bella Estate Cabernet Sauvignon** is a classic Bordeaux-style wine made from Clone 7 grapes. It tastes warming, and its copious herbal notes would pair well with most anything. The berry is smooth and juicy with agreeable nectarine and tannins (4/5). Clone 7 is also used to produce Tara Bella's Portal dessert wine and rosé. Yet I found Clone 4 to be more my style.
 
@@ -100,7 +118,13 @@ The **2013 Tara Bella Estate Cabernet Sauvignon** is a classic Bordeaux-style wi
 
 No matter which you prefer, Wendy will be happy to tell you about them and about all the events you can participate in at Tara Bella.
 
-\[caption id="attachment\_28124" align="aligncenter" width="325"\][![Wendy Morrow, tara bella, winery, sonoma](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_145-325x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_145.jpg) Wendy Morrow\[/caption\]
+
+
+
+<div class="caption">
+
+[![Wendy Morrow, tara bella, winery, sonoma](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_145-325x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_145.jpg) Wendy Morrow</div>
+
 
 Tara Bella is part of [the Olivet District,](http://www.olivetroad.com/) a collection of wineries along Olivet Road that includes Battaglini and Stop #5, Harvest Moon. The eight participating wineries host the Taste of Olivet in April and the Lights of Olivet holiday craft festival in December. It is a district well worth spending the weekend in if you need help narrowing down your northern Sonoma County options. And believe me, you do—there are so many! Speaking of…
 
@@ -120,7 +144,13 @@ My highest rating at Harvest Moon went to zinfandel as well, but the sweet sort.
 
 Harvest Moon's fields offered us the best opportunity for blogger shenanigans at the end of the afternoon.
 
-\[caption id="attachment\_28130" align="aligncenter" width="500"\][![harvest moon, winery, grape vines, the wine road](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_177-500x332.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_177.jpg) Kelly, L, and Liza, R.\[/caption\]
+
+
+
+<div class="caption">
+
+[![harvest moon, winery, grape vines, the wine road](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_177-500x332.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_177.jpg) Kelly, L, and Liza, R.</div>
+
 
 It was a pleasure to share this tour of the Wine Road with Beth, Aaron, and my fellow wine bloggers, [BrixChick Liza](http://www.brixchicks.com/); Elijah, [the Fine Wine Poet](http://finewinepoet.com/); and Kelly of [Off the Beaten Glass](http://www.offthebeatenglass.com/). I'm sure it'd be a pleasure for you to share it with some lovely companions of your own choosing as well. As mentioned, the Olivet District hosts annual events, and the Wine Road does also for the region at large. The next one coming up is the Esprit du Rhône, 5/18–5/19. You can also catch the Wine & Food Affair in November, Winter WINEland in January, the Barrel Tasting Weekend in March, or pick up a Wine Road Tasting Pass at any time for $35 to earn your way into three tasting rooms on the day of your choosing.
 

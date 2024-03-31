@@ -1,10 +1,10 @@
 ---
 title: "Thai China Buffet (Highways 55 &amp; 54 Crossroads, Durham)"
 date: "2007-04-27"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "durham"
   - "restaurants"
   - "thai-china-buffet"
@@ -20,4 +20,10 @@ We shared two dishes, the pineapple fried rice and Kung Pao. The rice dish was v
 
 An extra sweet fortune cookie finished the meal. Thai China Buffet, while not stellar, will do just fine for a late night run or an all you can eat lunchtime craving for Chinese.
 
-\[caption id="attachment\_193" align="alignleft" width="40"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
+

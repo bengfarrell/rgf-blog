@@ -1,10 +1,10 @@
 ---
 title: "Revolution (Downtown Durham)---Restaurant Review"
 date: "2010-04-02"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "durham-restaurants"
   - "lime-napoleon"
   - "pink-salt-and-pepper-martini"
@@ -65,6 +65,12 @@ Definitely a good choice for lime lovers, but only as long as you make sure to g
 
 I was pretty darn happy with my Revolution experience, but I think I'd rather spend the evening at the bar than in the dining space. Most people would probably find it intimate and cozy, but for my people-watching ways, I felt a little stifled (not due to the company, of course!).  The food was very good, and I'm excited to try it again sometime for a tasting menu.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 3.24.10._

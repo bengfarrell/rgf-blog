@@ -1,10 +1,10 @@
 ---
 title: "Cocktail Review--The Shiki Tini"
 date: "2009-04-03"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-durham-nc"
-tags: 
+tags:
   - "cocktail-review"
   - "cocktails-triangle"
   - "green-tea-liquor"
@@ -22,4 +22,10 @@ With a name like that, I assume that it's the signature cocktail of the house an
 
 The martini looked like clarified olive juice with a layer of froth.  This did not affect my rating; though I hate olives, I was well aware there were none in this drink and would never have ordered it if there were.  The sourness of the drink hits you first but the pucker power isn't overwhelming, just also not pleasing.  That quickly mellows into a passing impression of watered down green tea and settles on a slightly sweet pear juice.  With the fading of the tart first sip, I was left with a drink that just didn't have much presence.
 
-\[caption id="attachment\_193" align="aligncenter" width="40"\]![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
+

@@ -1,10 +1,10 @@
 ---
 title: "Mac &amp; Cheese Night #3: The Tipsy Pig"
 date: "2014-08-26"
-categories: 
+categories:
   - "san-francisco-restaurant-review"
   - "restaurants"
-tags: 
+tags:
   - "spirit-reviews"
   - "bacon"
   - "bacon-fat"
@@ -47,9 +47,21 @@ The overall feel of the place is kitschy English pub…with a backyard full of f
 
 [![Tipsy_pig_13](http://s3.amazonaws.com/thegourmez-wpmedia/2014/08/Tipsy_pig_13-500x332.jpg)](http://www.thegourmez.com/2014/08/mac-cheese-night-3-the-tipsy-pig/tipsy_pig_13/)
 
-\[caption id="attachment\_8622" align="aligncenter" width="500"\][![The crowd around the bar.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/08/Tipsy_pig_02-500x377.jpg)](http://www.thegourmez.com/2014/08/mac-cheese-night-3-the-tipsy-pig/tipsy_pig_02/) The crowd around the bar.\[/caption\]
 
-\[caption id="attachment\_8634" align="aligncenter" width="500"\][![Front of the house.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/08/Tipsy_pig_15-500x332.jpg)](http://www.thegourmez.com/2014/08/mac-cheese-night-3-the-tipsy-pig/tipsy_pig_15/) Front of the house.\[/caption\]
+
+
+<div class="caption">
+
+[![The crowd around the bar.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/08/Tipsy_pig_02-500x377.jpg)](http://www.thegourmez.com/2014/08/mac-cheese-night-3-the-tipsy-pig/tipsy_pig_02/) The crowd around the bar.</div>
+
+
+
+
+
+<div class="caption">
+
+[![Front of the house.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/08/Tipsy_pig_15-500x332.jpg)](http://www.thegourmez.com/2014/08/mac-cheese-night-3-the-tipsy-pig/tipsy_pig_15/) Front of the house.</div>
+
 
 I found it cozy, and of course, the company was good. Menu focus is subtly playful takes on standard menu items at most American pubs these days: tartare, ribs, sliders, risotto, burgers, and of course, mac & cheese. Some of my companions found those takes too subtle, but that does not apply to the mac & cheese.
 

@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Rue Cler, Downtown Durham"
 date: "2009-05-29"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "beignet"
   - "duck-confit-crepe"
   - "durham-restaurant-review"
@@ -38,6 +38,12 @@ Similarly, the egg of the omelette, which was very thin, brought little flavor t
 
 Obviously, the beignets are plenty of reason to check out Rue Cler on their own.  Our brunch dishes were good but not as memorable as I'd hoped.  I'm still planning to come for the prix fixe menu because strangely, I've only made it to brunch at both Rue Cler and Vin Rouge.  I must give dinner its chance to shine.
 
-\[caption id="attachment\_49" align="aligncenter" width="40"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif "rating_avocado1") 3 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+
 
 _Reviewed 5.23.09._

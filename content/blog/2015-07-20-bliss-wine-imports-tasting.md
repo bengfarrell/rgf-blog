@@ -1,14 +1,14 @@
 ---
 title: "Bliss Wine Imports Tasting"
 date: "2015-07-20"
-categories: 
+categories:
   - "colheita"
   - "red-wine-review"
   - "tempranillo"
   - "verderon"
   - "white-wine-reviews"
   - "wine"
-tags: 
+tags:
   - "alleah-friedrichs"
   - "bay-area"
   - "bisou"
@@ -35,7 +35,13 @@ tags:
 
 At [Bisou Bistronomy](http://www.bisousf.com/) in the Castro, an impressive handful of Bay Area winos—oops, I mean wine bloggers—gathered to explore the wares of one of the newer importers on the block: [Bliss Wine Imports](https://www.blisswineimports.com/). And we didn’t even run the other customers out of the restaurant until an hour into the tasting!
 
-\[caption id="attachment\_24810" align="aligncenter" width="500"\][![L to R: Thomas Riley, Elizabeth Olsen, Martin Redmond, Thea Dwelle, Liza Swift, Alleah Friedrichs, Elizabeth Smith](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Bliss_Imports_007-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Bliss_Imports_007.jpg) L to R: Thomas Riley, Elizabeth Olsen, Martin Redmond, Thea Dwelle, Liza Swift, Alleah Friedrichs, Elizabeth Smith\[/caption\]
+
+
+
+<div class="caption">
+
+[![L to R: Thomas Riley, Elizabeth Olsen, Martin Redmond, Thea Dwelle, Liza Swift, Alleah Friedrichs, Elizabeth Smith](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Bliss_Imports_007-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Bliss_Imports_007.jpg) L to R: Thomas Riley, Elizabeth Olsen, Martin Redmond, Thea Dwelle, Liza Swift, Alleah Friedrichs, Elizabeth Smith</div>
+
 
 Alleah Friedrichs and Erin Geyer started Bliss Wine Imports not even two years ago, but I was blown away by the great instincts they’ve already cultivated. They’ve scoured Europe, hunting for wines that please them, and I think what they discovered is telling. From their website:
 

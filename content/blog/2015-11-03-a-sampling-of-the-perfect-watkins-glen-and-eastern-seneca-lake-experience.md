@@ -1,7 +1,7 @@
 ---
 title: "A Sampling of the Perfect Watkins Glen and Eastern Seneca Lake Experience"
 date: "2015-11-03"
-categories: 
+categories:
   - "dessert-wine-reviews"
   - "red-wine-review"
   - "tasting-rooms-in-the-finger-lakes-ny"
@@ -9,7 +9,7 @@ categories:
   - "white-wine-reviews"
   - "wine"
   - "wine-bloggers-conference-2015"
-tags: 
+tags:
   - "atwater"
   - "brittany-gibbs"
   - "chateau-lafayette-reneau"
@@ -36,7 +36,13 @@ tags:
   - "wine-bloggers-conference"
 ---
 
-\[caption id="attachment\_25176" align="aligncenter" width="334"\][![Me at Chateau LaFayette Reneau's deck.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_125-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_125.jpg) Me at Chateau LaFayette Reneau's deck.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Me at Chateau LaFayette Reneau's deck.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_125-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_125.jpg) Me at Chateau LaFayette Reneau's deck.</div>
+
 
 **The Mystery**
 
@@ -90,7 +96,13 @@ The winery feted our group of about fifteen wine bloggers for the evening, and w
 
 This lovely winery and inn is located on the southeastern side of Seneca Lake, where its first vintage was produced in 1986 using newly planted vinifera grapes. Before diving into that dinner table, we started with not a cocktail hour but a wine tasting and cheese hour, sampling selections from several of CLR’s neighboring wineries and from [Sunset View Creamery](http://www.sunsetviewcreamery.com/).
 
-\[caption id="attachment\_25173" align="aligncenter" width="500"\][![2015_WBC_111](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_111-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_111.jpg) Co-Owner and Cheese Sampler Ron Hoffman\[/caption\]
+
+
+
+<div class="caption">
+
+[![2015_WBC_111](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_111-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_111.jpg) Co-Owner and Cheese Sampler Ron Hoffman</div>
+
 
 Sunset View operates out of Odessa, NY, where anyone can take a weekend self-guided tour of their Hoffarms Dairy. It’s not every day that a monterey jack cheese is worth noting, but I loved Sunset View’s version with chive and dill, which made the cheese’s natural property’s shine.
 
@@ -128,7 +140,13 @@ Those storm clouds contributed to some great shots, even if the short showers sc
 
 I’ve written about [master sommelier, winemaker, and grillmaster extraordinaire Christopher Bates](http://thegourmez.com/2015/09/10/the-hospitality-of-the-finger-lakes-and-other-reasons-to-visit/) of [Element Winery](http://elementwinery.com/) already, but this time, we got to experience the equal gifts of his wife, [Isabel Bogadtke,](http://elementwinery.com/who/isabel-bogadtke/) a hospitality maven, winemaker, and chef.
 
-\[caption id="attachment\_25183" align="aligncenter" width="500"\][![Bogadtke with her assistant after the meal.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_145-500x439.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_145.jpg) Bogadtke with her assistant after the meal.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Bogadtke with her assistant after the meal.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_145-500x439.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_145.jpg) Bogadtke with her assistant after the meal.</div>
+
 
 Bogadtke prepared a feast for us of ingredients entirely from the Finger Lakes, and she showcased those ingredients masterfully by treating them as simply as possible. Our opening cornucopia of foodstuffs included the most flavorful apricots I’ve ever had, delicious wax beans sautéed briefly with red pepper flakes, tiny elderberries, and charcuterie among many other selections.
 

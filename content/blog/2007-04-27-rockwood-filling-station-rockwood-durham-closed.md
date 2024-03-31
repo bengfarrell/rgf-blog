@@ -1,10 +1,10 @@
 ---
 title: "Rockwood Filling Station (Rockwood, Durham) *CLOSED*"
 date: "2007-04-27"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "durham-dining"
   - "rockwood"
   - "rockwood-filling-station"
@@ -26,4 +26,10 @@ The ice cream at Rockwood's had garnered rave reviews online, so we chose the ic
 
 Overall, the restaurant did just fine for a pizza craving but this reviewer did not find it terribly intriguing. While we might come back for the occasional meal, I doubt Rockwood Filling Station will become a regular stop on our dining rotation.
 
-\[caption id="attachment\_55" align="alignleft" width="40"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+

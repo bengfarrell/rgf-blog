@@ -1,7 +1,7 @@
 ---
 title: "TerraVITA 2012 Media Farm Tour: Stop 2, Joe Van Gogh Coffee Roastery"
 date: "2012-11-06"
-categories: 
+categories:
   - "coffee-shop"
   - "chapel-hill-coffee-shop-reviews"
   - "durham-coffee-shop-reviews"
@@ -9,7 +9,7 @@ categories:
   - "events"
   - "chapel-hill-north-carolina-travel"
   - "travel-product-review"
-tags: 
+tags:
   - "2012"
   - "coffee"
   - "cracking"
@@ -29,7 +29,13 @@ tags:
 
 Time for more on the TerraVITA 2012 Media Farm Tour! After taking a [fast, furious, and intriguing tour](http://www.rebeccagomezfarrell.com/2012/11/terravita-2012-media-farm-tour-stop-1-southern-season/) of the redesigned Southern Season, our group of food-loving media members hustled into our complimentary shuttle, provided by Performance Subaru, to make the journey out into the wilderness for our next stop. Okay, the wilderness was a warehouse in Hillsborough—that qualifies for this city girl.
 
-\[caption id="attachment\_5100" align="aligncenter" width="334"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012019.jpg "TerraVita2012019")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012019.jpg) Inside the roastery with Robbie.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012019.jpg "TerraVita2012019")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012019.jpg) Inside the roastery with Robbie.</div>
+
 
 Robbie Roberts (why didn’t I ask how he ended up that name?!), owner and head roaster of [Joe Van Gogh](http://www.joevangogh.com/), met us right inside the facility where they roast all the beans they sell in four different Triangle coffee houses and several retailers and restaurants. The first thing we learned was the difference between the washed and natural processing of coffee.
 
@@ -39,9 +45,21 @@ In that image, the unroasted beans are on the left with the washed ones in front
 
 We sampled coffee from both processes to compare and contrast, along with an espresso roast.
 
-\[caption id="attachment\_5104" align="aligncenter" width="357"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012023.jpg "TerraVita2012023")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012023.jpg) Brian Maiers showing off his pour-over technique.\[/caption\]
 
-\[caption id="attachment\_5106" align="aligncenter" width="334"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012025.jpg "TerraVita2012025")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012025.jpg) Coffee brewing! It’s really is rather exciting--and that really rather exposes me as an addict.\[/caption\]
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012023.jpg "TerraVita2012023")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012023.jpg) Brian Maiers showing off his pour-over technique.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012025.jpg "TerraVita2012025")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012025.jpg) Coffee brewing! It’s really is rather exciting--and that really rather exposes me as an addict.</div>
+
 
  
 
@@ -55,7 +73,13 @@ We also had the pleasure of watching Dutch, one of Joe Van Gogh’s roasters, wo
 
 I’ve seen coffee roasting before, and I’m always impressed by the precise, continuous attention the roaster needs to pay to those beans. Dutch explained about how coffee audibly cracks like popcorn as the temperature rises. Espresso tends to be roasted until right before the second crack, but most light roasts are stopped somewhere between first and second crack. He talked about the endothermic energy the coffee builds up and releases in those exothermic cracks and the sweeteners that activity generates, and all the while, Dutch was constantly assessing the coloring and shape of the beans while adjusting the heat and checking his stopwatch.
 
-\[caption id="attachment\_5102" align="aligncenter" width="500"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012021.jpg "TerraVita2012021")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012021.jpg) Checking those beans.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012021.jpg "TerraVita2012021")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012021.jpg) Checking those beans.</div>
+
 
 When ready, he opened the floodgate and sent the beans out into the cooling pan.
 

@@ -1,12 +1,12 @@
 ---
 title: "Fire in the Triangle: Battle Market vs. New Southern Kitchen"
 date: "2013-07-24"
-categories: 
+categories:
   - "events"
   - "restaurants"
   - "spirits"
   - "vodka"
-tags: 
+tags:
   - "basil-gin-syrup"
   - "battle"
   - "bloody-mary-sauce"
@@ -48,7 +48,13 @@ WRAL is the local media sponsor for the competition, and they already have a [gr
 
  
 
-\[caption id="attachment\_6612" align="aligncenter" width="500"\][![The competitors await the results.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Fire_Triangle_10-500x187.jpg)](http://www.thegourmez.com/?attachment_id=6612) The competitors await the results.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The competitors await the results.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Fire_Triangle_10-500x187.jpg)](http://www.thegourmez.com/?attachment_id=6612) The competitors await the results.</div>
+
 
 First, though, I should make clear that my meal was complimentary as one of the evening's professional judges. Second, I was plied with wine by a fabulous group of dining companions the entire evening. That may affect my opinions. But mostly it affects my dehydration today. Thank you again, ladies, wherever you are!
 
@@ -90,11 +96,23 @@ The star of the dish for me was the basil-gin syrup -- at last, a dish that util
 
 In the end, Market won handily with a score of 21.35 to 17.64, and while it would be dishonest not to note the role pork played in that decision, I also think Chef McIntyre won because the TOPO spirits were clearly evident in at least two of his dishes while Chef Slama did not prominently feature them.
 
-\[caption id="" align="aligncenter" width="500"\][![2013_Fire_Triangle_11](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Fire_Triangle_11-500x332.jpg)](http://www.thegourmez.com/?attachment_id=6611) McIntyre in the throes of victory.\[/caption\]
+
+
+
+<div class="caption">
+
+[![2013_Fire_Triangle_11](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Fire_Triangle_11-500x332.jpg)](http://www.thegourmez.com/?attachment_id=6611) McIntyre in the throes of victory.</div>
+
 
 I do wish both chefs had been more adventurous in their use of tomato in the dishes. In the savory courses, they were primarily conveyed in sauces with variations only in sliced tomatoes and a chunky salsa. Perhaps that sidelining of the main ingredients is why this was the lowest scoring evening for the pros thus far, though it should be noted that there weren't as many tomatoes available to use as the chefs would have liked. Or maybe we were just a tough crowd that night. You can get a full breakdown of [those scores here.](http://www.competitiondining.com/results/market-v-new-southern)
 
-\[caption id="" align="aligncenter" width="332"\][![2013_Fire_Triangle_13](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Fire_Triangle_13-332x500.jpg)](http://www.thegourmez.com/?attachment_id=6610) Chef Slama, delighted to receive a flower from one of her sous chefs after the competition.\[/caption\]
+
+
+
+<div class="caption">
+
+[![2013_Fire_Triangle_13](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Fire_Triangle_13-332x500.jpg)](http://www.thegourmez.com/?attachment_id=6610) Chef Slama, delighted to receive a flower from one of her sous chefs after the competition.</div>
+
 
 I should also mention that [Gizmo Brew Works](http://gizmobrewworks.com/), the new identity of the former Roth Brewing Company, was this week's beer purveyor.
 

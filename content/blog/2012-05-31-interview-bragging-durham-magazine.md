@@ -1,10 +1,10 @@
 ---
 title: "Interview Bragging - Durham Magazine"
 date: "2012-05-31"
-categories: 
+categories:
   - "restaurants"
   - "writing"
-tags: 
+tags:
   - "blogging"
   - "carpe-durham"
   - "durham"
@@ -21,7 +21,13 @@ After spending a month in _Maya's Vacation_ promotions, I'm switching gears to h
 
 Back in 2010, Matt Dees, the hardworking and food-appreciating editor of _Durham Magazine,_ contacted me and the other _Carpe Durham_ bloggers about doing a piece in their first annual Foodie issue. Of course I said yes, and along with _Carpe Durham_'s amazing primary blogger, DID, we did a little photoshoot for the piece. We were interviewed, too, and the piece primarily discusses the origins of the website with its creators, RPP and YAR.
 
-\[caption id="attachment\_4282" align="aligncenter" width="328" caption="I'm on the right!"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/eatbloglove.jpg "eatbloglove")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/eatbloglove.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/eatbloglove.jpg "eatbloglove")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/eatbloglove.jpg)</div>
+
 
  
 

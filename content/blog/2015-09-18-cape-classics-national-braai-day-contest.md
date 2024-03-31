@@ -1,10 +1,10 @@
 ---
 title: "Cape Classics' National Braai Day Contest!"
 date: "2015-09-18"
-categories: 
+categories:
   - "announcements"
   - "events"
-tags: 
+tags:
   - "braai"
   - "braais"
   - "cape-classics"
@@ -20,11 +20,23 @@ Starting tomorrow, Cape Classics, the USA's largest importer of South African wi
 
 So what is this contest promoting?
 
-\[caption id="attachment\_25027" align="aligncenter" width="500"\][![Boerewors over a braai fire.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Boerewors-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Boerewors.jpg) Boerewors over a braai fire / Photograph from braai.com.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Boerewors over a braai fire.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Boerewors-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Boerewors.jpg) Boerewors over a braai fire / Photograph from braai.com.</div>
+
 
 It's part of Cape Classics' campaign to bring awareness of South African culture to the US along with their food and drink. _Braai_, as you are likely learning along with myself in this moment, is barbecue! But more than that, it's one of the oldest barbecue parties around. A variety of meats, from _boerewors_ (sausages) to rock lobsters, are cooked over wood, though charcoal and gas are common in this day and age. Just like American barbecues or cook-outs, guests bring a dish to share and socialize for hours around that flame. It's a time to celebrate, to fellowships with friends, to enjoy the smell of roasting foods to your heart's delight.
 
-\[caption id="attachment\_15661" align="aligncenter" width="500"\][![A group of my friends barbecuing on my deck, oh, 15 years ago in Santa Cruz.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/06/College_Junior_111.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2013/06/College_Junior_111.jpg) A group of my friends barbecuing on my deck, oh, 15 years ago in Santa Cruz.\[/caption\]
+
+
+
+<div class="caption">
+
+[![A group of my friends barbecuing on my deck, oh, 15 years ago in Santa Cruz.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/06/College_Junior_111.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2013/06/College_Junior_111.jpg) A group of my friends barbecuing on my deck, oh, 15 years ago in Santa Cruz.</div>
+
 
 Americans, I think we've got this. And while we may usually have barbecues on Memorial Day, July 4th, and Labor Day, pretty much every holiday in South Africa is a day for braai -- so much so that they gave it its own national holiday in 2005! [National Braai Day](http://braai.com/) is celebrated as part of National Heritage Day on September 24 each year.
 

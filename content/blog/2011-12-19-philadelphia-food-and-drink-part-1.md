@@ -1,14 +1,14 @@
 ---
 title: "Philadelphia: Food and Drink, Part 1"
 date: "2011-12-19"
-categories: 
+categories:
   - "philadelphia-bar-review"
   - "philadelphia-restaurant-review"
   - "gin-reviews"
   - "restaurants"
   - "spirits"
   - "philadelphia-travel"
-tags: 
+tags:
   - "basil-hayden"
   - "black-sheep"
   - "center-city"
@@ -47,11 +47,23 @@ Thus why so many people recommended it to us, I’m sure. However, we didn’t h
 
 It was a pretty awesome Irish pub, with a good, if not extensive beer list. Mellow vibe, and a nice place to actually hear your friends if you’re out with a group.
 
-\[caption id="attachment\_3679" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly007.jpg "philly007")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly007.jpg) Ben enjoying a brew.\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly007.jpg "philly007")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly007.jpg) Ben enjoying a brew.</div>
+
 
 I was quite impressed with the mussels we had as an appetizer before our show.
 
-\[caption id="attachment\_3681" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly010.jpg "philly010")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly010.jpg) The Mussels Jalapeno\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly010.jpg "philly010")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly010.jpg) The Mussels Jalapeno</div>
+
 
 They came in a white wine broth with spicy pepperoni, and every bite was delicious. The garlic bread was to die for, especially when sopping up the sauce. Having something delicious to sop up sauce with is the point of eating mussels, right?
 
@@ -61,9 +73,21 @@ Most of our evening was spent at [World Café Live](http://philly.worldcafelive.
 
 The same building also houses the University of Pennsylvania’s college radio station. There’s an upstairs and a downstairs venue and both offer dining options while you watch your concert. I think the upstairs is for smaller shows, and it’s pretty intimate with small round tables spread around.
 
-\[caption id="attachment\_3683" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly017.jpg "philly017")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly017.jpg) The Upstairs bar.\[/caption\]
 
-\[caption id="attachment\_3687" align="aligncenter" width="500"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly021.jpg "philly021")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly021.jpg) The Upstairs stage.\[/caption\]
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly017.jpg "philly017")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly017.jpg) The Upstairs bar.</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly021.jpg "philly021")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/philly021.jpg) The Upstairs stage.</div>
+
 
 The food at World Café Live surprised me; I don’t expect a rock club to have the best options, but they offered a range of items from your standard paninis and quesadillas to entrees like filet mignon with celery root puree. Ben went the sandwich route, choosing a Panini with turkey, ham, fennel salami, brie, and a pomegranate reduction sauce.
 

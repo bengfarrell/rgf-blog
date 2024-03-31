@@ -1,11 +1,11 @@
 ---
 title: "Graham’s Six Grapes Reserve Port"
 date: "2017-02-24"
-categories: 
+categories:
   - "fortified-wine"
   - "port-fortified-wine"
   - "wine"
-tags: 
+tags:
   - "douro"
   - "grahams"
   - "port"
@@ -35,6 +35,12 @@ I found Six Grapes fit to be drunk in a drafty castle nook while waiting to take
 
 Perhaps unsurprisingly, as Six Grapes is a younger port than many, it straddled the line between a fully aged port and red wine -- all the more reason to ponder it more deeply with a second pour.
 
-\[caption id="attachment\_26029" align="alignnone" width="40"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif) 4/5\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif) 4/5</div>
+
 
 _Tasted 13 January 2017._

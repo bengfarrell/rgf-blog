@@ -1,11 +1,11 @@
 ---
 title: "WBC14: Bridlewood Estate Excursion"
 date: "2014-08-28"
-categories: 
+categories:
   - "chardonnay"
   - "wine"
   - "wine-bloggers-conference-2014-buellton"
-tags: 
+tags:
   - "2014"
   - "bloggers"
   - "bridlewood"
@@ -34,21 +34,45 @@ tags:
   - "winery"
 ---
 
-\[caption id="attachment\_8653" align="aligncenter" width="680"\][![WBC_14_203](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_203-1024x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_203/) View from Bridlewood’s mission bells.\[/caption\]
+
+
+
+<div class="caption">
+
+[![WBC_14_203](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_203-1024x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_203/) View from Bridlewood’s mission bells.</div>
+
 
 As I wrote in my thoughts on the 2014 Wine Bloggers Conference (WBC14), the overall value of the conference is one of the biggest reasons I’d consider going again in the future. And nothing can illustrate that better than the one additional excursion I attended the afternoon after WBC14 closed: the Bridlewood Estate Excursion.
 
 For about the cost of a burger in most San Francisco eateries ($15), I added on this bonus trip into the Santa Ynez Valley AVA, which I knew included a tour, tasting wines, and a picnic lunch.
 
-\[caption id="attachment\_8641" align="aligncenter" width="332"\][![The lunch, all bundled up.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_165-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_165/) The lunch, all bundled up.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The lunch, all bundled up.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_165-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_165/) The lunch, all bundled up.</div>
+
 
 I didn’t know it included a panel discussion called “Meet Your Makers”, which would stuff us even more with an amazing array of appetizers prepared by Industrial Eat’s Jeff Olsson, a chef that every blogger who made it away from the hotel for dinner raved about.
 
-\[caption id="attachment\_8645" align="aligncenter" width="500"\][![Olsson with Valley Piggery’s Jake O’Francis.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_184-500x360.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_184/) Olsson with Valley Piggery’s Jake O’Francis.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Olsson with Valley Piggery’s Jake O’Francis.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_184-500x360.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_184/) Olsson with Valley Piggery’s Jake O’Francis.</div>
+
 
 More on that later, but even without that bonus session, I would have felt I got my money’s worth from the event. Heck, I probably would have felt it the moment I stepped out of the bus.
 
-\[caption id="attachment\_8638" align="aligncenter" width="332"\][![Entrance to Bridlewood Estates.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_153-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_153/) Entrance to Bridlewood Estates.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Entrance to Bridlewood Estates.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_153-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_153/) Entrance to Bridlewood Estates.</div>
+
 
 As I’ve mentioned, I grew up just north of where WBC14 was held, but I’ve spent the vast majority of my drinking years on the East Coast. So I have a dirty little secret for you: I’d never even heard of Bridlewood before. Imagine my surprise to discover such an opulent location!
 
@@ -56,17 +80,41 @@ As I’ve mentioned, I grew up just north of where WBC14 was held, but I’ve sp
 
 We were quickly ushered past the main tasting rooms and storage facilities-- [![WBC_14_200](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_200-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_200/)
 
-\[caption id="attachment\_8650" align="aligncenter" width="500"\][![Yes, that’s a large egg!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_199-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_199/) Yes, that’s a large egg!\[/caption\]
+
+
+
+<div class="caption">
+
+[![Yes, that’s a large egg!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_199-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_199/) Yes, that’s a large egg!</div>
+
 
 \--to our first of three stops, where we were handed glasses of Bridlewood’s Chardonnay— [![WBC_14_158](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_158-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_158/) --and instructed to walk down to the lake below.
 
-\[caption id="attachment\_8654" align="aligncenter" width="332"\][![This way!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_204-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_204/) This way!\[/caption\]
 
-\[caption id="attachment\_8655" align="aligncenter" width="680"\][![Found it.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_164-1024x330.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_164/) Found it.\[/caption\]
+
+
+<div class="caption">
+
+[![This way!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_204-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_204/) This way!</div>
+
+
+
+
+
+<div class="caption">
+
+[![Found it.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_164-1024x330.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_164/) Found it.</div>
+
 
 More wine followed at the tables, and we enjoyed a humungous lunch of sandwiches, arugula salads, fresh watermelon and tomato salads, fruit galore, and a delectable brownie.
 
-\[caption id="attachment\_8642" align="aligncenter" width="500"\][![This life is really hard.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_167-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_167-2/) This life is really hard.\[/caption\]
+
+
+
+<div class="caption">
+
+[![This life is really hard.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_167-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_167-2/) This life is really hard.</div>
+
 
 I wouldn’t have minded a little more time to relax in that setting, but our group continued back up to the tasting rooms for the surprise (at least to me) panel. Panels on sustainability and good food and drink are my comfort zone. And a lot of my fellow bloggers were equally content. That room held a happy, interested crowd.
 
@@ -74,13 +122,31 @@ I wouldn’t have minded a little more time to relax in that setting, but our gr
 
 In part, that’s because we know how important it is to recognize the work of the people who produce our food—
 
-\[caption id="attachment\_8648" align="aligncenter" width="500"\][![Chris and Johanna Finley of Finley Farms Organic](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_194-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_194/) Chris and Johanna Finley of Finley Farms Organic\[/caption\]
 
-\[caption id="attachment\_8647" align="aligncenter" width="500"\][![Stephanie Mutz of Sea Stephanie Fish and Jake O’Francis of Valley Piggery](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_191-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_191/) Stephanie Mutz of Sea Stephanie Fish and Jake O’Francis of Valley Piggery\[/caption\]
+
+
+<div class="caption">
+
+[![Chris and Johanna Finley of Finley Farms Organic](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_194-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_194/) Chris and Johanna Finley of Finley Farms Organic</div>
+
+
+
+
+
+<div class="caption">
+
+[![Stephanie Mutz of Sea Stephanie Fish and Jake O’Francis of Valley Piggery](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_191-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_191/) Stephanie Mutz of Sea Stephanie Fish and Jake O’Francis of Valley Piggery</div>
+
 
 \--and in part because of that aforementioned appetizer plate made with ingredients from the producers at the mic. [![WBC_14_179](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_179-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_179-2/) Each bite was paired wonderfully by the chef and Mark Williams of Bridlewood’s winemaking team.
 
-\[caption id="attachment\_8644" align="aligncenter" width="468"\][![Mark Williams](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_181-468x500.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_181/) Mark Williams\[/caption\]
+
+
+
+<div class="caption">
+
+[![Mark Williams](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/WBC_14_181-468x500.jpg)](http://www.rebeccagomezfarrell.com/2014/08/wine-bloggers-conference-bridlewood-estate-excursion/wbc_14_181/) Mark Williams</div>
+
 
 I seriously cannot get the perfect union of the sea urchin and avocado salad with the Bridlewood 2012 Chardonnay out of my mind. Like savory pop rocks fizzing on my tongue.
 

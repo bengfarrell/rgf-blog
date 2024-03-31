@@ -1,11 +1,11 @@
 ---
 title: "Coffee Cupping at Larry’s Beans"
 date: "2012-12-12"
-categories: 
+categories:
   - "coffee-shop"
   - "raleigh-coffee-shop-reviews"
   - "events"
-tags: 
+tags:
   - "abela-geluke"
   - "big-spoon"
   - "bona"
@@ -39,13 +39,25 @@ tags:
 
 When I accepted an invitation to check out the first coffee cupping at the [Larry’s Beans roastery](http://www.larrysbeans.com/), I had no idea that the roastery is literally a Willy Wonka house in the middle of an industrial block of downtown Raleigh.
 
-\[caption id="attachment\_5300" align="aligncenter" width="333" caption="Blogger Triangle Explorer with Larry."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping02small.jpg "Larrys Beans Cupping02small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping02small.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping02small.jpg "Larrys Beans Cupping02small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping02small.jpg)</div>
+
 
 No really, that’s Larry of Larry’s Beans in the get-up. There is no way that the accordion music, opening of the gate, and appearance of Larry could be viewed as anything but a Wonka tribute. And I fully support all of the whimsical silliness it embodied.
 
 The coffee cupping costs $5, although I had that complimentary bloggers’ invitation. It’s a pretty good use of $5, especially if you are unfamiliar with how coffee beans are processed and roasted in addition to wanting to taste the differences between beans from different single-source co-ops. First, though, let me give you a view of Larry’s Beans from the street, because it’s a little difficult to pick out when driving by.
 
-\[caption id="attachment\_5275" align="aligncenter" width="819" caption="Click on this one for a larger image."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping01small-1024x279.jpg "Larrys Beans Cupping01small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping01small.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping01small-1024x279.jpg "Larrys Beans Cupping01small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping01small.jpg)</div>
+
 
 But there’s no mistaking it for any other drab buildings once you’re inside those magical gates.
 
@@ -65,7 +77,13 @@ Once the cocktail hour was over, we shuffled to the roastery itself, which was s
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping07small.jpg "Larrys Beans Cupping07small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping07small.jpg)
 
-\[caption id="attachment\_5295" align="aligncenter" width="333" caption="Random radio station inside the roastery. I’ll roll with it."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping08small.jpg "Larrys Beans Cupping08small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping08small.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping08small.jpg "Larrys Beans Cupping08small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping08small.jpg)</div>
+
 
 Larry introduced him—
 
@@ -89,7 +107,13 @@ As often happens, my table was full of other food bloggers, and I can never stop
 
 We cupped beans from three Ethiopian co-ops, which were the Schilcho, Abela Geluko, and Bona co-ops. Three different cups of each were used to ensure consistency between them.
 
-\[caption id="attachment\_5285" align="aligncenter" width="333" caption="Triangle Localista, Raleigh What’s Up, and Avid Fan."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping18small.jpg "Larrys Beans Cupping18small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping18small.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping18small.jpg "Larrys Beans Cupping18small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping18small.jpg)</div>
+
 
 We circled our table, sniffing the grounds first. Then water was added, and we sniffed the aroma of the blooms.
 
@@ -103,7 +127,13 @@ After steeping, Brad expertly demonstrated his coffee-skimming technique, removi
 
 And then … more sniffing while Brad again explained to us what to look for.
 
-\[caption id="attachment\_5284" align="aligncenter" width="499" caption="Avid Fan demonstrates the sniff."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping19small.jpg "Larrys Beans Cupping19small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping19small.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping19small.jpg "Larrys Beans Cupping19small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping19small.jpg)</div>
+
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping22small.jpg "Larrys Beans Cupping22small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping22small.jpg)
 
@@ -111,11 +141,29 @@ Brad then hopped back to the whiteboard and jotted down the crowd’s overall th
 
 After the cupping was complete, we were treated to Fullsteam beer samples as well then hung out in the courtyard for a while, enjoying the festive mood that Larry’s Beans engenders.
 
-\[caption id="attachment\_5278" align="aligncenter" width="333" caption="The band plays in the packaging building."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping25small.jpg "Larrys Beans Cupping25small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping25small.jpg)\[/caption\]
 
-\[caption id="attachment\_5277" align="aligncenter" width="499" caption="Larry demonstrates his dancing skills."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping27small.jpg "Larrys Beans Cupping27small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping27small.jpg)\[/caption\]
 
-\[caption id="attachment\_5297" align="aligncenter" width="333" caption="The accordionist."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping06small.jpg "Larrys Beans Cupping06small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping06small.jpg)\[/caption\]
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping25small.jpg "Larrys Beans Cupping25small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping25small.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping27small.jpg "Larrys Beans Cupping27small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping27small.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping06small.jpg "Larrys Beans Cupping06small")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/Larrys-Beans-Cupping06small.jpg)</div>
+
 
 Assuming future coffee cuppings at Larry’s Beans are similar, I would recommend it for anyone wanting to learn how to sample coffee and pick up on qualities that you may not notice in the morning (or all day, in my case) rush for caffeine. As a food blogger, I’ve already learned a lot about coffee-making regions and processing, but that portion of the experience would be very educational if you have not. Learning how to cup coffee was brand-new for me, however, and the experience of just being at the vibrant, charming locale of Larry’s Beans is worth it on its own.
 

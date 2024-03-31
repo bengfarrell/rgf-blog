@@ -1,10 +1,10 @@
 ---
 title: "Cosmopolitan @ the Angus Barn's Wild Turkey Lounge"
 date: "2010-10-08"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "bars-in-raleigh-nc"
-tags: 
+tags:
   - "angus-barn"
   - "cocktails-triangle"
   - "cointreau"
@@ -27,6 +27,12 @@ You can tell from the color of the drink how little cranberry was added, which w
 
 Still, it was pretty fabulous, so I was happy with it in more ways than one.
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)</div>
+
 
 _Reviewed 9.10.10._

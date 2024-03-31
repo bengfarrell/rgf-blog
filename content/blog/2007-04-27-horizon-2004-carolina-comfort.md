@@ -1,9 +1,9 @@
 ---
 title: "Horizon 2004 Carolina Comfort"
 date: "2007-04-27"
-categories: 
+categories:
   - "dessert-wine-reviews"
-tags: 
+tags:
   - "2004"
   - "carolina-comfort"
   - "dessert-wine"
@@ -18,4 +18,10 @@ That's an awful lot of names for a simple white wine. This is sweet enough to us
 
 If Horizon billed Carolina Comfort as a dessert wine, I'd give it an avocado. But as a table white, it's very clean and simple but just a chicken.
 
-\[caption id="attachment\_55" align="alignnone" width="40"\]![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+

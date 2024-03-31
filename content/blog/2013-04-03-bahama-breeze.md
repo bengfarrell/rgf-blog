@@ -1,10 +1,10 @@
 ---
 title: "Bahama Breeze Late Night Appetizers &amp; Drinks"
 date: "2013-04-03"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "bahama-breeze"
   - "barbeque"
   - "bbq"
@@ -41,7 +41,13 @@ With my husband and a friend in tow, we arrived at the 3309 Wake Forest Road loc
 
 This is the only Bahama Breeze I have been to, and this was only the second time I've visited, the first being nearly three years ago when [I checked out their White Satin](http://www.thegourmez.com/2010/08/white-satin-bahama-breeze-raleigh/) cocktail. The restaurant has been crowded on both occasions, obviously a popular dining spot for this area of Raleigh. I think they do a great job of capturing the atmosphere of large, open-air resorts in the Caribbean minus two important elements: mosquitoes and humidity. I won't complain about their absence.
 
-\[caption id="attachment\_6156" align="aligncenter" width="333"\][![Our dining room.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/bahama-breeze02.jpg)](http://www.thegourmez.com/2013/04/bahama-breeze/bahama-breeze02/) Our dining room.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Our dining room.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/bahama-breeze02.jpg)](http://www.thegourmez.com/2013/04/bahama-breeze/bahama-breeze02/) Our dining room.</div>
+
 
 Drinks were first on our agenda, and we ordered from that Legendary Cocktail menu. Friend #1 ordered the zombie, and I admit being charmed by the awesome zombie head stir stick.
 

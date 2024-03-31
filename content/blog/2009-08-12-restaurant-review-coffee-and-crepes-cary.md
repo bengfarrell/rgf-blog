@@ -1,10 +1,10 @@
 ---
 title: "Restaurant Review--Coffee and Crepes, Cary"
 date: "2009-08-12"
-categories: 
+categories:
   - "cary-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "cary-coffee-shops"
   - "cary-restaurants"
   - "chicken-crepes"
@@ -29,7 +29,13 @@ It was filled with chicken, ricotta, spinach, tomato and cheddar then topped wit
 
 I was also impressed with how fast my crepe came out!  I'm used to waiting a bit when I've eaten at other crepe places like this but it was out in less than 10 minutes.  Atmospherically, though, Coffees and Crepes maintained some of the feel of a food court despite their coffee shop setting.  I can't put my finger on why, but I didn't feel comfortable lingering for longer than my meal.  As it was a tasty one with a good cappuccino, I was completely fine with that!
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\]![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")\[/caption\]
+
+
+
+<div class="caption">
+
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+
 
 _Reviewed 8.4.09._
 

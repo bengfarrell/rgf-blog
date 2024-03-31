@@ -1,9 +1,9 @@
 ---
 title: "A Tour of Mission San Luis Obispo"
 date: "2014-09-04"
-categories: 
+categories:
   - "san-luis-obispo-travel"
-tags: 
+tags:
   - "california-missions"
   - "de-tolosa"
   - "docent-tour"
@@ -25,7 +25,13 @@ tags:
 
 I stayed over in San Luis Obispo for a day after the end of the 2014 Wine Bloggers Conference—I needed the time just to decompress and organize my thoughts before heading all the way back home. And I apparently needed to take a tour of Mission San Luis Obispo for some inspiration.
 
-\[caption id="attachment\_8719" align="aligncenter" width="680"\][![Click twice for the panorama.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/2014_San_Luis_Obispo_059-1024x229.jpg)](http://www.rebeccagomezfarrell.com/2014/09/a-tour-of-mission-san-luis-obispo/2014_san_luis_obispo_059/) Click twice for the panorama.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Click twice for the panorama.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/2014_San_Luis_Obispo_059-1024x229.jpg)](http://www.rebeccagomezfarrell.com/2014/09/a-tour-of-mission-san-luis-obispo/2014_san_luis_obispo_059/) Click twice for the panorama.</div>
+
 
 I love discovering treasures in the everyday, and as someone who grew up on the Central Coast, I’d seen plenty of this mission. But I’d never gone inside, and as I walked by, I happened to notice a crowd gathering for the next free docent tour. Why not join, I thought. So I did.
 
@@ -33,7 +39,13 @@ I love discovering treasures in the everyday, and as someone who grew up on the 
 
 The docent gave us a brief history of the mission’s timeline, starting with its founding in 1772 by Father Serra.
 
-\[caption id="attachment\_8718" align="aligncenter" width="332"\][![Statue of Father Serra outside the mission.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/2014_San_Luis_Obispo_056-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/09/a-tour-of-mission-san-luis-obispo/2014_san_luis_obispo_056/) Statue of Father Serra outside the mission.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Statue of Father Serra outside the mission.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/2014_San_Luis_Obispo_056-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/09/a-tour-of-mission-san-luis-obispo/2014_san_luis_obispo_056/) Statue of Father Serra outside the mission.</div>
+
 
 During the 1800s, the West became more of a lawless place, which is the very reason those doors have an extra couple of feet on top—to stop outlaws from riding in on horseback. Also interesting is that the mission was made over after being returned to the church’s care once California became a state. As was the fashion at the time, it was redone to resemble typical New England clapboard churches with a steeple and all. Thankfully, it was returned to its roots in the early 1900s.
 
@@ -71,7 +83,13 @@ I caught my breath at that first sight. After the 30-minute tour concluded, we s
 
 [![2014_San_Luis_Obispo_030](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/2014_San_Luis_Obispo_030-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/09/a-tour-of-mission-san-luis-obispo/2014_san_luis_obispo_030/)
 
-\[caption id="attachment\_8712" align="aligncenter" width="500"\][![Fig trees are so appropriate for a church.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/2014_San_Luis_Obispo_031-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/09/a-tour-of-mission-san-luis-obispo/2014_san_luis_obispo_031/) Fig trees are so appropriate for a church.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Fig trees are so appropriate for a church.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/2014_San_Luis_Obispo_031-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/09/a-tour-of-mission-san-luis-obispo/2014_san_luis_obispo_031/) Fig trees are so appropriate for a church.</div>
+
 
 [![2014_San_Luis_Obispo_033](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/2014_San_Luis_Obispo_033-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/09/a-tour-of-mission-san-luis-obispo/2014_san_luis_obispo_033/)
 
@@ -87,7 +105,13 @@ The two oldest ones arrived in 1820 from Peru, and since then, the mission has o
 
 There are also several museum exhibits that pack quite a lot of history into their small rooms. I was impressed by how in-depth the coverage was of the American Indians in the region before Father Serra founded the mission.
 
-\[caption id="attachment\_8717" align="aligncenter" width="500"\][![Reproductions of American Indian dolls.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/2014_San_Luis_Obispo_052-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/09/a-tour-of-mission-san-luis-obispo/2014_san_luis_obispo_052/) Reproductions of American Indian dolls.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Reproductions of American Indian dolls.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/08/2014_San_Luis_Obispo_052-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/09/a-tour-of-mission-san-luis-obispo/2014_san_luis_obispo_052/) Reproductions of American Indian dolls.</div>
+
 
 Stopping for the docent tour was a great choice for me and a great way to take my mind off wine, wine, wine. You should make it too, if you’re in the area with a bit of free time. Especially if you live in SLO and have never gotten around to exploring your hometown’s treasures. Who hasn’t been guilty of that?
 

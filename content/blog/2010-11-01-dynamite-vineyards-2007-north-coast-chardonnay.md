@@ -1,10 +1,10 @@
 ---
 title: "Dynamite Vineyards 2007 North Coast Chardonnay"
 date: "2010-11-01"
-categories: 
+categories:
   - "chardonnay"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2007"
   - "apple"
   - "caramel"
@@ -23,7 +23,13 @@ This chardonnay is light-bodied. The nose is of hard caramel candy with extra va
 
 I enjoy it. It’s simple but lusher than you’d expect from a light-bodied chardonnay. Drink up!
 
-\[caption id="attachment\_49" align="aligncenter" width="40" caption="3 stars"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)</div>
+
 
 Other Bloggers’ Thoughts:
 

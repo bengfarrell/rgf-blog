@@ -1,7 +1,7 @@
 ---
 title: "TerraVITA 2012 Media Farm Tour: Stop 1, Southern Season"
 date: "2012-11-05"
-categories: 
+categories:
   - "coffee-shop"
   - "chapel-hill-coffee-shop-reviews"
   - "events"
@@ -10,7 +10,7 @@ categories:
   - "chapel-hill-north-carolina-travel"
   - "travel-product-review"
   - "wine"
-tags: 
+tags:
   - "bakery"
   - "beer"
   - "butcher"
@@ -51,11 +51,23 @@ I’ve [introduced](http://www.rebeccagomezfarrell.com/2010/10/terravita-the-fir
 
 The day began bright and early at 8:30 am on the morning after Halloween. This is what I was doing the night before on Franklin Street—
 
-\[caption id="attachment\_5072" align="aligncenter" width="369" caption="I'm not the mummy."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/Halloween201229-768x1024.jpg "Halloween201229")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/Halloween201229.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/Halloween201229-768x1024.jpg "Halloween201229")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/Halloween201229.jpg)</div>
+
 
 —so you can imagine I mean it when I say _bright_ and _early_. Luckily, we started with breakfast and coffee at [Southern Season](http://www.southernseason.com/) in Chapel Hill. My twitter feed explodes whenever I mention Southern Season (@southernseason), so if you somehow don’t know it, then let me introduce you to this establishment focused on offering gourmet foods from around the world and the South. Larry Shaw, the CEO of Southern Season, gave us the 411 on the image and retail space revamping they’ve undergone in the past year since the store was sold by its original owner.
 
-\[caption id="attachment\_5074" align="aligncenter" width="500" caption="Larry Shaw"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012001.jpg "TerraVita2012001")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012001.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012001.jpg "TerraVita2012001")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012001.jpg)</div>
+
 
 Their goal is to be at the forefront of style and taste in food and to move away from the gift baskets and catalogues that had become Southern Season’s focus in recent years. So the retail store no longer packs in as many products as possible in those old, unattractive, tall, wire shelving units and is now closer to a food experience with lots of spaces for sampling products, a renewed emphasis on fresh wares like the bakery and butcher cases, and even adding a coffee bar, ice cream parlor, and florist shop.
 
@@ -71,9 +83,21 @@ Jason guided us through the display cases for baked goods, cheeses, and meats, a
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012003.jpg "TerraVita2012003")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012003.jpg)
 
-\[caption id="attachment\_5078" align="aligncenter" width="500" caption="We sampled some excellent cave-aged gruyere."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012005.jpg "TerraVita2012005")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012005.jpg)\[/caption\]
 
-\[caption id="attachment\_5079" align="aligncenter" width="500" caption="Nice prawns, huh?"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012006.jpg "TerraVita2012006")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012006.jpg)\[/caption\]
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012005.jpg "TerraVita2012005")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012005.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012006.jpg "TerraVita2012006")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012006.jpg)</div>
+
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012007.jpg "TerraVita2012007")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012007.jpg)
 
@@ -91,15 +115,39 @@ Who can resist the candy section?
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012009.jpg "TerraVita2012009")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012009.jpg)
 
-\[caption id="attachment\_5083" align="aligncenter" width="500" caption="Some chocolate Buddhas that looked divinely delicious."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012010.jpg "TerraVita2012010")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012010.jpg)\[/caption\]
 
-\[caption id="attachment\_5084" align="aligncenter" width="500" caption="We sampled delicious toffee by this company."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012011.jpg "TerraVita2012011")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012011.jpg)\[/caption\]
 
-\[caption id="attachment\_5087" align="aligncenter" width="500" caption="Southern Season still boasts one of the largest Jelly Belly displays in the South."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012014.jpg "TerraVita2012014")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012014.jpg)\[/caption\]
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012010.jpg "TerraVita2012010")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012010.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012011.jpg "TerraVita2012011")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012011.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012014.jpg "TerraVita2012014")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012014.jpg)</div>
+
 
 The ice cream parlor:
 
-\[caption id="attachment\_5085" align="aligncenter" width="334" caption="Southern Season still boasts one of the largest Jelly Belly displays in the South."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012012.jpg "TerraVita2012012")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012012.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012012.jpg "TerraVita2012012")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012012.jpg)</div>
+
 
 It features Lumpy’s ice cream, which I've had the good fortune of [sampling](http://www.rebeccagomezfarrell.com/2012/03/lumpys-wake-forest/) before.
 
@@ -107,7 +155,13 @@ The wine and beer section has been expanded and is quite attractively laid out. 
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012015.jpg "TerraVita2012015")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012015.jpg)
 
-\[caption id="attachment\_5089" align="aligncenter" width="334" caption="The North Carolina beer selection."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012016.jpg "TerraVita2012016")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012016.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012016.jpg "TerraVita2012016")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/11/TerraVita2012016.jpg)</div>
+
 
 Then we swept past the primary sampling center, which is the place to be if you want to check out as many products in the store as you can.
 

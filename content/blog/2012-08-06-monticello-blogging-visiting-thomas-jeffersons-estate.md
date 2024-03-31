@@ -1,9 +1,9 @@
 ---
 title: "Monticello Blogging: Visiting Thomas Jefferson’s Estate"
 date: "2012-08-06"
-categories: 
+categories:
   - "charlottesville-virginia-travel"
-tags: 
+tags:
   - "admission"
   - "charlottesville"
   - "garden"
@@ -30,7 +30,13 @@ The large center houses a gift store, museum, theater for viewing Monticello’s
 
 I’m not entirely sure what the worker who tried to warn us off of it meant by _steep_, but it was not difficult terrain, though there are some inclines. But as a lover of graveyards, I’m glad we opted for the trail.
 
-\[caption id="attachment\_4667" align="aligncenter" width="333" caption="First view of the graveyard."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello03.jpg "Monticello03")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello03.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello03.jpg "Monticello03")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello03.jpg)</div>
+
 
 You can’t go in it, but the graveyard does hold Jefferson’s remains as well as those of most of the rest of his family and their descendants—well, his legal descendants at least. The African American gravesite is back toward the visitor center and in a much different state of repair.
 
@@ -40,7 +46,13 @@ It’s impossible to really identify the bones it contains at this point. Jeffer
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello06.jpg "Monticello06")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello06.jpg)
 
-\[caption id="attachment\_4669" align="aligncenter" width="500" caption="Leaving the graveyard."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello08.jpg "Monticello08")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello08.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello08.jpg "Monticello08")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello08.jpg)</div>
+
 
 The trail also leads you up Mulberry Row, which is a beautiful way to be introduced to the estate.
 
@@ -50,13 +62,25 @@ Along this road, many workrooms and homes used to reside, the industry of Montic
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello11.jpg "Monticello11")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello11.jpg)
 
-\[caption id="attachment\_4672" align="aligncenter" width="500" caption="Workshop ruins."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello12.jpg "Monticello12")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello12.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello12.jpg "Monticello12")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello12.jpg)</div>
+
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello13.jpg "Monticello13")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello13.jpg)
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello18.jpg "Monticello18")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello18.jpg)
 
-\[caption id="attachment\_4674" align="aligncenter" width="500" caption="This is the grave of the mother of the man who bequeathed Monticello to the Thomas Jefferson Society. I can’t think of many nicer places to be buried."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello17.jpg "Monticello17")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello17.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello17.jpg "Monticello17")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello17.jpg)</div>
+
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello19.jpg "Monticello19")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello19.jpg)
 
@@ -72,25 +96,79 @@ You congregate under some ancient trees before entering to wait until the previo
 
 That’s the main entrance with a bored Ben paying no attention to the tour guide up front. He was bored the entire time—I loved it. There are no pictures allowed in the house, but it was so interesting to see the collections of curiosities, Jefferson’s gigantic clock right inside the entryway, and his impressive library. It’s a bit claustrophobic at times, so be warned.
 
-\[caption id="attachment\_4680" align="aligncenter" width="500" caption="Leaving the tour."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello25.jpg "Monticello25")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello25.jpg)\[/caption\]
 
-\[caption id="attachment\_4681" align="aligncenter" width="333" caption="The back of the house. The parlor room leads out into those columns."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello28.jpg "Monticello28")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello28.jpg)\[/caption\]
 
-\[caption id="attachment\_4683" align="aligncenter" width="500" caption="Me in front of the house."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello32.jpg "Monticello32")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello32.jpg)\[/caption\]
 
-\[caption id="attachment\_4682" align="aligncenter" width="473" caption="By itself."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello29.jpg "Monticello29")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello29.jpg)\[/caption\]
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello25.jpg "Monticello25")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello25.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello28.jpg "Monticello28")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello28.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello32.jpg "Monticello32")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello32.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello29.jpg "Monticello29")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello29.jpg)</div>
+
 
 After the tour, there are gardens to explore on the grounds as well as the underground storerooms and workrooms beneath the house.
 
-\[caption id="attachment\_4684" align="aligncenter" width="500" caption="Fish pond where live fish were kept until they became dinner."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello34.jpg "Monticello34")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello34.jpg)\[/caption\]
 
-\[caption id="attachment\_4685" align="aligncenter" width="500" caption="Underground smoke house."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello35.jpg "Monticello35")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello35.jpg)\[/caption\]
 
-\[caption id="attachment\_4686" align="aligncenter" width="500" caption="Underground kitchen."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello36.jpg "Monticello36")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello36.jpg)\[/caption\]
 
-\[caption id="attachment\_4687" align="aligncenter" width="500" caption="The halls linking the underground level."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello37.jpg "Monticello37")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello37.jpg)\[/caption\]
+<div class="caption">
 
-\[caption id="attachment\_4688" align="aligncenter" width="500" caption="Interesting plants in the flower garden."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello42.jpg "Monticello42")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello42.jpg)\[/caption\]
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello34.jpg "Monticello34")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello34.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello35.jpg "Monticello35")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello35.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello36.jpg "Monticello36")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello36.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello37.jpg "Monticello37")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello37.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello42.jpg "Monticello42")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello42.jpg)</div>
+
 
 [![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello44.jpg "Monticello44")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello44.jpg)
 
@@ -98,7 +176,13 @@ After the tour, there are gardens to explore on the grounds as well as the under
 
 We were probably only there for about 90 minutes and the house tour took about half of that, but neither Ben nor I are big on displays or films at museums (okay, Ben’s just not big on museums at all), so we did not spend much time exploring those. After I had my fill of flowers, we took the trail back down to the visitor center, and we were off!
 
-\[caption id="attachment\_4691" align="aligncenter" width="333" caption="One last view of Mulberry road."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello49.jpg "Monticello49")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello49.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello49.jpg "Monticello49")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/08/Monticello49.jpg)</div>
+
 
 I definitely think the house tour is worthwhile, and I think it would have been great to take the African American tour of the grounds as well, getting a bit more insight into the everyday activities that went into maintaining an estate like Monticello and all of Jefferson’s business ventures. You do get a good idea of how it was more than just a family home at these estates. It was essentially a small town to itself—a small town with a great view that was ran by one of America’s brightest minds and statesmen. I think it’s worth the $24 for any fan of American history.
 

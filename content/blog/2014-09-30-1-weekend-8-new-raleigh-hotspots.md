@@ -1,7 +1,7 @@
 ---
 title: "1 Weekend, 8 New Raleigh Hotspots"
 date: "2014-09-30"
-categories: 
+categories:
   - "bakeries"
   - "bars-and-tasting-rooms"
   - "bars-in-raleigh-nc"
@@ -11,7 +11,7 @@ categories:
   - "raleigh-restaurant-reviews"
   - "ice-cream-bakery-food-truck"
   - "restaurants"
-tags: 
+tags:
   - "ashley-christiansen"
   - "bar"
   - "boulted-bread"
@@ -42,7 +42,13 @@ tags:
 
 Last summer, the husband and I moved away from the Research Triangle Park area of North Carolina after spending eight years watching the cities expand and their food scenes skyrocket off the heat-charts. Seriously, _the New York Times_ is obsessed with the place! So I was excited to head back for the weekend in mid-September—my head’s still spinning from the other side of the country over all the new foodie destinations that have sprung up just this past year.
 
-\[caption id="attachment\_8847" align="aligncenter" width="500"\][![Downtown Raleigh](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/2014_Raleigh_029-500x332.jpg)](http://www.thegourmez.com/2014/09/1-weekend-8-new-raleigh-hotspots/2014_raleigh_029/) Downtown Raleigh\[/caption\]
+
+
+
+<div class="caption">
+
+[![Downtown Raleigh](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/2014_Raleigh_029-500x332.jpg)](http://www.thegourmez.com/2014/09/1-weekend-8-new-raleigh-hotspots/2014_raleigh_029/) Downtown Raleigh</div>
+
 
 While my husband gave a presentation at NC DevCon, I decided to spend my weekend exploring as many of downtown Raleigh’s newly opened spots as possible. Why Raleigh and not the rest of the Triangle? I had no car and was staying downtown. It’s that simple. I needed to focus on places I could walk to.
 
@@ -98,11 +104,23 @@ Breaking out the fork and knife for a sandwich is always a disappointing last re
 
 That weekend also happened to be the same one as [SPARKCon](http://www.sparkcon.com/), which was certainly fortuitous for me!
 
-\[caption id="attachment\_8839" align="aligncenter" width="263"\][![The SPARKCon mascot](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/2014_Raleigh_021-263x500.jpg)](http://www.thegourmez.com/2014/09/1-weekend-8-new-raleigh-hotspots/2014_raleigh_021/) The SPARKCon mascot\[/caption\]
+
+
+
+<div class="caption">
+
+[![The SPARKCon mascot](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/2014_Raleigh_021-263x500.jpg)](http://www.thegourmez.com/2014/09/1-weekend-8-new-raleigh-hotspots/2014_raleigh_021/) The SPARKCon mascot</div>
+
 
 SPARKCon is an annual celebration of creativity in all fields, and I’ve attended it more years than I haven’t over the past decade.
 
-\[caption id="attachment\_8840" align="aligncenter" width="332"\][![There are buses of circus people. What’s not to like?](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/2014_Raleigh_022-332x500.jpg)](http://www.thegourmez.com/2014/09/1-weekend-8-new-raleigh-hotspots/2014_raleigh_022/) There are buses of circus people. What’s not to like?\[/caption\]
+
+
+
+<div class="caption">
+
+[![There are buses of circus people. What’s not to like?](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/2014_Raleigh_022-332x500.jpg)](http://www.thegourmez.com/2014/09/1-weekend-8-new-raleigh-hotspots/2014_raleigh_022/) There are buses of circus people. What’s not to like?</div>
+
 
 I let SPARKCon guide me to my next new hotspot, [Common 414](http://www.common414.com/) (414 Fayetteville St.), a fancy cocktail joint going for a mid-century jazz club feel with sleek furniture and sleeker drinks.
 
@@ -126,7 +144,13 @@ That entrance full of shiny glass shards is quite appealing, and the dimly lit i
 
 I can also heartily recommend Garland’s small plates, a great idea for grabbing a bite before catching a show next door, which is what I was about to do. What could have been a simple side dish of roasted green beans was taken to the next level with crispy shoestring eggplants strips, a heap of watercress, and a light sumac and minted lebnah dressing.
 
-\[caption id="attachment\_8838" align="aligncenter" width="500"\][![The picture does it no justice.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/2014_Raleigh_020-500x408.jpg)](http://www.thegourmez.com/2014/09/1-weekend-8-new-raleigh-hotspots/2014_raleigh_020/) The picture does it no justice.\[/caption\]
+
+
+
+<div class="caption">
+
+[![The picture does it no justice.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/2014_Raleigh_020-500x408.jpg)](http://www.thegourmez.com/2014/09/1-weekend-8-new-raleigh-hotspots/2014_raleigh_020/) The picture does it no justice.</div>
+
 
 Sunday, my thoughts turned toward nonalcoholic beverages, and [Café de los Muertes](http://www.cafemuertos.com/) (300 W. Hargett St) proved to be just as impressive as all my Raleigh friends’ Instagram photos had shown.
 

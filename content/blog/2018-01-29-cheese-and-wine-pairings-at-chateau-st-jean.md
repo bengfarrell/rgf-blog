@@ -1,10 +1,10 @@
 ---
 title: "Cheese and Wine Pairings at Chateau St. Jean"
 date: "2018-01-29"
-categories: 
+categories:
   - "bars-and-tasting-rooms"
   - "tasting-rooms-in-sonoma-ca"
-tags: 
+tags:
   - "chateau-st-jean"
   - "cheese"
   - "pairings"
@@ -16,7 +16,13 @@ tags:
 
 [![Chateau St. Jean winery sonoma](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-036-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-036.jpg)As part of a Wine Bloggers Conference pre-excursion in November, I had been scheduled to taste and tour Chateau St. Jean. Understandably, [Treasury Wine Estates](https://www.tweglobal.com/), which owns Chateau St. Jean,  subbed in another of their amazing wineries for that adventure – Stags’ Leap – as the chateau was not ready for guests quite yet. I’ll be writing about [Stags’ Leap](http://www.stagsleap.com/) and [Etude winery](http://www.etudewines.com/) in another post, so look for that. But I was impressed when Treasury Wine Estate’s representatives offered us the option to come back to Chateau St. Jean for a complimentary tasting when it reopened to the public. I am not one to let such an opportunity pass when I live just over an hour away from Sonoma.
 
-\[caption id="attachment\_28084" align="aligncenter" width="500"\][![Chateau St. Jean winery sonoma tree vineyards](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-028-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-028.jpg) Looking toward the road from the grounds.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Chateau St. Jean winery sonoma tree vineyards](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-028-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-028.jpg) Looking toward the road from the grounds.</div>
+
 
 As food, drink, and travel is my beat, I asked to try Chateau St. Jean’s wine and cheese pairing, which at $35, is a pretty good deal for the area, especially at a winery of this caliber. Chateau St. Jean is most known for their Cinq Cepage Bordeaux blend, and I was delighted to see it would be included in this experience. But my visit began walking past the beautiful courtyard garden of Chateau St. Jean’s main grounds.
 
@@ -28,7 +34,13 @@ As food, drink, and travel is my beat, I asked to try Chateau St. Jean’s wine 
 
 Visitors first check-in at the tasting room directly opposite, but the moment they walk through the chateau’s stately doors, the smell of wood envelops guests and the rooms it panels. The chateau was the vacation home of the Goff family, the property’s original owners, and it dates back to the 1920s.
 
-\[caption id="attachment\_28082" align="aligncenter" width="333"\][![Chateau St. Jean winery sonoma](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-021-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-021.jpg) Entering the chateau.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Chateau St. Jean winery sonoma](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-021-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-021.jpg) Entering the chateau.</div>
+
 
 My host, Geoff, introduced himself as a lover of history, and I have no doubt he can tell you a great deal about much of wine country’s past; he knows a great deal about Chateau St. Jean’s although he hasn’t been working there all that long. He brought me to a wonderfully sunny parlor set up for the day’s tastings.
 
@@ -36,7 +48,13 @@ My host, Geoff, introduced himself as a lover of history, and I have no doubt he
 
 [![Chateau St. Jean winery sonoma cheese plate](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-007-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-007.jpg)I fell in love with two of the featured wines, though neither of them are considered the best that Chateau St. Jean produces – I’m a wild card that way. 😉 The first was the first wine on the pairing menu: the **Chateau St. Jean 2014 Sonoma Country Reserve Chardonnay** ($50, 5/5).
 
-\[caption id="attachment\_28075" align="aligncenter" width="500"\][![Chateau St. Jean winery sonoma cheese tasting](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-005-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-005.jpg) Chardonnay pictured second from the left.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Chateau St. Jean winery sonoma cheese tasting](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-005-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-005.jpg) Chardonnay pictured second from the left.</div>
+
 
 Its acidity tingled the tongue. The chardonnay presented a balanced combination of broth, cream, and butter notes, subtle yet savory. Lobster bisque sprang to mind as a potentially luminous pairing, though the [Villa Cheese Co.’s](http://www.vellacheese.com/) Mezzo Secco cow’s milk dry jack cheese did very well, cutting through the wine’s cream with the sharpest jack flavor I’ve ever tasted. Geoff informed me that the Mezzo Secco was originally made during World War II for soldiers to take overseas, and the company brought it back in the early 2000s.
 
@@ -52,11 +70,23 @@ The final pairing was the second-most impressive of the evening: the **2014 St. 
 
 Sadly, there is not likely to be a 2017 vintage of cabernet franc at Chateau St. Jean, as those vines were the only ones still unharvested when the fire came through.
 
-\[caption id="attachment\_28085" align="aligncenter" width="900"\][![Chateau St. Jean winery sonoma fire damage](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-030-1024x358.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-030.jpg) The chateau against the burned hillside.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Chateau St. Jean winery sonoma fire damage](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-030-1024x358.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-030.jpg) The chateau against the burned hillside.</div>
+
 
 This last fall was the 37th harvest of winemaker Margo Van Staaveren’s career, and it’ll be one of the most challenging for blending the Cinq Cepage as well, as cabernet franc is usually included. But I have no doubt she’ll conjure something beautiful out of those ashes, as her skill is evident in each of the wines I tasted this day.
 
-\[caption id="attachment\_28088" align="aligncenter" width="500"\][![Chateau St. Jean winery sonoma](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-037-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-037.jpg) Plus, the view is rather inspiring.\[/caption\]
+
+
+
+<div class="caption">
+
+[![Chateau St. Jean winery sonoma](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-037-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Chateau-St-John-037.jpg) Plus, the view is rather inspiring.</div>
+
 
 In addition to the wine and cheese pairings, Chateau St. Jean offers general tastings ($15, and open to walk-ins), reserve tastings ($25; the **2014 Reserve Pinot Noir** is a breezy, celebratory toast to bright fruit), and personally tailored tastings ($50). Reservations are required for most and recommended for all. This time of the year, the winery was not crowded, but don’t expect that to last into spring.
 

@@ -1,13 +1,13 @@
 ---
 title: "The Sustainable Classroom #3: The Cultivation and Culinary Possibilities of Figs"
 date: "2012-12-14"
-categories: 
+categories:
   - "events"
   - "zinfandel"
   - "chapel-hill-north-carolina-travel"
   - "travel-product-review"
   - "wine"
-tags: 
+tags:
   - "2012"
   - "american-studies"
   - "bernie-hermin"
@@ -41,13 +41,31 @@ tags:
 
 For my third session at [the Sustainable Classroom](http://www.terravitaevent.com/TerraVITA/SessionDescrip.html) as part of my bloggers’ free pass to [TerraVITA 2012](http://www.terravitaevent.com/TerraVITA/SessionDescrip.html), I chose to take a class on figs and wine pairings. My reasoning was simple. I adore figs. I adore wine. I often think of figs when drinking an especially rich wine. So it was a match made in heaven for me.
 
-\[caption id="attachment\_5308" align="aligncenter" width="500" caption="Part of our five wine selections."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012136.jpg "TerraVita2012136")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012136.jpg)\[/caption\]
 
-\[caption id="attachment\_5309" align="aligncenter" width="500" caption="Chopped pickled figs."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012137.jpg "TerraVita2012137")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012137.jpg)\[/caption\]
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012136.jpg "TerraVita2012136")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012136.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012137.jpg "TerraVita2012137")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012137.jpg)</div>
+
 
 Our guides on this culinary journey were Mary Margaret McCamic, wine instructor at the Chef’s Academy and owner of [the Clever Vine](http://clevervine.wordpress.com/); Sherry Stolfo, lead pastry instructor at [the Chef’s Academy](http://info.thechefsacademy.com/?utm_source=Google&utm_medium=CPC&utm_campaign=Branding&gclid=CKHJ772sibQCFQ3nnAodGhMAdQ); and Bernie Hermin, [professor of American studies](http://amerstud.unc.edu/people-pages/bernard-herman/) at UNC Chapel Hill.
 
-\[caption id="attachment\_5317" align="aligncenter" width="500" caption="Bernie, Mary, and Sherry from left to right."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012145.jpg "TerraVita2012145")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012145.jpg)\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012145.jpg "TerraVita2012145")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012145.jpg)</div>
+
 
 Once again, we were in the [TOPO distillery](http://topodistillery.com/), which worked quite well as an event space. Bernie started us off by revealing his interest in fig folklore. He began studying figs as part of investigating ways in which low literacy and income areas of the South could generate a better economy, and he learned that unknown Southern dishes are plentiful in such areas, and many use the fig. Focusing in on them could yield a tasty new area of economic stimulus. As part of this research, Bernie now has a grove of different fig cuttings from the region.
 
@@ -75,9 +93,21 @@ The first, caramelized figs with gorgonzola, basil, and a balsamic glaze, came f
 
 After savory comes the sweet.
 
-\[caption id="attachment\_5307" align="aligncenter" width="500" caption="The complete fig tart"\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012135.jpg "TerraVita2012135")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012135.jpg)\[/caption\]
 
-\[caption id="attachment\_5318" align="aligncenter" width="500" caption="Slice of the tart with the spice cake."\][![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012146.jpg "TerraVita2012146")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012146.jpg)\[/caption\]
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012135.jpg "TerraVita2012135")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012135.jpg)</div>
+
+
+
+
+
+<div class="caption">
+
+[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012146.jpg "TerraVita2012146")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012146.jpg)</div>
+
 
 The fig and lemon cream cheese tart was delightful with the NV Graham Beck “Bliss” Demi Sec sparkling wine from South Africa. Mary chose it so the bubbles would freshen our palates, and she was right. They helped move the buttery elements of the tart to prominence, leaving the fig in their wake. The dried fig and walnut spice crumb cake was drier than I like, so I found the sweetness of the Cesar Florido Moscatel Pasas sherry from Spain essential to its enjoyment.
 

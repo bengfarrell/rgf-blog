@@ -1,10 +1,10 @@
 ---
 title: "Enoteca Vin (Glenwood South, Raleigh) *CLOSED*"
 date: "2007-04-27"
-categories: 
+categories:
   - "raleigh-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "enoteca-vin"
   - "glenwood-south"
   - "raleigh-restaurants"
@@ -22,4 +22,10 @@ I had grilled salmon with a dill cream potato salad and green beans for the entr
 
 The waitstaff was very helpful and available but I wasn't enthused with the space and only some of the meal impressed. I'll give it another try to test out the small plates but won't feel inspired to go for awhile.
 
-\[caption id="attachment\_55" align="alignleft" width="40"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+

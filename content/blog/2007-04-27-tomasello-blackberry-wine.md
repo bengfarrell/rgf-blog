@@ -1,9 +1,9 @@
 ---
 title: "Tomasello Blackberry Wine"
 date: "2007-04-27"
-categories: 
+categories:
   - "dessert-wine-reviews"
-tags: 
+tags:
   - "blackberry-wine"
   - "tomasello"
 ---
@@ -14,4 +14,10 @@ This wine is packed full of flavor. It has a syrupy smell of molasses and, stran
 
 This wine has polarity; it intrigues and repulses at the same time.
 
-\[caption id="attachment\_193" align="alignleft" width="40"\]![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1") 1 star\[/caption\]
+
+
+
+<div class="caption">
+
+![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
+

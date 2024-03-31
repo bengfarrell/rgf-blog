@@ -1,10 +1,10 @@
 ---
 title: "Tonali (Durham) -- Restaurant Review"
 date: "2010-01-13"
-categories: 
+categories:
   - "durham-restaurant-reviews"
   - "restaurants"
-tags: 
+tags:
   - "chicken-mole"
   - "durham-mexican-restaurant"
   - "gourmet-mexican"
@@ -50,6 +50,12 @@ This was every bit as large as the jarritos cocktail, which is to say huge! I as
 
 So the pork tacos were divine, jarritos cocktail great, and the atmosphere a nice change from standard Mexican joints, but the main dish and margarita simply didn't impress me that much.  When averaging these things together, it was good, but not great.
 
-\[caption id="attachment\_55" align="aligncenter" width="40" caption="2 stars"\]![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")\[/caption\]
+
+
+
+<div class="caption">
+
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+
 
 _Reviewed 1.1.10._

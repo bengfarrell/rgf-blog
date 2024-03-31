@@ -1,10 +1,10 @@
 ---
 title: "Zestos Blancos 2009"
 date: "2010-12-01"
-categories: 
+categories:
   - "malvar"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2009"
   - "blancos"
   - "cider"
@@ -21,7 +21,13 @@ tags:
 
 There is some limestone at first, followed with green apple notes galore. It’s dry but also pretty sweet. It’s a lot like a tart cider, really. I’d call it an okay, solid white that doesn’t have any character beyond quenching thirst. 100% Malvar, if you’re keeping track of the grape.
 
-\[caption id="attachment\_55" align="aligncenter" width="40"\][![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 2 stars\[/caption\]
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 2 stars</div>
+
 
 Other Bloggers’ Thoughts:
 
