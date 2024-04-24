@@ -41,7 +41,10 @@ html {
 }
 
 section {
-	padding: 5em;
+	padding-top: 2.5em;
+	padding-left: 2.5em;
+	padding-right: 2.5em;
+	padding-bottom: 0;
 }
 
 #page-container {

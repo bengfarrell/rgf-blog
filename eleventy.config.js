@@ -53,6 +53,13 @@ module.exports = function(eleventyConfig) {
 		return 'default';
 	});
 
+	eleventyConfig.addFilter("filterByTags", function(collection=[], ...requiredTags) {
+		return collection.filter(post => {
+		  return requiredTags.flat().every(tag => post.data.tags.includes(tag));
+		});
+	  });
+
+
 	eleventyConfig.addFilter("filterByCommonCategories", function(collection = [], ...requiredCategories) {
 		const filtered = collection.filter(post => {
 			return haveCommonItems(post.data.categories, requiredCategories.flat());

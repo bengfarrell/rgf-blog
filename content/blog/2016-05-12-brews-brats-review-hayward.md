@@ -1,5 +1,5 @@
 ---
-title: "Brews &amp; Brats"
+title: "Brews & Brats"
 date: "2016-05-12"
 categories: 
   - "hayward-restaurant-reviews"

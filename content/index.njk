@@ -46,9 +46,28 @@ numberOfLatestPostsToShow: 4
 
 <section>
 <h1><a href="/blog/">Posts By City</a></h1>
-{% set postsCount = collections.posts | filterByCommonCategories(['hayward-restaurant-reviews', 'oakland-restaurant-reviews', 'san-francisco-restaurant-review', 'berkeley-restaurant-review']) | length %}
-{% set postslist = collections.posts | filterByCommonCategories(['hayward-restaurant-reviews', 'oakland-restaurant-reviews', 'san-francisco-restaurant-review', 'berkeley-restaurant-review']) | head(-1 * numberOfLatestPostsToShow) %}
-{% include "postslist.njk" %}
+
+<ol reversed class="postlist">
+{% set postsCount = collections.posts | filterByTags(['hayward']) | length %}
+{% set postslist = collections.posts | filterByTags(['hayward']) | head(-1) %}
+{% set city = 'Hayward' %}
+{% include "city-postslist.njk" %}
+
+{% set postsCount = collections.posts | filterByTags(['oakland']) | length %}
+{% set postslist = collections.posts | filterByTags(['oakland']) | head(-1) %}
+{% set city = 'Oakland' %}
+{% include "city-postslist.njk" %}
+
+{% set postsCount = collections.posts | filterByTags(['san-francisco']) | length %}
+{% set postslist = collections.posts | filterByTags(['san-francisco']) | head(-1) %}
+{% set city = 'San Francisco' %}
+{% include "city-postslist.njk" %}
+
+{% set postsCount = collections.posts | filterByTags(['berkeley']) | length %}
+{% set postslist = collections.posts | filterByTags(['berkeley']) | head(-1) %}
+{% set city = 'Berkeley' %}
+{% include "city-postslist.njk" %}
+</ol>
 </section>
 
 {%- css %}{% include "public/css/message-box.css" %}{% endcss %}
