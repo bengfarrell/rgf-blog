@@ -2,7 +2,7 @@
 title: "The Floridita at Cuban Revolution"
 date: "2011-07-28"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "vermouth"
 tags: 

@@ -2,7 +2,7 @@
 title: "A Foodie Day Trip to Sonoma"
 date: "2014-01-23"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "dining-in-sonoma"
   - "restaurants"
   - "tasting-rooms-in-sonoma-ca"

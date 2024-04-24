@@ -2,7 +2,7 @@
 title: "Carolina Crossroads"
 date: "2011-08-03"
 categories: 
-  - "dining-in-chapel-hill-nc"
+  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "carolina-crossroads"

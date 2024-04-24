@@ -2,7 +2,7 @@
 title: "Mango Bellini @ Nantucket Grill"
 date: "2011-12-12"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "spirits"
 tags: 

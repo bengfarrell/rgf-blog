@@ -2,7 +2,7 @@
 title: "Yorkshire Hathaway @ Beyu Caffe"
 date: "2010-09-08"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "beyu-caffe"

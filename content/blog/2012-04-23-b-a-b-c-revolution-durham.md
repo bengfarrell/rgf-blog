@@ -2,7 +2,7 @@
 title: "b. a. b. c. @ Revolution"
 date: "2012-04-23"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "bourbon"
 tags: 

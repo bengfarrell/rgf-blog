@@ -2,7 +2,7 @@
 title: "30 Years of the Lodi Winegrape Commission"
 date: "2021-08-05"
 categories:
-  - "aglianico"
+  - "wine"
   - "events"
   - "grenache-blanc"
   - "petit-verdot"

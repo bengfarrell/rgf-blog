@@ -2,7 +2,7 @@
 title: "Modern Paloma @ Rockfish Grill *CLOSED*"
 date: "2011-01-07"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "tequila"
 tags: 

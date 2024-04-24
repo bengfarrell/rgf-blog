@@ -2,8 +2,8 @@
 title: "Specialty Cocktails at Albany’s Ivy Room"
 date: "2016-10-06"
 categories: 
-  - "bars-and-tasting-rooms"
-  - "bars-in-albany"
+  - "bars"
+  - "bars"
   - "tequila"
 tags: 
   - "bars"

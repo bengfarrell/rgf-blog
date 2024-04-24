@@ -2,7 +2,7 @@
 title: "Golden Era @ Foundation"
 date: "2011-12-30"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
   - "cider"
 tags: 

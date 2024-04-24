@@ -2,8 +2,8 @@
 title: "The Flying Saucer Draught Emporium--Downtown Raleigh, NC"
 date: "2009-02-19"
 categories:
-  - "barley-wine"
-  - "bars-and-tasting-rooms"
+  
+  - "bars"
   - "breweries-in-raleigh-nc"
   - "raleigh-restaurant-reviews"
   - "restaurants"

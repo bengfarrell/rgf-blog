@@ -3,7 +3,7 @@ title: "1 Weekend, 8 New Raleigh Hotspots"
 date: "2014-09-30"
 categories:
   - "bakeries"
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
   - "breweries-in-raleigh-nc"
   - "coffee-shop"

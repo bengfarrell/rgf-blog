@@ -2,7 +2,7 @@
 title: "Take a Virtual Tour of Oakland's the Hive in time for Firebrand's Grand Opening!"
 date: "2015-11-20"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-oakland"
   - "breweries-in-oakland-ca"
   - "coffee-shop"

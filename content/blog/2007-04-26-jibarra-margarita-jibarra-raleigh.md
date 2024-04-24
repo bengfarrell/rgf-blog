@@ -2,7 +2,7 @@
 title: "Jibarra Margarita (Jibarra, Raleigh)"
 date: "2007-04-26"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
 tags:
   - "jibarra"

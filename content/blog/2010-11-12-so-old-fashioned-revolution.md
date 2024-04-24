@@ -2,7 +2,7 @@
 title: "So Old Fashioned @ Revolution"
 date: "2010-11-12"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "spirits"
 tags:

@@ -2,7 +2,7 @@
 title: "Hibachi Sushi"
 date: "2012-03-13"
 categories: 
-  - "dining-in-chapel-hill-nc"
+  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "affordable"

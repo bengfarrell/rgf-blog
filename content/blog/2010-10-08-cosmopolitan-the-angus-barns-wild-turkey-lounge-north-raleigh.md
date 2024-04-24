@@ -2,7 +2,7 @@
 title: "Cosmopolitan @ the Angus Barn's Wild Turkey Lounge"
 date: "2010-10-08"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
 tags:
   - "angus-barn"

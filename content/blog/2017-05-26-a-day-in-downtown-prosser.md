@@ -2,7 +2,7 @@
 title: "A Day in Downtown Prosser"
 date: "2017-05-26"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "breweries-in-prosser-wa"
   - "dining-in-prosser-wa"
   - "restaurants"

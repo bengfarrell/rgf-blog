@@ -2,7 +2,7 @@
 title: "Wine Tasting in the Santa Cruz Mountains"
 date: "2014-03-27"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "tasting-rooms-in-the-santa-cruz-mountains"
   - "santa-cruz-travel"
   - "wine"

@@ -2,8 +2,8 @@
 title: "Tico Fresco at Aloft WXZY Lounge"
 date: "2012-07-11"
 categories: 
-  - "bars-and-tasting-rooms"
-  - "bars-in-chapel-hill-nc"
+  - "bars"
+  - "bars-chapel-hill-nc"
 tags: 
   - "aloft-hotels"
   - "chapel-hill"

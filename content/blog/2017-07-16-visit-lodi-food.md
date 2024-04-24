@@ -2,7 +2,7 @@
 title: "Visit Lodi for…Food Worth Finding!"
 date: "2017-07-16"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "dining-in-lodi-ca"
   - "restaurants"
   - "tasting-rooms-in-lodi-ca"

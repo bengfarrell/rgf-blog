@@ -2,8 +2,8 @@
 title: "Yo La Mango (Lantern, Chapel Hill)"
 date: "2007-04-27"
 categories:
-  - "bars-and-tasting-rooms"
-  - "bars-in-chapel-hill-nc"
+  - "bars"
+  - "bars-chapel-hill-nc"
   - "sake"
   - "vodka"
 tags:

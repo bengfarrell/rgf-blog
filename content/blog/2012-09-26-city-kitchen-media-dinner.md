@@ -2,7 +2,7 @@
 title: "City Kitchen Media Dinner"
 date: "2012-09-26"
 categories:
-  - "dining-in-chapel-hill-nc"
+  - "dining-chapel-hill-nc"
   - "events"
   - "restaurants"
 tags:

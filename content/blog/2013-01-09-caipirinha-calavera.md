@@ -2,7 +2,7 @@
 title: "Caipirinha @ Calavera"
 date: "2013-01-09"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
 tags: 
   - "brazil"

@@ -2,8 +2,8 @@
 title: "Mint Sidecar (Elaine's on Franklin, Chapel Hill)"
 date: "2007-04-27"
 categories:
-  - "bars-and-tasting-rooms"
-  - "bars-in-chapel-hill-nc"
+  - "bars"
+  - "bars-chapel-hill-nc"
 tags:
   - "chapel-hill-cocktails"
   - "elaines-on-franklin"

@@ -2,7 +2,7 @@
 title: "Restaurant and Cocktail Review--Papa Mojo's Roadhouse, Brunch"
 date: "2009-08-18"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "durham-restaurant-reviews"
   - "restaurants"

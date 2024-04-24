@@ -2,7 +2,7 @@
 title: "Stags' Leap and Etude Wineries: Two Treasury Wine Estate Jewels"
 date: "2018-06-06"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "brandy"
   - "chardonnay"
   - "dining-in-sonoma"

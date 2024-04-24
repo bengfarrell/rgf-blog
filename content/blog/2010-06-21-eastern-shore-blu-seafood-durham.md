@@ -2,7 +2,7 @@
 title: "Eastern Shore @ Blu Seafood (Durham)"
 date: "2010-06-21"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "blu-seafood-and-bar"

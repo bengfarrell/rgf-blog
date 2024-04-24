@@ -2,7 +2,7 @@
 title: "Sonoma County Small-Lot Wineries with Big-Time Backgrounds"
 date: "2019-08-06"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "other-red-blends"
   - "other-sparkling-wine-types"
   - "white-wine-blends"

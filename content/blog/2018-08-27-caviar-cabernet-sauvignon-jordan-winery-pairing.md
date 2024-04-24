@@ -2,7 +2,7 @@
 title: "Caviar &amp; Cabernet Sauvignon: Jordan Winery's elegant pairing experiences"
 date: "2018-08-27"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "cabernet-sauvignon"
   - "champagne"
   - "chardonnay"

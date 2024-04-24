@@ -2,7 +2,7 @@
 title: "Mexicano Mojito at Bandido's"
 date: "2011-08-16"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags: 
   - "151-rum"

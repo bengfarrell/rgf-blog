@@ -2,7 +2,7 @@
 title: "Cocktail Review--Caipirinha, Mez"
 date: "2009-04-25"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "caipirinha"

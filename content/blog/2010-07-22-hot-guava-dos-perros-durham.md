@@ -2,7 +2,7 @@
 title: "Hot Guava (Dos Perros, Durham)"
 date: "2010-07-22"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "tequila"
 tags:

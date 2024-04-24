@@ -2,7 +2,7 @@
 title: "Sangriatini (Four Square, Durham)"
 date: "2007-04-26"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "durham-cocktails"

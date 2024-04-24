@@ -2,7 +2,7 @@
 title: "Tasting along Northern Sonoma County's Wine Road"
 date: "2018-05-03"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "cabernet-sauvignon"
   - "chardonnay"
   - "dessert-wine-reviews"

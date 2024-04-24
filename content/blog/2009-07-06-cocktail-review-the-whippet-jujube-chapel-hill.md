@@ -2,8 +2,8 @@
 title: "Cocktail Review--The Whippet, Jujube, Chapel Hill"
 date: "2009-07-06"
 categories:
-  - "bars-and-tasting-rooms"
-  - "bars-in-chapel-hill-nc"
+  - "bars"
+  - "bars-chapel-hill-nc"
   - "cava"
 tags:
   - "finlandia-grapfruit-vodka"

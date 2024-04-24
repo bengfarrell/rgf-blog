@@ -2,7 +2,7 @@
 title: "A Winter Wineland Field Guide for Field Blends"
 date: "2019-01-08"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "dining-in-healdsburg"
   - "dolcetto"
   - "other-red-blends"

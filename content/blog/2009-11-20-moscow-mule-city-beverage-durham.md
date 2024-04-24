@@ -2,7 +2,7 @@
 title: "Moscow Mule @ City Beverage (Durham)"
 date: "2009-11-20"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "city-beverage-durham"

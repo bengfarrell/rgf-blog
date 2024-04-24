@@ -2,7 +2,7 @@
 title: "A Visit to Bella Grace Vineyards"
 date: "2016-10-10"
 categories:
-  - "barbera"
+  - "wine"
   - "grenache-blanc"
   - "red-wine-review"
   - "roussanne"

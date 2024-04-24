@@ -2,10 +2,10 @@
 title: "Absinthia Blanche"
 date: "2019-03-26"
 categories:
-  - "absinthe"
+  - "spirits"
   - "spirits"
 tags:
-  - "absinthe"
+  - "spirits"
   - "absinthe-blanche"
   - "absinthia"
   - "bay-area"

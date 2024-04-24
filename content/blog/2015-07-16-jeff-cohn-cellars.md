@@ -2,7 +2,7 @@
 title: "Jeff Cohn Cellars - *MOVED to Napa*"
 date: "2015-07-16"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "cabernet-sauvignon"
   - "gsm-rose"
   - "pinot-noir"

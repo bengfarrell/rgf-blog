@@ -2,7 +2,7 @@
 title: "Cocktails and Other Night Sights in New Orleans"
 date: "2013-02-20"
 categories:
-  - "absinthe"
+  - "spirits"
   - "new-orleans-bar-review"
   - "new-orleans-travel"
 tags:

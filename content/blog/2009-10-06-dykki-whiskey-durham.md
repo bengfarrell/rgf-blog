@@ -2,8 +2,8 @@
 title: "Dykki @ Whiskey (Durham)"
 date: "2009-10-06"
 categories:
-  - "absinthe"
-  - "bars-and-tasting-rooms"
+  - "spirits"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "cocktail-review"

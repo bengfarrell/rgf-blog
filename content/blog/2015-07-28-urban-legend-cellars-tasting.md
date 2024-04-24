@@ -2,8 +2,8 @@
 title: "Urban Legend Cellars Tasting"
 date: "2015-07-28"
 categories: 
-  - "barbera"
-  - "bars-and-tasting-rooms"
+  - "wine"
+  - "tasting-rooms"
   - "chardonnay"
   - "red-wine-review"
   - "tasting-rooms-in-oakland-ca"

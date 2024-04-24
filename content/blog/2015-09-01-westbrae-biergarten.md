@@ -2,7 +2,7 @@
 title: "Westbrae Biergarten"
 date: "2015-09-01"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-berkeley-ca"
   - "cider"
   - "berkeley-restaurant-review"

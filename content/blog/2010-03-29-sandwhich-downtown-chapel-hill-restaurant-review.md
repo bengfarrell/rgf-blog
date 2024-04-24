@@ -2,7 +2,7 @@
 title: "Sandwhich @ Downtown Chapel Hill---Restaurant Review"
 date: "2010-03-29"
 categories: 
-  - "dining-in-chapel-hill-nc"
+  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "bmt"

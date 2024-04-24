@@ -2,7 +2,7 @@
 title: "Vimala's Curryblossom Cafe"
 date: "2011-01-11"
 categories:
-  - "dining-in-chapel-hill-nc"
+  - "dining-chapel-hill-nc"
   - "restaurants"
 tags:
   - "chapel-hill"

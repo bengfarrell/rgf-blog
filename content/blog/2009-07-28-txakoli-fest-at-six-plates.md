@@ -2,7 +2,7 @@
 title: "Txakoli Fest at Six Plates"
 date: "2009-07-28"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "restaurants"
   - "tasting-rooms-in-durham-nc"
   - "txakoli-cider"

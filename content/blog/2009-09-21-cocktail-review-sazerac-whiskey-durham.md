@@ -2,8 +2,8 @@
 title: "Cocktail Review--Sazerac @ Whiskey (Durham)"
 date: "2009-09-21"
 categories:
-  - "absinthe"
-  - "bars-and-tasting-rooms"
+  - "spirits"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "absinthe-rim"

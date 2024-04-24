@@ -2,7 +2,7 @@
 title: "Vinos Finos y Picadas"
 date: "2011-05-17"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "wine-bars"
   - "malbec"
   - "tasting-rooms-in-raleigh-nc"
 tags: 

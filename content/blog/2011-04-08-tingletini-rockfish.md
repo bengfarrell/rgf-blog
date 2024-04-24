@@ -2,7 +2,7 @@
 title: "Tingletini @ Rockfish *CLOSED*"
 date: "2011-04-08"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "vodka"
 tags: 

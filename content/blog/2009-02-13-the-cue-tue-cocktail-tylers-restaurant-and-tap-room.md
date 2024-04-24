@@ -2,8 +2,8 @@
 title: "The Cue-Tue Cocktail, Tyler's Restaurant and Tap Room"
 date: "2009-02-13"
 categories:
-  - "bars-and-tasting-rooms"
-  - "watering-holes-in-carrboro-nc"
+  - "bars"
+  - "bars"
   - "restaurants"
   - "spirits"
 tags:

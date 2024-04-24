@@ -2,7 +2,7 @@
 title: "Margarita @ Torero's (Durham) -- Cocktail Review"
 date: "2009-12-19"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "cocktail-review"

@@ -2,7 +2,7 @@
 title: "El Capital @ Dos Perros"
 date: "2011-01-04"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "tequila"
   - "vermouth"

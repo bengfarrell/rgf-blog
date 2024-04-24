@@ -2,7 +2,7 @@
 title: "Vieux Pontarlier Absinthe Française Superiéure"
 date: "2015-10-23"
 categories: 
-  - "absinthe"
+  - "spirits"
 tags: 
   - "absinthe-superieure"
   - "drink-up-ny"

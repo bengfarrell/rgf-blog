@@ -2,8 +2,8 @@
 title: "LA Kiwi @ W XYZ Lounge (Chapel Hill)"
 date: "2010-05-28"
 categories:
-  - "bars-and-tasting-rooms"
-  - "bars-in-chapel-hill-nc"
+  - "bars"
+  - "bars-chapel-hill-nc"
 tags:
   - "aloft-hotel"
   - "cachaca"

@@ -2,8 +2,8 @@
 title: "Absente Minded @ Posta Tuscan Grille"
 date: "2010-08-31"
 categories:
-  - "absinthe"
-  - "bars-and-tasting-rooms"
+  - "spirits"
+  - "bars"
   - "bars-in-raleigh-nc"
 tags:
   - "absente-minded"

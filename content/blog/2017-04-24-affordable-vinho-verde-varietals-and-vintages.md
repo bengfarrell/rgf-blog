@@ -2,7 +2,7 @@
 title: "Affordable Vinho Verde Varietals and Vintages"
 date: "2017-04-24"
 categories:
-  - "alvarinho"
+  - "wine"
   - "san-francisco-restaurant-review"
   - "restaurants"
   - "vinho-verde"

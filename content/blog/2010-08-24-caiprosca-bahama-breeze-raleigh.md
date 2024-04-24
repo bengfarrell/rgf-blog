@@ -2,7 +2,7 @@
 title: "Caiprosca @ Bahama Breeze"
 date: "2010-08-24"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
 tags: 
   - "bahama-breeze"

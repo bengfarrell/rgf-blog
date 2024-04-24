@@ -2,7 +2,7 @@
 title: "Drunken Horchata at Dos Perros"
 date: "2011-11-16"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags: 
   - "cocktail-review"

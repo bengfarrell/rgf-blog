@@ -2,7 +2,7 @@
 title: "City Kitchen"
 date: "2012-08-31"
 categories: 
-  - "dining-in-chapel-hill-nc"
+  - "dining-chapel-hill-nc"
   - "restaurants"
   - "tequila"
 tags: 

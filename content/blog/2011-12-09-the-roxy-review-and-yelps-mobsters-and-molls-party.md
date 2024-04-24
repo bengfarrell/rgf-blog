@@ -2,7 +2,7 @@
 title: "The Roxy Review and Yelp's Mobsters and Molls Party"
 date: "2011-12-09"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "events"
   - "spirits"

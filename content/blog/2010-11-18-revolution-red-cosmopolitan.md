@@ -2,7 +2,7 @@
 title: "Revolution Red Cosmopolitan @ Revolution"
 date: "2010-11-18"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags: 
   - "cointreau"

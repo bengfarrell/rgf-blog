@@ -2,8 +2,8 @@
 title: "Pear Melon Daisy (The Big Easy, Raleigh)"
 date: "2007-04-26"
 categories:
-  - "bars-and-tasting-rooms"
-  - "bars-in-chapel-hill-nc"
+  - "bars"
+  - "bars-chapel-hill-nc"
 tags:
   - "pear-melon-daisy"
   - "raleigh-cocktails"

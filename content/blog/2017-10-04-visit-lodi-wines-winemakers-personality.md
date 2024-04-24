@@ -2,7 +2,7 @@
 title: "Visit Lodi for…Wines and Winemakers with Personality!"
 date: "2017-10-04"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "dessert-wine-reviews"
   - "grenache-blanc"
   - "other-rose-blends"

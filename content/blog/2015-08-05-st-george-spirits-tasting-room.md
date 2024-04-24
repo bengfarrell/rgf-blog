@@ -2,8 +2,8 @@
 title: "St. George Spirits Tasting Room"
 date: "2015-08-05"
 categories: 
-  - "absinthe"
-  - "bars-and-tasting-rooms"
+  - "spirits"
+  - "distilleries"
   - "brandy"
   - "distillery"
   - "gin-reviews"

@@ -2,7 +2,7 @@
 title: "The Primo Margarita (Chili's, Durham)"
 date: "2007-04-27"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "chilis"

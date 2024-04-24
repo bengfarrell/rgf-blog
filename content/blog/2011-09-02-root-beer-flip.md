@@ -2,7 +2,7 @@
 title: "Root Beer Flip at Foundation"
 date: "2011-09-02"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
 tags: 
   - "brown-sugar-syrup"

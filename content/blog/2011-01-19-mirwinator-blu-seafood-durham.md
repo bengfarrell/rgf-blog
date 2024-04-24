@@ -2,7 +2,7 @@
 title: "Mirwinator @ Blu Seafood (Durham)"
 date: "2011-01-19"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "bourbon"
 tags: 

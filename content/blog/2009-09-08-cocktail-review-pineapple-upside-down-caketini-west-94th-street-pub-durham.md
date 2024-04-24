@@ -2,7 +2,7 @@
 title: "Cocktail Review--Pineapple Upside-Down Caketini, West 94th Street Pub, Durham"
 date: "2009-09-08"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "durham-cocktails"

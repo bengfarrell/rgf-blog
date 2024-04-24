@@ -2,7 +2,7 @@
 title: "Cilantro Jalapeno Margarita"
 date: "2012-12-26"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
   - "tequila"
 tags: 
