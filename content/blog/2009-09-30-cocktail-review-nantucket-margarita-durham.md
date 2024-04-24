@@ -2,7 +2,7 @@
 title: "Cocktail Review--Nantucket Margarita (Durham)"
 date: "2009-09-30"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "cocktail-reviews"

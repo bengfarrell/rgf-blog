@@ -2,8 +2,8 @@
 title: "Visne Vodka @ Tallulas (Downtown Chapel Hill)"
 date: "2010-08-09"
 categories:
-  - "bars-and-tasting-rooms"
-  - "bars-in-chapel-hill-nc"
+  - "bars"
+  - "bars-chapel-hill-nc"
 tags:
   - "absolut-kurant"
   - "chapel-hill"

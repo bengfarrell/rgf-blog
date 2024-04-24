@@ -2,7 +2,7 @@
 title: "Bodegas LAN Winery: Rioja in Three Letters … and Seven Wines!"
 date: "2019-11-13"
 categories:
-  - "alvarinho"
+  - "wine"
   - "san-francisco-restaurant-review"
   - "red-wine-review"
   - "tempranillo"

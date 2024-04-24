@@ -2,7 +2,7 @@
 title: "The Republic"
 date: "2011-09-05"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "spirits"
 tags: 

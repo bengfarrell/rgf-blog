@@ -2,7 +2,7 @@
 title: "Cocktail Review--Fiesta, Bandido's Mexican Cafe"
 date: "2009-06-18"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "bandidos-mexican-cafe"

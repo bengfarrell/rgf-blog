@@ -2,7 +2,7 @@
 title: "Chai Bar by David Rio Launch Party"
 date: "2015-05-04"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "breweries-in-san-francisco-ca"
   - "coffee-shop"
   - "san-francisco-coffee-shop-reviews"

@@ -2,7 +2,7 @@
 title: "Lemontini @ the Oxford"
 date: "2013-05-24"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
   - "champagne"
 tags: 

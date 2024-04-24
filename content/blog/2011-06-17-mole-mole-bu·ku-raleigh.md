@@ -2,7 +2,7 @@
 title: "Mole-Mole (bu·ku, Raleigh)"
 date: "2011-06-17"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
 tags:
   - "3-olive-chocolate-vodka"

@@ -2,7 +2,7 @@
 title: "The Oakland Urban Wine Tour"
 date: "2017-02-06"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "food-product-review"
   - "red-wine-review"
   - "tasting-rooms-in-oakland-ca"

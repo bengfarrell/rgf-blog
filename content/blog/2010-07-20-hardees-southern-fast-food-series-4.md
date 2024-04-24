@@ -2,7 +2,7 @@
 title: "Hardee's (Southern Fast Food Series #4)"
 date: "2010-07-20"
 categories:
-  - "dining-in-chapel-hill-nc"
+  - "dining-chapel-hill-nc"
   - "restaurants"
 tags:
   - "angus-burger"

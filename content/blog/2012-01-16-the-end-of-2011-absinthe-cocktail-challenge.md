@@ -2,7 +2,7 @@
 title: "The End of 2011 Absinthe Cocktail Challenge"
 date: "2012-01-16"
 categories:
-  - "absinthe"
+  - "spirits"
   - "recipes"
 tags:
   - "2012"

@@ -2,7 +2,7 @@
 title: "Meadow of Love Absinthe Superieure"
 date: "2013-04-19"
 categories: 
-  - "absinthe"
+  - "spirits"
 tags: 
   - "absinthe-fm"
   - "absinthe-superior"

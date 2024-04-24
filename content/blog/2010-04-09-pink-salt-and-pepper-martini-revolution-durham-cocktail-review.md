@@ -2,8 +2,8 @@
 title: "Pink Salt and Pepper Martini (Revolution, Durham)---Cocktail Review"
 date: "2010-04-09"
 categories:
-  - "bars-and-tasting-rooms"
-  - "bars-in-chapel-hill-nc"
+  - "bars"
+  - "bars-chapel-hill-nc"
 tags:
   - "cucumber"
   - "durham"

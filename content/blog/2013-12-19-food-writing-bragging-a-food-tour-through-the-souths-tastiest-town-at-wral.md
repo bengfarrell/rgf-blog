@@ -3,7 +3,7 @@ title: "Food Writing Bragging: A Food Tour Through the South's Tastiest Town at 
 date: "2013-12-19"
 categories:
   - "bakeries"
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "durham-restaurant-reviews"
   - "ice-cream-bakery-food-truck"

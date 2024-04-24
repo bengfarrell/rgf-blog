@@ -2,7 +2,7 @@
 title: "Cocktail Review--The Sting at The Hive, Raleigh"
 date: "2009-08-17"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
 tags:
   - "jalapeno-cocktail"

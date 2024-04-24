@@ -2,7 +2,7 @@
 title: "Bar Lusconi"
 date: "2013-05-01"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "tasting-rooms-in-durham-nc"
   - "wine"
 tags: 

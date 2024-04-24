@@ -2,8 +2,8 @@
 title: "Apple Cider Martini (Acme)"
 date: "2007-04-27"
 categories:
-  - "bars-and-tasting-rooms"
-  - "watering-holes-in-carrboro-nc"
+  - "bars"
+  - "bars"
 tags:
   - "acme"
   - "apple-cider-martini"

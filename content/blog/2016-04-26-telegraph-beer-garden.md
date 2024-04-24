@@ -2,7 +2,7 @@
 title: "Telegraph Beer Garden"
 date: "2016-04-26"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-oakland"
   - "breweries-in-oakland-ca"
   - "oakland-restaurant-reviews"

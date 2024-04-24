@@ -2,7 +2,7 @@
 title: "Cocktail Review--Espresso Martini"
 date: "2009-03-24"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "cocktail-review"

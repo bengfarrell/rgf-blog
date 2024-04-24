@@ -2,7 +2,7 @@
 title: "Touring the Yamhill-Carlton Nesting AVA"
 date: "2021-12-13"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "champagne"
   - "chardonnay"
   - "muller-gruner"
@@ -10,7 +10,7 @@ categories:
   - "pinot-noir"
   - "red-wine-review"
   - "sparkling-wine-review"
-  - "tasting-rooms-in-yamhill-carlton-or"
+  - "tasting-rooms"
   - "wine"
   - "wine-media-conference-2021"
 tags:

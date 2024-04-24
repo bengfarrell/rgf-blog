@@ -2,7 +2,7 @@
 title: "Desert Pear Martini at Firebirds"
 date: "2011-08-25"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags: 
   - "apple"

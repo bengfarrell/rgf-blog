@@ -2,7 +2,7 @@
 title: "Point Break at the Pinhook"
 date: "2011-06-06"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "spirits"
 tags: 

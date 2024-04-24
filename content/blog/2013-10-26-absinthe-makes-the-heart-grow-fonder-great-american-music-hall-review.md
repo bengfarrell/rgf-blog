@@ -2,8 +2,8 @@
 title: "Absinthe Makes the Heart Grow Fonder at the Great American Music Hall"
 date: "2013-10-26"
 categories: 
-  - "absinthe"
-  - "bars-and-tasting-rooms"
+  - "spirits"
+  - "bars"
   - "bars-in-san-francisco"
   - "champagne"
   - "gin-reviews"

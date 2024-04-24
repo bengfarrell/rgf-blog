@@ -2,7 +2,7 @@
 title: "Indian Summer Cocktails and Bar Bites at the Clift Hotel"
 date: "2016-09-06"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-san-francisco"
 tags:
   - "anthony-kim"

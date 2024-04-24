@@ -2,7 +2,7 @@
 title: "Little Fŭk’ər at the Borough"
 date: "2013-03-01"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
   - "bourbon"
 tags: 

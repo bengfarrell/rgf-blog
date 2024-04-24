@@ -2,7 +2,7 @@
 title: "Ridge Distillery Absinthe Blanche"
 date: "2014-02-11"
 categories: 
-  - "absinthe"
+  - "spirits"
 tags: 
   - "absinthe-blanche"
   - "absinthe-fm"

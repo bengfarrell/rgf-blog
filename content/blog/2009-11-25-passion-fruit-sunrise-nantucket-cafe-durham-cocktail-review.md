@@ -2,7 +2,7 @@
 title: "Passion Fruit Sunrise @ Nantucket Cafe (Durham) -- Cocktail Review"
 date: "2009-11-25"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags:
   - "absolut-peach"

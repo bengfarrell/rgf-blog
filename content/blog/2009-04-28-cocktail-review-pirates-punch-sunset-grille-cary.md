@@ -2,7 +2,7 @@
 title: "Cocktail Review--Pirate's Punch, Sunset Grille, Cary"
 date: "2009-04-28"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-cary-nc"
 tags:
   - "amaretto"

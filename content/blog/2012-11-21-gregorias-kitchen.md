@@ -2,7 +2,7 @@
 title: "Gregoria's Kitchen"
 date: "2012-11-21"
 categories: 
-  - "dining-in-chapel-hill-nc"
+  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "chapel-hill-road"

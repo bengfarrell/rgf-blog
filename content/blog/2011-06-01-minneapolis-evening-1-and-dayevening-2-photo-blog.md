@@ -2,7 +2,7 @@
 title: "Minneapolis Evening 1 and Day/Evening 2--Photo Blog"
 date: "2011-06-01"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-minneapolis-mn"
   - "restaurants"
   - "minneapolis-travel"

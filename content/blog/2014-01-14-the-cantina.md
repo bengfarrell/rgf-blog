@@ -2,7 +2,7 @@
 title: "The Cantina"
 date: "2014-01-14"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-san-francisco"
   - "spirits"
 tags: 

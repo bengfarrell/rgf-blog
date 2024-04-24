@@ -2,7 +2,7 @@
 title: "Cocktail Review--Hendrick's in the Garden, The Raleigh Times Bar"
 date: "2009-07-24"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
 tags:
   - "cucumber-cocktails"

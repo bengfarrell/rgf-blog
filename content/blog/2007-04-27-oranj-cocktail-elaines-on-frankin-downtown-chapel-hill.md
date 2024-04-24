@@ -2,8 +2,8 @@
 title: "Oranj Cocktail (Elaine's on Frankin, Downtown Chapel Hill)"
 date: "2007-04-27"
 categories:
-  - "bars-and-tasting-rooms"
-  - "bars-in-chapel-hill-nc"
+  - "bars"
+  - "bars-chapel-hill-nc"
 tags:
   - "chapel-hill-cocktails"
   - "elaines-on-franklin"

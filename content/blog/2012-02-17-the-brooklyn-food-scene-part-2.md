@@ -2,7 +2,7 @@
 title: "The Brooklyn Food Scene Part 2"
 date: "2012-02-17"
 categories: 
-  - "brooklyn-bar-review"
+  - "bars"
   - "brooklyn-restaurant-reviews"
   - "restaurants"
   - "brooklyn-travel"

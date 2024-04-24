@@ -2,7 +2,7 @@
 title: "J Winery’s Bubble Room"
 date: "2017-05-13"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "dining-in-healdsburg"
   - "tasting-rooms-in-healdsburg"
 tags:

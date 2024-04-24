@@ -2,7 +2,7 @@
 title: "Lodi Wine and Chocolate Festival – February 9-10, 2019!"
 date: "2019-01-03"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "fortified-wine"
   - "garnacha"
   - "petite-sirah"

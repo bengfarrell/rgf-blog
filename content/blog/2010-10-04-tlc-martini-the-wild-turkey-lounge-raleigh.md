@@ -2,7 +2,7 @@
 title: "TLC Martini @ the Wild Turkey Lounge"
 date: "2010-10-04"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
   - "vodka"
 tags:

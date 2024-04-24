@@ -2,7 +2,7 @@
 title: "The Olivia @ West End Wine Bar"
 date: "2011-12-24"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "tasting-rooms-in-durham-nc"
 tags: 

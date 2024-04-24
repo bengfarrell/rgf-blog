@@ -2,7 +2,7 @@
 title: "Banana Split @ Beyu Caffe"
 date: "2010-09-03"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "coffee-shop"
   - "spirits"

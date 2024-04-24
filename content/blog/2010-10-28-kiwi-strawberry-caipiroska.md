@@ -2,8 +2,8 @@
 title: "Kiwi + Strawberry Caipiroska @ Piola"
 date: "2010-10-28"
 categories:
-  - "bars-and-tasting-rooms"
-  - "bars-in-chapel-hill-nc"
+  - "bars"
+  - "bars-chapel-hill-nc"
   - "spirits"
 tags:
   - "bars"

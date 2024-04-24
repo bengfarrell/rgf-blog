@@ -2,7 +2,7 @@
 title: "Saketini @ Shiki Sushi"
 date: "2011-04-15"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "sake"
   - "spirits"

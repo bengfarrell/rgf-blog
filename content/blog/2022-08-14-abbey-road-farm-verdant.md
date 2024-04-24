@@ -3,7 +3,7 @@ title: "Abbey Road Farm and Verdant"
 date: "2022-08-14"
 categories:
   - "dining-in-yamhill-carlton-or"
-  - "tasting-rooms-in-yamhill-carlton-or"
+  - "tasting-rooms"
   - "wine-media-conference-2021"
 tags:
   - "abbey-road-farms"

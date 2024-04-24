@@ -2,7 +2,7 @@
 title: "Restaurant Review--Il Palio Ristorante, Chapel Hill"
 date: "2009-05-21"
 categories:
-  - "dining-in-chapel-hill-nc"
+  - "dining-chapel-hill-nc"
   - "restaurants"
 tags:
   - "chapel-hill-restaurants"

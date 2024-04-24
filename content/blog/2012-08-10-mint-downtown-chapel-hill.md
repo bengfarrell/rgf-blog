@@ -2,7 +2,7 @@
 title: "Mint"
 date: "2012-08-10"
 categories: 
-  - "dining-in-chapel-hill-nc"
+  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "black-pepper-cauliflower"

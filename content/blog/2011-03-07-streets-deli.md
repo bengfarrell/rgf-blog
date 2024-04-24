@@ -2,7 +2,7 @@
 title: "Streets Deli *CLOSED*"
 date: "2011-03-07"
 categories: 
-  - "dining-in-chapel-hill-nc"
+  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "chapel-hill"

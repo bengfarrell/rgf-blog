@@ -2,7 +2,7 @@
 title: "Fullsteam Brewery"
 date: "2010-11-09"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "breweries-in-durham-nc"
 tags:
   - "barbecue"

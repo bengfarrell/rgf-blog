@@ -2,7 +2,7 @@
 title: "Travelogue: Abita Springs and Covington, LA"
 date: "2013-02-04"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "breweries-in-abita-springs-la"
   - "new-orleans-travel"
 tags:

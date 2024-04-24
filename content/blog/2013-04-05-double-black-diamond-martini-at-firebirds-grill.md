@@ -2,7 +2,7 @@
 title: "Double Black Diamond Martini at Firebird's Grill"
 date: "2013-04-05"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
 tags: 
   - "bar"

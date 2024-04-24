@@ -2,7 +2,7 @@
 title: "Kinston, NC, Blogging: Mother Earth Brewing"
 date: "2013-04-01"
 categories:
-  - "bars-and-tasting-rooms"
+  - "breweries"
   - "breweries-in-kinston-nc"
   - "kinston-north-carolina-travel"
 tags:

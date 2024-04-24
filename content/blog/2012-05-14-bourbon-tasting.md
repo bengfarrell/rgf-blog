@@ -2,7 +2,7 @@
 title: "Bourbon Tasting"
 date: "2012-05-14"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-durham-nc"
   - "bourbon"
   - "spirits"

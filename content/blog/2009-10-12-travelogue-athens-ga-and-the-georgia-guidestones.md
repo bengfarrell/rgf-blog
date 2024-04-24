@@ -2,8 +2,8 @@
 title: "Travelogue--Athens, GA, and the Georgia Guidestones"
 date: "2009-10-12"
 categories: 
-  - "bars-and-tasting-rooms"
-  - "bars-in-athens-ga"
+  - "bars"
+  - "bars"
   - "travel-guide-for-athens-ga"
 tags: 
   - "athens-ga"

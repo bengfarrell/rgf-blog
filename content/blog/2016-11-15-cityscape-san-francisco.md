@@ -2,7 +2,7 @@
 title: "Cityscape at the Union Square Hilton"
 date: "2016-11-15"
 categories:
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-san-francisco"
 tags:
   - "bar-bites"

@@ -2,7 +2,7 @@
 title: "Yelp's Pop Culture Palooza Party at Legend's"
 date: "2010-10-13"
 categories: 
-  - "bars-and-tasting-rooms"
+  - "bars"
   - "bars-in-raleigh-nc"
   - "events"
   - "restaurants"

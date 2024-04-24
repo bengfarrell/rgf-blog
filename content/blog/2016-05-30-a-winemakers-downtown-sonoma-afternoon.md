@@ -2,7 +2,7 @@
 title: "A Winemaker’s Downtown Sonoma Afternoon"
 date: "2016-05-30"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "belle-de-blanc"
   - "dining-in-sonoma"
   - "restaurants"

@@ -2,8 +2,8 @@
 title: "Ivy Room"
 date: "2016-03-29"
 categories: 
-  - "bars-and-tasting-rooms"
-  - "bars-in-albany"
+  - "bars"
+  - "bars"
 tags: 
   - "bar"
   - "dive-bar"

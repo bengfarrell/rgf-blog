@@ -2,7 +2,7 @@
 title: "Jujube's Recession Wine Dinners"
 date: "2008-12-24"
 categories: 
-  - "dining-in-chapel-hill-nc"
+  - "dining-chapel-hill-nc"
   - "restaurants"
 ---
 

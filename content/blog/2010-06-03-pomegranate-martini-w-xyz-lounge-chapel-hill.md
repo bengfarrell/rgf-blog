@@ -2,8 +2,8 @@
 title: "Pomegranate Martini @ W XYZ Lounge (Chapel Hill)"
 date: "2010-06-03"
 categories:
-  - "bars-and-tasting-rooms"
-  - "bars-in-chapel-hill-nc"
+  - "bars"
+  - "bars-chapel-hill-nc"
 tags:
   - "aloft-hotel"
   - "chapel-hill-cocktails"

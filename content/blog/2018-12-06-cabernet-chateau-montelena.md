@@ -2,7 +2,7 @@
 title: "50 Years of Cabernet: The Chateau Montelena Dream Tasting"
 date: "2018-12-06"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "cabernet-sauvignon"
   - "chardonnay"
   - "red-wine-review"

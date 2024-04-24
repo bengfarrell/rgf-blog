@@ -2,7 +2,7 @@
 title: "A Tasting at Turiya Wines"
 date: "2018-07-28"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "merlot"
   - "other-red-blends"
   - "petit-verdot"

@@ -2,7 +2,7 @@
 title: "Azure Grill (Chapel Hill) *Closed*"
 date: "2007-04-27"
 categories: 
-  - "dining-in-chapel-hill-nc"
+  - "chapel-hill"
   - "restaurants"
 tags: 
   - "azure-grill"

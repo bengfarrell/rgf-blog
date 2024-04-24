@@ -2,7 +2,7 @@
 title: "Livermore's Bodegas Aguirre Winery"
 date: "2018-11-02"
 categories:
-  - "bars-and-tasting-rooms"
+  - "tasting-rooms"
   - "chardonnay"
   - "fortified-wine"
   - "petite-sirah"
