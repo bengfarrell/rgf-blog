@@ -16,7 +16,7 @@ There can never be enough places selling gourmet pizza, right? I'm not a purist;
 
 The restaurant's walls are the yellow of mustard seed and adorned with vibrantly colored geometric paintings of cityscapes. There are quirky fish swimming across the bar top as well, all of which I'd enjoy more if I were dreaming. The atmosphere is definitely that of a neighborhood joint; I can envision myself whiling away an evening at the bar.
 
-The cocktail list consists of standards with an extra tweak here and there, resulting in drinks like the Jamarita, that just substitute rum for tequila. I did appreciate that [sidecars](http://www.thegourmez.com/gourmez/cocktails/review.php?id=17&type=) were included, which is one of my favorite drinks. There is also a small wine list featuring a few varietals I hadn't heard of yet, including Soave, which is white, dry, and from Italy. Wine is served in juice glasses that sacrifice a bit of style for novelty.
+The cocktail list consists of standards with an extra tweak here and there, resulting in drinks like the Jamarita, that just substitute rum for tequila. I did appreciate that [sidecars](./2007-04-27-sidecar-rockwood-filling-station-durham) were included, which is one of my favorite drinks. There is also a small wine list featuring a few varietals I hadn't heard of yet, including Soave, which is white, dry, and from Italy. Wine is served in juice glasses that sacrifice a bit of style for novelty.
 
 We started with a very simple salad that consisted of layers of mozzarella, tomato, and a sprinkling of arugula leaves. The drizzled red onion vinaigrette was heavy on the onion chunks, but the oil and vinegar needed to be further emulsified.
 
