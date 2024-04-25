@@ -1,5 +1,5 @@
 ---
-title: "Mac &amp; Cheese Night #5: American Grilled Cheese Kitchen"
+title: "Mac & Cheese Night #5: American Grilled Cheese Kitchen"
 date: "2014-10-30"
 categories:
   - "san-francisco-restaurant-review"

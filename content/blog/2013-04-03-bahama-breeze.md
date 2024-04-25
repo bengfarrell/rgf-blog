@@ -1,5 +1,5 @@
 ---
-title: "Bahama Breeze Late Night Appetizers &amp; Drinks"
+title: "Bahama Breeze Late Night Appetizers & Drinks"
 date: "2013-04-03"
 categories:
   - "raleigh-restaurant-reviews"

@@ -1,5 +1,5 @@
 ---
-title: "Noodles &amp; Company's Spring Asparagus Frenzy!"
+title: "Noodles & Company's Spring Asparagus Frenzy!"
 date: "2013-05-15"
 categories:
   - "durham-restaurant-reviews"

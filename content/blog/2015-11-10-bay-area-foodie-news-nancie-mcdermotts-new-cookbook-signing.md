@@ -1,5 +1,5 @@
 ---
-title: "Bay Area Foodie News: Nancie McDermott's New Cookbook &amp; Signing!"
+title: "Bay Area Foodie News: Nancie McDermott's New Cookbook & Signing!"
 date: "2015-11-10"
 categories:
   - "announcements"

@@ -1,5 +1,5 @@
 ---
-title: "Mac &amp; Cheese Night at Mission Cheese"
+title: "Mac & Cheese Night at Mission Cheese"
 date: "2014-06-03"
 categories:
   - "san-francisco-restaurant-review"

@@ -1,5 +1,5 @@
 ---
-title: "Mac &amp; Cheese Night #7 at Farmerbrown"
+title: "Mac & Cheese Night #7 at Farmerbrown"
 date: "2015-02-05"
 categories: 
   - "san-francisco-restaurant-review"

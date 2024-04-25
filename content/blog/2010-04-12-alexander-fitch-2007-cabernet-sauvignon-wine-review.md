@@ -1,5 +1,5 @@
 ---
-title: "Alexander &amp; Fitch 2007 Cabernet Sauvignon---Wine Review"
+title: "Alexander & Fitch 2007 Cabernet Sauvignon---Wine Review"
 date: "2010-04-12"
 categories:
   - "cabernet-sauvignon"

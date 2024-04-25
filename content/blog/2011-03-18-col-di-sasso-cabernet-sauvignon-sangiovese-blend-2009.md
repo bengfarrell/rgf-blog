@@ -1,5 +1,5 @@
 ---
-title: "Col di Sasso Cabernet Sauvignon &amp; Sangiovese Blend 2009"
+title: "Col di Sasso Cabernet Sauvignon & Sangiovese Blend 2009"
 date: "2011-03-18"
 categories: 
   - "cabernet-sauvignon"

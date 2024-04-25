@@ -1,5 +1,5 @@
 ---
-title: "Skinny &amp; Co. Coconut Oil Products"
+title: "Skinny & Co. Coconut Oil Products"
 date: "2016-09-15"
 categories: 
   - "bath-product-review"

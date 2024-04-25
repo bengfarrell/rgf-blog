@@ -1,5 +1,5 @@
 ---
-title: "Arge &amp; Tina Malbec 2009"
+title: "Arge & Tina Malbec 2009"
 date: "2011-03-16"
 categories: 
   - "malbec"

@@ -1,5 +1,5 @@
 ---
-title: "Thai China Buffet (Highways 55 &amp; 54 Crossroads, Durham)"
+title: "Thai China Buffet (Highways 55 & 54 Crossroads, Durham)"
 date: "2007-04-27"
 categories:
   - "durham-restaurant-reviews"

@@ -1,5 +1,5 @@
 ---
-title: "Wine Review--Rockbridge Lexington &amp; Concord"
+title: "Wine Review--Rockbridge Lexington & Concord"
 date: "2009-06-29"
 categories:
   - "dessert-wine-reviews"

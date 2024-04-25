@@ -1,5 +1,5 @@
 ---
-title: "Bean &amp; Barrel"
+title: "Bean & Barrel"
 date: "2010-08-19"
 categories:
   - "coffee-shop"

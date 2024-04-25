@@ -27,7 +27,7 @@ tags:
   - "vegan"
 ---
 
-[![sweetly raw cover](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/sweetly-raw-cover-240x300.jpg)](http://www.amazon.com/gp/product/1592539785/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1592539785&amp;linkCode=as2&amp;tag=thegou07-20&amp;linkId=337YIAFAT2DV26WQ)
+[![sweetly raw cover](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/sweetly-raw-cover-240x300.jpg)](http://www.amazon.com/gp/product/1592539785/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1592539785&linkCode=as2&tag=thegou07-20&linkId=337YIAFAT2DV26WQ)
 
 A brand-new site, and my first post is on something brand-new to me: a cookbook review! I often say _the Gourmez_ isn’t a recipe blog—except for cocktails, because who doesn’t enjoy a good cocktail discovery? But when I was offered a review copy (obligatory disclaimer: that means free!) of Heather Pace’s _Sweetly Raw Desserts_, I decided to say yes for one main reason. My husband has cut down on his carb intake the last several months, and I wanted to support his efforts by coming up with desserts that don’t rely on flour. Checking out a cookbook full of raw desserts seemed liked a great way to experiment with that.
 

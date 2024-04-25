@@ -83,7 +83,7 @@ I'm not sure what entertainment acts will appear at the Wine Walks this year, bu
 
 [![jack london square, luminescent grand, oakland, wine walk](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-35-500x402.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-35.jpg)A digital midi keyboard, built into a grand piano, is programmed to interact with an LED light display that's responsive to the notes being played, producing an intriguing light show along with the great tickling of keys. Here's a recording from the event:
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthegourmez%2Fvideos%2F10155868026029607%2F&amp;width=333&amp;show_text=false&amp;appId=152380721638567&amp;height=592" width="333" height="592" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthegourmez%2Fvideos%2F10155868026029607%2F&width=333&show_text=false&appId=152380721638567&height=592" width="333" height="592" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
 
 I'll leave you with one last tip for attending the Wine Walk at Jack London Square: COME EARLY. If last year was any indication, the Wine Walk will be swamped by an hour into it. The word is out, folks! To make the best use of your time, either spring for that VIP pass or come prepared to stake out the wines you'd like to sample from the get-go. Happy tasting!
 

@@ -1,5 +1,5 @@
 ---
-title: "Mac &amp; Cheese Night #9: The Blue Plate"
+title: "Mac & Cheese Night #9: The Blue Plate"
 date: "2015-06-23"
 categories: 
   - "san-francisco-restaurant-review"

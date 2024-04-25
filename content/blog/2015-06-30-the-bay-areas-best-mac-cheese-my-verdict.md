@@ -1,5 +1,5 @@
 ---
-title: "The Bay Area's Best Mac &amp; Cheese: My Verdict"
+title: "The Bay Area's Best Mac & Cheese: My Verdict"
 date: "2015-06-30"
 categories: 
   - "oakland-restaurant-reviews"

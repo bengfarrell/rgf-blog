@@ -85,7 +85,7 @@ Oh, the bliss of ice cream melting into espresso after you’ve been travelling 
 
 As most WBC15 attendees would agree, the coffee situation wasn’t the best during our weekend, so I also managed to make that hotel coffee sample work out a few days later.
 
-<blockquote class="twitter-tweet" lang="en"><p style="text-align: center">This afternoon delight comes courtesy of <a href="https://twitter.com/elementwinery">@ElementWinery</a> 's Isabel Bogadtke &amp; <a href="https://twitter.com/gafferdistrict">@GafferDistrict</a> 's Soul Full Cup <a href="https://twitter.com/hashtag/WBC15?src=hash">#WBC15</a> <a href="http://t.co/z64SQZa7re">pic.twitter.com/z64SQZa7re</a></p><p style="text-align: center">— becca gomez farrell (@thegourmez) <a href="https://twitter.com/thegourmez/status/632668188036231168">August 15, 2015</a></p></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p style="text-align: center">This afternoon delight comes courtesy of <a href="https://twitter.com/elementwinery">@ElementWinery</a> 's Isabel Bogadtke & <a href="https://twitter.com/gafferdistrict">@GafferDistrict</a> 's Soul Full Cup <a href="https://twitter.com/hashtag/WBC15?src=hash">#WBC15</a> <a href="http://t.co/z64SQZa7re">pic.twitter.com/z64SQZa7re</a></p><p style="text-align: center">— becca gomez farrell (@thegourmez) <a href="https://twitter.com/thegourmez/status/632668188036231168">August 15, 2015</a></p></blockquote>
 
 Don’t ask how. You don’t want to know. But man, it was still better than anything else in walking distance.
 

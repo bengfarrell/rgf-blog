@@ -1,5 +1,5 @@
 ---
-title: "Mac &amp; Cheese Night #3: The Tipsy Pig"
+title: "Mac & Cheese Night #3: The Tipsy Pig"
 date: "2014-08-26"
 categories:
   - "san-francisco-restaurant-review"

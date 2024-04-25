@@ -1,5 +1,5 @@
 ---
-title: "Barten &amp; Guestier Private Selection Merlot 2006"
+title: "Barten & Guestier Private Selection Merlot 2006"
 date: "2009-02-06"
 categories:
   - "merlot"

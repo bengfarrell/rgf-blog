@@ -1,5 +1,5 @@
 ---
-title: "Mac &amp; Cheese Night #2: Q Restaurant"
+title: "Mac & Cheese Night #2: Q Restaurant"
 date: "2014-06-24"
 categories: 
   - "san-francisco-restaurant-review"
