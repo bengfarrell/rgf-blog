@@ -36,7 +36,7 @@ The nose was full of eucalyptus and a bit of smokiness. On drinking, my mouth fi
 
 <div class="caption">
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
   **Other Bloggers' Thoughts:**
 
 Fiona Beckett @[Matching Food and Wine](http://www.matchingfoodandwine.com/articles/20090105) on the 2005 Vintage--

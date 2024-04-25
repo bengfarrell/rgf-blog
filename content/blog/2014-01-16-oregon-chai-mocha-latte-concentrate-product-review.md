@@ -1,10 +1,10 @@
 ---
 title: "Oregon Chai Mocha Latte Concentrate Product Review"
 date: "2014-01-16"
-categories: 
+categories:
   - "beverage-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "almond-mik"
   - "cane-sugar"
   - "cocoa"
@@ -21,15 +21,15 @@ tags:
 
 I received Oregon Chai's newest product as a perk from Klout, meaning this is my obligatory disclaimer that I did not pay for it. I'm a fan of Oregon Chai, as they were my first introduction into the world of chai with their sweet, smooth blend of spices and tea found in that signature product. Pretty sure I got my mother addicted to the stuff once upon a time as well. So I was definitely game for this venture of theirs into the coffee world.
 
-[![oregon_cafe_01](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/oregon_cafe_01-333x500.jpg)](http://www.rebeccagomezfarrell.com/2014/01/oregon-chai-mocha-latte-concentrate-product-review/oregon_cafe_01/)
+[![oregon_cafe_01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/oregon_cafe_01-333x500.jpg)](http://www.rebeccagomezfarrell.com/2014/01/oregon-chai-mocha-latte-concentrate-product-review/oregon_cafe_01/)
 
 The ingredient list is pretty straightforward: espresso, natural cane sugar, processed cocoa, and natural flavors. It comes in a cute little carton, complete with equally cute illustrated instructions for preparing the drink.
 
-[![oregon_cafe_02](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/oregon_cafe_02-333x500.jpg)](http://www.rebeccagomezfarrell.com/2014/01/oregon-chai-mocha-latte-concentrate-product-review/oregon_cafe_02/)
+[![oregon_cafe_02](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/oregon_cafe_02-333x500.jpg)](http://www.rebeccagomezfarrell.com/2014/01/oregon-chai-mocha-latte-concentrate-product-review/oregon_cafe_02/)
 
 The ratio is 1:3 concentrate to your favorite dairy product. I doubled the 8 oz. recipe, knowing I would want more caffeine than that in my morning cuppa. My favorite dairy product isn't dairy at all but unsweetened almond milk from Trader Joe's. A simple stir and ta da!
 
-[![oregon_cafe_03](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/oregon_cafe_03-333x500.jpg)](http://www.rebeccagomezfarrell.com/2014/01/oregon-chai-mocha-latte-concentrate-product-review/oregon_cafe_03/)
+[![oregon_cafe_03](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/oregon_cafe_03-333x500.jpg)](http://www.rebeccagomezfarrell.com/2014/01/oregon-chai-mocha-latte-concentrate-product-review/oregon_cafe_03/)
 
 One glass of frothy, lightly cocoa-colored beverage! Now the lightness of that concoction made me pause, because I'm a black coffee drinker, except when I go for a dessert drink like a frappuccino. My worries were founded—the drink basically tastes like chocolate milk. Two thoughts: (1) Yum, chocolate milk! and (2) Chocolate milk is not something I consume on a regular basis, so I can't see myself using this mocha concentrate often. The coffee flavor was nearly nonexistent. I could only taste it if I squinted and thought really hard about it.
 

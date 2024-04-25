@@ -29,7 +29,7 @@ It's a good, pleasant, easy-to-drink wine. For Bordeauxs, it's one of my favorit
 
 <div class="caption">
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
 
 
 Other Bloggers' Thoughts:

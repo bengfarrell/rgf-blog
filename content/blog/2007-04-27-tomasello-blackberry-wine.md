@@ -19,5 +19,5 @@ This wine has polarity; it intrigues and repulses at the same time.
 
 <div class="caption">
 
-![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
 

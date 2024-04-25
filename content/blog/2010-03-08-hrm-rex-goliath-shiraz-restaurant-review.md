@@ -1,10 +1,10 @@
 ---
 title: "HRM Rex Goliath Shiraz---Wine Review"
 date: "2010-03-08"
-categories: 
+categories:
   - "red-wine-review"
   - "shiraz"
-tags: 
+tags:
   - "a-votre-sante"
   - "hrm-rex-goliath"
   - "pepper"
@@ -19,7 +19,7 @@ tags:
 
 This wine has a lot of pepper on the nose, with some rhubarb and caramel coming through also. On drinking, my mouth fills with that pepper, which is not something I ever mind. It is tart. Raspberry is the primary fruit, but there's some rhubarb, too. It's a thick, dense wine that probably would have benefited from decanting first, but still leaves you with a lighter presence on your palate than you'd expect. I thought it was enjoyable.
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")
 
 Other Bloggers' Thoughts:
 

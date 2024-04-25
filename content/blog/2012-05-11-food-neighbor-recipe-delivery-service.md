@@ -1,10 +1,10 @@
 ---
 title: "Food Neighbor Recipe Delivery Service"
 date: "2012-05-11"
-categories: 
+categories:
   - "food-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "chapel-hill"
   - "clay-williamson"
   - "delivery"
@@ -23,25 +23,25 @@ About a month ago, I was contacted by Clay Williamson to try out his new busines
 
 Clay asked if I wanted to try out Food Neighbor for the blog, and I said, “Free food? Sure!” I’m easy like that. He arrived a few days later with two huge bags of food. Each individual ingredient was packaged separately, from the herbs to the tablespoons of milk and soy sauce.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/05/goodneighbor01.jpg "goodneighbor01")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/05/goodneighbor01.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/goodneighbor01.jpg "goodneighbor01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/goodneighbor01.jpg)
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/05/goodneighbor02.jpg "goodneighbor02")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/05/goodneighbor02.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/goodneighbor02.jpg "goodneighbor02")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/goodneighbor02.jpg)
 
 Now that is quite the bounty of food! I appreciate the bright color of the bags and the care that Clay takes in clearly labeling what everything is. However, the sheer amount of packaging seems like overkill to this recycler — perhaps group those veggies together in one bag and all the little plastic ramekins in another rather than giving each its own?
 
 Included with the ingredients were recipe cards for two nights’ worth of meals.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/05/goodneighbor03.jpg "goodneighbor03")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/05/goodneighbor03.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/goodneighbor03.jpg "goodneighbor03")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/goodneighbor03.jpg)
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/05/goodneighbor04.jpg "goodneighbor04")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/05/goodneighbor04.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/goodneighbor04.jpg "goodneighbor04")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/goodneighbor04.jpg)
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/05/goodneighbor05.jpg "goodneighbor05")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/05/goodneighbor05.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/goodneighbor05.jpg "goodneighbor05")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/goodneighbor05.jpg)
 
 Now, those recipes say they are portioned for two, but they each made at least twice that amount, and I don’t think I skimp on portion sizes. I even refused to use about a third of the zucchini and new potatoes because I knew it would be just too much food, and so I was able to use them in other meals later that week. Thus, you do not need to worry about not having enough food, and you may end up with extra to inspire another dish later in the week. Can’t complain about that!
 
 I decided to make the turkey lettuce wraps first. The recipe was easy to follow, and other than accidentally using too much soy sauce, it turned out great.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/05/goodneighbor06.jpg "goodneighbor06")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/05/goodneighbor06.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/goodneighbor06.jpg "goodneighbor06")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/goodneighbor06.jpg)
 
 That’s one serving size. A few nights later, I made the pork tenderloin with the squash medley and classic mashed potatoes. I roasted it rather than use the grill as the recipe called for, but the pork was very succulent either way. The mashed potatoes were a simple dish, and they tasted fantastic. I’d recommend cooking the squash for a shorter amount of time than specified, but that’s because I like my veggies to retain some crispness. Unfortunately, I accidentally deleted my picture of the end result — bad blogger! Rest assured, the portion sizes were still very generous.
 

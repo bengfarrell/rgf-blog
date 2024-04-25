@@ -22,5 +22,5 @@ I couldn't make it through a glass.  I blame the blueberry.   By all means, t
 
 <div class="caption">
 
-![0 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_mushroom1.gif "rating_mushroom1") 0 stars</div>
+![0 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_mushroom1.gif "rating_mushroom1") 0 stars</div>
 

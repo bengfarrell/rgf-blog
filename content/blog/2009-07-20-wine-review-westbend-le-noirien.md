@@ -1,10 +1,10 @@
 ---
 title: "Wine Review--Westbend Le Noirien"
 date: "2009-07-20"
-categories: 
+categories:
   - "pinot-noir"
   - "red-wine-review"
-tags: 
+tags:
   - "north-carolina-wines"
   - "westbend-vineyards-le-noirien"
   - "yadkin-valley-wines"
@@ -20,4 +20,4 @@ _Reviewed 7.19.09._
 
  
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")

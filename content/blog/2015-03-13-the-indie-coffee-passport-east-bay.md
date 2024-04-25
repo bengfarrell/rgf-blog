@@ -29,7 +29,7 @@ tags:
 
 Last week, Marc Callado, who launched [Shift Local](https://shiftlocal.wordpress.com/) in 2012 with his fiancée Mari, swung by my About Me page to let me know about an amazing opportunity for lovers of coffee on this side of the Bay.  When I say this is a bargain, folks, I say it as someone who knows just how much a standard drip coffee can run these days, much less a pourover or espresso drink of any form. I'm a freelance writer, I work at home, I know coffee. Even more so, I know the value of local coffee shops.
 
-![indie coffee passport](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/indie-coffee-passport-500x207.jpg)
+![indie coffee passport](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/indie-coffee-passport-500x207.jpg)
 
 [The Indie Coffee Passport](http://www.indiecoffeepassport.com/eastbay/) costs $25 + tax, and it is good for 22 drinks at the participating cafes. 22 drinks! That's an amazing deal! And with that work-at-home cred I just established, I also know how important getting out of the house is, which is the fun part of this bargain. Because each of those 22 drinks represents 22 locally owned coffeehouses in the East Bay, and you can redeem 1 drink at each of them. Maybe you are someone who takes comfort in always showing up at the same café…I am not. I try somewhere new nearly every week, and the Indie Coffee Passport would increase my motivation to do so, if that's even possible.
 
@@ -40,12 +40,12 @@ And what's better? Those coffeehouses are easily accessible. As Marc wrote, "The
 
 <div class="caption">
 
-![A pourover from Eko in Hayward, which I reviewed last year and is participating in the Passport.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/02/eko_03-402x500.jpg) A pourover from Eko in Hayward, [which I reviewed last year](http://www.rebeccagomezfarrell.com/2014/02/eko-coffee-bar-and-tea-house/) and is participating in the Passport.</div>
+![A pourover from Eko in Hayward, which I reviewed last year and is participating in the Passport.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/02/eko_03-402x500.jpg) A pourover from Eko in Hayward, [which I reviewed last year](http://www.rebeccagomezfarrell.com/2014/02/eko-coffee-bar-and-tea-house/) and is participating in the Passport.</div>
 
 
 Walking distance from BART?! This promotion couldn't smell better to me if they dipped it in tri-tip seasonings and set it on the grill. As I can attest from using the [Santa Cruz Winegrowers' Association Passport](http://www.rebeccagomezfarrell.com/2014/03/wine-tasting-in-the-santa-cruz-mountains/), simply getting stamps on my passport will keep me entertained. (Yes, it's that easy.)
 
-![Coffee Passport](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/Coffee-Passport-425x1024.jpg)
+![Coffee Passport](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/Coffee-Passport-425x1024.jpg)
 
  
 
@@ -57,6 +57,6 @@ That's a scan of the passport, which folds up to business card size to fit easil
 
 Are you in?  Purchases go through their website [here](http://www.indiecoffeepassport.com/eastbay/buy.html). You will eventually be able to purchase them at some of the participating cafes, but that's not an option quite yet. While you're at it, why not also check out Marc and Mari's [Shift Local](https://shiftlocal.wordpress.com/) site and sign up for the newsletter?
 
-![shiftlocal-logo](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/shiftlocal-logo.png)
+![shiftlocal-logo](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/shiftlocal-logo.png)
 
 This dynamic duo is coming up with lots of ways to make buying local fun, and I'm excited to see what's next. I'll sure be caffeinated enough to enjoy it.

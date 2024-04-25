@@ -12,7 +12,7 @@ Last summer, I posted this [blog](http://www.rebeccagomezfarrell.com/?p=336 "My 
 
 <div class="caption">
 
-![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/06/loki-lost.jpg "loki-lost") Loki's Misssing Photo</div>
+![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/06/loki-lost.jpg "loki-lost") Loki's Misssing Photo</div>
 
 
 Well, there is hope! Loki has returned! Last Friday, eight months after he disappeared, I received a phone call from Home Again, one of the microchip pet locator services.

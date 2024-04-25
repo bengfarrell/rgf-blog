@@ -24,7 +24,7 @@ This is a dry wine, with notes of tobacco, soft orange, and chocolate.  I can't
 
 <div class="caption">
 
-![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1") 1 star</div>
 
 
 **Other Bloggers' Thoughts:** None that I could find.

@@ -34,27 +34,27 @@ Making Counter Culture's coffee cupping has long been on my list of "musts" for 
 
 Several Counter Culture employees were on hand to explain just what a coffee cupping is to those unfamiliar with the idea and to talk about the coffee being sampled.
 
-[![2013_Counter_Culture_Cupping_04](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_04-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_04/)
+[![2013_Counter_Culture_Cupping_04](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Counter_Culture_Cupping_04-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_04/)
 
 A different employee leads the cupping each week, but the host of lurking employees make all the grinding, steaming, and extracting a seamless experience. This week, the focus was a deconstruction of Counter Culture's Toscana blend, featuring the three coffees presently used to make it: Finca Magallanes, Dulce Nombre de Jesus, and Finca Nueva Armenia.
 
-[![2013_Counter_Culture_Cupping_01](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_01-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_01/)
+[![2013_Counter_Culture_Cupping_01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Counter_Culture_Cupping_01-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_01/)
 
 I will spare you my individual thoughts on the coffees for each stage of the cupping, but a quick rundown of how it's done follows. First we smelled the freshly ground beans, evaluating their fragrance—
 
-[![2013_Counter_Culture_Cupping_03](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_03-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_03/)
+[![2013_Counter_Culture_Cupping_03](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Counter_Culture_Cupping_03-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_03/)
 
 
 
 
 <div class="caption">
 
-[![Sniffing in progress.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_02-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_02/) Sniffing in progress.</div>
+[![Sniffing in progress.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Counter_Culture_Cupping_02-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_02/) Sniffing in progress.</div>
 
 
 \--then we smelled the grounds again right after adding water to the cups to let them steep.
 
-[![2013_Counter_Culture_Cupping_06](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_06-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_06/)
+[![2013_Counter_Culture_Cupping_06](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Counter_Culture_Cupping_06-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_06/)
 
 Then came the break, the final smelling component. "Break" refers to breaking the crown of coffee grounds on top of the cup. You generally want to do that four minutes after pouring in the water to avoid over- or under-extraction.
 
@@ -63,20 +63,20 @@ Then came the break, the final smelling component. "Break" refers to breaking th
 
 <div class="caption">
 
-[![The line of participants making it through the tasting.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_05-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_05/) The line of participants making it through the break.</div>
+[![The line of participants making it through the tasting.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Counter_Culture_Cupping_05-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_05/) The line of participants making it through the break.</div>
 
 
 The focus shifts to taste next by evaluating the coffee for brightness, overall flavor, body, and aftertaste, all by slurping up just a spoonful of brew (slurping increases the aeration like swishing a glass of wine) and rolling it around in your mouth.
 
-[![2013_Counter_Culture_Cupping_07](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_07-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_07/)
+[![2013_Counter_Culture_Cupping_07](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Counter_Culture_Cupping_07-332x500.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_07/)
 
 Of the three coffees, the Nueva was my favorite for its strong chocolate notes and its lower acidity—I'm not a big fan of citrusy or fruity coffees. The Dulce had a heavier-than-expected body for a light roast and was probably the brightest of the three, and the Magallanes was fruity, vegetal, and left me thinking of bready pastries.
 
 After we shared our thoughts on the individual coffees, the staff pulled us short espresso shots of the Toscana blend. They made fast work of pulling them for that many people!
 
-[![2013_Counter_Culture_Cupping_08](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_08-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_08/)
+[![2013_Counter_Culture_Cupping_08](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Counter_Culture_Cupping_08-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_08/)
 
-[![2013_Counter_Culture_Cupping_09](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/2013_Counter_Culture_Cupping_09-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_09/)
+[![2013_Counter_Culture_Cupping_09](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Counter_Culture_Cupping_09-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/07/counter-culture-coffee-cupping/2013_counter_culture_cupping_09/)
 
 I was surprised by how different the blend was from any of the individual coffees. It tasted strongly of berry to me with an acidity similar to oranges and a lingering sweetness. The Nueva's chocolate was there, serving as a subtle balancing agent for the other elements of the blend.
 

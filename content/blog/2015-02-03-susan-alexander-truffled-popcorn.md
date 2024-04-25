@@ -1,10 +1,10 @@
 ---
 title: "Susan Alexander Truffled Popcorn"
 date: "2015-02-03"
-categories: 
+categories:
   - "food-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "popcorn"
   - "review"
   - "snack-food"
@@ -19,7 +19,7 @@ tags:
 
 This snack item came my way from Pinehurst, NC, where Susan Alexander has a 200-acre winter black truffle farm, which is the largest US farm raising the ever-expensive and ever-more-popular gourmet food staple. I was invited to sample Susan's new truffled popcorn, offered in 3 oz. bags. And yes, invited to sample means I did not pay for the popcorn (OBLIGATORY DISCLOSURE ALERT!)
 
-![Truffle_popcorn](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/01/Truffle_popcorn-333x500.jpg)
+![Truffle_popcorn](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/Truffle_popcorn-333x500.jpg)
 
 That bowl fits only about 2/3rds of the bag, so there is more popcorn goodness unpictured. Three ounces may not seem like a lot, but this is a snack that should be savored in small doses rather than inhaled in a matter of minutes.
 

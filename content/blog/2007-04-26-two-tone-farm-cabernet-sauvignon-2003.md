@@ -1,10 +1,10 @@
 ---
 title: "Two Tone Farm Cabernet Sauvignon 2003"
 date: "2007-04-26"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "red-wine-review"
-tags: 
+tags:
   - "2003"
   - "two-tone-farm-cabernet-sauvignon"
 ---
@@ -17,4 +17,4 @@ It smells of licorice and palm trees, which is very unusual in my limited wine t
 
 Overall, I'd describe the flavor as that of a whorehound candy, with a hint of rum. It's complex, but not necessarily delicious.
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")

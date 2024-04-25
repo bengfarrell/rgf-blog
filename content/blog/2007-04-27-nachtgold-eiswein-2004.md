@@ -1,10 +1,10 @@
 ---
 title: "Nachtgold Eiswein 2004"
 date: "2007-04-27"
-categories: 
+categories:
   - "dessert-wine-reviews"
   - "ice-wine"
-tags: 
+tags:
   - "2004"
   - "eiswein"
   - "nachtgold"
@@ -16,4 +16,4 @@ We bought this wine on impulse at our local World Market. Ice wine is the toast 
 
 It smelled of butterscotch and amaretto and seemed to drip sugar from the air. The taste was brown sugar and peach. I was afraid it would be too sweet overall, but it finished lightly.
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")

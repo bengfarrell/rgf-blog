@@ -27,5 +27,5 @@ I have a feeling the alcohol of this wine is the type that sneaks up on you, obs
 
 <div class="caption">
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
 

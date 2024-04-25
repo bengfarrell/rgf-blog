@@ -28,7 +28,7 @@ I enjoy all of the differing layers to it, but none of them stand out so I won't
 
 <div class="caption">
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
   Other Bloggers' Thoughts:
 
 [Viva la Wino!](http://www.vivalawino.com/2009/02/2007-fuerza-blancos.html) on the 2007 Vintage

@@ -1,9 +1,9 @@
 ---
 title: "6 Days to Paradise"
 date: "2009-02-26"
-categories: 
+categories:
   - "travel-guide-to-ocho-rios-jamaica"
-tags: 
+tags:
   - "inertia"
   - "jamaica"
   - "resorts"
@@ -14,7 +14,7 @@ tags:
 
 We are headed to Jamaica in less than a week.  I feel very overdue for a vacation, even though we just spent a week in California last October.  But as most of you know, travel is my lifeblood.
 
-![Morro Bay, CA, from my last escape](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/october-08-236-300x200.jpg "october-08-236")
+![Morro Bay, CA, from my last escape](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/october-08-236-300x200.jpg "october-08-236")
 
 ##### _Morro Bay, CA, from my last escape_
 

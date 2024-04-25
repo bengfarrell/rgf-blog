@@ -21,7 +21,7 @@ It's a Petmate water fountain and the motor makes sucking noises whenever the wa
 
 <div class="caption">
 
-![The first swing](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/12/mazufountain-003-300x200.jpg "mazufountain-003") The first swing</div>
+![The first swing](http://s3.amazonaws.com/thegourmez-wpmedia/2009/12/mazufountain-003-300x200.jpg "mazufountain-003") The first swing</div>
 
 
 
@@ -29,7 +29,7 @@ It's a Petmate water fountain and the motor makes sucking noises whenever the wa
 
 <div class="caption">
 
-![Try the other side](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/12/mazufountain-012-200x300.jpg "mazufountain-012") Try the other side</div>
+![Try the other side](http://s3.amazonaws.com/thegourmez-wpmedia/2009/12/mazufountain-012-200x300.jpg "mazufountain-012") Try the other side</div>
 
 
 
@@ -37,7 +37,7 @@ It's a Petmate water fountain and the motor makes sucking noises whenever the wa
 
 <div class="caption">
 
-![Mid-Strike](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/12/mazufountain-007-256x300.jpg "mazufountain-007") Mid-strike.</div>
+![Mid-Strike](http://s3.amazonaws.com/thegourmez-wpmedia/2009/12/mazufountain-007-256x300.jpg "mazufountain-007") Mid-strike.</div>
 
 
 
@@ -45,7 +45,7 @@ It's a Petmate water fountain and the motor makes sucking noises whenever the wa
 
 <div class="caption">
 
-![Did I get it?](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/12/mazufountain-006-300x295.jpg "mazufountain-006") Did I get it?</div>
+![Did I get it?](http://s3.amazonaws.com/thegourmez-wpmedia/2009/12/mazufountain-006-300x295.jpg "mazufountain-006") Did I get it?</div>
 
 
 
@@ -53,7 +53,7 @@ It's a Petmate water fountain and the motor makes sucking noises whenever the wa
 
 <div class="caption">
 
-![Better view from up top](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/12/mazufountain-008-265x300.jpg "mazufountain-008") Better view from up top</div>
+![Better view from up top](http://s3.amazonaws.com/thegourmez-wpmedia/2009/12/mazufountain-008-265x300.jpg "mazufountain-008") Better view from up top</div>
 
 
 
@@ -61,7 +61,7 @@ It's a Petmate water fountain and the motor makes sucking noises whenever the wa
 
 <div class="caption">
 
-![Try again!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/12/mazufountain-002-300x200.jpg "mazufountain-002") Try again!</div>
+![Try again!](http://s3.amazonaws.com/thegourmez-wpmedia/2009/12/mazufountain-002-300x200.jpg "mazufountain-002") Try again!</div>
 
 
 
@@ -69,7 +69,7 @@ It's a Petmate water fountain and the motor makes sucking noises whenever the wa
 
 <div class="caption">
 
-![Queen of the Hill](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/12/mazufountain-016-200x300.jpg "mazufountain-016") Queen of the Hill</div>
+![Queen of the Hill](http://s3.amazonaws.com/thegourmez-wpmedia/2009/12/mazufountain-016-200x300.jpg "mazufountain-016") Queen of the Hill</div>
 
 
 Don't forget to note all the water splashed on the walls. Someday, she'll get it. Someday.

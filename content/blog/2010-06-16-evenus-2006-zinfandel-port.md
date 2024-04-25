@@ -29,7 +29,7 @@ What can I say? It's been a good couple of weeks for zinfandel wines in my house
 
 <div class="caption">
 
-![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars</div>
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars</div>
 
 
 Other Bloggers' Thoughts:

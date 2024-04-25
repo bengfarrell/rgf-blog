@@ -1,10 +1,10 @@
 ---
 title: "Kingfish Cabernet Sauvignon 2005"
 date: "2007-04-26"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "red-wine-review"
-tags: 
+tags:
   - "2005"
   - "kingfish"
 ---
@@ -17,4 +17,4 @@ Plum featured most prominently on the palate, with a gentle hint of chocolate an
 
 It was smooth, flavorful, and elegant.
 
-![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1")
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")

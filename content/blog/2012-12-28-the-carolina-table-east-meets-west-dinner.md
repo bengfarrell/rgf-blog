@@ -61,7 +61,7 @@ tags:
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012163.jpg "TerraVita2012163")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012163.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012163.jpg "TerraVita2012163")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012163.jpg)</div>
 
 
 We have finally made it, dear eaters. It’s the last of my posts on TerraVITA 2012, which you may find funny because I passed up the Grand Tasting on the Square, which is TerraVITA’s main event. It did not take place until the day after this meal, and there are several [nice](http://farmfreshnorthcarolina.com/2012/11/food-fest-recap-all-yummy-all-the-time/) [write](https://www.facebook.com/media/set/?set=a.10151097770190759.437392.123680860758&type=1) [ups](http://inezsays.com/long-live-terra-vita.htm) for it. But this blogger knows herself, and she knew she would need a tasting bud sabbatical after the mad rush of the [Media Farm Tour](http://www.rebeccagomezfarrell.com/2012/11/terravita-2012-media-farm-tour-stop-1-southern-season/) and [the Sustainable Classroom](http://www.rebeccagomezfarrell.com/2012/11/the-sustainable-classroom-coffee-chocolate/). So I chose to end my TerraVITA experience with the [East Meets West Dinner](http://www.terravitaevent.com/TerraVITA/CarolinaTable.html), a new addition to TerraVITA. Once again, my meal ticket was complimentary.
@@ -74,7 +74,7 @@ I would say that was achieved by this year’s participating chefs who came from
 
 The dinner took place at the Chatham Mills in Pittsboro, which I had been to before to taste at and tour [Starrlight Meadery](http://www.rebeccagomezfarrell.com/2011/02/starrlight-meadery/), but I had never been in the main complex. It was quite attractive with rich red wood, exposed brick, and lots of windows.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012161.jpg "TerraVita2012161")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012161.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012161.jpg "TerraVita2012161")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012161.jpg)
 
 Before we claimed our spots, we were treated to a cocktail and appetizer hour. Chef Adam Rose of [il Palio](http://www.sienahotel.com/IlPalio.aspx) in Chapel Hill supplied arancini with NC truffles and Carolina Gold rice and guafrette potato chips with Elodie Farm goat cheese, Atlantic sturgeon caviar, and Lucky Leaf Garden micro herbs.
 
@@ -83,7 +83,7 @@ Before we claimed our spots, we were treated to a cocktail and appetizer hour. C
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012179.jpg "TerraVita2012179")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012179.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012179.jpg "TerraVita2012179")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012179.jpg)</div>
 
 
 Chef Vivian Howard of [the Chef and the Farmer](http://chefandthefarmer.com/) in Kinston offered collard dolmades with pork, pecan, cranberry, and sweet potato yogurt.
@@ -93,32 +93,32 @@ Chef Vivian Howard of [the Chef and the Farmer](http://chefandthefarmer.com/) in
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012178.jpg "TerraVita2012178")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012178.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012178.jpg "TerraVita2012178")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012178.jpg)</div>
 
 
 Both the mushrooms and dolmades stand out in my mind because I normally don’t like either, but they pleased me this evening.
 
 My closest dining companions were Laura of [Carolina Epicurean](http://carolinaepicurean.com/) and a brassy and opinionated couple from Brooklyn who pretty much made my evening. Colleen Minton, the mastermind behind TerraVITA, introduced herself to all the patrons and explained that she wanted the meal to feel like dinner with friends and family, and thus we would be served platters of food for sharing.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012175.jpg "TerraVita2012175")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012175.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012175.jpg "TerraVita2012175")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012175.jpg)
 
 Then she introduced Lionel Vainet of [La Farm Bakery,](http://www.lafarmbakery.com/) who provided fresh bread for the meal.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012164.jpg "TerraVita2012164")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012164.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012164.jpg "TerraVita2012164")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012164.jpg)
 
 We learned from him that you should squeeze your bread to smell it! I would never have thought of that, and unfortunately, I never got to try the bread at all. But I speak from experience when I say La Farm Bakery is one of the best around.
 
 Then the first course began.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012165.jpg "TerraVita2012165")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012165.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012165.jpg "TerraVita2012165")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012165.jpg)
 
 There was a confit of carrots, beets, and apples with charred scallion vinaigrette and sunburst trout fritters from Chef Howard.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012167.jpg "TerraVita2012167")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012167.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012167.jpg "TerraVita2012167")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012167.jpg)
 
 The beets were amazing in this dish, and the fritters were phenomenal. The smokiness of the trout broke through the fried coating beautifully. The whole dish was excellent, creating a salty, sweet, and earthy balance among the elements. The other dish, from Chef Rose, was cannelloni stuffed with spinach and Chapel Hill Creamery mozzarella and calavander. It was served with a sauce of sherry, cream, thyme, and mushroom ragout.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012166.jpg "TerraVita2012166")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012166.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012166.jpg "TerraVita2012166")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012166.jpg)
 
 The cannelloni were too cheesy for me, but the sauce was rich and savory.
 
@@ -129,7 +129,7 @@ Throughout the meal, wine and beer flowed, and the beer was poured by none other
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012169.jpg "TerraVita2012169")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012169.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012169.jpg "TerraVita2012169")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012169.jpg)</div>
 
 
 I am not a huge beer drinker, but I’m learning, and I love trying every new experiment Sean comes up with. I’m not entirely certain my memory’s correct, but I believe I had a bourbon-barrel-aged Workingman’s Lunch that evening and a Sweet Potato Carver.
@@ -139,7 +139,7 @@ I am not a huge beer drinker, but I’m learning, and I love trying every new ex
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012162.jpg "TerraVita2012162")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012162.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012162.jpg "TerraVita2012162")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012162.jpg)</div>
 
 
 The second course consisted of one dish from Chef Howard and two from Chef and Farmer Cassie Parsons of [Harvest Moon Grille](http://www.harvestmoongrillecharlotte.com/) in Charlotte.
@@ -149,12 +149,12 @@ The second course consisted of one dish from Chef Howard and two from Chef and F
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012181.jpg "TerraVita2012181")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012181.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012181.jpg "TerraVita2012181")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012181.jpg)</div>
 
 
 She had also been a participant in the highly engaging [panel discussion](http://www.rebeccagomezfarrell.com/2012/12/terravita-2012-the-sustainable-classroom-session-2/) on sustainability versus practicality during the Sustainable Classroom earlier that day. Chef Parsons’s rabbit ravioli were adorable.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012172.jpg "TerraVita2012172")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012172.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012172.jpg "TerraVita2012172")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012172.jpg)
 
 They were part of a dish that featured rabbit prepared three ways: in ravioli, in sausage, and in confit. Obviously, the ravioli shapes were cute, but the texture was lacking. It was chewy, dry, and unevenly cooked. The sausage was quite satisfying though a bit greasy.
 
@@ -163,20 +163,20 @@ They were part of a dish that featured rabbit prepared three ways: in ravioli, i
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012171.jpg "TerraVita2012171")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012171.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012171.jpg "TerraVita2012171")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012171.jpg)</div>
 
 
 The rabbit leg was teeny and charming, but I think I would have liked it better if it were cooked for longer.
 
 Chef Parsons’s second dish was porchetta with roasted root vegetables and apple gravy.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012174.jpg "TerraVita2012174")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012174.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012174.jpg "TerraVita2012174")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012174.jpg)
 
 Unfortunately, we never saw the root vegetables or apple gravy. We did glance at other tables and didn’t spy the missing ingredients, so perhaps it was a kitchen mishap. That happens and is perfectly understandable. As it was, the seasonings were lovely, but the meat was dry and needed to be combined with the absent gravy. I admired Chef Parsons’s style of simple preparations that should enhance appreciation of the quality ingredients, but it didn’t work for me. My opinion is obviously a minor one, because she was named Restaurateur of the Year for Charlotte.
 
 Chef Howard, however, made me a disciple. I was already impressed with her first course offering and hors d’ouevres and her Carolina rice middlins with collard greens, country ham, pickled collard stems, turnip roots, and chervil was remarkable.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012173.jpg "TerraVita2012173")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012173.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012173.jpg "TerraVita2012173")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012173.jpg)
 
 It was such a bright dish for what I’d expect to be wholly earthy. The vegetable choices were surprising, and they provided vibrancy with the pickle flavors. Their crunchy textures gave depth to what would be a pretty mushy dish otherwise.
 
@@ -187,12 +187,12 @@ Finally, it was time for dessert. When I went to the first TerraVITA Grand Tasti
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012183.jpg "TerraVita2012183")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012183.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012183.jpg "TerraVita2012183")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012183.jpg)</div>
 
 
 I must not be alone, because they were tapped for dessert at this dinner. They came up with a parfait of a gingerbread financier, bourbon chocolate ganache, Long Island cheese squash pots du crème, cinnamon whipped cream, and a pecan tuile.
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012186.jpg "TerraVita2012186")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012186.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012186.jpg "TerraVita2012186")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012186.jpg)
 
 There were so many different textures and types of chocolate in the dish, I was in heaven. The pumpkin taste of the pots du crème stood out most for me, but every layer was a lovely surprise. I would likely eat dozens of the pecan tuile on its own.
 

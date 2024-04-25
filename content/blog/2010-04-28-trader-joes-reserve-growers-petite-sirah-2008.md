@@ -25,7 +25,7 @@ Nice raspberry and leather nose with plenty of clove. The wine is surprisingly t
 
 <div class="caption">
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
   Other Bloggers' Thoughts:
 
 [Boozing It](http://www.boozingit.com/2010/01/2008-trader-joes-petite-sirah-growers.html)

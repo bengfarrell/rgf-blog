@@ -27,7 +27,7 @@ tags:
   - "wine-festival"
 ---
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/logo-terravita.jpg "logo terravita")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/logo-terravita.jpg)One of the largest foodie events is the Triangle is coming up in Chapel Hill in a month, TerraVITA! It takes place over three days, November 1-3, 2012.
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/logo-terravita.jpg "logo terravita")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/logo-terravita.jpg)One of the largest foodie events is the Triangle is coming up in Chapel Hill in a month, TerraVITA! It takes place over three days, November 1-3, 2012.
 
 TerraVITA features "some of the finest biodynamic and organically grown wines and microbrews in the world with some of the very best North Carolina chefs, known and celebrated for their outstanding reputations and chosen for their devotion and allegiance to locally grown ingredients!" The main event, called the Grand Tasting on the Green, takes place on 11/3 from 1-4:30 pm and is full of samples and tastes from dozens of brewers, winemakers, chocolatiers, cheesemakers, and a range of the best chefs in the state.
 

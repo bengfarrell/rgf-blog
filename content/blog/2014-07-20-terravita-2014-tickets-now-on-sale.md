@@ -20,7 +20,7 @@ tags:
   - "vivian-howard"
 ---
 
-[![logo terravita](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/09/logo-terravita.jpg)](http://www.rebeccagomezfarrell.com/2012/09/triangle-foodie-happenings-terravita-coming-soon/logo-terravita/)
+[![logo terravita](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/logo-terravita.jpg)](http://www.rebeccagomezfarrell.com/2012/09/triangle-foodie-happenings-terravita-coming-soon/logo-terravita/)
 
 Readers, I know I'm not in North Carolina anymore (though I will be in Raleigh the weekend of 9/13--let's get together, locals!), but I had to make sure you knew that tickets for Chapel Hill's TerraVita went on sale today. Why? Because TerraVita is an amazing conference focused on food, drink, and ways to enjoy them sustainably, a cause I couldn't support more.
 
@@ -29,7 +29,7 @@ Readers, I know I'm not in North Carolina anymore (though I will be in Raleigh t
 
 <div class="caption">
 
-[![Sean Lilly Wilsom pouring out some brew from Fullsteam at the 2012 East Meets West dinner.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012169.jpg)](http://www.rebeccagomezfarrell.com/2012/12/the-carolina-table-east-meets-west-dinner/terravita2012169/) Sean Lilly Wilson pouring out some brew from Fullsteam at the 2012 East Meets West dinner.</div>
+[![Sean Lilly Wilsom pouring out some brew from Fullsteam at the 2012 East Meets West dinner.](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012169.jpg)](http://www.rebeccagomezfarrell.com/2012/12/the-carolina-table-east-meets-west-dinner/terravita2012169/) Sean Lilly Wilson pouring out some brew from Fullsteam at the 2012 East Meets West dinner.</div>
 
 
 I've had the pleasure of attending twice in its five-year history. It's been amazing since [Year 1,](http://www.rebeccagomezfarrell.com/2010/10/terravita-the-first-biodynamic-and-sustainable-food-and-drink-fair-of-the-southeast/ "TerraVITA year 1 write-up") really, but the festival stepped up its game when it added on the [Sustainable Classroom,](http://www.rebeccagomezfarrell.com/2012/12/the-sustainable-classroom-3-the-cultivation-and-culinary-possibilities-of-figs/ "Figs Sustainable Classroom write-up") two days of workshops offered by local and national chefs, baristas, writers, owners, and producers that all tackle the appreciation of food from the perspective of how to keep the industry sustainable so we can keep on appreciating that food forever.
@@ -39,7 +39,7 @@ I've had the pleasure of attending twice in its five-year history. It's been ama
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012140.jpg)](http://www.rebeccagomezfarrell.com/2012/12/the-sustainable-classroom-3-the-cultivation-and-culinary-possibilities-of-figs/) Bernie Hermin showing off his pickled fig collection in 2012.</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012140.jpg)](http://www.rebeccagomezfarrell.com/2012/12/the-sustainable-classroom-3-the-cultivation-and-culinary-possibilities-of-figs/) Bernie Hermin showing off his pickled fig collection in 2012.</div>
 
 
 New this year, TerraVita is hosting the premiere of _A Chef's Life_ Season 2, the Peabody-winning PBS program based on the day-to-day life of Chef Vivian Howard of Kinston's [Chef and the Farme](http://www.rebeccagomezfarrell.com/2013/04/kinston-nc-blogging-chef-and-the-farmer/ "My Chef and the Farmer review")r restaurant. And the number of special dinners that the 3-Day pass offers is blowing my mind. I wish I could be at each one!
@@ -49,7 +49,7 @@ New this year, TerraVita is hosting the premiere of _A Chef's Life_ Season 2, th
 
 <div class="caption">
 
-[![Chef Howard's Sunburst Trout Fritters with a carrot, beet, and apple confit from 2012's East Meets West Dinner.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012167.jpg)](http://www.rebeccagomezfarrell.com/2012/12/the-carolina-table-east-meets-west-dinner/terravita2012167/) Chef Howard's Sunburst Trout Fritters with a carrot, beet, and apple confit from 2012's East Meets West Dinner.</div>
+[![Chef Howard's Sunburst Trout Fritters with a carrot, beet, and apple confit from 2012's East Meets West Dinner.](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012167.jpg)](http://www.rebeccagomezfarrell.com/2012/12/the-carolina-table-east-meets-west-dinner/terravita2012167/) Chef Howard's Sunburst Trout Fritters with a carrot, beet, and apple confit from 2012's East Meets West Dinner.</div>
 
 
 I'm copying over the press release for you now, because the whole thing is making me jealous of those of you who plan to go. I encourage you to buy tickets for at least one event if responsible food consumerism is your passion. You can do that at their website, [right here.](http://www.terravitaevent.com/ "TerraVita")

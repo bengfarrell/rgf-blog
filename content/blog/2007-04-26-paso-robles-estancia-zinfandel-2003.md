@@ -1,11 +1,11 @@
 ---
 title: "Paso Robles Estancia Zinfandel 2003"
 date: "2007-04-26"
-categories: 
+categories:
   - "zinfandel"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "2003"
   - "paso-robles-estancia-zinfandel"
 ---
@@ -20,4 +20,4 @@ The smell has a muted scent of tobacco and pepper. The dense cough syrup red of 
 
 I was smiling at the first sip of this refreshingly light and tangy red. It tastes a bit buttery when swirled, reminding me of a jam cookie. Vanilla plays an evasive game with your taste buds.
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")

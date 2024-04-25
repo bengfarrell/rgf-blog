@@ -30,7 +30,7 @@ It is thin-bodied for a zinfandel. Tastes oaky, with rich plum and leather. Ther
 
 <div class="caption">
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
 
 
 Other Bloggers' Thoughts:

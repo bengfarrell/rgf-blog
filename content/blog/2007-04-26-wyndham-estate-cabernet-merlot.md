@@ -1,11 +1,11 @@
 ---
 title: "Wyndham Estate Cabernet Merlot"
 date: "2007-04-26"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "merlot"
   - "red-wine-review"
-tags: 
+tags:
   - "cabernet-merlot"
   - "wyndham-estate"
 ---
@@ -14,4 +14,4 @@ tags:
 
 This medium to full-bodied wine smells richly of bing cherries and black pepper. The taste is a combination of plum and tobacco. Altogether, it is a full and near-perfect blend.
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")

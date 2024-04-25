@@ -1,10 +1,10 @@
 ---
 title: "Goody Good Stuff Product Review"
 date: "2014-12-15"
-categories: 
+categories:
   - "food-product-review"
   - "product-reviews"
-tags: 
+tags:
   - "allergen-free"
   - "candy"
   - "disc"
@@ -24,7 +24,7 @@ tags:
 
 What's about an inch in diameter, full of gumdrop memories, and free of all animal products? If you answered [Goody Good Stuff](http://goodygoodstuff.com/en/) jelly candies then you answered correctly! But chances are you haven't heard of these tasty discs as yet.
 
-![goody_goodi_stuff](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/12/goody_goodi_stuff-500x411.jpg)
+![goody_goodi_stuff](http://s3.amazonaws.com/thegourmez-wpmedia/2014/12/goody_goodi_stuff-500x411.jpg)
 
 That's right, I have another product review for you, something sweet for stuffing those stockings hanging from the mantle. Goody Good Stuff is a UK-based company that launched in 2010 after years of research deriving a way to make gummy candies without using gelatin. As most of you know, gelatin comes from animal peptides and proteins, making it absolutely, positively non-vegetarian. What a shame for vegetarians to have to forgo all the gummy treats out there, though, am I right? That's what Goody Good Stuff thought too, so they introduced gelatin-free gummy products without sacrificing any flavor or quality. In fact, Goody Good Stuff jellies are now allergen-, gluten-, fat-, soy-, dairy-, egg-, alcohol-, GMO-, and nut-free. They are also Halal and Kosher, so unless you have a fruit or sugar allergy, you're going to be pretty safe with these.
 

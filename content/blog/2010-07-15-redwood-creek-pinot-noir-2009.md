@@ -31,7 +31,7 @@ Redwood Creek Pinot Noir 2009 is a great wine from yet another Californian regio
 
 <div class="caption">
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
   Other Bloggers' thoughts:
 
 [Adventures in $9 Wines](http://www.ninebuckwines.com/2009/12/2008-redwood-creek-pinot-noir.html) on the 2008 vintage

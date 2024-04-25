@@ -1,10 +1,10 @@
 ---
 title: "Schloss Biebrech Sekt -- Wine Review"
 date: "2009-11-06"
-categories: 
+categories:
   - "schloss-biebrech-sekt"
   - "sparkling-wine-review"
-tags: 
+tags:
   - "floral-notes"
   - "german-sparkling-wine"
   - "good-wines-under-20"
@@ -20,7 +20,7 @@ Wine: **Schloss Biebrich Sekt** Region: Germany
 
 This sparkling wine is light gold, nearing opaqueness.  It has a smooth feel going down.  The bubbles tease more than assault (I'm not a big carbonation fan). It tastes pleasant, with a floral note beneath its mild orange flavor.  It is sweet, simple, and appealing.
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")
 
 **Other Bloggers' Thoughts:**
 

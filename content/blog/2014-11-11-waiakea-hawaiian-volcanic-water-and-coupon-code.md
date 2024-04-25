@@ -21,7 +21,7 @@ I’ve never done a water taste test before. I’ve read [a number](http://www.t
 
 So why then, am I sampling a bottled water product? Particularly this one, Waiākea Hawaiian Volcanic Water?
 
-[![Waiakea_Water_001](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/11/Waiakea_Water_001-316x500.jpg)](http://www.rebeccagomezfarrell.com/2014/11/waiakea-hawaiian-volcanic-water-and-coupon-code/waiakea_water_001/)
+[![Waiakea_Water_001](http://s3.amazonaws.com/thegourmez-wpmedia/2014/11/Waiakea_Water_001-316x500.jpg)](http://www.rebeccagomezfarrell.com/2014/11/waiakea-hawaiian-volcanic-water-and-coupon-code/waiakea_water_001/)
 
 Well, it’s because of when I came down with strep throat two years ago and the doctor said my severe dehydration was actually the bigger concern than my 104° fever. As usual, drink Gatorade was his advice for the electrolytes. Of course, most of y’all already know that electrolytes do a great job of keeping us hydrated, but what you don’t know is that I loathe power drinks. They taste horrible. I don’t know how so many of you drink them.
 
@@ -36,7 +36,7 @@ Oops, sorry. Drifting again. So how does Waiākea water taste? Going in, I admit
 
 <div class="caption">
 
-[![The Waiākea water’s on the left and the tap water is on the right.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/11/Waiakea_Water_003-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/11/waiakea-hawaiian-volcanic-water-and-coupon-code/waiakea_water_003/) The Waiākea water’s on the left and the tap water is on the right.</div>
+[![The Waiākea water’s on the left and the tap water is on the right.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/11/Waiakea_Water_003-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/11/waiakea-hawaiian-volcanic-water-and-coupon-code/waiakea_water_003/) The Waiākea water’s on the left and the tap water is on the right.</div>
 
 
 In sniffing them both, I must admit the Waiākea water had something mildly sweet and floral about it. For the sake of keeping this tropical, let’s call it a hibiscus-blossom scent. Was it my imagination that called up images of pumice stone while drinking the Waiākea water? Mayhaps, but I did taste a stronger minerality and a teensy bit of salinity from it that I didn’t expect. In contrast, the Brita water tasted softer, but otherwise I’d have to just go with “water” in terms of description—and there’s nothing wrong with just water, but the Waiākea wiggled my foodie curiosity whiskers more.

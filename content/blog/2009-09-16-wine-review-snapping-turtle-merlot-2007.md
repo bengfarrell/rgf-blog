@@ -23,7 +23,7 @@ This smooth, full wine smelled of pipe tobacco and curry leaves.  It tasted of 
 
 <div class="caption">
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
 
 
 _Reviewed 9.7.09._

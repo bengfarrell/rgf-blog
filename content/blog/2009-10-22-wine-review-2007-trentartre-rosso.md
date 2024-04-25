@@ -25,7 +25,7 @@ This wine, emblazoned with the #33 on the label, is a blend of 33.3% each of cab
 
 <div class="caption">
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
 
 
 **Other Bloggers' Thoughts:**

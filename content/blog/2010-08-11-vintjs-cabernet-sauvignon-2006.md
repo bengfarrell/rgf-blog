@@ -27,7 +27,7 @@ A pleasant wine with a good amount of flavors mingling together--the spices are 
 
 <div class="caption">
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
   Another Blogger's Thoughts:
 
 [Yaya's Dream](http://yayasdream.blogspot.com/2009/11/thanksgiving-wines.html)

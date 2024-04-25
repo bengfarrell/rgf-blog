@@ -29,7 +29,7 @@ I tried this wine at a tasting at my local wine shop, and I loved it then so I b
 
 <div class="caption">
 
-![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
   Other Bloggers' Thoughts:
 
 [Bon Gourmet Blog](http://blog.bon-gourmet.com/2009/11/02/2008-familia-zuccardi--vida-organica-torrontes.aspx?ref=rss)

@@ -29,7 +29,7 @@ So, a rough beginning but a smooth ending.
 
 <div class="caption">
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
   Other Bloggers' Thoughts:
 
 [](http://yourwinepick.com/2010/01/29/2008-la-granja-360-tempranillo/)Your Wine Pick

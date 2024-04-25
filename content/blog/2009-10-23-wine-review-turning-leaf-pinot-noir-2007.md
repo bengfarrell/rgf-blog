@@ -1,10 +1,10 @@
 ---
 title: "Wine Review--Turning Leaf Pinot Noir 2007"
 date: "2009-10-23"
-categories: 
+categories:
   - "pinot-noir"
   - "red-wine-review"
-tags: 
+tags:
   - "anne-of-green-gables"
   - "cherry-cordial"
   - "cherry-notes"
@@ -23,7 +23,7 @@ This pinot noir has a vibrant nose of Saint Anne's cherry.  Until this glass, i
 
 Turning Leaf Pinot Noir is not very layered but I don't think it needs to be.
 
-![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1")
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")
 
 **Other Bloggers' Thoughts:**
 

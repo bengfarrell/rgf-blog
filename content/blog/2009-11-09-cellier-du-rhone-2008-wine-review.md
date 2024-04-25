@@ -24,7 +24,7 @@ The nose of this French white table wine reminds me of kiwi and vanilla. It is m
 
 <div class="caption">
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
 
 
 **Other Bloggers' Thoughts:**

@@ -33,7 +33,7 @@ The America's Best Espresso Competition at the Atlanta Coffee Fest
 
 <div class="caption">
 
-![The crowd watches Bout #1 on Saturday, 2/7.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_107.jpg) The crowd watches Bout #1 on Saturday, 2/7.</div>
+![The crowd watches Bout #1 on Saturday, 2/7.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_107.jpg) The crowd watches Bout #1 on Saturday, 2/7.</div>
 
 
 One of the fastest-moving events at a Coffee Fest is the [Best Espresso Competition.](http://www.coffeefest.com/EspressoCompetition.aspx) I'm not just saying that because an integral part of the espresso-making process is using intense water pressure to extract a shot of espresso in around 30 seconds, give or take 10 of them. I'm saying it because the baristas competing in this event do a lot more than simply press a lever and a button. Rather, they work their way through all the major steps of pulling a shot with precision and intent. Those steps?
@@ -47,7 +47,7 @@ I should note here that the judges and competitors tend to be Third Wave coffee 
 
 <div class="caption">
 
-![Judge Cortney shares his rankings.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_141-500x362.jpg) Judge Cortney shares his rankings.</div>
+![Judge Cortney shares his rankings.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_141-500x362.jpg) Judge Cortney shares his rankings.</div>
 
 
 Let's continue with the other steps in a Best Espresso Competition!
@@ -59,7 +59,7 @@ Let's continue with the other steps in a Best Espresso Competition!
 
 <div class="caption">
 
-![Noelle Archibald of Lamplighter in Bout #1.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_110-500x356.jpg) Noelle Archibald of Lamplighter in Bout #1.</div>
+![Noelle Archibald of Lamplighter in Bout #1.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_110-500x356.jpg) Noelle Archibald of Lamplighter in Bout #1.</div>
 
 
 3. **Tamping.**
@@ -69,7 +69,7 @@ Let's continue with the other steps in a Best Espresso Competition!
 
 <div class="caption">
 
-![Buddy Brew going for the hand-tamping approach in Bout #4.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_130-500x452.jpg) Dean of Buddy Brew going for the hand-tamping approach in Bout #4.</div>
+![Buddy Brew going for the hand-tamping approach in Bout #4.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_130-500x452.jpg) Dean of Buddy Brew going for the hand-tamping approach in Bout #4.</div>
 
 
 4. **Extracting.**
@@ -79,7 +79,7 @@ Let's continue with the other steps in a Best Espresso Competition!
 
 <div class="caption">
 
-![Jeff of Seeds Coffee in Bout #10.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_172-500x333.jpg) Jeff of Seeds Coffee in Bout #10.</div>
+![Jeff of Seeds Coffee in Bout #10.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_172-500x333.jpg) Jeff of Seeds Coffee in Bout #10.</div>
 
 
 and finally,
@@ -91,7 +91,7 @@ and finally,
 
 <div class="caption">
 
-![Quarterfinal #2](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_209-500x439.jpg) Quarterfinal #2</div>
+![Quarterfinal #2](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_209-500x439.jpg) Quarterfinal #2</div>
 
 
 That's John Letoto, competing for Copper Horse Coffee Roasters and eschewing convention by bringing all three of his shots over at once. Usually competitors pull shots one at a time and bring them to one of the three judges individually, which often looks like this:
@@ -101,7 +101,7 @@ That's John Letoto, competing for Copper Horse Coffee Roasters and eschewing con
 
 <div class="caption">
 
-![Rev Coffee Roasters rushing to the table in Bout #1.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_115-500x353.jpg) Rev Coffee Roasters rushing to the table in Bout #1.</div>
+![Rev Coffee Roasters rushing to the table in Bout #1.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_115-500x353.jpg) Rev Coffee Roasters rushing to the table in Bout #1.</div>
 
 
 But Letoto moved on to the finals, so somehow, I think he knew what he was doing.
@@ -113,7 +113,7 @@ Now, that list of steps represents a lot of areas in which mistakes can be made,
 
 <div class="caption">
 
-![Gratuitous Espresso Shots](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_147-500x333.jpg) Gratuitous Espresso Shots</div>
+![Gratuitous Espresso Shots](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_147-500x333.jpg) Gratuitous Espresso Shots</div>
 
 
 I witnessed two competitors unable—or perhaps unwilling—to serve their shots in time, and I only saw maybe a third of the bouts.
@@ -125,12 +125,12 @@ By far, Dean of Buddy Brew Coffee was the most fun competitor to watch in Atlant
 
 <div class="caption">
 
-![Dean at the mic with the competition host.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_138-300x500.jpg) Dean at the mic with the competition host.</div>
+![Dean at the mic with the competition host.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_138-300x500.jpg) Dean at the mic with the competition host.</div>
 
 
 He danced his way through every round. I honestly had to stop myself from laughing at his pure enjoyment of the task at hand. The semi-final round between Buddy Brew and Bold Bean was top-notch, and you can see the genuine respect these baristas have for each other.
 
-![2015_Coffee_Fest_202](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_202-354x500.jpg)
+![2015_Coffee_Fest_202](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_202-354x500.jpg)
 
 Bold Bean moved on to the finals and Buddy Brew went on to best Bonlife Coffee in the bronze-medal match.
 
@@ -139,7 +139,7 @@ Bold Bean moved on to the finals and Buddy Brew went on to best Bonlife Coffee i
 
 <div class="caption">
 
-![Buddy Brew receiving the 3rd Place plaque.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_227-500x476.jpg) Buddy Brew receiving the 3rd Place plaque.</div>
+![Buddy Brew receiving the 3rd Place plaque.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_227-500x476.jpg) Buddy Brew receiving the 3rd Place plaque.</div>
 
 
 How do **the judges** do their job? Well, they evaluate the espresso they receive for balance and complexity of flavors, body and mouthfeel, and the lasting impression the espresso leaves.
@@ -149,7 +149,7 @@ How do **the judges** do their job? Well, they evaluate the espresso they receiv
 
 <div class="caption">
 
-![The judges explain their choices.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_139-500x329.jpg) The judges explain their choices.</div>
+![The judges explain their choices.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_139-500x329.jpg) The judges explain their choices.</div>
 
 
 
@@ -157,7 +157,7 @@ How do **the judges** do their job? Well, they evaluate the espresso they receiv
 
 <div class="caption">
 
-![The competitors, Buddy Brew and PERC Coffee in Bout #4, are entertained by those explanations.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_140-500x341.jpg) The competitors, Buddy Brew and PERC Coffee in Bout #4, are entertained by those explanations.</div>
+![The competitors, Buddy Brew and PERC Coffee in Bout #4, are entertained by those explanations.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_140-500x341.jpg) The competitors, Buddy Brew and PERC Coffee in Bout #4, are entertained by those explanations.</div>
 
 
 It's ultimately a subjective ranking, which is why there are three judges on hand to avoid any inevitable ties. Because competitors used the same blend throughout the two days of competition, I wondered how much having had the espresso before affected the judge's opinions—did they try to discount what they'd sampled before?
@@ -171,7 +171,7 @@ So how did it all break down in Atlanta? The final came down to Bold Beans versu
 
 <div class="caption">
 
-![Second place to Bold Bean Coffee Roasters!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_228-444x500.jpg) Second place to Bold Bean Coffee Roasters!</div>
+![Second place to Bold Bean Coffee Roasters!](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_228-444x500.jpg) Second place to Bold Bean Coffee Roasters!</div>
 
 
 
@@ -179,7 +179,7 @@ So how did it all break down in Atlanta? The final came down to Bold Beans versu
 
 <div class="caption">
 
-![ First Place to Copper Horse Coffee Roasters, represented by John Letoto!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/03/2015_Coffee_Fest_229-413x500.jpg) First Place to Copper Horse Coffee Roasters, represented by John Letoto!</div>
+![ First Place to Copper Horse Coffee Roasters, represented by John Letoto!](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_229-413x500.jpg) First Place to Copper Horse Coffee Roasters, represented by John Letoto!</div>
 
 
 Congrats to them both for such strong finishes and to Bonlife and Buddy Brew for making it to the Top 4. They will all have the chance to compete in the 2016 Grand Championship. For prizes at this regional Coffee Fest, 1st Place received $2000, 2nd $1000, and 3rd $500.

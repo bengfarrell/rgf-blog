@@ -22,7 +22,7 @@ tags:
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon22.jpg "stellarcon22")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon22.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon22.jpg "stellarcon22")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon22.jpg)</div>
 
 
 I am way behind on all my travel posts, but I’m hoping to get that taken care of in the next few weeks. Here’s one on a trip the husband and I took to High Point, NC, for the 35th Stellarcon. “Now old enough to run for president!” was the unofficial slogan. This was my third speculative fiction convention, and Ben’s first.
@@ -33,7 +33,7 @@ A sci-fi/fantasy convention, you say? Where are the crazy pictures? Well, since 
 
 Klingon Karaoke!
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon01-300x286.jpg "stellarcon01")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon01.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon01-300x286.jpg "stellarcon01")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon01.jpg)
 
 Apparently, this is a Stellarcon tradition, with a Klingon and an Enterprise crewwoman hosting the event. I sang a little No Doubt—pretty badly since I didn’t remember the verses to Spiderwebs. Sigh. Other singers had more success.
 
@@ -42,7 +42,7 @@ Apparently, this is a Stellarcon tradition, with a Klingon and an Enterprise cre
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon06.jpg "stellarcon06")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon06.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon06.jpg "stellarcon06")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon06.jpg)</div>
 
 
 
@@ -50,7 +50,7 @@ Apparently, this is a Stellarcon tradition, with a Klingon and an Enterprise cre
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon08.jpg "stellarcon08")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon08.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon08.jpg "stellarcon08")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon08.jpg)</div>
 
 
 
@@ -58,7 +58,7 @@ Apparently, this is a Stellarcon tradition, with a Klingon and an Enterprise cre
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon05.jpg "stellarcon05")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon05.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon05.jpg "stellarcon05")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon05.jpg)</div>
 
 
 On Day 2, Ben and I went for a walk around High Point, as I’d never been there beyond stopping to take a picture there during the [Giant Furniture Adventur](http://blastanova.com/photoalbum/index.html?path=Adventures/Furniture%20Adventure,%20Piedmont,%20NC)e. I was surprised by many of the awesome buildings High Point has that are definitely worthy of a shot or two.
@@ -68,7 +68,7 @@ On Day 2, Ben and I went for a walk around High Point, as I’d never been there
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon09.jpg "stellarcon09")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon09.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon09.jpg "stellarcon09")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon09.jpg)</div>
 
 
 
@@ -76,7 +76,7 @@ On Day 2, Ben and I went for a walk around High Point, as I’d never been there
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon10.jpg "stellarcon10")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon10.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon10.jpg "stellarcon10")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon10.jpg)</div>
 
 
 
@@ -84,35 +84,35 @@ On Day 2, Ben and I went for a walk around High Point, as I’d never been there
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon13.jpg "stellarcon13")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon13.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon13.jpg "stellarcon13")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon13.jpg)</div>
 
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon15.jpg "stellarcon15")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon15.jpg)
-
-
-
-
-<div class="caption">
-
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon16.jpg "stellarcon16")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon16.jpg)</div>
-
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon15.jpg "stellarcon15")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon15.jpg)
 
 
 
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon19.jpg "stellarcon19")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon19.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon16.jpg "stellarcon16")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon16.jpg)</div>
 
-
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon21.jpg "stellarcon21")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon21.jpg)
 
 
 
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon24.jpg "stellarcon24")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon24.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon19.jpg "stellarcon19")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon19.jpg)</div>
+
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon21.jpg "stellarcon21")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon21.jpg)
+
+
+
+
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon24.jpg "stellarcon24")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon24.jpg)</div>
 
 
 That evening, we headed to the costume competition, which is always a highlight for me of these events. Here were my favorite costumed competitors.
@@ -122,7 +122,7 @@ That evening, we headed to the costume competition, which is always a highlight 
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon36.jpg "stellarcon36")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon36.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon36.jpg "stellarcon36")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon36.jpg)</div>
 
 
 
@@ -130,7 +130,7 @@ That evening, we headed to the costume competition, which is always a highlight 
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon40.jpg "stellarcon40")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon40.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon40.jpg "stellarcon40")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon40.jpg)</div>
 
 
 
@@ -138,7 +138,7 @@ That evening, we headed to the costume competition, which is always a highlight 
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon42.jpg "stellarcon42")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon42.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon42.jpg "stellarcon42")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon42.jpg)</div>
 
 
 
@@ -146,7 +146,7 @@ That evening, we headed to the costume competition, which is always a highlight 
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon45.jpg "stellarcon45")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon45.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon45.jpg "stellarcon45")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon45.jpg)</div>
 
 
 
@@ -154,7 +154,7 @@ That evening, we headed to the costume competition, which is always a highlight 
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon48.jpg "stellarcon48")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon48.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon48.jpg "stellarcon48")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon48.jpg)</div>
 
 
 
@@ -162,7 +162,7 @@ That evening, we headed to the costume competition, which is always a highlight 
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon50.jpg "stellarcon50")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/04/stellarcon50.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon50.jpg "stellarcon50")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon50.jpg)</div>
 
 
 I’ll post some more pictures on our photo site eventually, but I’m even farther behind updating there. Oh, the torment of sharing too much personal information over the interwebs--my digital life can never keep up with my real one.

@@ -1,10 +1,10 @@
 ---
 title: "Monte Antico Red Wine 2003"
 date: "2007-04-26"
-categories: 
+categories:
   - "red-wine-review"
   - "sangiovese"
-tags: 
+tags:
   - "2003"
   - "monte-antico-red-wine"
   - "toscany"
@@ -18,4 +18,4 @@ This wine just didn't taste quite natural. The best approximation I can offer is
 
 It's curious...too curious.
 
-![0 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_mushroom1.gif "rating_mushroom1")
+![0 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_mushroom1.gif "rating_mushroom1")

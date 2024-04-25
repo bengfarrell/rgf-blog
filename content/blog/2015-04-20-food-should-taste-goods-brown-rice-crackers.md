@@ -28,12 +28,12 @@ You read all about the Cavalier brunch I attended in March, hosted by [Food Shou
 
 <div class="caption">
 
-![Real Good Bar Sneak Peak!](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/FSTG-bar-452x500.jpg) Real Good Bar Sneak Peak!</div>
+![Real Good Bar Sneak Peak!](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/FSTG-bar-452x500.jpg) Real Good Bar Sneak Peak!</div>
 
 
 Both product lines impressed me, though the macadamia chai bar and the sweet potato tortilla chips stood out from the crowd. I’m also dying to try the kimchi tortilla chips once I come across them. This brand has been going strong since 2006, but those items and the brunch dishes were my first exposure to it. And as their name makes plain, FSTG is obviously a believer in simple-is-best healthy eating.
 
-![food should taste good](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/food-should-taste-good.jpg)
+![food should taste good](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/food-should-taste-good.jpg)
 
 If the ingredient list is long, it's because of all the whole grains used in their recipes, often amaranth, brown rice, flax, and quinoa. Other common items in the cracker recipes included rosemary extract, potato starch, high oleic canola oil, and brown sugar as a sweetener.
 
@@ -42,7 +42,7 @@ If the ingredient list is long, it's because of all the whole grains used in the
 
 <div class="caption">
 
-![The Tomato and Basil](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/FSTG_03-500x333.jpg) The Tomato and Basil</div>
+![The Tomato and Basil](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/FSTG_03-500x333.jpg) The Tomato and Basil</div>
 
 
 FSTG believes in avoiding the mess of lab-created chemical flavorings, opting to bake real vegetables, herbs, and extracts straight into the crackers rather than slathering them with messy powders. That often results in gluten-free and vegan offerings by happy happenstance. I'm neither gluten-free or vegan, but I know that eating more foods that qualify as either for snack food is a healthy game plan.
@@ -60,7 +60,7 @@ In comparison, the roasted red pepper crackers sang with flavor!
 
 <div class="caption">
 
-![The Roasted Red Pepper](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/FSTG_01-500x411.jpg) The Roasted Red Pepper</div>
+![The Roasted Red Pepper](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/FSTG_01-500x411.jpg) The Roasted Red Pepper</div>
 
 
 Dried red peppers were, as to be expected, the main reason for that along with onion powder and dried garlic. I am a very big fan of roasting red peppers, so it's little surprise that I loved them. They'd go well with garlic hummus or tzatziki.
@@ -72,7 +72,7 @@ The tomato and basil was another example of using dried vegetables well. The bri
 
 <div class="caption">
 
-![The Peppercorn](http://www.rebeccagomezfarrell.com/wp-content/uploads/2015/04/FSTG_02-500x333.jpg) The Peppercorn</div>
+![The Peppercorn](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/FSTG_02-500x333.jpg) The Peppercorn</div>
 
 
 Finally, the peppercorn. I could taste each and every one of those white, black, red, and green beauties! I could see big chunks of them, too, though the pepper kick varied widely from chip to chip. For people adverse to spicy heat, they may be a bit too much, but for me, they are definitely a win. They'd do well with a smooth, cooling goat cheese or cream cheese dip.

@@ -1,11 +1,11 @@
 ---
 title: "Wine Review--Hanover Park Mourvedre 2005"
 date: "2009-06-24"
-categories: 
+categories:
   - "mourvedre"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "hanover-park-mourvedre-2005"
   - "hanover-park-wines"
   - "the-gourmez-wine-review"
@@ -22,6 +22,6 @@ It smells like raspberry bottle caps, including the chalkiness of the candy.  T
 
 The wine is mellow.  I'd liken it to an orange or apricot that has been roasted, thus heightening the fruit's richness. There's a hint of lime as well.
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")
 
 _Reviewed 6.14.09._

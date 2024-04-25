@@ -15,7 +15,7 @@ I hope everyone is having a wonderful holiday season. Mine's about to get better
 
 <div class="caption">
 
-[![Ben and me at Union Square.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_San_Francisco_53.jpg)](http://www.rebeccagomezfarrell.com/?attachment_id=7739) Ben and me at Union Square.</div>
+[![Ben and me at Union Square.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_San_Francisco_53.jpg)](http://www.rebeccagomezfarrell.com/?attachment_id=7739) Ben and me at Union Square.</div>
 
 
 \--we're still in need of time away. So I'm taking a break from everyday life and from blogging just until the New Year. To entice you back in January, I offer this teaser of blog posts to come...
@@ -25,7 +25,7 @@ I hope everyone is having a wonderful holiday season. Mine's about to get better
 
 <div class="caption">
 
-[![Wine tasting on Treasure Island.](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/12/2013_Treasure_Island_36.jpg)](http://www.rebeccagomezfarrell.com/?attachment_id=7742) Wine tasting on Treasure Island.</div>
+[![Wine tasting on Treasure Island.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_36.jpg)](http://www.rebeccagomezfarrell.com/?attachment_id=7742) Wine tasting on Treasure Island.</div>
 
 
 Have a very merry Christmas and a fantabulous New Year!

@@ -1,11 +1,11 @@
 ---
 title: "Jacob's Creek Reserve Shiraz 2004"
 date: "2007-04-26"
-categories: 
+categories:
   - "red-wine-review"
   - "shiraz"
   - "wine"
-tags: 
+tags:
   - "2004"
   - "jacobs-creek"
   - "reserve-shiraz"
@@ -17,4 +17,4 @@ Pleasantly earthy and lightly peppery as well. It doesn't taste like a watermelo
 
 Full-bodied and delicious.
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")

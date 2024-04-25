@@ -25,7 +25,7 @@ Curry leaves and pepper come forward in the nose. The taste is interesting: cher
 
 <div class="caption">
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
   Other Bloggers' Thoughts:
 
 [Wine Girl Wines](http://wgwines.com/dinner-with-wine-maker-phil-ryan-of-mcwilliams-winery) on the 2007 vintage

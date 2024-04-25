@@ -19,5 +19,5 @@ The nose is sweet with a hint of lime while first sip is quite herbalicious. Ros
 
 <div class="caption">
 
-![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars</div>
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars</div>
 

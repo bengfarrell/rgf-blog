@@ -1,11 +1,11 @@
 ---
 title: "Villa Concina-Italia Montepulciano d'Abruzza 2004"
 date: "2007-04-26"
-categories: 
+categories:
   - "montepulciano-dabruzza"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "2004"
   - "villa-concina-italia"
 ---
@@ -18,4 +18,4 @@ This is a medium-bodied wine that goes down smoothly. It is dangerous to drink b
 
 The wine smells the same as it tastes but with a tinge of sugar. The elusiveness of flavor makes it potentially interesting but I was bored with the hunt after a glass.
 
-![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1")
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")

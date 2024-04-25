@@ -1,11 +1,11 @@
 ---
 title: "Red Guitar 2005 Navarra"
 date: "2007-04-26"
-categories: 
+categories:
   - "garnacha"
   - "red-wine-review"
   - "tempranillo"
-tags: 
+tags:
   - "2005-wine"
   - "red-guitar-navarra"
   - "tempranillo-garnacha"
@@ -19,4 +19,4 @@ The wine smells of cinnamon and ancho chile powder. It is moderately acidic, pro
 
 Flavorful and intriguing.
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")

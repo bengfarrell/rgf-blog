@@ -38,4 +38,4 @@ Now I hadn't read that poem in years, and I surprisingly realized that (1) I was
 
 I hope you enjoyed my aha moment and "Sardines." I may make a series out of reading my elementary-school short stories and poems. Any guess as to what's going on with this picture?
 
-[![becca whale story](http://www.rebeccagomezfarrell.com/wp-content/uploads/2013/07/becca-whale-story-500x375.jpg)](http://www.rebeccagomezfarrell.com/?attachment_id=6564)If you answered the cover page for a short story that involves a haunted house under water, then you'd be right! And yes, that's a giant blue whale with rainbows and clouds on its skin. Oh yes, it's a winner, my friends. Think _Lightspeed_ would be interested?
+[![becca whale story](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/becca-whale-story-500x375.jpg)](http://www.rebeccagomezfarrell.com/?attachment_id=6564)If you answered the cover page for a short story that involves a haunted house under water, then you'd be right! And yes, that's a giant blue whale with rainbows and clouds on its skin. Oh yes, it's a winner, my friends. Think _Lightspeed_ would be interested?

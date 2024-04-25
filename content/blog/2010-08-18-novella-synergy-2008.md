@@ -27,7 +27,7 @@ It's a lightweight wine and easy to drink. Tannins are light, and the strawberry
 
 <div class="caption">
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")</div>
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
   Other Bloggers' Thoughts:
 
 [Jason's Wine Blog](http://jasonswineblog.com/2007/09/10/2004-novella-synergy/) on the 2004 vintage

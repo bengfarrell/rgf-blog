@@ -1,9 +1,9 @@
 ---
 title: "Les Caves Joseph Bordeaux Rouge 2007---Wine Review"
 date: "2010-02-24"
-categories: 
+categories:
   - "red-bordeaux"
-tags: 
+tags:
   - "2007-vintage"
   - "cherry"
   - "decant-stop-tasting"
@@ -24,7 +24,7 @@ This Bordeaux smells peppery and tingles my nose. It is dry and tart, with a ber
 
 The wine is very drinkable, especially the more you drink of it! It would likely go better with food than on its own.
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")
 
 **Other Bloggers' Thoughts:**
 

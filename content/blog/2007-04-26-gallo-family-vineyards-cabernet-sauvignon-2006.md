@@ -1,10 +1,10 @@
 ---
 title: "Gallo Family Vineyards Cabernet Sauvignon 2006"
 date: "2007-04-26"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "red-wine-review"
-tags: 
+tags:
   - "2006"
   - "gallo-family-vineyards"
 ---
@@ -13,4 +13,4 @@ tags:
 
 This wine has a full aroma of black raspberries. It is mellow when sipped. The flavor of pluots rises to the top.
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")

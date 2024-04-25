@@ -26,7 +26,7 @@ This white smells very sweet, with orange and vanilla notes. The taste does a co
 
 <div class="caption">
 
-![1 star](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/04/rating_olive1.gif "rating_olive1")</div>
+![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
 
 
 Other Bloggers' Thoughts:

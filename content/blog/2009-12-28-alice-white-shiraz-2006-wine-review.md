@@ -24,7 +24,7 @@ _Nose:_ Candied cherry and chocolates. _Taste:_ Bright, ripe cherries and semisw
 
 <div class="caption">
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
 
 
 _Other Bloggers' Thoughts:_

@@ -20,7 +20,7 @@ This wine has a spicy nose of cumin and rich cinnamon.  Figs are the central fr
 
 <div class="caption">
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
 
 
 _Reviewed 7.9.09._

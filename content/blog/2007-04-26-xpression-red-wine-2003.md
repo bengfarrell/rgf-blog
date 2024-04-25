@@ -1,10 +1,10 @@
 ---
 title: "Xpression Red Wine 2003"
 date: "2007-04-26"
-categories: 
+categories:
   - "other-red-blends"
   - "red-wine-review"
-tags: 
+tags:
   - "2003"
   - "xpression-red-wine"
 ---
@@ -17,4 +17,4 @@ The liquid is thinly red to the eye, like a fake plastic garnet. Its nose is ver
 
 This wine is dangerous. It's so wonderfully sweet but is infused with unseen malice. I feel like I'm being chased by a shadow. Lucky for Ironstone, I like the thrill.
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")

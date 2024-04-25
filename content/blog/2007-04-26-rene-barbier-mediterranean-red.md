@@ -1,11 +1,11 @@
 ---
 title: "Rene Barbier Mediterranean Red"
 date: "2007-04-26"
-categories: 
+categories:
   - "merlot"
   - "red-wine-review"
   - "tempranillo"
-tags: 
+tags:
   - "rene-barbier-mediterranean-red"
 ---
 
@@ -19,4 +19,4 @@ The first sip was full of quick flavor flashes: cinnamon, tomato, grape juice, a
 
 The Whole 4 Ounces: The Meditteranean Red's flavors, while full and exciting, end up a tad too uneven when all is said and drank.
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")

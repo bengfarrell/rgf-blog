@@ -1,9 +1,9 @@
 ---
 title: "NakedWines.com Advertising"
 date: "2014-09-18"
-categories: 
+categories:
   - "announcements"
-tags: 
+tags:
   - "advertising"
   - "angels"
   - "crowdfunding"
@@ -28,7 +28,7 @@ Yep, you can click that one, too.
 
 That’s, of course, a big reason why I agreed to host the ad, but I had more motivating factors than hopefully making a few bucks to justify my food writing to myself. And the biggest of those factors is the Angel program. As part of the crowdfunding movement, the NakedWines.com Angel program enables a small group of winemakers to fund their passion projects more easily. Angels pledge $40/month to the program, and the winemakers use those funds to make their wines. Then, when ready, those winemakers offer that wine back to NakedWines.com.
 
-[![Naked Wines circle pic](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/09/Naked-Wines-circle-pic.png)](http://www.rebeccagomezfarrell.com/2014/09/naked-wines-advertising/naked-wines-circle-pic/)
+[![Naked Wines circle pic](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Naked-Wines-circle-pic.png)](http://www.rebeccagomezfarrell.com/2014/09/naked-wines-advertising/naked-wines-circle-pic/)
 
 Anybody can purchase bottles from the website, but Angels get first dibs and roughly half off the price that regular users of NakedWines.com are charged. Or as NakedWines.com more eloquently explains, “NakedWines.com is here to make expensive wines accessible to normal people. We don't do that by strong-arming our suppliers, like some of the big supermarkets. We do it by funding independent winemakers to set up their own business - and we get preferential prices in return.”
 
@@ -40,17 +40,17 @@ Or at least I will be. You see, while I am partnering with NakedWines.com throug
 
 I did go ahead and use that $100 off coupon to purchase a case from NakedWines.com as a regular user and begin trying out their wares.
 
-[![Naked_Wines_001](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/09/Naked_Wines_001-410x500.jpg)](http://www.rebeccagomezfarrell.com/2014/09/naked-wines-advertising/naked_wines_001/)
+[![Naked_Wines_001](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Naked_Wines_001-410x500.jpg)](http://www.rebeccagomezfarrell.com/2014/09/naked-wines-advertising/naked_wines_001/)
 
 I figured it made sense for me to report back on the service to you all if I’m going to advertise it. Just for joining the Angel’s waiting list, I received 3 free bottles of wine as a thank you. I chose the All-American Highest-Rated Wines case, used my coupon, and ended up with 15 bottles of wine for $175. Note: that’s the price for regular users, not an Angel. If I’d waited until I got on the Angel’s list, I likely would have paid about $90 for all those beautiful bottles, counting the voucher.
 
-[![Naked_Wines_003](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/09/Naked_Wines_003-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/09/naked-wines-advertising/naked_wines_003/)
+[![Naked_Wines_003](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Naked_Wines_003-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/09/naked-wines-advertising/naked_wines_003/)
 
 I only wish I’d paid attention to just how many whites were in the case before ordering it—I usually like my 70/30 ratio to break down on the side of the reds.
 
 For those of you that love getting to know winemakers, NakedWines.com also sent cards in the shipment that gave the backgrounds of several of their winemakers along with a welcome packet.
 
-[![Naked_Wines_002](http://www.rebeccagomezfarrell.com/wp-content/uploads/2014/09/Naked_Wines_002-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/09/naked-wines-advertising/naked_wines_002/)
+[![Naked_Wines_002](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Naked_Wines_002-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/09/naked-wines-advertising/naked_wines_002/)
 
 Are the wines any good? I’ll be putting up reviews soon to let you know! Each time I review a NakedWines.com bottle, I’ll make it clear in the post. You can expect a lot of them in the coming weeks.
 

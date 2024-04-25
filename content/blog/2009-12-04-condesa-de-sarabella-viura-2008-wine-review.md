@@ -21,7 +21,7 @@ This pleasant wine starts with a faint nose of apples.  A mild sweetness rolls 
 
 <div class="caption">
 
-![3 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_avocado1.gif "rating_avocado1")</div>
+![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
 
 
 **Other Bloggers' Thoughts:**

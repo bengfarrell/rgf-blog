@@ -38,7 +38,7 @@ tags:
 
 It’s been a while since I’ve had the chance to blog. That’s what a vacation in New Orleans will do for you. But I’m back, and I have a few more posts coming your way from the [TerraVITA 2012](http://www.terravitaevent.com/) food and wine festival. This one is a summary of a fantastic panel that was part of [the Sustainable Classroo](http://www.terravitaevent.com/TerraVITA/SessionDescrip.html)m day of educational sessions. The session title and subject was “Practical vs. Purist: Ideal and the Real World…Can They Really be the Same?”
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012123.jpg "TerraVita2012123")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012123.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012123.jpg "TerraVita2012123")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012123.jpg)
 
 The panel was the perfect blend of people from both sides of the practical versus purist divide, though this wasn’t at all a group of people arguing against using sustainable food sources. Rather, they all agreed that sustainable sourcing is optimal, but the practicality of doing it on different scales was the main question that interested me during the ranging conversation.
 
@@ -49,30 +49,30 @@ First, I must give props to the moderator, Bruce Schoenfeld, the wine and spirit
 
 <div class="caption">
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012129.jpg "TerraVita2012129")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012129.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012129.jpg "TerraVita2012129")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012129.jpg)</div>
 
 
 He had amazing, pointed questions that repeatedly got to the heart of the discussion and didn’t let the conversation dwell on the value of choosing sustainability and local produce. They were all preaching to the choir, so that sort of discussion was unnecessary. Instead, it was the practicality of how much change can be made: Is it really possible to eat all your meals that way? And more importantly, can it be done on any scale of food production?
 
 The other panelists included
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012126.jpg "TerraVita2012126")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012126.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012126.jpg "TerraVita2012126")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012126.jpg)
 
 Scott Marlow, executive director of [RAFI-USA](http://www.rafiusa.org/), an organization that advocates for sustainable family farms,
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012125.jpg "TerraVita2012125")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012125.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012125.jpg "TerraVita2012125")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012125.jpg)
 
 Cassie Parsons, chef and owner of the [Harvest Moon Grille](http://www.harvestmoongrillecharlotte.com/) and Grateful Growers farm in Charlotte,
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012128.jpg "TerraVita2012128")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012128.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012128.jpg "TerraVita2012128")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012128.jpg)
 
 Angelo Mojica, director of food and nutrition services at [UNC Hospitals](http://www.unchealthcare.org/site/healthpatientcare/patient/food/foodservices.htm/) and an adjunct professor of nutrition at UNC,
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012130.jpg "TerraVita2012130")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012130.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012130.jpg "TerraVita2012130")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012130.jpg)
 
 and Nate Peterson, resident district manager for Duke University with the [Bon Appetit](http://www.bamco.com/) management company. The final panelist was farmer Suzanne Meslon of Cozi Farms,
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012131.jpg "TerraVita2012131")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2012/12/TerraVita2012131.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012131.jpg "TerraVita2012131")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012131.jpg)
 
 but she unfortunately had to deal with a friend’s car accident that morning, so she was only able to make a few comments at the end of the session.
 

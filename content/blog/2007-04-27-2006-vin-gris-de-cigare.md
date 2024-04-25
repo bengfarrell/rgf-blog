@@ -22,5 +22,5 @@ It's fairly acidic for a pink wine, as Bonny Doon labeled it, which is why I enj
 
 <div class="caption">
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
 

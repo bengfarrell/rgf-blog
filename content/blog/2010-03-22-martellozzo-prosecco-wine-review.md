@@ -1,10 +1,10 @@
 ---
 title: "Martellozzo Prosecco---Wine Review"
 date: "2010-03-22"
-categories: 
+categories:
   - "prosecco"
   - "sparkling-wine-review"
-tags: 
+tags:
   - "bubbly"
   - "cork"
   - "drinking-my-way-through-trader-joes-wine"
@@ -25,7 +25,7 @@ First of all, this was like no other sparkling wine I've tried before-I had to p
 
 Okay, you came to read about the wine, not my crisis of gourmet progression. There's plenty of pop in this vino, despite the lack of a pull-off cork. It has a smooth, yummy flavor. It's very thin, with floral notes and maybe a touch of lemon. I found it to be a pleasant, refreshing bubbly, and had no complaints whatsoever.
 
-![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1")
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")
 
 Other Bloggers' Thoughts:
 

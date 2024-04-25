@@ -1,10 +1,10 @@
 ---
 title: "Wine Review--Mars and Venus Cabernet Sauvignon 2007"
 date: "2009-05-19"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "red-wine-review"
-tags: 
+tags:
   - "cabernet-sauvignon-review"
   - "mars-and-venus-cabernet-sauvignon"
   - "mars-and-venus-wine"
@@ -21,6 +21,6 @@ The taste is complex and not obnoxiously so, like some wines that pack in too ma
 
 This dry cabernet is a pleasure to drink.  Thanks to whomever of you bought it for my birthday!
 
-![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1")
+![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")
 
 _Reviewed 5.4.09._

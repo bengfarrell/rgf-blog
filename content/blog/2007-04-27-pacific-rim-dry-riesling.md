@@ -1,10 +1,10 @@
 ---
 title: "Pacific Rim Dry Riesling"
 date: "2007-04-27"
-categories: 
+categories:
   - "riesling"
   - "white-wine-reviews"
-tags: 
+tags:
   - "dry-riesling"
   - "pacific-rim"
 ---
@@ -19,4 +19,4 @@ Held to the light, the riesling is flax wheat blond and very clear. My nose coul
 
 An unobtrusive wine that would be perfect for those who love their citrus.
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")

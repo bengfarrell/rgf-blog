@@ -1,9 +1,9 @@
 ---
 title: "Momokawa Pearl Sake"
 date: "2010-07-29"
-categories: 
+categories:
   - "sake"
-tags: 
+tags:
   - "adventures-of-kiwe-and-boo"
   - "banana"
   - "breadfruit"
@@ -27,7 +27,7 @@ tags:
 
 This sake is nigori, so it's unfiltered, and I'm happy to report that it doesn't taste like sour milk like the Snow Maiden nigori sake did. Instead, it's got a delicious creamy flavor of banana, breadfruit, and a bit of kiwi. There's a strong floral element also, which I'll dub lavender. Definitely enjoyable and I will drink it again, with pleasure.
 
-![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1")
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")
 
 Other Bloggers' Thoughts:
 

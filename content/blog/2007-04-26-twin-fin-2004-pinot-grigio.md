@@ -1,10 +1,10 @@
 ---
 title: "Twin Fin 2004 Pinot Grigio"
 date: "2007-04-26"
-categories: 
+categories:
   - "pinot-grigio-gris"
   - "white-wine-reviews"
-tags: 
+tags:
   - "2004"
   - "twin-fin"
 ---
@@ -19,4 +19,4 @@ Smell-Nothing stands out here. I can barely smell a thing.
 
 This is a pleasant wine, palate cleansing, but doesn't leave a mark.
 
-![2 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")
+![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")

@@ -1,11 +1,11 @@
 ---
 title: "Cooking Classes at Bickett Market"
 date: "2011-01-14"
-categories: 
+categories:
   - "events"
   - "ice-cream-bakery-food-truck"
   - "markets"
-tags: 
+tags:
   - "bickett-market"
   - "cooking-classes"
   - "eggs-benedict"
@@ -18,7 +18,7 @@ tags:
   - "sustainable-food"
 ---
 
-[![](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/01/bickett.jpeg "bickett")](http://www.rebeccagomezfarrell.com/wp-content/uploads/2011/01/bickett.jpeg)I have yet to make it to Raleigh’s [Bickett Market](http://www.bickettmarket.com/), but they've received a [lot](http://www.newraleigh.com/articles/archive/spork-this-bickett-market/) [of](http://maggiesproduce.blogspot.com/2010/08/produce-at-bickett-market.html) [praise](http://eatingmywords-jwl.blogspot.com/2010/12/stuffed-cabbage-but-not-from-grandma.html) for their store since they opened last July. It features produce, wines, and meat from local farmers and producers. Turns out, however, that produce is scarcer this time of the year, so Jason Stegall, the owner, is looking to promote their new line-up of cooking classes instead. They also have a bunch of just-plain events coming up. As I’m always happy to promote events involving good food and drink, here’s a list of what they have scheduled for the next week alone:
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/bickett.jpeg "bickett")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/bickett.jpeg)I have yet to make it to Raleigh’s [Bickett Market](http://www.bickettmarket.com/), but they've received a [lot](http://www.newraleigh.com/articles/archive/spork-this-bickett-market/) [of](http://maggiesproduce.blogspot.com/2010/08/produce-at-bickett-market.html) [praise](http://eatingmywords-jwl.blogspot.com/2010/12/stuffed-cabbage-but-not-from-grandma.html) for their store since they opened last July. It features produce, wines, and meat from local farmers and producers. Turns out, however, that produce is scarcer this time of the year, so Jason Stegall, the owner, is looking to promote their new line-up of cooking classes instead. They also have a bunch of just-plain events coming up. As I’m always happy to promote events involving good food and drink, here’s a list of what they have scheduled for the next week alone:
 
 1/15: FRESH the movie screening and locavore meals for two! Jason and his crew of amazing sustainable chefs will be cooking up a locavore meal for you to enjoy during the film followed by an open panel discussion. Come enjoy a delicious meal made with all local, sustainable ingredients, and meet your local farmers, local real-food distributors and find out how you can support them while improving your health.  Among several main characters, FRESH features urban farmer and activist, Will Allen, the recipient of MacArthur's 2008 Genius Award; sustainable farmer and entrepreneur, Joel Salatin, made famous by Michael Pollan's book, _The Omnivore's Dilemma_; and supermarket owner, David Ball, challenging our Wal-Mart dominated economy.
 

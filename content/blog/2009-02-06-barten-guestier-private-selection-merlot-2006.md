@@ -1,10 +1,10 @@
 ---
 title: "Barten &amp; Guestier Private Selection Merlot 2006"
 date: "2009-02-06"
-categories: 
+categories:
   - "merlot"
   - "red-wine-review"
-tags: 
+tags:
   - "barten-guestier"
 ---
 
@@ -14,4 +14,4 @@ I must note that the label features a lovely piece of impressionist artwork with
 
 I did not discern a smell for this wine.  It is light with an initial dash of pepper, only enough to tickle your tongue.  That gives way to the taste of dried red currants and musty leather.
 
-![rating_chicken11](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_chicken11.gif "rating_chicken11")
+![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")

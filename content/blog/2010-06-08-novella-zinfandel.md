@@ -25,7 +25,7 @@ This wine has everything I love in a zinfandel, especially that dense layer of t
 
 <div class="caption">
 
-![4 stars](http://www.rebeccagomezfarrell.com/wp-content/uploads/2009/02/rating_truffle1.gif "rating_truffle1")</div>
+![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
   Other Bloggers' Thoughts:
 
 [Irregular Times](http://irregulartimes.com/index.php/archives/2008/11/16/novella-zinfandel-by-paso-robles/)
