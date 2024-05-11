@@ -5,7 +5,7 @@ categories:
   - "dessert-wine-reviews"
   - "red-wine-review"
   - "tasting-rooms-in-the-finger-lakes-ny"
-  - "travel-guide-for-the-finger-lakes"
+  - "travel-guide"
   - "white-wine-reviews"
   - "wine"
   - "wine-bloggers-conference-2015"

@@ -5,7 +5,7 @@ categories:
   - "coffee-shop"
   - "minneapolis-dining"
   - "restaurants"
-  - "minneapolis-travel"
+  - "travel-guide"
 tags:
   - "baby-geese"
   - "bridge"

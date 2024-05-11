@@ -7,7 +7,7 @@ categories:
   - "product-reviews"
   - "restaurants"
   - "sake"
-  - "travel-product-review"
+  - "travel-guide"
   - "wine"
 tags: 
   - "18-seaboard"

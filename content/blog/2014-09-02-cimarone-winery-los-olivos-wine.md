@@ -6,7 +6,7 @@ categories:
   - "red-wine-review"
   - "shiraz"
   - "tasting-rooms-in-los-olivos-ca"
-  - "los-olivos-travel"
+  - "travel-guide"
   - "wine-bloggers-conference-2014-buellton"
 tags:
   - "3cv"

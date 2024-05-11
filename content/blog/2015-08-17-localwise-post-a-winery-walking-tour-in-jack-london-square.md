@@ -5,7 +5,7 @@ categories:
   - "bars-in-oakland"
   - "publication-news"
   - "tasting-rooms-in-oakland-ca"
-  - "travel-guide-for-oakland"
+  - "travel-guide"
   - "wine"
 tags: 
   - "dashe"

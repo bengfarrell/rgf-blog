@@ -7,8 +7,8 @@ categories:
   - "dining-in-prosser-wa"
   - "restaurants"
   - "tasting-rooms-in-prosser"
-  - "travel-guide-for-prosser"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "alys-means"
   - "andrea-schutt"

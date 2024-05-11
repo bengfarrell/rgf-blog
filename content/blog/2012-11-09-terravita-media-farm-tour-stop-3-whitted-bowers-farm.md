@@ -3,8 +3,8 @@ title: "TerraVITA Media Farm Tour: Stop 3, Whitted Bowers Farm"
 date: "2012-11-09"
 categories:
   - "events"
-  - "chapel-hill-north-carolina-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "biodynamic"
   - "biodynamics"

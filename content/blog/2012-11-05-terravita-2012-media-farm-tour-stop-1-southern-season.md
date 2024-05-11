@@ -7,8 +7,8 @@ categories:
   - "events"
   - "ice-cream-bakery-food-truck"
   - "markets"
-  - "chapel-hill-north-carolina-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
   - "wine"
 tags:
   - "bakery"

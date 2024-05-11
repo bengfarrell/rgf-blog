@@ -5,8 +5,8 @@ categories:
   - "bars-in-vancouver-canada"
   - "dining-vancouver-canada"
   - "restaurants"
-  - "travel-guide-for-vancouver"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "bao-down"
   - "british-columbia"

@@ -5,7 +5,7 @@ categories:
   - "charlottesville-virginia-bar-reviews"
   - "charlottesville-virginia-restaurant-reviews"
   - "restaurants"
-  - "charlottesville-virginia-travel"
+  - "travel-guide"
 tags: 
   - "blue-moon-diner"
   - "breakfast"

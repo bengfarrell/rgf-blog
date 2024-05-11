@@ -9,7 +9,7 @@ categories:
   - "riesling"
   - "sauvignon-blanc"
   - "sparkling-wine-review"
-  - "travel-guide-for-the-finger-lakes"
+  - "travel-guide"
   - "vidal-blanc"
   - "wine"
   - "wine-bloggers-conference-2015"

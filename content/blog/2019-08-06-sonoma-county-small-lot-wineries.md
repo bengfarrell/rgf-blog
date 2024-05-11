@@ -10,8 +10,8 @@ categories:
   - "red-wine-review"
   - "sparkling-wine-review"
   - "tasting-rooms-in-sonoma-ca"
-  - "sonoma-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
   - "white-wine-reviews"
   - "wine"
 tags:

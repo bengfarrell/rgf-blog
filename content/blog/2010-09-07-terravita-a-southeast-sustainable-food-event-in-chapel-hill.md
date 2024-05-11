@@ -4,8 +4,8 @@ date: "2010-09-07"
 categories: 
   - "events"
   - "restaurants"
-  - "chapel-hill-north-carolina-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags: 
   - "biodynamic"
   - "carolina-farm-stwardship-association"

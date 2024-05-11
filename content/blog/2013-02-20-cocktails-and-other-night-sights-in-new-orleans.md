@@ -4,7 +4,7 @@ date: "2013-02-20"
 categories:
   - "spirits"
   - "new-orleans-bar-review"
-  - "new-orleans-travel"
+  - "travel-guide"
 tags:
   - "aquarium-of-the-americas"
   - "balcony"

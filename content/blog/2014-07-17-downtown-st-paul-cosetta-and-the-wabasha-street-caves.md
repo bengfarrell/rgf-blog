@@ -4,7 +4,7 @@ date: "2014-07-17"
 categories:
   - "dining-st-paul"
   - "restaurants"
-  - "st-paul-saint-travel-minnesota"
+  - "travel-guide"
 tags:
   - "cathedral-of-saint-paul"
   - "caves"

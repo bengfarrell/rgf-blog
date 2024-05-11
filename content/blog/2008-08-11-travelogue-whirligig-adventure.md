@@ -2,7 +2,7 @@
 title: "Travelogue:  Whirligig Adventure"
 date: "2008-08-11"
 categories: 
-  - "travel-guide-for-the-whirligigs-of-nc"
+  - "travel-guide"
 ---
 
 Ben and I had been cooped up in the house for way too long this past July so we decided it was high time for an adventure. Occasionally, we go off for an afternoon and hunt for whatever random sights strike my fancy with the aid of a guidebook and trusty MapQuest directions.

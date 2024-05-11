@@ -4,7 +4,7 @@ date: "2009-10-12"
 categories: 
   - "bars"
   - "bars"
-  - "travel-guide-for-athens-ga"
+  - travel-guide"
 tags: 
   - "athens-ga"
   - "athens-music-tour"

@@ -4,7 +4,7 @@ date: "2014-07-10"
 categories:
   - "minneapolis-dining"
   - "restaurants"
-  - "minneapolis-travel"
+  - "travel-guide"
 tags:
   - "beer-review"
   - "day-trip"

@@ -4,7 +4,7 @@ date: "2013-04-01"
 categories:
   - "breweries"
   - "breweries-in-kinston-nc"
-  - "kinston-north-carolina-travel"
+  - "travel-guide"
 tags:
   - "beer"
   - "brewery"

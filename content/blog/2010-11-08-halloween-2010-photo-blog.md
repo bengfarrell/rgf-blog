@@ -3,7 +3,7 @@ title: "Halloween 2010 Photo Blog"
 date: "2010-11-08"
 categories:
   - "events"
-  - "chapel-hill-north-carolina-travel"
+  - "travel-guide"
 tags:
   - "2010"
   - "alien"

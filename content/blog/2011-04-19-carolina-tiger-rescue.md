@@ -2,7 +2,7 @@
 title: "Carolina Tiger Rescue"
 date: "2011-04-19"
 categories:
-  - "raleigh-travel"
+  - "travel-guide"
 tags:
   - "binturong"
   - "blind-tiger"

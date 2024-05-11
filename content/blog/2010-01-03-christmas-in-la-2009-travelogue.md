@@ -2,7 +2,7 @@
 title: "Christmas in LA 2009 -- Travelogue"
 date: "2010-01-03"
 categories:
-  - "los-angeles-travel"
+  - "travel-guide"
 tags:
   - "avila-adobe"
   - "christmas-eve-dinner"

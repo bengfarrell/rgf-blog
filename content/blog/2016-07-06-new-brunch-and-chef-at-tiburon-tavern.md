@@ -4,7 +4,7 @@ date: "2016-07-06"
 categories:
   - "dining-in-tiburon"
   - "restaurants"
-  - "travel-product-review"
+  - "travel-guide"
 tags:
   - "bay-area-overnights"
   - "beet-cocktails"

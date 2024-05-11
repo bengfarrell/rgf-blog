@@ -5,7 +5,7 @@ categories:
   - "bars"
   - "brooklyn-restaurant-reviews"
   - "restaurants"
-  - "brooklyn-travel"
+  - "travel-guide"
 tags: 
   - "auto-bahn-bahn"
   - "brooklyn"

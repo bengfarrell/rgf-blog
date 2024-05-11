@@ -4,8 +4,8 @@ date: "2010-10-20"
 categories: 
   - "events"
   - "restaurants"
-  - "chapel-hill-north-carolina-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags: 
   - "biodynamic"
   - "carrboro-coffee-company"

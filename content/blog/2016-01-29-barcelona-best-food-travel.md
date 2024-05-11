@@ -5,7 +5,7 @@ categories:
   - "cava"
   - "dining-barcelona"
   - "restaurants"
-  - "barcelona-spain-catalunya-travel-tips"
+  - travel-guide"
 tags:
   - "barcelona"
   - "carpaccio"

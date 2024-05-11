@@ -3,7 +3,7 @@ title: "The Sustainable Classroom: Practical Vs. Purist"
 date: "2012-12-07"
 categories:
   - "events"
-  - "travel-product-review"
+  - "travel-guide"
 tags:
   - "2012"
   - "angelo-mojica"

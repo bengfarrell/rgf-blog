@@ -3,7 +3,7 @@ title: "Breakfast Highlights of the Eixample"
 date: "2015-01-29"
 categories:
   - "dining-barcelona"
-  - "barcelona-spain-catalunya-travel-tips"
+  - "travel-guide"
 tags:
   - "alsur-cafe"
   - "architecture"

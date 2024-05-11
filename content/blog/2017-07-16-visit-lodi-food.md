@@ -6,8 +6,8 @@ categories:
   - "dining-in-lodi-ca"
   - "restaurants"
   - "tasting-rooms-in-lodi-ca"
-  - "lodi-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "cheese-central"
   - "chef-bernardo-martinez"

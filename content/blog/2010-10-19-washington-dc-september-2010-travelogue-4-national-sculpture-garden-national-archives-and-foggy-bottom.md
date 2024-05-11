@@ -5,7 +5,7 @@ categories:
   - "washington-dc-bars"
   - "dining-in-washington-dc"
   - "restaurants"
-  - "washington-dc-tourism"
+  - "travel-guide"
 tags: 
   - "dc-nightlife"
   - "dc-streets"

@@ -2,7 +2,7 @@
 title: "Yosemite Valley Panoramas Part 2: Glacier Point, Yosemite Falls, and Giant Sequoias"
 date: "2012-09-03"
 categories:
-  - "yosemite-travel"
+  - "travel-guide"
 tags:
   - "giant-sequoias"
   - "glacier-point"

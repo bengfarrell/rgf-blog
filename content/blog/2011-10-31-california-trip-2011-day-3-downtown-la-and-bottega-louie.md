@@ -4,7 +4,7 @@ date: "2011-10-31"
 categories: 
   - "los-angeles-restaurant-reviews"
   - "restaurants"
-  - "los-angeles-travel"
+  - "travel-guide"
 tags: 
   - "ardas-cafe"
   - "avocado"

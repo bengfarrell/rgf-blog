@@ -2,7 +2,7 @@
 title: "Eno River Hike"
 date: "2009-05-22"
 categories:
-  - "durham-north-carolina-travel"
+  - "travel-guide"
 tags:
   - "christa-gomez"
   - "durham-water-pump"

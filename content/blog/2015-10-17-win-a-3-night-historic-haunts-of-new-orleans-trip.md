@@ -3,7 +3,7 @@ title: "Win a 3-Night Historic Haunts of New Orleans Trip!"
 date: "2015-10-17"
 categories:
   - "announcements"
-  - "new-orleans-travel"
+  - "travel-guide"
 tags:
   - "contest"
   - "ghost-tour"

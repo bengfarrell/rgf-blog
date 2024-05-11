@@ -4,7 +4,7 @@ date: "2011-05-24"
 categories: 
   - "minneapolis-dining"
   - "sake"
-  - "minneapolis-travel"
+  - "travel-guide"
   - "wine"
 tags: 
   - "architecture"

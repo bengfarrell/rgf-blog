@@ -10,8 +10,8 @@ categories:
   - "zinfandel"
   - "tasting-rooms-in-healdsburg"
   - "tasting-rooms-in-sonoma-ca"
-  - "sonoma-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "acorn-winery"
   - "armida-winery"

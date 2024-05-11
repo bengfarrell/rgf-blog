@@ -10,8 +10,8 @@ categories:
   - "sparkling-wine-review"
   - "tasting-rooms-in-prosser"
   - "tempranillo"
-  - "travel-guide-for-prosser"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
   - "white-wine-reviews"
   - "wine"
 tags:
