@@ -1,8 +1,9 @@
 ---
 title: "Travelogue:  Lisa Ayers' Wedding and Gettysburg, PA"
 date: "2008-06-22"
-categories: 
-- "travel-guide"---
+categories:
+- "travel-guide"
+---
 
 For this journey, we had three goals:
 

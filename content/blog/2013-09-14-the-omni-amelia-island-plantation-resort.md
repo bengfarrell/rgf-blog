@@ -3,7 +3,7 @@ title: "The Omni Amelia Island Plantation Resort"
 date: "2013-09-14"
 categories:
   - "restaurants"
- - "travel-guide"
+  - "travel-guide"
 tags:
   - "adult"
   - "amelia-island"
