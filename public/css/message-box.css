@@ -2,11 +2,12 @@
 .message-box {
 	--color-message-box: #ffc;
 
-	display: block;
+	display: flex;
 	background-color: var(--accent-color-lighter);
 	color: var(--color-gray-90);
 	padding: 1em 0.625em; /* 16px 10px /16 */
 }
-.message-box ol {
-	margin-top: 0;
+.message-box img {
+	height: 250px;
+	margin-right: 15px;
 }

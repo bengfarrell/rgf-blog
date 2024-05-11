@@ -57,14 +57,19 @@ module.exports = function(eleventyConfig) {
 		return collection.filter(post => {
 		  return requiredTags.flat().every(tag => post.data.tags.includes(tag));
 		});
-	  });
+	});
 
 
 	eleventyConfig.addFilter("filterByCommonCategories", function(collection = [], ...requiredCategories) {
 		const filtered = collection.filter(post => {
 			return haveCommonItems(post.data.categories, requiredCategories.flat());
-			//return post.data.categories.filter(value => requiredCategories.flat().includes(value));
-			//return requiredCategories.flat().every(category => post.data.categories?.includes(category));
+		});
+		return filtered;
+	});
+
+	eleventyConfig.addFilter("filterByCommonTags", function(collection = [], ...requiredTags) {
+		const filtered = collection.filter(post => {
+			return haveCommonItems(post.data.tags, requiredTags.flat());
 		});
 		return filtered;
 	});

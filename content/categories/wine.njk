@@ -1,0 +1,13 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+	key: Wine
+	order: 1
+	numberOfLatestPostsToShow: 20
+---
+
+<section>
+	<h1>Wine</h1>
+	{% set postslist = collections.posts | filterByCommonCategories(['wine']) | head(-1 * numberOfLatestPostsToShow) %}
+	{% include "postslist.njk" %}
+</section>

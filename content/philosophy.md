@@ -1,8 +1,9 @@
+---
 layout: layouts/post.njk
 ---
 <h1>The Gourmez’s Review Philosophy</h1>
 
-At The Gourmez, I aim to bring readers an average consumer’s opinion on food, drink, and travel adventures. They are solely my opinions. That holds true whether I am paying on my own dime or given a freebie to sample. I always disclose samples and complimentary meals with a disclaimer at the top of a post. Read my disclosure policy here [link to Disclosures page].
+At The Gourmez, I aim to bring readers an average consumer’s opinion on food, drink, and travel adventures. They are solely my opinions. That holds true whether I am paying on my own dime or given a freebie to sample. I always disclose samples and complimentary meals with a disclaimer at the top of a post. Read my disclosure policy [here](/disclosures).
 
 My first post at The Gourmez appeared in 2007, born out of a desire to learn more about the burgeoning North Carolina farm-to-fork movement, where I lived at the time. Since 2013, when I moved back to California, I’ve been mostly focused on chronicling my Bay Area foodie adventures, with an emphasis on Alameda County, where I live. I took a break from blogging during the early pandemic years, but with this website refresh, I’m back! Thanks to my amazing husband, Ben, for the redesign.
 

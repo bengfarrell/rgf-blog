@@ -1,0 +1,13 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+	key: Bakeries
+	order: 1
+	numberOfLatestPostsToShow: 20
+---
+
+<section>
+	<h1>Bakeries</h1>
+	{% set postslist = collections.posts | filterByCommonCategories(['bakeries']) | head(-1 * numberOfLatestPostsToShow) %}
+	{% include "postslist.njk" %}
+</section>
