@@ -3,7 +3,7 @@ title: "Washington DC September 2010: Georgetown food, the Tidal Basin, and FDR 
 date: "2010-10-02"
 categories: 
   - "restaurants"
-  - "washington-dc-tourism"
+  - "travel-guide"
 tags: 
   - "aditi"
   - "cherry-blossom-grove"

@@ -2,7 +2,7 @@
 title: "Amelia Island: Downtown Fernandina Beach and Walker's Landing"
 date: "2013-11-14"
 categories:
-  - "amelia-island-florida-travel"
+ - "travel-guide"
 tags:
   - "amelia-island"
   - "day-trip"

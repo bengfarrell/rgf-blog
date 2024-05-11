@@ -2,8 +2,8 @@
 title: "China Camp State Park Hiking"
 date: "2015-12-24"
 categories:
-  - "san-francisco-travel"
-  - "travel-guide-for-san-rafael"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "bay-area"
   - "california-history"

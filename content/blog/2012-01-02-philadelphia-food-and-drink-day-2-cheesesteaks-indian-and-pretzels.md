@@ -4,7 +4,7 @@ date: "2012-01-02"
 categories:
   - "philadelphia-restaurant-review"
   - "restaurants"
-  - "philadelphia-travel"
+  - "travel-guide"
 tags:
   - "cash-only"
   - "center-city"

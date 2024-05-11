@@ -9,7 +9,7 @@ categories:
   - "ice-cream-bakery-food-truck"
   - "restaurants"
   - "tasting-rooms-in-durham-nc"
-  - "durham-north-carolina-travel"
+  - "travel-guide"
   - "writing"
 tags:
   - "bar-lusconi"

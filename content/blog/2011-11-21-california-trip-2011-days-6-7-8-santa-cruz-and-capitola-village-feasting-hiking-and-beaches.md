@@ -4,7 +4,7 @@ date: "2011-11-21"
 categories: 
   - "santa-cruz-restaurant-reviews"
   - "restaurants"
-  - "santa-cruz-travel"
+  - "travel-guide"
 tags: 
   - "2011"
   - "515"

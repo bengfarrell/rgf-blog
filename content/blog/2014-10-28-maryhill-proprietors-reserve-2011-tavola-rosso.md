@@ -5,7 +5,7 @@ categories:
   - "red-wine-review"
   - "super-tuscan"
   - "tasting-rooms-in-maryhill-wa"
-  - "maryhill-washington-travel"
+  - "travel-guide"
 tags:
   - "2011"
   - "cassie-courtney"

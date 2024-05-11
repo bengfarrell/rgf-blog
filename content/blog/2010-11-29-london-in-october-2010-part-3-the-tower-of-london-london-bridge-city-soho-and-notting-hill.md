@@ -3,7 +3,7 @@ title: "London in October 2010, Part 3: The Tower of London, London Bridge City,
 date: "2010-11-29"
 categories:
   - "dining-london"
-  - "london-uk-travel"
+  - "travel-guide"
 tags:
   - "2010"
   - "alounak"

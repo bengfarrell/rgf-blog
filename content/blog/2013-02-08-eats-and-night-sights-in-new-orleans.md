@@ -5,7 +5,7 @@ categories:
   - "new-orleans-bar-review"
   - "new-orleans-restaurant-review"
   - "restaurants"
-  - "new-orleans-travel"
+  - "travel-guide"
 tags:
   - "alligator"
   - "bar"

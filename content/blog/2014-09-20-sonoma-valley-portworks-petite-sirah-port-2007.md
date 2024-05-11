@@ -6,7 +6,7 @@ categories:
   - "petite-sirah"
   - "port-fortified-wine"
   - "tasting-rooms-in-sonoma-ca"
-  - "sonoma-travel"
+  - "travel-guide"
   - "wine"
 tags:
   - "2007"

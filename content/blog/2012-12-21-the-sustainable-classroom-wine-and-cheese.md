@@ -3,8 +3,8 @@ title: "The Sustainable Classroom #4: Wine and Cheese"
 date: "2012-12-21"
 categories:
   - "events"
-  - "chapel-hill-north-carolina-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
   - "wine"
 tags:
   - "alexander-kast"

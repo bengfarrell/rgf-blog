@@ -2,7 +2,7 @@
 title: "A Tour of Mission San Luis Obispo"
 date: "2014-09-04"
 categories:
-  - "san-luis-obispo-travel"
+  - "travel-guide"
 tags:
   - "california-missions"
   - "de-tolosa"

@@ -4,7 +4,7 @@ date: "2011-06-10"
 categories: 
   - "minneapolis-dining"
   - "restaurants"
-  - "minneapolis-travel"
+  - "travel-guide"
 tags: 
   - "big-pickle"
   - "butterscotch-pudding"

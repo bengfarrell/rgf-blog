@@ -7,8 +7,8 @@ categories:
   - "food-trucks-and-carts"
   - "ice-cream-bakery-food-truck"
   - "restaurants"
-  - "chapel-hill-north-carolina-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "2012"
   - "ariyeh"

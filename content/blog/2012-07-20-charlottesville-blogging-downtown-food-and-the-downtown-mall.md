@@ -6,7 +6,7 @@ categories:
   - "coffee-shop"
   - "charlottesville-virginia-restaurant-reviews"
   - "restaurants"
-  - "charlottesville-virginia-travel"
+  - "travel-guide"
 tags:
   - "amphitheater"
   - "cafe-cubano"

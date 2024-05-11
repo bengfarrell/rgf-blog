@@ -4,8 +4,8 @@ date: "2016-01-15"
 categories:
   - "dining-vancouver-canada"
   - "restaurants"
-  - "travel-guide-for-vancouver"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "burrard-inlet"
   - "canada"

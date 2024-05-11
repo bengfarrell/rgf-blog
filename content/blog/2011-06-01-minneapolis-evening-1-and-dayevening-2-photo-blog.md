@@ -5,7 +5,7 @@ categories:
   - "bars"
   - "bars-in-minneapolis-mn"
   - "restaurants"
-  - "minneapolis-travel"
+  - "travel-guide"
 tags: 
   - "2-gingers-whiskey"
   - "brain-splurge"

@@ -4,8 +4,8 @@ date: "2012-12-14"
 categories:
   - "events"
   - "zinfandel"
-  - "chapel-hill-north-carolina-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
   - "wine"
 tags:
   - "2012"

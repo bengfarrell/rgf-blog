@@ -4,7 +4,7 @@ date: "2011-10-24"
 categories: 
   - "los-angeles-restaurant-reviews"
   - "restaurants"
-  - "los-angeles-travel"
+  - "travel-guide"
 tags: 
   - "bar-chloe"
   - "barbecue-mac-and-cheese"

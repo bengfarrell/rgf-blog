@@ -4,8 +4,8 @@ date: "2016-12-19"
 categories:
   - "red-wine-review"
   - "tasting-rooms-in-prosser"
-  - "travel-guide-for-prosser"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
   - "white-wine-reviews"
 tags:
   - "alexandria-nicole"

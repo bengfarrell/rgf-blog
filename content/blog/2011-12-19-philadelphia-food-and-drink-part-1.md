@@ -7,7 +7,7 @@ categories:
   - "gin-reviews"
   - "restaurants"
   - "spirits"
-  - "philadelphia-travel"
+  - "travel-guide"
 tags:
   - "basil-hayden"
   - "black-sheep"

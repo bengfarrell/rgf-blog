@@ -2,8 +2,8 @@
 title: "The Lodge at Tiburon"
 date: "2016-08-04"
 categories:
-  - "travel-guide-for-tiburon"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "angel-island"
   - "ca"

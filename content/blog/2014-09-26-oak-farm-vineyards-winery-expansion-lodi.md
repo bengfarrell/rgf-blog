@@ -4,8 +4,8 @@ date: "2014-09-26"
 categories:
   - "events"
   - "tasting-rooms-in-lodi-ca"
-  - "lodi-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
   - "wine"
 tags:
   - "central-california"

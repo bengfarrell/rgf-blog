@@ -4,7 +4,7 @@ date: "2013-02-04"
 categories:
   - "bars"
   - "breweries-in-abita-springs-la"
-  - "new-orleans-travel"
+  - "travel-guide"
 tags:
   - "abita-brewery"
   - "abita-mystery-house"

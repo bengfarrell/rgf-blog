@@ -2,7 +2,7 @@
 title: "North Carolina Botanical Gardens"
 date: "2010-04-27"
 categories: 
-  - "chapel-hill-north-carolina-travel"
+  - "travel-guide"
 tags: 
   - "chapel-hill-hiking"
   - "north-carolina-botanical-garden-pitcher-plants"

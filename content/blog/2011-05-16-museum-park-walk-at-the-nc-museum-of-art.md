@@ -2,7 +2,7 @@
 title: "Museum Park Walk at the NC Museum of Art"
 date: "2011-05-16"
 categories:
-  - "raleigh-travel"
+  - "travel-guide"
 tags:
   - "adelle-moe"
   - "askew"

@@ -6,7 +6,7 @@ categories:
   - "dining-in-sonoma"
   - "restaurants"
   - "tasting-rooms-in-sonoma-ca"
-  - "sonoma-travel"
+  - "travel-guide"
   - "wine"
 tags:
   - "affogato"

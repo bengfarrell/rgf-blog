@@ -5,8 +5,8 @@ categories:
   - "dining-vancouver-canada"
   - "restaurants"
   - "sake"
-  - "travel-guide-for-vancouver"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "artisan-sake-maker"
   - "british-columbia"

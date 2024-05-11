@@ -5,7 +5,7 @@ categories:
   - "announcements"
   - "oakland-restaurant-reviews"
   - "restaurants"
-  - "travel-guide-for-oakland"
+  - "travel-guide"
 tags: 
   - "best-oakland-dining"
   - "best-oakland-eats"

@@ -4,7 +4,7 @@ date: "2011-11-14"
 categories: 
   - "los-angeles-restaurant-reviews"
   - "restaurants"
-  - "los-angeles-travel"
+  - "travel-guide"
 tags: 
   - "adam-sandler"
   - "al-pacino"

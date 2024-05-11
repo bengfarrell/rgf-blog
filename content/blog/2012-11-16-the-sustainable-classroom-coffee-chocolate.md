@@ -8,7 +8,7 @@ categories:
   - "raleigh-coffee-shop-reviews"
   - "events"
   - "ice-cream-bakery-food-truck"
-  - "travel-product-review"
+  - "travel-guide"
 tags:
   - "carrboro-coffee"
   - "chapel-hill"

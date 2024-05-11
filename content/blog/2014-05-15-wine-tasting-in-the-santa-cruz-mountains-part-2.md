@@ -3,7 +3,7 @@ title: "Wine Tasting in the Santa Cruz Mountains Part 2"
 date: "2014-05-15"
 categories:
   - "tasting-rooms-in-the-santa-cruz-mountains"
-  - "santa-cruz-travel"
+  - "travel-guide"
   - "wine"
 tags:
   - "bay-area"

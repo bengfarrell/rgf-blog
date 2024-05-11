@@ -2,7 +2,7 @@
 title: "Barcelona Museums Worth Exploring"
 date: "2015-08-24"
 categories: 
-  - "barcelona-spain-catalunya-travel-tips"
+  - travel-guide"
 tags: 
   - "barcelona"
   - "catalonia"

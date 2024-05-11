@@ -6,7 +6,7 @@ categories:
   - "red-wine-review"
   - "rose-review"
   - "tasting-rooms-in-livermore-ca"
-  - "travel-guide-for-livermore-ca"
+  - "travel-guide"
   - "white-wine-reviews"
   - "wine"
   - "wine-bloggers-conference-2016"

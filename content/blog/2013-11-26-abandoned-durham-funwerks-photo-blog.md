@@ -2,7 +2,7 @@
 title: "Abandoned Durham Funwerks Photo Blog"
 date: "2013-11-26"
 categories:
-  - "durham-north-carolina-travel"
+  - "travel-guide"
 tags:
   - "abandoned"
   - "adventure"

@@ -5,7 +5,7 @@ categories:
   - "coffee-shop"
   - "durham-coffee-shop-reviews"
   - "events"
-  - "durham-north-carolina-travel"
+  - "travel-guide"
 tags:
   - "break"
   - "brightness"

@@ -2,7 +2,7 @@
 title: "Charleston, SC---Travelogue"
 date: "2010-05-03"
 categories: 
-  - "travel-guide-for-charleston-sc"
+  - "travel-guide"
 tags: 
   - "arthur-ravenel-bridge"
   - "carriage-ride"

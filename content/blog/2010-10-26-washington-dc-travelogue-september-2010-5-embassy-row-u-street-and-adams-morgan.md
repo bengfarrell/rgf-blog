@@ -5,7 +5,7 @@ categories:
   - "washington-dc-bars"
   - "coffee-shop"
   - "restaurants"
-  - "washington-dc-tourism"
+  - "travel-guide"
 tags: 
   - "adams-morgan"
   - "embassy-row"

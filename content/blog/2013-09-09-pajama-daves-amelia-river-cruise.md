@@ -2,7 +2,7 @@
 title: "Pajama Dave's Amelia River Cruise"
 date: "2013-09-09"
 categories:
-  - "amelia-island-florida-travel"
+  - "travel-guide"
 tags:
   - "amelia-island"
   - "amelia-river"

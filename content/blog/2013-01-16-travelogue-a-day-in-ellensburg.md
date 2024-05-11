@@ -5,7 +5,7 @@ categories:
   - "coffee-shop"
   - "dining-in-ellensburg-wa"
   - "restaurants"
-  - "ellensburg-travel"
+  - "travel-guide"
 tags:
   - "art"
   - "buildings"

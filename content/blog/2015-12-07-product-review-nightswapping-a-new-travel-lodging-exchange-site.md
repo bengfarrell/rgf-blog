@@ -3,8 +3,8 @@ title: "Product Review: Nightswapping, a New Travel Lodging Exchange Site!"
 date: "2015-12-07"
 categories:
   - "product-reviews"
-  - "travel-guide-for-vancouver"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "canada"
   - "exchange-nights"

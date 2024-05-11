@@ -2,7 +2,7 @@
 title: "Tourist Musts for the Outer Banks"
 date: "2013-12-10"
 categories:
-  - "outer-banks-north-carolina-travel"
+  - "travel-guide"
 tags:
   - "beaches"
   - "bodie-island-lighthouse"

@@ -2,7 +2,7 @@
 title: "Sutro Baths and Land's End"
 date: "2015-01-20"
 categories:
-  - "san-francisco-travel"
+  - "travel-guide"
 tags:
   - "abandoned-places"
   - "day-trip"

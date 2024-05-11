@@ -3,7 +3,7 @@ title: "Corn Maze Adventure 2010!"
 date: "2010-10-14"
 categories: 
   - "events"
-  - "durham-north-carolina-travel"
+  - "travel-guide"
 tags: 
   - "corn-maze"
   - "corn-maze-adventure"

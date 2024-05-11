@@ -2,7 +2,7 @@
 title: "A Mural Tour in the Mission"
 date: "2014-04-17"
 categories:
-  - "san-francisco-travel"
+  - "travel-guide"
 tags:
   - "24th-and-york"
   - "art"

@@ -2,7 +2,7 @@
 title: "Panoramas of Los Angeles in July 2012"
 date: "2012-08-20"
 categories:
-  - "los-angeles-travel"
+  - "travel-guide"
 tags:
   - "cactus-garden"
   - "central-garden"

@@ -7,7 +7,7 @@ categories:
   - "restaurants"
   - "sake"
   - "shochu"
-  - "los-angeles-travel"
+  - "travel-guide"
 tags: 
   - "barbacoa"
   - "beef-jerky"

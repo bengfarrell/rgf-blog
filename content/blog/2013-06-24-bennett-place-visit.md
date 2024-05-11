@@ -3,7 +3,7 @@ title: "Bennett Place Visit"
 date: "2013-06-24"
 categories:
   - "events"
-  - "durham-north-carolina-travel"
+  - "travel-guide"
 tags:
   - "bennett-place"
   - "civil-war"

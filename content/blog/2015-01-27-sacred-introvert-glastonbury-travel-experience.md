@@ -3,7 +3,7 @@ title: "Sacred Introvert Glastonbury Travel Experience"
 date: "2015-01-27"
 categories: 
   - "announcements"
-  - "travel-product-review"
+  - "travel-guide"
 tags: 
   - "england"
   - "glastonbury"

@@ -10,8 +10,8 @@ categories:
   - "red-wine-review"
   - "rose-review"
   - "tasting-rooms-in-prosser"
-  - "travel-guide-for-prosser"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
   - "white-wine-reviews"
   - "wine"
 tags:

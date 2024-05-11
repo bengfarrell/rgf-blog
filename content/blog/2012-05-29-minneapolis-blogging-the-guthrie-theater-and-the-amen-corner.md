@@ -3,7 +3,7 @@ title: "Minneapolis Blogging -- The Guthrie Theater and the Amen Corner"
 date: "2012-05-29"
 categories:
   - "events"
-  - "minneapolis-travel"
+  - "travel-guide"
 tags:
   - "austene-van"
   - "dennis-spears"

@@ -6,7 +6,7 @@ categories:
   - "coffee-shops-in-yakima-wa"
   - "dining-in-yakima-wa"
   - "restaurants"
-  - "yakima-travel"
+  - "travel-guide"
 tags:
   - "ahoy-fish-and-chips"
   - "akin-center"

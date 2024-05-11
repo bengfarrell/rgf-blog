@@ -5,8 +5,8 @@ categories:
   - "durham-restaurant-reviews"
   - "events"
   - "restaurants"
-  - "durham-north-carolina-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "american-tobacco-district"
   - "avocado"

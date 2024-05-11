@@ -6,7 +6,7 @@ categories:
   - "food-product-review"
   - "red-wine-review"
   - "tasting-rooms-in-oakland-ca"
-  - "travel-guide-for-oakland"
+  - "travel-guide"
   - "wine"
 tags:
   - "brix-chicks"

@@ -5,7 +5,7 @@ categories:
   - "durham-restaurant-reviews"
   - "events"
   - "restaurants"
-  - "durham-north-carolina-travel"
+  - "travel-guide"
   - "travel-product-review"
 tags:
   - "artic-char"

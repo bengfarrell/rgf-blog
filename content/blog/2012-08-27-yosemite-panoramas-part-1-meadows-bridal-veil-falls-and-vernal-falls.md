@@ -2,7 +2,7 @@
 title: "Yosemite Panoramas Part 1: Meadows, Bridal Veil Falls, and Vernal Falls"
 date: "2012-08-27"
 categories:
-  - "yosemite-travel"
+  - "travel-guide"
 tags:
   - "bridal-veil"
   - "camp-curry"

@@ -7,8 +7,8 @@ categories:
   - "durham-coffee-shop-reviews"
   - "raleigh-coffee-shop-reviews"
   - "events"
-  - "chapel-hill-north-carolina-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "2012"
   - "coffee"

@@ -5,7 +5,7 @@ categories:
   - "coffee-shop"
   - "brooklyn-restaurant-reviews"
   - "restaurants"
-  - "brooklyn-travel"
+  - "travel-guide"
 tags:
   - "arling"
   - "brooklyn"

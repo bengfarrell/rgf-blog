@@ -2,7 +2,7 @@
 title: "Jamaica Travelogue:  3/4-3/8/09"
 date: "2009-03-12"
 categories:
-  - "travel-guide-to-ocho-rios-jamaica"
+  - "travel-guide"
 tags:
   - "all-inclusive-resort"
   - "chukka-canopy-tour"

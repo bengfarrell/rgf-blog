@@ -4,7 +4,7 @@ date: "2012-06-04"
 categories:
   - "minneapolis-dining"
   - "restaurants"
-  - "minneapolis-travel"
+  - "travel-guide"
 tags:
   - "activities"
   - "beaches"

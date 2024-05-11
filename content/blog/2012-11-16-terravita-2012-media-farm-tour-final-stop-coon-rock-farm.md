@@ -3,8 +3,8 @@ title: "TerraVITA 2012 Media Farm Tour: Final Stop, Coon Rock Farm"
 date: "2012-11-16"
 categories:
   - "events"
-  - "chapel-hill-north-carolina-travel"
-  - "travel-product-review"
+  - "travel-guide"
+  - "travel-guide"
 tags:
   - "agriculture"
   - "bronze-rangers"

@@ -3,7 +3,7 @@ title: "The Great American Duck Race (10.2.10)"
 date: "2010-11-04"
 categories:
   - "events"
-  - "durham-north-carolina-travel"
+  - "travel-guide"
 tags:
   - "bat"
   - "duck-race"
