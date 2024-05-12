@@ -267,7 +267,6 @@ header {
 .postlist-link {
 	font-size: 1.1875em; /* 19px /16 */
 	font-weight: 700;
-	flex-basis: 7em;
 	padding-left: .25em;
 	padding-right: .5em;
 	text-underline-position: from-font;
@@ -365,16 +364,19 @@ body.search #search {
 }
 
 #sidebar {
-	display: flex;
-	flex-direction: column;
 	width: 25%;
 	min-width: 25%;
+}
+
+#sidebar .sidebar-content {
+	display: flex;
+	flex-direction: column;
 	border-radius: var(--rounded-corner);
 	padding: 1em;
 	background-color: var(--accent-color-lighter);
 }
 
-#sidebar img {
-	width: 100%;
+#sidebar .sidebar-content img {
+	width: 50%;
 	margin-bottom: 15px;
 }

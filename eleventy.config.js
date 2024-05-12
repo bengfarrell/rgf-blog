@@ -22,19 +22,19 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter('sidebarSelector', categories => {
-		if (haveCommonItems(categories, ['Restaurants', 'Grab and Go'])) {
+		if (haveCommonItems(categories, ['restaurants', 'ice-cream-parlors', 'bakeries', 'food-trucks'])) {
 			return 'dining-out';
 		}
 
-		if (haveCommonItems(categories, ['Coffee Shops', 'Bakeries'])) {
+		if (haveCommonItems(categories, ['coffee-shop', 'bakeries'])) {
 			return 'cafe';
 		}
 
-		if (haveCommonItems(categories, ['spirits', 'other spirits', 'absinthe', 'gin', 'grappa', 'guaro', 'liqueurs', 'mezcal', 'mead', 'moonshine', 'pisco', 'rum', 'rye', 'safe', 'soju', 'tequila', 'vodka', 'whiskey', 'whisky'])) {
+		if (haveCommonItems(categories, ['spirits'])) {
 			return 'spirits';
 		}
 
-		if (haveCommonItems(categories, ['wine', 'white wine', 'sparkling wine', 'rose wine', 'red wine', 'plum wine', 'fortified wine'])) {
+		if (haveCommonItems(categories, ['wine'])) {
 			return 'wine';
 		}
 
@@ -46,7 +46,7 @@ module.exports = function(eleventyConfig) {
 			return 'nightlife-cocktails';
 		}
 
-		if (haveCommonItems(categories, ['Travel', 'travel guide', 'guide', 'tourism', 'visitor', 'guide', 'day trip', 'visitor\'s guide', 'travelogue'])) {
+		if (haveCommonItems(categories, ['travel-guide'])) {
 			return 'travelogues';
 		}
 

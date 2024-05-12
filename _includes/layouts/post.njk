@@ -33,7 +33,9 @@ layout: layouts/base.njk
 		{%- endif %}
 	</div>
 	<div id="sidebar">
-		{%- set sideBarToRender = categories | sidebarSelector %}
-		{% renderFile "./content/sidebars/" + sideBarToRender + ".md" %}
+		<div class="sidebar-content">
+			{%- set sideBarToRender = categories | sidebarSelector %}
+			{% renderFile "./content/sidebars/" + sideBarToRender + ".md" %}
+		</div>
 	</div>
 </div>
