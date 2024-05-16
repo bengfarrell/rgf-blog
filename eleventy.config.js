@@ -17,13 +17,6 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addShortcode('first_image', post => extractFirstImage(post));
 
-	eleventyConfig.addGlobalData("filterByCommonCategories", (collection = [], ...requiredCategories) => {
-			const filtered = collection.filter(post => {
-				return haveCommonItems(post.data.categories, requiredCategories.flat());
-			});
-			return filtered;
-	});
-
 	eleventyConfig.on('eleventy.after', () => {
 		execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
 	});
