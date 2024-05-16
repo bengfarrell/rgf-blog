@@ -17,6 +17,13 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addShortcode('first_image', post => extractFirstImage(post));
 
+	eleventyConfig.addGlobalData("filterByCommonCategories", (collection = [], ...requiredCategories) => {
+			const filtered = collection.filter(post => {
+				return haveCommonItems(post.data.categories, requiredCategories.flat());
+			});
+			return filtered;
+	});
+
 	eleventyConfig.on('eleventy.after', () => {
 		execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
 	});
@@ -58,7 +65,6 @@ module.exports = function(eleventyConfig) {
 		  return requiredTags.flat().every(tag => post.data.tags.includes(tag));
 		});
 	});
-
 
 	eleventyConfig.addFilter("filterByCommonCategories", function(collection = [], ...requiredCategories) {
 		const filtered = collection.filter(post => {
