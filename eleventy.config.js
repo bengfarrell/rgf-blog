@@ -38,11 +38,11 @@ module.exports = function(eleventyConfig) {
 			return 'wine';
 		}
 
-		if (haveCommonItems(categories, ['bars and tasting rooms', 'distillery', 'brewery', 'mead'])) {
+		if (haveCommonItems(categories, ['tasting-rooms', 'breweries', 'distilleries' ])) {
 			return 'tasting-rooms';
 		}
 
-		if (haveCommonItems(categories, ['Bar', 'watering hole', 'nightlife', 'wine bar', 'cocktail review'])) {
+		if (haveCommonItems(categories, ['bars', 'wine-bars'])) {
 			return 'nightlife-cocktails';
 		}
 
