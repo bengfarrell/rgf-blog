@@ -2,8 +2,6 @@
 title: "Tizona by Bokisch 2014 Gran Reserva Tempranillo"
 date: "2020-04-14"
 categories:
-  - "red-wine-review"
-  - "tempranillo"
   - "wine"
 tags:
   - "bokisch-vineyards"

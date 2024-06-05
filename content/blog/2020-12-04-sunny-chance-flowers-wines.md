@@ -2,11 +2,6 @@
 title: "Sunny with a Chance of Flowers Wines"
 date: "2020-12-04"
 categories:
-  - "chardonnay"
-  - "pinot-noir"
-  - "red-wine-review"
-  - "sauvignon-blanc"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "better-for-you-wines"
