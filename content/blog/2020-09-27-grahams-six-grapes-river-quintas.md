@@ -2,8 +2,7 @@
 title: "W. & J. Graham’s “Six Grapes” Special River Quintas Edition Reserve Porto"
 date: "2020-09-27"
 categories:
-  - "fortified-wine"
-  - "port-fortified-wine"
+  - "wine"
 tags:
   - "douro"
   - "nonvintage"

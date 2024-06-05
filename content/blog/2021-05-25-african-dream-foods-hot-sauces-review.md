@@ -2,8 +2,7 @@
 title: "African Dream Foods Hot Sauces and Spicy Salts Review"
 date: "2021-05-25"
 categories:
-  - "food-product-review"
-  - "product-reviews"
+   - "product-reviews"
 tags:
   - "african-dream-foods"
   - "hot-sauce"

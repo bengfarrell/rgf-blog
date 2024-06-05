@@ -2,11 +2,6 @@
 title: "Black Stallion Estate Wines...and Puzzles!"
 date: "2020-08-21"
 categories:
-  - "cabernet-sauvignon"
-  - "chardonnay"
-  - "red-wine-review"
-  - "tasting-rooms-in-napa-valley-ca"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "black-stallion-estate-winery"

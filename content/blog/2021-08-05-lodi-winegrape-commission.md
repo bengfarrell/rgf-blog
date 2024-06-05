@@ -4,13 +4,7 @@ date: "2021-08-05"
 categories:
   - "wine"
   - "events"
-  - "grenache-blanc"
-  - "petit-verdot"
-  - "red-wine-review"
-  - "rose-review"
-  - "shiraz"
-  - "white-wine-reviews"
-  - "wine"
+  
 tags:
   - "30-years"
   - "anniversary"
