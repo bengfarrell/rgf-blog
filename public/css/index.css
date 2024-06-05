@@ -1,9 +1,3 @@
-/* Defaults */
-:root {
-	--font-family: -apple-system, system-ui, sans-serif;
-	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
-}
-
 /* Theme colors */
 :root {
 	--color-gray-20: #e0e0e0;
@@ -21,6 +15,7 @@
 	--background-color: var(--color-cream);
 	--accent-color: var(--color-red);
 	--accent-color-lighter: var(--color-light-red);
+	--accent-color-lighter-transparent: #D96A8866;
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: var(--color-gray-90);
@@ -53,9 +48,12 @@ html,
 body {
 	padding: 0;
 	margin: 0 auto;
-	font-family: var(--font-family);
 	color: var(--text-color);
 	background-color: var(--background-color);
+
+	font-family: "Playfair Display", serif;
+	font-optical-sizing: auto;
+	font-style: normal;
 }
 html {
 	overflow-y: scroll;
@@ -65,7 +63,13 @@ section {
 	padding-top: 2.5em;
 	padding-left: 2.5em;
 	padding-right: 2.5em;
-	padding-bottom: 0;
+	padding-bottom: 2.5em;
+}
+
+section .more-posts {
+	display: block;
+	margin-right: 25px;
+	text-align: end;
 }
 
 #page-container {
@@ -118,6 +122,9 @@ li {
 
 a[href] {
 	color: var(--text-color-link);
+	font-family: "Freeman", sans-serif;
+	font-weight: 400;
+	font-style: normal;
 }
 a[href]:visited {
 	color: var(--text-color-link-visited);
@@ -134,7 +141,7 @@ main :first-child {
 }
 
 header {
-	border-bottom: 1px dashed var(--color-gray-20);
+	background-color: white;
 }
 
 header:after {
@@ -146,6 +153,13 @@ header:after {
 footer {
 	text-align: center;
 	padding: 15px;
+	background-color: white;
+	margin-top: 32px;
+}
+
+header ul {
+	width: 220px;
+	text-align: right;
 }
 
 header ul,
@@ -174,6 +188,7 @@ footer ul li svg {
 }
 
 header ul li img,
+header ul li svg,
 footer ul li img {
 	filter: drop-shadow( 3px 3px 2px var(--accent-color-lighter));
 }
@@ -185,6 +200,29 @@ header #logo {
 
 nav {
 	text-align: center;
+	background-color: #caf5ff;
+	padding: 15px;
+	border-top: 4px dotted white;
+	border-bottom: 4px dotted var(--color-cream);
+}
+
+nav ul li {
+	background-color: var(--color-tan);
+	border: 1px solid white;
+	color: var(--color-blue);
+	border-radius: var(--rounded-corner);
+	display: inline-block;
+}
+
+nav li a[href],
+nav li a[href]:visited {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	display: inline-block;
+	text-shadow: 1px 1px 2px var(--color-green);
+	width: 150px;
+	padding: 5px;
 }
 
 .links-nextprev {
@@ -198,6 +236,14 @@ nav {
 	flex: 1;
 	margin: 10px;
 	text-align: center;
+}
+
+.links-nextprev li.prev-post {
+	text-align: left;
+}
+
+.links-nextprev li.next-post {
+	text-align: right;
 }
 
 table {
@@ -288,13 +334,21 @@ header {
 }
 
 .postlist-item {
-	display: flex;
 	width: 100%;
 	flex-direction: column;
 	margin: auto;
 	margin-top: 0;
 	flex: 1;
 	margin-bottom: 1em;
+	background-color: var(--color-green);
+	box-shadow: 1px 1px 2px 2px var(--color-green);
+	border-radius: var(--rounded-corner);
+}
+
+.postlist.cities .postlist-item {
+	box-shadow: none;
+	background-color: inherit;
+
 }
 
 .postlist-item:before {
@@ -312,7 +366,23 @@ header {
 }
 
 .postlist-item img {
-	border-radius: var(--rounded-corner);
+	border-top-right-radius: var(--rounded-corner);
+	border-top-left-radius: var(--rounded-corner);
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+	margin-bottom: -5px;
+	margin-left: 1px;
+}
+
+.postlist.cities .postlist-item img {
+	border-top-right-radius: var(--rounded-corner);
+	border-top-left-radius: 0;
+	border-bottom-right-radius: var(--rounded-corner);
+	border-bottom-left-radius: var(--rounded-corner);
+	box-shadow: 1px 1px 2px 2px var(--color-green);
+	margin-top: 5px;
+	margin-bottom: 0;
+	margin-left: 1px;
 }
 
 .postlist-date {
@@ -320,14 +390,32 @@ header {
 }
 
 .postlist-link {
+	display: block;
 	font-size: 1.1875em; /* 19px /16 */
 	font-weight: 700;
-	padding-left: .25em;
-	padding-right: .5em;
+	padding: .5em;
 	text-underline-position: from-font;
 	text-underline-offset: 0;
 	text-decoration-thickness: 1px;
+	background-color: var(--color-green);
+	border-bottom-left-radius: var(--rounded-corner);
+	border-bottom-right-radius: var(--rounded-corner);
+	text-align: center;
 }
+
+.postlist.cities .postlist-link {
+	display: inline;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+	border-top-left-radius: var(--rounded-corner);
+	border-top-right-radius: var(--rounded-corner);
+}
+
+a[href].postlist-link, 
+a[href].postlist-link:visited {
+	color: white;
+	text-decoration: none;
+} 
 
 .postlist-item-active .postlist-link {
 	font-weight: bold;
@@ -416,9 +504,9 @@ body.search #search {
 
 .message-box {
 	display: flex;
-	background-color: var(--accent-color-lighter);
-	border-top: 1px solid var(--accent-color);
-	border-bottom: 1px solid var(--accent-color);
+	background-color: var(--accent-color-lighter-transparent);
+	border-top: 4px dotted var(--color-cream);
+	border-bottom: 4px dotted var(--color-cream);
 	color: black;
 	padding: 1em 4em;
 }
@@ -427,6 +515,34 @@ body.search #search {
 	height: 175px;
 	margin-right: 15px;
 	border-radius: var(--rounded-corner);
+}
+
+.message-box-categories {
+	text-align: center;
+	background-color: #caf5ff;
+	padding: 15px;
+	border-top: 4px dotted white;
+	border-bottom: 4px dotted var(--color-cream);
+}
+
+.message-box-categories ul li {
+	background-color: var(--color-tan);
+	color: var(--color-blue);
+	border-radius: var(--rounded-corner);
+	display: inline-block;
+	border: 1px solid white;
+	margin: 5px;
+}
+
+.message-box-categories li a[href],
+.message-box-categories li a[href]:visited {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px var(--color-green);
+	width: 200px;
+	display: inline-block;
+	padding: 5px;
 }
 
 #sidebar {
@@ -439,8 +555,8 @@ body.search #search {
 	flex-direction: column;
 	border-radius: var(--rounded-corner);
 	padding: 1em;
-	background-color: var(--accent-color-lighter);
-	border: 1px solid var(--accent-color);
+	background-color: var(--accent-color-lighter-transparent);
+	border: 4px dotted var(--color-cream);
 	color: black;
 }
 
@@ -448,26 +564,4 @@ body.search #search {
 	width: 100%;
 	border-radius: var(--rounded-corner);
 	margin-bottom: 15px;
-}
-
-ul.archive-categories {
-	list-style: none;
-	display: flex;
-	flex-wrap: wrap;
-}
-
-ul.archive-categories li {
-	margin: 5px;
-	text-align: center;
-}
-
-ul.archive-categories a,
-ul.archive-categories a[href]:visited {
-	width: 200px;
-	display: inline-block;
-	background-color: var(--color-blue);
-	color: var(--accent-color);
-	font-weight: bold;
-	font-family: sans-serif;
-	text-decoration: none;
 }

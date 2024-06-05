@@ -36,14 +36,13 @@ numberOfLatestPostsToShow: 4
 {% include "postslist.njk" %}
 </section>
 
-<div class="message-box">
+<div class="message-box-categories">
 	{% renderFile "./content/sidebars/categories.md" %}
 </div>
 
 <section>
-<h1><a href="/categories/cities">Posts By City</a></h1>
-
-<ol reversed class="postlist">
+<h1>Posts By City</h1>
+<ol reversed class="cities postlist">
 {% set postsCount = collections.posts | filterByTags(['hayward']) | length %}
 {% set postslist = collections.posts | filterByTags(['hayward']) | head(-1) %}
 {% set city = 'Hayward' %}
@@ -64,6 +63,7 @@ numberOfLatestPostsToShow: 4
 {% set city = 'Berkeley' %}
 {% include "city-postslist.njk" %}
 </ol>
+<a class="more-posts" href="/categories/cities">see more...</a>
 </section>
 
 <div class="message-box">
