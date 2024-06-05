@@ -10,42 +10,38 @@ numberOfLatestPostsToShow: 4
 {% set postslistCounter = postsCount %}
 
 <section>
-	<h1><a href="/blog/">Latest</a></h1>
+	<h1><a href="/categories/latest">Latest</a></h1>
 	{% include "postslist.njk" %}
 </section>
 
-
-{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
 <div class="message-box">
 	{% renderFile "./content/sidebars/whatsthegourmez.md" %}
 </div>
 
 <section>
-	<h1><a href="/blog/">Eateries</a></h1>
-	{% set postsCount = collections.posts | filterByCommonCategories(['restaurants']) | length %}
-	{% set postslist = collections.posts | filterByCommonCategories(['restaurants']) | head(-1 * numberOfLatestPostsToShow) %}
+	<h1><a href="/categories/eateries">Eateries</a></h1>
+	{% set postsCount = collections.posts | filterByCommonCategories(['restaurants', 'ice-cream-parlors', 'bakeries', 'food-trucks']) | length %}
+	{% set postslist = collections.posts | filterByCommonCategories(['restaurants', 'ice-cream-parlors', 'bakeries', 'food-trucks']) | head(-1 * numberOfLatestPostsToShow) %}
 	{% include "postslist.njk" %}
 </section>
 
-{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
 <div class="message-box">
 	{% renderFile "./content/sidebars/about.md" %}
 </div>
 
 <section>
-<h1><a href="/blog/">Wines</a></h1>
+<h1><a href="/categories/wine">Wines</a></h1>
 {% set postsCount = collections.posts | filterByCommonCategories(['wine']) | length %}
 {% set postslist = collections.posts | filterByCommonCategories(['wine']) | head(-1 * numberOfLatestPostsToShow) %}
 {% include "postslist.njk" %}
 </section>
 
-{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
 <div class="message-box">
 	{% renderFile "./content/sidebars/categories.md" %}
 </div>
 
 <section>
-<h1><a href="/blog/">Posts By City</a></h1>
+<h1><a href="/categories/cities">Posts By City</a></h1>
 
 <ol reversed class="postlist">
 {% set postsCount = collections.posts | filterByTags(['hayward']) | length %}
@@ -70,11 +66,6 @@ numberOfLatestPostsToShow: 4
 </ol>
 </section>
 
-{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
 <div class="message-box">
 	{% renderFile "./content/sidebars/fiction.md" %}
 </div>
-
-<section style="background: red">
-· Email · Bluesky · Facebook · Instagram · Google Local Guides
-</section>

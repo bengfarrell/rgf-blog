@@ -22,31 +22,31 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter('sidebarSelector', categories => {
-		if (haveCommonItems(categories, ['Restaurants', 'Grab and Go'])) {
+		if (haveCommonItems(categories, ['restaurants', 'ice-cream-parlors', 'bakeries', 'food-trucks'])) {
 			return 'dining-out';
 		}
 
-		if (haveCommonItems(categories, ['Coffee Shops', 'Bakeries'])) {
+		if (haveCommonItems(categories, ['coffee-shop', 'bakeries'])) {
 			return 'cafe';
 		}
 
-		if (haveCommonItems(categories, ['spirits', 'other spirits', 'absinthe', 'gin', 'grappa', 'guaro', 'liqueurs', 'mezcal', 'mead', 'moonshine', 'pisco', 'rum', 'rye', 'safe', 'soju', 'tequila', 'vodka', 'whiskey', 'whisky'])) {
+		if (haveCommonItems(categories, ['spirits'])) {
 			return 'spirits';
 		}
 
-		if (haveCommonItems(categories, ['wine', 'white wine', 'sparkling wine', 'rose wine', 'red wine', 'plum wine', 'fortified wine'])) {
+		if (haveCommonItems(categories, ['wine'])) {
 			return 'wine';
 		}
 
-		if (haveCommonItems(categories, ['bars and tasting rooms', 'distillery', 'brewery', 'mead'])) {
+		if (haveCommonItems(categories, ['tasting-rooms', 'breweries', 'distilleries' ])) {
 			return 'tasting-rooms';
 		}
 
-		if (haveCommonItems(categories, ['Bar', 'watering hole', 'nightlife', 'wine bar', 'cocktail review'])) {
+		if (haveCommonItems(categories, ['bars', 'wine-bars'])) {
 			return 'nightlife-cocktails';
 		}
 
-		if (haveCommonItems(categories, ['Travel', 'travel guide', 'guide', 'tourism', 'visitor', 'guide', 'day trip', 'visitor\'s guide', 'travelogue'])) {
+		if (haveCommonItems(categories, ['travel-guide'])) {
 			return 'travelogues';
 		}
 
@@ -57,14 +57,18 @@ module.exports = function(eleventyConfig) {
 		return collection.filter(post => {
 		  return requiredTags.flat().every(tag => post.data.tags.includes(tag));
 		});
-	  });
-
+	});
 
 	eleventyConfig.addFilter("filterByCommonCategories", function(collection = [], ...requiredCategories) {
 		const filtered = collection.filter(post => {
 			return haveCommonItems(post.data.categories, requiredCategories.flat());
-			//return post.data.categories.filter(value => requiredCategories.flat().includes(value));
-			//return requiredCategories.flat().every(category => post.data.categories?.includes(category));
+		});
+		return filtered;
+	});
+
+	eleventyConfig.addFilter("filterByCommonTags", function(collection = [], ...requiredTags) {
+		const filtered = collection.filter(post => {
+			return haveCommonItems(post.data.tags, requiredTags.flat());
 		});
 		return filtered;
 	});

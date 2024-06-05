@@ -1,0 +1,37 @@
+---js
+{
+	layout: "layouts/home.njk",
+	pagination: {
+		data: "collections.posts",
+		reverse: true,
+		alias: "postslist",
+		size: 20,
+		before: function(data) {
+			return this.filterByCommonCategories(data, ["spirits"]);
+		}
+	},
+	eleventyNavigation: {
+		key: "Spirits",
+		order: 1
+	},
+	permalink: "categories/{{ page.fileSlug }}/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+}
+---
+
+<section>
+	<h1>Spirits</h1>
+	{% include "postslist.njk" %}
+
+	<nav aria-labelledby="pages" class="pagination">
+		<ul>
+			<li>{% if page.url != pagination.href.first %}<a href="{{ pagination.href.first }}">First</a>{% else %}First{% endif %}</li>
+			<li>{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">Previous</a>{% else %}Previous{% endif %}</li>
+			{%- for pageEntry in pagination.pages %}
+			{% if page.url == pagination.hrefs[ loop.index0 ] %}<li>Page {{ loop.index }} of {{ pagination.pages.length }}</li>{% endif %}
+			{%- endfor %}
+			<li>{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Next</a>{% else %}Next{% endif %}</li>
+			<li>{% if page.url != pagination.href.last %}<a href="{{ pagination.href.last }}">Last</a>{% else %}Last{% endif %}</li>
+		</ul>
+	</nav>
+</section>
+
