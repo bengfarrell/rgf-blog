@@ -1,6 +1,6 @@
 ---
 title: "Arena Loca Red Ringmaster 2004"
-date: "2007-04-26"
+date: "2006-07-16"
 categories:
   - "red-wine-review"
   - "tempranillo"
