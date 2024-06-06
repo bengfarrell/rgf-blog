@@ -2,8 +2,6 @@
 title: "Chateau Montelena Calistoga Zinfandel 2014"
 date: "2018-06-28"
 categories:
-  - "zinfandel"
-  - "red-wine-review"
   - "wine"
 tags:
   - "2014"

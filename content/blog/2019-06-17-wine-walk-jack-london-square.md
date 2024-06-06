@@ -2,13 +2,8 @@
 title: "Take a Wine Walk in Jack London Square!"
 date: "2019-06-17"
 categories:
-  - "cabernet-sauvignon"
+  - "mead"
   - "events"
-  - "mead-review"
-  - "red-wine-review"
-  - "rose-review"
-  - "sparkling-wine-review"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "enat-winery"

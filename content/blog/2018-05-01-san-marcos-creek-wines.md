@@ -2,11 +2,6 @@
 title: "San Marcos Creek Wines"
 date: "2018-05-01"
 categories:
-  - "cabernet-franc"
-  - "other-red-blends"
-  - "white-wine-blends"
-  - "red-wine-review"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "cabernet"

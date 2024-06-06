@@ -2,7 +2,7 @@
 title: "Balsamic Vinegar of Modena: Youth has Its Own Rewards"
 date: "2018-06-05"
 categories:
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "balsamic"

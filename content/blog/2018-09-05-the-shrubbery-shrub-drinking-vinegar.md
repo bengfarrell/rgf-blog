@@ -3,7 +3,7 @@ title: "The Shrubbery's Shrubs! Aka, the Joy of Drinking Vinegars"
 date: "2018-09-05"
 categories: 
   - "product-reviews"
-  - "recipes-2"
+  - "recipes"
 tags: 
   - "cocktail-recipes"
   - "cocktails"

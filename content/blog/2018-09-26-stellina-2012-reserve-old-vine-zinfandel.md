@@ -2,8 +2,6 @@
 title: "Stellina 2012 Reserve Old Vine Zinfandel"
 date: "2018-09-26"
 categories:
-  - "zinfandel"
-  - "red-wine-review"
   - "wine"
 tags:
   - "lodi-ca"

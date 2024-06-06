@@ -3,7 +3,6 @@ title: "Absinthia Blanche"
 date: "2019-03-26"
 categories:
   - "spirits"
-  - "spirits"
 tags:
   - "spirits"
   - "absinthe-blanche"

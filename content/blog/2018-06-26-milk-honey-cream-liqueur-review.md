@@ -2,10 +2,9 @@
 title: "Milk & Honey Cream Liqueur Review"
 date: "2018-06-26"
 categories:
-  - "beverage-product-review"
-  - "liqueur-reviews"
-  - "product-reviews"
-  - "recipes-2"
+  - "spirits"
+  - "recipes"
+  - "cocktails"
 tags:
   - "cream"
   - "date-honey"

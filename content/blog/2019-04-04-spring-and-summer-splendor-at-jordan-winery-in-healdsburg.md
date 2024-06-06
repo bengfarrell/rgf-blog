@@ -3,7 +3,8 @@ title: "Spring and Summer Splendor at Jordan Winery in Healdsburg"
 date: "2019-04-04"
 categories:
   - "events"
-  - "tasting-rooms-in-healdsburg"
+  - "tasting-rooms"
+  - "wine"
 tags:
   - "healdsburg"
   - "jordan-vineyards"

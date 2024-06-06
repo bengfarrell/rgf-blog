@@ -3,11 +3,8 @@ title: "50 Years of Cabernet: The Chateau Montelena Dream Tasting"
 date: "2018-12-06"
 categories:
   - "tasting-rooms"
-  - "cabernet-sauvignon"
-  - "chardonnay"
-  - "red-wine-review"
-  - "tasting-rooms-in-napa-valley-ca"
-  - "white-wine-reviews"
+  - "travel-guides"
+  - "events"
   - "wine"
 tags:
   - "cabernet-sauvignon"

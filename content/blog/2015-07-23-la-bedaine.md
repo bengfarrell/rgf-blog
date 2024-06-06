@@ -44,6 +44,4 @@ We took both our treats onto the streetfront bench and enjoyed every bite. My fr
 
 **La Bedaine** 1585 Solano Avenue Berkeley, CA [Website](http://labedaine.com)
 
-[![Click to add a blog post for La Bedaine on Zomato](https://www.zomato.com/logo/16862275/minilink)](https://www.zomato.com/albany-ca/la-bedaine-berkeley)
-
 _Reviewed 4 June 2015._

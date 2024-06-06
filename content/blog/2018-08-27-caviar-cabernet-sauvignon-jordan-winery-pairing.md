@@ -3,14 +3,8 @@ title: "Caviar & Cabernet Sauvignon: Jordan Winery's elegant pairing experiences
 date: "2018-08-27"
 categories:
   - "tasting-rooms"
-  - "cabernet-sauvignon"
-  - "champagne"
-  - "chardonnay"
-  - "red-wine-review"
-  - "sparkling-wine-review"
-  - "tasting-rooms-in-napa-valley-ca"
-  - "white-wine-reviews"
   - "wine"
+  - "other-businesses"
 tags:
   - "caviar"
   - "jordan-vineyards"

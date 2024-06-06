@@ -3,7 +3,8 @@ title: "The Inaugural Oakland Cocktail Week 9/15-9/23!"
 date: "2018-09-13"
 categories:
   - "bars"
-  - "bars-in-oakland"
+  - "events"
+  - "cocktails"
 tags:
   - "cocktails"
   - "oakland"

@@ -2,10 +2,6 @@
 title: "2017 White Wines from Sera Fina Cellars"
 date: "2019-06-25"
 categories:
-  - "pinot-grigio-gris"
-  - "sauvignon-blanc"
-  - "viognier"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "amador-county"

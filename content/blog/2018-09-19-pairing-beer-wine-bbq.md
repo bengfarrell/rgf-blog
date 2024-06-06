@@ -4,6 +4,7 @@ date: "2018-09-19"
 categories:
   - "beer"
   - "wine"
+  - "guest-posts"
 tags:
   - "barbeque"
   - "bbq"
@@ -33,8 +34,8 @@ There is a stereotype that barbecue and beer go together. While beer definitely 
 
 Your choice of meat matters, of course. Red meats should be paired with strong, robust flavors of wine and beer. Poultries, however, have a multitude of different flavors and need a drink that complements them all, so in many of these meals a brown ale would be the perfect drink.
 
-But it also depends on the way you barbecue your meat. If you use an offset smoker, for example, your grill itself will create flavors that you need to take into account. [This piece from BroBBQ](https://brobbq.com/best-offset-smoker-reviews/) gives you more detail about the different nuances in each smoker and how they affect the flavor of your meat.
+But it also depends on the way you barbecue your meat. If you use an offset smoker, for example, your grill itself will create flavors that you need to take into account. [This piece from BroBBQ](https://brobbq.com/a-guide-to-smoking-times-and-temperatures-bbq-to-perfection/) gives you more detail about the different nuances in each smoker and how they affect the flavor of your meat.
 
-So how do you know which beverage to pair with which meat to create that “wow” factor that every chef wants to have their guests experience? Luckily, there are many resources you can turn to for help _(including Jack's infographic, posted below! The Gourmez)._ You can give your guests the ultimate meal they will be comparing all of their other barbecues to for years.
+So how do you know which beverage to pair with which meat to create that “wow” factor that every chef wants to have their guests experience? Luckily, there are many resources you can turn to for help _(including Vinepair's infographic, posted below! The Gourmez)._ You can give your guests the ultimate meal they will be comparing all of their other barbecues to for years.
 
-[![Pairing Wine and Beer With BBQ Chart](https://brobbq.com/wp-content/uploads/2018/08/Pairing-Wine-and-Beer-with-BBQ.jpg)](https://brobbq.com/bbq-wine-beer-pairing-chart/)
+[![Wine Pairings for Your Backyard BBQ](https://vinepair.com/wp-content/uploads/2014/05/wine-pairings-for-bbq.png)](https://vinepair.com/wp-content/uploads/2014/05/wine-pairings-for-bbq.png)

@@ -2,8 +2,7 @@
 title: "The Zinfandel Experience from ZAP: Tasting More Zinfandel Than You Knew Existed"
 date: "2018-09-10"
 categories:
-  - "zinfandel"
-  - "red-wine-review"
+  - "events"
   - "wine"
 tags:
   - "zap"

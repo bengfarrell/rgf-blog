@@ -2,8 +2,6 @@
 title: "Quinta De La Rosa Extra Dry Non-Vintage White Port"
 date: "2019-05-08"
 categories:
-  - "dessert-wine-reviews"
-  - "port-fortified-wine"
   - "wine"
 tags:
   - "extra-dry-non-vintage"

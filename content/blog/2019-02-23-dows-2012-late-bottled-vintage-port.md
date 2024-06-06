@@ -2,7 +2,6 @@
 title: "Dow's 2012 Late Bottled Vintage Porto"
 date: "2019-02-23"
 categories:
-  - "port-fortified-wine"
   - "wine"
 tags:
   - "2012"

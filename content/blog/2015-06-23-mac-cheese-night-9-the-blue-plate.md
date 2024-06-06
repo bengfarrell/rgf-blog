@@ -91,8 +91,4 @@ Ducking in through the Blue Plate’s quaint blue door did add to the overall ex
 
 But did its mac & and cheese make it to the top of my list? Tune in next week, cheese-loving friends, when all will be revealed and I will crown a Mac & Cheese Night victor!
 
-[![Click to add a blog post for The Blue Plate on Zomato](https://www.zomato.com/logo/16840874/minilink)](https://www.zomato.com/san-francisco/the-blue-plate-san-francisco)
-
-[![The Blue Plate on Foodio54](http://foodio54.com/images/badge-2-eb68.jpg)](http://foodio54.com/restaurant/San-Francisco-CA/eb68/The-Blue-Plate)
-
 _Reviewed 20 June 2015._

@@ -3,7 +3,7 @@ title: "Cheese and Wine Pairings at Chateau St. Jean"
 date: "2018-01-29"
 categories:
   - "tasting-rooms"
-  - "tasting-rooms-in-sonoma-ca"
+  - "wine"
 tags:
   - "chateau-st-jean"
   - "cheese"

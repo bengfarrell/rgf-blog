@@ -2,7 +2,7 @@
 title: "Southie"
 date: "2019-02-14"
 categories:
-  - "oakland-restaurant-reviews"
+  - "restaurants"
 tags:
   - "oakland"
   - "restaurant"

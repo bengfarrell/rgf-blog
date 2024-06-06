@@ -2,7 +2,6 @@
 title: "Sosie Wines Rosé of Syrah 2017"
 date: "2019-09-23"
 categories:
-  - "rose-review"
   - "wine"
 tags:
   - "sosie"

@@ -2,8 +2,6 @@
 title: "Cabernet Sauvignons from the Andes: Montes and Kaiken"
 date: "2018-01-16"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
   - "wine"
 tags:
   - "cabernet-sauvignon"

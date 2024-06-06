@@ -3,11 +3,6 @@ title: "A Tasting at Turiya Wines"
 date: "2018-07-28"
 categories:
   - "tasting-rooms"
-  - "merlot"
-  - "other-red-blends"
-  - "petit-verdot"
-  - "red-wine-review"
-  - "tasting-rooms-in-lompoc-ca"
   - "wine"
 tags:
   - "angela-soleno"

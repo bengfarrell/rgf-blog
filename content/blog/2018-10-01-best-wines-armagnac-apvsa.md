@@ -2,12 +2,8 @@
 title: "Best Wines (and Armagnac!) of the APVSA Once Upon a Wine Tour"
 date: "2018-10-01"
 categories:
-  - "brandy"
-  - "red-wine-review"
+  - "events"
   - "spirits"
-  - "tempranillo"
-  - "vermentino"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "apvsa"

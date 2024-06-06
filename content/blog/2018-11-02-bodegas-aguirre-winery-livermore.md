@@ -3,13 +3,6 @@ title: "Livermore's Bodegas Aguirre Winery"
 date: "2018-11-02"
 categories:
   - "tasting-rooms"
-  - "chardonnay"
-  - "fortified-wine"
-  - "petite-sirah"
-  - "port-fortified-wine"
-  - "red-wine-review"
-  - "tasting-rooms-in-livermore-ca"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "bodegas-aguirre"

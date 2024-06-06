@@ -2,15 +2,8 @@
 title: "Ten Years of Mt. Beautiful Vintages"
 date: "2018-12-14"
 categories:
-  - "chardonnay"
-  - "san-francisco-restaurant-review"
-  - "pinot-grigio-gris"
-  - "pinot-noir"
-  - "red-wine-review"
+  - "events"
   - "restaurants"
-  - "riesling"
-  - "sauvignon-blanc"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "mt-beautiful"
