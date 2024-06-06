@@ -1,8 +1,8 @@
 ---
-title: "The Union Square Hilton’s Urban Tavern"
+title: "The Union Square Hilton’s Urban Tavern *CLOSED*"
 date: "2017-02-10"
 categories:
-  - "san-francisco-restaurant-review"
+  - "cocktails"
   - "restaurants"
 tags:
   - "buffalo-chicken-meatballs"

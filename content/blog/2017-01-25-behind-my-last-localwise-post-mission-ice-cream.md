@@ -2,11 +2,8 @@
 title: "Behind My Last Localwise Post - Mission Ice Cream!"
 date: "2017-01-25"
 categories:
-  - "san-francisco-restaurant-review"
-  - "ice-cream-bakery-food-truck"
   - "ice-cream-parlors"
-  - "restaurants"
-tags:
+  tags:
   - "flavors"
   - "humphrey-slocombe"
   - "humphry-slocombe"

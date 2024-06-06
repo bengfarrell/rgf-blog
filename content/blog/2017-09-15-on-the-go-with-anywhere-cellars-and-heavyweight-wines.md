@@ -2,11 +2,6 @@
 title: "On the Go with Anywhere Cellars and Heavyweight Wines!"
 date: "2017-09-15"
 categories:
-  - "cabernet-sauvignon"
-  - "chardonnay"
-  - "red-wine-review"
-  - "rose-review"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "anywhere-cellars"

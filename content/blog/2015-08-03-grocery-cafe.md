@@ -88,6 +88,4 @@ This spot is looking to expand the “grocery” part of their name as well, eve
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-[![Click to add a blog post for Grocery Cafe on Zomato](https://www.zomato.com/logo/17980973/minilink)](https://www.zomato.com/oakland-ca/grocery-cafe-oakland)
-
 _Reviewed 13 July 2015._

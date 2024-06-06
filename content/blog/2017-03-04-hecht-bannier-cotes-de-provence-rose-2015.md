@@ -2,8 +2,6 @@
 title: "Hecht & Bannier Côtes de Provence Rosé 2015"
 date: "2017-03-04"
 categories:
-  - "provencal-rose"
-  - "rose-review"
   - "wine"
 tags:
   - "cotes-de-provence"

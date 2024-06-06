@@ -2,8 +2,6 @@
 title: "Best Wines of Samples Night: Preventing Liquor Cabinet Overflow Since 2017!"
 date: "2017-07-07"
 categories:
-  - "white-wine-blends"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "cabernet-franc"

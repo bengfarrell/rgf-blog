@@ -2,10 +2,8 @@
 title: "Mixed Up: A Book Review and Holiday Gift Idea"
 date: "2017-11-21"
 categories:
-  - "beverage-product-review"
   - "recipes"
-  - "liqueur-reviews"
-  - "product-reviews"
+  - "cocktails"
   - "spirits"
 tags:
   - "benjamin-percy"

@@ -3,11 +3,9 @@ title: "Visit Lodi for…Food Worth Finding!"
 date: "2017-07-16"
 categories:
   - "tasting-rooms"
-  - "dining-in-lodi-ca"
   - "restaurants"
-  - "tasting-rooms-in-lodi-ca"
-  - "travel-guide"
-  - "travel-guide"
+  - "other-businesses"
+  - "travel-guides"
 tags:
   - "cheese-central"
   - "chef-bernardo-martinez"

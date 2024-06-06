@@ -2,8 +2,7 @@
 title: "Best Food Products Liveblogged at the 2017 International Food Bloggers Conference"
 date: "2017-12-19"
 categories:
-  - "beverage-product-review"
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "2017"

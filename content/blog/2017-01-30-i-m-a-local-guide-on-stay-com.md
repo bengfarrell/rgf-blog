@@ -1,11 +1,10 @@
 ---
-title: "I'm a Local Guide on Stay.Com!"
+title: "I'm a Local Guide on Stay.Com! *NOW DEFUNCT*"
 date: "2017-01-30"
 categories: 
   - "announcements"
-  - "oakland-restaurant-reviews"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "best-oakland-dining"
   - "best-oakland-eats"

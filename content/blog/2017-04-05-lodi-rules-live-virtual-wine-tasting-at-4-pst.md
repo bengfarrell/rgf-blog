@@ -2,7 +2,7 @@
 title: "Lodi Rules Live Virtual Wine Tasting at 4 PST!"
 date: "2017-04-05"
 categories: 
-  - "announcements"
+  - "events"
   - "wine"
 tags: 
   - "facebook-live"

@@ -2,13 +2,7 @@
 title: "Best Wines on the APVSA Wine Not! Tour"
 date: "2017-08-02"
 categories:
-  - "champagne"
-  - "languedoc"
-  - "malvasia"
-  - "other-red-blends"
-  - "red-wine-review"
-  - "sparkling-wine-review"
-  - "white-wine-reviews"
+  - "events"
   - "wine"
 tags:
   - "avpsa"

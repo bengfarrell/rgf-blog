@@ -2,8 +2,6 @@
 title: "Roger Constant Lemaire Champage"
 date: "2017-06-16"
 categories:
-  - "champagne"
-  - "sparkling-wine-review"
   - "wine"
 tags:
   - "brix-chicks"

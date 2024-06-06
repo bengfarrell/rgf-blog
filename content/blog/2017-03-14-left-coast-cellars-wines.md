@@ -2,13 +2,6 @@
 title: "Left Coast Cellars Wines"
 date: "2017-03-14"
 categories:
-  - "other-sparkling-wine-types"
-  - "pinot-blanc"
-  - "pinot-grigio-gris"
-  - "pinot-noir"
-  - "red-wine-review"
-  - "sparkling-wine-review"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "bubbly"

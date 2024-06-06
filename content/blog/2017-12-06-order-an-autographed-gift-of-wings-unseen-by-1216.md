@@ -2,7 +2,7 @@
 title: "Order an Autographed Gift of Wings Unseen by 12/16!"
 date: "2017-12-06"
 categories:
-  - "writing"
+  - "announcements"
 tags:
   - "author-signature"
   - "fantasy"

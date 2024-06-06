@@ -2,11 +2,7 @@
 title: "Wined and Dined by St. Amant at the 2016 Wine Bloggers Conference"
 date: "2017-03-08"
 categories:
-  - "barbera-rose"
-  - "dessert-wine-reviews"
-  - "zinfandel"
-  - "red-wine-review"
-  - "rose-review"
+  - "events"
   - "wine"
 tags:
   - "amador-county"

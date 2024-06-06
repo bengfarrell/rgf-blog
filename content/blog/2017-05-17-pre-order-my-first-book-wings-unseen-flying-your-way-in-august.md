@@ -2,7 +2,7 @@
 title: "Pre-order my first book! Wings Unseen flying your way in August."
 date: "2017-05-17"
 categories:
-  - "writing"
+  - "announcements"
 tags:
   - "excerpt"
   - "fantasy"

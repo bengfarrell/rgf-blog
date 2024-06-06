@@ -2,9 +2,6 @@
 title: "Vale do Bomfim 2015 Red Wine Blend"
 date: "2017-11-08"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
-  - "touriga-adelaida"
   - "wine"
 tags: 
   - "2015"

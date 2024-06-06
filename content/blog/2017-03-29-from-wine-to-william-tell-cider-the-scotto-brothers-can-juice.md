@@ -3,8 +3,8 @@ title: "From Wine to William Tell Cider: The Scotto Brothers Can Juice!"
 date: "2017-03-29"
 categories:
   - "cider"
-  - "mead-review"
-  - "pinot-grigio-gris"
+  - "mead"
+  - "restaurants"
 tags:
   - "cider"
   - "cider-brothers"

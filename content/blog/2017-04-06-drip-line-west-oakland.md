@@ -1,9 +1,9 @@
 ---
-title: "Drip Line – West Oakland"
+title: "Drip Line – West Oakland *CLOSED*"
 date: "2017-04-06"
 categories:
-  - "coffee-shop"
-  - "oakland-coffee-shop-reviews"
+  - "coffee-shops"
+  - "restaurants"
 tags:
   - "coffee"
   - "coffee-shop"

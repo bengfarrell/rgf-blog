@@ -2,7 +2,6 @@
 title: "Gott’s Roadside Summer Menu"
 date: "2017-08-15"
 categories:
-  - "dining-in-palo-alto"
   - "restaurants"
 tags:
   - "barbecue-pork"

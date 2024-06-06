@@ -1,12 +1,9 @@
 ---
-title: "The Oakland Urban Wine Tour"
+title: "The Oakland Urban Wine Tour *CLOSED DOWN*"
 date: "2017-02-06"
 categories:
   - "tasting-rooms"
-  - "food-product-review"
-  - "red-wine-review"
-  - "tasting-rooms-in-oakland-ca"
-  - "travel-guide"
+  - "travel-guides"
   - "wine"
 tags:
   - "brix-chicks"
@@ -64,7 +61,7 @@ As Raquel expressed, her tours are centered around sharing places that she and h
 [![dashe cellars](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_04-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_04.jpg) Dashe Cellars</div>
 
 
-We began at [Dashe Cellars](https://www.visitoakland.com/plugins/crm/count/?type=server&key=4_3090&val=5e48a1701650c96b7ad495b0f268875ce0330cb6665c2158b38484e2a5956d8fba9b96d81a74e5d6dbe6babb33859a8dfb865c2c23e11ef357). It was my first time checking out Dashe wines, and I thought the wide-open space, industrial with touches of whimsy, was very inviting.
+We began at [Dashe Cellars *NOW IN ALAMEDA*](https://www.visitoakland.com/plugins/crm/count/?type=server&key=4_3090&val=5e48a1701650c96b7ad495b0f268875ce0330cb6665c2158b38484e2a5956d8fba9b96d81a74e5d6dbe6babb33859a8dfb865c2c23e11ef357). It was my first time checking out Dashe wines, and I thought the wide-open space, industrial with touches of whimsy, was very inviting.
 
 [![Dashe Cellar Oakland Urban Wine Tour](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_01-381x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_01.jpg)
 
@@ -92,7 +89,7 @@ A close second, which also earned 4/5 for me, was the **2013 Dry Creek Old Vin Z
 
 [![dashe cellars dry creek zinfandel review](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_16-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_16.jpg)
 
-Alas, one must move forward, though that is not such a bad prospect on a wine tour! We headed out of Dashe and onward about five blocks to Urban Legend's tasting room.
+Alas, one must move forward, though that is not such a bad prospect on a wine tour! We headed out of Dashe and onward about five blocks to Urban Legend's *NOW IN ALAMEDA* tasting room.
 
 [![urban legend oakland urban wine tour tasting](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_20-500x436.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_20.jpg)
 
@@ -106,13 +103,13 @@ But what really dominated at this tour stop was the warm empanadas by Javi.
 
 [![chicken empanada javi's empanadas oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_26-500x488.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_26.jpg)
 
-We were offered three varieties, and I could not have chosen better than the chicken with bell peppers, onions, and a lively dose of black pepper. Perfect crust on the hand pies; perfect flavor on the inside. Check out Javi’s Empanadas for yourself at [Scarlet City Espresso Bar](http://www.scarletcityroasting.com/espresso-bar/) in Emeryville.
+We were offered three varieties, and I could not have chosen better than the chicken with bell peppers, onions, and a lively dose of black pepper. Perfect crust on the hand pies; perfect flavor on the inside. Check out Javi’s Empanadas for yourself at [Scarlet City Espresso Bar *CLOSED*](http://www.scarletcityroasting.com/espresso-bar/) in Emeryville.
 
 Stop #3 was even closer than Urban Legend had been to Dashe Cellars. That’s likely wise nine samples into (or more, I’m not telling) a wine tasting tour.
 
 [![jeff cohn cellars oakland urban wine tour](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_33-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_33.jpg)
 
-Jeff Cohn Cellars, [which I’ve also previously visited](http://thegourmez.com/2015/07/16/jeff-cohn-cellars/), is known especially for the winemaker’s excellent zinfandel line that masterfully showcases the differences between vineyards that grow the grape. This time around, his **Shake Ridge 2012 Zinfandel** most enchanted me. Or most made me wish for another empanada. You decide: "A zin that can handle any meat, from turkey to peppered beef to meat pies! And perhaps even a dark berry tart. It won't knock you out in a glass, which is also a plus.” 4/5
+Jeff Cohn Cellars *MOVED TO WINE COUNTRY*, [which I’ve also previously visited](http://thegourmez.com/2015/07/16/jeff-cohn-cellars/), is known especially for the winemaker’s excellent zinfandel line that masterfully showcases the differences between vineyards that grow the grape. This time around, his **Shake Ridge 2012 Zinfandel** most enchanted me. Or most made me wish for another empanada. You decide: "A zin that can handle any meat, from turkey to peppered beef to meat pies! And perhaps even a dark berry tart. It won't knock you out in a glass, which is also a plus.” 4/5
 
 [![jeff cohn cellars shake ridge zinfandel](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_37-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_37.jpg)
 
