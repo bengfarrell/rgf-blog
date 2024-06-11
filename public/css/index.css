@@ -162,6 +162,10 @@ header ul {
 	text-align: right;
 }
 
+header a.search {
+	cursor: pointer;
+}
+
 header ul,
 footer ul,
 nav ul {
@@ -223,6 +227,30 @@ nav li a[href]:visited {
 	text-shadow: 1px 1px 2px var(--color-green);
 	width: 150px;
 	padding: 5px;
+}
+
+nav.pagination ul li {
+	background-color: transparent;
+	color: black;
+	border: none;
+}
+
+nav.pagination li span,
+nav.pagination li a[href],
+nav.pagination li a[href]:visited {
+	text-shadow: none;
+	width: auto;
+}
+
+nav.pagination li a[href],
+nav.pagination li a[href]:visited {
+	color: black;
+}
+
+nav.pagination li span {
+	color: #00000033;	
+	font-weight: bold;
+	font-family: "Freeman", sans-serif;
 }
 
 .links-nextprev {
@@ -493,8 +521,7 @@ div.caption img {
 }
 
 #search {
-	margin-left: 1em;
-	margin-right: 1em;
+	margin: 1em;
 	display: none;
 }
 
@@ -509,6 +536,10 @@ body.search #search {
 	border-bottom: 4px dotted var(--color-cream);
 	color: black;
 	padding: 1em 4em;
+}
+
+.message-box p {
+	margin: 0;
 }
 
 .message-box img {
@@ -564,4 +595,13 @@ body.search #search {
 	width: 100%;
 	border-radius: var(--rounded-corner);
 	margin-bottom: 15px;
+}
+
+img[title="rating_chicken11"],
+img[title="rating_mushroom1"],
+img[title="rating_olive1"],
+img[title="rating_truffle1"],
+img[title="rating_avocado1"] {
+	width: 30px;
+	align-self: center;
 }
