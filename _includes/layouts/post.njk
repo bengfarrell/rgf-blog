@@ -1,9 +1,6 @@
 ---
 layout: layouts/base.njk
 ---
-{# Only include the syntax highlighter CSS on blog posts #}
-{%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
-{%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
 
 <div id="page-container">
 	<div id="page-content">
@@ -22,8 +19,8 @@ layout: layouts/base.njk
 		{%- set nextPost = collections.posts | getNextCollectionItem %}
 		{%- if nextPost or previousPost %}
 		<ul class="links-nextprev">
-			{%- if previousPost %}<li>&lt&lt;&nbsp;<a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
-			{%- if nextPost %}<li><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>&nbsp;&gt;&gt</li>{% endif %}
+			{%- if previousPost %}<li class="prev-post">&lt&lt;&nbsp;<a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+			{%- if nextPost %}<li class="next-post"><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>&nbsp;&gt;&gt</li>{% endif %}
 		</ul>
 		{%- endif %}
 		{%- endif %}
