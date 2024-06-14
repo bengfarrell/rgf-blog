@@ -2,9 +2,6 @@
 title: "Vitality Bowls"
 date: "2016-06-02"
 categories: 
-  - "dining-in-walnut-creek"
-  - "food-product-review"
-  - "product-reviews"
   - "restaurants"
 tags: 
   - "acai"
@@ -62,7 +59,5 @@ Honestly, I’m pretty delighted with my first açai bowl experience, though sup
 I won’t hesitate to purchase an açai bowl the next time I see one. But will others live up to the expectations set by Vitality Bowls?
 
 **Obligatory disclaimer:** I did not pay for the food and drink reviewed in this post. They did.
-
-[![Vitality Bowls Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16863173/minilink)](https://www.zomato.com/walnut-creek-ca/vitality-bowls-walnut-creek "View Menu, Reviews, Photos & Information about Vitality Bowls, Walnut Creek and other Restaurants in Walnut Creek")
 
 _Visited 10 May 2016._

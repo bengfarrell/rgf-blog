@@ -2,16 +2,8 @@
 title: "Most Memorable Wines from the 2016 Wine Bloggers Conference: Part 2"
 date: "2016-09-04"
 categories:
-  - "bread-wine"
-  - "liqueur-reviews"
-  - "other-spirits"
-  - "petite-sirah"
-  - "red-wine-review"
-  - "sauvignon-blanc"
-  - "vodka"
-  - "white-wine-reviews"
   - "wine"
-  - "wine-bloggers-conference-2016"
+  
 tags:
   - "3-steves"
   - "cafe-daristi"

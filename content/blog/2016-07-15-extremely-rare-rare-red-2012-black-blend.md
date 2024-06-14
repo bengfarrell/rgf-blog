@@ -18,7 +18,7 @@ tags:
   - "tasting-notes"
 ---
 
-**Extremely Rare Rare Red 2012 Black Blend** Central CA
+**Region:** Central CA
 
 [![extremely rare rare red 2012 black blend wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Scotto-Black-01-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Scotto-Black-01.jpg)
 

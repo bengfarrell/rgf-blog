@@ -2,7 +2,6 @@
 title: "Lemonade Invades the Bay Area!"
 date: "2016-07-01"
 categories:
-  - "dining-in-palo-alto"
   - "restaurants"
 tags:
   - "affordable"

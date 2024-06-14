@@ -2,14 +2,9 @@
 title: "Highlights of the Livermore Valley Wine Country"
 date: "2016-11-21"
 categories:
-  - "port-fortified-wine"
-  - "red-wine-review"
-  - "rose-review"
-  - "tasting-rooms-in-livermore-ca"
-  - "travel-guide"
-  - "white-wine-reviews"
+  - "travel-guides"
   - "wine"
-  - "wine-bloggers-conference-2016"
+  - "restaurants"
 tags:
   - "bay-area"
   - "concannon"

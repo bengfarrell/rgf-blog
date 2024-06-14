@@ -2,8 +2,6 @@
 title: "Justice Grace Vineyards Shoe Shine Petite Sirah 2011"
 date: "2016-08-09"
 categories: 
-  - "petite-sirah"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "2011"
@@ -17,7 +15,8 @@ tags:
   - "tasting-notes"
 ---
 
-**Justice Grace Vineyards Shoe Shine Petite Sirah 2011** North Coast, California
+
+**Region:** North Coast, California
 
 ![Justice Grace Vineyards Shoe Shine Petite Sirah 2011](http://s3.amazonaws.com/thegourmez-wpmedia/2016/08/ShoeShineWine_01-333x500.jpg)
 

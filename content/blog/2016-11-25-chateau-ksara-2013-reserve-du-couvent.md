@@ -2,8 +2,6 @@
 title: "Château Ksara 2013 Reserve du Couvent"
 date: "2016-11-25"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "bekaa-valley"
@@ -16,7 +14,8 @@ tags:
   - "tasting-notes"
 ---
 
-**Château Ksara 2013 Reserve du Couvent** Bekaa Valley, Lebanon
+**Château Ksara 2013 Reserve du Couvent**
+Bekaa Valley, Lebanon
 
 [![Chateau Ksara Reserve du Couvent Review](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Chateau-ksara-1-282x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Chateau-ksara-1.jpg)
 

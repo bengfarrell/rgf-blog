@@ -2,10 +2,8 @@
 title: "Food and Wine Lover Christmas Gift Ideas"
 date: "2016-12-15"
 categories:
-  - "champagne"
-  - "red-wine-review"
-  - "sparkling-wine-review"
-  - "white-wine-reviews"
+  - "wine"
+  - "other-businesses"
 tags:
   - "christmas-gift-ideas"
   - "foodie-gifts"

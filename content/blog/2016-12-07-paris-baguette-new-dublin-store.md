@@ -2,8 +2,8 @@
 title: "Paris Baguette's New Dublin Store"
 date: "2016-12-07"
 categories:
-  - "dining-in-dublin"
-  - "restaurants"
+  - "bakeries"
+  
 tags:
   - "asian"
   - "bakery"
@@ -28,6 +28,10 @@ tags:
 ---
 
 [![Paris Baguette Dublin](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_45-500x326.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_45.jpg)
+
+**Paris Baguette**
+7150 Regional Street
+Almond Plaza, Dublin
 
 _Obligatory disclaimer: This was an invited visit to Dublin's Paris Baguette and thus, all food and drink was free to me._
 
@@ -120,7 +124,5 @@ It's welcoming with cool tones despite the initial bustling hunt to find the bes
 [![Paris Baguette](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_12-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_12.jpg)
 
 Thank you to the Paris Baguette team for inviting me out!
-
-**Paris Baguette** 7150 Regional Street Almond Plaza, Dublin
 
 _Reviewed 4 November 2016._

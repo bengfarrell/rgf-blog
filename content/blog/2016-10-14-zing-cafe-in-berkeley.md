@@ -2,8 +2,8 @@
 title: "Zing Cafe in Berkeley"
 date: "2016-10-14"
 categories: 
-  - "coffee-shop"
-  - "coffee-in-berkeley"
+  - "coffee-shops"
+  - "restaurants"
 tags: 
   - "ashby"
   - "ashby-station"
@@ -26,6 +26,9 @@ tags:
 ---
 
 [![Zing! Cafe Berkeley](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Zing-Cafe-07-500x369.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Zing-Cafe-07.jpg)
+
+3051 Adeline St.
+Ashby, Berkeley
 
 Zing Café is located in the Marmot Mountain Works suite of buildings, a really unique complex done in old Storybook style right across the street from the Ashby BART station. The Marmont Mountain Works has been defunct for a number of years now—
 
@@ -61,10 +64,7 @@ It’s a watery version rather than a creamy one, which means healthier though i
 
 With more seating, Zing would be a frequent stop on my regular coffee shop rotation. As is, it’s got great sandwiches and coffee and plenty of hospitality to go with them.
 
-**Zing Café** 3051 Adeline St. Ashby, Berkeley
-
 [![The Gourmez Avocado Rating 4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif)
 
-[![Zing! Cafe Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/18100115/minilink)](https://www.zomato.com/berkeley-ca/zing-cafe-berkeley "View Menu, Reviews, Photos & Information about Zing! Cafe, Berkeley and other Restaurants in Berkeley")
 
 _Reviewed 2 September 2016._

@@ -2,8 +2,7 @@
 title: "Port Pairing for Halloween"
 date: "2016-10-24"
 categories: 
-  - "fortified-wine"
-  - "port-fortified-wine"
+  - "recipes"
   - "wine"
 tags: 
   - "butter-toffee-nuts"

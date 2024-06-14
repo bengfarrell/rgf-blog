@@ -3,15 +3,9 @@ title: "A Visit to Bella Grace Vineyards"
 date: "2016-10-10"
 categories:
   - "wine"
-  - "grenache-blanc"
-  - "red-wine-review"
-  - "roussanne"
-  - "sparkling-wine-review"
-  - "tasting-rooms-in-amador-county-ca"
-  - "tempranillo"
-  - "vermentino"
-  - "white-wine-reviews"
-  - "wine"
+  - "tasting-rooms"
+  - "events"
+ 
 tags:
   - "amador"
   - "amador-county"

@@ -3,8 +3,7 @@ title: "Indie Coffee Passport - Oakland! Get it now!"
 date: "2016-08-25"
 categories: 
   - "announcements"
-  - "coffee-shop"
-  - "oakland-coffee-shop-reviews"
+  - "coffee-shops"
 tags: 
   - "coffee-deals"
   - "east-bay"

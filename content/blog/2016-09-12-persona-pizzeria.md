@@ -2,8 +2,7 @@
 title: "Persona Pizzeria"
 date: "2016-09-12"
 categories:
-  - "dining-in-santa-rosa"
-  - "restaurants"
+    - "restaurants"
 tags:
   - "basil"
   - "brick-oven"
@@ -29,9 +28,14 @@ tags:
   - "world-pizza-champion"
 ---
 
-#### What is Persona Pizzeria?
+701 4th Street
+Santa Rosa
+[Website](http://personapizzeria.com/locations/santa-rosa/)
+$8 - $14
 
 _Obligatory disclaimer: I was asked to do this review by Persona Pizzeria. Thus, all food and beverage described in this post were free._
+
+#### What is Persona Pizzeria?
 
 [Persona Pizzeria](http://personapizzeria.com/) is a fast-expanding small chain with a fantastic reason for it: they make customizable Neapolitan-style pizza to order with quality ingredients from flour to toppings …. and they are ready in 90 seconds! Co-founder and chef Glenn Cybulski, a world champion of wood-fired pizza making, is responsible for the award-winning specialty pizzas Persona offers, and the reason those pizzas come out so fast is a brick oven set to 800 degrees.
 
@@ -92,9 +96,5 @@ The burrata was as creamy as it should be, and that pesto is a delightful herbal
 Other than those small critiques, I don’t have a negative thing to say about my Persona Pizzeria lunch, and I’d be surprised if you do. Give this unique concept a try; you’re going to sooner or later, because it’s going to explode all over the place. When done well, expansion can be a very good thing for all of us.
 
 [![The Gourmez, rating, truffle, 5/5, excellent](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)
-
-**Persona Pizzeria** 701 4th Street Santa Rosa [Website](http://personapizzeria.com/locations/santa-rosa/) $8 - $14
-
-[![Persona Wood Fired Pizzeria Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/17857294/minilink)](https://www.zomato.com/santa-rosa-ca/persona-wood-fired-pizzeria-santa-rosa "View Menu, Reviews, Photos & Information about Persona Wood Fired Pizzeria, Santa Rosa and other Restaurants in Santa Rosa")
 
 _Reviewed 20 August 2016._

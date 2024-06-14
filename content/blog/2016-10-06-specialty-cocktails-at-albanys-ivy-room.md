@@ -3,8 +3,8 @@ title: "Specialty Cocktails at Albany’s Ivy Room"
 date: "2016-10-06"
 categories: 
   - "bars"
-  - "bars"
-  - "tequila"
+  - "cocktails"
+  
 tags: 
   - "bars"
   - "clubs"
@@ -24,6 +24,10 @@ tags:
 ---
 
 #### The Ivy Room
+
+860 San Pablo Avenue
+Albany, CA
+[Website](http://ivyroom.com/)
 
 Back in March, I visited the Ivy Room soon after its [redesign and re-opening](http://thegourmez.com/2016/03/29/ivy-room-albany-review/). Since then, they have added specialty cocktails to their full bar, and whichever bartender has developed them deserves a raise!
 
@@ -50,9 +54,5 @@ Those two cocktails together are enough to raise my rating of Ivy Room up a notc
 —and you’ve got a local hangout with market savvy hidden behind a sheen of pure fun. Go on, stay awhile.
 
 [![The Gourmez Avocado Rating 4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif)
-
-**Ivy Room** 860 San Pablo Avenue Albany [Website](http://ivyroom.com/)
-
-[![Ivy Room Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16861848/minilink)](https://www.zomato.com/albany-ca/ivy-room-albany "View Menu, Reviews, Photos & Information about Ivy Room, Albany and other Restaurants in Albany")
 
 _Cocktails consumed 31 August 2016._

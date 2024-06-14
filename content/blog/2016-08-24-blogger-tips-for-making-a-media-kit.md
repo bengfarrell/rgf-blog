@@ -2,9 +2,7 @@
 title: "Blogger Tips for Making a Media Kit"
 date: "2016-08-24"
 categories: 
-  - "wine"
-  - "wine-bloggers-conference-2016"
-  - "writing"
+  - "announcements"
 tags: 
   - "2016"
   - "austin-beeman"

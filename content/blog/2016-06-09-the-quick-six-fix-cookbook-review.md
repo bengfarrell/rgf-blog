@@ -2,9 +2,8 @@
 title: "The Quick Six Fix Cookbook Review"
 date: "2016-06-09"
 categories: 
-  - "food-product-review"
   - "product-reviews"
-  - "recipes-2"
+  - "recipes"
 tags: 
   - "apple-cabbage-slaw-recipe"
   - "easy-simply-recipes"

@@ -2,17 +2,7 @@
 title: "Prosser Wine Part 2: Best Wines in the Area"
 date: "2016-12-29"
 categories:
-  - "cabernet-sauvignon"
-  - "champagne"
-  - "dessert-wine-reviews"
-  - "durif"
-  - "red-wine-review"
-  - "sparkling-wine-review"
-  - "tasting-rooms-in-prosser"
-  - "tempranillo"
-  - "travel-guide"
-  - "travel-guide"
-  - "white-wine-reviews"
+  - "travel-guides"
   - "wine"
 tags:
   - "14-hands"

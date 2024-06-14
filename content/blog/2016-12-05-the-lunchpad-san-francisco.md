@@ -27,6 +27,10 @@ tags:
   - "turkey"
 ---
 
+**The Lunchpad @ Noir Lounge**
+581 Hayes Street Hayes Valley, San Francisco
+$6.50 - $13.00
+
 _Obligatory disclaimer: This post is based on a media event held by the Lunchpad, so portions are sized down and it was all free to me._
 
 
@@ -118,9 +122,5 @@ So if you stroll through Hayes Valley on a lovely San Francisco day and find you
 Pick an item featuring pickled pickles, pickled veggies, candied bacon, tomato bisque, or brunch and you won’t be disappointed. But you will be full.
 
 Thanks to the Lunchpad team for this sampler of their signature dishes! And don't forget to sign up for [the next pickling class](https://www.eventbrite.com/e/get-pickled-with-the-lunchpad-tickets-29314847498) on December 18.
-
-**The Lunchpad @ Noir Lounge** 581 Hayes Street Hayes Valley, San Francisco $6.50 - $13.00
-
-[![Lunchpad Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/17769691/minilink)](https://www.zomato.com/san-francisco/lunchpad-hayes-valley "View Menu, Reviews, Photos & Information about Lunchpad, Hayes Valley and other Restaurants in San Francisco")
 
 _Tasted 27 October 2016._

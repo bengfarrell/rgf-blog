@@ -2,14 +2,8 @@
 title: "Sustainable Food and Drink of Contra Costa"
 date: "2016-12-22"
 categories:
-  - "dining-in-walnut-creek"
-  - "fortified-wine"
-  - "moscato-dasti"
-  - "port-fortified-wine"
-  - "red-wine-review"
+  - "events"
   - "restaurants"
-  - "sparkling-wine-review"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "adam-carpenter"

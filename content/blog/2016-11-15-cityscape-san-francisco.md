@@ -3,7 +3,8 @@ title: "Cityscape at the Union Square Hilton"
 date: "2016-11-15"
 categories:
   - "bars"
-  - "bars-in-san-francisco"
+  - "events"
+  - "restaurants"
 tags:
   - "bar-bites"
   - "black-garlic"
@@ -101,7 +102,5 @@ The two seafood dishes also offered vibrant flavors, with the ahi, salmon, and h
 [![elevator Cityscape Hilton San Francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-023-394x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-023.jpg)
 
 Cityscape is waiting to provide you with more than a moment of tranquility.
-
-[![Cityscape Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/17838008/minilink)](https://www.zomato.com/san-francisco/cityscape-union-square "View Menu, Reviews, Photos & Information about Cityscape, Union Square and other Restaurants in San Francisco")
 
 _This media event took place on 28 September 2016._

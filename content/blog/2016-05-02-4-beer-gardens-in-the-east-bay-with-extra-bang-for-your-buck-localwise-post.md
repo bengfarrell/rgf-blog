@@ -3,12 +3,8 @@ title: "4 Beer Gardens in the East Bay with Extra Bang for Your Buck - Localwise
 date: "2016-05-02"
 categories:
   - "bars"
-  - "breweries-in-alameda"
-  - "bars-berkeley-ca"
-  - "breweries-in-oakland-ca"
-  - "berkeley-restaurant-review"
-  - "oakland-restaurant-reviews"
-  - "publication-news"
+  - "breweries"
+  - "announcements"
   - "restaurants"
 tags:
   - "beer"

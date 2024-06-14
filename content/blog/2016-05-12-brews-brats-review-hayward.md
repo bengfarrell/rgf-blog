@@ -1,8 +1,8 @@
 ---
-title: "Brews & Brats"
+title: "Brews & Brats *CLOSED*"
 date: "2016-05-12"
 categories: 
-  - "hayward-restaurant-reviews"
+  - "beer"
   - "restaurants"
 tags: 
   - "affordable"
@@ -25,6 +25,11 @@ tags:
 ---
 
 [![Brews & Brats Hayward](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BrewsBrats01-329x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BrewsBrats01.jpg)
+
+1061 B Street
+Downtown Hayward
+[Website](http://www.pubandrestaurantinhaywardca.com/)
+$7.50–$15.00
 
 When I lived in Hayward, 2013–2014, I avidly anticipated the opening of Brews & Brats on B Street, one of several new restaurants moving into the downtown strip at the time. Alas, Brews & Brats still wasn’t open by the time I moved to Oakland, but now, a year later, it’s fully established. As I was due for a visit to my optometrist up the street, I decided now was the time to finally check this place out.
 
@@ -53,9 +58,5 @@ We were surprised that the much milder swedish potato dog still conveyed a littl
 Brews & Brats is a great new addition to the Hayward dining scene, but if you go, be prepared for a very relaxed experience. This is a kick-back-and-watch-the-game sort of place. With great sausages and beers, that’s not at all a bad way to spend the evening. And if you do go, please let me know how the bacon-topped potato salad is, because I love the idea that you can order it with or without bacon when _bacon_ is part of its name.
 
 [![The Gourmez Avocado Rating 4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif)
-
-**Brews & Brats** 1061 B Street Downtown Hayward [Website](http://www.pubandrestaurantinhaywardca.com/) $7.50-$15.00
-
-[![Brews & Brats Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/18112679/minilink)](https://www.zomato.com/hayward-ca/brews-brats-hayward "View Menu, Reviews, Photos & Information about Brews & Brats, Hayward and other Restaurants in Hayward")
 
 _Reviewed 18 April 2016._

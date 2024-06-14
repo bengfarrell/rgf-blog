@@ -3,11 +3,6 @@ title: "3 Best Wines at Urban Vines"
 date: "2016-06-24"
 categories: 
   - "events"
-  - "malbec"
-  - "other-red-blends"
-  - "red-wine-review"
-  - "riesling"
-  - "white-wine-reviews"
   - "wine"
 tags: 
   - "african-american-winemakers"

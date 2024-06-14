@@ -3,9 +3,9 @@ title: "Azzurre Spirits Vodka and Gin"
 date: "2016-11-17"
 categories:
   - "recipes"
-  - "gin-reviews"
+  - "cocktails"
   - "spirits"
-  - "vodka"
+  
 tags:
   - "apple-liquor"
   - "azzurre"

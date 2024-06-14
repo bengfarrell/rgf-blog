@@ -4,6 +4,7 @@ date: "2017-04-06"
 categories:
   - "coffee-shops"
   - "restaurants"
+  - "bakeries"
 tags:
   - "coffee"
   - "coffee-shop"

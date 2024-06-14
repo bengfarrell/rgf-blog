@@ -2,9 +2,8 @@
 title: "Lose Weight by Eating Cookbook Review"
 date: "2016-06-07"
 categories: 
-  - "food-product-review"
   - "product-reviews"
-  - "recipes-2"
+  - "recipes"
 tags: 
   - "audrey-johns"
   - "baked-potato"

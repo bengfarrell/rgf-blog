@@ -2,8 +2,7 @@
 title: "Skinny & Co. Coconut Oil Products"
 date: "2016-09-15"
 categories: 
-  - "bath-product-review"
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags: 
   - "alkaline"

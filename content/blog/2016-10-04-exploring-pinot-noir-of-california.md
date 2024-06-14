@@ -2,8 +2,8 @@
 title: "Exploring Pinot Noir of California"
 date: "2016-10-04"
 categories: 
-  - "pinot-noir"
-  - "red-wine-review"
+  - "events"
+  - "restaurants"
   - "wine"
 tags: 
   - "2014-vintage"

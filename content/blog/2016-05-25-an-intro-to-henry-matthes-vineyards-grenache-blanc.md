@@ -2,9 +2,6 @@
 title: "An Intro to Henry Matthes Vineyards"
 date: "2016-05-25"
 categories: 
-  - "grenache-blanc"
-  - "marsanne"
-  - "white-wine-reviews"
   - "wine"
 tags: 
   - "backyard-vineyard"

@@ -2,8 +2,6 @@
 title: "Wente Sauvignon Blanc Louis Mel Estate 2013"
 date: "2016-05-09"
 categories: 
-  - "sauvignon-blanc"
-  - "white-wine-reviews"
   - "wine"
 tags: 
   - "2013"
@@ -15,7 +13,7 @@ tags:
   - "wine-notes"
 ---
 
-**Wente Vineyards Louis Mel Estate Sauvignon Blanc 2013** Livermore Valley, CA
+**Region:** Livermore Valley, CA
 
 [![Wente Louis Mel Sauvignon Blanc](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/WenteSavBlanc01-395x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/WenteSavBlanc01.jpg)
 

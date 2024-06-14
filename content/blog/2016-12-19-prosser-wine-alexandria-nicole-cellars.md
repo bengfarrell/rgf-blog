@@ -2,11 +2,9 @@
 title: "Prosser Wine Part 1: The Allure of Alexandria Nicole Cellars"
 date: "2016-12-19"
 categories:
-  - "red-wine-review"
-  - "tasting-rooms-in-prosser"
-  - "travel-guide"
-  - "travel-guide"
-  - "white-wine-reviews"
+  - "wine"
+  - "travel-guides"
+  
 tags:
   - "alexandria-nicole"
   - "cellars"

@@ -2,9 +2,8 @@
 title: "New Brunch--and Chef!--at Tiburon Tavern"
 date: "2016-07-06"
 categories:
-  - "dining-in-tiburon"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "bay-area-overnights"
   - "beet-cocktails"
@@ -91,5 +90,4 @@ I'll write up a separate post on the Lodge itself soon, with pictures of the gro
 
 [![ Tiburon's downtown sculpture.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Tiburon-09-500x484.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Tiburon-09.jpg) Tiburon's downtown sculpture.</div>
 
-
-[![Tiburon Tavern Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16862026/minilink)](https://www.zomato.com/tiburon-ca/tiburon-tavern-tiburon "View Menu, Reviews, Photos & Information about Tiburon Tavern, Tiburon and other Restaurants in Tiburon") _Brunch took place 26 June 2016._
+ _Brunch took place 26 June 2016._

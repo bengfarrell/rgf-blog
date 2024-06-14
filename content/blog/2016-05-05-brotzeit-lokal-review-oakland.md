@@ -3,7 +3,7 @@ title: "Brotzeit Lokal"
 date: "2016-05-05"
 categories:
   - "cider"
-  - "oakland-restaurant-reviews"
+  - "beer"
   - "restaurants"
 tags:
   - "aspalls-cider"
@@ -20,6 +20,11 @@ tags:
   - "sausage"
   - "views"
 ---
+
+1000 Embarcadero
+Brooklyn Basin, Oakland
+[Website](http://brotzeitbiergarten.com/)
+$10–$28
 
 Brotzeit Lokal is memorable for more than being a mouthful to pronounce. We all love beer gardens, right? So what makes a beer garden even better? A beautiful view!
 
@@ -76,11 +81,5 @@ The sausage accoutrements are good, though warmer than I prefer for pickles and 
 Ultimately, I think Brotzeit Lokal is worth going to for the view alone, and the chances of also finding tasty food to go with your brews are good, if not always as memorable. If you go, you should know that it’s actually situated behind the Homewood Suites on Embarcadero. Drive down the hotel’s right side and head toward the water. You’ll see Brotzeit Lokal and its views soon enough.
 
 [![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
-
-**Brotzeit Lokal** 1000 Embarcadero Brooklyn Basin, Oakland [Website](http://brotzeitbiergarten.com/) $10--$28
-
-[![Brotzeit Lokal Boathaus & Biergarten on Foodio54](http://foodio54.com/images/badge-2-119e49.jpg)](http://foodio54.com/restaurant/Oakland-CA/119e49/Brotzeit-Lokal-Boathaus-amp-Biergarten)
-
-[![Brotzeit Boathaus Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16862286/minilink)](https://www.zomato.com/oakland-ca/brotzeit-boathaus-east-oakland "View Menu, Reviews, Photos & Information about Brotzeit Boathaus, East Oakland and other Restaurants in Oakland")
 
 _Most recently visited 23 March 2016._

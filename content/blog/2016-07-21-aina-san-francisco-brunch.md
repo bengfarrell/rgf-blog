@@ -1,9 +1,8 @@
 ---
-title: "'āina"
+title: "'āina *CLOSED*"
 date: "2016-07-21"
 categories: 
-  - "san-francisco-restaurant-review"
-  - "restaurants"
+   - "restaurants"
 tags: 
   - "aina"
   - "best-brunches"
@@ -22,6 +21,11 @@ tags:
   - "review"
   - "san-francisco"
 ---
+
+900 22nd Street Dogpatch
+San Francisco
+[Website](http://www.ainasf.com/)
+Brunch: $15–18
 
 My food-writing friend, Jennifer Ng, joined me for brunch at 'āina recently. Jennifer is the author of the [Ice Cream Travel Guide](http://www.icecreamtravelguide.com/), a book that explores the best ice cream shops worldwide and the stories behind the people who built them. I've been discovering that Jennifer's foodie knowledge isn't limited to ice cream, and she suggested 'āina, picking a Hawaiian restaurant with Portuguese influences that she'd tried in its former incarnation as a pop-up.
 
@@ -56,9 +60,5 @@ Jennifer's nonalcoholic, ginger-hibiscus lemonade satisfied, but she thinks she'
 'āina has earned its place on my go-to list of brunch recommendations for visitors to San Francisco. Yes, I had critique, but all the positives swamp those in my memory. Jennifer ultimately thinks the pop-up versions of their signature dishes were better, but I don't have that ruler to measure against. And this is my blog, so my opinion trumps all. ;)
 
 [![The Gourmez, rating, truffle, 5/5, excellent](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)
-
-**'āina** 900 22nd Street Dogpatch, San Francisco [Website](http://www.ainasf.com/) Brunch: $15--18
-
-[![Aina Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/17768648/minilink)](https://www.zomato.com/san-francisco/aina-bernal-heights "View Menu, Reviews, Photos & Information about Aina, Bernal Heights and other Restaurants in San Francisco")
 
 _Reviewed 24 June 2016._

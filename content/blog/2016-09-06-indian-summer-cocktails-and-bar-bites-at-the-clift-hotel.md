@@ -3,7 +3,8 @@ title: "Indian Summer Cocktails and Bar Bites at the Clift Hotel"
 date: "2016-09-06"
 categories:
   - "bars"
-  - "bars-in-san-francisco"
+  - "events"
+  - "restaurants"
 tags:
   - "anthony-kim"
   - "bar-bites"
@@ -139,5 +140,3 @@ Whatever your choice, the Redwood Room’s Indian Summer menu has plenty hiding 
 
 
 _Event took place 17 August 2016._
-
-[![Redwood Room Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/17770166/minilink)](https://www.zomato.com/san-francisco/redwood-room-union-square "View Menu, Reviews, Photos & Information about Redwood Room, Union Square and other Restaurants in San Francisco")

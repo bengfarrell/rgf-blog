@@ -3,11 +3,7 @@ title: "Most Memorable Wines from the 2016 Wine Bloggers Conference: Part 1"
 date: "2016-09-02"
 categories:
   - "cider"
-  - "red-wine-review"
-  - "sparkling-wine-review"
-  - "white-wine-reviews"
   - "wine"
-  - "wine-bloggers-conference-2016"
 tags:
   - "best-wines"
   - "bokisch-albarino"

@@ -2,11 +2,8 @@
 title: "Pairing Pure Leaf's Tea House Collection with SPQR's Finesse!"
 date: "2016-06-29"
 categories:
-  - "san-francisco-restaurant-review"
+  - "recipes"
   - "events"
-  - "food-product-review"
-  - "product-reviews"
-  - "recipes-2"
   - "restaurants"
 tags:
   - "almond-cake-bars"

@@ -2,11 +2,10 @@
 title: "Contempo Cocktail Company and Its Kickstarter Campaign"
 date: "2016-08-11"
 categories: 
-  - "beverages-to-go"
-  - "gin-reviews"
-  - "ice-cream-bakery-food-truck"
-  - "other-spirits"
-  - "whiskey-whisky-review"
+  - "spirits"
+  - "cocktails"
+  - "product-reviews"
+  - "other-businesses"
 tags: 
   - "artisan"
   - "cocktail-news"

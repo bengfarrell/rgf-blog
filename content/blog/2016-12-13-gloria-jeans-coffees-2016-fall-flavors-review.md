@@ -2,8 +2,7 @@
 title: "Gloria Jean's Coffees' 2016 Fall Flavors Review"
 date: "2016-12-13"
 categories: 
-  - "coffee-shop"
-  - "product-reviews"
+    - "product-reviews"
 tags: 
   - "caramel-apple-nut"
   - "caramel-pecan-roll"

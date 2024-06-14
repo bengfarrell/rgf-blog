@@ -2,8 +2,7 @@
 title: "Matthew Accarrino's Roast Beef Recipe"
 date: "2016-07-29"
 categories:
-  - "san-francisco-restaurant-review"
-  - "recipes-2"
+  - "recipe"
   - "restaurants"
 tags:
   - "bay-area"

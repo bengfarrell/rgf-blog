@@ -1,8 +1,7 @@
 ---
-title: "Find your Mac Daddy at Smoke's Poutinerie!"
+title: "Find your Mac Daddy at Smoke's Poutinerie! *CLOSED*"
 date: "2016-07-18"
 categories: 
-  - "berkeley-restaurant-review"
   - "restaurants"
 tags: 
   - "berkeley"

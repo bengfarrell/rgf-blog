@@ -2,7 +2,6 @@
 title: "Scratch"
 date: "2016-07-12"
 categories: 
-  - "dining-in-mountain-view"
   - "restaurants"
 tags: 
   - "bay-area"
@@ -22,6 +21,10 @@ tags:
 ---
 
 [![Scratch Mountain View Restaurant](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Scratch-07-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Scratch-07.jpg)
+
+401 Castro Street Downtown Mountain View
+[Website](http://www.scratchmtnview.com/#about)
+Lunch: $15–$30
 
 Scratch, not to be confused with [the Scratch I reviewed in Durham](http://thegourmez.com/2012/02/27/scratch/) a few years back, bills itself as a purveyor of American comfort food in an elegant style, a common trend among restaurants these days--_upscale comfort food_ is the new _American bistro_. And who can blame them, as restaurants dare much if they don't have a version of mac and cheese, fried chicken, or flatbreads on the menu. We do always need to please our less adventurous friends! And who am I to talk when I did a whole series on [mac and cheese in the Bay Area](http://thegourmez.com/?s=mac+and+cheese)?
 
@@ -62,11 +65,5 @@ The large, oval bar dominates the entryway, providing a tantalizing look at Scra
 I'm finding it hard to arrive at a rating for Scratch. Ultimately, value is playing a role in this one, as I enjoyed my meal, but for the price, I expect every element to be well-thought out and of highest quality, and Scratch failed to hit that standard. The lobster roll was fantastic, but the salad was not. The halibut lacked flavor, but the lemon aioli impressed. Which means Scratch has hit or miss potential and for that much money, I want to be assured a hit. Ultimately, that makes my decision a chicken Scratch.
 
 [![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
-
-**Scratch** 401 Castro Street Downtown Mountain View [Website](http://www.scratchmtnview.com/#about) Lunch: $15--$30
-
-[![Scratch Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16860322/minilink)](https://www.zomato.com/mountain-view-ca/scratch-mountain-view "View Menu, Reviews, Photos & Information about Scratch, Mountain View and other Restaurants in Mountain View")
-
-[![Scratch (Mtn View) on Foodio54](http://foodio54.com/images/badge-2-117670.jpg)](http://foodio54.com/restaurant/Mountain-View-CA/117670/Scratch-Mtn-View)
 
 _Reviewed 21 June 2016._

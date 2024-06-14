@@ -2,7 +2,6 @@
 title: "Lemonade Opens in Palo Alto -- And You Can Taste it First!"
 date: "2016-06-22"
 categories: 
-  - "dining-in-palo-alto"
   - "events"
   - "restaurants"
 tags: 

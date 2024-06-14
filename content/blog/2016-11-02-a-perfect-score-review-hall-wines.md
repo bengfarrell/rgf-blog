@@ -2,10 +2,8 @@
 title: "“A Perfect Score” Book Review"
 date: "2016-11-02"
 categories:
-  - "food-product-review"
+  - "wine"
   - "product-reviews"
-  - "red-wine-review"
-  - "writing"
 tags:
   - "a-perfect-score"
   - "book"
@@ -76,7 +74,5 @@ It’s also heartwarming how highly in regard the Halls hold their staff. The bo
 [![A Perfect Score HALL WALT wines](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/APerfectScore-005-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/APerfectScore-005.jpg)
 
 Over 50 HALL and WALT wines hold 95 point and higher scores, which is an admirable feat. For devotees of these eminent estate wines, _A Perfect Score_ will provide a fascinating look at the origins and the philosophies behind their existence. The rest of us will get an intriguing introduction to a couple that knows how to make their dreams into reality and a budding desire to taste those dreams in the glass.
-
-A Perfect Score is available from Amazon here:
 
 _Read in October 2016._
