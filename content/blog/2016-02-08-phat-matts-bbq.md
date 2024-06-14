@@ -2,7 +2,6 @@
 title: "Phat Matt's BBQ"
 date: "2016-02-08"
 categories: 
-  - "oakland-restaurant-reviews"
   - "restaurants"
 tags: 
   - "bbq"
@@ -18,7 +17,10 @@ tags:
   - "ribs"
 ---
 
- 
+3415 Telegraph Ave.
+Pill Hill, Oakland
+[Website](http://www.phatmattsbbq.com/)
+$12.50–$16.99
 
 Phat Matt’s BBQ is an Oakland favorite for the quality and variety of smoked barbecue served. It’s a family-run restaurant, the type where the owners are happy to guide you through the menu of six standard meat preparations. A rotating special appears every week -- it’s smoked pastrami according to their website right now, and it was roasted steak tips with Carolina gold sauce when we went. The space itself is much more inviting than you might think simply passing by. The décor is classic rock and Oakland Raiders appreciation -- I wonder if that last part will remain for long...
 
@@ -48,10 +50,4 @@ I will be back, and perhaps sooner than I mean to when I happen to be walking by
 
 [![The Gourmez, rating, truffle, 5/5, excellent](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)
 
-**Phat Matt’s BBQ** 3415 Telegraph Ave. Pill Hill, Oakland [Website](http://www.phatmattsbbq.com/) $12.50 - $16.99
-
-[![Phat Matt's BBQ on Foodio54](http://foodio54.com/images/badge-2-c3256.jpg)](http://foodio54.com/restaurant/Oakland-CA/c3256/Phat-Matts-BBQ)
-
-[![Phat Matt's BBQ Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16859630/minilink)](https://www.zomato.com/oakland-ca/phat-matts-bbq-downtown-oakland "View Menu, Reviews, Photos & Information about Phat Matt's BBQ, Downtown Oakland and other Restaurants in Oakland")
-
-Reviewed 13 January 2016.
+_Reviewed 13 January 2016._

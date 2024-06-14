@@ -2,8 +2,8 @@
 title: "The 2016 Chardonnay Symposium -- Last Week for Early Bird Pricing!"
 date: "2016-01-25"
 categories: 
-  - "chardonnay"
-  - "white-wine-reviews"
+  - "wine"
+  - "events"
 tags: 
   - "2016"
   - "avila-beach"

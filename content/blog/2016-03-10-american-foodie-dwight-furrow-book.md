@@ -2,7 +2,6 @@
 title: "American Foodie by Dwight Furrow"
 date: "2016-03-10"
 categories:
-  - "announcements"
   - "product-reviews"
 tags:
   - "aesthetics"

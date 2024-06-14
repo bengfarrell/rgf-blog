@@ -3,7 +3,7 @@ title: "The R & R Coffee Cocktail at Neighborhood"
 date: "2016-03-18"
 categories: 
   - "bars"
-  - "bars-in-san-diego"
+  - "cocktails"
 tags: 
   - "ballz-deep"
   - "beer-cocktail"

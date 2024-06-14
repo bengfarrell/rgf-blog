@@ -3,7 +3,6 @@ title: "Serpent's Bite Apple Cider Flavored Whisky"
 date: "2016-03-25"
 categories: 
   - "spirits"
-  - "whiskey-whisky-review"
 tags: 
   - "spirit-reviews"
   - "apple-cider-whisky"
@@ -15,7 +14,8 @@ tags:
   - "whisky-reviews"
 ---
 
-**Serpent’s Bite Apple Cider Flavored Whisky** Alberta, Canada 35% ABV
+**Region:** Alberta, Canada
+35% ABV
 
 [![Serpent's Bite Apple Cider Whisky](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Serpents-Biite--383x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Serpents-Biite-.jpg)
 

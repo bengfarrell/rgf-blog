@@ -2,7 +2,7 @@
 title: "Barcelona’s Parc de la Ciutadella"
 date: "2016-01-22"
 categories:
-  - travel-guide"
+  - travel-guides"
 tags:
   - "arc-de-triomf"
   - "barcelona"

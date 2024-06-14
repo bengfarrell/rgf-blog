@@ -3,8 +3,8 @@ title: "The Bessie Coleman Gin Cocktail"
 date: "2016-02-27"
 categories: 
   - "recipes"
-  - "gin-reviews"
-  - "liqueur-reviews"
+  - "spirits"
+  - "cocktails"
 tags: 
   - "aviation"
   - "aviator"

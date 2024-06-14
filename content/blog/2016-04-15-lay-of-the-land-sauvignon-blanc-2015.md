@@ -2,8 +2,6 @@
 title: "Lay of the Land Sauvignon Blanc 2015"
 date: "2016-04-15"
 categories: 
-  - "sauvignon-blanc"
-  - "white-wine-reviews"
   - "wine"
 tags: 
   - "2015"
@@ -16,7 +14,7 @@ tags:
   - "white-wine"
 ---
 
-**Lay of the Land Sauvignon Blanc 2015** Marlborough, New Zealand
+**Region:** Marlborough, New Zealand
 
 [![Lay of the Land Sauvignon Blanc review](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Lay-of-the-Land-01-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Lay-of-the-Land-01.jpg)
 

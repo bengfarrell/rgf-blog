@@ -3,9 +3,7 @@ title: "Telegraph Beer Garden"
 date: "2016-04-26"
 categories:
   - "bars"
-  - "bars-in-oakland"
-  - "breweries-in-oakland-ca"
-  - "oakland-restaurant-reviews"
+  - "beer"
   - "restaurants"
 tags:
   - "bar"
@@ -21,6 +19,11 @@ tags:
 ---
 
 [![Telegraph Beer Garden Murals](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Telegraph-04-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Telegraph-04.jpg)
+
+2318 Telegraph Avenue
+Uptown, Oakland
+[Website](http://telegraphoakland.com/)
+$9–$17
 
 I can’t tell you how many times I’ve walked past Telegraph Beer Garden and never been entirely sure there’s anything there. That’s because I’m usually trekking into downtown Oakland a little before their weekday hours begin, so all I see is a big, black gate, a peeling sign, and a few windows I can’t peer through.
 
@@ -61,13 +64,5 @@ I’d say Telegraph Beer Garden is best enjoyed with a crowd of friends in the e
 But if you’re feeling antisocial, there’s room for you here too. Slink into an open spot and you can people watch for hours. Either way, it’s a great uptown Oakland destination with food and drink that’ll intrigue you, even if it doesn’t all pile up quite as nicely as it could. Who cares when another round of cider slushies is on its way?
 
 [![The Gourmez Avocado Rating 4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif)
-
- 
-
-**Telegraph Beer Garden** 2318 Telegraph Avenue Uptown, Oakland [Website](http://telegraphoakland.com/) $9 - $17
-
-[![Telegraph on Foodio54](http://foodio54.com/images/badge-2-132109.jpg)](http://foodio54.com/restaurant/Oakland-CA/132109/Telegraph)
-
-[![Telegraph Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16861263/minilink)](https://www.zomato.com/oakland-ca/telegraph-downtown-oakland "View Menu, Reviews, Photos & Information about Telegraph, Downtown Oakland and other Restaurants in Oakland")
 
 _Reviewed 25 March 2016._

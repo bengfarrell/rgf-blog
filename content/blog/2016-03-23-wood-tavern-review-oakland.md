@@ -2,10 +2,8 @@
 title: "Wood Tavern"
 date: "2016-03-23"
 categories: 
-  - "crement-dalsace"
-  - "oakland-restaurant-reviews"
   - "restaurants"
-  - "rose-review"
+ 
 tags: 
   - "american-food"
   - "bistro"
@@ -22,6 +20,11 @@ tags:
 ---
 
 [![Wood Tavern Rockridge Oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Wood-Tavern-01-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Wood-Tavern-01.jpg)
+
+6317 College Avenue
+Rockridge, Oakland
+[Website](http://www.woodtavern.net/)
+$12–$36
 
 Wood Tavern is a near universally acclaimed restaurant in north Oakland, at least among my circles. It’s upscale in terms of prices and dish sophistication, although the atmosphere is casual, assuming _casual_ is what you’d call elbow-to-elbow lack of space and sucking in your stomach so you don’t knock over the neighboring diner’s wine glass as you slid into your seat.
 
@@ -57,8 +60,4 @@ Yes, I have critiques for Wood Tavern, but overall, this is a restaurant that of
 
 [![rating_avocado1.gif](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif)
 
-**Wood Tavern** 6317 College Avenue Rockridge, Oakland [Website](http://www.woodtavern.net/) $12 - $36
-
-[![The Wood Tavern Restaurant on Foodio54](http://foodio54.com/images/badge-2-9de8f.jpg)](http://foodio54.com/restaurant/Oakland-CA/9de8f/The-Wood-Tavern-Restaurant)
-
-[![Wood Tavern Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16852984/minilink)](https://www.zomato.com/oakland-ca/wood-tavern-1-rockridge "View Menu, Reviews, Photos & Information about Wood Tavern, Rockridge and other Restaurants in Oakland") _Most recent visit: 10 March 2016._
+ _Most recent visit: 10 March 2016._

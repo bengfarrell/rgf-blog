@@ -2,7 +2,7 @@
 title: "Santosha Chocolate"
 date: "2016-02-11"
 categories: 
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags: 
   - "asheville"
@@ -45,7 +45,5 @@ I appreciated the extra texture the coconut provided, though I wondered if I’d
 The rhodiola and Hawaiian red salt bar benefited from the rhodiola’s subtle herbal quality that nicely complimented the chocolate’s bright fruit. I loved the somewhat smoky red salt, but I’d have liked more of it in the bar -- I don’t say that often in regards to salt.
 
 Of the three, the mint maca was my favorite for overall blend of flavors. Really, though, the chocolate is so bold in each of these bars that they’re all treats worth repeating. It’s $4 per 1 ounce bar, which is the size pictured. Is that expensive? Yes, but I think it’s worth it for such a high-quality and thoughtfully made product. You can choose from their eight options at their [online shop](http://santoshachocolate.com/shop/) or at over 200 retail locations. They also sell a coconut-chocolate crème in jars! Yum!
-
-[Follow my blog with Bloglovin](http://www.bloglovin.com/blog/4997777/?claim=4ttj7aete3v)
 
 _Tasted 19 January 2016._

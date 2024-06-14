@@ -2,7 +2,6 @@
 title: "High Peaks Kitchen"
 date: "2016-01-04"
 categories: 
-  - "oakland-restaurant-reviews"
   - "restaurants"
 tags: 
   - "chicken"
@@ -19,6 +18,11 @@ tags:
   - "samosa"
   - "take-out"
 ---
+
+5299 College Avenue
+Rockridge, Oakland
+[Website](http://www.hipeaks.com/)
+$9.50–$14.00
 
 I know very little about Tibetan Buddhism, except that I love their beautiful prayer flags. Is it any wonder High Peaks Kitchen catches my eye every time I walk down College Ave?
 
@@ -57,9 +61,5 @@ I did not expect it to come out yellow from the tandoor rub or to be topped with
 I should note there’s no beef on the menu, but there are millions of vegetarian, chicken, lamb, and seafood options. A large menu can often be an indicator of a kitchen spread too thin, but High Peaks demonstrated no such shortcoming to me. I just wish it was on the northern end of Rockridge, so I could enjoy it more often.
 
 [![rating_truffle1.gif](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)
-
-**High Peaks Kitchen** 5299 College Avenue Rockridge, Oakland [Website](http://www.hipeaks.com/) $9.50 - $14.00
-
-[![High Peaks Kitchen Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16863421/minilink)](https://www.zomato.com/oakland-ca/high-peaks-kitchen-1-rockridge "View Menu, Reviews, Photos & Information about High Peaks Kitchen, Rockridge and other Restaurants in Oakland")
 
 _Reviewed 16 December 2015._

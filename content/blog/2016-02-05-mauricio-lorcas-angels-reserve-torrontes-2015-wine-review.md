@@ -2,8 +2,7 @@
 title: "Mauricio Lorca’s Angel’s Reserve Torrontes 2015"
 date: "2016-02-05"
 categories: 
-  - "torrontes"
-  - "white-wine-reviews"
+  - "wine"
 tags: 
   - "2015"
   - "lorca"
@@ -13,7 +12,7 @@ tags:
   - "white-wine"
 ---
 
-**Mauricio Lorca’s Angel’s Reserve Torrontes 2015** La Rioja, Argentina
+**Region:** La Rioja, Argentina
 
 [![Lorca Torrontes Wine Review](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/Lorca-Torrontes-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/Lorca-Torrontes.jpg)
 

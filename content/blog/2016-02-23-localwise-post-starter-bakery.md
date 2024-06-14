@@ -3,7 +3,7 @@ title: "Localwise Post: Starter Bakery"
 date: "2016-02-23"
 categories:
   - "bakeries"
-  - "ice-cream-bakery-food-truck"
+  - "announcements"
 tags:
   - "baked-goods"
   - "bay-area"

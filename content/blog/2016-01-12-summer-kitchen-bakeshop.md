@@ -2,7 +2,6 @@
 title: "Summer Kitchen + Bakeshop"
 date: "2016-01-12"
 categories: 
-  - "berkeley-restaurant-review"
   - "restaurants"
 tags: 
   - "bakeshop"
@@ -21,6 +20,11 @@ tags:
 ---
 
 [![Summer-Kitchen-03](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/Summer-Kitchen-03-349x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/Summer-Kitchen-03.jpg)
+
+2944 College Avenue
+Elmwood, Berkeley
+[Website](http://summerkitchenbakeshop.com/)
+$7.50–$21.00
 
 I’ve wanted to try Summer Kitchen + Bakeshop for quite some time, but it is always flush with people, especially because there is little seating for what is obviously a popular shop. I prefer to enjoy good food right where I am, but the long countertop is only wide enough to fit maybe a foot’s width of plate, so I wouldn’t recommend it unless you like your meals cramped. Sitting at the handful of tables occasionally requires brushing your ass past the other customers, but a sunny corner is nice if you don’t mind being familiar. I’d call that design a “grab-n-go” aesthetic.
 
@@ -57,9 +61,5 @@ I literally walked down a shop and then walked back into Summer Kitchen to get i
 That pastry is plenty of reason to stop by Summer Kitchen on its own. But go ahead, order at the counter, enjoy the simple, yet elegant white walls and white-bricked oven, and decide for yourself if you want to feast without all the comforts. Or take it to go.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
-
-**Summer Kitchen + Bakeshop** 2944 College Avenue Elmwood, Berkeley [Website](http://summerkitchenbakeshop.com/) $7.50 - $21.00
-
-[![Summer Kitchen Bake Shop Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16858848/minilink)](https://www.zomato.com/berkeley-ca/summer-kitchen-bake-shop-berkeley "View Menu, Reviews, Photos & Information about Summer Kitchen Bake Shop, Berkeley and other Restaurants in Berkeley")
 
 _Reviewed 14 and 17 December 2015._

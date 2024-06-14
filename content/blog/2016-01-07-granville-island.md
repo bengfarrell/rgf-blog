@@ -2,11 +2,10 @@
 title: "Granville Island"
 date: "2016-01-07"
 categories:
-  - "dining-vancouver-canada"
   - "restaurants"
   - "sake"
-  - "travel-guide"
-  - "travel-guide"
+  - "travel-guides"
+  - "other-businesses"
 tags:
   - "artisan-sake-maker"
   - "british-columbia"

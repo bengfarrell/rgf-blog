@@ -3,7 +3,7 @@ title: "Ivy Room"
 date: "2016-03-29"
 categories: 
   - "bars"
-  - "bars"
+  - "cocktails"
 tags: 
   - "bar"
   - "dive-bar"
@@ -18,6 +18,10 @@ tags:
 ---
 
 [![Ivy Room Albany Bar](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/The-Ivy-04-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/The-Ivy-04.jpg)
+
+860 San Pablo Avenue
+Albany, CA
+[Website](http://ivyroom.com/)
 
 In Albany, the Ivy Room is enjoying a rebirth after having undergone many transformations over its six decades of existence. The venue, with a makeover and new owners, re-opened its doors three months ago. A sign of what may come can be seen in the retention of the sign itself, a classic one that’s earned its place on the sidewalk.
 
@@ -44,9 +48,5 @@ The gimlet was heavier on the lime than the gin, and a rum and ginger--
 I look forward to coming back to Ivy Room for live music sometime soon -- how could I not find this place endearing when it offers as wall art a portrait of David Bowie, a landscape oil painting that came straight from everyone’s grandmother’s living room, and a canoe? Their grand opening party is this Saturday, 4/2/2016.
 
 [![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
-
-**Ivy Room** 860 San Pablo Avenue Albany [Website](http://ivyroom.com/)
-
-[![Ivy Room Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16861848/minilink)](https://www.zomato.com/albany-ca/ivy-room-albany "View Menu, Reviews, Photos & Information about Ivy Room, Albany and other Restaurants in Albany")
 
 _Reviewed 18 March 2016._

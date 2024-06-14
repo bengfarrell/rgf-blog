@@ -1,9 +1,8 @@
 ---
-title: "Black Spring Coffee Company"
+title: "Black Spring Coffee Company *CLOSED*"
 date: "2016-04-21"
 categories: 
-  - "coffee-shop"
-  - "oakland-coffee-shop-reviews"
+  - "coffee-shops""
 tags: 
   - "black-spring"
   - "coffee"
@@ -17,7 +16,14 @@ tags:
   - "review"
 ---
 
-[![Black Spring Coffee Company](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-03-355x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-03.jpg) I’ve stopped in to take a break at this coffee shop a number of times now, on my way to some errand or another downtown. The interior is sparse, a simple collection of tables and white walls, though the entrance and coffee counter greet customers with soft, mint-chip green.
+[![Black Spring Coffee Company](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-03-355x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-03.jpg) 
+
+2930 Telegraph Avenue
+Pill Hill, Oakland
+[Website](http://blackspringcoffee.weebly.com/)
+$2.50–$5.00
+
+I’ve stopped in to take a break at this coffee shop a number of times now, on my way to some errand or another downtown. The interior is sparse, a simple collection of tables and white walls, though the entrance and coffee counter greet customers with soft, mint-chip green.
 
 [![Inside Black Spring Coffee](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-01-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-01.jpg) It opens early (6 am) and closes late (7 pm) for this part of town. The owner, Ryan Stark, is a man after my own heart, in that he’s a lover of low-acidity coffees, a rarity these days. The shop’s favorite blend, Monsoon Medley, comes from Josuma Coffee Company in Menlo Park, whose founder, Dr. Joseph John, I had the pure pleasure of meeting back at the 2015 Atlanta Coffee Fest. John’s knowledge of coffee, especially Indian varieties, impressed me then nearly as much as his Malabar Gold Espresso pull.
 
@@ -40,13 +46,5 @@ Black Spring isn’t a shop for holing up and working for the day -- there is no
 And maybe now that I’ve written it up, I’ll stop calling it Black Stallion instead.
 
 [![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
-
- 
-
-**Black Spring Coffee Company** 2930 Telegraph Avenue Pill Hill, Oakland [Website](http://blackspringcoffee.weebly.com/) $2.50 -- $5.00
-
-[![Black Spring Coffee Company on Foodio54](http://foodio54.com/images/badge-2-136a2a.jpg)](http://foodio54.com/restaurant/Oakland-CA/136a2a/Black-Spring-Coffee-Company)
-
-[![Black Spring Coffee Company Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/17768818/minilink)](https://www.zomato.com/oakland-ca/black-spring-coffee-company-downtown-oakland "View Menu, Reviews, Photos & Information about Black Spring Coffee Company, Downtown Oakland and other Restaurants in Oakland")
 
 _Reviewed in late 2015/early 2016._

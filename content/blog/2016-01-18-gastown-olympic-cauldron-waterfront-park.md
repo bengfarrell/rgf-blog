@@ -2,11 +2,9 @@
 title: "Gastown + Olympic Cauldron Waterfront Park"
 date: "2016-01-18"
 categories:
-  - "bars-in-vancouver-canada"
-  - "dining-vancouver-canada"
   - "restaurants"
-  - "travel-guide"
-  - "travel-guide"
+  - "bars"
+  - "travel-guides"
 tags:
   - "bao-down"
   - "british-columbia"

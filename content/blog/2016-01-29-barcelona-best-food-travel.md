@@ -2,10 +2,10 @@
 title: "Best Bites in Barcelona"
 date: "2016-01-29"
 categories:
-  - "cava"
-  - "dining-barcelona"
+  - "wine"
+  - "bakeries"
   - "restaurants"
-  - travel-guide"
+  - travel-guides"
 tags:
   - "barcelona"
   - "carpaccio"

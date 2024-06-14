@@ -2,8 +2,10 @@
 title: "Pinky's Pizza Parlor"
 date: "2016-03-08"
 categories:
-  - "dining-in-walnut-creek"
+  - "cocktails"
   - "restaurants"
+  - "mead"
+  - "beer"
 tags:
   - "drink-specials"
   - "east-bay"
@@ -18,6 +20,11 @@ tags:
 ---
 
 [![Pinky's Pizza Walnut Creek](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Peppers_Pizzza_11-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Peppers_Pizzza_11.jpg)
+
+2085 N. Broadway
+Walnut Creek
+[Website](http://pinkyspizzawc.com/)
+$5–$20
 
 Pinky’s Pizza Parlor is a neighborhood joint worth leaving your neighborhood for. Two of our good friends are regulars, drawn in by the amazing bar specials Pinky’s runs, and we’ve joined them a number of times. On a Sunday, go for the $2 bloody marys. On a Thursday, get any draft beer for the same price, including their half-dozen craft options. I won’t even mention the deals on pitchers.
 
@@ -68,9 +75,5 @@ I’ve had that mead-based moscow mule several times now, and the variation on t
 Have I made it clear how deserving Pinky’s Pizza Parlor is of a top-notch grade for its restaurant category? It’s not perfect, but it’s a place where everybody knows your name, a purveyor of pizza just the way I like it, and an offeror of specials that keep us coming back for more.  Among neighborhood joints, it is an absolute gem.
 
 [![The Gourmez, rating, truffle, 5/5, excellent](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)
-
-**Pinky’s Pizza Parlor** 2085 N. Broadway Walnut Creek [Website](http://pinkyspizzawc.com/) $5-$20
-
-[![Pinky's Pizza Parlor Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16854565/minilink)](https://www.zomato.com/walnut-creek-ca/pinkys-pizza-parlor-walnut-creek "View Menu, Reviews, Photos & Information about Pinky's Pizza Parlor, Walnut Creek and other Restaurants in Walnut Creek")
 
 _Reviewed multiple times 2015 to 2016._

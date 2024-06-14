@@ -2,9 +2,9 @@
 title: "Bulleit Bourbon’s Betabrand Visit with Tailgate Trailer Woody!"
 date: "2016-04-29"
 categories:
-  - "bourbon"
   - "events"
   - "spirits"
+  - "other-businesses"
 tags:
   - "betabrand"
   - "bourbon-reviews"

@@ -2,9 +2,7 @@
 title: "Scotto Cellars Heavyweight Wine"
 date: "2016-02-29"
 categories: 
-  - "cabernet-sauvignon"
-  - "petite-sirah"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "california-wine"
   - "heavyweight-wines"
