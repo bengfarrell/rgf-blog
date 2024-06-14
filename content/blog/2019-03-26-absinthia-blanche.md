@@ -15,7 +15,10 @@ tags:
   - "white-absinthe"
 ---
 
-**Absinthia Blanche** Organic Absinthe Supérieure San Carlos, CA ABV 55%
+**Other Words on the Label:**
+Organic Absinthe Supérieure
+San Carlos, CA
+ABV 55%
 
 [![absinthia, absinthe, review, tasting notes](https://thegourmez-wpmedia.s3.amazonaws.com/2019/03/Absinthia-4-351x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/03/Absinthia-4.jpg)I have been keeping this elegant bottle of absinthe by my side for about a year now. Just look at that wormwood sketch on the glass!
 

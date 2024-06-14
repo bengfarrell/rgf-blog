@@ -14,7 +14,7 @@ tags:
   - "wines"
 ---
 
-**Harney Lane Wines** Wine Region: Lodi, CA
+**Region:** Lodi, CA
 
 ##### _Obligatory disclaimer: All wines mentioned in this blog were free to me for review._
 

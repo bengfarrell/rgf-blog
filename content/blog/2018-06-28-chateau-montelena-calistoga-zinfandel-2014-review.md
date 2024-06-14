@@ -12,7 +12,7 @@ tags:
   - "zinfandel"
 ---
 
-**Chateau Montelena Calistoga Zinfandel 2014** Calistoga, CA
+**Region** Calistoga, CA
 
 _**Obligatory disclaimer:** I received this bottle of Chateau Montelena Calistoga Zinfandel 2014 as a free sample for review._
 

@@ -19,7 +19,9 @@ tags:
   - "wine-review"
 ---
 
-**Vale do Bomfim 2015 Red Wine Blend** Douro, Portugal 13.9% ABV
+**Region**
+Douro, Portugal
+13.9% ABV
 
 I’m about to leave for [the 2017 Wine Bloggers Conference](https://winebloggersconference.org/) in Santa Rosa, and I thought, before I take off, I’d post one of my regular features since I started this blog in 2007: the simple wine review. Wine blogging has changed a lot since then, but I take pride in continuing with wine reviews including, maybe even especially, commercially available ones such as the **Vale do Bomfim 2015 Red Wine Blend ($13).**
 

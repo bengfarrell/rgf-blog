@@ -19,7 +19,7 @@ tags:
   - "wine-review"
 ---
 
-**W. & J. Graham’s “Six Grapes” Special River Quintas Edition Reserve Porto** Douro, Portugal
+**Region:** Douro, Portugal
 
 [![six grapes special river quintas edition, w j grahams, port, reserve porto, porto, douro, six grapes, special edition, river quintas, nonvintage](https://thegourmez-wpmedia.s3.amazonaws.com/2020/09/SixGrapesSpecial-001-404x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/09/SixGrapesSpecial-001.jpg)For those of us who love travel, the last half year has built our wanderlust into a growing, gnawing creature of torment. Yes, my horror writer side crafted that description. 😉 But it’s apt—the longing to visit countries I’ve yet to explore is so real and so strong.
 

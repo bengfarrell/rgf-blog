@@ -16,7 +16,7 @@ tags:
   - "review"
 ---
 
-**Milk & Honey** Cream Liqueur ABV: 12.5%
+ABV: 12.5%
 
 ##### [![milk & honey, liqueur, date honey, dates, cream, review](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-001-500x495.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-001.jpg)The Liqueur
 

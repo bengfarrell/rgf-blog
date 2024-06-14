@@ -22,7 +22,10 @@ tags:
   - "west-oakland"
 ---
 
-**Drip Line** 1940 Union St., Suite #21 West Oakland [Website](http://driplineoakland.com/) $5–13
+1940 Union St., Suite #21
+West Oakland
+[Website](http://driplineoakland.com/)
+$5–$13
 
 _Obligatory Disclaimer: This review of Drip Line is based off a media dinner that was entirely free to me._
 

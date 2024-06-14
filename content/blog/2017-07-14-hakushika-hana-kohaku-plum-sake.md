@@ -15,7 +15,8 @@ tags:
   - "tasting-notes"
 ---
 
-**Hakushika Hana Kohaku Plum Sake** Class: Junmai Ginjo Nishinomiya, Japan
+**Class:** Junmai Ginjo
+**Region:** Nishinomiya, Japan
 
 [![hana kohaku plum sake](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/hana-kohaku-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/hana-kohaku.jpg)
 

@@ -11,7 +11,7 @@ tags:
   - "zinfandel"
 ---
 
-**Stellina 2012 Reserve Old Vine Zinfandel** Lodi, CA
+**Region:** Lodi, CA
 
 Stellina 2012 Reserve Old Vine Zinfandel comes from [Estate Crush](https://estatecrush.com/), a custom crush facility producing a great many small lot wines from grapes in the Lodi area of California. They sell wine from the Stellina Estate Vineyard under their own Estate Crush label.
 

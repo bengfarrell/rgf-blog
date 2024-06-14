@@ -16,7 +16,7 @@ tags:
   - "tasting-notes"
 ---
 
-**Chateau Montelena 2013 Cabernet Sauvignon** Napa Valley, CA
+**Region:** Calistoga, Napa Valley, CA
 
 _Obligatory disclaimer: This wine was provided as a sample for my review._
 

@@ -13,7 +13,7 @@ tags:
   - "tasting-notes"
 ---
 
-**Hecht & Bannier Côtes de Provence Rosé 2015** Côtes de Provence, France
+**Region:** Côtes de Provence, France
 
 _Obligatory disclaimer: This wine was provided as a sample for my review._
 

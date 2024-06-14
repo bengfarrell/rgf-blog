@@ -21,7 +21,7 @@ tags:
   - "wine-tasting"
 ---
 
-Sunny with a Chance of Flowers Wines Monterey, CA
+**Region:** Monterey, CA
 
 This is an unusual wine review, in that [Sunny with a Chance of Flowers Wines](https://sunnywines.com/) are unusual wines. The label was born out of a desire to create a great tasting, yet lower calorie, wine with a lower ABV than average and no residual sugar. Wines are made of grapes, grapes get more sugary as time passes, that sugar ferments into alcohol after harvest with different levels of residual sugar resulting after the winemaking is complete, but rarely _none_.
 

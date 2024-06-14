@@ -13,7 +13,7 @@ tags:
   - "wine-tasting"
 ---
 
-**Bodegas LAN Culmen 2011 Reserva** La Rioja, Spain
+**Region** La Rioja, Spain
 
 Early on in quarantine, the Bodegas LAN winery hosted a tasting with a small group of wine writers of their Bodegas LAN Culmen 2011 Reserva.
 

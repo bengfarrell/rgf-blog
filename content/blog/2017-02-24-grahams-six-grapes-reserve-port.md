@@ -17,7 +17,7 @@ tags:
   - "tasting-notes"
 ---
 
-**Graham’s Six Grapes Reserve Port** Douro, Portugal
+**Region:** Douro, Portugal
 
 _Obligatory disclaimer: This review is based on a sample bottle._
 

@@ -11,7 +11,8 @@ tags:
   - "zinfandel"
 ---
 
-[McCay Trulux Zinfandel 2014](http://www.mccaycellars.com/) Lodi, CA
+**Region:** Lodi, CA
+[McCay Trulux Zinfandel 2014](http://www.mccaycellars.com/)
 
 [![McCay, trulux, zinfandel, lodi](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Zins-2-2-400x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Zins-2-2.jpg)If Anne Shirley's cherry cordial was blackberry instead, this is exactly how I imagine it. Medium-bodied with a nose full of very dark, extra ripe berries. I want to make a syrup with it and pour it over pancakes or maybe reduce it with vinegar for a tasty drizzle.
 

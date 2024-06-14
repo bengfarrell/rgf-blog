@@ -13,7 +13,7 @@ tags:
   - "tasting-notes"
 ---
 
-**Dow's 2012 Late Bottled Vintage Porto** Douro, Portugal
+**Region:** Douro, Portugal
 
 [![dow's, late bottled vintage, port, 2012](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153207-351x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153207.jpg)
 

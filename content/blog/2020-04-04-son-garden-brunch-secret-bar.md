@@ -13,7 +13,9 @@ tags:
   - "the-gourmez"
 ---
 
-**Son and Garden** Tenderloin, San Francisco [Website](http://www.sonandgarden.com/)
+700 Polk Street
+Tenderloin, San Francisco
+[Website](http://www.sonandgarden.com/)
 
 [![son and garden, san francisco, the gourmez, review, brunch, restaurant review](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-027-403x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-027.jpg)A couple of weeks before the Bay Area went under shelter-in-place orders, Son and Garden softly opened serving brunch, lunch, dinner, and high tea. **_Obligatory disclaimer:_** This brunch was free to me, courtesy of the restaurant. And I should note that this is written during the Great Quarantine of 2020—the restaurant may very well be open if you are reading this in later months.
 
