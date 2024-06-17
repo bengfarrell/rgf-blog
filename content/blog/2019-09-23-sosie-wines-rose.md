@@ -12,10 +12,10 @@ tags:
   - "wine-review"
 ---
 
-**Source:**
-Vivio Vineyard, Bennett Valley
-Sonoma, CA
-ABV 13.7%
+**Source:**\
+Vivio Vineyard, Bennett Valley\
+Sonoma, CA\
+ABV 13.7%\
 [Winery Website](https://www.sosiewines.com/Wines)
 
 [![sosie wines, sosie, sosie wines rose, syrah rose, wine review, tasting notes](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/IMG_20190913_185809-399x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/IMG_20190913_185809.jpg)The spiders may have begun their crooks and crannies invasion, but the thermostat still reads high enough to conjure up summer's last hurrah. So why not do it with one more glass of rosé for the season? Here are my thoughts on Sosie Wines Rosé of Syrah 2017, should you need convincing. **_Obligatory disclaimer:_** This wine was a free sample for my review.

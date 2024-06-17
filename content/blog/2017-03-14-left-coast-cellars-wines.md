@@ -38,7 +38,7 @@ That conference was my first introduction to Left Coast Cellars, by way of one o
 
 I was thrilled to see the bottle appear in a shipment of samples Ivy sent my way last fall — the very same shipment I am just now getting to reviewing here. Note: Had you attended that panel, I would have highly discouraged you from taking so long to review samples! Alas, I had a trip to Mexico, an apartment move, and more excuses I could generate for failing to review these wines in a timely manner. But really, all I can say is Ivy, I’m sorry! And I am so glad I had the chance to analyze Queen Bee more thoroughly at my leisure. My high opinion improved!
 
-##### 2015 Queen Bee Bubbly
+## 2015 Queen Bee Bubbly
 
 
 
@@ -62,7 +62,7 @@ This impressive sparkling wine is notable for a few reasons. Reason #1: The colo
 
 But Ivy had more delights awaiting me, mainly of the white wine persuasion, which was a delight to sample as I have very little Oregon wine experience thus far. It’s also a delight because Left Coast Cellars is unafraid of experimentation. You don’t see this next wine often.
 
-##### Left Bank Pinot Blanc 2014
+## Left Bank Pinot Blanc 2014
 
 [![Left Coast Cellars LEft Bank Pinot Blanc](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Left_Coast_01-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Left_Coast_01.jpg)
 
@@ -98,7 +98,7 @@ It’s rare I find a wine that reminds me of North Carolina grapes … and still
 
 Left Coast Cellars has five other white and sparkling wines on their website! But they also dabble in the darker side of pinot, offering three different ones from grapes picked in varying regions of their vineyards. Their most affordable pinot noir comes from a blend of the Dijon, Pommard, and Wädenswil modern-day clones and is named for the family’s daughter, Cali.
 
-##### 2014 Cali’s Cuvee Pinot Noir
+## 2014 Cali’s Cuvee Pinot Noir
 
 [![Left Coast Cellars Cali's Cuvee Pinot Noir](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Left-Coast_05-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Left-Coast_05.jpg)
 

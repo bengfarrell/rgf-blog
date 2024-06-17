@@ -40,7 +40,7 @@ Aaron runs his own Healdsburg wine tour company, which you can [check out here](
 
 Our tour was based in the center of the Russian River appellation, 4-5 miles south of the Russian River itself. I am pleased to guide you through our stops and share my favorite wines from each.
 
-##### Stop #1: Battaglini Winery
+## Stop #1: Battaglini Winery
 
 [Battaglini Estate Winery](http://www.battagliniwines.com/Battaglini/Battaglini_Wines_Home.html), known locally as one of the most authentic, family-run wineries in wine country, was our first stop.
 
@@ -66,7 +66,7 @@ After wine, Giuseppe took us through his beautiful, well-loved, gnarled vines.
 
 [![battaglini wine, giuseppe battaglini](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_100-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_100.jpg)And then we were off to lunch!
 
-##### Stop #2: Willow Wood Market Café
+## Stop #2: Willow Wood Market Café
 
 [![willow wood market cafe, graton, willow wood](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_105-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_105.jpg)Located in Graton, one of the Russian River Valley's tiny towns that boasts outsized culinary chops, [the Willow Wood Market Café](http://www.willowwoodgraton.com/) fed us lunch. It's a very cute café with a diner feel and shelves full of either wine, beer, or old-timey games and products. The menu items are inventive takes on classic nourishment … and delicious takes, too!
 
@@ -76,7 +76,7 @@ After wine, Giuseppe took us through his beautiful, well-loved, gnarled vines.
 
 [![willow wood, cafe, graton, croque monsieur](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_111-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/05/2017_WBC_111.jpg)Alas, one cannot eat three separate lunch entrees. The moral of this story is: You'll do well no matter what you order at Willow Wood Café. You'll also do well to walk down the block to the Paul Mathew tasting room.
 
-##### Stop #3: Paul Mathew Vineyards Tasting Room
+## Stop #3: Paul Mathew Vineyards Tasting Room
 
 [This tasting room](https://paulmathewvineyards.com/) has a cozy backyard that looks perfect for a lazy, relaxed afternoon.
 
@@ -90,7 +90,7 @@ Surprisingly, my other 5-star wine from Paul Mathew is one of the few they make 
 
 Alas, a hug cannot last forever. But that's a good thing when there are more places to go on the Wine Road.
 
-##### Stop #4: Tara Bella Winery
+## Stop #4: Tara Bella Winery
 
 The moment we pulled down the driveway toward this estate, I was thinking of tropical Southern summers. Thus, I knew [Tara Bella Winery](https://tarabellawinery.com/story/) would be full of personality.
 
@@ -120,7 +120,7 @@ No matter which you prefer, Wendy will be happy to tell you about them and about
 
 Tara Bella is part of [the Olivet District,](http://www.olivetroad.com/) a collection of wineries along Olivet Road that includes Battaglini and Stop #5, Harvest Moon. The eight participating wineries host the Taste of Olivet in April and the Lights of Olivet holiday craft festival in December. It is a district well worth spending the weekend in if you need help narrowing down your northern Sonoma County options. And believe me, you do—there are so many! Speaking of…
 
-##### Stop #5: Harvest Moon Winery
+## Stop #5: Harvest Moon Winery
 
 We didn't plan on stopping at [Harvest Moon Winery](https://harvestmoonwinery.com/), but with a little extra time, why not? Or should I say, with a little extra time and Beth Costa's connections! =) Grower and winemaker Randy Pitts welcomed us in for a tasting, though he was firing up the brick pizza oven for a club members event.
 

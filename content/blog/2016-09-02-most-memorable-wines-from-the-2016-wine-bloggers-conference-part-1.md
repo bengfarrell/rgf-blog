@@ -44,7 +44,7 @@ With so many wines to consider in so little time, a lot of them blend together. 
 
 _Obligatory disclaimer: Each product mentioned below was sampled either as part of my paid conference registration or at complimentary related or concurrent receptions._
 
-### Left Coast Cellars Queen Bee Bubbly 2015 – 4.5/5
+## Left Coast Cellars Queen Bee Bubbly 2015 – 4.5/5
 
 ([Purchase](http://leftcoastcellars.orderport.net/product-details/0360/2015-Queen-Bee-Bubbly-750ml))
 
@@ -52,7 +52,7 @@ _Obligatory disclaimer: Each product mentioned below was sampled either as part 
 
 Made from estate-grown white pinot noir grapes in the Willamette Valley, Oregon, this sparkling wine blew my mind. It’s very distinctive, likely because Left Coast Cellars uses their estate honey during the second fermentation, and you can definitely taste that honey in your mouth. They also use encapsulated yeast, and I have no idea what that’s supposed to produce, but it sure looks fun in the bottle. Go ahead; zoom in on that bottle shot. You’re thinking of the ‘90s classic soda Orbitz, now, aren’t you? Well, don’t run screaming after that trip down memory lane, because _this_ drink is delicious with full bubbles, donut peaches, and butterscotch that go down much drier than you’d expect.
 
-### Bokisch Terra Alta Vineyard Albarino 2015 – 4.5/5
+## Bokisch Terra Alta Vineyard Albarino 2015 – 4.5/5
 
 ([Purchase](http://www.bokischvineyards.com/product/Albari-o-2014?pageID=28E08354-E356-559E-B5F2-D2CFEB8E4878&sortBy=DisplayOrder&maxRows=20&))
 
@@ -64,7 +64,7 @@ Even during the fast pace of speed tasting, I had to stop and linger over this a
 
 Speaking of cider…
 
-### Palate Cleanser:  Pacific Coast Dry Apple Cider with Pinot Grigio
+## Palate Cleanser:  Pacific Coast Dry Apple Cider with Pinot Grigio
 
 ([Website](http://www.ciderbrothers.com/our-ciders/pacific-coast-cider/))
 
@@ -84,7 +84,7 @@ Seeing my excitement over the cider, Michael Scotto quickly set me up with a fli
 
 —but that pinot grigio cider is the one that gets the credit for bringing my senses back to life and the one I’ll be seeking out soon.
 
-### Concannon Mother Vine Cabernet Sauvignon 2013 – 5/5
+## Concannon Mother Vine Cabernet Sauvignon 2013 – 5/5
 
 ([Website](http://www.concannonvineyard.com/))
 
@@ -110,7 +110,7 @@ Over 80% of California’s cabernet sauvignon grapes are clones from Concannon V
 [![Dining at Concannon Vineyards sunset](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-089-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/WBC16-Livermore-089.jpg) Can you blame us for lingering here?</div>
 
 
-### The Lucas Winery Chardonnay 2001 – 4/5
+## The Lucas Winery Chardonnay 2001 – 4/5
 
 ([Website](https://www.lucaswinery.com/))
 

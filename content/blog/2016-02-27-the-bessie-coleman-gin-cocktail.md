@@ -1,11 +1,11 @@
 ---
 title: "The Bessie Coleman Gin Cocktail"
 date: "2016-02-27"
-categories: 
+categories:
   - "recipes"
   - "spirits"
   - "cocktails"
-tags: 
+tags:
   - "aviation"
   - "aviator"
   - "bessie-coleman"
@@ -35,6 +35,8 @@ All in all, I’m quite satisfied! The name honors Bessie Coleman, the first Afr
 
 **The Bessie Coleman Cocktail** 2 ounces St. George Terroir Gin 1/2 ounce St. George Raspberry Liqueur 1/2 ounce sage simple syrup 1/4 - 1/2 ounce lemon juice to taste Fine sugar Ground sage
 
-Prepare your rim by combining the sugar and sage on a small plate. Rub the cut side of a lemon around your martini glass’s rim, then dip it into the sugar and sage. Shake the first four ingredients in a cocktail shaker and pour into the glass. If you want more tartness, add a squeeze.![Gin and Sage Cocktail, the Bessie Coleman Aviation](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/Bessie-Coleman-01.jpg)
+Prepare your rim by combining the sugar and sage on a small plate. Rub the cut side of a lemon around your martini glass’s rim, then dip it into the sugar and sage. Shake the first four ingredients in a cocktail shaker and pour into the glass. If you want more tartness, add a squeeze.
+
+![Gin and Sage Cocktail, the Bessie Coleman Aviation](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/Bessie-Coleman-01.jpg)
 
 _Tested 2 February 2016._

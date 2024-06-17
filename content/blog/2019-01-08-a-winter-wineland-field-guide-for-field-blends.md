@@ -32,7 +32,7 @@ _Obligatory disclaimer:_ The Wine Road hosted me on a two-day media tour this la
 
 But what should that way be with so many options? Beth Costa, the Wine Road's executive director and co-host of the award-winning [Wine Road podcast](http://wineroadpodcast.com/), rightly assumed that I would be interested in the rebirth of field blends and highlighted them on our tour. I am assuming, hopefully also rightly, that you will be too after I recommend a few wineries offering intriguing ones along the Wine Road.
 
-##### First things first: What's a field blend?
+## First things first: What's a field blend?
 
 
 
@@ -47,7 +47,7 @@ Eater has [a great article](https://www.eater.com/drinks/2016/4/25/11464748/fiel
 
 Field blends can be exceptional by this happenstance of existence, and they can change quite a lot year to year. So who on the Wine Road does them well?
 
-##### 1\. [Acorn Winery](https://acornwinery.com/)
+## 1\. [Acorn Winery](https://acornwinery.com/)
 
 12040 Old Redwood Highway, Healdsburg
 
@@ -81,7 +81,7 @@ Dolcetto grows along with barbera and freisa grapes in the vineyard, and the end
 
 The next stop on this wine journey brings plenty of fun wine country history.
 
-##### 2\. [David Coffaro Estate Vineyards](https://coffaro.com/index.html)
+## 2\. [David Coffaro Estate Vineyards](https://coffaro.com/index.html)
 
 7485 Dry Creek Road, Geyserville
 
@@ -105,7 +105,7 @@ It had a great perfume, minus a touch of acetone that time will likely burn off.
 
 But I enjoyed the views most at our next field blend destination.
 
-##### 3\. [Armida Winery](http://www.armida.com/)
+## 3\. [Armida Winery](http://www.armida.com/)
 
 2201 Westside Road, Healdsburg
 

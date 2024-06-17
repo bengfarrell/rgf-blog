@@ -32,7 +32,7 @@ Liveblogging sessions are always a highlight of the [Wine Bloggers Conferences](
 
 The IFBC took place in Sacramento, CA, at the end of September, and yes, this is the first I’ve written about it. It’s been a crazy fall with promotion for my fantasy book[, Wings Unseen](http://www.rebeccagomezfarrell.com/creative-works/wings-unseen/); attending the IFBC, the WBC, and SirensCon; and fitting in a road trip up to Washington State to bring my mom a car. I basically collapsed for two weeks at the end of November. Only now am I getting the chance to gather my thoughts and blog on my first IFBC. So, here we go!
 
-##### What’s Liveblogging?
+## What’s Liveblogging?
 
 
 
@@ -48,7 +48,7 @@ Just as blogging has evolved into the more broadly defined _influencer_ and _con
 
 And here are my favorites.
 
-##### 1\. The Classy Hippie Tea Co. Beautiful People Champagne Tea
+## 1\. The Classy Hippie Tea Co. Beautiful People Champagne Tea
 
 <blockquote class="twitter-tweet"><p dir="ltr" lang="en" style="text-align: center">Pairing Beautiful People champagne tea with Ghiradelli chocolate. Yum! And really tastes like champagne! <a href="https://twitter.com/hashtag/IFBC17?src=hash&ref_src=twsrc%5Etfw">#IFBC17</a> <a href="https://t.co/3ZlISICO27">pic.twitter.com/3ZlISICO27</a></p><p style="text-align: center">— Becca Gomez Farrell (@thegourmez) <a href="https://twitter.com/thegourmez/status/914275237100896256?ref_src=twsrc%5Etfw">September 30, 2017</a></p></blockquote>
 
@@ -56,7 +56,7 @@ And here are my favorites.
 
 If you live in the Sacramento area, lucky you because the Classy Hippie Tea Company puts on monthly events to try their tea. And if you live a reasonable distance from Sacramento, they may be willing to work with you to put on a themed tea tasting for you and your friends. You can also purchase the tea in [their online shop](https://classy-hippie-tea.cratejoy.com/shop/all/) and at select local purveyors, or consider signing up for a $10 Tea of the Month membership – I am considering it hard right now, as I just discovered they offer it!
 
-##### 2\. Naples Drizzle Red Pepper Chili Oil
+## 2\. Naples Drizzle Red Pepper Chili Oil
 
 <blockquote class="twitter-tweet"><p dir="ltr" lang="en">I've been waiting for <a href="https://twitter.com/naplesdrizzle?ref_src=twsrc%5Etfw">@naplesdrizzle</a> chili oil all weekend! Drizzled over pizza packs a perfect punch. <a href="https://twitter.com/hashtag/IFBC17?src=hash&ref_src=twsrc%5Etfw">#IFBC17</a> <a href="https://t.co/VtJY5xyWjV">pic.twitter.com/VtJY5xyWjV</a></p>— Becca Gomez Farrell (@thegourmez) <a href="https://twitter.com/thegourmez/status/914277822285234176?ref_src=twsrc%5Etfw">September 30, 2017</a></blockquote>
 
@@ -66,7 +66,7 @@ Davey and Cheryl make three varieties, each using only oils, peppers, and salt: 
 
 Naples Drizzle bottles are $10 each for 8.1 ounces and available [at their web store.](https://naplesdrizzle.com/collections/all)
 
-##### 3\. Bread SRSLY’s Classic Sourdough
+## 3\. Bread SRSLY’s Classic Sourdough
 
 This vegan, gluten-free sourdough was seriously amazing – and I’m not just saying that because it’s in the name. Well, it would be in the name, if the name weren’t suffering from Startup Missing Vowel Syndrome. I can’t really blame them for that; Bread SRSLY _is_ based in San Francisco. Snark aside, this is great bread! Bread I would choose to eat, even though I’m not vegan or celiac.
 

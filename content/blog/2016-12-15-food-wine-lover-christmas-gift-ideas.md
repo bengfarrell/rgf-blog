@@ -28,7 +28,7 @@ tags:
 
 Hello, dear readers! I don't always do a Christmas gift ideas post for food and wine lovers, but sometimes, I find myself with a wealth of information...and deals!...to share with you. This is one of those moments, and I hope this list will help you cross a name or two off your list.
 
-#### Wine Clubs
+## Wine Clubs
 
 The gifts that keep on giving all year! I have two wine clubs in mind this year, and of course, these are pricier gift options, but wine lovers will LOVE them. The first one is near and dear to me as I'm now involved with the Wine Bloggers' Conference Scholarship Fund (WBCSF)!
 
@@ -66,7 +66,7 @@ The International Wine of the Month Club is also offering discount codes for pur
 
 Picking a wine club is difficult! If either of the two I mentioned don't seem quite right, but the gift idea does, you may benefit from digging into the extensive research done to select [the best wine clubs](http://www.reviews.com/wine-clubs/) over at Reviews.Com. Bonus: One of their top picks is **Uncorked Ventures,** which [I featured last fall](http://thegourmez.com/2015/11/09/uncorked-ventures-wine-club/) on the blog after meeting founder Mark Aselstine and enjoying some truly amazing wines he selected.
 
-#### **RawSpiceBar Gift Boxes**
+## **RawSpiceBar Gift Boxes**
 
 Don't drink wine? I'm not leaving you out in the dark with this post! **RawSpiceBar**, which [I reviewed last year](http://thegourmez.com/2015/12/18/foodie-gift-idea-raw-spice-bar-subscription/) and will be reviewing again early next year, is also offering great deals for the holidays.
 
@@ -84,7 +84,7 @@ This is a much more affordable option for those of you more strapped on finances
 
 The gift boxes also include recipes from talented, and well-known, chefs and can be customized for any diet. And if you buy a year's subscription at a time, it'll only be $7 per shipment. AND if you use code FLAVOR6, you'll get $5 off a six- or twelve-month order. Hard to beat those prices for fresh spices! The longer spices sit in your pantry, the more likely they are to lose flavor over time, and RawSpiceBar is an excellent answer to that problem.
 
-#### Wente Winemakers Studio Sparkling Wine Pairing Course
+## Wente Winemakers Studio Sparkling Wine Pairing Course
 
 
 

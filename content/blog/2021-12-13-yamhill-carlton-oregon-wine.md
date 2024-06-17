@@ -19,7 +19,7 @@ tags:
 
 In August, I visited the Yamhill-Carlton, Oregon, subregion, also known as a _nesting AVA_, within the Willamette Valley American Viticulture Area (AVA). This day trip was part of the [2021 Wine Media Conference](https://www.winemediaconference.org/) (WMC), one of several optional post-excursions that the conference offered. **_Pro tip:_** The WMC excursions are often the best value of the conference!
 
-\[video width="1920" height="1080" mp4="https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon251.mp4"\]\[/video\]
+<video width="500px" controls src="https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon251.mp4"></video>
 
 Yamhill-Carlton is a beautiful subregion, isn’t it? That video was taken at [Abbey Roads Farm](https://abbeyroadfarm.com/index.html), which I’ll highlight in its own post soon.
 

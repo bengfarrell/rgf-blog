@@ -1,10 +1,10 @@
 ---
 title: "Skinny & Co. Coconut Oil Products"
 date: "2016-09-15"
-categories: 
+categories:
   - "other-businesses"
   - "product-reviews"
-tags: 
+tags:
   - "alkaline"
   - "bath"
   - "beauty"
@@ -27,13 +27,13 @@ Coconuts are all the rage in cooking, eating, and beauty products these days and
 
 _Obligatory disclaimer: That means the products in this review were entirely free to me._
 
-#### Skinny & Co.’s Coconut Oil Line
+## Skinny & Co.’s Coconut Oil Line
 
 [![Skinny & Co Coconut Oil Sampler Pack](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/SkinnyCo-03-500x305.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/SkinnyCo-03.jpg)
 
 I received five 2 oz. jars of coconut oil from their product line, essentially a sampler platter. They also sell soaps, shampoo bars, and lip balms. Coconut oil liquefies above 76 degrees Fahrenheit, which makes it ideal for many vegan or raw dessert recipes but a potential for mess if you plan to take a coconut oil beauty product with you on a hot day. These might not be the products for that, but after a month of use, I’ve found them to be great for a daily, simple beauty routine at home. Expect them to be greasy on application—they _are_ oil—but I found my skin absorbed them quickly.
 
-#### Skinny & Co.’s Body Butter, Facial Oil, and Oil-Pulling
+## Skinny & Co.’s Body Butter, Facial Oil, and Oil-Pulling
 
 [![Skinny & Co Coconut Oil ](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/SkinnyCo-09-500x423.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/SkinnyCo-09.jpg)
 
@@ -45,7 +45,7 @@ The body butter had almond in it, though the one currently advertised on the web
 
 The oil-pulling? Y’all, I was _not_ going to try that. I’d never even heard of the concept before; the idea is that you swish an alkaline oil in your mouth for 5 to 20 minutes _(how long?!_) to promote oral health before spitting it out. I have a major gag reflex; there is nothing I can keep in my mouth for that long—make whatever jokes you need to. But I did love its creamy peppermint smell so I used it just like lotion or lip balm.
 
-#### Skinny & Co.’s Coconut Oil Sugar Scrub
+## Skinny & Co.’s Coconut Oil Sugar Scrub
 
 [![Skinny & Co Coconut Oil Sugar Scrub](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/SkinnyCo-07-388x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/SkinnyCo-07.jpg)
 
@@ -53,7 +53,7 @@ Oh my word, people, this smells AMAZING. I was in love from the first moment I o
 
 Now, that doesn’t mean you _want_ to eat them, as I found my sugar scrub too strongly vanilla to be truly tasty on the tongue, but it made my bath feel extra luxurious. The scrub melted faster than I could rub it in, so I’m not sure how well it exfoliated, but it sure smelled good while attempting to do so.
 
-#### Skinny & Co. in Cooking
+## Skinny & Co. in Cooking
 
 The final jar was pure, raw coconut oil, and I decided to use it to make a raw dessert, the pina colada pie from Heather Pace’s _Sweetly Raw Desserts_ cookbook, [which I reviewed here](http://thegourmez.com/2015/06/10/sweetly-raw-desserts-chocolate-gingerbread-brownies-and-almond-pear-cream-tart-recipes/). It…turned out well!
 
@@ -61,7 +61,7 @@ The final jar was pure, raw coconut oil, and I decided to use it to make a raw d
 
 The dessert uses coconut throughout, some I’m not sure I could distinguish the Skinny & Co. oil used in the filling, but it performed its job of providing a creamy, smooth base that went great with the pineapple chunks folded into it.
 
-#### So What Makes Skinny & Co. Different?
+## So What Makes Skinny & Co. Different?
 
 [![Skinny & Co Coconut oil](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/SkinnyCo-04-500x471.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/SkinnyCo-04.jpg)
 

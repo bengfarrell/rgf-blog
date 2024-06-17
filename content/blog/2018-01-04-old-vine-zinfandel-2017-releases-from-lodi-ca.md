@@ -19,11 +19,11 @@ I raised an eyebrow when these growers and winemakers stopped just short of admi
 
 Lodi is home to the oldest zinfandel grapes in California, with many growing over 100 years, though the term _old vine_ can apply to any zinfandel vines aged 50 years or older. Such distinguished vines are known for providing great depth of flavor and personality, and the wines in my glass certainly showed such distinction. Here are my notes, in increasing order of preference:
 
-##### Harney Lane 2014 Old Vine Zinfandel (Lizzy James Vineyard)
+## Harney Lane 2014 Old Vine Zinfandel (Lizzy James Vineyard)
 
 The Harney is much lighter bodied than expected with its rugged amber edges. Earthy, toasted grain notes cry out, begging for toasted spelt or quinoa to cultivate them. The fruit digs roots deep into the dusty ground: you can feel its struggle for life in this terroir-driven wine. Plum and prune fruit notes with an allspice finish. **3/5**
 
-##### Fields Family Wines 2014 Old Vine Zinfandel (Stampede Vineyard):
+## Fields Family Wines 2014 Old Vine Zinfandel (Stampede Vineyard):
 
 
 
@@ -35,13 +35,13 @@ The Harney is much lighter bodied than expected with its rugged amber edges. Ear
 
 Tastes of shriveled blackberries with seeds. It’s spicy and dusty with a sharp finish of oregano and nopales. I can picture it standing up quite well to a dense, rich, berry mole. **4/5**
 
-##### 2014 Michael David Earthquake Zinfandel:
+## 2014 Michael David Earthquake Zinfandel:
 
 This one gets second place because it had the best nose of the bunch. Plus, I’m charmed that Kevin writes the poems on the back of his wine bottles, and this one spelled old vine with its beginning letters.
 
 The Earthquake Zin has many layers, but it’s smooth across the board. Heat grows once in contact with the mouth. Extra dark chocolate with a splash of kirsch comes through, as does a jammy texture and notes of macerated blackberries, sage, and a finishing sprinkle of pepper and cinnamon. **4/5**
 
-##### Ironstone Vineyards 2015 Reserve Lodi Ancient Vine Zinfandel (Rous Vineyard):
+## Ironstone Vineyards 2015 Reserve Lodi Ancient Vine Zinfandel (Rous Vineyard):
 
 
 

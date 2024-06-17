@@ -23,7 +23,7 @@ _Obligatory disclaimer: I received the Gringo Bandito hot sauces as free samples
 
 In that video, should you choose to watch for the full experience, I work my way through Gringo Bandito’s original, spicy green, and super hot sauces, subjecting them to the ultimate hot sauce platform: tortilla chips. If you don’t want to subject yourself to my in-the-moment reactions, read on for the summary. But you’ll miss my hilariously confident praise of the company for picturing a female bandit on the label—hilarious, because it’s actually an image of Offspring lead singer and Gringo Bandito founder Dexter Holland. All I can say is nice cheekbones, Dexter, very nice indeed.
 
-##### Gringo Bandito Original Hot Sauce
+## Gringo Bandito Original Hot Sauce
 
 [![Gringo Bandito Hot Sauce Original](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Gringo-Bandito-05-318x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Gringo-Bandito-05.jpg)Dexter came up with the recipe for this sauce on a lark. The warm reception from friends convinced him to take his hobby to the next step. The original has the classic vinegar, spice, and tomato blend of smells, though it pulls a nice feat managing a robust tomato flavor without any tomato in it. This is a reliable sauce, one that’ll easily combine with other elements in recipes or lend easy heat when dripped over finished dishes. Like it did with these eggs:
 
@@ -31,13 +31,13 @@ In that video, should you choose to watch for the full experience, I work my way
 
 Yes, video viewers, I did make scrambled egg tacos just to eat with the hot sauces after all. In this critic’s opinion, the Gringo Bandito original sauce handily beats more well-known labels on the market in flavor.
 
-##### Gringo Bandito Spicy Green Sauce
+## Gringo Bandito Spicy Green Sauce
 
 [![Gringo Bandito Hot Sauce Spicy Green Verde](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Gringo-Bandito-04-326x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Gringo-Bandito-04.jpg)
 
 I loved this hot sauce. As you can see in the video, its strong, roasted flavor took me by surprise. Similarly to the original, it approximates a full-flavored tomatillo salsa without having any tomatillos in it; roasted serrano peppers are the biggest contributor to that impression, I’m sure. The heat kick snuck up on me because I was too busy enjoying its awesome taste. Strong kick and strong flavor? A great combo for a hot sauce.
 
-##### Gringo Bandito Super Hot Sauce
+## Gringo Bandito Super Hot Sauce
 
 [![Gringo Bandito Super Hot Sauce](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Gringo-Bandito-03-369x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Gringo-Bandito-03.jpg)
 

@@ -20,13 +20,13 @@ tags:
 
 _Obligatory disclaimer: These wines from [Bravante Vineyards](http://www.bravantevineyards.com/) were free for my review._
 
-##### [![bravante, vineyards, bravante wines, cellars, cabernet sauvignon, trio, red wine blend, bordeaux, napa valley, howell mountain, tasting notes, review](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153533-500x402.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153533.jpg)The Winery
+## [![bravante, vineyards, bravante wines, cellars, cabernet sauvignon, trio, red wine blend, bordeaux, napa valley, howell mountain, tasting notes, review](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153533-500x402.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153533.jpg)The Winery
 
 [Bravante Vineyards](http://www.bravantevineyards.com/) has been producing wine for nearing twenty years on Howell Mountain, in the eastern Napa Valley. Their small selection of wines is all estate-grown, from either the Stone Ridge or Black Oak vineyards. Duane Dappen, who owns [D-Cubed Cellars](http://thegourmez.com/2018/10/09/d-cubed-cellars-zinfandel/) and has been making wines since his 4-H club days, is their winemaker.
 
 Shall we drink?
 
-##### The Reviews
+## The Reviews
 
 **Bravante Vineyards 2012 Cabernet Sauvignon**
 

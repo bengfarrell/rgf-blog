@@ -29,7 +29,7 @@ tags:
 
 Hello readers! On occasion, I learn about upcoming or ongoing food or drink events that I think may be of special interest to you and share them. This is one of those occasions! So grab the scheduling device of your choice and get on these opportunities to eat, drink, and maybe help a worthy local organization. Or just enjoy a good meal. Or both!
 
-#### Girls Inc Party! With a Purpose
+## Girls Inc Party! With a Purpose
 
 [![Girls Inc Party with a Purpose](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/A526C0CD-AB0B-4EF5-9865-2AAA841395B4-500x256.png)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/A526C0CD-AB0B-4EF5-9865-2AAA841395B4.png)
 
@@ -53,7 +53,7 @@ Hello readers! On occasion, I learn about upcoming or ongoing food or drink even
 
 [For tickets, and more info, head here.](https://girlsincislandcity.ejoinme.org/MyEvents/PartywithaPurpose/tabid/789932/Default.aspx) Unfortunately, I will not be able to attend the Party! With a Purpose, as I'll be giving [a reading at Liminal](http://www.rebeccagomezfarrell.com/2016/09/september-appearances/) that night, but I hope you can attend and enjoy this exciting combination of enthusiasm for the Bay Area food and philanthropy scenes in one event.
 
-#### Booze Comes to Brunch at the LunchPad SF!
+## Booze Comes to Brunch at the LunchPad SF!
 
 [![The Lunchpad Logo](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/LunchPad.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/LunchPad.jpg)
 

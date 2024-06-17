@@ -5,7 +5,7 @@ categories:
   - "wine"
   - "tasting-rooms"
   - "events"
- 
+
 tags:
   - "amador"
   - "amador-county"
@@ -37,7 +37,7 @@ _Obligatory disclaimer: Everything consumed during this visit to Bella Grace Vin
 
 [![Bella Grace Vineyards Grape Vines](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-032-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/2016-Bella-Grace-032.jpg)
 
-#### The Havill Family
+## The Havill Family
 
 In August, I accepted an invitation from the [Dallas Wine Chick](http://www.dallaswinechick.com/) to join in on a day trip to Amador County’s [Bella Grace Vineyards](http://www.bellagracevineyards.com/) along with a handful of other wine bloggers.
 
@@ -51,7 +51,7 @@ In August, I accepted an invitation from the [Dallas Wine Chick](http://www.dall
 
 Our group was a lively one, and that included our host, Stephen Havill, a man with great sarcastic wit. Stephen’s the youngest of seven siblings, most of whom are involved in the winery in one way or another. _Bella Grace_ is a combination of their grandmothers’ names, and their mother, Michael, is the winemaker of this vineyard in the Shenandoah Valley. She’s also very talented, as I would soon discover.
 
-#### Cooling Down in the Bella Grace Wine Cave
+## Cooling Down in the Bella Grace Wine Cave
 
 We arrived on a hillside bordering the vineyards, where a wine cave had been dug out of schist rock.
 
@@ -81,7 +81,7 @@ The grenache blanc came off fresh as mineral water, complete with lime squeezed 
 
 The 2015 Sauvignon Blanc ($20) was a cloud of peach blossoms. A purchase buys a spectacular nose and sparkly finish.
 
-#### Touring the Bella Grace Vines
+## Touring the Bella Grace Vines
 
 After those sips of white wines, a few of us were sufficiently cooled off to venture back into the outdoors, where Jess Havill, director of sales, took us on a stroll through the vineyards.
 
@@ -133,7 +133,7 @@ Bella Grace offers two level of wine club membership, and the upper level, Club 
 
 The food is catered by one of nearby Sutter Creek’s fine-dining restaurants, where Robert used to work. He takes their ingredients and finishes off the dishes with inventive style and well-considered combinations. Robert is as talented in the food department as his mother is in winemaking.
 
-#### The Drunken Cyclist Sabers Again
+## The Drunken Cyclist Sabers Again
 
 But before we dug in, it was time for a wine bloggers’ special event—watching Jeff Kralik attempt to saber a bottle of Bella Grace sparkling wine. It’s worth relieving past attempts by [the Drunken Cyclist](https://thedrunkencyclist.com/) to realize how integral [his attempts](https://thedrunkencyclist.com/sabering-videos/) have become to the wine blogging experience. His first try this evening used one of these Menagerie stainless steel wine pourers sold at the tasting room.
 
@@ -155,7 +155,7 @@ And failed. Then finally, the old trusty wine glass.
 
 Success! The Bella Grace sparkling wine is a combination of chardonnay and pinot grapes, and it makes for a crisp and light bubbly to keep on hand. Quite refreshing, once Jeff finally did his job and opened that bottle. ;)
 
-#### Wine Pairing Dinners at Bella Grace
+## Wine Pairing Dinners at Bella Grace
 
 Our plates contained multiple takes on a course, meant to complement and contrast with each other and the chosen wine pairings.  The first one was cucumbers dotted with Bella Grace’s raspberry and mango vinegars, which are also sold in the tasting room along with a line of olive oils, most notably the estate blend made with three types of olives grown just across from the vineyards.
 

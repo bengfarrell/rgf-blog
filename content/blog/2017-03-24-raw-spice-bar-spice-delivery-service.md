@@ -1,10 +1,10 @@
 ---
 title: "Raw Spice Bar Spice Delivery Service"
 date: "2017-03-24"
-categories: 
+categories:
   - "other-businesses"
   - "product-reviews"
-tags: 
+tags:
   - "creamed-brussel-sprouts"
   - "foodie"
   - "fresh-spices"
@@ -33,7 +33,7 @@ For those of you who didn’t read [my review last year](http://thegourmez.com/2
 
 This time around, I got to play with Raw Spice Bar’s Oktoberfest shipment — yes, I’m weighing in a few months late. But bear with me, because chicken schnitzel and pretzels are great any time of year: don’t let anyone tell you otherwise. Oh, did I forget to mention that the spice delivery includes recipes developed specifically to highlight that month’s cultural theme? Hurry, and you’ll get in on [May’s Burmese blends…](https://rawspicebar.com/blog/the-burmese-flavor-kit) but let’s travel on back in time to October.
 
-##### The Caraway, Fennel, and Anise Bread Spice Blend
+## The Caraway, Fennel, and Anise Bread Spice Blend
 
 [![Raw Spice Bar Spice Delivery Oktoberfest Pretzel](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/RSB-Oktoberfest-06-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/RSB-Oktoberfest-06.jpg)
 
@@ -43,7 +43,7 @@ This was my first time making pretzels, and following the included recipe for ca
 
 The spice blend included caraway, fennel, coriander, and star anise. There were no instructions on when to add the yeast, unless yeast counts as a dry ingredient — seriously, does it? Educate me. I guessed no and added the yeast and sugar in with the warmed milk and butter before combining with the dry ingredients. The pretzels baked a little extra dry, or perhaps I overkneaded. Maybe dial down the temperature a few degrees, if you’re following the same card. Regardless, the flavor from the spice blend was great and the insides were mostly fluffy and pretty good for a first try, I think! Next was…
 
-##### The Horseradish & Mustard Seed Blend
+## The Horseradish & Mustard Seed Blend
 
 So, don’t tell Raw Spice Bar, but I don’t like mustard _or_ horseradish, and a blend of brown and yellow mustard seeds and horseradish powder were the sole components in one of their Oktoberfest packets! If I were a regular customer, however, rather than someone sampling for review, I would never have that problem. Since my last review, Raw Spice Bar has added customization to their shipments; you can choose ingredients that you won’t eat, indicate your cuisine preferences, and even request vegan and gluten-free ingredients and recipes.
 
@@ -55,7 +55,7 @@ I considered skipping the cabbage dish entirely, but I decided to be brave and d
 
 The heavy cream enveloped the mustard and horseradish beautifully. I was impressed!
 
-##### The Schnitzel Spice Blend
+## The Schnitzel Spice Blend
 
 [![Raw Spice Bar Spice Delivery Oktoberfest Schnitzel](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/RSB-Oktoberfest-05-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/RSB-Oktoberfest-05.jpg)
 

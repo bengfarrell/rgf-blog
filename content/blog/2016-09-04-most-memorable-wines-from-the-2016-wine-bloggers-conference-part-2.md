@@ -3,7 +3,7 @@ title: "Most Memorable Wines from the 2016 Wine Bloggers Conference: Part 2"
 date: "2016-09-04"
 categories:
   - "wine"
-  
+
 tags:
   - "3-steves"
   - "cafe-daristi"
@@ -48,7 +48,7 @@ Because my selections spilled over with delight and lengthiness in my previous�
 
 _Obligatory disclaimer: Each product mentioned below was sampled either as part of my paid conference registration or at related or concurrent receptions._
 
-### 3 Steves Sauvignon Blanc 2015 – 3.5/5
+## 3 Steves Sauvignon Blanc 2015 – 3.5/5
 
 ([Website](https://3steveswinery.com/))
 
@@ -62,7 +62,7 @@ _Obligatory disclaimer: Each product mentioned below was sampled either as part 
 
 I’ve never had a sauvignon blanc like this one. It begs, pleads for seafood to the point that I’m not sure I’d want to drink it again without a pile of mussels besides me. This Livermore Valley wine comes from three friends named Steve who combined their forces for the greater good. Or at least for the greater contemplation, as there are so many ways this wine wanders, I’m not sure I’ll ever get out of its labyrinth alive! Lots of salinity, like smelling the sea breeze with tastes of stone fruit, lychee, Indonesian curry spices, and five-spice broth on my tongue.
 
-### Ironstone Vineyard’s Obsession Symphony 2014 – 4/5
+## Ironstone Vineyard’s Obsession Symphony 2014 – 4/5
 
 ([Purchase](http://www.ironstonevineyards.com/?method=products.productDrilldown&productID=B1719637-F7DE-8CB4-F2C7-49AD578EC716&originalMarketingURL=product/2014-Obsession-Symphony))
 
@@ -102,7 +102,7 @@ The Obsession Symphony went very well with my heaping plate of food, especially 
 
 The symphony varietal is a cross of muscat and grenache gris grapes.
 
-### Palate Cleansers: Polugar #3 and #4 and Casa D’Aristi Huana
+## Palate Cleansers: Polugar #3 and #4 and Casa D’Aristi Huana
 
 Bless Justin Koury, [the Wizard of Whiskey](http://wizardofwhiskey.com/), for hosting the Spirits Lounge, a much-needed respite from wine. I visited late on Saturday night, and the sheer scale of spirits available to sample exhilarated me. It’s amazing how great it can be to switch alcohol types at these events, helping break the anointed beverage free of the doldrums of repetition by providing the brain with a zing of another type.
 
@@ -124,7 +124,7 @@ My hands down favorite of the spirits lounge, however, was the Casa D’Aristi H
 
 From the Yucatan, [Casa D’Aristi](http://www.hpsepicurean.com/preiss-spirits/casa-daristi/) makes modern-day versions of Mayan alcoholic beverages. This one comes from the guanabana fruit, commonly known as the soursop. It is related to the custard apple, cherimoya, and paw paw, which is a particularly blessed family of fruits for its delicious blend of creamy strawberry and banana notes. Despite how much fun it is to say “Huana guanabana,” the flavor enchanted me most, and I can picture it as the star ingredient in any number of cocktails I’ve yet to come up with. I’m super excited to taste what else Casa D’Aristi has distilled.
 
-### Troon Longue Carabine 2015 – 5/5
+## Troon Longue Carabine 2015 – 5/5
 
 ([Purchase](http://troonvineyard.orderport.net/product-details/0286/2014-Troon-Blue-Label-Longue-Carabine-Applegate-Valley))
 
@@ -134,7 +134,7 @@ I came across this Oregonian wine at an after party hosted by Troon’s general 
 
 You’ll be forgiven if you thought Longue Carabine was the name of some obscure grape varietal you’d never heard of – I sure did. In fact, it’s a reference to one of Hawkeye’s nicknames in the _Last of the Mohicans_.
 
-### Vasco Urbano Heine Petite Sirah 2013 – 4.5/5
+## Vasco Urbano Heine Petite Sirah 2013 – 4.5/5
 
 ([Purchase](http://nottinghamcellars.com/wine/2013-heine/))
 

@@ -30,11 +30,11 @@ Last fall, I received samples of Dow’s current releases of 10-Year and 20-Year
 
 These two offerings are no exception to that rule. Interestingly, I enjoyed the younger wine a bit more this time around. That’s a great reminder that the oldest vintages available are not necessarily the best ones—it’s all about finding the right wine at the right time to enjoy in its prime. Which of course will vary with every single bottle! And that is also why I’m more inclined to just drink the wine in front of me rather than spend too much time trying to seek out that perfect bottle. 😁
 
-### Dow’s 10-Year-Old Tawny Porto
+## Dow’s 10-Year-Old Tawny Porto
 
 This wine’s color is hard caramel, like See’s Candy suckers. It smells rich, of caramel slightly burnt and herbs hung on a porch to dry—menthol in particular. On drinking, roasted figs and roasted strawberries dominate, and it settles into a fig butter mouthfeel. The brown sugar notes are strong and luxurious. It’s a warm brown butter sauce poured over a brown sugar pound cake with chopped roasted fruits on top. You’ve been eyeing that cake during every course, and now it’s time to make your move.
 
-### Dow’s 20-Year-Old Tawny Porto
+## Dow’s 20-Year-Old Tawny Porto
 
 The colors are sumptuous: spun sugar or pulled caramel with no added cream to mar its natural beauty. The marketing materials say “saturated brown,” so sure, that too. 😉
 

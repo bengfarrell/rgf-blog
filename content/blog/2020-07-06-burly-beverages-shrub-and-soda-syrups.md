@@ -41,7 +41,7 @@ The sampler pack includes six flavors. I set them all up in tiny glasses for tas
 
 [![burly beverages, shrubs, shrub, soda syrup, burly shrub, review, tasting notes](https://thegourmez-wpmedia.s3.amazonaws.com/2020/07/Burly-Shrubs-003-345x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/07/Burly-Shrubs-003.jpg)I went for tiny tastings because I wanted to leave plenty of syrup in the two-ounce sample bottles to experiment with later. But first, I would let my initial tastings guide me.
 
-#### The Shrubs Tasting Notes:
+## The Shrubs Tasting Notes:
 
 **Burly Beverages Pomegranate Peppercorn Shrub**– The peppercorn smell is refreshing, the pomegranate lightly pungent with a mild tang. This would be good in gin, pisco, or vodka cocktails.
 
@@ -49,7 +49,7 @@ The sampler pack includes six flavors. I set them all up in tiny glasses for tas
 
 **Burly Beverages Grapefruit Brûlée** **Shrub:** Ooh, this one is warming to drink. I could picture it in a festive Christmas punch. Or for dessert, perhaps in the form of a grapefruit crème brûlée martini! The caramelized brown sugar notes of a brûlée come through so well.
 
-#### The Sodas Tasting Notes:
+## The Sodas Tasting Notes:
 
 **Burly Beverages Cascara Cola Soda:** A reminder – I do not like cola. But adding cascara to that cola – you know, those coffee cherry husks that Starbucks keeps trying to make happen – turns out to be genius stroke. There’s a wash of bright coffee to start, then the flavors skim across the cola profile to land with a eucalyptus or quinine tang on the finish. There’s a mild honey sweetness. I could see this syrup as a great addition to a tonic soda, with or without alcohol.
 
@@ -67,7 +67,7 @@ Maybe Starbucks knows what they’re onto....and the Yemeni and Bolivian people 
 
 **Burly Beverages Root Beer Soda:** Root beer is one of the few commercially produced sodas I do enjoy, if only with pizza. The Burly Beverage version came close! But sadly, it fell a little flat for me. That said, I would still love to try Burly’s California Cream or Sarsaparilla soda syrups in the future. Maybe I need to head to the tasting room when it’s fully open again...
 
-#### Other Uses for Burly Beverages Syrups:
+## Other Uses for Burly Beverages Syrups:
 
 Good news! If you like the flavor of these syrups, and I certainly did like most of them, especially the shrubs, you can use them for things other than soda. Cocktails are a natural choice, of course. I made one with that cascara cola syrup right away, and it’d be a great spritzer to have on hand this summer.
 

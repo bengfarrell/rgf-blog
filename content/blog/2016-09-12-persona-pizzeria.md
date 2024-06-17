@@ -35,7 +35,7 @@ $8 - $14
 
 _Obligatory disclaimer: I was asked to do this review by Persona Pizzeria. Thus, all food and beverage described in this post were free._
 
-#### What is Persona Pizzeria?
+## What is Persona Pizzeria?
 
 [Persona Pizzeria](http://personapizzeria.com/) is a fast-expanding small chain with a fantastic reason for it: they make customizable Neapolitan-style pizza to order with quality ingredients from flour to toppings …. and they are ready in 90 seconds! Co-founder and chef Glenn Cybulski, a world champion of wood-fired pizza making, is responsible for the award-winning specialty pizzas Persona offers, and the reason those pizzas come out so fast is a brick oven set to 800 degrees.
 
@@ -43,7 +43,7 @@ _Obligatory disclaimer: I was asked to do this review by Persona Pizzeria. Thus,
 
 Think about it: pizza that is genuinely fast food without being by the slice. REVOLUTIONARY.
 
-#### Santa Rosa’s Persona Pizzeria
+## Santa Rosa’s Persona Pizzeria
 
 I tried out the Santa Rosa location on a recent weekend trip to the Russian River, and first things first, I love that these guys have figured out how to cash in on the Pokémon Go craze.
 
@@ -63,7 +63,7 @@ When opening a downtown Santa Rosa location became a possibility, Nick couldn’
 
 [![Pizza making at Persona Pizzeria](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Persona-Pizza-03-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Persona-Pizza-03.jpg)
 
-#### Build Your Pie!
+## Build Your Pie!
 
 Check out the menu as you enter, then decide whether you’re making your own pizza or going for one of the suggested combinations. Or do both, like I essentially did. Whatever you decide, begin your order at the Start Here sign right above sacks of imported Caputo 00 flour from Naples.
 
@@ -77,7 +77,7 @@ Were I a regular customer, each of those additions would cost $1.25, and the veg
 
 Nick shared with me that the craziest toppings pile he’s seen came from a man who wanted to add every topping he could to his pie! That made the cost well over $40, but the customer thought it was worth it just for the thrill.
 
-#### The Results
+## The Results
 
 [![Finishing pizza at Persona Pizzeria](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Persona-Pizza-17-456x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/Persona-Pizza-17.jpg)
 

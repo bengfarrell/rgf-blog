@@ -3,7 +3,7 @@ title: "Behind My Last Localwise Post - Mission Ice Cream!"
 date: "2017-01-25"
 categories:
   - "ice-cream-parlors"
-  tags:
+tags:
   - "flavors"
   - "humphrey-slocombe"
   - "humphry-slocombe"

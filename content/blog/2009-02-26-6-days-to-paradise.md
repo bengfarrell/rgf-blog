@@ -16,7 +16,7 @@ We are headed to Jamaica in less than a week.  I feel very overdue for a vacati
 
 ![Morro Bay, CA, from my last escape](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/october-08-236-300x200.jpg "october-08-236")
 
-##### _Morro Bay, CA, from my last escape_
+## _Morro Bay, CA, from my last escape_
 
 It seems as though, the more time I spend in one place, the less time I end up spending away from it. Is that why people end up living in the same towns their whole life?  Inertia?
 

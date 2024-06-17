@@ -24,7 +24,7 @@ Hello readers! I'm sharing a guest post today from Jack Thompson of [Bro BBQ](ht
 [![lodi chocolate and wine, lodi, wine, linguice, grilling](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-004-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Lodi-Choc-004.jpg) Linguica grilling at St. Jorge Winery in Lodi.</div>
 
 
-#### How Do You Know Which Beverage To Pair With Which Meat?
+## How Do You Know Which Beverage To Pair With Which Meat?
 
 Every food connoisseur knows that you can’t have the ultimate meal without pairing your food with the right beverage. The old adage says to serve red meat with red wine and poultry with white wines, but it is so much more in depth than that.
 

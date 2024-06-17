@@ -26,7 +26,7 @@ ABV 55%
 
 Just before it louches, a lovely fresh mint green phosphorescence blooms, then fades into the typical milky white. I prefer a 2:1 water to spirit ratio for this one, though 1.5 might also suffice if you prefer a little more heat in your drink. Hold back on the sugar; try using only half a cube at first.
 
-\[video width="1920" height="1080" mp4="https://thegourmez-wpmedia.s3.amazonaws.com/2019/03/March-25-2019-at-8\_35-pm-2019-03-25-20-40-02.mp4"\]\[/video\]
+<video width="500px" controls src="https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/5/2019/03/26035901/March-25-2019-at-8_35-pm-2019-03-25-20-40-02.mp4"></video>
 
  
 
@@ -34,7 +34,7 @@ Post-louche, the Absinthia Blanche is very smooth with anise as the dominant fla
 
 This is a very approachable absinthe for first timers, and a lovely everyday extravagance for aficionados of the green fairy. Time to go get my next bottle. Head to Absinthia's [website](https://www.absinthia.com/) to find out where you can get your own.
 
-##### My Absinthia Rating:
+## My Absinthia Rating:
 
 
 
@@ -44,7 +44,7 @@ This is a very approachable absinthe for first timers, and a lovely everyday ext
 [![The Gourmez, rating, truffle, 5/5, excellent](https://thegourmez-wpmedia.s3.amazonaws.com/2015/01/rating_truffle1.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2015/01/rating_truffle1.gif) 5/5</div>
 
 
-##### Other Absinthia Reviews:
+## Other Absinthia Reviews:
 
 [Tastings Dot Com](http://www.tastings.com/Spirits-Review/Absinthia-Organic-Absinthe-Superieure-USA-110-Proof-375-ml-10-01-2018.aspx)
 

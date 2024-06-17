@@ -56,7 +56,7 @@ Last time I wrote about Prosser, I wrote about [the best wines in the region](ht
 
 But there are those few! And there are great activities to be found throughout the downtown area, as I learned on a tour led by Andrea Schutt, executive director of [Historic Downtown Prosser.](https://historicprosser.com/)
 
-##### A Downtown Prosser Historic Buildings Ramble
+## A Downtown Prosser Historic Buildings Ramble
 
 You may not get a personally guided tour from Andrea, but talking a walk through the interesting blocks around the 6th St and Meade Avenue intersection is worth it regardless to learn a little history about this central Washington frontier town.
 
@@ -70,7 +70,7 @@ Just down 6th St a block is the 1906 Mercer Building, which was quite lively dur
 
 The space is currently an event center for the city. The Mercer Building also houses [Brewminatti](http://brewminatti.com/), a coffee shop that hosts rather large music gets for a town of Prosser’s size. That’s thanks to co-owner Marty Taylor, who’s also a concert promoter. How lucky for Prosser’s citizens and visitors! Check the event calendar to see if there’s a show scheduled during your trip.
 
-##### Downtown Prosser Tasting Room Stop #1
+## Downtown Prosser Tasting Room Stop #1
 
 Around either corner of Meade Ave from 6th St, you’ll find those few tasting rooms. Sidle up to [Bacchus](https://historicprosser.com/discover-downtown/name/bacchus-tasting-room-interiors/), the first built in town, for some shopping mixed in with your wine.
 
@@ -90,7 +90,7 @@ Aged 92 months, it was golden amber with ink blots of deeper color and tasted li
 
 [![bacchus wine gifts downtown prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-067-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-067.jpg)
 
-##### Ramble Along for More Prosser History
+## Ramble Along for More Prosser History
 
 After wine, why not go a little deeper into Prosser’s history at the [Benton County Museum](https://www.facebook.com/makethedesertbloom/?rf=163651750320974)? You’ll enjoy a nice eight-block stroll through tree-lined streets to City Park. The Museum resides on the corner.
 
@@ -124,7 +124,7 @@ Every museum needs an Alys in it! We learned from her that the Newhouse family w
 [![grave vines prosser domanico cellars](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-128-500x218.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-128.jpg) Not Concord grapes, but morning over Domanico Cellars’ vines.</div>
 
 
-##### Downtown Prosser Tasting Room Stop #2
+## Downtown Prosser Tasting Room Stop #2
 
 After taking in your fill of history—I could have used an extra 30 minutes or so myself, as media tours are always run on a hurried schedule—you’ll probably need another drink! So backtrack, and pick the opposite corner of Meade Ave to go down to find [Bill’s](https://www.facebook.com/BillsTastingRoom/).
 
@@ -146,7 +146,7 @@ Before continuing your ramble, take in the restored [Princess Theater](http://ww
 
 [![princess theater downtown prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-083-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-083.jpg)
 
-##### Dinner and Beer Time!
+## Dinner and Beer Time!
 
 But first, you’ll want some dinner after that last tasting flight. Walk up a block on 6th St to find the [Horse Heaven Saloon.](http://www.horseheavensaloon.com/) You’ll know you’re at the right place by its distinctive door handles!
 

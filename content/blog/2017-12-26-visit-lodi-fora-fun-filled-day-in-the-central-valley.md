@@ -27,11 +27,11 @@ Bay Area residents don’t often think of the Central Valley as a destination, p
 
 There’s also a lot for the weekend adventurer to do in Lodi to supplement a wine-based stay or day trip. Here’s my suggestion for how to do just that.
 
-##### Stop 1: A School Grounds Breakfast Bite
+## Stop 1: A School Grounds Breakfast Bite
 
 [![school grounds, school grounds coffee, school grounds gelato, visit lodi, lodi downtown, lodi](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Visit-Lodi-045-500x337.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Visit-Lodi-045.jpg)Tucked down a little corridor off Lodi’s main thoroughfare at 115 S. School Street, you’ll find a local’s favorite: [School Grounds.](http://www.schoolgroundscoffee.org/) It offers quirky décor, espresso drinks, pastries, and breakfast sandwiches. And it’s a respite before you get your blood rushing with some midmorning aerobic activity. Pro tip? Come back afterward to cool off with gelato.
 
-##### Stop 2: Kayaking on the Mokelumne River
+## Stop 2: Kayaking on the Mokelumne River
 
 [![kayaking, lodi, lodi lake molekumne river, visit lodi](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Visit-Lodi-053-282x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Visit-Lodi-053.jpg)The 95-mile long Mokelumne River fills Lodi Lake and the park surrounding it, which is available for all sorts of easygoing water sports. I say easygoing because the water was perfectly calm when I went, which made it perfect for a beginning kayaker like myself.
 
@@ -47,7 +47,7 @@ There’s also a lot for the weekend adventurer to do in Lodi to supplement a wi
 
 [![molekumne river, lodi lake, visit lodi, headwaters kayak](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Visit-Lodi-051-282x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Visit-Lodi-051.jpg)Back on shore, it was fun to watch the fluidity of Dan’s team working together to bring all sorts of recreationists into and out of the water at the Lodi Boathouse (1101 W Turner Road). In season, Headwaters Kayak offers hourly and half-day kayak, canoe, paddle board, and pedal boat rentals. They also lead social paddles like the one we took, including at night during the full moon! Off-season, call for a rental appointment.
 
-### Stop 3: The Sip Shuttle (and winery lunch!)
+## Stop 3: The Sip Shuttle (and winery lunch!)
 
 [![sip shuttle, visit lodi, lodi, wine tours, wine driver, wine tasting, tour guide, tour bus](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Visit-Lodi-073-500x327.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Visit-Lodi-073.jpg)This stop is actually made of multiple stops! What better way to spend the rest of the afternoon than relaxing with wine in the scenic countryside, no driving required?  [The Sip Shuttle](https://sipshuttle.com/) supplies that, either with their daily tours departing at 11:00 am or 11:30 am or by renting out your own shuttle for a custom tour if you have a group.
 
@@ -63,7 +63,7 @@ The set tours cost $115 per person and includes all the transportation, tasting 
 
 You can see most of the wineries we hit up on our media Sip Shuttle tour in [my last Visit Lodi post](http://thegourmez.com/2017/10/04/visit-lodi-wines-winemakers-personality/).
 
-##### Stop 4: A Walldog Murals Walk
+## Stop 4: A Walldog Murals Walk
 
 
 

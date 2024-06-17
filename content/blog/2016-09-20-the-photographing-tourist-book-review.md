@@ -24,7 +24,7 @@ _Obligatory disclaimer: This review of_ the Photographing Tourist _comes from a 
 
 [![The Photographing Tourist by David Noyes](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/PhotoTourist-01-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/PhotoTourist-01.jpg)
 
-#### A Book Review? Can I Eat That?
+## A Book Review? Can I Eat That?
 
 I rarely do book reviews on this blog, because I’m more interested in how the final product tastes, whether that be a dinner entrée or a glass of wine, than in how the goods got on the plate. But y’all may have noticed the [Travelogue section](http://thegourmez.com/travelogues) of the site? Actually, you may not have because I’ve accidentally had it disabled for a while! Oops! It’s back up and categorized now, and it’s full of photography- and food-heavy accounts of typical tourist activities. While I appreciate the current conventional wisdom that true travel involves immersion in a culture, I am also fully aware that I won’t be satisfied without a picture of myself at the Tower of London, if you know what I mean.
 
@@ -38,7 +38,7 @@ I rarely do book reviews on this blog, because I’m more interested in how the 
 
 My family are go-go travelers, but the Gomezes have always gone gone sightseeing, and it’s in my blood. If I don’t visit those iconic locales or have a country’s most celebrated food, I feel I have failed myself. Which is why, when asked to review David Noyes’s _the Photographing Tourist,_ I knew it’d be a good match for my sensibilities.
 
-#### What is _the Photographing Tourist_?
+## What is _the Photographing Tourist_?
 
 There are few nonfiction books more perfectly crafted for me than this beautiful coffee table collection of photography tips, travelogues, and most of all, gorgeous images.
 
@@ -66,7 +66,7 @@ You can get _the Photographing Tourist_ directly from [Noyes’s website here](h
 
 Regardless, each book sold includes a $1 contribution to the [Innocent Eyes Project](http://innocenteyesproject.org/).
 
-#### The Innocent Eyes Project
+## The Innocent Eyes Project
 
 In 2013, Noyes was inspired by his travels to found this nonprofit, when the reality struck home that 100 million children of primary school age worldwide are not enrolled in a school. Innocent Eyes provides micro-grants to U.S.-based organizations who work to provide more educational opportunities for children in developing nations, with priority given to projects that target girls, as two-thirds of the illiterate population worldwide is women.
 

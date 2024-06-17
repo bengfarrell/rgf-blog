@@ -36,7 +36,7 @@ A surefire way to enjoy a visit to Prosser Wine Country, the central Washington 
 
 This absolute gem of a location is spread out over 32 acres and home to 10 tasting rooms linked by easy walking trails and streets named Merlot, Port, and Cabernet. In short, it’s the lazy man’s wine destination, and as someone who knows that relaxing and imbibing is the aim of most sane people’s vacations (Note: I do not regularly qualify as one of those people), it’s sure to appeal to many wine lovers.
 
-##### **The Winemakers Loft**
+## **The Winemakers Loft**
 
 [![vintner's village winemakers loft](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/WinemakersStudio2-500x170.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/WinemakersStudio2.jpg)
 
@@ -52,7 +52,7 @@ That picture is of the patio out front of [the Winemakers Loft](https://www.face
 
 There are currently four tasting rooms in the Winemakers Studio section of the Vintner’s Village, but once you’re ready to stretch your legs – or head in aim of a meal – stroll down Cabernet Court to where the big boys play. Enjoy sweeping views of the Yakima River Valley as you go.
 
-##### **Cabernet Court at the Vintner’s Village**
+## **Cabernet Court at the Vintner’s Village**
 
 
 

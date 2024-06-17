@@ -1,10 +1,10 @@
 ---
 title: "Indie Coffee Passport - Oakland! Get it now!"
 date: "2016-08-25"
-categories: 
+categories:
   - "announcements"
   - "coffee-shops"
-tags: 
+tags:
   - "coffee-deals"
   - "east-bay"
   - "icp"
@@ -23,7 +23,7 @@ Last year, the Indie Coffee Passport came to the East Bay, and [I had tons of fu
 
 As of early August, it's back!  And it's honed in on Oakland this year, which comes with a cheaper price tag. That seems like a smart move!
 
-### What is the Indie Coffee Passport?
+## What is the Indie Coffee Passport?
 
 In short, it's a fold-up card that fits in your wallet that you use to purchase a free drink from each of the participating cafes -- and at least one non-coffee drink is offered at each locale. I'm borrowing from ICP's Instagram feed to show you an example:
 
@@ -45,15 +45,15 @@ Oakland's version is $13, which comes to just under $15 with tax + S&H. Flashing
 
 I've been to four of those cafes before, and they are all ones I would happily go back to. Getting a drink for the equivalent of $1.36 when I visit is really a no-brainer, especially when they can run up and over $5 easily these days. I can't wait to try the other options -- I've been meaning to hit up Red Bay Coffee since they opened their shipping container stand this last spring!
 
-### How Long Does it Last?
+## How Long Does it Last?
 
 The Indie Coffee Passport does have a time limit, but I think 7 months is very generous! Of course, we're already a month into that, but I'm quite confident I'll be in the need of 11 coffee drinks by the end of February, so...
 
-### Where do I Buy It?
+## Where do I Buy It?
 
 [From the website!](http://www.indiecoffeepassport.com/oakland/buy.html) I just made my purchase, and I'm expecting it to arrive by mail within a week. Easy peasy, and I hope this becomes an annual tradition in Oakland and/or other parts of the East Bay.
 
-### Who Puts Indie Coffee Passport Together?
+## Who Puts Indie Coffee Passport Together?
 
 [Indie Coffee Passport](http://www.indiecoffeepassport.com/) is a service run in several U.S. and Canadian cities to promote getting people out to experience the locally owned coffee shops in their area. Started in Toronto, the brand has branched out and is run by a sponsor in each city where it launches.
 
@@ -64,5 +64,5 @@ Well, that, and how great of a deal it is! [Get yours now.](http://www.indiecoff
  
 
 > [Last few days for the #EastBay @indiecoffeepassport ! Using mine to score a zambrano and a Hawaiian mochi. #Coffee](https://www.instagram.com/p/68ViBvwQov/)
-> 
+>
 > A photo posted by Becca Gomez Farrell (@thegourmez) on Aug 28, 2015 at 2:50pm PDT

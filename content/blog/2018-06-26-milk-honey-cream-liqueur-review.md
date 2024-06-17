@@ -18,7 +18,7 @@ tags:
 
 ABV: 12.5%
 
-##### [![milk & honey, liqueur, date honey, dates, cream, review](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-001-500x495.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-001.jpg)The Liqueur
+## [![milk & honey, liqueur, date honey, dates, cream, review](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-001-500x495.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-001.jpg)The Liqueur
 
 I first heard about Milk & Honey in 2015, when Justin Lubin, who developed the liqueur, contacted me to taste test it. **Obligatory disclaimer:** The bottle I'm reviewing was sent as a thank you gift from Lubin for my participation in that early stage of its development. It was good then, and it's good now, after its release to the public.
 
@@ -28,7 +28,7 @@ The ingredients in Milk & Honey are all-natural and simple. They consist of ligh
 
 [![milk & honey, liqueur, date honey, dates, cream, review](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-005-408x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-005.jpg)By itself, I'm impressed by the liqueur's lightness and the delicate sweetness the date honey provides. Almond, floral, and orange notes linger in their own delicate balance with the cream. Drinking it conjures an image of crystallized sugar shaved and melted into a vat of dairy. Roll it over your tongue to unwrap its full potential.
 
-##### My Rating:
+## My Rating:
 
 
 
@@ -38,7 +38,7 @@ The ingredients in Milk & Honey are all-natural and simple. They consist of ligh
 [![The Gourmez, rating, truffle, 5/5, excellent](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif) 5/5</div>
 
 
-##### A Cocktail Recipe
+## A Cocktail Recipe
 
 Cocktails are an ideal use for Milk & Honey. Lupin was inspired to create it after trying the traditional combination of milk and date honey during a trip to the Sea of Galilee. The Recipe of Heaven is recommended on the website as a guideline: 2 to 3 parts Milk & Honey to 1 part the spirit of your choice.
 

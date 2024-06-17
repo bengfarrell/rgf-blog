@@ -24,7 +24,7 @@
 
 	--syntax-tab-size: 2;
 
-	--social-icon-color: --color-gray-90; 
+	--social-icon-color: --color-gray-90;
 
 	--pagefind-ui-scale: 1;
 	--pagefind-ui-primary: #034ad8;
@@ -85,13 +85,18 @@ section .more-posts {
 	border-radius: var(--rounded-corner);
 }
 
-#page-content p a:has(img) { 
+#page-content p a:has(img) {
 	display: flex;
 	justify-content: center;
 }
 
+#page-content p video,
 #page-content p img {
+	max-width: 100%;
 	text-align: center;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 15px;
 }
 
 #page-content h1 {
@@ -248,7 +253,7 @@ nav.pagination li a[href]:visited {
 }
 
 nav.pagination li span {
-	color: #00000033;	
+	color: #00000033;
 	font-weight: bold;
 	font-family: "Freeman", sans-serif;
 }
@@ -439,11 +444,11 @@ header {
 	border-top-right-radius: var(--rounded-corner);
 }
 
-a[href].postlist-link, 
+a[href].postlist-link,
 a[href].postlist-link:visited {
 	color: white;
 	text-decoration: none;
-} 
+}
 
 .postlist-item-active .postlist-link {
 	font-weight: bold;
@@ -504,16 +509,9 @@ div.caption {
 	display: inline-block;
 	font-size: 0.8125em; /* 13px /16 */
 	color: var(--color-gray-90);
-	border-radius: 8px;
 	padding: 15px;
-	border: 1px solid var(--color-gray-20);
 	text-align: center;
 	width: calc(100% - 30px);
-}
-
-div.caption p {
-	display: flex;
-	flex-direction: column;
 }
 
 div.caption img {
@@ -540,6 +538,8 @@ body.search #search {
 
 .message-box p {
 	margin: 0;
+	margin-bottom: auto;
+	margin-top: auto;
 }
 
 .message-box img {

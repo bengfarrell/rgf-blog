@@ -44,7 +44,7 @@ The producers indicated that their 2017 Vintage Ports, on release, would market 
 
 So this a true preview of my favorites from among the 2017 Vintage Ports that will soon be available. If you pick up any of these bottles, do invite me over for a glass when you're ready to crack them open. 😉 I can't afford them!
 
-#### The Winners' Circle:
+## The Winners' Circle:
 
 **Quinta Da Romaneira 2017 Vintage Port**
 
@@ -58,7 +58,7 @@ Made from Touriga Nacional and Touriga Franca grapes, this Port offered a strong
 
 This one will be a crowd pleaser, with its licorice, milk chocolate, and cherry notes. It doesn't need many layers to shine, though aging will undoubtedly yield some. As is, a grassy quality gives it enough personality to soar.
 
-#### Runners Up:
+## Runners Up:
 
 **Krohn 2017 Vintage Port**
 
@@ -76,11 +76,10 @@ The nose is filled with apricot, huckleberry, and gooseberry headed toward ripen
 
 [![2017 Vintage Port, port, porto, tasting notes, wine tasting, fonseca](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-017-334x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-017.jpg)This port struck me as so unique, I needed to return to it to evaluate my first impressions. The nose was all bark and soil. In the glass, I longed for an Indonesian curry's lemongrass or steamed banana leaf over rice to complement it. A Hawaiian lau lau would do just as well, or perhaps a sticky rice dessert. The fruit is there, but those herbal, tropical notes are what most seduced me.
 
-#### The Analysis:
+## The Analysis:
 
 Buy these Vintage Ports if you can afford them! Interestingly, over this year's tasting and the last, there were not many repeats among my favorites. Perhaps that speaks to the vastly different profiles the two Vintage Years produced. However, Quinta Do Noval's aged and young offerings were certainly highlights of both experiences. Enjoy your swirling and sipping!
-
-\[video width="1280" height="720" mp4="https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-037.mp4"\]\[/video\]
+<video width="500" controls src="https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-037.mp4"></video>
 
 I hope you find this summary useful in making your 2017 Vintage Port purchases as they become available this fall.
 

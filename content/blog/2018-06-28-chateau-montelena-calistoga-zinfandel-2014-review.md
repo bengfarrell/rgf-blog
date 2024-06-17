@@ -16,7 +16,7 @@ tags:
 
 _**Obligatory disclaimer:** I received this bottle of Chateau Montelena Calistoga Zinfandel 2014 as a free sample for review._
 
-##### The Wine
+## The Wine
 
 [![Chateau Montelena Calistoga Zinfandel 2014](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/Chataeu-Montelena-Zin-1-391x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/Chataeu-Montelena-Zin-1.jpg)This Napa Valley zinfandel was aged in Irish oak barrels, which is a highly unusual choice for Californian winemaking. It smells like a candy that doesn't exist but I wish did: chocolate-covered toffee with a layer of raspberry jam sealed inside.
 
@@ -24,7 +24,7 @@ _**Obligatory disclaimer:** I received this bottle of Chateau Montelena Calistog
 
 The Chateau Montelena Calistoga Zinfandel 2014 is a young wine with plenty of potential now. I imagine I'd like it more as it aged.
 
-##### My Rating:
+## My Rating:
 
 
 
@@ -34,7 +34,7 @@ The Chateau Montelena Calistoga Zinfandel 2014 is a young wine with plenty of po
 [![4/5](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/rating_avocado11.gif) 3.5/5</div>
 
 
-##### Other Wine Writers' Thoughts
+## Other Wine Writers' Thoughts
 
 **[Drinkhacker](https://www.drinkhacker.com/2017/09/10/review-chateau-montelena-2014-zinfandel-and-2013-cabernet-sauvignon/)**
 

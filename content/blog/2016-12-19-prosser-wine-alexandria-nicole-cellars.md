@@ -4,7 +4,7 @@ date: "2016-12-19"
 categories:
   - "wine"
   - "travel-guides"
-  
+
 tags:
   - "alexandria-nicole"
   - "cellars"
@@ -50,7 +50,7 @@ In October, I took part in a media trip covering the area, and boy, did we hit u
 
 I thought I'd start out this series highlighting one winery—and its multiple wine experiences—as a stand-in for the Prosser wine country experience on the whole.
 
-#### Alexandria Nicole Cellars History
+## Alexandria Nicole Cellars History
 
 [Alexandria Nicole Cellars](http://www.alexandrianicolecellars.com/) is owned by a Prosser native, Jarrod Boyle, and his wife, Ali. Jarrod had already been learning the ropes of this wine-drenched region with Hogue Cellars when he came across a plot of land just waiting to be turned into the vineyard of his dreams.
 
@@ -64,7 +64,7 @@ Alexandria Nicole's estate is located at the vineyard, a truly beautiful area of
 
 More on that later. But first, you and I are heading to their Prosser-based tasting room (2880 Lee Rd, Suite D, Prosser, WA), housed in a small, but mighty, fancy strip mall that's also home to [Wit Cellars](http://witcellars.com/), which I'll be mentioning in future posts.
 
-#### Alexandria Nicole Wine Tasting
+## Alexandria Nicole Wine Tasting
 
 [![alexandria nicole tasting room prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-183-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-183.jpg)
 
@@ -94,7 +94,7 @@ The **Alexandria Nicole 2015 Crawford Viognier** is also notable for its spicine
 
 But if tasting among civilians isn't quite your style, you can always head out to the estate…
 
-#### Alexandria Nicole's Tiny House Glamping
+## Alexandria Nicole's Tiny House Glamping
 
 For true wine fans, Alexandria Nicole extends their experience into those [tiny houses](http://www.anctinyhouses.com/) out in the Destiny Ridge Vineyards, where visitors can also taste wines at the estate. And staying overnight in a tiny home is such a memorable way to spend an evening or a weekend!
 

@@ -19,7 +19,7 @@ Last month, I had myself a hot sauce tasting.
 
 The gift box looked sleek with plenty of padding and a large postcard of a giraffe inside.
 
-\[video width="281.25" height="500" align="center" mp4="https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-2.mp4"\]\[/video\]
+<video width="281.25" height="500" align="center" controls src="https://thegourmez-wpmedia.s3.amazonaws.com/2021/05/African-Dream-Foods-Set-2-2.mp4"></video>
 
  
 

@@ -26,7 +26,7 @@ Last fall, via a press trip sponsored and hosted by [the Wine Road](https://www.
 
 Each of the wineries I'm profiling here gave me a taste of what beauty can come from small-lot production. I mean a literal taste, of course, but also figuratively, as their owners exemplified dedication to and passion for this way of life. You'll notice that yourself, when you meet them in the tasting room, as I hope this blog inspires you to do. And for each of these wineries, meeting the winemaker-owners in that tasting room is a likely occurrence.
 
-##### 1\. [Frick Winery](https://frickwinestore.com/)
+## 1\. [Frick Winery](https://frickwinestore.com/)
 
 23072 Walling Road, Geyserville Tasting room: Fridays–Sundays, 1–4
 
@@ -60,7 +60,7 @@ My personal favorite of Bill's wines, which you can try up to six of for free wh
 
 [![wine road, sonoma, sonoma county, frick winery, wine, tasting room, cotes de frick, blanc](https://thegourmez-wpmedia.s3.amazonaws.com/2019/08/WineRoad-028-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/08/WineRoad-028.jpg)On that label, you can see the paint splash that typically fills in for the _i_'s dot, which of course is drawn from Judith's artistic side. The wine offers great spice with honeysuckle and graham cracker notes, and apricot and grapefruit acidity. A delicious glass all-around. Here's hoping the next vintage will be released by your visit.
 
-##### 2\. [Inspiration Vineyards](https://www.inspirationvineyards.com/)
+## 2\. [Inspiration Vineyards](https://www.inspirationvineyards.com/)
 
 3360 Coffey Lane, Suite E, Santa Rosa Tasting Room: Fridays–Sundays, 11–4:30, or by appointment.
 
@@ -84,7 +84,7 @@ Producing any bottle of wine is an adventure, especially for micro-producers lik
 
 Jon is not the only winemaker making use of the Coffey Lane wine warehouse in Santa Rosa. You can make a day of visiting tasting rooms in those or nearby facilities, including Donelan Family Wines, Carol Shelton Wines, West of Temperance Winery and more, all in walking distance.
 
-##### 3\. [Lauterbach Cellars](http://www.lauterbachcellars.com/)
+## 3\. [Lauterbach Cellars](http://www.lauterbachcellars.com/)
 
 3420 Woolsey Road, Windsor Tasting Room: By appointment only.
 

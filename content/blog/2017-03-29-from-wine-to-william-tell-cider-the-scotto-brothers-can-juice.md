@@ -45,7 +45,7 @@ I am a dry wine fan by nature, and that preference extends to cider. I much pref
 
 Because of my love of dry ciders, it’s a good thing we started out with the William Tell Bone Dry Cider.
 
-##### William Tell Cider: Bone Dry
+## William Tell Cider: Bone Dry
 
 [![William Tell Cider Bone Dry](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-01-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-01.jpg)
 
@@ -53,7 +53,7 @@ This one pleased me instantly. The flavor was all apple, yet I couldn’t help b
 
 Flavor combinations? That … that sounds like a gimmick, doesn’t it? Rest assured, readers, in the hands of knowledgeable producers who trust their instincts, it’s an adventure worth imbibing.
 
-##### William Tell Cider: Apple Pinot Grigio
+## William Tell Cider: Apple Pinot Grigio
 
 [![William Tell Cider Pinot Grigio](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-03-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-03.jpg)
 
@@ -63,7 +63,7 @@ What? Wine \*in\* the cider? I was dubious too, but I declared this cider one of
 
 And wine isn’t all the Cider Brothers are playing with as cider add-ins.
 
-##### William Tell Cider: Apple Wild Cherry
+## William Tell Cider: Apple Wild Cherry
 
 In addition to cherries, this cider gets a soft cinnamon dose that amplifies its intriguing combination of flavors. It’s tart, not treacly, and is aged in French oak. And with such a gorgeous color—
 
@@ -73,7 +73,7 @@ In addition to cherries, this cider gets a soft cinnamon dose that amplifies its
 
 So success at juice additions and wine additions to cider? Check. The next logical step? Both! With an eye toward complementary flavors, of course.
 
-##### William Tell Cider: Blueberry Zin and Mango Muscat
+## William Tell Cider: Blueberry Zin and Mango Muscat
 
 [![William Tell Cider Mango Muscat](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-19-375x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-19.jpg)
 

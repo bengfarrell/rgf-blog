@@ -1,11 +1,11 @@
 ---
 title: "Specialty Cocktails at Albany’s Ivy Room"
 date: "2016-10-06"
-categories: 
+categories:
   - "bars"
   - "cocktails"
-  
-tags: 
+
+tags:
   - "bars"
   - "clubs"
   - "cocktail-review"
@@ -23,7 +23,7 @@ tags:
   - "wildcat"
 ---
 
-#### The Ivy Room
+## The Ivy Room
 
 860 San Pablo Avenue
 Albany, CA
@@ -35,13 +35,13 @@ Back in March, I visited the Ivy Room soon after its [redesign and re-opening](h
 
 Sure, a full bar ensures you can always get your favorite drink when you want it, but I love bartenders that come up with inventive drinks I wouldn’t think of on my own. Ivy Room is doing just that, and I’ve managed to try half of them over the course of two trivia nights.
 
-#### Connect the Dots
+## Connect the Dots
 
 [![Connect the Dots cocktail at Ivy Room Albany](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Ivy-Room-Drinks-04-393x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Ivy-Room-Drinks-04.jpg)
 
 The Connect the Dots, pictured above, features El Jimador tequila infused with habanero, agave, and fresh lime and watermelon juices. The color is beautiful, and despite that strong pink, the watermelon presence is only strong enough to delight rather than dominate. It hugs the heat kick all the way down your gullet. My only suggestion is to serve it up rather than on the rocks. 3.5/5
 
-#### The Wildcat
+## The Wildcat
 
 [![Wildcat Cocktail at Ivy Room Albany](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Ivy-Room-Drinks-03-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Ivy-Room-Drinks-03.jpg)
 

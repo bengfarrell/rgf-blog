@@ -58,7 +58,7 @@ Over the course of two days, we visited 6 different tasting rooms and tried 34 w
 
 In addition to quality wines, our small group spent quality time with honest and honestly hilarious Lodi winemakers. I’ll share thoughts from each of them as we make our way down the list.
 
-##### 1\. Calturas Syrah Rosé 2015
+## 1\. Calturas Syrah Rosé 2015
 
 [![calturas, rose, syrah rose, wine, rose wine, lodi wine, tasting room, calturas wine, tasting notes](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-012-1-309x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-012-1.jpg)
 
@@ -82,7 +82,7 @@ What won’t Blake do? To paraphrase him, “I’ll have my own vineyard on the 
 [![calturas syrah rose, lodi wine, calturas wine, rose](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-011-1-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-011-1.jpg) Mmm…end product.</div>
 
 
-##### 2\. M2 2014 Lani's Vineyard Syrah 2014
+## 2\. M2 2014 Lani's Vineyard Syrah 2014
 
 
 
@@ -100,7 +100,7 @@ Layne will appreciate it, I promise. As he proclaimed, “Mix it up with 7 Up—
 
 My feeling that Layne and I may be kindred spirits only deepened as he continued, “What pairs with this wine? Another bottle.”
 
-##### 3\. Viaggio “Wicked Finger” Old Vine Zinfandel 2013
+## 3\. Viaggio “Wicked Finger” Old Vine Zinfandel 2013
 
 [![viaggio, viaggio winery, wines, lodi wine, zinfandel, old vine zinfandel, wicked finger, lod wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-157-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-157.jpg)
 
@@ -120,7 +120,7 @@ Winemaker and Viaggio co-owner Teri Lawrence led me to believe the wine would be
 
 She regaled us throughout the multi-course meal with stories of former business partners who didn’t think she could hack it as a winemaker. The 2013 Estate Zinfandel is named “Little Missy” in honor of one such naysayer’s response when she first proposed to give it a try five years ago. I’ll just let the fact that two Viaggio wines made this list be proof enough of how well she’s done. I don't believe she makes the second one, but she certainly has the talent to know it's worth adding to their collection.
 
-##### 4\. Viaggio “Sip of Heaven” Chocolate Dessert Wine N.V
+## 4\. Viaggio “Sip of Heaven” Chocolate Dessert Wine N.V
 
 [![viaggio, sip of heaven, dessert wine, chocolate wine, lodi wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-162-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-162.jpg)
 
@@ -128,7 +128,7 @@ I already talked about this delicious dessert wine in [my first post](http://the
 
 [![viaggio, swing from bnhind, swingset, old fashioned swing, golden hour, sunset, viaggio estate, viaggio winery](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-171-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-171.jpg)
 
-##### Can’t Miss: The Acquiesce Winery Tasting Experience
+## Can’t Miss: The Acquiesce Winery Tasting Experience
 
 [At Acquiesce Winery,](http://www.acquiescevineyards.com/) we were treated to the height of hospitality from winemaker and owner, Susan Tipton, and her husband and cracker king, Rodney, as we sat down for a tasting of 6 Acquiesce wines and 4 delicious, well-thought out bites to go with them.  They even thoughtfully paired the beautiful floral arrangements with my fingernails!
 

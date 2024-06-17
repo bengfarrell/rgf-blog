@@ -1,11 +1,11 @@
 ---
 title: "Exploring Pinot Noir of California"
 date: "2016-10-04"
-categories: 
+categories:
   - "events"
   - "restaurants"
   - "wine"
-tags: 
+tags:
   - "2014-vintage"
   - "benson-marketing-group"
   - "california"
@@ -26,13 +26,13 @@ tags:
 
 [![Pinot noir California](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Pinot-Noir-Day-02-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Pinot-Noir-Day-02.jpg)
 
-#### Which Pinot Noir Region Marks the Spot?
+## Which Pinot Noir Region Marks the Spot?
 
 Pinot noir isn’t a favorite wine varietal of mine, but since I moved back to California in 2013, I’ve been intrigued by how pinot noirs of different winegrowing regions can be markedly different here. The grape is typically used to produce light-bodied, low tannin wines with light fruit. That makes them ideal for keeping the fun flowing at a party. But they tend to come with a higher price tag, which may not be ideal for your wallet. If you _do_ want to invest a little more, I’ve learned it’s worth taking the time to investigate which California region makes pinot noirs with the flavor profile you like best. I did just that last August at a pinot noir reception put on by [the Benson Marketing Group](http://bensonmarketing.com/). _Obligatory disclaimer:_ _That means the wines and food I’m about to discuss were fully free to me._
 
 [![Hog & Rocks San Francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Pinot-Noir-Day-01-500x418.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Pinot-Noir-Day-01.jpg)
 
-#### Hog & Rocks’ Wares
+## Hog & Rocks’ Wares
 
 The reception was hosted at [Hog & Rocks,](http://www.hogandrocks.com/) a new-to-me San Francisco spot that specializes in charcuterie, oysters, cocktails, and small plates to go with them.
 
@@ -48,17 +48,17 @@ A corn dog made with blue corn meal and a tasty relish is also worth a note, alt
 
 But we were talking about pinot noir, weren’t we?
 
-#### Ranging the California Pinot Noir Regions
+## Ranging the California Pinot Noir Regions
 
 The Benson Marketing Group represents a number of Californian wineries based in different regions of the state. We had five 2014 offerings on hand, and each had personality galore, personalities that shared little in common. For me, the tasting was further confirmation that place, or _terroir_ if you prefer, makes a huge difference in what pinot noir flavors end up in the glass. Here’s a rundown, riding north to south:
 
-##### Sonoma County Pinot Noir
+## Sonoma County Pinot Noir
 
 [![Balletto Russian River Pinot Noir](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Pinot-Noir-Day-08-463x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Pinot-Noir-Day-08.jpg)
 
 [The Balletto Russian River Valley Pinot Noir 2014 ($42](http://www.ballettovineyards.com/wine/pinot-noir-sexton-hill/2014)) from Sexton Hill struck me as the classic offering from among these selections. That shouldn’t be a surprise, as it’s the only wine that came from what many consider to be classic California wine country. When I think of pinot, I think of wines just like this one with bright cherry notes and soft spice. This Balletto also offered a clove wild side, and it showed off the classic fruit profile well. 4/5.
 
-##### Monterey County Pinot Noir
+## Monterey County Pinot Noir
 
 These two wines came from bordering AVAs (i.e., officially recognized wine growing regions) in Monterey County, yet their tastes were perhaps the most divergent of the bunch.
 
@@ -70,13 +70,13 @@ These two wines came from bordering AVAs (i.e., officially recognized wine growi
 
 Made with grapes grown just to the south in the Arroyo Seco AVA, the [2014 Scott Family Estate Pinot Noir ($30)](http://shop.rutherfordranch.com/SHOP.AMS?LEVEL=BOT&PART=WSFPNMC147&DESC=2014%20Scott%20Family%20Estate%20Pinot%20Noir,%20Arroyo%20Seco%20Monterey) was my favorite of the night, although not my most highly rated. I would never have guessed this was a pinot noir and found myself entranced with its lively mix of unlikely bedfellows that proved they knew how to have a good time. Attention-demanding herbaceous notes (thyme?) took center stage while white pepper, cranberry, and young strawberry filled the conversation pauses with flair. 4/5.
 
-##### Santa Barbara County Pinot Noir
+## Santa Barbara County Pinot Noir
 
 [![Sanford Califonia Pinot Noir](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Pinot-Noir-Day-04-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Pinot-Noir-Day-04.jpg)
 
 Sanford Winery and Vineyards, which I’ve been following since [my first Wine Bloggers Conference](https://thegourmez.com/2014/07/31/wbc14-sta-rita-hills-wine-santa-barbara/), proved its deft winemaking skills once again with this exceptional 2014 Pinot Noir ($45) from the Santa Rita Hills [(Buy the 2012 here](http://www.sanfordwinery.com/product/sanford-pinot-noir-sta-rita-hills-2012?destination=node/3196)).  If my favorite childhood dessert, raspberry cream served in milk chocolate cups, was given more depth, this might be the result. The nose is attic and pencil shavings, and the glass is those strawberry cups mingling with cardamom and tree bark. Its fire engine red color intrigued. 4.5/5.
 
-##### The California Melting Pot Pinot Noir
+## The California Melting Pot Pinot Noir
 
 [![Landmark Vineyards California PInot Noir](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Pinot-Noir-Day-05-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Pinot-Noir-Day-05.jpg)
 

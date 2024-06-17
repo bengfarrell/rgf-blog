@@ -29,7 +29,7 @@ _Obligatory disclaimer: The cocktails and food mentioned in this post were compl
 
 It’s September in the Bay Area, and we all know what that means – Indian Summer! It’s been one of the coldest actual summers on record here, which means the annual warmth of September and October will be welcome — though we’ll never refuse a little rain. As a Californian, I’m obligated to include that last part.
 
-#### The Clift Hotel: A Modern Classic Setting for Style and Sipping
+## The Clift Hotel: A Modern Classic Setting for Style and Sipping
 
 
 
@@ -71,7 +71,7 @@ Pay close attention to the lamps if you visit; a few of them are Salvador Dali o
 
 How fun! But I was talking about cocktails, wasn’t I?
 
-#### Suggested Indian Summer Pairings
+## Suggested Indian Summer Pairings
 
 
 
@@ -107,7 +107,7 @@ The Sandia Amara’s chili and salt rim is the cocktail’s standout element. Th
 
 Here’s the thing – I dislike mushrooms, often passionately. [My rating system](http://thegourmez.com/about-the-gourmez/rating-system/) even uses them to denote my lowest score. But in this offering, they are expertly prepared, exuding the woodsy atmosphere that so often gets lost when simply thrown into a dish. The shell’s fried, paper-thin crunch completes a wonderful bite.
 
-#### Don't Forget Dessert!
+## Don't Forget Dessert!
 
 Dessert is also an excellent choice at the Redwood Room.
 

@@ -1,9 +1,9 @@
 ---
 title: "Vale do Bomfim 2015 Red Wine Blend"
 date: "2017-11-08"
-categories: 
+categories:
   - "wine"
-tags: 
+tags:
   - "2015"
   - "douro"
   - "dow"
@@ -41,7 +41,7 @@ That impression of sausages may have been the power of suggestion, as the promot
 
 [![The Gourmez, rating, truffle, 5/5, excellent](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)
 
-##### Other Wine Writers’ Thoughts:
+## Other Wine Writers’ Thoughts:
 
 **Arturo Ciompi at [Durham Mag](https://durhammag.com/2017/08/02/bring-this-red-to-your-next-cookout/)**
 

@@ -47,25 +47,25 @@ Much more to my liking is the . . .
 
 [LoMo Market](http://lomomarket.com/ "LoMo Market") is a mobile farmer's market that's hitting the road next week. They bring a range of products from local farms and producers to you, wherever you may be! Actually, they are bringing the mobile market to a few areas that pledged the most support in a fundraiser leading up to their first week on the road. The chosen locations gave the most in pledges to purchase from the LoMo Market. Here is the schedule that goes into effect next Wednesday.
 
-### Sundays
+## Sundays
 
 11:30am - 1:30pm New Horizon Church, Durham
 
-### Mondays
+## Mondays
 
 6:30pm - 8:30pm Croasdaile, Durham
 
-### Tuesdays
+## Tuesdays
 
 10:00am - 12:00pm UNC Wellness at Meadowmont, Chapel Hill
 
-### Wednesdays
+## Wednesdays
 
 10:00am - 12:00pm Rex Wellness Center, Cary
 
 6:30pm - 8:30pm Woodcroft, Durham
 
-### Thursdays
+## Thursdays
 
 6:30pm - 8:30pm Trinity Park, Durham
 

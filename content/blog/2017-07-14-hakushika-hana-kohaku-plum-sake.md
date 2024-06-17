@@ -34,7 +34,7 @@ The Hakushika Hana Kohaku Plum Sake is a smooth, sweet drink providing a pleasan
 [![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 3/5</div>
 
 
-##### Other Bloggers’ Thoughts
+## Other Bloggers’ Thoughts
 
 Couldn’t find any.
 

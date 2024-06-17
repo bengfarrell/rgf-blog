@@ -1,9 +1,9 @@
 ---
 title: "Black Spring Coffee Company *CLOSED*"
 date: "2016-04-21"
-categories: 
-  - "coffee-shops""
-tags: 
+categories:
+  - "coffee-shops"
+tags:
   - "black-spring"
   - "coffee"
   - "coffee-company"
@@ -16,7 +16,7 @@ tags:
   - "review"
 ---
 
-[![Black Spring Coffee Company](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-03-355x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-03.jpg) 
+[![Black Spring Coffee Company](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-03-355x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-03.jpg)
 
 2930 Telegraph Avenue
 Pill Hill, Oakland
@@ -32,7 +32,7 @@ Black Spring’s menu has a few fun innovations of its own.
 [![Black Spring Coffee Menu](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-02-500x350.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-02.jpg) Clever Coffee is a brewing technique that Stark has developed that combines French press and pourover. It takes a little tender loving care but provides an extra-smooth cup of joe. The Malabar is Black Spring’s iced coffee specialty, featuring two shots of espresso shaken up with a little milk and a little sugar.
 
 > [Behold, the Malabar, a shaken iced espresso drink just a little sweet. \_\_\_\_\_ #coffee #instacoffee #Oakland](https://www.instagram.com/p/BAiTq84wQuk/)
-> 
+>
 > A photo posted by Becca Gomez Farrell (@thegourmez) on Jan 14, 2016 at 2:22pm PST
 
 For most people who don’t drink their coffee black at least half the time, I’m sure the sugar amount is just fine, but for me, it’s honestly a little too much! Regardless, it’s a beautiful drink to watch meld together in the glass. Iced americanos are also an option if you’re craving something cold. I’ve also had a delicious, if sloppy, con panna.

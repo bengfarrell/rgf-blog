@@ -39,7 +39,7 @@ Sure, it's almost Christmas, but that's no reason to leave these wines behind wi
 
 [![phantom wine, bogle, winery, halloween wine, wine app, augmented reality, wine lapels, app, ghost story, tasting notes, wine review, phantom red blend, phantom chardonnay](https://thegourmez-wpmedia.s3.amazonaws.com/2019/12/Bogle-Phantom-009-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/12/Bogle-Phantom-009.jpg)Then the fun begins. The app creates a legitimately creepy atmosphere. You must complete a few easy puzzles with your phone first to unlock the stories. Here's me demonstrating how, though I apologize for how long it took me to get the compass's arrow situated just right—it's not easy shooting video on one phone while using an app on another!
 
-\[video width="281.5" height="500" mp4="https://thegourmez-wpmedia.s3.amazonaws.com/2019/12/Bogle-Phantom-015.mp4"\]\[/video\]
+<video width="281.5" height="500" controls src="https://thegourmez-wpmedia.s3.amazonaws.com/2019/12/Bogle-Phantom-015.mp4"></video>
 
 Once the puzzles are complete, you can view a few beautifully shot ghost stories as told by Bogle's own employees, with actor reenactments. The Phantom line of wines was inspired by both the Bogle brand's history (_bogle_ is a variant of _bogey_ and _boggart_) and the supernatural experiences some of their employees and members of the Bogle family have had at the Clarksburg property. How fun to engage with anytime of the year!
 

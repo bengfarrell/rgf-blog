@@ -1,9 +1,9 @@
 ---
 title: "Blogger Tips for Making a Media Kit"
 date: "2016-08-24"
-categories: 
+categories:
   - "announcements"
-tags: 
+tags:
   - "2016"
   - "austin-beeman"
   - "being-professional"
@@ -22,7 +22,7 @@ tags:
   - "wine-with-lisa"
 ---
 
-### **Why isn't this a Review, the Gourmez?**
+## **Why isn't this a Review, the Gourmez?**
 
 The wine blogging world is scrambling madly to assemble media kits after the recent Wine Bloggers Conference, and I wanted to do my part in providing references and helping to demystify the concept a bit. At my panel on the samples relationship between bloggers and wineries, media kits came up as one of the best ways bloggers can project professionalism and attract PR investment in our work, whether that be through companies vetting us as potential reviewers or actual monetary payment.
 
@@ -30,7 +30,7 @@ The wine blogging world is scrambling madly to assemble media kits after the rec
 
 The topic also came up in Austin Beeman's presentation on why wineries need the skills bloggers have, [which you can view here.](https://youtu.be/3tg5wRJ3dOM) It was on the lips of other presenters as well, so no time like the present to learn!
 
-### **So…What is a Media Kit?**
+## **So…What is a Media Kit?**
 
 Supplying media kits has long been standard practice for print magazines and newspapers in attracting advertising money. In that format, they've given circulation details, the scope of the brand, the types of advertising solicitations accepted, and the hallmarks of what makes their masthead special.
 
@@ -38,7 +38,7 @@ For bloggers, the same general idea is still in play, though media kits can be u
 
 The most important question to ask before you start, in my opinion, is what do you want your media kit to do for you? For me, the answer is make my blog more attractive to companies seeking review and promotions of their products, in particular wines, spirits, restaurants, related special events, and visitors' bureaus. Your answer may be attracting advertising dollars or freelance article opportunities. Whatever the case may be, keep that focus in mind as you write your copy and choose what images and facets of your blog to promote.
 
-### **So…How do I Make a Media Kit?**
+## **So…How do I Make a Media Kit?**
 
 Come close, and let me whisper in your ear…I just made my first! Although I have long had a lengthy About Me page and a list of media mentions and accolades on my website, I hadn't compiled them with my blog stats and my blog's biography into an attractive format. Leeann Froese of [Town Hall Brands](http://www.townhallbrands.com/) recently shared slides from a presentation she gave on the subject, which you can view here:
 
@@ -50,7 +50,7 @@ The single best resource I've found on understanding media kits and the differen
 
 In it, Deborah breaks down all the different types of press and media kits out there. For our purposes, there are three main types:
 
-### **The One Sheet**
+## **The One Sheet**
 
 The One Sheet media kit is the most common I've seen, and there are [a number](http://www.thenetworkniche.com/one-page-media-kit/) of [great articles](http://katywidrick.com/best-blogger-media-kits/) that provide samples of them. These are meant for handing out in person or for acting as a quick snapshot of your blog's statistics and collaboration opportunities. Make sure you include your own branding images, your headshot and biography, your social media stats, your blog stats, and your contact information.
 
@@ -62,7 +62,7 @@ To be honest, I find a lot of the one-pagers very loud in design--they want to m
 
 Jana, by the way, also designs media kits of all types through her [Geek Girl Digital](http://geekgirldigital.com/) company. Let her know you attended the 2016 Wine Bloggers Conference and she'll give you 25% off. Her usual rate is $100--that's a deal already! You can contact Jana at [jana@janaseitzer.com](mailto:jana@janaseitzer.com).
 
-### **The Full Media Kit**
+## **The Full Media Kit**
 
 Perhaps because of my dislike of the oft-crowded One Sheet, this is what I focused on making this past week. I'm attracted to this format because I want a media kit that I can easily attach to an email, which is how most of my interactions with PR firms take place. When I'm answering a call for samples or pitching an idea to a company, I want to quickly add that attachment and up my credibility. Plus the longer format gives me more of a chance to highlight my photography, which makes me more attractive for potential collaborations.
 
@@ -80,7 +80,7 @@ Wine blogger and paella chef [Lisa Cascio Mays](mailto:http://winewithlisa.com/m
 
 [Francesca of the Sits Girls](mailto:http://www.thesitsgirls.com/make-money/what-is-a-media-kit/) and [Melissa of Blog Clarity](http://www.blogclarity.com/10-inspiring-media-kits-from-bloggers/) have great, in-depth posts and tips for the full media kit.
 
-### **The Online Media Kit**
+## **The Online Media Kit**
 
 This kit will be hosted on your website as a subsection. It will include all the information in the full media kit, but it should be designed to fit within your website itself. The press clippings and accolades I've had listed on my website are the beginnings of an online media kit, but you can be as completist as you want with this one, including as many attractively arrayed page and social statistics, advertising rates and specs, sponsorship potentials, sample policies, media mentions, and more of everything you'd like a PR company to consider before contacting you. Think of it as giving PR the keys to the castle, i.e., all your headshots, your logos, anything their hearts could desire. Each section should have its own page, and a download button for combining all of the pages into a PDF is a must. Rolling Stone has a great media kit online--hit [the home page for it here](http://www.srds.com/mediakits/rollingstone/index.html) and make sure you browse through all their sections for ideas.
 

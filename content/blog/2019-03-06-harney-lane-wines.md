@@ -16,9 +16,9 @@ tags:
 
 **Region:** Lodi, CA
 
-##### _Obligatory disclaimer: All wines mentioned in this blog were free to me for review._
+## _Obligatory disclaimer: All wines mentioned in this blog were free to me for review._
 
-##### The Winery:
+## The Winery:
 
 Harney Lane Winery and Vineyards stands on farmland owned by the Mettler family since 1900. Currently, its proprietors are Jorja and Kyle Lerner and Jorja's mother, Kathy Mettler. The Mettler's history with the Harney Lane fields goes back five generations, though they did not start making their own wines from their grapes until 2006.
 
@@ -32,7 +32,7 @@ I was first introduced to Harney Lane wines at the [2016 Wine Bloggers Conferenc
 [![harney lane, wines, vineyards, lodi wine](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Screenshot_2019-02-28-HARNEY-LANE-Google-Search-500x250.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/Screenshot_2019-02-28-HARNEY-LANE-Google-Search.png) Image via Harney Lane's website.</div>
 
 
-##### The Wines:
+## The Wines:
 
 The past two years since becoming acquainted with Harney Lane, I've tried their unique and earthy [2014 "Lizzy James" Old Vine Zinfandel](http://thegourmez.com/2018/01/04/old-vine-zinfandel-2017-releases-from-lodi-ca/) and their beautifully acidic, seafood-loving [2015 Albariño](https://www.vivino.com/harney-lane-lodi-albarino/w/1651491?year=2015). So I was happy to sample their **2017 Harney Lane Chardonnay,** though chardonnay is generally not my favorite wine grape.
 

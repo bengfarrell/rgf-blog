@@ -1,10 +1,10 @@
 ---
 title: "Port Pairing for Halloween"
 date: "2016-10-24"
-categories: 
+categories:
   - "recipes"
   - "wine"
-tags: 
+tags:
   - "butter-toffee-nuts"
   - "cockburns"
   - "cockburns-special-reserve"
@@ -27,7 +27,7 @@ Halloween is my favorite time of year and port is close to my favorite type of w
 
 The three port samples I received are from the Symington Family Estates, and they are luckily widely available in the US, so you shouldn’t have trouble hunting them down in your local grocery store or wine retailer as long as they haven’t been ensorcelled. Sure, all the ports can be enjoyed on their own, but travel in twos for safety, trick-or-treaters! Halloween’s more fun when you don’t have to go it alone.
 
-#### Dow 2011 Late Bottled Vintage Port Pairing
+## Dow 2011 Late Bottled Vintage Port Pairing
 
 [![dow's 2011 late bottled vintage port](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Port-Halloween-1-of-21-309x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Port-Halloween-1-of-21.jpg)
 
@@ -47,7 +47,7 @@ I used _Closet Cooking’s_ [Chocolate-Covered Strawberry Brownie](http://www.cl
 
 This port was made for a dessert such as these brownies, so covered in berries that juice seeps out of the cake. Just don’t attempt to eat them with your fingers, or your hands may end up looking like their own crime scene.
 
-#### Cockburn’s Special Reserve Port Pairing
+## Cockburn’s Special Reserve Port Pairing
 
 [![Cockburn''s Special Reserve Port](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Port-Halloween-5-of-21-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Port-Halloween-5-of-21.jpg)
 
@@ -57,7 +57,7 @@ Cockburn’s Special Reserve Port ($18) has a strong nose of blackberry jam. In 
 
 Stud some oranges with cloves—I went for mandarin—then roast them while preparing an easy spiced brown-sugar syrup. Add the port, a quarter cup of orange juice, warm all around and enjoy! Mulling the port isn’t the same as pairing it, of course, but I’d argue that the added flavors work quite well to augment the Cockburn’s Special Reserve appeal, as a good pairing should. The oranges give it a nice lift, and the brown-sugar syrup brings out its spicier side, which prefers to lurk in the shadows. As a bonus, the thickened mouthfeel is sure to soothe any wanderings souls.
 
-#### Graham’s 10-Year-Old Tawny Port Pairing
+## Graham’s 10-Year-Old Tawny Port Pairing
 
 [![Graham's 10 year tawny port](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Port-Halloween-9-of-21-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Port-Halloween-9-of-21.jpg)
 

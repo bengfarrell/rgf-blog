@@ -1,4 +1,4 @@
-![A row of ships offshore from a sandy beach](img/sections/travelguide.jpg "Travel Guide"
+![A row of ships offshore from a sandy beach](/img/sections/travelguide.jpg) "Travel Guide"
 My travelogues tend to follow my day’s schedule when I’m out exploring. I chronicle my meals and sweet treats along with tourist sites worth checking out, including hiking trails. Sometimes, I may include just one particular trip highlight; other times, I’ll include several so you can make a day trip out of them.
 
 I’ve written fewer travelogues in recent years, as I’ve tried to focus on having a nice time while vacationing (imagine that!), rather than contemplating how I’ll write up my experiences for this blog. That said, some locations simply compel me to share them with my readers! Plus, I do so like sharing my photographs. It’s like having an audience for vacation slide shows that actually choose to see them by clicking on the post.

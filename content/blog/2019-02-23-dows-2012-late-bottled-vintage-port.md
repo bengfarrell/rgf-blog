@@ -17,13 +17,13 @@ tags:
 
 [![dow's, late bottled vintage, port, 2012](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153207-351x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153207.jpg)
 
-##### The Review
+## The Review
 
 _Obligatory disclaimer: This bottle was free to me for review._
 
 Ports like the **Dow's 2012 Late Bottled Vintage Porto** are why I know I must take a tour of the Douro Valley someday. Rosy floral notes wind through the labyrinth of a cut open fig—you can taste its seeds. Golden raisins make friends of toffee walnuts. _Mmmm_. I can only salivate over how those nut notes will deepen with age. For $24, it's quite a value and also unexpectedly dark for a port.
 
-##### My Rating:
+## My Rating:
 
 
 
@@ -33,7 +33,7 @@ Ports like the **Dow's 2012 Late Bottled Vintage Porto** are why I know I must t
 [![](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif)](https://thegourmez-wpmedia.s3.amazonaws.com/2009/02/rating_truffle1.gif) 4.5/5</div>
 
 
-##### Other Bloggers Thoughts
+## Other Bloggers Thoughts
 
 [Appetite for Wine](https://appetiteforwine.blog/2018/10/21/review-dows-2012-late-bottled-vintage-porto/)
 

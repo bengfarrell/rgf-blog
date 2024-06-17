@@ -42,7 +42,7 @@ Thus, I’ll be offering up a series of suggestions on what you should seek out 
 
 My initial focus will be on the all-important stomach and where you can fill it in between wine tours or a kayaking jaunt. Ah, who am I kidding? Filling your stomach is a worthwhile activity all on its own! And in Lodi, finding the best specialty food vendors can be an exciting adventure by itself.
 
-##### Vino di Vita Patio Pairings at Viaggio
+## Vino di Vita Patio Pairings at Viaggio
 
 [Viaggio Estate and Winery](http://www.viaggiowinery.com/viaggiowinery/) isn’t hard to find (100 E. Taddei Road), though it is a 7-mile drive out of town and into the Acampo area. Rather, it’s Viaggio’ s amazing food that’s hard to experience as it’s only available on Friday evenings and weekend afternoons! Which is a shame, because talent as strong as Chef Bernardo Martinez’s needs to be appreciated every day of the week.
 
@@ -74,7 +74,7 @@ It tasted so much better than most chocolate wines, with an appealing chocolate-
 
 As mentioned, you can catch Chef Martinez’s artistry at the Vino di Vita Patio Pairings on Friday nights and weekend afternoons: expect him to wow you with oysters, pizza, and wine pairings. Or if you’re lucky enough to be visiting on 8/12/2017, you can [purchase tickets](http://shop.viaggiowinery.com/res-401149/2017-Winemakers-Dinner.html) to a four-course Winemaker’s Dinner of your own for $75.
 
-##### Cheese Tasting at Cheese Central
+## Cheese Tasting at Cheese Central
 
 I didn’t see Cheese Central for myself this trip, but I did see the passion of its proprietor, Cindy Della Monica, at Calturas Winery and Brewery, where we enjoyed a cheese and wine pairing course to start off our weekend. Calturas’s wines will be somewhat harder to find soon, as they’ve just sold their tasting room, which was quirkily housed in a remodeled auto mall.
 
@@ -116,7 +116,7 @@ That wine made me feel as though on a stakeout in the rugged mountains, waiting 
 
 You can currently seek out [Calturas wines](https://www.calturas.com/) online or at their quarterly wine release parties. Cheese Central is open seven days a week, though with limited hours on Sundays. Say hi to Cindy for me!
 
-##### Olive Oil Tastings by Olive Drop
+## Olive Oil Tastings by Olive Drop
 
 [The Olive Drop Olive Oil Company](http://www.olivedropoliveoil.com/), formerly Cecchetti Olive Oil, doesn’t have a sign, so it took me several drive-bys to realize that yes, Google was right and that driveway covered by olive trees was where I needed to be for this tasting.
 
@@ -154,7 +154,7 @@ Although such a personal tasting is likely not available for all visitors to Lod
 
 [![olive drop chile chili oil lodi food](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-133-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Visit-Lodi-133.jpg)
 
-##### Find Your Slice at the Dancing Fox
+## Find Your Slice at the Dancing Fox
 
 While finding [the Dancing Fox](http://www.dancingfoxwinery.com/) isn’t difficult, with its convenient downtown Lodi location (203 School Street), finding your favorite pizza will be! This is _the_ place to go when you need carbs to soak up all those wine calories…and maybe a little more wine or beer to increase your deficit. 😉
 

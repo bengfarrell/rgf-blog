@@ -12,7 +12,7 @@ tags:
   - "wine"
 ---
 
-##### The History
+## The History
 
 Last spring, I had the pleasure of visiting [Bodegas Aguirre Winery](https://www.bodegasaguirre.com/) for the first time. _Obligatory disclaimer:_ This was an invitation extended to media, and thus, free to me.
 
@@ -40,7 +40,7 @@ From there, Aguirre's passion only grew, and the winery has an amazing selection
 
 [![Bodegas Aguirre, wine, livermore](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_150103-500x454.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_150103.jpg)Bodegas Aguirre has also recently added a 50/50 blend of chardonnay and semillion. I, and a few fellow wine writers, was treated to a tasting of their library wines along with current releases from Bodegas Aguirre. The winery's philosophy is "to produce handcrafted wines with softly integrated tannins to be enjoyed young or save in your wine cellar to continue to develop gracefully in the bottle. We strive for wines of balance, wines of interest, and wines that will excite your taste buds." For me, they've certainly succeeded at that, especially in terms of interest and drinkability now.
 
-##### [![Bodegas Aguirre, wine, livermore](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_135338-500x375.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_135338.jpg)The Wines
+## [![Bodegas Aguirre, wine, livermore](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_135338-500x375.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_135338.jpg)The Wines
 
 The oldest wines we sampled were a 2001 field blend and a 2002 Estate Merlot. Both went smashingly with a paired plate of smoked duck breast, duck salami, and ribeye.
 
@@ -74,11 +74,11 @@ For the record, my compatriots all loved the **2017 Bodegas Sylvia Ros****é** a
 
 [![Bodegas Aguirre, wine, livermore, rose](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_142048-375x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_142048.jpg)But it has now! So if you're a rosé lover, you may want to check it out. It just wasn't a preferred style of rosé for me. Visit [the tasting room](https://www.bodegasaguirre.com/location/) to purchase.
 
-##### The Label
+## The Label
 
 [![Bodegas Aguirre, wine, livermore, duo](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_152020-360x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_152020.jpg)The artwork that adorns each Bodegas Aguirre bottle comes from El Salvador's Carlos Caña, a painter. They feature an artist-approved adaption of the work "Children Playing with Balls" and provide a distinctive look.
 
-##### To Visit
+## To Visit
 
 Bodegas Aguirre does not currently offer wine pairing options for a regular visit, though I've encouraged them to after our experience with their delightful appetizer selections. But the winery is eager and able to plan food for special events. The tasting room is open to the public on weekends between 12 pm and 4:30 pm. For $10, explore five Bodegas Aguirre current releases and likely a dessert wine. Don't forget to grab some of the library wines on your way out, often on sale, for a fun surprise when you open them later at home!
 
