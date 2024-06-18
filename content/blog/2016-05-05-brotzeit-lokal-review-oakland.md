@@ -21,9 +21,9 @@ tags:
   - "views"
 ---
 
-1000 Embarcadero
-Brooklyn Basin, Oakland
-[Website](http://brotzeitbiergarten.com/)
+1000 Embarcadero\
+Brooklyn Basin, Oakland\
+[Website](http://brotzeitbiergarten.com/)\
 $10–$28
 
 Brotzeit Lokal is memorable for more than being a mouthful to pronounce. We all love beer gardens, right? So what makes a beer garden even better? A beautiful view!

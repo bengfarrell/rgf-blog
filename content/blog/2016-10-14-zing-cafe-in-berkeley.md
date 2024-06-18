@@ -25,10 +25,11 @@ tags:
   - "zing"
 ---
 
+3051 Adeline St.\
+Ashby, Berkeley
+
 [![Zing! Cafe Berkeley](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Zing-Cafe-07-500x369.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Zing-Cafe-07.jpg)
 
-3051 Adeline St.
-Ashby, Berkeley
 
 Zing Café is located in the Marmot Mountain Works suite of buildings, a really unique complex done in old Storybook style right across the street from the Ashby BART station. The Marmont Mountain Works has been defunct for a number of years now—
 

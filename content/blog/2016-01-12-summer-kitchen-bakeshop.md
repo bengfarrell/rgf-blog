@@ -21,9 +21,9 @@ tags:
 
 [![Summer-Kitchen-03](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/Summer-Kitchen-03-349x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/Summer-Kitchen-03.jpg)
 
-2944 College Avenue
-Elmwood, Berkeley
-[Website](http://summerkitchenbakeshop.com/)
+2944 College Avenue\
+Elmwood, Berkeley\
+[Website](http://summerkitchenbakeshop.com/)\
 $7.50–$21.00
 
 I’ve wanted to try Summer Kitchen + Bakeshop for quite some time, but it is always flush with people, especially because there is little seating for what is obviously a popular shop. I prefer to enjoy good food right where I am, but the long countertop is only wide enough to fit maybe a foot’s width of plate, so I wouldn’t recommend it unless you like your meals cramped. Sitting at the handful of tables occasionally requires brushing your ass past the other customers, but a sunny corner is nice if you don’t mind being familiar. I’d call that design a “grab-n-go” aesthetic.

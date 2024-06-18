@@ -20,7 +20,7 @@ tags:
 
 _Obligatory disclaimer: These wines from [Bravante Vineyards](http://www.bravantevineyards.com/) were free for my review._
 
-## [![bravante, vineyards, bravante wines, cellars, cabernet sauvignon, trio, red wine blend, bordeaux, napa valley, howell mountain, tasting notes, review](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153533-500x402.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153533.jpg)
+[![bravante, vineyards, bravante wines, cellars, cabernet sauvignon, trio, red wine blend, bordeaux, napa valley, howell mountain, tasting notes, review](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153533-500x402.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_153533.jpg)
 
 ## The Winery
 

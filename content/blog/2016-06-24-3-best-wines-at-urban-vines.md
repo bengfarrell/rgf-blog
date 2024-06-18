@@ -32,7 +32,7 @@ This year's Urban Vines featured five winemakers and an equal amount of clothing
 
 And now, the best of the bunch, at least according to my taste buds!
 
-**1\. Paul Charles Malbec 2012 - 5/5**
+## 1\. Paul Charles Malbec 2012 - 5/5
 
 [![Paul Charles Malbec](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Paul-Charles-Malbec-375x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Paul-Charles-Malbec.jpg)
 
@@ -40,7 +40,7 @@ I loved this malbec, which pleased me all the more after having tasted a spate o
 
 I love it all the more for coming out of Lodi, an oft-overlooked, but highly productive, wine region I'll be visiting in August for the next WBC. This wine is [**available now, right here**](http://charleswineco.com/products/malbec-2012) for $20.
 
-**2\. P. Harrell 2013 Haight Street Riesling - 4.5/5**
+## 2\. P. Harrell 2013 Haight Street Riesling - 4.5/5
 
 ![P Harrell Riesling](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/p-harrell-375x500.jpg)
 
@@ -48,7 +48,7 @@ This wine is named for the Haight Street, San Francisco, property that winemaker
 
 The grapes come from Cole Ranch in Alexander Valley. [Buy it here](http://pharrellwines.com/index.php/wines/) for only $23.
 
-**3\. Earl Stevens Function Red Blend 2013 - 4/5**
+## 3\. Earl Stevens Function Red Blend 2013 - 4/5
 
 [![Earl Stevens Function Red](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/earlstevensfunctionred-281x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/earlstevensfunctionred.jpg)
 

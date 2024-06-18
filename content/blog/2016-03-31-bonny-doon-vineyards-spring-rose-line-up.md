@@ -28,7 +28,7 @@ I decided a tasting from lightest colored to darkest colored would be best, but 
 
 Let’s begin.
 
-**2015 Vin Gris de Cigare**
+## 2015 Vin Gris de Cigare
 
 Randall Grahm has been making Vin Gris de Cigare rosés since well before the first time I sampled one in their tasting room, a few years after graduating from UCSC in the early ‘00s. It’s very light in color with the merest suggestion of a blush.
 
@@ -40,7 +40,7 @@ Incredibly restrained and tightly bound, it makes me think of Easter candy, perh
 
 Friend #1 thought it really good. Friend #2 felt it strongly reminded her of Jolly Ranchers. Friend #3 said, if he had to pick one of the four rosés to drink forever, it would be this one_. $18, available most places you can find Bonny Doon Vineyard wines [and here.](http://shop.bonnydoonvineyard.com/product/2015-Vin-Gris-de-Cigare?pageID=005B07ED-AA57-89D2-C58B-410BF773C12E&sortBy=DisplayOrder&maxRows=100&)_
 
-**2015 A Proper Pink**
+## 2015 A Proper Pink
 
 Grahm’s tasting notes for this 69% tannat and 31% cabernet franc blend call it an “homage to the Middle Ages Cool style of clairet…while the Vin Gris de Cigare is intended for more sober-minded occasions, this is definite the less buttoned up in style.” That was apparent from the moment I poured a glass.
 
@@ -52,7 +52,7 @@ A Proper Pink has a rich strawberry nose, so rich, I’d called it mulled. The m
 
 Friend #2 found the finish rough and didn’t like the wine. Friend #4 thought it smelled how the Vin Gris de Cigare tasted,or like a mediocre agua fresca. It tickled the top of her mouth and ran off scared. Friend #3 enjoyed the nose but felt the wine itself did not deliver on that promise. Friend #5 thought it nice and smooth, especially in comparison to the 2015 Il Ciliegiolo Rosato. _$16, available most places you can find Bonny Doon wines [and here](http://shop.bonnydoonvineyard.com/product/2015-A-Proper-Pink)._
 
-**2015 Il Ciliegiolo Rosato**
+## 2015 Il Ciliegiolo Rosato
 
 This 100% ciliegiolo wine started out as a red, but the winemaker soon caught it blushing. Perhaps as a result, the wine is deep cardinal red.
 
@@ -64,7 +64,9 @@ It smells of sweet flowers but is remarkably similar in flavor profile to A Perf
 
 Friend #1 describes the Il Ciliegiolo Rosato as having a grassy, strawberry, and watermelon nose. Thus far, he thought all the wines would be good for serving to his mother -- take that as you will. Friend #2 found that it grew on her, and she especially enjoyed it with a handful of blackberries. Friend #5 declared this to be her favorite and thought it had a good kick. Friend #3 suggested mixing a little of it together with A Proper Pink to make a better wine overall. All I’m saying about any such experimentation is that he may be onto something…_$24, available only to wine club members. Become one, and you can [order it here](http://shop.bonnydoonvineyard.com/product/2015-Il-Ciliegiolo-Rosato?pageID=005B07ED-AA57-89D2-C58B-410BF773C12E&sortBy=DisplayOrder&maxRows=100&)._
 
-And finally, the **2013 Vin Gris Tuilé.**
+And finally, the . . .
+
+## 2013 Vin Gris Tuilé
 
 In terms of body, coloring, and an anything goes spirit, this wines reminds me a lot of that new hot ticket item, orange wine. Vin Gris Tuilé calls the challenge of unconventional winemaking processes and doubles down by setting a blush wine out in full sun for nine months, letting ultraviolet radiation do the trick of killing microorganisms and producing a stable wine.
 
@@ -78,7 +80,7 @@ Everyone had strong opinions on this wine, which is why I’m glad I placed it l
 
 Not everyone leaned toward dislike. My husband arrived just in time to try it, and he thought it sherry upon first sip, which lends credence to the nuttiness listed in the official tasting notes. Friend #2 preferred it to all the other options. It reminded her of radishes and curry with a sweet finish. She helped me brainstorm the potential fruit notes I couldn’t put my finger on. Mangosteen? Rambutan? All potentials along with the citrus I listed previously. _$20, [online here](http://shop.bonnydoonvineyard.com/product/2013-Vin-Gris-Tuile?pageID=005B07ED-AA57-89D2-C58B-410BF773C12E&sortBy=DisplayOrder&maxRows=100&). Otherwise for wine club members only._
 
-**In Summary**
+## In Summary
 
 Friend #1: There’s a reason I drink cabernet.
 

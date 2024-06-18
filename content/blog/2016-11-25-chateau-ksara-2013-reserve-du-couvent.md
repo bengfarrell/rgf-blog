@@ -14,8 +14,7 @@ tags:
   - "tasting-notes"
 ---
 
-**Château Ksara 2013 Reserve du Couvent**
-Bekaa Valley, Lebanon
+**Region:** Bekaa Valley, Lebanon
 
 [![Chateau Ksara Reserve du Couvent Review](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Chateau-ksara-1-282x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Chateau-ksara-1.jpg)
 

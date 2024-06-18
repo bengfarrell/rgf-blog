@@ -27,9 +27,9 @@ tags:
   - "turkey"
 ---
 
-**The Lunchpad @ Noir Lounge**
-581 Hayes Street Hayes Valley, San Francisco
-$6.50 - $13.00
+581 Hayes Street\
+Hayes Valley, San Francisco\
+$6.50–$13.00
 
 _Obligatory disclaimer: This post is based on a media event held by the Lunchpad, so portions are sized down and it was all free to me._
 

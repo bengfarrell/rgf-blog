@@ -80,7 +80,7 @@ This pinot blanc, not to be confused with the White Pinot Noir that Left Coast C
 
 Care to take a hike? The Left Bank Pinot Blanc 2014 may just inspire you to — after breakfast.  But there are even more options among the ancient pinot noir clones from Left Coast Cellars’ vineyards…
 
-**Left Coast Cellars Pinot Gris 2015**
+## Left Coast Cellars Pinot Gris 2015
 
 [![Left Coast Cellars Left Bank Pinot Gris](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Left-Coast_07-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Left-Coast_07.jpg)
 

@@ -96,7 +96,7 @@ You can have the same experience I had! Or at least a facsimile of it. Pure Leaf
 [![summer strawberry soup spqr](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-18-500x399.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-18.jpg) Chef Accarrino garnishing the summer soup with basil oil.</div>
 
 
-**Chilled Summer Soup**
+## Chilled Summer Soup
 
 _By Matthew Accarrino_
 
@@ -106,7 +106,19 @@ YIELD: 7-8 servings (8 oz)
 
 **FOR THE SOUP**
 
-1 quart tomato, diced 1 cup cucumber, peeled and seeded 3/4 cups red bell pepper, diced 1/2 cup onion, diced 1 cup strawberry, diced 1/2 garlic clove 1/4 jalapeno, seeded 1/4 cup basil leaves 1/4 cup country bread, crustless, cubed 1 tablespoon kosher salt 1/4 cup olive oil 1 tablespoon sherry vinegar 3/4 cups Pure Leaf Tea House Collection™ Sicilian Lemon & Honeysuckle
+1 quart tomato\
+diced 1 cup cucumber, peeled and seeded\
+3/4 cups red bell pepper\
+diced 1/2 cup onion\
+diced 1 cup strawberry\
+diced 1/2 garlic clove\
+1/4 jalapeno, seeded\
+1/4 cup basil leaves\
+1/4 cup country bread, crustless, cubed\
+1 tablespoon kosher salt\
+1/4 cup olive oil\
+1 tablespoon sherry vinegar\
+3/4 cups Pure Leaf Tea House Collection™ Sicilian Lemon & Honeysuckle
 
 Combine all ingredients and rest overnight, minimum 4 hours, in refrigerator. Blend finely.
 

@@ -30,7 +30,7 @@ Though all the dishes Accarrino provided were tasty, my favorite actually didn't
 
 ![waygu roast beef spqr](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-10-500x334.jpg)
 
-> **SLOW ROAST BEEF and CHARRED VEGETABLES**
+> ## SLOW ROAST BEEF and CHARRED VEGETABLES
 >
 > _By Matthew Accarrino_
 >
@@ -40,44 +40,28 @@ Though all the dishes Accarrino provided were tasty, my favorite actually didn't
 >
 > **FOR THE RUB** 
 >
-> 1 cup brown sugar
->
-> 3/4 cup smoked paprika
->
-> 1 1/4 tablespoons black pepper, ground
->
-> 1 1/4 tablespoons salt
->
-> 3/4 teaspoons smoked chili powder
->
-> 1 tablespoon garlic powder
->
-> 3/4 tablespoon onion powder
->
+> 1 cup brown sugar>
+> 3/4 cup smoked paprika>
+> 1 1/4 tablespoons black pepper, ground>
+> 1 1/4 tablespoons salt>
+> 3/4 teaspoons smoked chili powder>
+> 1 tablespoon garlic powder>
+> 3/4 tablespoon onion powder>
 > 3/4 teaspoon cayenne powder
 >
-> Mix to combine. Rub meat with mixture generously and let stand for 1 hour. Slow roast uncovered on a rack in a 200-degree oven until tender, about 3-5 hours.
+> Mix to combine. Rub meat with mixture generously and let stand for 1 hour. Slow roast uncovered on a rack in a 200-degree oven until tender, about 3-5 hours.\
 >
 > **FOR THE CHARRED VEGETABLE CONDIMENT**
 >
-> 1/2 small jalapeno
->
-> 1 1/2 garlic cloves
->
-> 1/2 large white onion, peeled
->
-> 1/4 fennel bulb
->
-> 1 plum tomato
->
-> 1/2 medium carrot, peeled
->
-> 1/8 cup olive oil
->
-> 1 lime, juiced
->
-> 1 tablespoon salt, as needed
->
+> 1/2 small jalapeno>
+> 1 1/2 garlic cloves>
+> 1/2 large white onion, peeled>
+> 1/4 fennel bulb>
+> 1 plum tomato>
+> 1/2 medium carrot, peeled>
+> 1/8 cup olive oil>
+> 1 lime, juiced>
+> 1 tablespoon salt, as needed>
 > 5 turns pepper, as needed
 >
 > Rough cut all vegetables to roughly the same size. Place in a bowl and toss with oil. Lay on a foil-lined tray and broil until charred and caramelized. Transfer to a blender and blend with the lime juice. If the mixture is dry, add a splash of water or tea to get it blending.

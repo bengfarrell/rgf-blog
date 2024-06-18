@@ -20,9 +20,9 @@ tags:
 
 [![Telegraph Beer Garden Murals](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Telegraph-04-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Telegraph-04.jpg)
 
-2318 Telegraph Avenue
-Uptown, Oakland
-[Website](http://telegraphoakland.com/)
+2318 Telegraph Avenue\
+Uptown, Oakland\
+[Website](http://telegraphoakland.com/)\
 $9–$17
 
 I can’t tell you how many times I’ve walked past Telegraph Beer Garden and never been entirely sure there’s anything there. That’s because I’m usually trekking into downtown Oakland a little before their weekday hours begin, so all I see is a big, black gate, a peeling sign, and a few windows I can’t peer through.

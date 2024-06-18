@@ -27,9 +27,9 @@ tags:
 
 ![Golden Garlic San Jose](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Golden-Garlic-01-500x486.jpg)
 
- 1530 S. De Anza Blvd
- Calabazas South, San Jose
- [Website](http://www.goldengarlics.com/)
+ 1530 S. De Anza Blvd\
+ Calabazas South, San Jose\
+ [Website](http://www.goldengarlics.com/)\
  $9–$16
 
 I don't get invited out to San Jose restaurants often, being as I live in the East, rather than South, Bay. But after Golden Garlic reached out to me, I headed to their website, and the pictures convinced me this spot was worth a trip. The De Anza location is one of two Golden Garlics opened in the past three years by Eddie Lu. Co-owner and chef David Dai, whom Eddie met while living in China, concentrates on two types of Chinese cuisine, Sichuan and Tianjin. Tianjin is what he knows best, and Golden Garlic can boast of being the first Bay Area restaurant to offer that type of Chinese cuisine. Be sure, if you go, that you ask for the chef's specialty dishes! I had Eddie on hand to recommend them to me, and you don't want to miss out on the best this restaurant has to offer.

@@ -23,10 +23,8 @@ tags:
   - "wildcat"
 ---
 
-## The Ivy Room
-
-860 San Pablo Avenue
-Albany, CA
+860 San Pablo Avenue\
+Albany, CA\
 [Website](http://ivyroom.com/)
 
 Back in March, I visited the Ivy Room soon after its [redesign and re-opening](http://thegourmez.com/2016/03/29/ivy-room-albany-review/). Since then, they have added specialty cocktails to their full bar, and whichever bartender has developed them deserves a raise!

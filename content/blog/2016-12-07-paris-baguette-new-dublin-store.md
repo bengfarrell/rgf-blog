@@ -29,8 +29,7 @@ tags:
 
 [![Paris Baguette Dublin](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_45-500x326.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ParisBaguette_45.jpg)
 
-**Paris Baguette**
-7150 Regional Street
+7150 Regional Street\
 Almond Plaza, Dublin
 
 _Obligatory disclaimer: This was an invited visit to Dublin's Paris Baguette and thus, all food and drink was free to me._

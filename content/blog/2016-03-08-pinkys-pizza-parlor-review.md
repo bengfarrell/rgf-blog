@@ -21,9 +21,9 @@ tags:
 
 [![Pinky's Pizza Walnut Creek](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Peppers_Pizzza_11-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Peppers_Pizzza_11.jpg)
 
-2085 N. Broadway
-Walnut Creek
-[Website](http://pinkyspizzawc.com/)
+2085 N. Broadway\
+Walnut Creek\
+[Website](http://pinkyspizzawc.com/)\
 $5–$20
 
 Pinky’s Pizza Parlor is a neighborhood joint worth leaving your neighborhood for. Two of our good friends are regulars, drawn in by the amazing bar specials Pinky’s runs, and we’ve joined them a number of times. On a Sunday, go for the $2 bloody marys. On a Thursday, get any draft beer for the same price, including their half-dozen craft options. I won’t even mention the deals on pitchers.

@@ -18,7 +18,9 @@ tags:
 
 ABV: 12.5%
 
-## [![milk & honey, liqueur, date honey, dates, cream, review](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-001-500x495.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-001.jpg)The Liqueur
+[![milk & honey, liqueur, date honey, dates, cream, review](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-001-500x495.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-001.jpg)
+
+## The Liqueur
 
 I first heard about Milk & Honey in 2015, when Justin Lubin, who developed the liqueur, contacted me to taste test it. **Obligatory disclaimer:** The bottle I'm reviewing was sent as a thank you gift from Lubin for my participation in that early stage of its development. It was good then, and it's good now, after its release to the public.
 

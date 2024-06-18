@@ -17,9 +17,9 @@ tags:
   - "ribs"
 ---
 
-3415 Telegraph Ave.
-Pill Hill, Oakland
-[Website](http://www.phatmattsbbq.com/)
+3415 Telegraph Ave.\
+Pill Hill, Oakland\
+[Website](http://www.phatmattsbbq.com/)\
 $12.50–$16.99
 
 Phat Matt’s BBQ is an Oakland favorite for the quality and variety of smoked barbecue served. It’s a family-run restaurant, the type where the owners are happy to guide you through the menu of six standard meat preparations. A rotating special appears every week -- it’s smoked pastrami according to their website right now, and it was roasted steak tips with Carolina gold sauce when we went. The space itself is much more inviting than you might think simply passing by. The décor is classic rock and Oakland Raiders appreciation -- I wonder if that last part will remain for long...

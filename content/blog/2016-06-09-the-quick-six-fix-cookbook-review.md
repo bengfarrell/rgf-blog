@@ -34,25 +34,25 @@ The book begins with O’Keeffe’s cooking experience, from learning that food 
 
 That’s it for the book’s front material. The back contains meal plans and themed menus, but I haven’t taken a look at those. I never do. What I _do_ do is cook! I tried out four recipes from _the Quick Six Cookbook_, and they provided solid dinners that looked and tasted more refined than the amount of work involved would suggest.  But I did have a couple quibbles…
 
-**Pork Curry in a Hurry**
+## Pork Curry in a Hurry
 
 [![Pork Curry in a Hurry](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Quick-6-07-360x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Quick-6-07.jpg)
 
 An easy, flavor-packed dish, in large part because of the healthy dose of curry powder involved. I was surprised by how tender the pork came out; a sauté isn’t the most moisture-preserving technique, but I think the rub created a good seal. The raisins are key in this dish, as they provide a burst of sweetness that soothes the curry fire. My yellow Madras curry powder is extra hot.
 
-**Angel Hair with Lemon, Kale, and Pecans**
+## Angel Hair with Lemon, Kale, and Pecans
 
 [![Angel Hair with Lemon Kale Pecans](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Quick-6-09-459x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Quick-6-09.jpg)
 
 This was the least successful dish, entirely because it needed more sauce to keep it from being essentially dry, plain pasta. The answer to that challenge is not in adding more olive oil and lemon juice, which are the only sauce ingredients. Rather, it needs something like a light cream sauce or a rosé wine sauce, nothing too strong as you want the kale and pecan to shine through, but something that asserts its own personality. The kale and pecan’s contrasting flavors create the base for what’s close to being a pleasant meal. Just needs that little sumthin’ sumthin’ extra.
 
-**Parmesan Broccolini**
+## Parmesan Broccolini
 
 [![Parmesan Broccolini](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Quick-6-11-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Quick-6-11.jpg)
 
 The broccolini turned out great roasted at 15 minutes. I was surprised by the lack of seasonings included in the instructions, but the parmesan provided plenty of salt on its own, and the broccolini really excelled under lemon’s power of accentuation. Super easy, and a great combination of flavors. It also went well with…
 
-**Thirteen-Spice Chicken with Crème Fraiche**
+## Thirteen-Spice Chicken with Crème Fraiche
 
 [![Thirteen Spice Chicken with Creme Fraiche](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Quick-6-13-500x337.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Quick-6-13.jpg)
 
@@ -70,7 +70,7 @@ I have no hesitation recommending _the Quick Six Fix_ cookbook as the instructio
 
 And you can find that free recipe right here:
 
-MUSTARD-CRUSTED PORK with APPLE CABBAGE SLAW
+## MUSTARD-CRUSTED PORK with APPLE CABBAGE SLAW
 
 [![Quick Six FIx Mustard Pork Apple Cabbage](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/044_mustardcrustedpork-357x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/044_mustardcrustedpork.jpg)
 

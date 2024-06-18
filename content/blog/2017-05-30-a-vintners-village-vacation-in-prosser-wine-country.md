@@ -36,7 +36,7 @@ A surefire way to enjoy a visit to Prosser Wine Country, the central Washington 
 
 This absolute gem of a location is spread out over 32 acres and home to 10 tasting rooms linked by easy walking trails and streets named Merlot, Port, and Cabernet. In short, it’s the lazy man’s wine destination, and as someone who knows that relaxing and imbibing is the aim of most sane people’s vacations (Note: I do not regularly qualify as one of those people), it’s sure to appeal to many wine lovers.
 
-## **The Winemakers Loft**
+## The Winemakers Loft
 
 [![vintner's village winemakers loft](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/WinemakersStudio2-500x170.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/WinemakersStudio2.jpg)
 
@@ -52,7 +52,7 @@ That picture is of the patio out front of [the Winemakers Loft](https://www.face
 
 There are currently four tasting rooms in the Winemakers Studio section of the Vintner’s Village, but once you’re ready to stretch your legs – or head in aim of a meal – stroll down Cabernet Court to where the big boys play. Enjoy sweeping views of the Yakima River Valley as you go.
 
-## **Cabernet Court at the Vintner’s Village**
+## Cabernet Court at the Vintner’s Village
 
 
 
@@ -84,7 +84,7 @@ Jessica was very knowledgeable of all the details that go into their wine, of wh
 
 Nearly as notable is their **2012 Gamache Vintners Cabernet Sauvignon** that demands a good bolognese sauce to eat with its meaty and sautéed bell pepper notes.
 
-**Wine Lover Side Quests**
+## Wine Lover Side Quests
 
 If you’re still going strong after those first few tastes, then a visit to [the Walter Clore Center Wine and Culinary Center](http://www.theclorecenter.org/) might be a good idea, though be forewarned – at 2.5 miles away and across the Yakima River, you will likely need a car. But it’s a great destination, if you'd like to go a little deeper into what's in your glass.
 
@@ -104,7 +104,7 @@ But if that feels too far afield for your wine-filled legs, our next destination
 [![flowers, orange, mums, prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-382-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-382.jpg) Outside Wine O'Clock</div>
 
 
-**Food O’Clock at Wine O’Clock**
+## Food O’Clock at Wine O’Clock
 
 I mentioned a meal, remember? If your appetite is on the lighter side, sidle up to [Milbrandt’s](http://milbrandtvineyards.com/) tasting room for their Flights and Bites pairings, which I covered in [my Best Wines of Prosser post](http://thegourmez.com/2016/12/29/prosser-wine-part-2-best-wines-in-the-area/). Their tasting room is right across the road from Gamache’s. But after a good afternoon of wine tasting, you’ll likely be ready for something of more substance. Luckily, [the Bunnell Family’s Wine O’Clock](http://www.bunnellfamilycellar.com/Page.aspx?PageID=1003) tasting room and wine bar is also just a skip and a hop away. No jumping required.
 
@@ -148,7 +148,7 @@ Baked into sable cookies that crumble on first bite, the olives were edible for 
 
 That is a slice of winemaker’s cake, a fully moist pound cake made with semolina flour. Grenache grapes are baked inside for a crunch of seed and burst of fruit. I loved it. And I think you’ll love pretty much anything you get from Wine O’Clock’s menu as well.
 
-**Now I Lay Me Down to Sleep…in Walking Distance**
+## Now I Lay Me Down to Sleep…in Walking Distance
 
 After a full day of wine tasting, few things are better than a cozy place to lay one’s head. And [7 Gables Pensione Bed and Breakfast](https://www.7gablespensione.com/) offers that at only a five-minute walk from the Vintner’s Village.
 

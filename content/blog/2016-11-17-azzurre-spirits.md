@@ -31,7 +31,7 @@ Vodka and gin made with apples, grapes, and sugar cane instead of potato or corn
 
 Are they good? Azzurre Spirits picked up a few brownie points from me right away with that label art—as someone who once dressed up as the Eye of Sauron, suffice it to say I see some similarities. And I’m a sucker for a unique bottle; both the extra-long neck and the glass bottle stoppers upped the ante. But would the spirits hold up to my fast-rising expectations?
 
-I’ll have a vodka first, please.
+## I’ll have a vodka first, please.
 
 
 
@@ -45,7 +45,7 @@ It has a soft, berry bubblegum nose. Tasting it makes me feel like a Care Bear, 
 
 Rating:[![The Gourmez Avocado Rating 4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/rating_avocado1.gif)
 
-One gin, neat!
+## One gin, neat!
 
 [![Azzurre Spirits Gin](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/AzzurreSpirits-009-500x439.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/AzzurreSpirits-009.jpg)
 

@@ -37,11 +37,11 @@ Sunshine’s a refreshing drink based on taste, though I can’t say I felt much
 
 [![Summer Dance Sunshine Energy Drink Cocktail](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/Sunshine-07-388x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/Sunshine-07.jpg)
 
-**The Summer Dance** 
-2 ounces wheat-based gin
-1.5 ounces ginger liqueur
-1.5 ounces blackberry juice
-A lemon’s wedge worth of juice
+## The Summer Dance 
+2 ounces wheat-based gin\
+1.5 ounces ginger liqueur\
+1.5 ounces blackberry juice\
+A lemon’s wedge worth of juice\
 Half can of Sunshine Ginger Berry
 
 **Instructions:** Shake the first four ingredients together with ice. Pour into a highball glass or other large tumbler. Top off with Sunshine. Stir lightly.

@@ -22,8 +22,8 @@ tags:
 
 [![Scratch Mountain View Restaurant](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Scratch-07-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Scratch-07.jpg)
 
-401 Castro Street Downtown Mountain View
-[Website](http://www.scratchmtnview.com/#about)
+401 Castro Street Downtown Mountain View\
+[Website](http://www.scratchmtnview.com/#about)\
 Lunch: $15–$30
 
 Scratch, not to be confused with [the Scratch I reviewed in Durham](http://thegourmez.com/2012/02/27/scratch/) a few years back, bills itself as a purveyor of American comfort food in an elegant style, a common trend among restaurants these days--_upscale comfort food_ is the new _American bistro_. And who can blame them, as restaurants dare much if they don't have a version of mac and cheese, fried chicken, or flatbreads on the menu. We do always need to please our less adventurous friends! And who am I to talk when I did a whole series on [mac and cheese in the Bay Area](http://thegourmez.com/?s=mac+and+cheese)?

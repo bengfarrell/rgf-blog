@@ -21,9 +21,9 @@ tags:
 
 [![Wood Tavern Rockridge Oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Wood-Tavern-01-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Wood-Tavern-01.jpg)
 
-6317 College Avenue
-Rockridge, Oakland
-[Website](http://www.woodtavern.net/)
+6317 College Avenue\
+Rockridge, Oakland\
+[Website](http://www.woodtavern.net/)\
 $12–$36
 
 Wood Tavern is a near universally acclaimed restaurant in north Oakland, at least among my circles. It’s upscale in terms of prices and dish sophistication, although the atmosphere is casual, assuming _casual_ is what you’d call elbow-to-elbow lack of space and sucking in your stomach so you don’t knock over the neighboring diner’s wine glass as you slid into your seat.

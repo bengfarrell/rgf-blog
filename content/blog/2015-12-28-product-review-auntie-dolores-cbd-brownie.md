@@ -2,7 +2,7 @@
 title: "Product Review: Auntie Dolores CBD Brownie"
 date: "2015-12-28"
 categories:
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "auntie-dolores"

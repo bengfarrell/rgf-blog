@@ -26,9 +26,9 @@ tags:
 
 [![Brews & Brats Hayward](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BrewsBrats01-329x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BrewsBrats01.jpg)
 
-1061 B Street
-Downtown Hayward
-[Website](http://www.pubandrestaurantinhaywardca.com/)
+1061 B Street\
+Downtown Hayward\
+[Website](http://www.pubandrestaurantinhaywardca.com/)\
 $7.50–$15.00
 
 When I lived in Hayward, 2013–2014, I avidly anticipated the opening of Brews & Brats on B Street, one of several new restaurants moving into the downtown strip at the time. Alas, Brews & Brats still wasn’t open by the time I moved to Oakland, but now, a year later, it’s fully established. As I was due for a visit to my optometrist up the street, I decided now was the time to finally check this place out.

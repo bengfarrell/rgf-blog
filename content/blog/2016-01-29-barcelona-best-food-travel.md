@@ -44,7 +44,7 @@ tags:
 
 For my breakfast choices, [click here,](http://thegourmez.com/2015/01/29/breakfast-highlights-of-the-eixample/) where I started my Barcelona travelogues a whole year ago. For the rest of a day’s gastronomy needs, read on for my final installment!
 
-**Best Post-Airport Binge**
+## Best Post-Airport Binge
 
 We flew into Barcelona in the evening, and after checking into the Hotel Claris Grand Luxe (150 Carrer de Pau Claris)--
 
@@ -68,7 +68,7 @@ Perhaps the best part of the meal was our introduction to this essential Barcelo
 
 I enjoyed it at Restaurant Josephine more than I did anywhere else during our trip. The fresh, summery taste of the tomatoes in the midst of winter, lightly salted and smashed up top of crackly bread, was just the beginning I needed to a Barcelona feast that would last for days.
 
-**Best Market to Stumble Upon**
+## Best Market to Stumble Upon
 
 We were in Barcelona in mid-December, so open-air markets were more plentiful than normal with the addition of holiday markets. Hopefully, you’ll find this one around any time of year. Walk north through the trendy, fashion-heavy Passeig de Gracia retail area and continue past the Avenida Diagonal into the Gracia neighborhood.
 
@@ -82,7 +82,7 @@ Purchases also included Marcona almonds on a return trip. Ben was more pleased t
 
 [![2014_Barcelona_323](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_323-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_323.jpg)
 
-**Best Bakery in Gracia**
+## Best Bakery in Gracia
 
 There’s a bakery on practical every block in Barcelona, or at least it feels that way when you’re passing by in the short space between meals! But the neighborhood surrounding Passeig de Sant Joan’s northern terminus has an even higher density than most. Yet **Pastisseria Cusachs** (223 Carrer de Bailen) stood apart.
 
@@ -94,7 +94,7 @@ That amazingly dense and beautifully assembled chocolate tart was only one of th
 
  
 
-**Best Churros**
+## Best Churros
 
 Churros are not hard to find in Barcelona, yet ordering them from a counter stall that draws crowds despite being off the main strip feels just that little bit more right. That’s the case at **Churreria El Trebol** (341 Carrer de Corsega), one of the oldest churro makers in the city.
 
@@ -106,7 +106,7 @@ Churros come chocolate covered or stuffed with dulce de leche, but the Barcelona
 
 Cheap, but I wouldn’t call them satisfying because you will want to go back for more!
 
-**Best Escape in the Barri Gotic**
+## Best Escape in the Barri Gotic
 
 While exploring the splendors of the Gothic Quarter, we came across a mysteriously quiet square, the Plaça de Sant Pere. The tourist waters parted to reveal **[En Aparte](http://www.enaparte.es/)** (2 Carrer de Lluis el Piados), just when we needed a breather from the glorious, yet endless, gawking. The list of teas was impressive, and I adored the faux rustic tables covered with newspaper and bad stain jobs.
 
@@ -118,7 +118,7 @@ The sunny patio on the plaza would be ideal for warm days, but we were happy to 
 
 I could happily get lost in those alleys for hours.
 
-**Best Meal for Meat Lovers**
+## Best Meal for Meat Lovers
 
 I’m not suggesting that [Carpaccio Cut](http://www.carpacciocut.com/) (353 Avenida Diagonal) be your destination if you want to slide your knife deep into a steak. Rather, it’s the place to go for all forms of carpaccio, the celebrated way to present meats in their purest raw forms, or as their slogan puts it, “Cooking by Cutting.” Sometimes those forms are cured, sometimes not, but Carpaccio Cut serves them well no matter the preparation.
 

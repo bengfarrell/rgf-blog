@@ -14,7 +14,7 @@ tags:
   - "whisky-reviews"
 ---
 
-**Region:** Alberta, Canada
+**Region:** Alberta, Canada\
 35% ABV
 
 [![Serpent's Bite Apple Cider Whisky](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Serpents-Biite--383x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Serpents-Biite-.jpg)

@@ -18,9 +18,9 @@ tags:
 
 [![Black Spring Coffee Company](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-03-355x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Black-Spring-Coffee-03.jpg)
 
-2930 Telegraph Avenue
-Pill Hill, Oakland
-[Website](http://blackspringcoffee.weebly.com/)
+2930 Telegraph Avenue\
+Pill Hill, Oakland\
+[Website](http://blackspringcoffee.weebly.com/)\
 $2.50–$5.00
 
 I’ve stopped in to take a break at this coffee shop a number of times now, on my way to some errand or another downtown. The interior is sparse, a simple collection of tables and white walls, though the entrance and coffee counter greet customers with soft, mint-chip green.

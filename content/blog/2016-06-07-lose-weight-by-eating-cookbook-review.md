@@ -32,7 +32,7 @@ Surely you noticed that “Lose 15 Pounds in 30 Days!” boast on the cover? Tha
 
 The book opens with Johns’ dieting and cooking history, a familiar modern America tale of prepackaged diet foods that never bring results and a busy mom who didn’t know how to cook healthily. She began avoiding artificial sweeteners and preservatives and taught herself how to cook well. Within 11 months, she lost 150 pounds! That’s impressive, no matter how you slice it. Since then, Johns has maintained a [popular website,](http://www.loseweightbyeating.com/) competed on _the Taste_, and appeared on multiple shows including _the Rachel Ray Show_ and _the Doctors_. The next section details her weight loss strategy and diagrams the perfect salad. Then come the recipes. I tested out comfort food items that I have a personal history with just to see how they’d stack up.
 
-**Twice-Baked Cheesy Potato Boats**
+## Twice-Baked Cheesy Potato Boats
 
 [![Twice Baked Cheesy Potato Boats](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/LoseWeightCookBook-05-381x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/LoseWeightCookBook-05.jpg)
 
@@ -40,13 +40,13 @@ These come in at only 118 calories per half potato, which is great, especially b
 
 The recipe was easy to follow and make, though I broke two potato shells, but that was 100% user error. My only complaint is that it doesn’t make sense to season the filling ingredients _before_ adding the potatoes’ innards, as the recipe instructs. Potatoes need a healthy dose of salt themselves, and how can you judge how much is good until they are mashed in with the rest of the filling ingredients? Wait to season until it’s all combined, and maybe also rub some salt on the potato skins before broiling them and you’ll have a tasty, simple meal.
 
-**Skinny Sloppy Joes**
+## Skinny Sloppy Joes
 
 [![Skinny Sloppy Joes](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Lose-Weight-Cookbook-07-369x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Lose-Weight-Cookbook-07.jpg)
 
 My feelings toward sloppy joes are more conflicted than they are toward twice-baked potatoes. Sometimes, I find them a tasty treat. Most of the time, I wonder why people want such a messy meal. So I decided on this recipe to see if it would change my mind. Good news! It’s much better than most sloppy joes I’ve had because it tastes much fresher with the addition of bell pepper and carrot into the patty mixture. The amount of spices called for was surprisingly spot on as well; I often find that recipes need more spices than they think they do, but not this one. 282 calories per sandwich.
 
-**Chicken Fajita Enchiladas**
+## Chicken Fajita Enchiladas
 
 [![Chicken Fajita Enchiladas](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Lose-Weight-Cookbook-09-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Lose-Weight-Cookbook-09.jpg)
 
@@ -56,7 +56,7 @@ It’s not clear in the ingredient list, but I think Johns uses 12-inch corn tor
 
 Perhaps the best praise I can give this comfort food take is that I didn’t miss the cheese! At only a cup of cheddar, the chicken fajita enchiladas use way less than is typical for this dish.
 
-**Jalapeno Cheddar Scones**
+## Jalapeno Cheddar Scones
 
 [![Jalapeno Cheddar Scones](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Lose-Weight-Cookbook-08-500x349.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Lose-Weight-Cookbook-08.jpg)
 
@@ -70,7 +70,7 @@ I picked one of her water infusion recipes to share with you, because I love fru
 
  
 
-> **Skin-Firming Citrus Boost Water**
+> ## Skin-Firming Citrus Boost Water
 > 
 > Makes 1 gallon (8 cups)
 > 

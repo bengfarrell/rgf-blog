@@ -19,9 +19,9 @@ tags:
   - "take-out"
 ---
 
-5299 College Avenue
-Rockridge, Oakland
-[Website](http://www.hipeaks.com/)
+5299 College Avenue\
+Rockridge, Oakland\
+[Website](http://www.hipeaks.com/)\
 $9.50–$14.00
 
 I know very little about Tibetan Buddhism, except that I love their beautiful prayer flags. Is it any wonder High Peaks Kitchen catches my eye every time I walk down College Ave?

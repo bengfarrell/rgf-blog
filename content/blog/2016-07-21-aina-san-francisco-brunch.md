@@ -22,9 +22,9 @@ tags:
   - "san-francisco"
 ---
 
-900 22nd Street Dogpatch
-San Francisco
-[Website](http://www.ainasf.com/)
+900 22nd Street Dogpatch\
+San Francisco\
+[Website](http://www.ainasf.com/)\
 Brunch: $15–18
 
 My food-writing friend, Jennifer Ng, joined me for brunch at 'āina recently. Jennifer is the author of the [Ice Cream Travel Guide](http://www.icecreamtravelguide.com/), a book that explores the best ice cream shops worldwide and the stories behind the people who built them. I've been discovering that Jennifer's foodie knowledge isn't limited to ice cream, and she suggested 'āina, picking a Hawaiian restaurant with Portuguese influences that she'd tried in its former incarnation as a pop-up.

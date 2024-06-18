@@ -28,10 +28,10 @@ tags:
   - "world-pizza-champion"
 ---
 
-701 4th Street
-Santa Rosa
-[Website](http://personapizzeria.com/locations/santa-rosa/)
-$8 - $14
+701 4th Street\
+Santa Rosa\
+[Website](http://personapizzeria.com/locations/santa-rosa/)\
+$8–$14
 
 _Obligatory disclaimer: I was asked to do this review by Persona Pizzeria. Thus, all food and beverage described in this post were free._
 

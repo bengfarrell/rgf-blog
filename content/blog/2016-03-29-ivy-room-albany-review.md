@@ -19,8 +19,8 @@ tags:
 
 [![Ivy Room Albany Bar](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/The-Ivy-04-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/The-Ivy-04.jpg)
 
-860 San Pablo Avenue
-Albany, CA
+860 San Pablo Avenue\
+Albany, CA\
 [Website](http://ivyroom.com/)
 
 In Albany, the Ivy Room is enjoying a rebirth after having undergone many transformations over its six decades of existence. The venue, with a makeover and new owners, re-opened its doors three months ago. A sign of what may come can be seen in the retention of the sign itself, a classic one that’s earned its place on the sidewalk.

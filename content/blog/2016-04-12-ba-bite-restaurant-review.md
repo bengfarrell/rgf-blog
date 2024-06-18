@@ -1,5 +1,5 @@
 ---
-title: "Ba-Bite"
+title: "Ba-Bite (Now Pomella)"
 date: "2016-04-12"
 categories:
   - "restaurants"
@@ -21,9 +21,10 @@ tags:
 
 [![Ba-Bite Middle Eastern Restaurant](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Ba-Bite-01-2-500x352.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Ba-Bite-01-2.jpg)
 
-3905 Piedmont Avenue
-Piedmont, Oakland
-$5–16 per item
+_Note: Ba-Bite closed but now operates as Pomella at . . ._\
+3770 Piedmont Ave
+Piedmont, Oakland\
+$5–16 per item\
 [Website](http://www.babiteoakland.com/)
 
 Ba-Bite is an order at the counter, casual restaurant specializing in Middle Eastern comfort food. The name is a play on the Hebrew word _babait_, which evokes home cooking. Mica Talmor, the executive chef and co-owner of Ba-Bite and Savoy Events catering company along with her husband Robert Gott, is an Isreali-Jewish woman and most of Ba-Bites’ employees are Jordanian. They should know what Middle Eastern comfort food should taste like!
