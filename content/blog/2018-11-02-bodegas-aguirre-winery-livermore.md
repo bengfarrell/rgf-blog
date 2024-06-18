@@ -40,7 +40,9 @@ From there, Aguirre's passion only grew, and the winery has an amazing selection
 
 [![Bodegas Aguirre, wine, livermore](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_150103-500x454.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_150103.jpg)Bodegas Aguirre has also recently added a 50/50 blend of chardonnay and semillion. I, and a few fellow wine writers, was treated to a tasting of their library wines along with current releases from Bodegas Aguirre. The winery's philosophy is "to produce handcrafted wines with softly integrated tannins to be enjoyed young or save in your wine cellar to continue to develop gracefully in the bottle. We strive for wines of balance, wines of interest, and wines that will excite your taste buds." For me, they've certainly succeeded at that, especially in terms of interest and drinkability now.
 
-## [![Bodegas Aguirre, wine, livermore](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_135338-500x375.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_135338.jpg)The Wines
+## [![Bodegas Aguirre, wine, livermore](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_135338-500x375.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_135338.jpg)
+
+## The Wines
 
 The oldest wines we sampled were a 2001 field blend and a 2002 Estate Merlot. Both went smashingly with a paired plate of smoked duck breast, duck salami, and ribeye.
 

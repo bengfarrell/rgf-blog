@@ -28,7 +28,9 @@ Each of the wineries I'm profiling here gave me a taste of what beauty can come 
 
 ## 1\. [Frick Winery](https://frickwinestore.com/)
 
-23072 Walling Road, Geyserville Tasting room: Fridays–Sundays, 1–4
+23072 Walling Road\
+Geyserville
+Tasting Room: Fridays–Sundays, 1–4
 
 Frick Winery is where you'll find Bill Frick, his 7.77 acres of grapes, and his extensive line of wines that are mostly only available out of the winery's tasting room. Frick's a natural in the vineyard, blending in seamlessly with his crop.
 
@@ -62,7 +64,9 @@ My personal favorite of Bill's wines, which you can try up to six of for free wh
 
 ## 2\. [Inspiration Vineyards](https://www.inspirationvineyards.com/)
 
-3360 Coffey Lane, Suite E, Santa Rosa Tasting Room: Fridays–Sundays, 11–4:30, or by appointment.
+3360 Coffey Lane, Suite E\
+Santa Rosa, CA
+Tasting Room: Fridays–Sundays, 11–4:30, or by appointment.
 
 [![wine road, inspiration vineyards, tasting room, sonoma county, santa rosa](https://thegourmez-wpmedia.s3.amazonaws.com/2019/08/WineRoad-227-500x334.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/08/WineRoad-227.jpg)Inspiration Vineyard's tasting room is located inside a warehouse in urban Santa Rosa. The space is devoted to winemaking. Though "warehouse" may not be the most romantic image that comes to mind when thinking of wine tasting, visiting one is a genuinely interesting experience for wine enthusiasts, especially during harvest. Why? Because many small winemakers don't have the facilities to crush their grapes or store their fermenting wines themselves, so custom crush facilities, like the one Inspiration Vineyard runs, become hotbeds of harvest-time activities.
 
@@ -86,7 +90,9 @@ Jon is not the only winemaker making use of the Coffey Lane wine warehouse in Sa
 
 ## 3\. [Lauterbach Cellars](http://www.lauterbachcellars.com/)
 
-3420 Woolsey Road, Windsor Tasting Room: By appointment only.
+3420 Woolsey Road\
+Windsor, CA\
+Tasting Room: By appointment only.
 
 Last on this list, but certainly not least, is Lauterbach Cellars. Theirs is a story of survival and resilience, and not just because owners Stew Lauterbach and Barbara Swary lost their home in the 2017 wine country fires, from which they barely escaped themselves. It's also because Stew has been saving lives for over thirty years as an ER physician, and Barbara served as a nurse for many of those before pursuing law and ultimately becoming legal director of Sonoma County's Council on Aging.
 

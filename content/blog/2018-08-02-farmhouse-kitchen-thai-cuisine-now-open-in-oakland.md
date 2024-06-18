@@ -13,10 +13,10 @@ tags:
   - "thai"
 ---
 
-336 Webster Street
-Jack London Square
-Oakland, CA
-Fill 'er up from $12 to $24
+336 Webster Street\
+Jack London Square\
+Oakland, CA\
+Fill 'er up from $12 to $24\
 [Website](http://www.farmhouseoak.com/)
 
 [![farmhouse kitchen oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Farmhouse-Kitchen-068-400x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/08/Farmhouse-Kitchen-068.jpg)

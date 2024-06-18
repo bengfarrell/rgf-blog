@@ -11,8 +11,8 @@ tags:
   - "wine-review"
 ---
 
-**Region:** Paso Robles, CA
-Non-vintage
+**Region:** Paso Robles, CA\
+Non-vintage\
 $29
 
 [![KickAss Britchen Red](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Kickass-01-379x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/Kickass-01.jpg)The KickAss label invokes the lighter side of winemaking for AronHill Vineyard's owner, Judy Aron. The back label declares its inspirations proudly: "Life is all about ASS. You are either covering your ASS, laughing your ASS off, kicking ASS, kissing ASS, busting ASS, trying to get a piece of ASS, or behaving like an ASS**.** KickBack and Enjoy!" Per the website, the winery's three mules also played a part in inspiring the label, or at least the label artwork.

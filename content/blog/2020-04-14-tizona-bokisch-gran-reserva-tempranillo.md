@@ -15,7 +15,7 @@ tags:
   - "wine-review"
 ---
 
-**Region** Bokisch Vineyards Lodi, CA
+**Region:** Bokisch Vineyards Lodi, CA
 
 Bokisch Vineyards ([website](https://www.bokischvineyards.com/)) is one of my favorite vineyards in the Lodi region, which is one of California’s best wine-growing American Vinicultural Areas (AVAs). **_Obligatory disclaimer:_** _This wine was free to me to sample for this review._
 

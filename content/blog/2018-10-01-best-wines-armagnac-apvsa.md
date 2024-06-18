@@ -27,7 +27,7 @@ Attending wine shows like these as media is a chance to try wines I've never com
 
 And taste I did! Here are my notable finds:
 
-**The Armagnacs of Domaine de Joy**
+## The Armagnacs of Domaine de Joy
 
 Look, when you're sampling thirty or more wines in a day, any time there's something non-wine to drink, it stands out. The Armagnac line from [Domaine de Joy](http://www.domaine-joy.com/en/index.php) certainly did for me.
 
@@ -41,7 +41,7 @@ But the most interesting of Domaine de Joy's offerings was the Floc de Gascogne,
 
 [![AVPSA, wine, tasting, european, domaine de joy, floc de gascogne](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180205_145409_1-375x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180205_145409_1.jpg)It begins super sweet then segues into the nutty, floral depths of Armagnac, where the adventure lingers. I need to find some in the Bay Area, clearly, to keep on journeying.
 
-**Best Wines**
+## Best Wines
 
 Of course, there were also plenty of memorable wines at the APVSA Once Upon a Wine tour. My palate was suffering a bit of fatigue, by which I mean I'd been tasting too much wine recently, rendering my tongue less able to differentiate between tannic red wine notes and less able to find fruit notes under the bubbles of Champagne. Thus, the white wines stood out most for me as they were more soothing and refreshing. Here are my choices:
 
@@ -53,7 +53,7 @@ Of course, there were also plenty of memorable wines at the APVSA Once Upon a Wi
 
 But my final love of this day was again, not wine.
 
-**Dujardin Cider**
+## Dujardin Cider
 
 [![AVPSA, wine, tasting, european, cider, dujardin, brut](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180205_134536-332x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180205_134536.jpg)Another nice break for my palate came by way of [Dujardin's Brut Cidre Brouché de Normandie](http://www.cidres-dujardin.fr/ang/ciders.html). I am well known for bemoaning the sweet ciders that reign this side of the Atlantic, so any time I can try European ciders, I do. It offered a strong nose of apples and flowers and a mouth full of dry bubbles, just like I like it. What's more, those bubbles are not added but the result of fermentation during the production process. How cool! Dujardin's ciders are made with a blend of four cider apples picked from their orchards in Normandy—and yes, they make sweet and fruit flavors, too, if that's the way you swing.
 

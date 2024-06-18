@@ -16,7 +16,7 @@ tags:
 
 **Region:** Lodi, CA
 
-## _Obligatory disclaimer: All wines mentioned in this blog were free to me for review._
+_Obligatory disclaimer: All wines mentioned in this blog were free to me for review._
 
 ## The Winery:
 
