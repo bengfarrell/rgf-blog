@@ -56,7 +56,7 @@ Evidence #2: Buffalo wings in a way you’ve never seen. This was for sure a hig
 
 Evidence #3: The Year of the Monkey cocktail. Urban Tavern has plenty of fun cocktails to partake in, but the Year of the Monkey topped my list. With apricot liqueur and apricot preserves, you might fear too much sweetness for a proper whiskey drink, but the result is a surprisingly light-bodied beverage. The Jameson Black Barrel strikes a beautiful balance with the sugar content. [![salad urban tavern](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_05-500x403.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_05.jpg)
 
-Lack of Evidence: A salad with no room for maneuvering.  While nicely presented, the serving bowl undid this salad’s potential. When a salad must be cut to be eaten, like this one, a knife must fit in there somewhere. That was a Mission Impossible, or at least Improbable, in this case. The croutons were also too hard, but the Dijon herb vinaigrette was delightful -- when I could get down to it.
+Lack of Evidence: A salad with no room for maneuvering.  While nicely presented, the serving bowl undid this salad’s potential. When a salad must be cut to be eaten, like this one, a knife must fit in there somewhere. That was a Mission Impossible, or at least Improbable, in this case. The croutons were also too hard, but the Dijon herb vinaigrette was delightful—when I could get down to it.
 
 [![steak balsamic onion Urban Tavern](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_09-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_09.jpg)
 
@@ -76,9 +76,9 @@ Evidence #7: Sweets that tickle the senses. Feeling creative, Chef Raub came up 
 
 [![skillet brownie TCHO chocolate Urban Tavern](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_13-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_13.jpg)
 
-Our second dessert -- a sea salt, skillet brownie made with TCHO chocolate -- was served with brandied cherries, ginger, and honeycomb meringue cookies. It’s all the soothing satisfaction you think it’s going to be. There’s also a citrus panna cotta on the menu that fruit fans will love.
+Our second dessert—a sea salt, skillet brownie made with TCHO chocolate—was served with brandied cherries, ginger, and honeycomb meringue cookies. It’s all the soothing satisfaction you think it’s going to be. There’s also a citrus panna cotta on the menu that fruit fans will love.
 
-Have I made my case? If you need further convincing, let Chef Raub’s obvious enthusiasm for buying local sway you. He relished speaking of his relationships with his producers and shared his love for witnessing what such fresh, well-tended ingredients spark in his patrons -- often a sense of nostalgia and feeling of wholesomeness. That’s likely part of what made him the right chef for the job, as Executive Chef Vaughn considers sustainability in every aspect of the Hilton’s culinary program with an ultimate goal of zero food waste and leaving as small of an environmental footprint as possible for the largest hotel on the West Coast.
+Have I made my case? If you need further convincing, let Chef Raub’s obvious enthusiasm for buying local sway you. He relished speaking of his relationships with his producers and shared his love for witnessing what such fresh, well-tended ingredients spark in his patrons—often a sense of nostalgia and feeling of wholesomeness. That’s likely part of what made him the right chef for the job, as Executive Chef Vaughn considers sustainability in every aspect of the Hilton’s culinary program with an ultimate goal of zero food waste and leaving as small of an environmental footprint as possible for the largest hotel on the West Coast.
 
 While you deliberate, I’m going to slip on out and see if I can scrounge up some more of that hippie bark. I’ve already arrived at my verdict.
 

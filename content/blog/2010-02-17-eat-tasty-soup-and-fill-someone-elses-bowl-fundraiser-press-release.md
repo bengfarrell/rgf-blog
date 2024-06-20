@@ -1,5 +1,5 @@
 ---
-title: "Eat Tasty Soup and Fill Someone Else's Bowl -- Fundraiser Press Release"
+title: "Eat Tasty Soup and Fill Someone Else's Bowl—Fundraiser Press Release"
 date: "2010-02-17"
 categories: 
   - "restaurants"

@@ -43,9 +43,9 @@ My husband had the Squeal, which is a burger topped with a hefty slab of porchet
 
 [![The Squeal porchetta burger at Telegraph Beer Garden](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Telegraph-07-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Telegraph-07.jpg)
 
-I thought he’d love it, but the pork ended up much fattier than hoped for. These are impressive burgers to look at, and pretty good ones to eat, but if I order them again, it’ll be solely for the novelty  factor -- one comes topped with a wedge of mac & cheese, after all! The most expensive burgers on the list are made with half bacon and half beef -- I know from multiple visits to Castro Valley's Boulevard Burgers that bacon patties are too dry to be worth the upcharge for me.
+I thought he’d love it, but the pork ended up much fattier than hoped for. These are impressive burgers to look at, and pretty good ones to eat, but if I order them again, it’ll be solely for the novelty  factor—one comes topped with a wedge of mac & cheese, after all! The most expensive burgers on the list are made with half bacon and half beef—I know from multiple visits to Castro Valley's Boulevard Burgers that bacon patties are too dry to be worth the upcharge for me.
 
-But…beer garden, right, not burger garden? With 12 drafts and around 70 bottles available at any time, beer lovers are sure to find something refreshing to beat back the afternoon sun. If you’re more of a cocktail drinker, like myself, the back bar is your best bet. They have a full range of spirits and a handful of specialty drinks that are constantly changing -- and that includes the slushies.
+But…beer garden, right, not burger garden? With 12 drafts and around 70 bottles available at any time, beer lovers are sure to find something refreshing to beat back the afternoon sun. If you’re more of a cocktail drinker, like myself, the back bar is your best bet. They have a full range of spirits and a handful of specialty drinks that are constantly changing—and that includes the slushies.
 
 [![A Cape Cod alcoholic slushie at Telegraph Beer Garden](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Telegraph-06-500x459.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Telegraph-06.jpg)
 

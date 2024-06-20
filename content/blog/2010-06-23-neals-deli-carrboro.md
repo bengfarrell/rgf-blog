@@ -14,7 +14,7 @@ tags:
   - "neals-deli"
 ---
 
-**Neal's Deli** 100 East Main Street Downtown Carrboro [Website](http://www.nealsdeli.com/) $5.75--$8.50 Hours: M-Sat, 7:30 to 4
+**Neal's Deli** 100 East Main Street Downtown Carrboro [Website](http://www.nealsdeli.com/) $5.75–$8.50 Hours: M-Sat, 7:30 to 4
 
 ![](http://www.thegourmez.com/gourmez/photos/nealsdeli04.jpg)
 

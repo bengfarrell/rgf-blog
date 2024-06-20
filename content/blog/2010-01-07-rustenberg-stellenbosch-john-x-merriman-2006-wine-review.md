@@ -1,5 +1,5 @@
 ---
-title: "Rustenberg Stellenbosch John X Merriman 2006 -- Wine Review"
+title: "Rustenberg Stellenbosch John X Merriman 2006—Wine Review"
 date: "2010-01-07"
 categories:
   - "red-bordeaux"
@@ -25,7 +25,7 @@ tags:
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/johnx 002.jpg)
 
-This full-bodied red is a blend of cabernet sauvignon, merlot, petit verbot, cabernet franc, and malbec. If you think that's a lot for any one wine to handle, you might be right -- but John X Merriman gets pretty close to doing the job!
+This full-bodied red is a blend of cabernet sauvignon, merlot, petit verbot, cabernet franc, and malbec. If you think that's a lot for any one wine to handle, you might be right—but John X Merriman gets pretty close to doing the job!
 
 Letting this wine breath is definitely recommended as I first tried it at [a wine dinner last month](http://www.rebeccagomezfarrell.com/gourmez/restaurants/review.php?id=60&type=) and was more impressed with it then, when it had been aerating for hours. On this night, the taste was quite different for me, but still pretty good. It was better that first time, though, when it breathed.
 

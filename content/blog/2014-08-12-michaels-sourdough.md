@@ -37,7 +37,7 @@ All toppings were thinly sliced except the shredded iceberg lettuce, which is al
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
 
-**Mike’s Sourdough** 3095 Kerner Blvd #L San Rafael [Website](http://www.michaelssourdough.com/) $7-$8
+**Mike’s Sourdough** 3095 Kerner Blvd #L San Rafael [Website](http://www.michaelssourdough.com/) $7–$8
 
 [![Michael's Sourdough Sandwiches on Foodio54](http://foodio54.com/images/badge-2-d5cb5.jpg)](http://foodio54.com/restaurant/San-Rafael-CA/d5cb5/Michaels-Sourdough-Sandwiches)
 

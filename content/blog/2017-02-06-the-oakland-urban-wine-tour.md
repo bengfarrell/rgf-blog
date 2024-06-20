@@ -37,7 +37,7 @@ A year and a half ago, I discovered the plethora of urban wineries housed in Oak
 [![the gourmez, rebecca gomez farrell, reviews, critic](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/RGF-vespa-400x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/RGF-vespa.jpg) Me at Dashe Cellars. Photo: Nannette @ Wine Harlots</div>
 
 
-Inspired by the quality of the wines and convenient positioning of their locations, I wrote up a suggested [wine walk](https://www.localwise.com/a/49-a-winery-walking-tour-in-jack-london-square) for Localwise. Apparently, I was on to something because the official [Oakland Urban Wine Trail,](https://www.visitoakland.com/things-to-do/oakland-urban-wine-trail/) developed by Visit Oakland, launched just a few months later. It covers 10 -- 10! -- different wineries mostly within walking distance of each other. You can find participating wineries by looking online, or by looking at your feet.
+Inspired by the quality of the wines and convenient positioning of their locations, I wrote up a suggested [wine walk](https://www.localwise.com/a/49-a-winery-walking-tour-in-jack-london-square) for Localwise. Apparently, I was on to something because the official [Oakland Urban Wine Trail,](https://www.visitoakland.com/things-to-do/oakland-urban-wine-trail/) developed by Visit Oakland, launched just a few months later. It covers 10—10!—different wineries mostly within walking distance of each other. You can find participating wineries by looking online, or by looking at your feet.
 
 [![Oakland Urban Wine Trail Logo](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/oaklandurbanwine-335x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/oaklandurbanwine.jpg)
 

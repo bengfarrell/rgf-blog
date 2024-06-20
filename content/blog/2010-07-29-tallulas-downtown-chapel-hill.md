@@ -20,7 +20,7 @@ tags:
   - "visne-cherry"
 ---
 
-**Tallulas** 456 W. Franklin Street Downtown Chapel Hill [Website](http://www.talullas.com/) Pizzas/Mezzes: $7--$12 Entrees: $15--22
+**Tallulas** 456 W. Franklin Street Downtown Chapel Hill [Website](http://www.talullas.com/) Pizzas/Mezzes: $7–$12 Entrees: $15--22
 
 ![](http://www.thegourmez.com/gourmez/photos/tallulas11.JPG)
 

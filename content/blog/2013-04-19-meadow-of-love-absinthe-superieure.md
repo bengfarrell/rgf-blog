@@ -33,7 +33,7 @@ tags:
 
  _[![Meadow of Love 01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/Meadow-of-Love-01.jpg)](http://www.thegourmez.com/2013/04/meadow-of-love-absinthe-superieure/meadow-of-love-01/)_
 
-Let's be real -- Meadow of Love is a very hippie name for a spirit. And let me be realer -- hippie names speak my language. I went to college in Santa Cruz, people. I'm not an ideal hippie myself, but the culture is part of my lifeblood. Meadow of Love is made in a pot still with grand wormwood, anise, florence fennel, roman wormwood, hyssop, lemon balm, and violet. I haven't even uncorked the bottle and I'm already wishing I had patchouli lip balm on and was lazing among the wildflowers, enjoying a Pacific Ocean sunset from the sun-drenched Oakes Lawn at UCSC.
+Let's be real—Meadow of Love is a very hippie name for a spirit. And let me be realer—hippie names speak my language. I went to college in Santa Cruz, people. I'm not an ideal hippie myself, but the culture is part of my lifeblood. Meadow of Love is made in a pot still with grand wormwood, anise, florence fennel, roman wormwood, hyssop, lemon balm, and violet. I haven't even uncorked the bottle and I'm already wishing I had patchouli lip balm on and was lazing among the wildflowers, enjoying a Pacific Ocean sunset from the sun-drenched Oakes Lawn at UCSC.
 
 [![meadow of love 02](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/meadow-of-love-02.jpg)](http://www.thegourmez.com/2013/04/meadow-of-love-absinthe-superieure/meadow-of-love-02/)
 

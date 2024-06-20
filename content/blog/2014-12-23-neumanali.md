@@ -95,7 +95,7 @@ Which all goes to say that I found Neumanali to be a satisfying, and at times im
 
 ![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-**Neumanali** 742 B Street Downtown Hayward [Website](http://www.neumanali.com/) Entrees: $24--$34
+**Neumanali** 742 B Street Downtown Hayward [Website](http://www.neumanali.com/) Entrees: $24–$34
 
 [![Neumanali on Urbanspoon](http://www.urbanspoon.com/b/link/88090/minilink.gif)](http://www.urbanspoon.com/r/6/88090/restaurant/Neumanali-Hayward)
 

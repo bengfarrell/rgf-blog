@@ -90,7 +90,7 @@ If you’re still going strong after those first few tastes, then a visit to [th
 
 [![walter clore center prosser wa](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-233-500x138.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-233.jpg)
 
-Dr. Walter Clore is a legendary figure in Washington wine history, progressing the science of grape growing in the state greatly over the last half century. The Center hosts exhibits on the man, the history of Washington wine, and a variety of educational tastings for an affordable $20-$30 for person. It also has a tasting room featuring wine from all over the state that’s open until 5 pm. And the sunlight that fills it makes for beautiful lighting.
+Dr. Walter Clore is a legendary figure in Washington wine history, progressing the science of grape growing in the state greatly over the last half century. The Center hosts exhibits on the man, the history of Washington wine, and a variety of educational tastings for an affordable $20–$30 for person. It also has a tasting room featuring wine from all over the state that’s open until 5 pm. And the sunlight that fills it makes for beautiful lighting.
 
 [![walter clore center prosser wa](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-240-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-240.jpg)Closer to your easy, peasy, Vintner’s Village vacation is [the Yellow Rose Nursery](http://www.yellowrosenursery.com/index.php/about), at the corner of Port Ave and Merlot Dr and directly across from the Village’s Apex Cellars. Take a gander at its 10 acres of plants and water features for sale, and maybe take one home, too.
 

@@ -75,7 +75,7 @@ See that Woodcroft, Durham, slot? That's where you'll most likely find me checki
 
 **[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/MW-Festival-550_0-300x154.jpg "MW-Festival-550_0-300x154")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/MW-Festival-550_0-300x154.jpg)Magic Wings Festival, 5/5, 10 am to 5 pm, Durham**
 
-My Carpe Durham compatriot, DID, posted [a description](http://carpedurham.com/2012/04/24/magic-wings-festival-beaver-queen-kick-off/ "Carpe Durham") of the Magic Wings Festival over at the Museum of Life and Science in Durham along with a contest for free tickets, so I'm not going to repost that here. What I am doing is pointing it out because they will be serving stir-fried insects at their new cafe, the DARE cafe! I've wanted to try fried insects forever -- I do love crustaceans -- but sadly, I have to miss this event.
+My Carpe Durham compatriot, DID, posted [a description](http://carpedurham.com/2012/04/24/magic-wings-festival-beaver-queen-kick-off/ "Carpe Durham") of the Magic Wings Festival over at the Museum of Life and Science in Durham along with a contest for free tickets, so I'm not going to repost that here. What I am doing is pointing it out because they will be serving stir-fried insects at their new cafe, the DARE cafe! I've wanted to try fried insects forever—I do love crustaceans -- but sadly, I have to miss this event.
 
  
 

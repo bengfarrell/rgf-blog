@@ -23,7 +23,7 @@ tags:
   - "waffle"
 ---
 
-**Jubala Village Coffee** 8450 Honeycutt Road Lafayette Village, Raleigh [Website](http://www.jubalavillagecoffee.com/public/) $2.50 -- $7.50
+**Jubala Village Coffee** 8450 Honeycutt Road Lafayette Village, Raleigh [Website](http://www.jubalavillagecoffee.com/public/) $2.50 -–$7.50
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/jubala01.jpg "jubala01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/jubala01.jpg)
 

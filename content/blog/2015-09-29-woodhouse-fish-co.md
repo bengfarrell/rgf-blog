@@ -2,7 +2,6 @@
 title: "Woodhouse Fish Co."
 date: "2015-09-29"
 categories: 
-  - "san-francisco-restaurant-review"
   - "restaurants"
 tags: 
   - "artichoke"
@@ -23,6 +22,11 @@ tags:
   - "seafood"
   - "shrimp"
 ---
+
+2073 Market Street\
+The Mission, San Francisco\
+[Website](http://www.woodhousefish.com/)\
+$12–$29
 
 On the northeastern border of the Mission and the Castro, after having spent [an afternoon tasting wines from Bliss Imports](http://thegourmez.com/2015/07/20/bliss-wine-imports-tasting/), I came across what looked like an oasis for my crustacean-loving heart.
 
@@ -53,11 +57,5 @@ Although I think the lobster roll would have been a better value than the stuffe
 But judging on potential, I’ll go with an
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
-
-**Woodhouse Fish Co.** 2073 Market Street The Mission, San Francisco [Website](http://www.woodhousefish.com/) $12--$29
-
-[![Click to add a blog post for Woodhouse Fish Company on Zomato](https://www.zomato.com/logo/16852721/ibiglink)](https://www.zomato.com/san-francisco/woodhouse-fish-company-san-francisco)
-
-[![Woodhouse Fish Company on Foodio54](http://foodio54.com/images/badge-2-9d83a.jpg)](http://foodio54.com/restaurant/San-Francisco-CA/9d83a/Woodhouse-Fish-Company)
 
 _Reviewed 12 July 2015._

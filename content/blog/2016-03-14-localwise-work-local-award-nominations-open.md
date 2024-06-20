@@ -13,7 +13,7 @@ tags:
   - "work-local-awards"
 ---
 
-You may have noticed [the contributions I've made](http://thegourmez.com/?s=localwise) to Localwise's blog? Well, they are contributing to the Bay Area community by doing more than hosting the best local job board in the area -- they already have _that_ down. Now, they're introducing the Work Local Awards, meant to honor the best employers in the area.  You have until **March 24, 2016**, 10 days!, to make your nominations, so if there's a Bay Area business you'd like to see get a little extra glory, now's your chance!
+You may have noticed [the contributions I've made](http://thegourmez.com/?s=localwise) to Localwise's blog? Well, they are contributing to the Bay Area community by doing more than hosting the best local job board in the area—they already have _that_ down. Now, they're introducing the Work Local Awards, meant to honor the best employers in the area.  You have until **March 24, 2016**, 10 days!, to make your nominations, so if there's a Bay Area business you'd like to see get a little extra glory, now's your chance!
 
 Here's the release:
 

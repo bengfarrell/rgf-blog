@@ -63,7 +63,7 @@ Hello readers! On occasion, I learn about upcoming or ongoing food or drink even
 
 **Where:** The Noir Lounge, which the space converts to at night. 581 Hayes Street, San Francisco.
 
-**Cost:** $6-$12
+**Cost:** $6–$12
 
 I'll be checking out some of their dishes at a media event next month, but there's no reason you can't get in on them now! [The Lunchpad has all their menus up on their website.](http://www.thelunchpadsf.com/) Heck, give me some suggestions for what I can't miss when I'm there.
 

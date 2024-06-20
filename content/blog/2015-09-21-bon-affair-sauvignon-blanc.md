@@ -2,13 +2,8 @@
 title: "Bon Affair Sauvignon Blanc"
 date: "2015-09-21"
 categories:
-  - "food-product-review"
-  - "product-reviews"
-  - "sauvignon-blanc"
-  - "shiraz"
-  - "sparkling-wine-review"
-  - "white-wine-reviews"
-  - "wine"
+   - "product-reviews"
+   - "wine"
 tags:
   - "a-glass-after-work"
   - "alleigh"

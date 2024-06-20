@@ -10,7 +10,7 @@ tags:
   - "ninth-street"
 ---
 
-**George's Garage** \*CLOSED\* 9th Street 737 9th Street Durham, NC www.ghgrestaurants.com/garage/garage.html Entrees $15--$28
+**George's Garage** \*CLOSED\* 9th Street 737 9th Street Durham, NC www.ghgrestaurants.com/garage/garage.html Entrees $15–$28
 
 George's Garage is one of the many Giorgio's Hospitality Group restaurants. This one is similar to Spice Street in that it's a mix of sushi bar, lounge area, and main dining room. The lounge looked cozy, with warm, dim lighting, and I was quickly saddened that we chose to sit in the dining room instead. It was garishly bright. I felt like I was in a warehouse with bright yellow walls that was populated with families who wanted to see and be seen. So, if that's what you like, you should really check it out.
 

@@ -1,5 +1,5 @@
 ---
-title: "Red Bicyclette Pinot Noir 2008 -- Wine Review"
+title: "Red Bicyclette Pinot Noir 2008—Wine Review"
 date: "2009-11-13"
 categories:
   - "pinot-noir"

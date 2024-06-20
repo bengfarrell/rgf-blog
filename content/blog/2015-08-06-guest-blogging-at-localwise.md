@@ -3,7 +3,6 @@ title: "Guest Blogging at Localwise!"
 date: "2015-08-06"
 categories:
   - "announcements"
-  - "writing"
 tags:
   - "bay-area"
   - "bragging"

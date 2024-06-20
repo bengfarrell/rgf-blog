@@ -44,7 +44,7 @@ It was also a night for acknowledging how well Vinho Verde wines go with lightly
 
 [![Hdwker Fare Papaya Salad](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Hawker-Fare-Wine-04-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Hawker-Fare-Wine-04.jpg) [![Vinho Verde Torre de Menagem](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Hawker-Fare-Wine-03-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/04/Hawker-Fare-Wine-03.jpg)
 
-Using only alvarinho and trajadura grapes, this wine mimicked qualities of chardonnay and Champagne while still being uniquely itself. Light oak notes may please the chardonnay fans, and breadiness assuages the bubbly lovers, but that graham cracker crumble followed by green grape is its own unique draw, as is the seltzer finish. I gave it a 3/5 — with a little more balance, this wine would improve a point. It’s available for $10-$13 in online stores.
+Using only alvarinho and trajadura grapes, this wine mimicked qualities of chardonnay and Champagne while still being uniquely itself. Light oak notes may please the chardonnay fans, and breadiness assuages the bubbly lovers, but that graham cracker crumble followed by green grape is its own unique draw, as is the seltzer finish. I gave it a 3/5 — with a little more balance, this wine would improve a point. It’s available for $10–$13 in online stores.
 
 And it was one of the two youngest wines we tried that evening. The other, the [Quintas das Arcas Conde Villar Branco 2015,](http://www.condevillar.com/imgs/vinhos/cv_branco_2016_en.pdf) delighted me with citrus and warmth unusual for a white wine, especially from Vinho Verde.
 

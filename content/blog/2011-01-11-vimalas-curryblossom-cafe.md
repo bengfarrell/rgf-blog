@@ -22,7 +22,7 @@ tags:
   - "vimalas-curryblossom-cafe"
 ---
 
-**Vimala’s Curryblossom Cafe** 431 West Franklin, the Courtyard Downtown Chapel Hill [Website](http://www.curryblossom.com/) $7--$17
+**Vimala’s Curryblossom Cafe** 431 West Franklin, the Courtyard Downtown Chapel Hill [Website](http://www.curryblossom.com/) $7–$17
 
 
 

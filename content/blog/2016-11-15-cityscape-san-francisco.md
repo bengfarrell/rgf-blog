@@ -57,7 +57,7 @@ They all face the limitless windows and that amazing view. A central bar lights 
 
 [![Cityscape Bar Hilton San Francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-022-500x266.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-022.jpg)
 
-Cityscape’s cocktail list will quickly confirm that you’re paying for the view as much as the alcohol, but together, they are worth the splurge ($16-$20). The Berkeley Bramble was as vibrant as the sunset should be, boasting a bold blackberry hue that belied the soft gin, lemon, and club soda mixture.
+Cityscape’s cocktail list will quickly confirm that you’re paying for the view as much as the alcohol, but together, they are worth the splurge ($16–$20). The Berkeley Bramble was as vibrant as the sunset should be, boasting a bold blackberry hue that belied the soft gin, lemon, and club soda mixture.
 
 [![Cityscape Hilton San Francisco Berkeley Bramble](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-013-393x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/Cityscape-013.jpg)
 

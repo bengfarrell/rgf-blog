@@ -17,7 +17,7 @@ tags:
   - "vegetable-bar"
 ---
 
-**Country Junction** 4823 NC Highway 55 Crossroads of Hwys. 55 & 54 Durham Breakfast: $2.55--$4.55 Lunch: $3.39--$6.99
+**Country Junction** 4823 NC Highway 55 Crossroads of Hwys. 55 & 54 Durham Breakfast: $2.55–$4.55 Lunch: $3.39–$6.99
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/countryjunction3.jpg "countryjunction3")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/countryjunction3.jpg)
 

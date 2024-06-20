@@ -17,6 +17,11 @@ tags:
   - "temescal"
 ---
 
+ 5098 Telegraph Avenue\
+ Temescal, Oakland\
+ [Website](http://www.bakesalebetty.com/)\
+ $8–$10
+
 Ah, it feels good to write a restaurant review! I’ve been so focused on wine following the annual [Wine Bloggers Conference](http://thegourmez.com/category/beer-wine-sake-review/wine-bloggers-conference-2015/) that dining and dishing has been low on the blog priority pole. So I’m happy to be back with my thoughts on an Oakland foodie landmark: Bakesale Betty.
 
 [![Bakesale-Betty-001](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Bakesale-Betty-001-500x325.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Bakesale-Betty-001.jpg)
@@ -56,13 +61,5 @@ For dessert, Bakesale Betty has a rotating list of cookies, scones, and usually,
 Despite being a food writer, I do not believe I’m prone to hyperbole. As you can see, I called the shortcake divine, and thus I mistrust the recollection I shared with my compatriots. Clearly, this requires further investigation. As I live a 10-minute walk away, that won’t be a problem. And the fact that I haven’t tried the buttermilk-fried tofu yet is practically a call to action.
 
 [![rating_truffle1.gif](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)
-
-**Bakesale Betty** 5098 Telegraph Avenue Temescal, Oakland [Website](http://www.bakesalebetty.com/) $8-$10
-
-[![Bakesale Betty](http://www.tabelog.us/restaurants/124239/blog_parts/logo/xxs.png)](http://www.tabelog.us/restaurants/bakesale-betty-124239)
-
-[![Bakesale Betty Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/16840437/minilink)](https://www.zomato.com/rockridge-n-temescal-ca/bakesale-betty-temescal "View Menu, Reviews, Photos & Information about Bakesale Betty, Temescal and other Restaurants in Rockridge/Temescal")
-
-[![Bakesale Betty on Foodio54](http://foodio54.com/images/badge-2-c323a.jpg)](http://foodio54.com/restaurant/Oakland-CA/c323a/Bakesale-Betty)
 
 _Reviewed 2 October 2015._

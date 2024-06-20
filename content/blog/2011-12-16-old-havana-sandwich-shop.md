@@ -29,7 +29,7 @@ tags:
   - "the-tampa"
 ---
 
-**Old Havana Sandwich Shop** 310 East Main Street Downtown Durham [Website](http://oldhavanaeats.com/) $5.50--$10
+**Old Havana Sandwich Shop** 310 East Main Street Downtown Durham [Website](http://oldhavanaeats.com/) $5.50–$10
 
  
 

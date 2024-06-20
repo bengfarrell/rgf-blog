@@ -31,7 +31,7 @@ tags:
   - "veal"
 ---
 
-**Maximillian’s Grill** 8314 Chapel Hill Road Cary [Website](http://www.maximilliansgrill.com/) $19-$35
+**Maximillian’s Grill** 8314 Chapel Hill Road Cary [Website](http://www.maximilliansgrill.com/) $19–$35
 
 [![Maximillians 08](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Maximillians-08-405x500.jpg)](http://www.thegourmez.com/2013/03/maximillians-grill/maximillians-08/)
 

@@ -25,7 +25,7 @@ Over four days in early November, I tried all three fan favorite fall flavors an
 
 ## Gloria Jean's Caramel Pecan Roll Coffee
 
-> [Day 1 of 4 trying Gloria Jean's fall coffee flavors. The Caramel Pecan Roll surprises me with restraint -- a fleetingly rich and earthy brew that earns its right to fill my mug. Sample. . . . . . #coffee #cafe #coffeetime #coffeelover #instacoffee #coffeegram #cuppa #drinklove #drinklovers #yummy #instadrink #drinkpics #java #lattelove #coffeeaddict #coffeeshots #fall #fallflavors #wakeup](https://www.instagram.com/p/BMeyrUEDkJm/)
+> [Day 1 of 4 trying Gloria Jean's fall coffee flavors. The Caramel Pecan Roll surprises me with restraint—a fleetingly rich and earthy brew that earns its right to fill my mug. Sample. . . . . . #coffee #cafe #coffeetime #coffeelover #instacoffee #coffeegram #cuppa #drinklove #drinklovers #yummy #instadrink #drinkpics #java #lattelove #coffeeaddict #coffeeshots #fall #fallflavors #wakeup](https://www.instagram.com/p/BMeyrUEDkJm/)
 >
 > A photo posted by Becca Gomez Farrell (@thegourmez) on Nov 6, 2016 at 11:53am PST
 

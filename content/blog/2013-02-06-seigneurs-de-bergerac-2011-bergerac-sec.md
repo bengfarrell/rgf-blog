@@ -39,7 +39,7 @@ A light patio pounder. Citrus and pears on the nose. Light taste of the same fru
 
 [Tammy's Tastings](http://tammystastings.blogspot.com/2006/08/light-summer-pasta.html) on the 2005 vintage
 
-It's one of my favorite wines for keeping around the house -- it's a little bit fruity and just a tiny bit off-dry and goes with every food I've ever tried to serve it with.
+It's one of my favorite wines for keeping around the house—it's a little bit fruity and just a tiny bit off-dry and goes with every food I've ever tried to serve it with.
 
 [Feed Me/Drink Me](http://feedmedrinkme.blogspot.com/2007/04/winos-unite-tasting-notes.html) on the 2005 vintage
 

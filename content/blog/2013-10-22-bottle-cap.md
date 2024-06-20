@@ -28,7 +28,7 @@ tags:
 
 [![bottle cap 06](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/bottle-cap-06.jpg)](http://www.thegourmez.com/2013/10/bottle-cap/bottle-cap-06/)
 
-Bottle Cap is whimsical on the outside, full of bright shiny colors that pulled me in right away. Inside it's just as mod-appealing -- crazy art in bold colors adorned the walls, and the blue patterned tables made me smile.
+Bottle Cap is whimsical on the outside, full of bright shiny colors that pulled me in right away. Inside it's just as mod-appealing—crazy art in bold colors adorned the walls, and the blue patterned tables made me smile.
 
 
 
@@ -60,7 +60,7 @@ I may not have been sold on the combination of gnocchi, artichoke, cauliflower, 
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-**Bottle Cap** 1707 Powell Street Washington Square, San Francisco Dinner: $10--$27 [Website](http://www.bottlecapsf.com/)
+**Bottle Cap** 1707 Powell Street Washington Square, San Francisco Dinner: $10–$27 [Website](http://www.bottlecapsf.com/)
 
 [![Bottle Cap on Urbanspoon](http://www.urbanspoon.com/b/link/1619519/minilink.gif)](http://www.urbanspoon.com/r/6/1619519/restaurant/North-Beach/Bottle-Cap-San-Francisco)
 

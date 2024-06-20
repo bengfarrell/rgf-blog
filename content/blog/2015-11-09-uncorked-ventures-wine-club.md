@@ -2,14 +2,6 @@
 title: "Uncorked Ventures Wine Club"
 date: "2015-11-09"
 categories:
-  - "carignan"
-  - "food-product-review"
-  - "grenache-blanc"
-  - "white-wine-blends"
-  - "pinot-noir"
-  - "product-reviews"
-  - "red-wine-review"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "bay-area"
@@ -49,25 +41,25 @@ While Bliss is doing exceptional work, we also have someone who employs a simila
 
 Uncorked Ventures is the result. Over lunch at Berkeley’s [Bartavelle](http://www.bartavellecafe.com/), I chatted with Mark about the company and his goals for it. I also had the good fortune to try out four of the wines that have featured in their wine club shipments over the past few months. Obligatory disclaimer: _Good fortune_ means they were provided to me as samples. I’d readily drink all four of them again, which is an admittedly higher satisfaction level than I’ve had from the two online wine clubs I’m already part of. Here are my brief thoughts on each:
 
-**Ranchero Cellars 2012 Carignan**
+## Ranchero Cellars 2012 Carignan
 
 [![Uncorked_Ventures_002](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Uncorked_Ventures_002-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Uncorked_Ventures_002.jpg)
 
 A humid Friday night at the mini-golf course, where dandelions grow between the lavender bushes and wet leaves spiral to the ground. Easy fun, and you’re old enough to appreciate how complex that can be to pull off.
 
-**Kinero Alice 2013 Grenache Blanc**
+## Kinero Alice 2013 Grenache Blanc
 
 [![Uncorked_Ventures_004](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Uncorked_Ventures_004-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Uncorked_Ventures_004.jpg)
 
 Trying a new-to-you dish from a favorite cuisine and realizing you’ve been camped at the entrance to the treasure trove for years. Annatto, green peppercorn, stewed pineapple, mealy pear, and roasted lemon make up the primary notes. That’s not even mentioning the Fun-Dip nose!
 
-**Portalupi Sonoma Coast Pinot Noir 2013**
+## Portalupi Sonoma Coast Pinot Noir 2013
 
 [![Uncorked_Ventures_001](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Uncorked_Ventures_001-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Uncorked_Ventures_001.jpg)
 
 I’ve had a lot of delicate pinots lately, and this one smashes right through them with a denser body that allows the classic cherry, vanilla, and cinnamon notes to flourish. Like moving into a crescendo from the prelude.
 
-**Aselstine Family Cellars Stony Peak White 2014**
+## Aselstine Family Cellars Stony Peak White 2014
 
 [![Uncorked_Ventures_003](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Uncorked_Ventures_003-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Uncorked_Ventures_003.jpg)
 

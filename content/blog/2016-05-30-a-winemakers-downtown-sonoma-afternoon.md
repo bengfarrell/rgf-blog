@@ -41,9 +41,9 @@ His best advice? Pace yourself so you can enjoy as much of the various styles of
 
 [![LaSalette Brick Oven downtown Sonoma](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/MathesSonoma-09-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/MathesSonoma-09.jpg)
 
-LaSalette serves New Portuguese cuisine, and you can find it at the cozy end of the courtyard passage just past the historic Sebastiani Theatre. It’s on the pricy side at $24-$30 per entrée, but going at lunch makes it more affordable.
+LaSalette serves New Portuguese cuisine, and you can find it at the cozy end of the courtyard passage just past the historic Sebastiani Theatre. It’s on the pricy side at $24–$30 per entrée, but going at lunch makes it more affordable.
 
-I’m not one who typically enjoys watching chefs work -- I’m more interested in what ends up on my plate -- but seeing them make expert use of that beautiful oven made lunch quite entertaining.
+I’m not one who typically enjoys watching chefs work—I’m more interested in what ends up on my plate—but seeing them make expert use of that beautiful oven made lunch quite entertaining.
 
 [![LaSalette chef downtown Sonoma](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/MathesSonoma-10-353x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/MathesSonoma-10.jpg)
 
@@ -89,7 +89,7 @@ If you head inside this tasting room, make sure to ask for the white wines made 
 [![Henry Matthes and Passaggio’s winemaker, Cynthia Cosco.](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/MathesSonoma-29-373x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/MathesSonoma-29.jpg) Henry Matthes and Passaggio’s winemaker, Cynthia Cosco.</div>
 
 
-Though I had not tried any Passaggio wines before, I knew of it as it happens to be a favorite of the local wine blogger community -- in large part, because winemaker Cynthia Cosco is a pretty regular blogger herself. Luckily for me, Cynthia happened to be in when Henry and I passed by. As they enjoyed catching up on all the industry happenings, I sampled a couple glasses from the many, many varieties on offer in this tasting room. Cynthia is a busy woman!
+Though I had not tried any Passaggio wines before, I knew of it as it happens to be a favorite of the local wine blogger community—in large part, because winemaker Cynthia Cosco is a pretty regular blogger herself. Luckily for me, Cynthia happened to be in when Henry and I passed by. As they enjoyed catching up on all the industry happenings, I sampled a couple glasses from the many, many varieties on offer in this tasting room. Cynthia is a busy woman!
 
 [![Passaggio Tempranillo Rose](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/MathesSonoma-26-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/05/MathesSonoma-26.jpg)
 

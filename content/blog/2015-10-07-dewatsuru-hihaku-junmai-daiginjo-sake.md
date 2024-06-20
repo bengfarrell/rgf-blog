@@ -21,7 +21,8 @@ tags:
   - "violet"
 ---
 
-**Dewatsuru Hihaku Junmai Daiginjo Sake** Akita Seishu, Japan ABV 14.2%
+**Region:** Akita Seishu, Japan\
+ABV: 14.2%
 
 [![Dewatsuru Hihaku Sake](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/Dewatsuru-Hihaku-Sake-390x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/Dewatsuru-Hihaku-Sake.jpg)
 

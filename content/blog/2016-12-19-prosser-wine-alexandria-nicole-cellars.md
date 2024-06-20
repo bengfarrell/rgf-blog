@@ -68,7 +68,7 @@ More on that later. But first, you and I are heading to their Prosser-based tast
 
 [![alexandria nicole tasting room prosser](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-183-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-183.jpg)
 
-Being housed in a strip mall signifies the Prosser experience to me. Excellent wine tasting awaits -- you just have to know where to look! I'm hoping this series of posts will demystify that for wine travelers ready and willing to craft their own amazing vacation to the Prosser Area. At Alexandria Nicole, one place to check out, if you're a wine member, is the secret lounge—yes, behind a movable bookcase.
+Being housed in a strip mall signifies the Prosser experience to me. Excellent wine tasting awaits—you just have to know where to look! I'm hoping this series of posts will demystify that for wine travelers ready and willing to craft their own amazing vacation to the Prosser Area. At Alexandria Nicole, one place to check out, if you're a wine member, is the secret lounge—yes, behind a movable bookcase.
 
 [![Alexandria nicole secret room tasting](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-187-402x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-187.jpg)
 

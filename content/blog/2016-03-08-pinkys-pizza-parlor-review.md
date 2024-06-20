@@ -36,11 +36,11 @@ Pinky’s Pizza Parlor is a neighborhood joint worth leaving your neighborhood f
 [![Black Butte Porter!](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Peppers_Pizzza_07-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Peppers_Pizzza_07.jpg) $2 Black Butte Porter!</div>
 
 
-I’m as much of a fan of their main draw -- pizza -- as I am of their bar deals.
+I’m as much of a fan of their main draw—pizza—as I am of their bar deals.
 
 [![Pinky's Pizza Half and Half](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Peppers_Pizzza_09-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Peppers_Pizzza_09.jpg)
 
-It’s Californian in style, i.e., fit as many toppings on a pie as possible and bake a crust with enough substance to support them. For me, that’s perfect. New Yorkers, however, will be disappointed -- these slices do not flop over from length or grease. Instead, they satisfy with plenty of creative combinations and a crust that’s extra crunchy at the ends. The cheese is a blend of mozzarella, cheddar, and provolone. The pie pictured above is half “Bud Jones” and half “Randy’s Hot Friday,” and I am not going to list the toppings because those names are long enough already. Suffice it to say each has at least five ingredients and going half and half is no problem at all. Is your favorite combination no longer on the menu? No worries, they’ll still make it for you. Pinky’s even has a brunch pizza where eggs come over easy or scrambled with bacon and scallions. How fun!
+It’s Californian in style, i.e., fit as many toppings on a pie as possible and bake a crust with enough substance to support them. For me, that’s perfect. New Yorkers, however, will be disappointed—these slices do not flop over from length or grease. Instead, they satisfy with plenty of creative combinations and a crust that’s extra crunchy at the ends. The cheese is a blend of mozzarella, cheddar, and provolone. The pie pictured above is half “Bud Jones” and half “Randy’s Hot Friday,” and I am not going to list the toppings because those names are long enough already. Suffice it to say each has at least five ingredients and going half and half is no problem at all. Is your favorite combination no longer on the menu? No worries, they’ll still make it for you. Pinky’s even has a brunch pizza where eggs come over easy or scrambled with bacon and scallions. How fun!
 
 Don’t forget to add plenty of Pinky’s pizza dust.
 

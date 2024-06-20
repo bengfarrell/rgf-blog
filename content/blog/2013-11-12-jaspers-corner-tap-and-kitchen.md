@@ -85,7 +85,7 @@ In case you can't tell, I will definitely visit Jasper's again. I recommend bypa
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-**Jasper's Corner Tap and Kitchen** 401 Taylor Street The Tenderloin, San Francisco [Website](http://www.jasperscornertap.com/) Eat for $8--$21
+**Jasper's Corner Tap and Kitchen** 401 Taylor Street The Tenderloin, San Francisco [Website](http://www.jasperscornertap.com/) Eat for $8–$21
 
 [![Jasper's on Urbanspoon](http://www.urbanspoon.com/b/link/1629571/minilink.gif)](http://www.urbanspoon.com/r/6/1629571/restaurant/Civic-Center/Jaspers-San-Francisco)
 

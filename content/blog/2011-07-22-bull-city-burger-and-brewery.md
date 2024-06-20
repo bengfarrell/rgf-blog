@@ -70,7 +70,7 @@ Oh, look, it’s at this point in my blogging that I lost my camera! Wow, it’s
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/07/bcbb10.jpg "bcbb10")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/07/bcbb10.jpg)
 
-Now my only real complaint about BCBB is that those topping prices should probably be cut in half--$1 each for a slice of cheese, a scoop of peppers, and three cucumber slices is a bit steep. That’s why I think getting a specialty burger like my husband did is a better deal—an extra topping or two for your money. Now if you don’t want to add much, and you certainly don’t need to with all the included toppings, then I think $6 for a burger is totally reasonable. I thought the meat tasted great though it could use a little more imagination with seasoning. And my bun didn’t fall apart, hooray! I hate wimpy buns.
+Now my only real complaint about BCBB is that those topping prices should probably be cut in half–$1 each for a slice of cheese, a scoop of peppers, and three cucumber slices is a bit steep. That’s why I think getting a specialty burger like my husband did is a better deal—an extra topping or two for your money. Now if you don’t want to add much, and you certainly don’t need to with all the included toppings, then I think $6 for a burger is totally reasonable. I thought the meat tasted great though it could use a little more imagination with seasoning. And my bun didn’t fall apart, hooray! I hate wimpy buns.
 
 I think Bull City Burger and Brewery is an excellent choice for a good burger and a drink to wash it down with. I’ll be back, likely many, many times.
 

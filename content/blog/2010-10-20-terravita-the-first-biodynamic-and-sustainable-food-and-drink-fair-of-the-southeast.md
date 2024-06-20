@@ -108,7 +108,7 @@ I found that tea was a great palate cleanser between plates and Kit Conway of Te
 
 I enjoyed sampling a few of her offerings and the wonderful iced tea from Teatulia across the way.
 
-In between gluttony, I listened to one of 3 Cups fine owners, Lex Alexander, talk about the differences between chemical wine concoctions and natural wines. He gave great insight into why 3 Cups aims for wines in the $12--$20 range from Europe, namely, that US wines of the same range tend to be more factory-produced and less of the soil.
+In between gluttony, I listened to one of 3 Cups fine owners, Lex Alexander, talk about the differences between chemical wine concoctions and natural wines. He gave great insight into why 3 Cups aims for wines in the $12–$20 range from Europe, namely, that US wines of the same range tend to be more factory-produced and less of the soil.
 
 Thanks for inviting me, Colleen! Here are some more pictures from the event. If you were a participant, and you aren’t on the blog, there may be pictures of you on my photo website as well. Please let me know if I get any ingredients or pairings of restaurants and offerings wrong!
 

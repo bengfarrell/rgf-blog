@@ -13,7 +13,7 @@ tags:
   - "sushi-durham"
 ---
 
-**Momoyama** 8200 Renaissance Parkway Southpoint, Durham [Website](http://www.momoyamasushi.com/) Entrees: $11--$18. Sushi Combo Dinners: $18--$87.
+**Momoyama** 8200 Renaissance Parkway Southpoint, Durham [Website](http://www.momoyamasushi.com/) Entrees: $11–$18. Sushi Combo Dinners: $18–$87.
 
 ![](http://www.thegourmez.com/gourmez/photos/momoyama1.jpg)
 

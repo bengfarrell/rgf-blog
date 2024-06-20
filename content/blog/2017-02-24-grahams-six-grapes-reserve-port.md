@@ -31,7 +31,7 @@ I love port. The richness, depth of flavors, and luxurious mood that port impart
 
 I found Six Grapes fit to be drunk in a drafty castle nook while waiting to take your claim before the king. Raisin, sticky quince paste, mocha, and an undercurrent of muted clove and cinnamon warm you with surety. You can taste your victory in the glass.
 
-Perhaps unsurprisingly, as Six Grapes is a younger port than many, it straddled the line between a fully aged port and red wine -- all the more reason to ponder it more deeply with a second pour.
+Perhaps unsurprisingly, as Six Grapes is a younger port than many, it straddled the line between a fully aged port and red wine—all the more reason to ponder it more deeply with a second pour.
 
 
 

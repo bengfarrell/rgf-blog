@@ -15,7 +15,7 @@ tags:
   - "sweet-vinegar-sauce"
 ---
 
-**Peppers Market and Sandwich Shop** 2107 Grace Park Drive Grace Park, Morrisville [Website](http://www.peppersmrkt.com/) Breakfast: $2.99--$7.50 Lunch: $7.25--$8.25 Hours: 7 am—4 pm M—F 8 am—4 pm Sat 9 am—3 pm Sun
+**Peppers Market and Sandwich Shop** 2107 Grace Park Drive Grace Park, Morrisville [Website](http://www.peppersmrkt.com/) Breakfast: $2.99–$7.50 Lunch: $7.25–$8.25 Hours: 7 am—4 pm M—F 8 am—4 pm Sat 9 am—3 pm Sun
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/peppers4.jpg "peppers4")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/peppers4.jpg)
 

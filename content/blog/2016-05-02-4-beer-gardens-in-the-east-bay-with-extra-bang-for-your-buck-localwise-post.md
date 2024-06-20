@@ -38,7 +38,7 @@ The other two beer gardens that have most impressed me--thus far--in the East Ba
 
 [![Drake's Dealership duck confit beer garden](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/drakes02-500x281.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/drakes02.jpg)
 
-Hope you enjoy the new Localwise post! And I am always open for beer garden suggestions -- I may not be the biggest beer drinker, but I love trying new brews regardless.
+Hope you enjoy the new Localwise post! And I am always open for beer garden suggestions—I may not be the biggest beer drinker, but I love trying new brews regardless.
 
 
 

@@ -28,7 +28,7 @@ tags:
   - "tornquist"
 ---
 
-**Hummingbird Bakery** 771 Broad Street Old West Durham, Durham [Website](http://www.hummingbird-durham.com/) Lunch: $6.50 -- $9.00
+**Hummingbird Bakery** 771 Broad Street Old West Durham, Durham [Website](http://www.hummingbird-durham.com/) Lunch: $6.50 -–$9.00
 
 [![Hummingbird_Bakery09](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/Hummingbird_Bakery09.jpg)](http://www.thegourmez.com/2013/01/hummingbird-bakery/hummingbird_bakery09/)
 

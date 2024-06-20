@@ -76,7 +76,7 @@ My visions of amazing food in Santa Cruz’s upscale restaurants have yet to mat
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
 
-**The Crow’s Nest** 2218 East Cliff Drive Santa Cruz [Website](http://www.crowsnest-santacruz.com/) $18--$30
+**The Crow’s Nest** 2218 East Cliff Drive Santa Cruz [Website](http://www.crowsnest-santacruz.com/) $18–$30
 
 [![Crow's Nest Restaurant on Urbanspoon](http://www.urbanspoon.com/b/link/765127/minilink.gif)](http://www.urbanspoon.com/r/277/765127/restaurant/Monterey-Bay/Crows-Nest-Restaurant-Santa-Cruz) [![The Crow's Nest Restaurant on Foodio54](http://foodio54.com/images/badge-2-f21d3.jpg)](http://foodio54.com/restaurant/Santa-Cruz-CA/f21d3/The-Crows-Nest-Restaurant)
 

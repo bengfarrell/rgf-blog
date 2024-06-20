@@ -18,7 +18,7 @@ tags:
   - "yellowfin-tuna"
 ---
 
-**Blu Seafood and Bar** 2002 Hillsborough Road Ninth Street District, Durham [Website](http://bluseafoodandbar.com/) Entrees: $16.50--$22.50
+**Blu Seafood and Bar** 2002 Hillsborough Road Ninth Street District, Durham [Website](http://bluseafoodandbar.com/) Entrees: $16.50–$22.50
 
 This was not my first visit to Blu, an upscale but relaxed restaurant with plenty of blue splashes throughout the interior to remind you of their name. I found their cuisine okay that first time, a ![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") of a spot that I thought I had a review up for, but apparently, I'm imagining that I wrote one. Since I've imagined ordering entire menu items before, that doesn't surprise me.  I do remember thinking the food was fine on that first trip but that nothing stood out for me in particular. You see, my expectations were high because Lenore of [Eclectic Glob of Tangential Verbosity](http://eronel.blogspot.com/) has continually posted drool-worthy blogs on her innumerable dining experiences there. So that average meal I had seemed lackluster in comparison to the ones she's shared with us online. The solution? Try it again with Lenore! Since she's tried nearly everything on the menu, she was able to suggest the best options with no problem. Plus, since she's so well-known at Blu, we got to take advantage of her celebrity with two free appetizers. Score!
 

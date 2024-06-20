@@ -1,5 +1,5 @@
 ---
-title: "Guglhupf Cafe (Durham) -- Restaurant Review"
+title: "Guglhupf Cafe (Durham)—Restaurant Review"
 date: "2009-12-04"
 categories:
   - "durham-restaurant-reviews"
@@ -20,7 +20,7 @@ tags:
   - "the-gourmez-review"
 ---
 
-Hello everyone!  I just got back from Costa Rica last night -- the reason why there haven't been any posts in a week! I will have a travelogue up for the trip in a few days but in the meantime, let's get back on track. Here's a restaurant review of one of my favorite spots in Durham.
+Hello everyone!  I just got back from Costa Rica last night—the reason why there haven't been any posts in a week! I will have a travelogue up for the trip in a few days but in the meantime, let's get back on track. Here's a restaurant review of one of my favorite spots in Durham.
 
 **Guglhupf Café** 2706 Durham-Chapel Hill Blvd. Durham [Website](http://www.guglhupf.com/cafe/) Sharing/Small Plates: $8-12 Entrees: $16-20
 

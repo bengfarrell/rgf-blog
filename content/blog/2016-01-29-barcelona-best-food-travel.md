@@ -112,7 +112,7 @@ While exploring the splendors of the Gothic Quarter, we came across a mysterious
 
 [![2014_Barcelona_485](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_485-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_485.jpg)[![2014_Barcelona_484](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_484-500x395.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_484.jpg)
 
-The sunny patio on the plaza would be ideal for warm days, but we were happy to cozy up inside with that cheese platter -- a quite generous portion for 12 euros, especially in that area! Of course, there’s the bonus of returning to your stroll of Barcelona’s most historic streets after your rest.
+The sunny patio on the plaza would be ideal for warm days, but we were happy to cozy up inside with that cheese platter—a quite generous portion for 12 euros, especially in that area! Of course, there’s the bonus of returning to your stroll of Barcelona’s most historic streets after your rest.
 
 [![2014_Barcelona_740](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_740-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_740.jpg) [![2014_Barcelona_744](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_744-366x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_744.jpg) [![2014_Barcelona_749](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_749-379x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_749.jpg) [![2014_Barcelona_398](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_398-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_398.jpg) [![2014_Barcelona_374](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_374-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_374.jpg) [![2014_Barcelona_363](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_363-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_363.jpg) [![2014_Barcelona_352](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_352-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_352.jpg)
 
@@ -132,7 +132,7 @@ Carpaccio Cut also serves fruit and vegetables in the carpaccio style!
 
 [![2014_Barcelona_571](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_571-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_571.jpg)
 
-That pear salad was delightful, though I can only remember vanilla oil from among its ingredients -- this is not a restaurant apt to keep the same menu items as freshness is of upmost importance to carpaccio preparations. So is good bar design!
+That pear salad was delightful, though I can only remember vanilla oil from among its ingredients—this is not a restaurant apt to keep the same menu items as freshness is of upmost importance to carpaccio preparations. So is good bar design!
 
 [![2014_Barcelona_570](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_570-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_570.jpg)
 
@@ -140,4 +140,4 @@ I hope I’ve given you a few plates to check out when you’re in Barcelona. In
 
 [![2014_Barcelona_125](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_125-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_125.jpg)
 
-That’s me with my largest unexpected find while exploring outside Barcelona’s downtown blocks -- Fernando Botero’s aptly named _Cat_ in the Raval. Not edible, but certainly as memorable as every Barcelona discovery we made. _Adéu i bon profit!_
+That’s me with my largest unexpected find while exploring outside Barcelona’s downtown blocks—Fernando Botero’s aptly named _Cat_ in the Raval. Not edible, but certainly as memorable as every Barcelona discovery we made. _Adéu i bon profit!_

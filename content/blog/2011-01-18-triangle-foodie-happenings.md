@@ -36,7 +36,7 @@ Next up, wine!
 > 
 > Hosted by winemakers and winery owners from all over the country, this evening pairs some of the Triangle’s hottest restaurants with the world’s finest wines. Attendees will be able to choose from 30 amazing pairings of the finest wines with cuisines designed to compliment. It's $125 per person, and there's quite the list of restaurants to choose from.
 > 
-> **Saturday, February 5, 1:00 -- 3:00 p.m. – Sip, Shop, & Sign**
+> **Saturday, February 5, 1:00—3:00 p.m. – Sip, Shop, & Sign**
 > 
 > Local retail shops will host participating wine makers/winery owners to sample their wines so customers can taste, buy, and have their bottle signed. No registration needed, just show up at participating stores to try some wine!
 > 

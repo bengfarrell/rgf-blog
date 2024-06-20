@@ -15,7 +15,7 @@ tags:
   - "taco"
 ---
 
-**Pollos La Carbonera** \*CLOSED\* 606 Fayetteville Road Hayti District, Durham $2--$8 per item
+**Pollos La Carbonera** \*CLOSED\* 606 Fayetteville Road Hayti District, Durham $2–$8 per item
 
 ![](http://www.thegourmez.com/gourmez/photos/polloslacarbonara01.JPG)
 

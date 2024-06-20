@@ -38,7 +38,7 @@ It's part of Cape Classics' campaign to bring awareness of South African culture
 [![A group of my friends barbecuing on my deck, oh, 15 years ago in Santa Cruz.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/06/College_Junior_111.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2013/06/College_Junior_111.jpg) A group of my friends barbecuing on my deck, oh, 15 years ago in Santa Cruz.</div>
 
 
-Americans, I think we've got this. And while we may usually have barbecues on Memorial Day, July 4th, and Labor Day, pretty much every holiday in South Africa is a day for braai -- so much so that they gave it its own national holiday in 2005! [National Braai Day](http://braai.com/) is celebrated as part of National Heritage Day on September 24 each year.
+Americans, I think we've got this. And while we may usually have barbecues on Memorial Day, July 4th, and Labor Day, pretty much every holiday in South Africa is a day for braai—so much so that they gave it its own national holiday in 2005! [National Braai Day](http://braai.com/) is celebrated as part of National Heritage Day on September 24 each year.
 
 And of course, what is a celebration without good drinks? South Africa has exceptional wines and Cape Classic is an importer of those wines. For this contest, they chose to highlight [Indaba Wines,](https://indabawines.com/?age-verified=668cbf477f) one of their oldest clients and a great example of sustainability practices and giving back to their employees.
 

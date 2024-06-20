@@ -2,9 +2,7 @@
 title: "2015 Finger Lakes Riesling Launch"
 date: "2015-12-01"
 categories: 
-  - "dessert-wine-reviews"
-  - "riesling"
-  - "white-wine-reviews"
+  - "wine"
 tags: 
   - "2014-vintage"
   - "comparisons"

@@ -27,7 +27,7 @@ tags:
 
 [![2015-Vancouver-095](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-095-1024x425.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-095.jpg)
 
-In this post, we’ll take our last Vancouver walk together -- this time with plenty of food and drink to make up for all of those burned calories at [Stanley Park](http://thegourmez.com/2016/01/15/stanley-park/)! My sojourn in Vancouver was made easier by having my two nights’ stay comped by [Nightswapping](http://nightswapping.com), a travel app and website that sets up willing home hosts with willing house guests for free, earning their own free nights in exchange. With the code **Gourmez-NS**,  you too can get a free night’s stay in Vancouver, or anywhere else with a willing host, from Nightswapping. Simply create a new account and type it into the “Add Promo Code” or “Add Coupon” section. [I reviewed the Nightswapping experience right here.](http://thegourmez.com/2015/12/07/product-review-nightswapping-a-new-travel-lodging-exchange-site/)
+In this post, we’ll take our last Vancouver walk together—this time with plenty of food and drink to make up for all of those burned calories at [Stanley Park](http://thegourmez.com/2016/01/15/stanley-park/)! My sojourn in Vancouver was made easier by having my two nights’ stay comped by [Nightswapping](http://nightswapping.com), a travel app and website that sets up willing home hosts with willing house guests for free, earning their own free nights in exchange. With the code **Gourmez-NS**,  you too can get a free night’s stay in Vancouver, or anywhere else with a willing host, from Nightswapping. Simply create a new account and type it into the “Add Promo Code” or “Add Coupon” section. [I reviewed the Nightswapping experience right here.](http://thegourmez.com/2015/12/07/product-review-nightswapping-a-new-travel-lodging-exchange-site/)
 
 And I’m concluding my blog series on Vancouver right here, in the dark.
 
@@ -57,7 +57,7 @@ The city blazed after the sun set, and my hunger pains soon followed. Luckily, A
 
 [![2015-Vancouver-105](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-105-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-105.jpg)
 
-Gastown has some of the trendiest blocks in the city now -- and plenty of taverns and seedy streets as well, so don’t wander too far from the shiny lights. Anita, knowing I was a food blogger, recommended [Tacofino](http://tacofino.com/gastown-home) (15 W. Cordova St, enter through the alley unless you want the burrito take-out bar), a food truck with a loyal following that expanded to a brick-and-mortar spot last year.
+Gastown has some of the trendiest blocks in the city now—and plenty of taverns and seedy streets as well, so don’t wander too far from the shiny lights. Anita, knowing I was a food blogger, recommended [Tacofino](http://tacofino.com/gastown-home) (15 W. Cordova St, enter through the alley unless you want the burrito take-out bar), a food truck with a loyal following that expanded to a brick-and-mortar spot last year.
 
 [![2015-Vancouver-126](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-126-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-126.jpg)
 
@@ -69,7 +69,7 @@ It was packed, so we put in our names for a 45-minute wait that was more like 2 
 
 [![2015-Vancouver-114](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-114-466x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-114.jpg)
 
-My own Jaws, with coconut-crusted catfish, kimchi tartar sauce, microgreens, and Thai vinaigrette, was lackluster in comparison -- I should have just had the tuna like Anita recommended.
+My own Jaws, with coconut-crusted catfish, kimchi tartar sauce, microgreens, and Thai vinaigrette, was lackluster in comparison—I should have just had the tuna like Anita recommended.
 
 [![2015-Vancouver-116](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-116-500x354.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-116.jpg)
 
@@ -91,7 +91,7 @@ Finally, finally it was time to get a seat at Tacofino.
 
 [![2015-Vancouver-125](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-125-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-125.jpg)
 
-Well, first we slid into an open spot at the bar and about ten minutes later our table was ready -- our order was up practically before we were seated, which means service is fast even if seating is not.
+Well, first we slid into an open spot at the bar and about ten minutes later our table was ready—our order was up practically before we were seated, which means service is fast even if seating is not.
 
 I have to say, while there were interesting ingredient combinations, overall, I did not find Tacofino worth a two-hour wait.
 

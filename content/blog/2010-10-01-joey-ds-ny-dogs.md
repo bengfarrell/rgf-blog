@@ -16,7 +16,7 @@ tags:
   - "the-rock-shop"
 ---
 
-**Joey D’s NY Dogs** \*CLOSED\* 3121 Hillsborough Road at the Rock Shop lot. [Website](http://www.joeydsnydogs.com/) Dogs and Sausages: $3--$4 Chips and a drink added for an extra $1.25
+**Joey D’s NY Dogs** \*CLOSED\* 3121 Hillsborough Road at the Rock Shop lot. [Website](http://www.joeydsnydogs.com/) Dogs and Sausages: $3–$4 Chips and a drink added for an extra $1.25
 
 Joey D’s NY Dogs is a new food cart offering freshly grilled, Sahleen brand hot dogs and sausages from Buffalo. Joey’s website declares that they are traditionally “garnished with fewer toppings than in other cities. Why? When grilled, these hot dogs taste good enough to enjoy on their own.”
 

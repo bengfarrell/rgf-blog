@@ -2,7 +2,8 @@
 title: "Infuse Your Meal at the Infusion Lounge When You Visit San Francisco"
 date: "2015-11-16"
 categories:
-  - "san-francisco-restaurant-review"
+  - "product-reviews"
+  - "announcements"
   - "restaurants"
 tags:
   - "asian-fusion"
@@ -26,7 +27,7 @@ _**Obligatory Disclaimer:** This post was written and sponsored by Groupon._
 
 _Why is Groupon so excited to tell you about this San Francisco hot spot? Because it's a chance to show off their  feature, Groupon Pages, which just turned a year old! What is it? "A directory of businesses across the country, including thousands of restaurants. Each restaurant’s page includes basic information (address, takes credit cards, etc.), tips for what to order, reviews, links to Groupon deals, and more." The Groupon deals, of course, are prominently featured along with offers for nearby businesses._
 
-It’s no secret, the city of San Francisco is one of the most inviting cities in California, if not the entire West Coast. San Francisco is famous for its arts and culture scene that has thrived there for decades, as well as the city’s close proximity to Silicon Valley. Standing at the intersection of art and technology makes San Francisco a great destination to travel to, but travelers also rave about something else -- the food!
+It’s no secret, the city of San Francisco is one of the most inviting cities in California, if not the entire West Coast. San Francisco is famous for its arts and culture scene that has thrived there for decades, as well as the city’s close proximity to Silicon Valley. Standing at the intersection of art and technology makes San Francisco a great destination to travel to, but travelers also rave about something else—the food!
 
 Without a doubt, the cuisine of San Francisco is broad and varied. But one spot that everyone, tourist and locals alike, needs to experience is the [Infusion Lounge](https://www.groupon.com/biz/san-francisco/infusion-lounge). This isn’t your typical restaurant; the Infusion Lounge has everything you are looking for in a great dinner spot. Start with the menu. Created by Chef Evan Turn, Infusion features a menu full of Pan-Asian dishes. Traditional appetizers like mini burgers are topped with wasabi aioli. Entrees have a similar Asian flare. Tea-scented coconut ribs and papaya-mango salads are just a few of the items that will have your mouth watering. The cocktail menu is just as varied. Lemon-drop cocktails are topped with a hint of ginger by bartenders that can make any drink that you desire.
 
@@ -46,4 +47,4 @@ _Here's a little peek at what [the Groupon Page for Infusion Lounge](https://www
 
 _[![infusionlounge](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/infusionlounge-500x459.png)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/infusionlounge.png)_
 
-_Honestly, it's a nice, clean design with solid tips from verified customers. Worth the visit when you're deciding where to go -- The Gourmez_
+_Honestly, it's a nice, clean design with solid tips from verified customers. Worth the visit when you're deciding where to go—The Gourmez_

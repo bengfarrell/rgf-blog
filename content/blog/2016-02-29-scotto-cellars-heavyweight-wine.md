@@ -32,7 +32,7 @@ To make that a little clearer, I found it well-balanced with a good finish, and 
 
 For the cabernet sauvignon, my description lives on: _A wine of potentiality. Presently a funnel of spice, sucking you into a pit of blackberry tar. In time, the funnel may dissipate into mist, and the tar bake to brownies, but will I wait that long?_
 
-In other words, aging is recommended to realize this wine’s full potential -- but it definitely has that potential. Here’s the Quini profile (ignore that it says White Stone Vineyards):
+In other words, aging is recommended to realize this wine’s full potential—but it definitely has that potential. Here’s the Quini profile (ignore that it says White Stone Vineyards):
 
 [![Heavyweight Wine Cabernet Sauvignon Review](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/Heavyweight-Cabernet-Sauv-1024x716.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/Heavyweight-Cabernet-Sauv.jpg)
 

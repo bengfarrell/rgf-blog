@@ -1,5 +1,5 @@
 ---
-title: "Saint Mazu and the Fountain -- A Photo Essay"
+title: "Saint Mazu and the Fountain—A Photo Essay"
 date: "2009-12-18"
 categories:
   - "announcements"
@@ -14,7 +14,7 @@ tags:
 
 Mazu, our five-month-old kitten, has four goals in life: 1) Convert house plants into litter boxes, 2) Rush out the front door, 3) Pretend I'm a tree, and 4) Defeat the monster in the water bowl.
 
-It's a Petmate water fountain and the motor makes sucking noises whenever the water gets low. To Mazu, these noises can only mean one thing -- there's a monster in there somewhere and she's going to get it. She spends at least half her day batting water out of the thing so the noise comes back and she can attack it. Please enjoy these images of one such battle.
+It's a Petmate water fountain and the motor makes sucking noises whenever the water gets low. To Mazu, these noises can only mean one thing—there's a monster in there somewhere and she's going to get it. She spends at least half her day batting water out of the thing so the noise comes back and she can attack it. Please enjoy these images of one such battle.
 
 
 

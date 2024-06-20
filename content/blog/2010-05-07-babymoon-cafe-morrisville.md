@@ -18,7 +18,7 @@ tags:
   - "tiramisu"
 ---
 
-Babymoon Café 100 Jerusalem Drive, Suite 106 Morrisville [Website](http://www.babymooncafe.com/) Pasta/Entrees: $9.95--$23.95 Sandwiches/Pizzas: $7.25--$16.95
+Babymoon Café 100 Jerusalem Drive, Suite 106 Morrisville [Website](http://www.babymooncafe.com/) Pasta/Entrees: $9.95–$23.95 Sandwiches/Pizzas: $7.25–$16.95
 
 Babymoon Café is an Italian restaurant in the tradition of most Italian restaurants in the US: pastas, pizza, calzones, subs, and Rat Pack music playing in the background. Their porch is very inviting, and I especially liked the trellis's design.
 

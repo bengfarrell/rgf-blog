@@ -37,7 +37,7 @@ Other Bloggers’ Thoughts:
 
 [drinkhacker](http://www.drinkhacker.com/2009/11/03/review-the-kraken-black-spiced-rum/)
 
-The Kraken---the rum, that is---cuts quite a profile in consumption, a truly monstrous hit of chocolate and molasses, cut with Christmas spices -- cinnamon and allspice, cloves and maybe even some ginger. Vanilla is big on the finish. Overall the effect is quite impressive, and any spiced rum fan will get a big kick out of The Kraken.
+The Kraken---the rum, that is---cuts quite a profile in consumption, a truly monstrous hit of chocolate and molasses, cut with Christmas spices—cinnamon and allspice, cloves and maybe even some ginger. Vanilla is big on the finish. Overall the effect is quite impressive, and any spiced rum fan will get a big kick out of The Kraken.
 
 Again, at 94 proof, it needs a bit of water if you're sipping it straight, and it works just fine with your standard mixers---though last night I was bemoaning the fact that no good recipes exist using spiced rum. The price is also right.
 

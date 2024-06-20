@@ -18,7 +18,7 @@ tags:
   - "triangle-lunch"
 ---
 
-**Sandwhich** 407 West Franklin Street Downtown, Chapel Hill [Website](http://sandwhich.biz) Sandwiches: $6.50--$9.50
+**Sandwhich** 407 West Franklin Street Downtown, Chapel Hill [Website](http://sandwhich.biz) Sandwiches: $6.50–$9.50
 
 Sandwhich is a lunch spot in downtown Chapel Hill that is known for their high quality, local ingredients and the price tag to go with it. At present, they are located in the Courtyard of Chapel Hill, right behind Penang. However, they are moving very soon (4.3.10) (4.10.10) to a location down the road, and they will be offering dinner, brunch, and late night dining on Saturdays after their expansion. After this meal, I have no doubt that Sandwhich's tasty, good food will do well with a dinner focus, and I think I will be able to better stomach the prices for it in the evening. This move sounds like a great idea all-around.
 

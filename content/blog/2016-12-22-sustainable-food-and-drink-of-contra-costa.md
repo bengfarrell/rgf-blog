@@ -116,7 +116,7 @@ But my favorite Diablo Valley College offering was the summer corn salad featuri
 
 [![corn salad diablo valley college](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-035-476x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/SCOCO2016-035.jpg)
 
-I love sweet corn so much, y'all, and the dressing was nicely used to apply only enough moisture to bind the ingredients together -- it didn't steal the show away from the naturally delightful flavors of fresh produce.
+I love sweet corn so much, y'all, and the dressing was nicely used to apply only enough moisture to bind the ingredients together—it didn't steal the show away from the naturally delightful flavors of fresh produce.
 
 The 2015 Sauvignon Blanc from [Hannah Nicole Winery](http://www.hnvwines.com/) would go quite well with that salad, adding fruitiness through strawberry marshmallow notes and salt from a clean, saline body.
 

@@ -109,6 +109,6 @@ You can purchase any of the wines I’ve mentioned at their wineries’ websites
 [![A chalk drawing on the sidewalk that reads Love the Wine You're With](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon230-500x394.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/12/2021-WBC-Oregon230.png) Enjoying McMinnville sidewalk art.</div>
 
 
-The excursions at the WMC continue to be the highlights of the whole trip, and a great deal from $20-$40 for the experiences. In addition to the warm and vibrant wine media community I’ve come to love, the WMC excursions are a big reason I’ve attended five times since my first conference in 2013. We’re still waiting to learn where 2022’s conference will be, but my hat goes off to [Zephyr Adventures](https://www.zephyradventures.com/) for managing to pull together a WMC at all in 2021.
+The excursions at the WMC continue to be the highlights of the whole trip, and a great deal from $20–$40 for the experiences. In addition to the warm and vibrant wine media community I’ve come to love, the WMC excursions are a big reason I’ve attended five times since my first conference in 2013. We’re still waiting to learn where 2022’s conference will be, but my hat goes off to [Zephyr Adventures](https://www.zephyradventures.com/) for managing to pull together a WMC at all in 2021.
 
 _Excursion enjoyed August 8, 2021._

@@ -60,7 +60,7 @@ If you're interested in seeing all those crazy combinations, _Serious Eats_ actu
 ![Thank you, Pink's!](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/me-at-pinks-500x5001.jpg) Foodie mission acocomplished!</div>
 
 
-**Pink's Hot Dogs** 709 North La Brea Avenue Hollywood, Los Angeles [Website](http://www.pinkshollywood.com/) $3.80--$10.25
+**Pink's Hot Dogs** 709 North La Brea Avenue Hollywood, Los Angeles [Website](http://www.pinkshollywood.com/) $3.80–$10.25
 
 [![Pink's Hot Dogs on Urbanspoon](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/minilink.png)](http://www.urbanspoon.com/r/5/73259/restaurant/West-Hollywood/Pinks-Hot-Dogs-LA)
 

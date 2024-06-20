@@ -24,6 +24,6 @@ The company recruits culinary professionals and new media folks like me to come 
 
 [Click Me!](https://www.stay.com/s/3zZp/)
 
-Folks, there are a lot of startup companies aiming to do similar things as Stay.Com -- and I've passed on participating in number of them. The reason I chose to go ahead and create a guide with Stay.Com is because I truly believe it's one of the best-designed interfaces I've seen for this sort of traveler's aide. Give it a shot for yourself! Or just wish me well as I come up with more guide ideas. Best Tasting Rooms in Jack London Square, anyone? Or Best Ice Cream on College Ave? I am up to this task!
+Folks, there are a lot of startup companies aiming to do similar things as Stay.Com—and I've passed on participating in number of them. The reason I chose to go ahead and create a guide with Stay.Com is because I truly believe it's one of the best-designed interfaces I've seen for this sort of traveler's aide. Give it a shot for yourself! Or just wish me well as I come up with more guide ideas. Best Tasting Rooms in Jack London Square, anyone? Or Best Ice Cream on College Ave? I am up to this task!
 
 [![the gourmez, rebecca gomez farrell, reviews, critic](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/RGF-vespa-400x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/01/RGF-vespa.jpg)

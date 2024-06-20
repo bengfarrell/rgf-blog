@@ -2,12 +2,10 @@
 title: "Sampling Coastal Spirits and the Gin Farallon Kickstarter"
 date: "2015-09-24"
 categories:
-  - "distillery"
+  - "distilleries"
   - "events"
-  - "gin-reviews"
-  - "liqueur-reviews"
   - "spirits"
-  - "vodka"
+ 
 tags:
   - "amaro"
   - "bay-area"
@@ -78,7 +76,7 @@ Finally, the coffee liqueur.
 
 That one will bring a pure and simple coffee essence to your cocktails without going overboard on the sweetness. Personally, I’d like more of a roasted quality, but I have a bias toward chicory coffee liqueurs—yes[, I love St. Georges’ NOLA;](http://thegourmez.com/2015/08/05/st-george-spirits-tasting-room/) why do you ask?
 
-In addition to all those amazing concoctions Brad’s distilling, he’s also developed a game that brings the gin distillation process to life -- Gin Tumble!
+In addition to all those amazing concoctions Brad’s distilling, he’s also developed a game that brings the gin distillation process to life—Gin Tumble!
 
 
 

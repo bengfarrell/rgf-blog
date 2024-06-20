@@ -1,5 +1,5 @@
 ---
-title: "Condesa de Sarabella Viura 2008 -- Wine Review"
+title: "Condesa de Sarabella Viura 2008—Wine Review"
 date: "2009-12-04"
 categories:
   - "macabeo-viura"

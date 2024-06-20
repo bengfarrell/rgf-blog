@@ -44,7 +44,7 @@ By "now involved," I mean the lovely Thea Dwelle, scholarship chair and blogger 
 [![Wine Bloggers Scholarship Gift Idea](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/me-thea-james-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/me-thea-james.jpg) Me peeking over the heads of Thea and fellow blogger James Melendez .</div>
 
 
-Nevertheless, I am happy to help! I've been a regular WBC attendee for three years now (read [my write-ups](http://thegourmez.com/?s=wine+bloggers+conference) here), and it's a fantastic conference for wine bloggers, largely for the value and the opportunity to network with others who commit themselves to bringing you, the public, our thoughts on individual wines, wineries, or the industry in general -- whether you want them or not!
+Nevertheless, I am happy to help! I've been a regular WBC attendee for three years now (read [my write-ups](http://thegourmez.com/?s=wine+bloggers+conference) here), and it's a fantastic conference for wine bloggers, largely for the value and the opportunity to network with others who commit themselves to bringing you, the public, our thoughts on individual wines, wineries, or the industry in general—whether you want them or not!
 
 So what's the club? 50% of the proceeds go to funding scholarships to the WBC for citizen bloggers who want to attend but do not have the means to do so. **The WBCSF Wine Club** is run by the World's Best Wine Club, and 3 bottles of highly rated boutique wines will be shipped four times a year to members for $99 per shipment + S&H. That's 12 bottles a year for just under $400, half of which goes directly to the scholarship fund. Just select the Gift Subscription box [when placing an order here](http://www.worldsbestwineclubs.com/wbc).
 
@@ -94,7 +94,7 @@ The gift boxes also include recipes from talented, and well-known, chefs and can
 [![Wente Winemakers Studio](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/WBC16-Livermore-118-500x228.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/WBC16-Livermore-118.jpg) Winemakers Studio</div>
 
 
-Yes, we're back to wine! You may have read my recent post on the Livermore Valley Wine Country -- the Wente founding family and their Winemakers Studio were special highlights of that experience. If you haven't, [go read it now](http://thegourmez.com/2016/11/21/highlights-of-the-livermore-valley-wine-country/)! I'll wait....done? Great! In addition to all the fun and informative classes already offered at the Winemakers Studio, Wente has added "Tiny Bubbles!" a course that goes over sparkling wine pairings for appetizers, entrees, and desserts. If you're planning a trip to northern California or already live in the area, a visit to the studio would make for a great break from all the holiday crowds.
+Yes, we're back to wine! You may have read my recent post on the Livermore Valley Wine Country—the Wente founding family and their Winemakers Studio were special highlights of that experience. If you haven't, [go read it now](http://thegourmez.com/2016/11/21/highlights-of-the-livermore-valley-wine-country/)! I'll wait....done? Great! In addition to all the fun and informative classes already offered at the Winemakers Studio, Wente has added "Tiny Bubbles!" a course that goes over sparkling wine pairings for appetizers, entrees, and desserts. If you're planning a trip to northern California or already live in the area, a visit to the studio would make for a great break from all the holiday crowds.
 
 
 

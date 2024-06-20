@@ -26,7 +26,7 @@ tags:
 
  
 
-The brainchild of veteran bartender Jonny Cimone, [Contempo Cocktail](http://contempococktailcompany.com/) is delivering something new to the cocktail scene at large -- artisan drinks without the artisan wait and with an eco-conscious venue to serve them in and deliver them from!
+The brainchild of veteran bartender Jonny Cimone, [Contempo Cocktail](http://contempococktailcompany.com/) is delivering something new to the cocktail scene at large—artisan drinks without the artisan wait and with an eco-conscious venue to serve them in and deliver them from!
 
 ![Contempo Cocktail Company](http://s3.amazonaws.com/thegourmez-wpmedia/2016/08/LOGOtransparent-500x167.png)
 
@@ -40,7 +40,7 @@ You didn't think I wrote this without trying the drinks, did you? Silly reader!
 
 ![Contempo cocktail bottles](http://s3.amazonaws.com/thegourmez-wpmedia/2016/08/ContempoCocktails-01-389x500.jpg)
 
-Each bottle is 10 ounces, so you get a good 1.5 to 2 cocktails. A friend sampled them with me, and our only real critique was that we could hardly taste the alcohol in the mix. Keep in mind that we both often order a stiff Sazerac, so we're used to a strong alcohol presence. The Contempo cocktails we tried are more geared toward consumers with a fruitier tooth -- and that's sometimes me, too. At 10% ABV, they have a higher alcohol content than most beers but lower than most wines, which is nothing to scoff at. And as my body informed me later, when the effects crept up on me, the alcohol is definitely in there! There is also a ton of flavor and many, many layers.
+Each bottle is 10 ounces, so you get a good 1.5 to 2 cocktails. A friend sampled them with me, and our only real critique was that we could hardly taste the alcohol in the mix. Keep in mind that we both often order a stiff Sazerac, so we're used to a strong alcohol presence. The Contempo cocktails we tried are more geared toward consumers with a fruitier tooth—and that's sometimes me, too. At 10% ABV, they have a higher alcohol content than most beers but lower than most wines, which is nothing to scoff at. And as my body informed me later, when the effects crept up on me, the alcohol is definitely in there! There is also a ton of flavor and many, many layers.
 
 ![Contempo Cocktail reFresh Prince](http://s3.amazonaws.com/thegourmez-wpmedia/2016/08/ContempoCocktails-03-331x500.jpg)
 
@@ -56,7 +56,7 @@ The Purple Haze is made with lemon verbena, elderflower, wild huckleberry, rye w
 
 ![Contempo cocktail Purple Haze](http://s3.amazonaws.com/thegourmez-wpmedia/2016/08/ContempoCocktails-06-398x500.jpg)
 
-Sage comes to mind when sniffing, though rosemary and lemon verbena are the primary herbs. The vinegar shrub smells nice and makes itself known by elevating the huckleberry's dark berry abyss. The lime is near impossible to pick out but beautifully used in that it imparts a pithy bitterness that the tea leaves happily support. Love the foggy -- dare I say hazy? -- depths of this drink. 4/5 as is, but if I could taste that rye whiskey, it'd earn top marks.
+Sage comes to mind when sniffing, though rosemary and lemon verbena are the primary herbs. The vinegar shrub smells nice and makes itself known by elevating the huckleberry's dark berry abyss. The lime is near impossible to pick out but beautifully used in that it imparts a pithy bitterness that the tea leaves happily support. Love the foggy—dare I say hazy?—depths of this drink. 4/5 as is, but if I could taste that rye whiskey, it'd earn top marks.
 
 So…I’m sold! Contempo Cocktails captures all the sophistication of a fancy drink made in the heat of a loud, bustling hot spot without the hassle of waiting for the bartender to notice you over the heads of other thirsty patrons. It's definitely worth a Kickstarter pledge, and I look forward to trying more in the lounge someday! Here's that Kickstarter page ([link again](https://www.kickstarter.com/projects/383933352/contempo-cocktail-company-fresh-modern-unique-nece)), and yes, **obligatory disclaimer**, I received those two bottles as free samples to review on the blog.
 

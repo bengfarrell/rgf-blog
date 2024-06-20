@@ -33,7 +33,7 @@ Strolling past the bar, we entered the Marketplace located on the rooftop and ca
 
 [![Lake Merritt at Sunset in Oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/port-Workplace-Marketplace-07-1024x341.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/port-Workplace-Marketplace-07.jpg)
 
-Imagine that in full sunset color as the days get longer. You’ll be able to, because the Marketplace will be held after work -- this one went from 4:30 pm to 8:00 pm. Future events, however, will likely not include the free tipples from the tiki bar--
+Imagine that in full sunset color as the days get longer. You’ll be able to, because the Marketplace will be held after work—this one went from 4:30 pm to 8:00 pm. Future events, however, will likely not include the free tipples from the tiki bar--
 
 [![Tiki bar at the rooftop Marketplace](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/Port-Workplace-Marketplace-06-500x397.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/Port-Workplace-Marketplace-06.jpg)
 

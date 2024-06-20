@@ -16,7 +16,7 @@ tags:
   - "thin-crust"
 ---
 
-**Pie Pushers** On the go in Durham [Website](https://www.facebook.com/pages/Pie-Pushers/180894788607587?v=info) $3--$4 per slice $6--$18 per pie
+**Pie Pushers** On the go in Durham [Website](https://www.facebook.com/pages/Pie-Pushers/180894788607587?v=info) $3–$4 per slice $6–$18 per pie
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/piepusher021.jpg "piepusher02")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/piepusher021.jpg)
 

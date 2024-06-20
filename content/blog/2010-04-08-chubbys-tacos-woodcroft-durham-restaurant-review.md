@@ -18,7 +18,7 @@ tags:
   - "torta"
 ---
 
-**Chubby's Tacos** 4711 Hope Valley Road Woodcroft, Durham [Website](http://www.chubbystacos.com) $2--$8 per item
+**Chubby's Tacos** 4711 Hope Valley Road Woodcroft, Durham [Website](http://www.chubbystacos.com) $2–$8 per item
 
 ![](http://www.thegourmez.com/gourmez/photos/chubbys02.JPG)
 

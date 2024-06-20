@@ -72,6 +72,6 @@ Now that I've written up the review, my impression of Fat Angel has become clear
 
 ![Fat_Angel_03](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/Fat_Angel_03-500x309.jpg)
 
-**Fat Angel** 1740 O'Farrell St. Fillmore District, San Francisco [Website](http://www.fatangelsf.com/) $12--$15
+**Fat Angel** 1740 O'Farrell St. Fillmore District, San Francisco [Website](http://www.fatangelsf.com/) $12–$15
 
 _Reviewed 21 March 2015._

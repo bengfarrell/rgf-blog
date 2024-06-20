@@ -22,7 +22,7 @@ tags:
   - "traditional"
 ---
 
-**East Coast Chinese Food Express** 202 NC Hwy 54 Inside the Kroger, South Durham [Website](http://www.eastcoastchinesefoodexpress.com/) Open Mondays-Saturdays 11 am to 3 pm, 4 pm to 10 pm $7 -- $12 [![](http://carpedurham.com/wp-content/uploads/2013/02/East-Coast-Express-00.jpg)](http://carpedurham.com/?attachment_id=23094)
+**East Coast Chinese Food Express** 202 NC Hwy 54 Inside the Kroger, South Durham [Website](http://www.eastcoastchinesefoodexpress.com/) Open Mondays-Saturdays 11 am to 3 pm, 4 pm to 10 pm $7 -–$12 [![](http://carpedurham.com/wp-content/uploads/2013/02/East-Coast-Express-00.jpg)](http://carpedurham.com/?attachment_id=23094)
 
 I've heard many good things about East Coast Chinese Food Express. They’ve been located inside the Kroger by the Highway 54 and Fayetteville intersection for quite some time. It’s a small café, mainly for to-go orders, but there are a few tables if you want to sit and eat in the grocery store. Everyone else ordering was a regular and on friendly terms with the owner at the register. Food is cooked to order, so it’ll take 10 to 20 minutes depending on how crowded it is. There are menus everywhere, so figuring out your options can seem a tad overwhelming. Make sure you take a look at them in addition to the printed English menu.
 

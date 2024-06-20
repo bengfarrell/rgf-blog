@@ -56,7 +56,7 @@ Only a touch too sweet to my palate, I found it refreshing with plenty of mint a
 
 [![Summer-Kitchen-07](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/Summer-Kitchen-07-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/Summer-Kitchen-07.jpg)
 
-I literally walked down a shop and then walked back into Summer Kitchen to get it -- I couldn’t resist. Who could? It had a flaky, croissant-like shell and tasty crumble that topped thin slices of apple. The cranberries were stewed into a jammy sauce that went beautifully with the rest of the ingredients.
+I literally walked down a shop and then walked back into Summer Kitchen to get it—I couldn’t resist. Who could? It had a flaky, croissant-like shell and tasty crumble that topped thin slices of apple. The cranberries were stewed into a jammy sauce that went beautifully with the rest of the ingredients.
 
 That pastry is plenty of reason to stop by Summer Kitchen on its own. But go ahead, order at the counter, enjoy the simple, yet elegant white walls and white-bricked oven, and decide for yourself if you want to feast without all the comforts. Or take it to go.
 

@@ -4,13 +4,6 @@ date: "2015-08-05"
 categories: 
   - "spirits"
   - "distilleries"
-  - "brandy"
-  - "distillery"
-  - "gin-reviews"
-  - "liqueur-reviews"
-  - "other-spirits"
-  - "spirits"
-  - "vodka"
 tags: 
   - "botanica"
   - "chile-vodka"
@@ -43,7 +36,7 @@ The $15 tasting fee entitles you to tastes of each of their vodkas, one of their
 
 ![St_George_Distillery_09](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/St_George_Distillery_09-500x333.jpg)
 
-\--tasting spirits is a world apart from tasting wine. Do not stick your nose in that glass unless you want to burn some hairs. Instead, swirl a little and then smell the air just above the glass. Then roll small sips of it over your tongue in small doses. Vodkas first!
+\—tasting spirits is a world apart from tasting wine. Do not stick your nose in that glass unless you want to burn some hairs. Instead, swirl a little and then smell the air just above the glass. Then roll small sips of it over your tongue in small doses. Vodkas first!
 
 [![St_George_Distillery_01](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/St_George_Distillery_01-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/St_George_Distillery_01.jpg)
 

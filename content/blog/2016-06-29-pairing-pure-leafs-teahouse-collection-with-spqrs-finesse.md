@@ -36,7 +36,7 @@ Last week, I had the pleasure of trying Chef Matthew Accarrino's cooking for the
 
 [![Pure Leaf Travelling Tea House](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-20-500x345.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-20.jpg)
 
-[Pure Leaf](http://pureleaf.com/) is in the midst of a tour of major food-loving U.S. cities to promote their newest products, [the Tea House Collection,](http://pureleaf.com/teahousecollection) and I was invited out for a media preview of their stop in San Francisco, where Chef Accarrino prepared dishes using the teas. Like all of Pure Leaf's iced teas, these debutantes are steeped with whole leaves rather than mixed with a powder, but what really sets them apart is all organic ingredients and more adventurous flavor combinations -- I'm mainly in it for the adventure.
+[Pure Leaf](http://pureleaf.com/) is in the midst of a tour of major food-loving U.S. cities to promote their newest products, [the Tea House Collection,](http://pureleaf.com/teahousecollection) and I was invited out for a media preview of their stop in San Francisco, where Chef Accarrino prepared dishes using the teas. Like all of Pure Leaf's iced teas, these debutantes are steeped with whole leaves rather than mixed with a powder, but what really sets them apart is all organic ingredients and more adventurous flavor combinations—I'm mainly in it for the adventure.
 
 [![Teahouse Collection display](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-03-500x371.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-03.jpg)
 

@@ -18,7 +18,7 @@ tags:
   - "waffles"
 ---
 
-**Dame’s Chicken & Waffles** 317 West Main Street Downtown Durham [Website](http://dameschickenwaffles.com/index.htm) $9.25--$12.25
+**Dame’s Chicken & Waffles** 317 West Main Street Downtown Durham [Website](http://dameschickenwaffles.com/index.htm) $9.25–$12.25
 
 When my family was in town, I had the chance to participate in a very important event for any Durhamite---I went to Dame’s Chicken and Waffles for the first time.
 

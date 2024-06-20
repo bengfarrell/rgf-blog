@@ -129,7 +129,7 @@ The skyways are home to a multitude of shops and quick eat spots that you wouldn
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis034.jpg "2012minneapolis034")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis034.jpg)</div>
 
 
-Walking through them feels exactly like making your way through a huge mall with food courts all around -- the humor that Minneapolis is also home to the Mall of America was not lost on me. I looked up some of the best skyway eateries and dragged Ben along to one of them, the [Zen Box](http://www.zen-box.com/?sPage=lunch_menu&adv1=1) in the 6 Quebec building.
+Walking through them feels exactly like making your way through a huge mall with food courts all around—the humor that Minneapolis is also home to the Mall of America was not lost on me. I looked up some of the best skyway eateries and dragged Ben along to one of them, the [Zen Box](http://www.zen-box.com/?sPage=lunch_menu&adv1=1) in the 6 Quebec building.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis030.jpg "2012minneapolis030")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/2012minneapolis030.jpg)
 

@@ -22,7 +22,10 @@ tags:
   - "vintage"
 ---
 
-**Jen Pfeiffer Cabernet Sauvignon 2014** Other Words: Rock it Like a Redhead, the Rebel Victoria, Australia
+**Other Words on the Label:**\
+Rock it Like a Redhead\
+THE REBEL\
+Victoria, Australia
 
 [![IMG_4085_1](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4085_1-493x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4085_1.jpg)
 

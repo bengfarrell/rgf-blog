@@ -90,4 +90,4 @@ I will eventually make both a one sheet and an online media kit, but for now, I'
 
 An invite back to the Livermore Valley would certainly do. ;)
 
-If you'd like to share your own media kits or have more questions, feel free to comment below -- we'll find out the answers together!
+If you'd like to share your own media kits or have more questions, feel free to comment below—we'll find out the answers together!

@@ -43,6 +43,6 @@ Four Corners Café isn’t reinventing the espresso machine, but it’s providin
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-**Four Corners Café** 862 San Pablo Avenue Albany, CA [Website](https://cafefourcorners.cm/) Coffee: $1.75-$4.35 Eats: $2.50-$11.50
+**Four Corners Café** 862 San Pablo Avenue Albany, CA [Website](https://cafefourcorners.cm/) Coffee: $1.75–$4.35 Eats: $2.50–$11.50
 
 _Reviewed 4 June 2015._

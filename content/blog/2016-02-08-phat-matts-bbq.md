@@ -22,7 +22,7 @@ Pill Hill, Oakland\
 [Website](http://www.phatmattsbbq.com/)\
 $12.50–$16.99
 
-Phat Matt’s BBQ is an Oakland favorite for the quality and variety of smoked barbecue served. It’s a family-run restaurant, the type where the owners are happy to guide you through the menu of six standard meat preparations. A rotating special appears every week -- it’s smoked pastrami according to their website right now, and it was roasted steak tips with Carolina gold sauce when we went. The space itself is much more inviting than you might think simply passing by. The décor is classic rock and Oakland Raiders appreciation -- I wonder if that last part will remain for long...
+Phat Matt’s BBQ is an Oakland favorite for the quality and variety of smoked barbecue served. It’s a family-run restaurant, the type where the owners are happy to guide you through the menu of six standard meat preparations. A rotating special appears every week—it’s smoked pastrami according to their website right now, and it was roasted steak tips with Carolina gold sauce when we went. The space itself is much more inviting than you might think simply passing by. The décor is classic rock and Oakland Raiders appreciation—I wonder if that last part will remain for long...
 
 [![Phat Matt's BBQ Interior](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/Phat-Matts-03.jpg "Inside Phat Matt's BBQ in Oakland")](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/Phat-Matts-03.jpg)
 
@@ -32,7 +32,7 @@ But I loved what they did have. Friend #1 and I split the two-way combo ($25.99)
 
 [![Phat Matt's Chicken and Ribs](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/Phat-Matts-01.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/02/Phat-Matts-01.jpg)
 
-That’s just the meat, and we chose quite well. I appreciate that Phat Matt’s rubs and sauces don’t include salt -- frankly, they don’t need it! Both the chicken quarter and the Memphis-style pork ribs were impressive. The ribs won out overall for us, as they were very tender and full of flavor -- my sister is going to love them. Our extra side of spicy sauce didn’t even get used for the ribs; the slightly spicy, slightly sweet one it came with was delicious enough. I’d say they are taken from the heat just moments after they’ve been cooked long enough to be considered done.
+That’s just the meat, and we chose quite well. I appreciate that Phat Matt’s rubs and sauces don’t include salt—frankly, they don’t need it! Both the chicken quarter and the Memphis-style pork ribs were impressive. The ribs won out overall for us, as they were very tender and full of flavor—my sister is going to love them. Our extra side of spicy sauce didn’t even get used for the ribs; the slightly spicy, slightly sweet one it came with was delicious enough. I’d say they are taken from the heat just moments after they’ve been cooked long enough to be considered done.
 
 For the first time in my life, I watched chicken slide right off the bone as Friend #1 lifted her drumstick up. The meat was almost too tender for me, in that the texture was moister than I like my chicken to be! I don’t think that’d be a problem for most people. Again, the smoky flavor was great, but chicken can always use an extra kick so that’s when we went for the spicy sauce.
 

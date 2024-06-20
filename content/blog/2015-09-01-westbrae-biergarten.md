@@ -3,9 +3,7 @@ title: "Westbrae Biergarten"
 date: "2015-09-01"
 categories: 
   - "bars"
-  - "bars-berkeley-ca"
   - "cider"
-  - "berkeley-restaurant-review"
   - "restaurants"
 tags: 
   - "beer"
@@ -28,6 +26,11 @@ tags:
 ---
 
 [![Westbrae_006](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/Westbrae_006-500x349.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/Westbrae_006.jpg)
+
+1280 Gilman St.\
+Berkeley, CA\
+[Website](http://www.westbraebiergarten.com/)\
+$9–$11
 
 I had passed this cute little beer garden in Berkeley a couple of times while walking the Ohlone Parkway. Having spent my formative years in Santa Maria, CA, you can bet what drew my eye was not the incredibly appealing outdoor set-up with sculpted gardens—
 
@@ -58,9 +61,5 @@ I was leery of Common Cider Company’s Hibiscus Saison because I feared it woul
 Although I may now question the pedigree of _National Geographic’s_ food critics, I do think Westbrae Biergarten is a delightful location offering tasty options for lunch and refreshment. And parents, it has a kid’s play area in back!  I don’t think those appear in beer gardens very often.
 
 [![rating_truffle1.gif](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)
-
-**Westbrae Biergarten** 1280 Gilman St. Berkeley, CA [Website](http://www.westbraebiergarten.com/) $9-$11
-
-[![Click to add a blog post for Westbrae Biergarten on Zomato](https://www.zomato.com/logo/16864965/minilink)](https://www.zomato.com/albany-ca/westbrae-biergarten-berkeley)
 
 _Reviewed 23 July 15._

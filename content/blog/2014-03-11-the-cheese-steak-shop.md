@@ -50,7 +50,7 @@ They do have a loyalty card giving a free sandwich for every ten purchased, whic
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-**The Cheese Steak Shop** 3422 Village Drive Castro Valley [Website](http://www.cheesesteakshop.com/index.htm) $4.20 -- $11.00
+**The Cheese Steak Shop** 3422 Village Drive Castro Valley [Website](http://www.cheesesteakshop.com/index.htm) $4.20 -–$11.00
 
 [![Cheese Steak Shop on Urbanspoon](http://www.urbanspoon.com/b/link/1212141/minilink.gif)](http://www.urbanspoon.com/r/6/1212141/restaurant/Cheese-Steak-Shop-Castro-Valley)
 

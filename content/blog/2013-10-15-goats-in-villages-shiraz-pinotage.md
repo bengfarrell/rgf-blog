@@ -47,6 +47,6 @@ Speaking of cute names... My cdc and I differ on this, mostly Shiraz, South Afri
 
 [Christine Ashworth:](http://christine-ashworth.com/?p=1020)
 
-We had it with our corned beef on St. Patty’s day; and the wine was surprisingly superb. When my hubby tasted it (without knowing its name or where it had been made), he said there was something unusual -- earthy, maybe -- about the wine, and he quite liked it. I did, too -- and am planning on going back and getting more. My Rating: ~ Very Drinkable ~ I mean, come on. When was the last time you consumed anything from South Africa?!
+We had it with our corned beef on St. Patty’s day; and the wine was surprisingly superb. When my hubby tasted it (without knowing its name or where it had been made), he said there was something unusual—earthy, maybe—about the wine, and he quite liked it. I did, too—and am planning on going back and getting more. My Rating: ~ Very Drinkable ~ I mean, come on. When was the last time you consumed anything from South Africa?!
 
 _Reviewed 26 Sept 13._

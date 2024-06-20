@@ -19,7 +19,7 @@ tags:
   - "upscale"
 ---
 
-**\[One\] Restaurant** 100 Meadowmont Village Circle Meadowmont Village, Chapel Hill [Website](http://www.one-restaurant.com/default.aspx) Small plates: $8--$14 Entrees: $17--$24
+**\[One\] Restaurant** 100 Meadowmont Village Circle Meadowmont Village, Chapel Hill [Website](http://www.one-restaurant.com/default.aspx) Small plates: $8–$14 Entrees: $17–$24
 
 ![](http://www.thegourmez.com/gourmez/photos/one01.JPG)
 

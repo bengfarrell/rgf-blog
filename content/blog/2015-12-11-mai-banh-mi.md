@@ -2,8 +2,6 @@
 title: "Mai Banh Mi"
 date: "2015-12-11"
 categories: 
-  - "berkeley-restaurant-review"
-  - "oakland-restaurant-reviews"
   - "restaurants"
 tags: 
   - "banh-mi"
@@ -20,6 +18,10 @@ tags:
 
 [![Mai-Banh-Mi-03](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Mai-Banh-Mi-03-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/Mai-Banh-Mi-03.jpg)
 
+6601 Telegraph Avenue\
+Rockridge, Oakland\
+$5.15–$9.00
+
 I’ve been eyeing this little corner spot since it opened in the home of a former bakery about 2 months ago. I love banh mi, so I was excited to have somewhere serving it that I could easily walk to from home. Inside are just a counter, kitchen, two tables, and a painting, so it’s mostly a to-go joint. Though stay if you like dance music!
 
 In addition to banh mi, they serve spring rolls, rice and vermicelli platters, and shrimp and papaya salads. Those with sweet tooths can find macarons for sale with some flavors, such as s pandan-coconut, befitting a Vietnamese restaurant. For beverages, they have many canned options, Vietnamese coffee, Thai tea; coconut, aloe vera, and orange juices; and lemonade. You can get the aloe vera and coconut with basil seeds and rainbow jelly, if you want, but they were out when I was in—not atypical for a new restaurant, really. I had the canned coconut juice for $2 instead, and I was quite content.
@@ -35,9 +37,5 @@ I liked the sweet, pickled radish slices cut somewhere between a julienne and a 
 Mai Banh Mi does have the traditional headcheese and pork cake meat options in addition to ham, tofu, and grilled chicken, pork, and beef, which is a plus. Despite wishing the sandwich had way more jalapeno and meat, I’ll likely go back if I’m working at home and a banh mi craving hits. I’ll just remember to add Sri Racha and ask for extra meat.
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
-
-**Mai Banh Mi** 6601 Telegraph Avenue Rockridge, Oakland $5.15-$9.00
-
-[![Mai Banh Mi Menu, Reviews, Photos, Location and Info - Zomato](https://www.zomato.com/logo/18222963/minilink)](https://www.zomato.com/rockridge-n-temescal-ca/mai-banh-mi-rockridge "View Menu, Reviews, Photos & Information about Mai Banh Mi, Rockridge and other Restaurants in Rockridge/Temescal")
 
 _Reviewed 4 November 2015._

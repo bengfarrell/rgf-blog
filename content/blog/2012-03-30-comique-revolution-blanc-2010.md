@@ -25,7 +25,7 @@ tags:
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/comiqueblanc02.jpg "comiqueblanc02")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/comiqueblanc02.jpg)[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/comiqueblanc01.jpg "comiqueblanc01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/comiqueblanc01.jpg)
 
-Look at this -- another wine that won me over with its label artistry! I’m so predictable. This time, that art is an alluring blend of golden tones with black lines portraying some odd lords and ladies along with exclamations that they had to “cut the fluff!” apparently leaving nothing behind but flavor notes. It’s all rather confusing, but that generally only serves to heighten my curiosity.
+Look at this—another wine that won me over with its label artistry! I’m so predictable. This time, that art is an alluring blend of golden tones with black lines portraying some odd lords and ladies along with exclamations that they had to “cut the fluff!” apparently leaving nothing behind but flavor notes. It’s all rather confusing, but that generally only serves to heighten my curiosity.
 
 The Comique Revolution Blanc smells like crème brulee, or rather, it smells like cream, butter, vanilla, and a bit of peach for kicks. It tastes like crème brulee as well but a dry version of it with no overwhelming sweetness. Oak is definitely present, and it’s nicely balanced with that rich buttery flavor. For fruit, green apple comes out swiftly, taking dominance, but peach rounds out the sip.
 

@@ -33,7 +33,7 @@ tags:
 
 It's been a year since I undertook my quest to try all the mac & cheeses on [7x7's list](http://www.7x7.com/eat-drink/10-best-mac-n-cheeses-bay-area) of the best in the Bay Area. I haven't regretted a moment of this carb-slurping, dish-sharing, cheese-inhaling adventure. My friends, and long-suffering husband, who've joined me for most of these nights out, may hold different opinions...
 
-...Naw. Who can complain about comparing versions of such an iconic American dish? Only traitors to the Red, White, and Blue. I am not condoning a mac & cheese McCarthyism, but be proud, cheese lovers. Be proud. And be willing to add your own Bay Area faves to the list. The **7x7** list skewed strongly to San Francisco, so I am fully aware there are other contenders for the crown -- and you should be fully aware that I'm willing to take any excuse to hunt them down. Only Oakland's Homeroom was not located in San Francisco, though Paragon also has a Berkeley location.
+...Naw. Who can complain about comparing versions of such an iconic American dish? Only traitors to the Red, White, and Blue. I am not condoning a mac & cheese McCarthyism, but be proud, cheese lovers. Be proud. And be willing to add your own Bay Area faves to the list. The **7x7** list skewed strongly to San Francisco, so I am fully aware there are other contenders for the crown—and you should be fully aware that I'm willing to take any excuse to hunt them down. Only Oakland's Homeroom was not located in San Francisco, though Paragon also has a Berkeley location.
 
 Additionally, two of the competitors have closed since I began my journey through waves of cheddar and breadcrumbs. Q, previously located in the Inner Richmond, shuttered just days after we visited. Grub closed before we had the chance to check it out. Such is the restaurant lifespan.
 
@@ -55,7 +55,7 @@ While I was in large part turned off from Paragon's mac & cheese due to the unwe
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/q_mac_n_cheese_009-500x332.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/q_mac_n_cheese_009-500x332.jpg)
 
-Despite its attempts to add whimsy to a conventional mac & cheese sauce (tator tots instead of bread crumbs! Spiral pasta!), Q's dish was ultimately too expensive for too small of a serving at $13. The bacon we tossed on for an extra $2 didn't add much but crunch that the tator tots already had under control. Points for a sauce that tasted close to boxed mac & cheese -- we all admitted to being fans of that cabinet staple -- but it wasn't enough to set Q apart.
+Despite its attempts to add whimsy to a conventional mac & cheese sauce (tator tots instead of bread crumbs! Spiral pasta!), Q's dish was ultimately too expensive for too small of a serving at $13. The bacon we tossed on for an extra $2 didn't add much but crunch that the tator tots already had under control. Points for a sauce that tasted close to boxed mac & cheese—we all admitted to being fans of that cabinet staple—but it wasn't enough to set Q apart.
 
 6. [The Blue Plate (3218 Mission Street, the Mission, San Francisco)](http://thegourmez.com/2015/06/23/mac-cheese-night-9-the-blue-plate/)
 
@@ -69,7 +69,7 @@ Rankings are getting difficult now, the competitors set apart only by tenths of
 
  
 
-People will be aghast to see Homeroom appear so low on this list; it is a restaurant dedicated to the craft of mac & cheese after all! The ability to customize your order is a big plus, and they do know how to match ingredients to their sauce variations, generating vastly different takes on the mac & cheese. But boy, are they all rich and dense -- I don't think I could ever finish a serving on my own. If you love leftovers, that's not exactly a fault. But combined with the hour-long wait and somewhat lacking customer service, I needed to be overwhelmingly impressed to rank Homeroom higher. Instead, I was too full to walk out of my own accord. Note: Your opinion likely varies on the negative value of these factors.
+People will be aghast to see Homeroom appear so low on this list; it is a restaurant dedicated to the craft of mac & cheese after all! The ability to customize your order is a big plus, and they do know how to match ingredients to their sauce variations, generating vastly different takes on the mac & cheese. But boy, are they all rich and dense—I don't think I could ever finish a serving on my own. If you love leftovers, that's not exactly a fault. But combined with the hour-long wait and somewhat lacking customer service, I needed to be overwhelmingly impressed to rank Homeroom higher. Instead, I was too full to walk out of my own accord. Note: Your opinion likely varies on the negative value of these factors.
 
 4. [Mission Cheese (736 Valencia St., the Mission, San Francisco)](http://thegourmez.com/2014/06/03/mac-cheese-night-at-mission-cheese/)
 

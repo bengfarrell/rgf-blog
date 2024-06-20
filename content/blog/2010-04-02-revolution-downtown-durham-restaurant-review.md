@@ -17,7 +17,7 @@ tags:
   - "upscale-dining"
 ---
 
-**Revolution** 107 West Main Street Downtown Durham [Website](http://www.revolutionrestaurant.com/Revolution_Durham/Revolution_Enter.html) Entrees: $16--$32 Smaller Plates/Apps: $8--$16 Tasting Menus from 3 to 7 courses: $40--$95
+**Revolution** 107 West Main Street Downtown Durham [Website](http://www.revolutionrestaurant.com/Revolution_Durham/Revolution_Enter.html) Entrees: $16–$32 Smaller Plates/Apps: $8–$16 Tasting Menus from 3 to 7 courses: $40–$95
 
 Revolution is a downtown Durham restaurant with a lot of buzz. It's quite popular, even midweek, and can get a bit loud when full.
 

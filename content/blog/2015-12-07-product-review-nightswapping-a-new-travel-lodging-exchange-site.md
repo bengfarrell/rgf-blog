@@ -3,8 +3,9 @@ title: "Product Review: Nightswapping, a New Travel Lodging Exchange Site!"
 date: "2015-12-07"
 categories:
   - "product-reviews"
-  - "travel-guide"
-  - "travel-guide"
+  - "travel-guides"
+  - "other-businesses"
+  
 tags:
   - "canada"
   - "exchange-nights"
@@ -54,7 +55,7 @@ Then you type in a message that gets sent to any potential host whose property y
 
 [![New selection page](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/New-selection-page-500x338.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/New-selection-page.jpg)
 
-That screenshot is the entry for the location I ultimately stayed at, but if I hadn’t liked it, I would have just hit the X instead of the checkmark or swiped left versus right on the phone. Each time you like a location, it goes over on the right side of the screen and that message you typed instantly gets sent out to the hosts to work out a potential stay. Choosing more than one place at a time is absolutely fine; chances are it’ll take a few tries to find a good fit anyhow! It took me communicating with four different hosts to find a room available for the dates I wanted. Which is the next stage in the process -- communication!
+That screenshot is the entry for the location I ultimately stayed at, but if I hadn’t liked it, I would have just hit the X instead of the checkmark or swiped left versus right on the phone. Each time you like a location, it goes over on the right side of the screen and that message you typed instantly gets sent out to the hosts to work out a potential stay. Choosing more than one place at a time is absolutely fine; chances are it’ll take a few tries to find a good fit anyhow! It took me communicating with four different hosts to find a room available for the dates I wanted. Which is the next stage in the process—communication!
 
 [![Messages](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/Messages-500x413.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/Messages.jpg)
 

@@ -10,7 +10,7 @@ tags:
   - "restaurant"
 ---
 
-**Jibarra** 7420 Six Forks Road Raleigh, NC www.jibarra.net Entrees $17--$40
+**Jibarra** 7420 Six Forks Road Raleigh, NC www.jibarra.net Entrees $17–$40
 
 \*Restaurant relocated to 327 West Davie Street, Downtown Raleigh, since this post\*
 

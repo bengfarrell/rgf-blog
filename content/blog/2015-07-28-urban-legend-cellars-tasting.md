@@ -4,11 +4,6 @@ date: "2015-07-28"
 categories: 
   - "wine"
   - "tasting-rooms"
-  - "chardonnay"
-  - "red-wine-review"
-  - "tasting-rooms-in-oakland-ca"
-  - "white-wine-reviews"
-  - "wine"
 tags: 
   - "cellars"
   - "cheval-dacier"
@@ -41,7 +36,8 @@ Rather than focusing on a signature style, the Shaffers source whatever Californ
 
 [![Urban_Legend_Wine_007](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Urban_Legend_Wine_007-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Urban_Legend_Wine_007.jpg)
 
-**2012 There Chardonnay,** Pamela’s Vineyard, Mendocino ($25)
+## 2012 There Chardonnay
+Pamela’s Vineyard, Mendocino ($25)
 
 Most of Urban Legend’s wines bear the iconic image of the Oakland cranes or a giant U on the labels, and the “There” line is quite understated in contrast. Why? Because it was developed at the request of upscale restaurants whose customers wanted a more traditionally “classy” design. In typical Urban Legend style, however, the label is still playful. “There” recalls the famous quote from Gertrude Stein about her childhood home of Oakland, claiming, “There is no there there.”
 
@@ -49,19 +45,22 @@ What there is in the wine, however, is the creaminess of a push-up pop combined 
 
 [![Urban_Legend_Wine_008](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Urban_Legend_Wine_008-386x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Urban_Legend_Wine_008.jpg)
 
-**2012 Barbera,** Cooper Ranch, Shenandoah Valley ($27)
+## 2012 Barbera
+Cooper Ranch, Shenandoah Valley ($27)
 
 This is definitely a food wine, but it contains a whole feast within the glass. For me it started with blue cheese and cherry, moved on to a coconut milk curry, and ended with a custardy, cherry-laden bread pudding. This expertly blended wine also boasts milk chocolate notes throughout.
 
 [![Urban_Legend_Wine_012](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Urban_Legend_Wine_012-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Urban_Legend_Wine_012.jpg)
 
-**Temescal** ($24/liter)
+## Temescal
+($24/liter)
 
 I’m not going to lie; part of why the Temescal draft wine made this list is because I love that the Shaffers (a) offer draft wine at all and (b) use Oakland neighborhoods to inspire the crafting of those wines. The Temescal blend is meant to reflect the Italian roots of today’s burgeoning foodie haven. Thus, they blended four Italian grapes to come up with it. I found it very drinkable with plenty of smooth, sweet berry and an even more enjoyable leafy character. Get it while you can! They’ll be on to another neighborhood soon.
 
 [![Urban_Legend_Wine_009](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Urban_Legend_Wine_009-355x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Urban_Legend_Wine_009.jpg)
 
-Finally, the **2011 Cheval d’Acier,** Coyote Crest Vineyard, Alexander Valley ($29)
+## 2011 Cheval d’Acier
+Coyote Crest Vineyard, Alexander Valley ($29)
 
 Translated as “steel horse,” the Cheval d’Acier is a big, bold, veggie and floral wine on my palate. Sweet yellow bell pepper dominates, though there are enough dried rose petals to remind me of all the flower soup I used to make as a child. You can taste the steel of that horse as well, which, of course, is a clever nod to those Oakland cranes.
 

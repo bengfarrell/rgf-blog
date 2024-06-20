@@ -38,7 +38,7 @@ Let’s start this series at [Granville Island.](http://www.granvilleisland.com/
 
 [![2015-Vancouver-129](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-129-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-129.jpg)
 
-Located beneath Highway 99, Granville Island, technically a peninsula, is one of Vancouver’s most obviously hipster neighborhoods -- aspersions aside, that usually means good food! You can drive or ferry in, but I enjoyed walking from the Anderson & West 2nd bus stop. Meander through Sutcliffe Park and follow the road beneath Highway 99 until you reach Granville’s retail district, about a quarter mile in.
+Located beneath Highway 99, Granville Island, technically a peninsula, is one of Vancouver’s most obviously hipster neighborhoods—aspersions aside, that usually means good food! You can drive or ferry in, but I enjoyed walking from the Anderson & West 2nd bus stop. Meander through Sutcliffe Park and follow the road beneath Highway 99 until you reach Granville’s retail district, about a quarter mile in.
 
 [![2015-Vancouver-167](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-167-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-167.jpg)
 
@@ -98,7 +98,7 @@ I did grab sweet and spicy popcorn and a cappuccino and headed out the back for 
 
 While the Public Market and Edible Canada are certainly enough to fill up the three hours we had, I decided to stroll more and ended up in the Railspur District.
 
-[![2015-Vancouver-165](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-165-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-165.jpg) Again, beautiful redesigns of warehouses and I’m willing to bet a lot of the craftsmen who revamped them have studios in the neighborhood -- artisan spaces, industrial design, and an art college all have homes there. Yet for me, the highlight of the Railspur District was the [Osake sake distillery](http://artisansakemaker.com/tastingroom/) (1339 Railspur Alley) located up a cute alleyway.
+[![2015-Vancouver-165](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-165-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-165.jpg) Again, beautiful redesigns of warehouses and I’m willing to bet a lot of the craftsmen who revamped them have studios in the neighborhood—artisan spaces, industrial design, and an art college all have homes there. Yet for me, the highlight of the Railspur District was the [Osake sake distillery](http://artisansakemaker.com/tastingroom/) (1339 Railspur Alley) located up a cute alleyway.
 
 [![2015-Vancouver-160](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-160-365x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-160.jpg)
 

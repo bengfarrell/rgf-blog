@@ -1,5 +1,5 @@
 ---
-title: "Southern Fast Food Series #1: Bojangles' -- Restaurant Review"
+title: "Southern Fast Food Series #1: Bojangles'—Restaurant Review"
 date: "2009-12-22"
 categories:
   - "durham-restaurant-reviews"

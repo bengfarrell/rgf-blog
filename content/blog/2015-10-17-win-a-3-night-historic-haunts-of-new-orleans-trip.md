@@ -3,7 +3,6 @@ title: "Win a 3-Night Historic Haunts of New Orleans Trip!"
 date: "2015-10-17"
 categories:
   - "announcements"
-  - "travel-guide"
 tags:
   - "contest"
   - "ghost-tour"
@@ -30,7 +29,7 @@ Readers, I don't often post information from press releases, but this sounds lik
 >
 > One lucky grand prize winner will receive:
 >
-> \- One three-night stay for two at the Hilton New Orleans/St. Charles Avenue - Two-day New Orleans Power Pass for two adults - One $500 American Express® gift card - French Quarter Ghost Tour for two adults - $300 in Dining Credits from the Rib Room and Commander’s Palace
+> \- One three-night stay for two at the Hilton New Orleans/St. Charles Avenue - Two-day New Orleans Power Pass for two adults - One $500 American Express® gift card - French Quarter Ghost Tour for two adults –$300 in Dining Credits from the Rib Room and Commander’s Palace
 >
 > To enter the Historic Haunts of New Orleans Sweepstakes, participants can enter the official registration form located [online](http://americandreams.historichotels.org/haunted-sweepstakes). Participants can simply click on “submit to enter to win.” Registrants for the Historic Haunts of New Orleans Sweepstakes must provide all information requested to receive an entry.
 

@@ -37,7 +37,7 @@ Homeroom is owned by a pair of friends with a passion for comfort food, Allison 
 
 Well…the fall is not now, so our party of six was prepared for those long wait times at 8 on a Friday night. I had to laugh when I signed us in and asked the host if we would fit—there are not many tables available for more than four people. “Oh, no problem,” he said, quickly followed by a snarky, “but it’ll be a minute.” I knew a minute would be a lot longer than that and it took over an hour. At least owner Erin made the rounds of waiting customers, offering water. Much appreciated!
 
-Once inside, the sheer volume of mac & cheese possibilities overwhelmed us. You’d think an hour of waiting would be enough time to make up your mind—think again! Homeroom offers 12 takes on mac & cheese ($9--$16) with over 20 add-ons.
+Once inside, the sheer volume of mac & cheese possibilities overwhelmed us. You’d think an hour of waiting would be enough time to make up your mind—think again! Homeroom offers 12 takes on mac & cheese ($9–$16) with over 20 add-ons.
 
 The Mexican Mac with chorizo from Niman Ranch, adobe chipotle peppers, jack cheese, and lime:
 

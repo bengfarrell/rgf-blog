@@ -53,7 +53,7 @@ To sum up, I appreciate Kefa’s devotion to the art of the egg-and-cheese, but 
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-**Kefa Coffee** 422 29th Avenue East Oakland $4--$7
+**Kefa Coffee** 422 29th Avenue East Oakland $4–$7
 
 [![Kefa Coffee on Urbanspoon](http://www.urbanspoon.com/b/link/1413807/minilink.gif)](http://www.urbanspoon.com/r/6/1413807/restaurant/Kefa-Coffee-Oakland)
 

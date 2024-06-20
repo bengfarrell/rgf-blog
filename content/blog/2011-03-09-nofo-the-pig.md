@@ -20,7 +20,7 @@ tags:
   - "southern"
 ---
 
-**NOFO Cafe** 2014 Fairview Rd. Five Points, Raleigh [Website](http://www.nofo.com/) Hours: Mon---Fri 11 am---3 pm Tues---Thurs 5:30 pm---9 pm Fri---Sat 5:30 pm---10:00pm Sandwiches and Small Plate Fare: $8.50---$9.50 Entree Fare: $10---$16
+**NOFO Cafe** 2014 Fairview Rd. Five Points, Raleigh [Website](http://www.nofo.com/) Hours: Mon---Fri 11 am---3 pm Tues---Thurs 5:30 pm---9 pm Fri---Sat 5:30 pm---10:00pm Sandwiches and Small Plate Fare: $8.50-–$9.50 Entree Fare: $10-–$16
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/nofo01.jpg "nofo01")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/nofo01.jpg)
 

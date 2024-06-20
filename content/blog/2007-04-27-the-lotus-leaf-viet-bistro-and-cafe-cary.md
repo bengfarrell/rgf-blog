@@ -9,7 +9,7 @@ tags:
   - "lotus-leaf-viet-bistro"
 ---
 
-**The Lotus Leaf Viet Bistro and Cafe** 969 N Harrison Ave Cary, NC [Website](www.lotusleafcafe.com) Lunch entrees: $7-$10
+**The Lotus Leaf Viet Bistro and Cafe** 969 N Harrison Ave Cary, NC [Website](www.lotusleafcafe.com) Lunch entrees: $7–$10
 
 The Lotus Leaf offers a mixture of Asian cuisine styles, tucked into the elbow of one of the Triangle's hordes of strip malls. We went on an advertised festival day for the restaurant, which translated into two vendor tables in the opening walkway and live jazz coming from one of the dining rooms. I was excited to try the food, if less than enthused that our dining room only had piped Sinatra tunes.
 

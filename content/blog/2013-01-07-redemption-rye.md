@@ -22,7 +22,7 @@ tags:
 
 [](http://www.thegourmez.com/2013/01/redemption-rye/redemption_-rye/)[![RedemptionRye](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/RedemptionRye.jpg)](http://www.thegourmez.com/2013/01/redemption-rye/redemptionrye/)
 
-Seriously, that label is like porn to this foodie. The color, the slightly askew bold font with cursive writing and the handwritten lot # -- I don’t know how to describe it. It does things to me. Things like make me buy the bottle. And I have not been disappointed since I did.
+Seriously, that label is like porn to this foodie. The color, the slightly askew bold font with cursive writing and the handwritten lot #—I don’t know how to describe it. It does things to me. Things like make me buy the bottle. And I have not been disappointed since I did.
 
   [![redemption_ rye](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/redemption_-rye.jpg)](http://www.thegourmez.com/2013/01/redemption-rye/redemption_-rye/)
 

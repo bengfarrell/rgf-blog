@@ -92,7 +92,7 @@ But the second highest score of the evening went to Chef McIntyre's Course #6: r
 
 [![2013_Fire_Triangle_07](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Fire_Triangle_07-500x332.jpg)](http://www.thegourmez.com/?attachment_id=6614)
 
-The star of the dish for me was the basil-gin syrup -- at last, a dish that utilized the TOPO spirit recognizably! Using tomato in the cheesecake was both unexpected and delicious, and the olive-oil whipped cream made it all a little bit more luxe.
+The star of the dish for me was the basil-gin syrup—at last, a dish that utilized the TOPO spirit recognizably! Using tomato in the cheesecake was both unexpected and delicious, and the olive-oil whipped cream made it all a little bit more luxe.
 
 In the end, Market won handily with a score of 21.35 to 17.64, and while it would be dishonest not to note the role pork played in that decision, I also think Chef McIntyre won because the TOPO spirits were clearly evident in at least two of his dishes while Chef Slama did not prominently feature them.
 

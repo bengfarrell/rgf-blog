@@ -35,7 +35,7 @@ tags:
   - "zingermans"
 ---
 
-The exciting events for Triangle-based foodies are piling up yet again! Honestly, I'm not sure they ever stop piling -- we seem to support an awful lot of delishness for a relatively small metro area. I think that means all us eaters deserve a round of applause ... or of digestives. Ouzo, anyone?
+The exciting events for Triangle-based foodies are piling up yet again! Honestly, I'm not sure they ever stop piling—we seem to support an awful lot of delishness for a relatively small metro area. I think that means all us eaters deserve a round of applause ... or of digestives. Ouzo, anyone?
 
 I've cherry-picked a few upcoming dinners and tastings for this week among the press releases I've come across. Here they are in order of soonest to latest:
 

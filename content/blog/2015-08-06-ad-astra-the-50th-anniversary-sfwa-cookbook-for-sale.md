@@ -2,9 +2,8 @@
 title: "Ad Astra: The 50th Anniversary SFWA Cookbook for Sale!"
 date: "2015-08-06"
 categories: 
-  - "publication-news"
-  - "recipes-2"
-  - "writing"
+  - "recipes"
+  - "announcements"
 tags: 
   - "50th-anniversary"
   - "ad-astra"

@@ -55,7 +55,7 @@ I blame my bad focus for this set of photos on my camera being on the fritz. Sur
 ![](http://www.thegourmez.com/gourmez/photos/davidsdumplings04.JPG)</div>
 
 
-As for libations, I tried the Kikusui sake, which was a tad sweet, really good, and tasted of caramel and orange water. The beer drinkers all enjoyed the Great Divide Samurai rice ale. No full bar for the present at least. As for food, nearly all of us opted to try a few of the appetizers ($2.50--$6.00), noodle plates ($5.50--$9.00), and “Quick Stir” dishes ($10)---stir-fry is so passé---rather than the entrees ($16) to see if the dumplings and noodles were worthy of claiming the restaurant’s name. The small plates, soups, and apps are a great deal, especially the noodles that were plenty large enough to be a full meal on their own.
+As for libations, I tried the Kikusui sake, which was a tad sweet, really good, and tasted of caramel and orange water. The beer drinkers all enjoyed the Great Divide Samurai rice ale. No full bar for the present at least. As for food, nearly all of us opted to try a few of the appetizers ($2.50–$6.00), noodle plates ($5.50–$9.00), and “Quick Stir” dishes ($10)---stir-fry is so passé---rather than the entrees ($16) to see if the dumplings and noodles were worthy of claiming the restaurant’s name. The small plates, soups, and apps are a great deal, especially the noodles that were plenty large enough to be a full meal on their own.
 
 For dumplings, the crispy, spicy ones were declared the hands-down winners. I didn’t try them, but their sauce was especially exclaimed over. My dumplings came by way of a chinese greens, dumplings, and noodle soup.
 

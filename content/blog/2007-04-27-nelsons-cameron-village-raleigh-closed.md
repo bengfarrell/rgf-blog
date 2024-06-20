@@ -10,7 +10,7 @@ tags:
   - "raleigh-dining"
 ---
 
-**Nelsons** \*CLOSED\* Cameron Village 521 Daniels Street Raleigh, NC www.nelsonsrestaurant.com Entrees $15--$22
+**Nelsons** \*CLOSED\* Cameron Village 521 Daniels Street Raleigh, NC www.nelsonsrestaurant.com Entrees $15–$22
 
 Nelsons is a concept restaurant, offering dining areas, a raw bar, and a sky bar. It's dressed in neutral tones that combine with the music and wall of water to make for a very relaxing meal. Presently, they are offering their raw bar menu in the dining room but that may be for a limited time only. Their menu does tend towards seafood but there are other grill options if you prefer.
 

@@ -2,8 +2,7 @@
 title: "Jacqueline Bahue Cabernet Franc 2013"
 date: "2015-07-30"
 categories: 
-  - "cabernet-franc"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2013"
   - "cabernet-franc"
@@ -19,7 +18,7 @@ tags:
   - "tasting-notes"
 ---
 
-**Jacqueline Bahue Cabernet Franc 2013** Sonoma County, CA
+**Region:** Sonoma County, CA
 
 [![IMG_4112](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4112-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4112.jpg)
 

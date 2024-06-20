@@ -44,7 +44,7 @@ But I'll give you the quick rundown.
 ![Here's how the wine offers look on the front page.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/UGCellars-Offers-500x412.jpg) Here's how the wine offers look on the front page.</div>
 
 
-The wines and wineries are detailed in the offer description and they come from well-established winemakers with sterling reputations. The current price range is $36-$59 per bottle. That's a bit rich for my blood, but maybe not for yours.
+The wines and wineries are detailed in the offer description and they come from well-established winemakers with sterling reputations. The current price range is $36–$59 per bottle. That's a bit rich for my blood, but maybe not for yours.
 
 3. This is where the gimmick comes in. Depending on how many bottles of wine you order, you will be given automatic upgrades to even better bottles of wine instead! The more you order, the more upgrades you'll get, holding steady at roughly 50-60% of your total. The upgrades will cost you nothing extra, and each offer description fully explains both the potential upgrade bottles and the percentage chance you'll have to get which one.
 

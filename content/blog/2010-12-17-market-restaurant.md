@@ -19,7 +19,7 @@ tags:
   - "triangle-restaurants"
 ---
 
-**Market Restaurant** \*NOTE: RELOCATING as of 10/1/13\* 938 North Blount Street Mordecai, Raleigh [Website](http://www.eatatmarket.com/) Lunch: $6---$11 Dinner: $6---$18
+**Market Restaurant** \*NOTE: RELOCATING as of 10/1/13\* 938 North Blount Street Mordecai, Raleigh [Website](http://www.eatatmarket.com/) Lunch: $6-–$11 Dinner: $6-–$18
 
 Market is a newer restaurant on the Raleigh food scene. They focus on using all natural products and on sustainability in all areas, from where they get their ingredients to how they run the restaurant. They’ve been getting a lot of buzz in recent months, and since I happened to be right next door at [Escazu,](http://www.thegourmez.com/?p=1975)
 

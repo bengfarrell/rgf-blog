@@ -3,15 +3,8 @@ title: "New Localwise Post: Behind the Brick Walls of Oakland's New Mixed-Use De
 date: "2015-11-06"
 categories: 
   - "announcements"
-  - "bars"
-  - "bars-in-oakland"
-  - "breweries-in-oakland-ca"
-  - "oakland-coffee-shop-reviews"
-  - "oakland-restaurant-reviews"
-  - "publication-news"
-  - "restaurants"
-  - "writing"
-tags: 
+  
+  tags: 
   - "beer"
   - "beer-garden"
   - "bread"

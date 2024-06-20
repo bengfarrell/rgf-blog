@@ -46,7 +46,7 @@ Never Too Latté's espresso drinks are worth spending an afternoon in the coffee
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
 
-**Never Too Latté** 486 San Mateo Avenue The Avenue, San Bruno Food: $2--$6 Coffee Drinks: $1.5--$4 [Website](http://www.nevertoolatte.net/)
+**Never Too Latté** 486 San Mateo Avenue The Avenue, San Bruno Food: $2–$6 Coffee Drinks: $1.5–$4 [Website](http://www.nevertoolatte.net/)
 
 [![Never Too Latte on Urbanspoon](http://www.urbanspoon.com/b/link/88091/minilink.gif)](http://www.urbanspoon.com/r/6/88091/restaurant/Never-Too-Latte-San-Bruno)
 

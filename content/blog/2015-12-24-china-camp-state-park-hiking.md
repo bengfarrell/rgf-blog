@@ -3,7 +3,7 @@ title: "China Camp State Park Hiking"
 date: "2015-12-24"
 categories:
   - "travel-guides"
-  - "travel-guide"
+ 
 tags:
   - "bay-area"
   - "california-history"

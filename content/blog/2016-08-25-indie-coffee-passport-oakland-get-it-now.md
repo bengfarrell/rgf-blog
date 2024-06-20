@@ -25,7 +25,7 @@ As of early August, it's back!  And it's honed in on Oakland this year, which c
 
 ## What is the Indie Coffee Passport?
 
-In short, it's a fold-up card that fits in your wallet that you use to purchase a free drink from each of the participating cafes -- and at least one non-coffee drink is offered at each locale. I'm borrowing from ICP's Instagram feed to show you an example:
+In short, it's a fold-up card that fits in your wallet that you use to purchase a free drink from each of the participating cafes—and at least one non-coffee drink is offered at each locale. I'm borrowing from ICP's Instagram feed to show you an example:
 
 > [A photo posted by Indie Coffee Passport (@indiecoffeepassport)](https://www.instagram.com/p/BDyVFaZQRCY/) on Apr 4, 2016 at 10:16am PDT
 
@@ -43,7 +43,7 @@ Oakland's version is $13, which comes to just under $15 with tax + S&H. Flashing
 - Kilovolt Coffee
 - Red Bay Coffee
 
-I've been to four of those cafes before, and they are all ones I would happily go back to. Getting a drink for the equivalent of $1.36 when I visit is really a no-brainer, especially when they can run up and over $5 easily these days. I can't wait to try the other options -- I've been meaning to hit up Red Bay Coffee since they opened their shipping container stand this last spring!
+I've been to four of those cafes before, and they are all ones I would happily go back to. Getting a drink for the equivalent of $1.36 when I visit is really a no-brainer, especially when they can run up and over $5 easily these days. I can't wait to try the other options—I've been meaning to hit up Red Bay Coffee since they opened their shipping container stand this last spring!
 
 ## How Long Does it Last?
 

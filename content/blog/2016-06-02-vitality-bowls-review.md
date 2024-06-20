@@ -54,7 +54,7 @@ A smaller selection of panini, salads, and soups is also available at Vitality B
 
 I tried samples of their draft cold brew coffee, pink lady apple kombucha, and grapefruit sage kombucha. The pink lady tasted like jazzed up apple juice. The grapefruit sage kombucha, pictured above, was quite delicious. Normally, kombucha is too tangy for me, but the sage in this one grounds that typical tartness.
 
-Honestly, I’m pretty delighted with my first açai bowl experience, though superfood is indeed the more appropriate term for covering the range of ingredients offered by Vitality Bowls -- I make no claims as to superfood’s health benefits, either. The bowls aren’t cheap at $12 for mediums, but those suckers were huge! Twenty ounces each, and the larger size is twenty-eight -- I didn’t even finish one full one! I also appreciate the restrained use of granola and other carb-heavy toppings and that the fruit shines through no matter the combination.
+Honestly, I’m pretty delighted with my first açai bowl experience, though superfood is indeed the more appropriate term for covering the range of ingredients offered by Vitality Bowls—I make no claims as to superfood’s health benefits, either. The bowls aren’t cheap at $12 for mediums, but those suckers were huge! Twenty ounces each, and the larger size is twenty-eight—I didn’t even finish one full one! I also appreciate the restrained use of granola and other carb-heavy toppings and that the fruit shines through no matter the combination.
 
 I won’t hesitate to purchase an açai bowl the next time I see one. But will others live up to the expectations set by Vitality Bowls?
 

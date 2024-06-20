@@ -24,7 +24,7 @@ tags:
   - "south-square"
 ---
 
-**Doolin’s Irish Pub** 3211 Shannon Road South Square, Durham Website Entrees: $8 -- $15
+**Doolin’s Irish Pub** 3211 Shannon Road South Square, Durham Website Entrees: $8 -–$15
 
 [![](http://carpedurham.com/wp-content/uploads/2012/04/Doolins01.jpg)](http://www.thegourmez.com/?attachment_id=) Doolin’s Irish Pub is the newest restaurant in the same office building that houses [G2B](http://www.thegourmez.com/2011/11/g2b-gastropub/ "G2B gastropub"). This building has been notoriously harsh to its restaurants — the location is off the beaten path across the street from the Bank of America on Shannon Road. Doolin’s has the advantage of being in the front of the building so you can see it as you drive by, so hopefully that will help them with traffic. I was surprised that they were mostly full on a Thursday night.
 

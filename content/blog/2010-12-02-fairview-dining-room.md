@@ -18,7 +18,7 @@ tags:
   - "roasted-piquillo-soup"
 ---
 
-**Fairview Dining Room** Washington Duke Inn 3001 Cameron Blvd. Duke Campus, Durham Entrees: $19---$30 [Website](http://www.washingtondukeinn.com/Dining/fairview.asp)
+**Fairview Dining Room** Washington Duke Inn 3001 Cameron Blvd. Duke Campus, Durham Entrees: $19-–$30 [Website](http://www.washingtondukeinn.com/Dining/fairview.asp)
 
 The Fairview Restaurant is tucked deep within the bowels of the Washington Duke Inn---seriously, you need to ask directions to find it in the maze of the fancy Duke hotel and golf course. Once there, though, I had to admire the decor.
 

@@ -93,7 +93,7 @@ I want to give Asena a truffle because we were all so happy to be fed at last, b
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-**Asena Restaurant** 2508 Santa Clara Ave Alameda [Website](http://www.asenarestaurant.com/) $14--$24
+**Asena Restaurant** 2508 Santa Clara Ave Alameda [Website](http://www.asenarestaurant.com/) $14–$24
 
 [![Asena on Urbanspoon](http://www.urbanspoon.com/b/link/80509/minilink.gif)](http://www.urbanspoon.com/r/6/80509/restaurant/Asena-Alameda)
 

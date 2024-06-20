@@ -13,7 +13,7 @@ tags:
 
 Rockridge, Oakland\
 [Website](http://southieoakland.com/?page_id=5)\
-$9-$20
+$9–$20
 
 Readers, this is the first of several posts I have planned on my favorite haunts around the Bay Area. It has been too long since I've done restaurant, cocktail, and specialty shop reviews, and I miss them. These posts will generally be cumulative ones spanning my experience over several months or years rather than a single visit. And they are likely to be pretty positive, because these joints are the ones I go back to again and again. For someone who likes to try everything, like me, there aren't many places worth a return visit, much less many!
 

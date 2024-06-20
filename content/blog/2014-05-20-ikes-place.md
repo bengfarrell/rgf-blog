@@ -73,7 +73,7 @@ Will I dine at Ike’s again? I could spend my life working my way through the m
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-**Ike’s Place** 21 Railroad Ave Danville [Website](http://ilikeikesplace.com/) $7--$12
+**Ike’s Place** 21 Railroad Ave Danville [Website](http://ilikeikesplace.com/) $7–$12
 
 [![Ike's Lair on Urbanspoon](http://www.urbanspoon.com/b/link/1771619/minilink.gif)](http://www.urbanspoon.com/r/6/1771619/restaurant/Ikes-Lair-Danville)
 

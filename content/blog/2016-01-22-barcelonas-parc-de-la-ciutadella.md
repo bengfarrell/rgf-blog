@@ -69,7 +69,7 @@ On the left of the Plaça d’Armes is the former armory. That now houses the Ca
 [![Door panel](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_545-325x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_545.jpg) Door panel</div>
 
 
-The trees in this section of the park delighted me -- and the parakeets. I found them beautifully lit in the afternoon sun, in a way that stirred my artistic side, and apparently that of Sculptor Josep Clarà as his _Aux Volontaires Catalans_ makes a perfect line with the trees in winter.
+The trees in this section of the park delighted me—and the parakeets. I found them beautifully lit in the afternoon sun, in a way that stirred my artistic side, and apparently that of Sculptor Josep Clarà as his _Aux Volontaires Catalans_ makes a perfect line with the trees in winter.
 
 [![2014_Barcelona_536](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_536-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_536.jpg)
 
@@ -77,7 +77,7 @@ I believe they are cypress trees. Am I right? Here are a few more shots, if you 
 
 [![2014_Barcelona_537](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_537-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_537.jpg) [![2014_Barcelona_538](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_538-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_538.jpg) [![2014_Barcelona_544](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_544-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_544.jpg)
 
-The park’s 70 acres are filled with outdoor sculptures -- _Desconsuelo,_ by Josep Llimona, [whose work I fell with love with at the MEAM](http://thegourmez.com/2015/08/24/barcelona-museums-worth-exploring/), is in the midst of that last panorama. I also enjoyed this massive sheet of….of…something?
+The park’s 70 acres are filled with outdoor sculptures—_Desconsuelo,_ by Josep Llimona, [whose work I fell with love with at the MEAM](http://thegourmez.com/2015/08/24/barcelona-museums-worth-exploring/), is in the midst of that last panorama. I also enjoyed this massive sheet of….of…something?
 
 [![2014_Barcelona_503](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_503-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_503.jpg)
 

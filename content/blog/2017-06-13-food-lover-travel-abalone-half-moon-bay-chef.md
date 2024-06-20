@@ -55,7 +55,7 @@ I don't often post press releases at _the Gourmez_, but sometimes, I think there
 
 I'm a little late sharing this opportunity, as the first two in the series have already passed...but never fear! There are 6 weekends' worth of the Global Cuisine Series left this year.  The release:
 
-> Beginning in May 2017, [The Ritz-Carlton, Half Moon Bay](http://www.ritzcarlton.com/en/hotels/california/half-moon-bay) -- an elite destination resort located on the dramatic bluffs of the Northern California Coast -- will host the [Global Cuisine Series](http://www.ritzcarlton.com/en/hotels/california/half-moon-bay/dining/global-cuisine-series), featuring some of the most influential and accomplished chefs in California. For eight weekends starting at the end of May, the crème de le crème of California’s culinary world will present an immersive experience to a select group of guests while highlighting their own fresh take on the cuisine of different regions from around the world.
+> Beginning in May 2017, [The Ritz-Carlton, Half Moon Bay](http://www.ritzcarlton.com/en/hotels/california/half-moon-bay)—an elite destination resort located on the dramatic bluffs of the Northern California Coast—will host the [Global Cuisine Series](http://www.ritzcarlton.com/en/hotels/california/half-moon-bay/dining/global-cuisine-series), featuring some of the most influential and accomplished chefs in California. For eight weekends starting at the end of May, the crème de le crème of California’s culinary world will present an immersive experience to a select group of guests while highlighting their own fresh take on the cuisine of different regions from around the world.
 >
 > ![Half Moon Bay the Ritz](http://s3.amazonaws.com/thegourmez-wpmedia/2017/06/half-moon-bay-ritz.jpg)
 >

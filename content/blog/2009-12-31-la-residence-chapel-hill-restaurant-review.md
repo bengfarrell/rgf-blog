@@ -1,5 +1,5 @@
 ---
-title: "La Residence (Chapel Hill) -- Restaurant Review"
+title: "La Residence (Chapel Hill)—Restaurant Review"
 date: "2009-12-31"
 categories:
   - "dining-chapel-hill-nc"

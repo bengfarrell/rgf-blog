@@ -1,5 +1,5 @@
 ---
-title: "Black Swan Merlot -- Wine Review (and a few notes)"
+title: "Black Swan Merlot—Wine Review (and a few notes)"
 date: "2009-12-16"
 categories:
   - "merlot"
@@ -18,7 +18,7 @@ tags:
   - "wine-review"
 ---
 
-Expect my blog posts to continue being a bit sporadic until the new year -- we are headed out of town to visit friends and family in LA in a week, so while I hope to keep up posts, I'm not hitting quite as many restaurants lately due to lack of time!  I do plan to incorporate more non-review blogs soon, likely just short thoughts on writing or whatever else may strike me, to break up my own blogging monotony. Let me know what you think about the greater mix of topics when I do!
+Expect my blog posts to continue being a bit sporadic until the new year—we are headed out of town to visit friends and family in LA in a week, so while I hope to keep up posts, I'm not hitting quite as many restaurants lately due to lack of time!  I do plan to incorporate more non-review blogs soon, likely just short thoughts on writing or whatever else may strike me, to break up my own blogging monotony. Let me know what you think about the greater mix of topics when I do!
 
 P.S., I'm not phasing out pictures of wine bottles: I forgot to take them for these last two reviews!
 

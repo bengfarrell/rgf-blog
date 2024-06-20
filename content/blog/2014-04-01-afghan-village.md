@@ -53,7 +53,7 @@ Liked I said, my stomach was primed to enjoy Afghan Village, and it did. Boy, di
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.thegourmez.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
 
-**Afghan Village** 5698 Thornton Avenue Newark $9--$14
+**Afghan Village** 5698 Thornton Avenue Newark $9–$14
 
 [![Afghan Village on Urbanspoon](http://www.urbanspoon.com/b/link/80150/minilink.gif)](http://www.urbanspoon.com/r/6/80150/restaurant/Afghan-Village-Newark)
 

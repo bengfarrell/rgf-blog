@@ -2,10 +2,11 @@
 title: "The Hospitality of the Finger Lakes—and Other Reasons to Visit"
 date: "2015-09-10"
 categories:
-  - "travel-guide"
-  - "travel-guide"
+  - "travel-guides"
+  - "restaurants"
+  - "bakeries"
+  - "ice-cream-parlors"
   - "wine"
-  - "wine-bloggers-conference-2015"
 tags:
   - "coffee"
   - "corning"
@@ -35,7 +36,7 @@ tags:
 
 _Shh,_ don’t tell [the fine folks who run](http://www.zephyradventures.com/) the Wine Bloggers Conference (WBC), but some of us bloggers write about more than wine! Which is why it was exceptionally pleasant to attend this year—the folks at [the Finger Lakes Wine Country Tourism and Marketing Association](http://www.fingerlakeswinecountry.com/), [Corning Enterprises](http://www.corning.com/), and [the Elmira Corning Airport](http://www.chemungcounty.com/index.asp?pageId=577) sure know how to make visitors feel welcome and appreciated! And while doing it, they gave us a peek into the eats, drinks, and sights of this picturesque region of New York State.
 
-**The Airport**
+## The Airport
 
 It’s fair to say I felt wanted at the Elmira Corning Airport from the moment I stepped off my second flight from Denver. I knew from other bloggers’ tweets that there was a welcome sign for us--
 
@@ -47,7 +48,7 @@ It’s fair to say I felt wanted at the Elmira Corning Airport from the moment I
 
 Not only that, but Ann Crook, director of aviation at the airport, was there in person to make sure those of us using the free shuttle service they provided to the Radisson Hotel Corning, a twenty-minute drive, didn’t get lost. Now it’s a small-enough airport that getting lost would be a challenge in itself, but the hospitality they provided at the airport set the stage for the days to come.
 
-**The Gaffer District**
+## The Gaffer District
 
 As soon as I set my bags down, it was time to walk a few short blocks through downtown Corning’s Gaffer District to the opening reception. To be fair, [the Gaffer District](http://www.gafferdistrict.com/) is only a few short blocks itself!
 
@@ -91,7 +92,7 @@ Don’t ask how. You don’t want to know. But man, it was still better than any
 
 I do have more pictures of the opening reception and downtown Corning [right here](https://www.facebook.com/media/set/?set=a.10153081050419607.1073741956.567409606&type=1&l=c3a2c93ede), if you’d like to take a gander. Click on this one for my [daytime downtown Corning views](https://www.facebook.com/media/set/?set=a.10153091827389607.1073741959.567409606&type=1&l=bc36cd2ba6) along with some images from the glassblowing demo at the Corning Museum of Glass…
 
-**The Museums**
+## The Museums
 
 The best examples of how well the Finger Lakes organizations treated us come from our two nights out at two Corning museums in easy walking distance of the Gaffer District.
 

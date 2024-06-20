@@ -20,7 +20,7 @@ tags:
   - "washington-duke-inn"
 ---
 
-About a year and a half ago, [I visited](http://www.rebeccagomezfarrell.com/2011/04/carolina-tiger-rescue/ "Visit blog") the the [Carolina Tiger Rescue](http://www.carolinatigerrescue.org/default.asp "Website") in Pittsboro. They are an excellent nonprofit organization that provides homes for big cats that have been abandoned or abused, whether they are reclaimed from a zoo or given up by owners who can no longer care for the exotic creatures. Tigers, lions, lynx -- it doesn't matter what species of big cat. The Carolina Tiger Rescue tends to them all, and they have never been busier, often unable to take in new animals because their cages are full.
+About a year and a half ago, [I visited](http://www.rebeccagomezfarrell.com/2011/04/carolina-tiger-rescue/ "Visit blog") the the [Carolina Tiger Rescue](http://www.carolinatigerrescue.org/default.asp "Website") in Pittsboro. They are an excellent nonprofit organization that provides homes for big cats that have been abandoned or abused, whether they are reclaimed from a zoo or given up by owners who can no longer care for the exotic creatures. Tigers, lions, lynx—it doesn't matter what species of big cat. The Carolina Tiger Rescue tends to them all, and they have never been busier, often unable to take in new animals because their cages are full.
 
 _That's great, the Gourmez_, you may be saying, _but what does this have to do with food_? Well, it's nearly time for the Carolina Tiger Rescue's annual fundraiser, and it is of definite interest to area foodies.
 

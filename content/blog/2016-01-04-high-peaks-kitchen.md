@@ -38,7 +38,7 @@ I insisted to Friend #1 that we start with an order of veggie samosas. They were
 
 [![High-Peaks-Kitchen-03](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/High-Peaks-Kitchen-03-394x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/High-Peaks-Kitchen-03.jpg) [![High-Peaks-Kitchen-04](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/High-Peaks-Kitchen-04-500x387.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/High-Peaks-Kitchen-04.jpg)
 
-The pastry, thick and flaky, had a delightfully grainy texture with a crisp exterior. The ingredients’ quality shone through with plenty of flavor -- samosas too often end up with a bland lump of filling, but I could savor and easily distinguish between the peas, potatoes, and spices.
+The pastry, thick and flaky, had a delightfully grainy texture with a crisp exterior. The ingredients’ quality shone through with plenty of flavor—samosas too often end up with a bland lump of filling, but I could savor and easily distinguish between the peas, potatoes, and spices.
 
 My mouth was now primed to enjoy my entrée, and it did.
 
@@ -50,7 +50,7 @@ Friend #1 had the chicken korma.
 
 [![High-Peaks-Kitchen-06](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/High-Peaks-Kitchen-06-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/High-Peaks-Kitchen-06.jpg)
 
-She thought it was great, and I’m pretty sure that’s what my husband thought of the lamb coconut dish I brought home for him -- he consumed it too fast for me to get a bite!
+She thought it was great, and I’m pretty sure that’s what my husband thought of the lamb coconut dish I brought home for him—he consumed it too fast for me to get a bite!
 
 I must also give special accolades to the garlic cheese naan.
 

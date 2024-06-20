@@ -2,7 +2,7 @@
 title: "Crunchmaster Crackers Review"
 date: "2015-10-12"
 categories:
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "7-ancient-grains"

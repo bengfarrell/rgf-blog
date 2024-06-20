@@ -15,7 +15,7 @@ tags:
   - "the-gourmez-restaurant-review"
 ---
 
-**Magnolia Grill** 1002 Ninth Street Ninth Street, Durham [http://www.magnoliagrill.net](http://www.magnoliagrill.net/) Entrees:  $25-$28
+**Magnolia Grill** 1002 Ninth Street Ninth Street, Durham [http://www.magnoliagrill.net](http://www.magnoliagrill.net/) Entrees:  $25–$28
 
 Magnolia Grill is known as one of the finest dining establishments in Durham.  Being as I've lived here four years now, I figured I should get around to trying it.  Its menu is what I dub New American cuisine, otherwise known as fresh, local ingredients combined in inventive ways to create spins on the basic meat, starch, veggie, and sauce concept.  It's housed in a grey-painted brick building at the far end of Ninth street and is divided into a bar dining area, where reservations are not needed...
 

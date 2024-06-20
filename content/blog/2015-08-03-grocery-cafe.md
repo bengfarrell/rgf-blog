@@ -2,7 +2,6 @@
 title: "Grocery Cafe"
 date: "2015-08-03"
 categories:
-  - "oakland-restaurant-reviews"
   - "restaurants"
 tags:
   - "burmese"
@@ -24,7 +23,10 @@ tags:
   - "tea-leaf-salad"
 ---
 
- 
+2248 10th Avenue\
+Clinton, Oakland\
+[Facebook page](https://www.facebook.com/grocerycafe)\
+$9–$13
 
 Grocery Café has been receiving [a lot](http://www.eastbayexpress.com/oakland/this-hole-in-the-wall-is-doing-what-no-other-restaurant-in-oakland-is/Content?oid=4185327) of [press](http://www.bonappetit.com/restaurants-travel/navigator/article/oakland-navigator) lately, so I was thrilled when one of my Meetup groups announced a lunch meeting there. It’s a Burmese restaurant tucked away on a corner in the Clinton neighborhood of Oakland. ![Grocery_Cafe_001](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Grocery_Cafe_001-500x425.jpg)
 
@@ -83,9 +85,5 @@ Our server did a fair job guiding those of our party who’d never had Burmese f
 I wasn’t blown away by Grocery Café, but I wouldn’t hesitate to return because of the value and because they offer venison and rabbit masala! The whole coconuts also looked like a popular item among regular patrons.
 
 This spot is looking to expand the “grocery” part of their name as well, eventually offering Burmese produce and other items to purchase direct from their cold cases, items that their neighbors likely won’t find anywhere else. Lucky blokes.
-
-**Grocery Café** 2248 10th Avenue Clinton, Oakland [Facebook page](https://www.facebook.com/grocerycafe) $9--$13
-
-[![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
 _Reviewed 13 July 2015._

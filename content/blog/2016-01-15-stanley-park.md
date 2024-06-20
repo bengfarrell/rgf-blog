@@ -90,7 +90,7 @@ The [Vancouver Aquarium](http://www.vanaqua.org/), which is a tourist destinatio
 
 [![2015-Vancouver-062](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-062-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-062.jpg) [![2015-Vancouver-063](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-0631-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-0631.jpg) [![2015-Vancouver-026](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-026-373x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-026.jpg) [![2015-Vancouver-082](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-082-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-082.jpg)
 
-It’ll likely be inspiration for the next forest fantasy scene I write. The trails were easy walking, with only a little incline -- plenty of mud, though! Nearly at the endpoint of our rainforest hike, we caught up to the main road and crossed a small bridge that grants a lovely view of the much larger Lions Gate.
+It’ll likely be inspiration for the next forest fantasy scene I write. The trails were easy walking, with only a little incline—plenty of mud, though! Nearly at the endpoint of our rainforest hike, we caught up to the main road and crossed a small bridge that grants a lovely view of the much larger Lions Gate.
 
 [![2015-Vancouver-065](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-065-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-065.jpg)
 

@@ -1,5 +1,5 @@
 ---
-title: "Alice White Shiraz 2006 -- Wine Review"
+title: "Alice White Shiraz 2006—Wine Review"
 date: "2009-12-28"
 categories:
   - "red-wine-review"

@@ -28,7 +28,7 @@ tags:
   - "upscale"
 ---
 
-**Midtown Grille** 4421-115 Six Forks Road North Hills, Raleigh [Website](http://themidtowngrille.com/) Entrees: $19 -- $29 Closed on Sundays
+**Midtown Grille** 4421-115 Six Forks Road North Hills, Raleigh [Website](http://themidtowngrille.com/) Entrees: $19 -–$29 Closed on Sundays
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/midtowngrille_0002.jpg "midtowngrille_0002")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/midtowngrille_0002.jpg)
 

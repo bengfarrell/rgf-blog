@@ -27,11 +27,11 @@ tags:
 
 
 
-My friend Sean Timberlake, founder of the beautiful [Punk Domestics](http://www.punkdomestics.com/) canning and preservation blog, has been leading hands-on culinary tours to Italy since 2012.  He has two coming up, 10/8/15--10/14/15 and 1/14/16--1/20/16, based out of the Emilia-Romagna region of Italy. These are can't miss experiences for those of you who love diving deep into food roots to gain a richer understanding of how we cultivate and make the Italian cuisine we love. While I'm just getting to know Sean, I'm positive he makes for a charming and knowledgeable guide throughout these tours.
+My friend Sean Timberlake, founder of the beautiful [Punk Domestics](http://www.punkdomestics.com/) canning and preservation blog, has been leading hands-on culinary tours to Italy since 2012.  He has two coming up, 10/8/15–10/14/15 and 1/14/16–1/20/16, based out of the Emilia-Romagna region of Italy. These are can't miss experiences for those of you who love diving deep into food roots to gain a richer understanding of how we cultivate and make the Italian cuisine we love. While I'm just getting to know Sean, I'm positive he makes for a charming and knowledgeable guide throughout these tours.
 
-Both tours are priced at 3,000 USD and include six nights at the family-owned Hotel Sirena, all meals and drinks (including wine!), and a number of cooking classes and adventures. The details of those adventures are the primary differences between the two tours. October's will appeal to truffle lovers most, while January's hits the heart--and all the other parts--of pork lovers.
+Both tours are priced at 3,000 USD and include six nights at the family-owned Hotel Sirena, all meals and drinks (including wine!), and a number of cooking classes and adventures. The details of those adventures are the primary differences between the two tours. October's will appeal to truffle lovers most, while January's hits the heart—and all the other parts—of pork lovers.
 
-**October 8 -- 14, 2015: Autumn in Italy**
+**October 8–14, 2015: Autumn in Italy**
 
 - Forage for prized **porcini mushrooms** in the Appenine mountains and cook with them.
 - Make _**[savòr](http://www.punkdomestics.com/category/tags/savor)**_, a local conserve of autumn fruits and nuts with a local artisan jam maker.
@@ -41,7 +41,7 @@ Both tours are priced at 3,000 USD and include six nights at the family-owned Ho
 - Experience _**[formaggio di fossa](http://www.punkdomestics.com/content/formaggio-di-fossa)**_, sheep's milk cheese that's stored in limestone pits.
 - Travel to Sant'Agata Feltria to experience their famous festival, or _sagra_, of the white truffle.
 
-**January 14-20, 2016: Go Pig or Go Home!**
+**January 14–20, 2016: Go Pig or Go Home!**
 
 - Work with a local _norcino_, or hog butcher, to [t**ransform a freshly slaughtered pig into a wide variety of salumi**](http://www.punkdomestics.com/content/big-pig-day)**.**
 - Make _**[savòr](http://www.punkdomestics.com/category/tags/savor)**_, a local conserve of autumn fruits and nuts with a local artisan jam maker.

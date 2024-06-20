@@ -14,7 +14,7 @@ tags:
   - "southern-fast-food"
 ---
 
-**Southern Fast Food Series #4: Biscuitville** Locations throughout Virginia and North Carolina This location: 2822 Chapel Hill Street, Durham [Website](http://www.biscuitville.com/) Meal deals w/one side and a drink: $3.69--$5.19 Sandwiches only: $1.89--$3.79
+**Southern Fast Food Series #4: Biscuitville** Locations throughout Virginia and North Carolina This location: 2822 Chapel Hill Street, Durham [Website](http://www.biscuitville.com/) Meal deals w/one side and a drink: $3.69–$5.19 Sandwiches only: $1.89–$3.79
 
 Biscuitville was next on my southern fast food tour.
 

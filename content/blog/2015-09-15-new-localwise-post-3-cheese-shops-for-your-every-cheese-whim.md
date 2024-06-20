@@ -3,11 +3,8 @@ title: "New Localwise Post! 3 Cheese Shops for Your Every Cheese Whim"
 date: "2015-09-15"
 categories:
   - "announcements"
-  - "cheesemongers"
-  - "oakland-restaurant-reviews"
-  - "ice-cream-bakery-food-truck"
+  - "other-businesses"
   - "restaurants"
-  - "writing"
 tags:
   - "berkeley"
   - "blogger"
@@ -28,7 +25,7 @@ tags:
   - "temescal"
 ---
 
-In case you missed it, my next post is now live at the Localwise community blog! [This one is on cheese shop](https://www.localwisejobs.com/blog/3-cheese-shops-for-fulfilling-your-every-cheese-whim/)s in the Elmwood, Temescal, and Rockridge neighborhoods, which just so happen to be the closest neighborhoods to me...okay, they are conveniently the closest neighborhoods to me. I am blessed with amazing cheese options within walking distance of my abode and I am never, ever complaining.
+In case you missed it, my next post is now live at the Localwise community blog! [This one is on cheese shops](https://www.localwisejobs.com/blog/3-cheese-shops-for-fulfilling-your-every-cheese-whim/) in the Elmwood, Temescal, and Rockridge neighborhoods, which just so happen to be the closest neighborhoods to me...okay, they are conveniently the closest neighborhoods to me. I am blessed with amazing cheese options within walking distance of my abode and I am never, ever complaining.
 
 Here's your teaser:
 

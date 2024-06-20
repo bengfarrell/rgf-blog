@@ -2,13 +2,9 @@
 title: "A Sampling of the Perfect Watkins Glen and Eastern Seneca Lake Experience"
 date: "2015-11-03"
 categories:
-  - "dessert-wine-reviews"
-  - "red-wine-review"
-  - "tasting-rooms-in-the-finger-lakes-ny"
-  - "travel-guide"
-  - "white-wine-reviews"
+  - "tasting-rooms"
+  - "travel-guides"
   - "wine"
-  - "wine-bloggers-conference-2015"
 tags:
   - "atwater"
   - "brittany-gibbs"

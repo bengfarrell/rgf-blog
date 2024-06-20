@@ -14,7 +14,7 @@ tags:
   - "trout"
 ---
 
-**JJ's Fish and Chicken** 1403 South Miami Boulevard East Durham Sandwiches: $3.89--$5.50 Chicken and Seafood Dinners: $5.99--$10.99
+**JJ's Fish and Chicken** 1403 South Miami Boulevard East Durham Sandwiches: $3.89–$5.50 Chicken and Seafood Dinners: $5.99–$10.99
 
 The management asked me not to take pictures at this establishment, so I'll just try and describe the place for you. It's a pretty nice, clean, order-at-the-counter restaurant with some country clutter in the form of wood barrels and wooden fish and oars on the walls. The outside of it is covered with names of the different types of fish that they offer, and signs in the windows advertise a drive-through window. Food options were varied, from fried chicken and seafood platters to gyros and jerk shrimp. There were also dessert options, including banana pudding, red velvet and coconut cakes, and cookies, but the case was pretty well cleared out by mid-evening.
 

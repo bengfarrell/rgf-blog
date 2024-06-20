@@ -19,7 +19,7 @@ tags:
 
 [**www.dickeys.com**](http://www.dickeys.com)
 
-**Prices:  $6.50-$9 for sandwiches and meat platters, I think.**
+**Prices:  $6.50–$9 for sandwiches and meat platters, I think.**
 
 Dickey's is an order-at-the-counter spot, with a large selection of barbecued and smoked meats and your typical sides thrown in.  You can get a meat platter with up to three different types or opt for a sandwich instead.  I was definitely taken back by the $11 for a one meat plate with two sides and a drink but little did I know, there is a copious amount of meat involved.  If you like that, then the price may be right for you.
 

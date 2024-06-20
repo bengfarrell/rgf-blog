@@ -1,5 +1,5 @@
 ---
-title: "Minneapolis Day 1 -- Photo Blog"
+title: "Minneapolis Day 1—Photo Blog"
 date: "2011-05-24"
 categories: 
   - "minneapolis-dining"

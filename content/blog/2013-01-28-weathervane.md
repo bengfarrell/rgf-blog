@@ -30,7 +30,7 @@ tags:
   - "weathervane"
 ---
 
-**Weathervane** 201 S. Estes Drive University Mall, Chapel Hill [Website](http://www.southernseason.com/weathervane/) $11--$38
+**Weathervane** 201 S. Estes Drive University Mall, Chapel Hill [Website](http://www.southernseason.com/weathervane/) $11–$38
 
 [![Weathervane 11](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/Weathervane-11.jpg)](http://www.thegourmez.com/2013/01/weathervane/weathervane-11/)
 

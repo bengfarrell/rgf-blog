@@ -20,7 +20,7 @@ tags:
   - "turkey-club"
 ---
 
-**Foster’s Market** 2694 Durham-Chapel Hill Boulevard Lakewood/Rockwood Durham [Website](http://www.fostersmarket.com/) Breakfast: $4.95--$9.95 Sandwiches/Wraps: $7.50--$7.95 Hours: 7:30 am—8:00 pm
+**Foster’s Market** 2694 Durham-Chapel Hill Boulevard Lakewood/Rockwood Durham [Website](http://www.fostersmarket.com/) Breakfast: $4.95–$9.95 Sandwiches/Wraps: $7.50–$7.95 Hours: 7:30 am—8:00 pm
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/fosters1.jpg "fosters1")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/fosters1.jpg)
 

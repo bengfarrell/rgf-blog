@@ -133,7 +133,7 @@ I cannot say the same of the mac & cheese. I’d pay $12 for it again in a heart
 
 Next week? Homeroom in Oakland!
 
-**The Tipsy Pig** 2231 Chestnut Street Cow Hollow, San Francisco [Website](http://www.thetipsypigsf.com/) $12--$24
+**The Tipsy Pig** 2231 Chestnut Street Cow Hollow, San Francisco [Website](http://www.thetipsypigsf.com/) $12–$24
 
 [![Tipsy Pig on Urbanspoon](http://www.urbanspoon.com/b/link/1432865/minilink.gif)](http://www.urbanspoon.com/r/6/1432865/restaurant/Marina/Tipsy-Pig-San-Francisco)
 

@@ -16,7 +16,7 @@ tags:
   - "the-gourmez-review"
 ---
 
-**Southern Fast Food Series #3: Smithfield's Chicken 'N Bar-B-Q** More than 30 locations throughout North Carolina This location: 3578 Davis Drive, Morrisville, NC [Website](http://scnbnc.com/) Boxes of Chicken: $6.99-$22.99 Platters (2 sides and hushpuppies): $5.89-$6.99 Snacks (Fries): $4.49-5.29
+**Southern Fast Food Series #3: Smithfield's Chicken 'N Bar-B-Q** More than 30 locations throughout North Carolina This location: 3578 Davis Drive, Morrisville, NC [Website](http://scnbnc.com/) Boxes of Chicken: $6.99–$22.99 Platters (2 sides and hushpuppies): $5.89–$6.99 Snacks (Fries): $4.49-5.29
 
 ![](http://www.thegourmez.com/gourmez/photos/smithfield_0001.JPG)
 

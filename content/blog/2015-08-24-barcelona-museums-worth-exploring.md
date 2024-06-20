@@ -2,7 +2,7 @@
 title: "Barcelona Museums Worth Exploring"
 date: "2015-08-24"
 categories: 
-  - travel-guide"
+  - travel-guides"
 tags: 
   - "barcelona"
   - "catalonia"
@@ -30,7 +30,8 @@ tags:
 
 It’s been months since my last Barcelona post, and my apologies for taking so long to catch up! In this travelogue, I’ll take you to three of Barcelona’s less visited museums—and two of them aren’t even off the beaten track! But their subject matter, however…
 
-1. [MIBA: Museum of Idea and Inventions of Barcelona](http://www.mibamuseum.com/en/index) (Carrer de la Ciutat 7, Ciutat Vella, 8€)
+## 1. [MIBA: Museum of Idea and Inventions of Barcelona](http://www.mibamuseum.com/en/index)
+(Carrer de la Ciutat 7, Ciutat Vella, 8€)
 
 [![2014_Barcelona_456](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/2014_Barcelona_456-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/2014_Barcelona_456.jpg)
 
@@ -58,7 +59,8 @@ Oh yes, just what I never knew I needed, a fan to chill my hot noodles! This mus
 
 I’ll take it! The rest of my photographs from the MIBA can be [viewed here.](https://www.facebook.com/media/set/?set=a.10152625270379607.1073741930.567409606&type=1&l=c53aadb8a0)
 
-2. [MEAM: Museum of Modern European Art](http://www.meam.es/) (Barra de Ferro 5, Barri Gotic, 9€)
+## 2. [MEAM: Museum of Modern European Art](http://www.meam.es/) 
+(Barra de Ferro 5, Barri Gotic, 9€)
 
 [![2014_Barcelona_699](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/2014_Barcelona_699-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/2014_Barcelona_699.jpg)We were advised to check out the MEAM instead of the nearby Picasso Museum, which is always super popular, super crowded, and super expensive. Am I glad we took that advice! There was no line at all, and the exhibits filled the grandiose space in a way that made me instantly relaxed and contemplative.
 
@@ -78,7 +80,8 @@ The final floor of the MEAM featured a contemporary art display, and once again,
 
 The MEAM was well-worth the price, and I’m glad we learned about this alternative to the Picasso Museum tucked only half a block away. The rest of my MEAM photos can be [viewed here](https://www.facebook.com/media/set/?set=a.10152661274004607.1073741936.567409606&type=1&l=ab8cc25cba).
 
-3. [Museu de la Musica](http://w110.bcn.cat/portal/site/MuseuDeLaMusica?lang=en_GB) (L’Auditori Building, 2nd Floor, Placa de les Glories, 4.75 €)
+## 3. [Museu de la Musica](http://w110.bcn.cat/portal/site/MuseuDeLaMusica?lang=en_GB)
+(L’Auditori Building, 2nd Floor, Placa de les Glories, 4.75 €)
 
 The Museu de la Musica is much farther from tourist central than our previous two museums, but it’s also half the price! You know you’re getting close when you pass the Torre Agbar heading southeast on Carrer de la Padilla.
 

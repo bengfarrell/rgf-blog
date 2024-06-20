@@ -194,7 +194,7 @@ Poolside service is available at any of the chaise lounges with prompt attention
 [![Crab salad with plantain chips.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_05-500x332.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_05/) Crab salad with plantain chips.</div>
 
 
-I'm basing my prior resort food experiences on an all-inclusive in Jamaica, so it was an entirely different world from this. Expensive? Yes, but about the same as a nice meal at most upscale restaurants at around $25-$30 a plate. That salad was chockfull of crab that soaked up all the delicious, vibrant flavors of the citrus, garlic, and tomato. The plantain chips were an inventive and enjoyable way to scoop it up.
+I'm basing my prior resort food experiences on an all-inclusive in Jamaica, so it was an entirely different world from this. Expensive? Yes, but about the same as a nice meal at most upscale restaurants at around $25–$30 a plate. That salad was chockfull of crab that soaked up all the delicious, vibrant flavors of the citrus, garlic, and tomato. The plantain chips were an inventive and enjoyable way to scoop it up.
 
 My husband and I also split a hamburger, and half was plenty!
 

@@ -1,5 +1,5 @@
 ---
-title: "Tonali (Durham) -- Restaurant Review"
+title: "Tonali (Durham)—Restaurant Review"
 date: "2010-01-13"
 categories:
   - "durham-restaurant-reviews"

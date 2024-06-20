@@ -16,7 +16,7 @@ tags:
   - "tahini"
 ---
 
-**International Delights** 740 Ninth Street, Durham Sandwiches/Gyros: $6--$8 Platters: $7--$10
+**International Delights** 740 Ninth Street, Durham Sandwiches/Gyros: $6–$8 Platters: $7–$10
 
 ![](http://www.thegourmez.com/gourmez/photos/idelights01.JPG)
 

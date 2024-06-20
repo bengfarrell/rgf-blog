@@ -3,11 +3,11 @@ title: "Take a Virtual Tour of Oakland's the Hive in time for Firebrand's Grand 
 date: "2015-11-20"
 categories:
   - "bars"
-  - "bars-in-oakland"
-  - "breweries-in-oakland-ca"
-  - "coffee-shop"
-  - "oakland-coffee-shop-reviews"
-  - "oakland-restaurant-reviews"
+  - "breweries"
+  - "coffee-shops"
+  - "events"
+  - "other-businesses"
+  - "bakeries"
   - "restaurants"
 tags:
   - "alison-roessler"
@@ -40,7 +40,7 @@ tags:
 
 ![The-Hive-046](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-046-334x500.jpg)A few weeks ago, I promised you a more intensive--dare I say sneakier?--sneak peek into Oakland's [the Hive](http://hiveoakland.com) development. Over [at Localwise, I wrote a quick article](https://www.localwisejobs.com/blog/behind-the-brick-walls-of-oaklands-new-mixed-use-development-the-hive/) summarizing all the retail businesses onsite, but I took a lot more pictures than the published ones, and they're sure to entice you in.  And what better time is there to share them with you than the day before [Firebrand Artisan Bread's](http://www.firebrandartisanbreads.com/) grand opening? Yes, you read that right! Firebrand is finally opening at 2343 Broadway on 11/21!
 
-I can't make it opening day, but you can bet I'll be there soon to check out what's likely to become one of my favorite places for lunch or afternoon delights -- only the kind you can get in public, I promise. But can you blame me for thinking carnally? **Quality is evident to the eye in every pastry.** I seriously OD'd on simply looking at the feast Firebrand laid out for us on that press tour, and I went home with so many samples that were instantly gobbled up and exclaimed over by friends. If Colleen Orlando's enthusiasm is any indication, and it should be as she's the co-partner with a penchant for pastry, we will all be thrilled with their sweet treats, breads, and sandwiches.
+I can't make it opening day, but you can bet I'll be there soon to check out what's likely to become one of my favorite places for lunch or afternoon delights—only the kind you can get in public, I promise. But can you blame me for thinking carnally? **Quality is evident to the eye in every pastry.** I seriously OD'd on simply looking at the feast Firebrand laid out for us on that press tour, and I went home with so many samples that were instantly gobbled up and exclaimed over by friends. If Colleen Orlando's enthusiasm is any indication, and it should be as she's the co-partner with a penchant for pastry, we will all be thrilled with their sweet treats, breads, and sandwiches.
 
 [![The-Hive-007](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-007-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-007.jpg)
 
@@ -80,7 +80,7 @@ What else is going on at the Hive? In addition to hosting the offices for Inner 
 [![Samples flowing of Numi's tea.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-022-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-022.jpg) Samples flowing of Numi's tea.</div>
 
 
-\-- a fair-trade tea company that's risen to the top of the tea field since their 1999 founding in Oakland.  Try the Golden Tonic from their [new tumeric tea line](http://shop.numitea.com/Turmeric-Tea/c/NumiTeaStore@Teabag@Turmeric) for a lively, invigorating tea experience. There's more? [Mason at the Hive](http://www.masonathive.com/) is the name of the Hive's apartments -- 104 of them spread throughout the complex. Unfortunately, we didn't get a tour of those, but if you rent one, call me? And of course, there are the rest of those retail spaces. Here are photosets from each of these new businesses -- only one left to open now! -- and a little more description from me as to what sets them apart. **[Truve,](http://www.truvefit.com/) the fitness gym that doubles as an art gallery.** It was truly beautiful inside these walls, and Alison Roessler's commitment to sustainability in designing the space and to sustaining the community by offering free classes shows that she has a beautiful soul as well.
+\-- a fair-trade tea company that's risen to the top of the tea field since their 1999 founding in Oakland.  Try the Golden Tonic from their [new tumeric tea line](http://shop.numitea.com/Turmeric-Tea/c/NumiTeaStore@Teabag@Turmeric) for a lively, invigorating tea experience. There's more? [Mason at the Hive](http://www.masonathive.com/) is the name of the Hive's apartments—104 of them spread throughout the complex. Unfortunately, we didn't get a tour of those, but if you rent one, call me? And of course, there are the rest of those retail spaces. Here are photosets from each of these new businesses—only one left to open now!—and a little more description from me as to what sets them apart. **[Truve,](http://www.truvefit.com/) the fitness gym that doubles as an art gallery.** It was truly beautiful inside these walls, and Alison Roessler's commitment to sustainability in designing the space and to sustaining the community by offering free classes shows that she has a beautiful soul as well.
 
 [![The-Hive-034](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-034-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-034.jpg)
 
@@ -98,7 +98,7 @@ What else is going on at the Hive? In addition to hosting the offices for Inner 
 
 [![The-Hive-027](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-027-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-027.jpg)
 
-**[People's Barber & Shop,](https://peoplesbarber.com/) the barber shop that brings antique etiquette -- and chairs! -- into the modern day.** Managing partner James Lizotte was full of smiles and a genuine love of his craft as we spoke with him.
+**[People's Barber & Shop,](https://peoplesbarber.com/) the barber shop that brings antique etiquette—and chairs!—into the modern day.** Managing partner James Lizotte was full of smiles and a genuine love of his craft as we spoke with him.
 
 [![The-Hive-042](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-042-404x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/The-Hive-042.jpg)
 

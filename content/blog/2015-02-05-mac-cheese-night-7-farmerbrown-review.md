@@ -35,7 +35,7 @@ First Mac & Cheese Night of 2015! This outing took us to Farmerbrown, just about
 
 ![Farmer_Browns_002](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/Farmer_Browns_002-333x500.jpg)
 
-Farmerbrown is a Southern restaurant, perhaps one that could be called Soul Food, but I don't think there's enough crustacean or spice on the menu to qualify as that. I'll go ahead and give you our overall impression of the restaurant: good, solid food that would have been great if, oh, $5-$10 cheaper per entrée. Yes, this is San Francisco, but I don't want to live in a world where a pulled pork sandwich costs $17.50. It's just not right.
+Farmerbrown is a Southern restaurant, perhaps one that could be called Soul Food, but I don't think there's enough crustacean or spice on the menu to qualify as that. I'll go ahead and give you our overall impression of the restaurant: good, solid food that would have been great if, oh, $5–$10 cheaper per entrée. Yes, this is San Francisco, but I don't want to live in a world where a pulled pork sandwich costs $17.50. It's just not right.
 
 Okay, maybe if any of us had ordered the pulled pork, my mind would be changed. But we didn't, instead opting for two varieties of chicken—
 
@@ -101,7 +101,7 @@ In fact, I'd recommend most of what we ate at Farmerbrown, just not with overwhe
 
 Next month will be Fat Angel's drunken goat version of mac & cheese! I can't wait.
 
-**Farmerbrown** 25 Mason St at the Hotel Metropolis Tenderloin, San Francisco Entrees: $18--$26
+**Farmerbrown** 25 Mason St at the Hotel Metropolis Tenderloin, San Francisco Entrees: $18–$26
 
 [![Farmerbrown on Urbanspoon](http://www.urbanspoon.com/b/link/83790/minilink.gif)](http://www.urbanspoon.com/r/6/83790/restaurant/Civic-Center/Farmerbrown-San-Francisco)
 

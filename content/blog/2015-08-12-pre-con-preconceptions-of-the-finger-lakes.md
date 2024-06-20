@@ -2,9 +2,8 @@
 title: "Pre-Con Preconceptions of the Finger Lakes"
 date: "2015-08-12"
 categories:
-  - "gewurztraminer"
-  - "riesling"
-  - "wine-bloggers-conference-2015"
+  - "wine"
+  - "travel-guides"
 tags:
   - "bay-area-wine"
   - "blow-my-mind"

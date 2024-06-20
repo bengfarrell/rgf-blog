@@ -10,7 +10,7 @@ tags:
   - "southpoint"
 ---
 
-**Bakehouse Bistro** \*CLOSED\* Southpoint 6905-104 Fayetteville Road Durham, NC www.bakehousebistro.com Entrees $12--$20
+**Bakehouse Bistro** \*CLOSED\* Southpoint 6905-104 Fayetteville Road Durham, NC www.bakehousebistro.com Entrees $12–$20
 
 Bakehouse Bistro is a new concept in dining, offering a walk-up counter, baked goods, coffee drinks, and a dining room. Like me, they are still working out the kinks of gourmet stardom, which probably endears me to the place more than I should let it.
 

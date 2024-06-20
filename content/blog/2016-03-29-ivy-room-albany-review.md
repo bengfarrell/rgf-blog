@@ -31,7 +31,7 @@ It also signifies the sort of place this Ivy Room aims to be: neighborhood dive 
 
 [![Ivy Room Pool Table and Booths](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/The-Ivy-03-481x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/The-Ivy-03.jpg)
 
-A healthy handful of patrons had gathered at Ivy Room after work on a Friday for Happy Hour, which lasts from 3 to 7. The $20 we paid for a later round of four drinks makes me think Happy Hour prices extend later at the discretion of the bartender -- make friends with your bartenders, y’all.
+A healthy handful of patrons had gathered at Ivy Room after work on a Friday for Happy Hour, which lasts from 3 to 7. The $20 we paid for a later round of four drinks makes me think Happy Hour prices extend later at the discretion of the bartender—make friends with your bartenders, y’all.
 
 Music starts at 9 pm, but come earlier, and you may get a preview of the show through sound checks.
 
@@ -45,7 +45,7 @@ The gimlet was heavier on the lime than the gin, and a rum and ginger--
 
 \--left me wishing I’d gone ahead and splurged on spiced rum like I usually do. In other words, standard well drinks! You may yearn for more character, but if you aren’t paying for it, don’t expect it. Ivy Room does have an impressive line-up of the usual local craft distillery suspects, so it’s easy to kick your drink up a notch in terms of quality. And the beer drinkers in our group were quite happy with their drafts.
 
-I look forward to coming back to Ivy Room for live music sometime soon -- how could I not find this place endearing when it offers as wall art a portrait of David Bowie, a landscape oil painting that came straight from everyone’s grandmother’s living room, and a canoe? Their grand opening party is this Saturday, 4/2/2016.
+I look forward to coming back to Ivy Room for live music sometime soon—how could I not find this place endearing when it offers as wall art a portrait of David Bowie, a landscape oil painting that came straight from everyone’s grandmother’s living room, and a canoe? Their grand opening party is this Saturday, 4/2/2016.
 
 [![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 

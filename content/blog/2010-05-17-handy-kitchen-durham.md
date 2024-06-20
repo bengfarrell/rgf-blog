@@ -14,7 +14,7 @@ tags:
   - "wonton-strips"
 ---
 
-**Handy Kitchen** 5279 N. Roxboro Road Eno Square Shopping Center Lunch Specials: $4.65--$4.75 Dinner Combos: $5.95--$6.95
+**Handy Kitchen** 5279 N. Roxboro Road Eno Square Shopping Center Lunch Specials: $4.65–$4.75 Dinner Combos: $5.95–$6.95
 
 ![](http://www.thegourmez.com/gourmez/photos/handy4.jpg)
 

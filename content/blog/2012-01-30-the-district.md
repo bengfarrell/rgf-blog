@@ -20,7 +20,7 @@ tags:
 
 I posted this review over at [Carpe Durham](http://carpedurham.com "Carpe Durham") earlier today. It's of a practically secret restaurant---amp up your excitement levels! Okay, not too high, though.
 
-**The District** 410 Blackwell Street The American Tobacco District $6--$11
+**The District** 410 Blackwell Street The American Tobacco District $6–$11
 
 [![](http://carpedurham.com/wp-content/uploads/2012/01/thedistrict02.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7578/) Head inside the glass doors by the waterfall at the bottom floor of the Fowler Building in the Tobacco District, and you’ll find the District, a restaurant only open on Thursdays and Fridays from 11:00 am to 1:00 pm for lunch and from 7:30 am to 10:o0 am for breakfast _(edited 2/3 to update hours and add breakfast!)._ [![](http://carpedurham.com/wp-content/uploads/2012/01/thedistrict01.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7576/) [![](http://carpedurham.com/wp-content/uploads/2012/01/thedistrict04.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7581/) The Fowler Building is also the home of the Art Institute of Raleigh-Durham, and their culinary program is why the District exists in the first place. It’s a training ground for future chefs and a means for them to put what they’ve learned into practice for a few months at a time. The District is only open for part of each semester, and the husband and I decided to try it last Thursday on its opening day with this group of students.
 

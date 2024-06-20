@@ -22,7 +22,7 @@ tags:
   - "woodcroft"
 ---
 
-**City Beverage** 4810 Hope Valley Road Woodcroft, Durham [Website](http://www.citybeverage-durham.com/) Brunch: $5 - $15 Sundays, 10:30 – 2:30
+**City Beverage** 4810 Hope Valley Road Woodcroft, Durham [Website](http://www.citybeverage-durham.com/) Brunch: $5 –$15 Sundays, 10:30 – 2:30
 
 _I first posted this review on [Carpe Durham](http://wp.me/px7rI-66g "Carpe Durham post") a few days ago._
 

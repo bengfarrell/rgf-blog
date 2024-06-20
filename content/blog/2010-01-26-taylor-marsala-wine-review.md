@@ -1,5 +1,5 @@
 ---
-title: "Taylor Marsala -- Wine Review"
+title: "Taylor Marsala—Wine Review"
 date: "2010-01-26"
 categories:
   - "fortified-wine"

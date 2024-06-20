@@ -14,7 +14,7 @@ tags:
   - "thickburger"
 ---
 
-**Hardee's (Southern Fast Food Series #4)** Heavily concentrated in the Southeast, but with plenty of restaurants north to Pennsylvania and west to Montana This location: 6116 Farrington Road, Chapel Hill Sandwiches: $3.40--$4, add about $2 to make it a combo [Website](http://www.hardees.com/)
+**Hardee's (Southern Fast Food Series #4)** Heavily concentrated in the Southeast, but with plenty of restaurants north to Pennsylvania and west to Montana This location: 6116 Farrington Road, Chapel Hill Sandwiches: $3.40–$4, add about $2 to make it a combo [Website](http://www.hardees.com/)
 
 ![](http://www.thegourmez.com/gourmez/photos/hardees02.jpg)
 

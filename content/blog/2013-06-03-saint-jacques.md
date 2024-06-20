@@ -31,7 +31,7 @@ tags:
   - "upscale"
 ---
 
-**Saint Jacques** 6112 Falls of Neuse Rd. North Raleigh [Website](http://www.saintjacquesfrenchcuisine.com/) $25-$40
+**Saint Jacques** 6112 Falls of Neuse Rd. North Raleigh [Website](http://www.saintjacquesfrenchcuisine.com/) $25–$40
 
 [![saint_jacques_01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/saint_jacques_01.jpg)](http://www.thegourmez.com/2013/06/saint-jacques/saint_jacques_01/)
 

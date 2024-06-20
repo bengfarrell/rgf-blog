@@ -122,7 +122,7 @@ Those are only a sampling of the meats we enjoyed. The roast chicken, not pictur
 
 That was actually my first abalone, and I can’t wait to try it again when my stomach isn’t already full to bursting. The greens served with it were exceptional.
 
-Of course, the little inconvenience of a packed stomach didn’t stop me from devouring two -- 2! — mango and coconut mochi for dessert.
+Of course, the little inconvenience of a packed stomach didn’t stop me from devouring two—2! — mango and coconut mochi for dessert.
 
 [![2014_lunar_new_year_16](http://s3.amazonaws.com/thegourmez-wpmedia/2014/02/2014_lunar_new_year_16-500x378.jpg)](http://www.thegourmez.com/2014/03/lunar-new-year-celebration-at-bks-bistro/2014_lunar_new_year_16/)
 

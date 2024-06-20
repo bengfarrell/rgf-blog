@@ -17,7 +17,7 @@ tags:
   - "rtp-lunch"
 ---
 
-**A Gracious Plenty Cafe** \*CLOSED\* 3530 S. Alston Avenue, Durham [Website](http://www.agraciousplentyinc.com/) Hours: Mon--Fri, 11--2 Lunch: $5.30--$7.80
+**A Gracious Plenty Cafe** \*CLOSED\* 3530 S. Alston Avenue, Durham [Website](http://www.agraciousplentyinc.com/) Hours: Mon--Fri, 11--2 Lunch: $5.30–$7.80
 
 ![](http://www.thegourmez.com/gourmez/photos/agraciousplenty5.JPG)
 

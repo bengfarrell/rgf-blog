@@ -18,7 +18,7 @@ tags:
 
 [![Bonny Doon Vineyards Rose](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/bonny-doon-rose-500x281.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/bonny-doon-rose.jpg)
 
-When [Bonny Doon Vineyards](https://www.bonnydoonvineyard.com/) offered up a sample of the four rosés they debuted this spring, I had to say yes -- and yes, _sample_ means they were free to me (obligatory disclaimer complete!). The opportunity to compare four entirely unique blush wines was an offer I couldn’t refuse. I called in some friends to help me with the task. Friend #1 is a wine aficionado. Friends #2, #3, #4, and #5 simply like to drink wine. Armed with an array of cheese--
+When [Bonny Doon Vineyards](https://www.bonnydoonvineyard.com/) offered up a sample of the four rosés they debuted this spring, I had to say yes—and yes, _sample_ means they were free to me (obligatory disclaimer complete!). The opportunity to compare four entirely unique blush wines was an offer I couldn’t refuse. I called in some friends to help me with the task. Friend #1 is a wine aficionado. Friends #2, #3, #4, and #5 simply like to drink wine. Armed with an array of cheese--
 
 [![Cheese platter](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Bonny-Doon-Roses-05-344x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Bonny-Doon-Roses-05.jpg)
 
@@ -62,7 +62,7 @@ It smells of sweet flowers but is remarkably similar in flavor profile to A Perf
 
 [![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Friend #1 describes the Il Ciliegiolo Rosato as having a grassy, strawberry, and watermelon nose. Thus far, he thought all the wines would be good for serving to his mother -- take that as you will. Friend #2 found that it grew on her, and she especially enjoyed it with a handful of blackberries. Friend #5 declared this to be her favorite and thought it had a good kick. Friend #3 suggested mixing a little of it together with A Proper Pink to make a better wine overall. All I’m saying about any such experimentation is that he may be onto something…_$24, available only to wine club members. Become one, and you can [order it here](http://shop.bonnydoonvineyard.com/product/2015-Il-Ciliegiolo-Rosato?pageID=005B07ED-AA57-89D2-C58B-410BF773C12E&sortBy=DisplayOrder&maxRows=100&)._
+Friend #1 describes the Il Ciliegiolo Rosato as having a grassy, strawberry, and watermelon nose. Thus far, he thought all the wines would be good for serving to his mother—take that as you will. Friend #2 found that it grew on her, and she especially enjoyed it with a handful of blackberries. Friend #5 declared this to be her favorite and thought it had a good kick. Friend #3 suggested mixing a little of it together with A Proper Pink to make a better wine overall. All I’m saying about any such experimentation is that he may be onto something…_$24, available only to wine club members. Become one, and you can [order it here](http://shop.bonnydoonvineyard.com/product/2015-Il-Ciliegiolo-Rosato?pageID=005B07ED-AA57-89D2-C58B-410BF773C12E&sortBy=DisplayOrder&maxRows=100&)._
 
 And finally, the . . .
 

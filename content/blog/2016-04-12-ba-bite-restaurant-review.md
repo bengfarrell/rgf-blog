@@ -29,7 +29,7 @@ $5–16 per item\
 
 Ba-Bite is an order at the counter, casual restaurant specializing in Middle Eastern comfort food. The name is a play on the Hebrew word _babait_, which evokes home cooking. Mica Talmor, the executive chef and co-owner of Ba-Bite and Savoy Events catering company along with her husband Robert Gott, is an Isreali-Jewish woman and most of Ba-Bites’ employees are Jordanian. They should know what Middle Eastern comfort food should taste like!
 
-The whimsical pomegranate décor is both appropriate for the cuisine and offers a pleasing color palette -- make sure to take in the large, knit pomegranate artwork in the main dining room.
+The whimsical pomegranate décor is both appropriate for the cuisine and offers a pleasing color palette—make sure to take in the large, knit pomegranate artwork in the main dining room.
 
 [![Ba-Bite Dining Room](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Ba-Bite-02-362x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Ba-Bite-02.jpg)
 
@@ -39,9 +39,9 @@ The salads, which are a main draw, come _mezza_, meaning small portions ($5), or
 
 [![Ba-Bite mezza salads](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Ba-Bite-05-2-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/Ba-Bite-05-2.jpg)
 
-The beet salad, pictured at the back, was my favorite. Made of roasted beets and yams tossed with cilantro, walnuts, and a mild North African spice blend in a citrus vinaigrette, it offered a fresh, tasty, combination of textures and flavors. The red cabbage and mission fig salad, with mung bean sprouts and a red wine vinaigrette, tasted too pickled for my liking. The dried fig offered only a chewy contrast to the greens’ flimsier presences -- for me, that’s a waste of a fig. Perhaps my love for them interferes with my objectivity?
+The beet salad, pictured at the back, was my favorite. Made of roasted beets and yams tossed with cilantro, walnuts, and a mild North African spice blend in a citrus vinaigrette, it offered a fresh, tasty, combination of textures and flavors. The red cabbage and mission fig salad, with mung bean sprouts and a red wine vinaigrette, tasted too pickled for my liking. The dried fig offered only a chewy contrast to the greens’ flimsier presences—for me, that’s a waste of a fig. Perhaps my love for them interferes with my objectivity?
 
-Also in that picture is the classic hummus plate topped with lamb. All of the hummus plates are garbanzo beans pureed with olive oil and pine nuts, though one choice adds in whole garbanzo beans and another does a fava bean puree. Get the extra pita bread for $2 more -- you’ll need it with that much hummus! The pita, which comes from a local baker, was partially warmed and pretty good, though I’ve had better. The hummus was high-quality, and the lamb was probably the best item we sampled; moist and rubbed with a palatable mélange of herbs. The accompanying pickles and olives were tasty, if not very memorable. Isn't most comfort food about the same, though?
+Also in that picture is the classic hummus plate topped with lamb. All of the hummus plates are garbanzo beans pureed with olive oil and pine nuts, though one choice adds in whole garbanzo beans and another does a fava bean puree. Get the extra pita bread for $2 more—you’ll need it with that much hummus! The pita, which comes from a local baker, was partially warmed and pretty good, though I’ve had better. The hummus was high-quality, and the lamb was probably the best item we sampled; moist and rubbed with a palatable mélange of herbs. The accompanying pickles and olives were tasty, if not very memorable. Isn't most comfort food about the same, though?
 
 
 

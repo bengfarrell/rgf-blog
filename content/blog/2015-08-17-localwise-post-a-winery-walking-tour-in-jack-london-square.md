@@ -2,10 +2,9 @@
 title: "Localwise Post: A Winery Walking Tour in Jack London Square"
 date: "2015-08-17"
 categories: 
-  - "bars-in-oakland"
-  - "publication-news"
-  - "tasting-rooms-in-oakland-ca"
-  - "travel-guide"
+  - "bars"
+  - "tasting-rooms"
+  - "travel-guides"
   - "wine"
 tags: 
   - "dashe"

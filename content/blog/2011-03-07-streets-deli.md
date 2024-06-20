@@ -18,7 +18,7 @@ tags:
   - "waldorf-salad"
 ---
 
-**Streets Deli** \*CLOSED\* 1118 Environ Way East 54 Urban Village, Chapel Hill [Website](http://www.streetsdeli.com/) Hours: Mon---Sat, 7:30 am---8:30 pm Sun, 9 am---3 pm Grub: $6.95---$10.95
+**Streets Deli** \*CLOSED\* 1118 Environ Way East 54 Urban Village, Chapel Hill [Website](http://www.streetsdeli.com/) Hours: Mon---Sat, 7:30 am---8:30 pm Sun, 9 am---3 pm Grub: $6.95-–$10.95
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/streets05.jpg "streets05")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/streets05.jpg)
 
@@ -46,7 +46,7 @@ My husband was not much more impressed with his specialty sandwich, the Flyboy. 
 
 Mr. Gourmez felt the same as our friend and I did---not enough flavor. Toasting the bread would be a big plus, and the rest of the ingredients except the bacon were in small enough proportions that he wasn’t sure they were there in hindsight. It was a good sandwich, just not what we’ve come to expect from sandwiches at sit-down restaurants.
 
-We were satisfied with our meals, but I don’t see myself returning to Streets Deli. Satisfying is fine, but it would be a lot more worthwhile if the sandwiches and salads weren’t in the $8--$10 range. If you’re a big city deli fan and you’ve been, I’d love to hear your opinion of Streets. I’d also love to know if anyone’s tried the fish or desserts!
+We were satisfied with our meals, but I don’t see myself returning to Streets Deli. Satisfying is fine, but it would be a lot more worthwhile if the sandwiches and salads weren’t in the $8–$10 range. If you’re a big city deli fan and you’ve been, I’d love to hear your opinion of Streets. I’d also love to know if anyone’s tried the fish or desserts!
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)
 

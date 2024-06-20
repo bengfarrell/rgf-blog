@@ -20,7 +20,7 @@ tags:
   - "waffle-cut"
 ---
 
-**Tribeca Tavern** 500 Ledgestone Way Cary [Website](http://tribecatavernnc.com/) $9--$15
+**Tribeca Tavern** 500 Ledgestone Way Cary [Website](http://tribecatavernnc.com/) $9–$15
 
 Tribeca Tavern, mainly a burger and sports venue, is an impressive view from the outside.
 

@@ -1,5 +1,5 @@
 ---
-title: "Christmas in LA 2009 -- Travelogue"
+title: "Christmas in LA 2009—Travelogue"
 date: "2010-01-03"
 categories:
   - "travel-guide"

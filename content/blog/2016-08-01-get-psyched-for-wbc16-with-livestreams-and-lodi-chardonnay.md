@@ -52,11 +52,11 @@ For citizen bloggers like myself, meaning I'm not affiliated with the wine indus
 
 This year, I'll also be on one of the panels, and I'm participating in a livestream tonight to preview it! Jenn of [Wine Antics](https://wineantics.com/) is hosting a series of livestreams about the upcoming WBC16, and tonight's topic is Saturday, 8/13's, schedule. You can join in at Huzza at 6 pm PST [by clicking right here](https://huzza.io/wineantics/live-stream/wine-antics-wbc16-livestream-3).
 
-Our panel topic at WBC16 is **Wine Samples**, and it'll be held at 9:15 am -- Bring me coffee! From the description:
+Our panel topic at WBC16 is **Wine Samples**, and it'll be held at 9:15 am—Bring me coffee! From the description:
 
 > "Learn from both wineries and bloggers the intricate (but sometimes clumsy) dance that involves wineries sending samples to wine bloggers. How to get involved and how to do it right, from both sides’ perspective."
 
-I am thrilled to be sharing the stage with Marisa Indelicato of Fox Run Vineyards, Frank Morgan of Drink What You Like, Ivy Hover of Left Coast Cellars, and Chris O’Gorman of Rodney Strong Vineyards. It's a topic with many layers to it, and I'm interested to see where the discussion leads us -- I suspect clear communication from both sides will be a strong theme.
+I am thrilled to be sharing the stage with Marisa Indelicato of Fox Run Vineyards, Frank Morgan of Drink What You Like, Ivy Hover of Left Coast Cellars, and Chris O’Gorman of Rodney Strong Vineyards. It's a topic with many layers to it, and I'm interested to see where the discussion leads us—I suspect clear communication from both sides will be a strong theme.
 
 
 
@@ -76,7 +76,7 @@ This year's WBC is in Lodi, which is an hour and a half from where I live yet a 
 ![Oak Farm Vineyard's scenic grounds.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Oak_Farms_Media_014-1024x175.jpg) Oak Farm Vineyard's scenic grounds.</div>
 
 
-To get in the mood for the WBC, my wine clique, by which I mean a group of fellow wine bloggers who check in with each other monthly and trade blogging tips, all brought different bottles of Lodi chardonnay to July's monthly call. They shouted down my zinfandel suggestion -- apparently, I'm the only one not weary of bold zinfandels at the moment. Don't worry, zins, with Rick Astley as my witness, I will never, ever give you up.
+To get in the mood for the WBC, my wine clique, by which I mean a group of fellow wine bloggers who check in with each other monthly and trade blogging tips, all brought different bottles of Lodi chardonnay to July's monthly call. They shouted down my zinfandel suggestion—apparently, I'm the only one not weary of bold zinfandels at the moment. Don't worry, zins, with Rick Astley as my witness, I will never, ever give you up.
 
 
 

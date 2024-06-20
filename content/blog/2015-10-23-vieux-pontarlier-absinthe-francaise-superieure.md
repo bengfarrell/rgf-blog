@@ -14,7 +14,8 @@ tags:
   - "wormwood-society"
 ---
 
-**Vieux Pontarlier Absinthe Française Superiéure** 65 ABV Pontarlier, France
+**Region:** Pontarlier, France\
+ABV: 65
 
 [![Vieux-Pontarlier-Absinthe-001](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Vieux-Pontarlier-Absinthe-001-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Vieux-Pontarlier-Absinthe-001.jpg)
 

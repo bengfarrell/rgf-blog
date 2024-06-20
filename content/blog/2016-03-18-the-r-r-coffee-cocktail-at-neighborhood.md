@@ -19,7 +19,7 @@ tags:
 
 [![Neighborhood R & R Coffee Cocktail San Diego](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/neighborhood-cocktail-426x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/neighborhood-cocktail.jpg)
 
-It can be difficult to create a new -- and successful -- coffee cocktail. Recently, I came across an attempt at San Diego’s [Neighborhood](http://www.neighborhoodsd.com/hood/) in the Gaslamp Quarter. Neighborhood is an appealing, hipsterish pub with dark wood tables, a well-thought-out spirits and tap list, and plenty of classed up American comfort foods. It’s casual enough that patrons felt comfortable working on laptops there into the Happiest of Hours.
+It can be difficult to create a new—and successful—coffee cocktail. Recently, I came across an attempt at San Diego’s [Neighborhood](http://www.neighborhoodsd.com/hood/) in the Gaslamp Quarter. Neighborhood is an appealing, hipsterish pub with dark wood tables, a well-thought-out spirits and tap list, and plenty of classed up American comfort foods. It’s casual enough that patrons felt comfortable working on laptops there into the Happiest of Hours.
 
 The challenge in making coffee cocktails is twofold. By far, the hardest part is balancing the acidity of the coffee against the heat of the alcohol. Secondly, attempts to move beyond dessert cocktails, by which I mean relying on sweetness and cream, are rare. Of course, I love dessert cocktails, but for coffee drinks, it’s a box they are so often pushed into even when alcohol is not involved. C’mon folks, you _know_ 90% of the drinks offered at any coffee shop are full of more sugar and fat than a morning danish.  And danishes have a LOT.
 

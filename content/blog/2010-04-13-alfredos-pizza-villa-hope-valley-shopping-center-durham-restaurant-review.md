@@ -15,7 +15,7 @@ tags:
   - "white-pizza"
 ---
 
-**Alfredo's Pizza Villa** \*CLOSED\* 1125 West NC Highway 54, Suite 301 Hope Valley Commons, Durham [Website](http://www.alfredospizzanc.com/) Pizzas: $9.95--$22.95 Pastas, Calzones, Subs: $5.50--$7.50 By the Slice: $2.25--$2.75
+**Alfredo's Pizza Villa** \*CLOSED\* 1125 West NC Highway 54, Suite 301 Hope Valley Commons, Durham [Website](http://www.alfredospizzanc.com/) Pizzas: $9.95–$22.95 Pastas, Calzones, Subs: $5.50–$7.50 By the Slice: $2.25–$2.75
 
 ![](http://www.thegourmez.com/gourmez/photos/alfredospizzavilla20.JPG)
 

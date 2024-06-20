@@ -39,9 +39,9 @@ For most people who don’t drink their coffee black at least half the time, I�
 
 > [A con panna to guide me as I dally with sprites for a fantasy flash fiction piece. #coffee #writerslife](https://www.instagram.com/p/BAQjZzGwQoD/) A photo posted by Becca Gomez Farrell (@thegourmez) on Jan 7, 2016 at 4:53pm PST
 
-The sloppiness may have increased its appeal -- all I know is I lingered happily over that espresso.
+The sloppiness may have increased its appeal—all I know is I lingered happily over that espresso.
 
-Black Spring isn’t a shop for holing up and working for the day -- there is no Wifi except Xfinity hotspots, and I have yet to see more than three pastries in the display case at a time. But it’s great for productivity if you don’t have to be online, and the vibe is usually quiet with the occasional discussion providing good background noise -- I chimed in on the last one I overhead when they started talking about the growing Hamiltunes singalongs in San Francisco. All in all, I think it’s a good coffee shop choice for whiling away an hour or two, whether with a laptop, book, or friend.
+Black Spring isn’t a shop for holing up and working for the day—there is no Wifi except Xfinity hotspots, and I have yet to see more than three pastries in the display case at a time. But it’s great for productivity if you don’t have to be online, and the vibe is usually quiet with the occasional discussion providing good background noise—I chimed in on the last one I overhead when they started talking about the growing Hamiltunes singalongs in San Francisco. All in all, I think it’s a good coffee shop choice for whiling away an hour or two, whether with a laptop, book, or friend.
 
 And maybe now that I’ve written it up, I’ll stop calling it Black Stallion instead.
 

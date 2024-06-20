@@ -1,5 +1,5 @@
 ---
-title: "Nasher Museum Cafe (Durham) -- Restaurant Review"
+title: "Nasher Museum Cafe (Durham)—Restaurant Review"
 date: "2009-11-12"
 categories:
   - "durham-restaurant-reviews"

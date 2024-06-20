@@ -19,7 +19,7 @@ tags:
   - "rockfish"
 ---
 
-**Market’s Dessert and Cocktails** 938 North Blount Street Mordecai, Raleigh [Website](http://www.eatatmarket.com/) Lunch: $6---$11 Dinner: $6---$18
+**Market’s Dessert and Cocktails** 938 North Blount Street Mordecai, Raleigh [Website](http://www.eatatmarket.com/) Lunch: $6-–$11 Dinner: $6-–$18
 
 Folks, I have been back to Market, and I can unequivocally bump up my rating for them to an
 
@@ -53,7 +53,7 @@ On this journey wherein I encountered avocado bliss, I also tried two of Market�
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/market04.jpg "market04")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/market04.jpg)
 
-That's not an attractive photo, but rest assured that light pink was much prettier in person. It was a coffee mixed drink, and I found the coffee rather understated (my friend found it overstated, for the record, but she's not much of a coffee drinker) and was impressed that the drink somehow had a light berry flavor to it. It combined all the elements of a dessert course into a cocktail -- coffee, cream, and berry all chilling together in appropriate proportions.
+That's not an attractive photo, but rest assured that light pink was much prettier in person. It was a coffee mixed drink, and I found the coffee rather understated (my friend found it overstated, for the record, but she's not much of a coffee drinker) and was impressed that the drink somehow had a light berry flavor to it. It combined all the elements of a dessert course into a cocktail—coffee, cream, and berry all chilling together in appropriate proportions.
 
 What you should take from this rating increase is really that Market’s desserts and drinks help round out an inventive menu that’s well worth giving a try. If you do, let me know — I need more of that gelato, badly.
 

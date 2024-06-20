@@ -24,7 +24,7 @@ tags:
 
 The nose of this wine needs brightening, but that may be my fault for not using my aerator for the first time in a while. The scents are bound tightly together. It wants to be smoky, but it's closer to cedar; the chips are on the grill, but they aren't lit yet. Mostly it smells of unripe berries and plum. There's mild spice.
 
-The berry is much fuller on drinking: plum and raspberry with a lollipop aftertaste. The cedar is strong and pleasant with vanilla and plenty of clove. It's a great mix of flavors that I think will improve with age. But let's be real -- I'm not letting it sit that long. Post-oxidation, the wine's edges are softened, but I'm not sure I like it better that way. Regardless, it was drunk happily without complaint.
+The berry is much fuller on drinking: plum and raspberry with a lollipop aftertaste. The cedar is strong and pleasant with vanilla and plenty of clove. It's a great mix of flavors that I think will improve with age. But let's be real—I'm not letting it sit that long. Post-oxidation, the wine's edges are softened, but I'm not sure I like it better that way. Regardless, it was drunk happily without complaint.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
@@ -36,7 +36,7 @@ A 100% Zinfandel wine at 14.9% ABV, this one isn’t shy. … This Zin is medium
 
 [The Wine Cask Blog](http://winecask.blogspot.com/2013/02/peachy-canyon-incredible-red-zinfandel.html) on the 2010
 
-Lighter wild-cherry red, which seems to be common for Paso Robles' Zins. Bouquet -- Big vibrant, wild blackberry galore with forest floor undertones. Palate -- Quite nice, brambly, big blackberry and green tree flavors that are both classic Zin but so well balanced, it is downright delicious … I tend not to be thrilled with Paso Robles Zins but this is really NICE … Worth seeking out.
+Lighter wild-cherry red, which seems to be common for Paso Robles' Zins. Bouquet—Big vibrant, wild blackberry galore with forest floor undertones. Palate—Quite nice, brambly, big blackberry and green tree flavors that are both classic Zin but so well balanced, it is downright delicious … I tend not to be thrilled with Paso Robles Zins but this is really NICE … Worth seeking out.
 
 [Ken's Wine Guide](http://kenswineguide.com/blog/?p=680) on the 2010
 

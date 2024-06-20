@@ -15,7 +15,7 @@ tags:
   - "triangle-hamburgers"
 ---
 
-**Char-Grill** 1125 West NC Highway 54 Woodcroft Durham [http://www.chargrillfranchise.com](http://www.chargrillfranchise.com/) Burgers and Sandwiches:  $2-$4.80.
+**Char-Grill** 1125 West NC Highway 54 Woodcroft Durham [http://www.chargrillfranchise.com](http://www.chargrillfranchise.com/) Burgers and Sandwiches:  $2–$4.80.
 
 ![](http://www.thegourmez.com/gourmez/photos/chargrill2.jpg)
 

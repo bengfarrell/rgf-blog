@@ -1,5 +1,5 @@
 ---
-title: "Il Valore Sangiovese 2008 -- Wine Review"
+title: "Il Valore Sangiovese 2008—Wine Review"
 date: "2009-11-16"
 categories:
   - "red-wine-review"
