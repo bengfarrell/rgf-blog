@@ -2,7 +2,6 @@
 title: "Burger Joints of Hayward #2: Best Burger"
 date: "2014-07-29"
 categories: 
-  - "hayward-restaurant-reviews"
   - "restaurants"
 tags: 
   - "best-burger"
@@ -24,7 +23,8 @@ I am conquering the burger joints of Hayward…slowly. A girl can only eat so ma
 
 [![Best_Burger_01](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/Best_Burger_01-500x392.jpg)](http://www.thegourmez.com/2014/07/burger-joints-of-hayward-2-best-burger/best_burger_01/)
 
-**Best Burger** 251 A Street
+251 A Street
+Hayward, CA
 
 An adept, multitasking staff and a nondescript exterior with plenty of seating are housed inside this restaurant about a mile from downtown Hayward. The standard greasy spoon options are available as well as teriyaki and spicy pork platters. Burger types are many, including Hawaiian burgers with grilled pineapple and the popular Best Burger itself, topped off with pastrami.
 

@@ -2,7 +2,6 @@
 title: "Asena Restaurant"
 date: "2014-07-03"
 categories: 
-  - "alameda-restaurant-reviews"
   - "restaurants"
 tags: 
   - "alameda"
@@ -30,6 +29,11 @@ tags:
 ---
 
 [![Asena_001](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/Asena_001.jpg)](http://www.thegourmez.com/2014/07/asena-restaurant/asena_001/)
+
+2508 Santa Clara Ave\
+Alameda, CA\
+[Website](http://www.asenarestaurant.com/)\
+$14–$24
 
 About a block off the central Park strip in Alameda, you’ll find this Mediterranean-focused, upscale dining spot. By Mediterranean, I mean all over the Sea with a menu featuring pasta, sour cherries, artichoke, hummus, and so on and so on. Whatever region you want of the Mediterranean, you’ll probably find something that qualifies. And if you’re sitting out on the flower-covered patio, you won’t mind if it takes a little while for your dining companions to arrive.
 
@@ -92,9 +96,5 @@ That’s a great combination for dessert, folks. I appreciated the sprinkle of c
 I want to give Asena a truffle because we were all so happy to be fed at last, but I do think it has room for improvement. It just doesn’t need much of it.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
-
-**Asena Restaurant** 2508 Santa Clara Ave Alameda [Website](http://www.asenarestaurant.com/) $14–$24
-
-[![Asena on Urbanspoon](http://www.urbanspoon.com/b/link/80509/minilink.gif)](http://www.urbanspoon.com/r/6/80509/restaurant/Asena-Alameda)
 
 _Reviewed 31 May 14._

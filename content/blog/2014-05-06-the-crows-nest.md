@@ -2,7 +2,6 @@
 title: "The Crow's Nest"
 date: "2014-05-06"
 categories: 
-  - "santa-cruz-restaurant-reviews"
   - "restaurants"
 tags: 
   - "college-dreams"
@@ -27,6 +26,11 @@ tags:
 ---
 
 [![Crows_Nest_02](http://s3.amazonaws.com/thegourmez-wpmedia/2014/04/Crows_Nest_02-500x319.jpg)](http://www.thegourmez.com/2014/05/the-crows-nest/crows_nest_02/)
+
+2218 East Cliff Drive\
+Santa Cruz,CA\
+[Website](http://www.crowsnest-santacruz.com/)\
+$18–$30
 
 So I have a problem. And that problem is my high expectations for the finer dining in my beloved college town of Santa Cruz. As mentioned in my review of [Star Bene,](http://www.thegourmez.com/2014/03/star-bene/) there are places in Santa Cruz that I only dreamt of on my student budget back at the turn of the millennium. Places reserved for dates or people who actually lived in the city during the summer. Places I sure never went.
 
@@ -75,9 +79,5 @@ The Crow’s Nest isn’t innovative enough to draw my interest again on its own
 My visions of amazing food in Santa Cruz’s upscale restaurants have yet to materialize, though it’s worth noting that the taquerias, sandwich shops, pizza joints, and ice creameries are just as good as ever. Maybe I need to do things the Santa Cruz way when I’m visiting and mellow out about the food, sticking to whatever spot is most convenient when hunger strikes. But I haven’t made my way through all those restaurants I dreamed about in my hammock, taking a quick nap between classes and shifts at the Westside Safeway. Maybe Shadowbrook won’t let me down?
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
-
-**The Crow’s Nest** 2218 East Cliff Drive Santa Cruz [Website](http://www.crowsnest-santacruz.com/) $18–$30
-
-[![Crow's Nest Restaurant on Urbanspoon](http://www.urbanspoon.com/b/link/765127/minilink.gif)](http://www.urbanspoon.com/r/277/765127/restaurant/Monterey-Bay/Crows-Nest-Restaurant-Santa-Cruz) [![The Crow's Nest Restaurant on Foodio54](http://foodio54.com/images/badge-2-f21d3.jpg)](http://foodio54.com/restaurant/Santa-Cruz-CA/f21d3/The-Crows-Nest-Restaurant)
 
 _Reviewed 20 April 14._

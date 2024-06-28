@@ -2,7 +2,6 @@
 title: "Mirchi"
 date: "2014-08-21"
 categories: 
-  - "fremont-restaurant-reviews"
   - "restaurants"
 tags: 
   - "dinner"
@@ -23,6 +22,10 @@ tags:
   - "strip-mall"
   - "waffle"
 ---
+
+40900 Fremont Blvd.\
+Fremont, CA\
+[Website](http://www.mirchicafe.com/)
 
 One of my friends is a police officer in Fremont, and thus he knows all the awesome hole-in-the-wall spots to grab a bite in his precinct. Mirchi is one of those, and I’ve joined him twice for lunch there now. It’s located at the end of a small strip of shops, so you may pass it by without knowing it’s the treasure you seek.
 
@@ -52,10 +55,4 @@ Mirchi also offers their own twists on chicken sandwiches, pizzas, and more stan
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-**Mirchi** 40900 Fremont Blvd. Fremont [Website](http://www.mirchicafe.com/)
-
 _Reviewed 17 July 14_
-
-[![Mirchi Cafe & Masala Pizza on Urbanspoon](http://www.urbanspoon.com/b/link/87737/minilink.gif)](http://www.urbanspoon.com/r/6/87737/restaurant/Mirchi-Cafe-Masala-Pizza-Fremont)
-
-[![Mirchi Cafe on Foodio54](http://foodio54.com/images/badge-2-f7bd.jpg)](http://foodio54.com/restaurant/Fremont-CA/f7bd/Mirchi-Cafe)

@@ -2,7 +2,6 @@
 title: "Sapporo"
 date: "2014-10-16"
 categories:
-  - "hayward-restaurant-reviews"
   - "restaurants"
 tags:
   - "avocado"
@@ -21,6 +20,11 @@ tags:
 ---
 
 [![Sapporo_006](http://s3.amazonaws.com/thegourmez-wpmedia/2014/10/Sapporo_006-500x306.jpg)](http://www.thegourmez.com/2014/10/sapporo-hayward/sapporo_006/)
+
+22507 Main St.\
+Downtown Hayward\
+[Website](http://sapporohayward.com/)\
+$11–30
 
 Sapporo is the sushi restaurant’s answer to the overly familiar neighborhood pub. If you need to be greeted warmly by a hostess and have your every need catered to in a reasonable time frame, I’m not sure it’s the place for you. There’s nothing wrong with those expectations, but Sapporo won’t meet them. Instead, the tiny staff—consisting of one waitress and the sushi chef Sam—will get to you in due time, and your drink order will likely be yelled across the restaurant.
 
@@ -58,10 +62,4 @@ If you’re game for good value, messy aesthetics, and customer service that lea
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
 
-**Sapporo** 22507 Main St. Downtown Hayward [Website](http://sapporohayward.com/) $11-30
-
-[![Sapporo Japanese Restaurant on Urbanspoon](http://www.urbanspoon.com/b/link/766592/minilink.gif)](http://www.urbanspoon.com/r/6/766592/restaurant/Sapporo-Japanese-Restaurant-Santa-Rosa)
-
-[![Sapporo Restaurant on Foodio54](http://foodio54.com/images/badge-2-f864.jpg)](http://foodio54.com/restaurant/Hayward-CA/f864/Sapporo-Restaurant)
-
-Reviewed 18 September 2014.
+_Reviewed 18 September 2014._

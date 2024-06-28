@@ -2,7 +2,6 @@
 title: "Ribs 'N Things"
 date: "2014-02-20"
 categories: 
-  - "hayward-restaurant-reviews"
   - "restaurants"
 tags: 
   - "barbecue"
@@ -23,6 +22,11 @@ tags:
 ---
 
 [![Ribs_N_Things_02](http://s3.amazonaws.com/thegourmez-wpmedia/2014/02/Ribs_N_Things_02-500x365.jpg)](http://www.thegourmez.com/2014/02/abancay-mascara-del-sol-2010-crianza/ribs_n_things_02/)
+
+22616 Vermont St.\
+Hayward, CA\
+[Website](http://www.ribsandthingsbbq.com/)\
+$12–24
 
 This was my second visit to Ribs ‘N Things, and I was as impressed by this soul food and barbecue joint as I was the first time.  That first time, we were waited on for dinner in their modest dining room decorated with jazz paintings.
 
@@ -55,11 +59,5 @@ Pecan pie was my choice. I tasted (or imagined) some rum or bourbon in it, which
 Look, Ribs ‘N Things isn’t faultless. The corn bread was a miss, and pies shouldn’t be burnt. But those flaws are just part of what makes this place perfect.
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.thegourmez.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
-
-**Ribs ‘N Things** 22616 Vermont St. Hayward [Website](http://www.ribsandthingsbbq.com/) $12--24
-
-[![Ribs 'N Things on Urbanspoon](http://www.urbanspoon.com/b/link/1810623/minilink.gif)](http://www.urbanspoon.com/r/6/1810623/restaurant/Ribs-N-Things-Hayward)
-
-[![Ribs N Things on Foodio54](http://foodio54.com/images/badge-1-d593c.jpg)](http://foodio54.com/restaurant/Hayward-CA/d593c/Ribs-N-Things)
 
 _Reviewed Sept 2013 and 29 Jan 14._

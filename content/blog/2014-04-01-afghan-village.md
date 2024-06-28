@@ -2,7 +2,6 @@
 title: "Afghan Village"
 date: "2014-04-01"
 categories: 
-  - "fremont-restaurant-reviews"
   - "restaurants"
 tags: 
   - "afghan"
@@ -22,6 +21,10 @@ tags:
 ---
 
 [![Afghan_Village_06](http://s3.amazonaws.com/thegourmez-wpmedia/2014/03/Afghan_Village_06-500x296.jpg)](http://www.thegourmez.com/2014/04/afghan-village/afghan_village_06/)
+
+5698 Thornton Avenue\
+Newark, CA\
+$9–$14
 
 The husband and I ended up at Afghan Village after a quick Yelp search from the freeway when our hunger post-wine-tasting had reached critical levels. So that hunger may have influenced my opinion of the establishment, but honestly, I think Afghan Village just plain has amazing food despite mixed Yelp reviews.
 
@@ -52,11 +55,5 @@ I only took a bite of his lamb, but it was quite tender and mild in flavor, avoi
 Liked I said, my stomach was primed to enjoy Afghan Village, and it did. Boy, did it. I am no expert in Afghan cuisine, have only had it maybe twice before, but I will remember how satisfied this meal made me for good long time. Next time, I’ll get dessert.
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.thegourmez.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
-
-**Afghan Village** 5698 Thornton Avenue Newark $9–$14
-
-[![Afghan Village on Urbanspoon](http://www.urbanspoon.com/b/link/80150/minilink.gif)](http://www.urbanspoon.com/r/6/80150/restaurant/Afghan-Village-Newark)
-
-[![Afghan Village on Foodio54](http://foodio54.com/images/badge-2-fb6e.jpg)](http://foodio54.com/restaurant/Newark-CA/fb6e/Afghan-Village)
 
 _Reviewed 22 Feb 14._

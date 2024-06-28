@@ -2,10 +2,8 @@
 title: "Maryhill Proprietor’s Reserve 2011 Tavola Rosso and Maryhill Day Trip"
 date: "2014-10-28"
 categories:
-  - "red-wine-review"
-  - "super-tuscan"
-  - "tasting-rooms-in-maryhill-wa"
-  - "travel-guide"
+  - "wine"
+  - "travel-guides"
 tags:
   - "2011"
   - "cassie-courtney"
@@ -29,7 +27,7 @@ tags:
   - "woody"
 ---
 
-**Maryhill Proprietor’s Reserve 2011 Tavola Rosso** Columbia Valley, WA
+**REGION:** Columbia Valley, WA
 
 [![Maryhill_Tavola_Rosso](http://s3.amazonaws.com/thegourmez-wpmedia/2014/10/Maryhill_Tavola_Rosso-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/10/maryhill-proprietors-reserve-2011-tavola-rosso/maryhill_tavola_rosso/)
 

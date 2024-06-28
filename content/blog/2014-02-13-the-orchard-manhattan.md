@@ -1,9 +1,9 @@
 ---
-title: "The Orchard Manhattan at Bijou"
+title: "The Orchard Manhattan at Bijou *CLOSED*"
 date: "2014-02-13"
 categories: 
   - "bars"
-  - "bars-in-hayward-ca"
+  - "cocktails"
 tags: 
   - "bars"
   - "bay-area"
@@ -16,7 +16,9 @@ tags:
   - "the-orchard-manhattan"
 ---
 
-**The Orchard Manhattan** [Bijou](http://www.thegourmez.com/2013/11/bijou/), Hayward $11
+**[Bijou](http://www.thegourmez.com/2013/11/bijou/)**\
+Hayward, CA\
+$11
 
 The Orchard Manhattan is an original twist on the classic manhattan cocktail, though I’d say it’s closer to an old-fashioned, actually. It’s made with bourbon, apricot and walnut liqueurs, and black walnut and autumn-spiced bitters. I can’t tell you what the autumn spices are, but I can tell you that I like this drink right from the presentation.
 

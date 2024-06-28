@@ -3,10 +3,10 @@ title: "A Foodie Day Trip to Sonoma"
 date: "2014-01-23"
 categories:
   - "tasting-rooms"
-  - "dining-in-sonoma"
   - "restaurants"
-  - "tasting-rooms-in-sonoma-ca"
-  - "travel-guide"
+  - "other-businesses"
+  - "ice-cream-parlors"
+  - "travel-guides"
   - "wine"
 tags:
   - "affogato"

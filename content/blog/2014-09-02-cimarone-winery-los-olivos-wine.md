@@ -2,9 +2,8 @@
 title: "Cimarone Winery"
 date: "2014-09-02"
 categories:
-  - "other-red-blends"
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
+  - "tasting-rooms"
   - "tasting-rooms-in-los-olivos-ca"
   - "travel-guide"
   - "wine-bloggers-conference-2014-buellton"

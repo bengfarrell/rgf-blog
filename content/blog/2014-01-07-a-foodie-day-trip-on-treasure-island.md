@@ -3,8 +3,7 @@ title: "A Foodie Day Trip on Treasure Island"
 date: "2014-01-07"
 categories:
   - "tasting-rooms"
-  - "tasting-rooms-in-san-francisco-ca"
-  - "travel-guide"
+  - "travel-guides"
   - "wine"
 tags:
   - "bodega-wine-estates"

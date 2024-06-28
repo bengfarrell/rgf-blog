@@ -2,7 +2,6 @@
 title: "The Cheese Steak Shop"
 date: "2014-03-11"
 categories: 
-  - "castro-valley-restaurant-reviews"
   - "restaurants"
 tags: 
   - "american-cheese"
@@ -23,6 +22,11 @@ tags:
 ---
 
 [![cheese_steak_shop_01](http://s3.amazonaws.com/thegourmez-wpmedia/2014/02/cheese_steak_shop_01-431x500.jpg)](http://www.thegourmez.com/2014/03/the-cheese-steak-shop/cheese_steak_shop_01/)
+
+3422 Village Drive\
+Castro Valley, CA\
+[Website](http://www.cheesesteakshop.com/index.htm)\
+$4.20–$11.00
 
 The Cheese Steak Shop is a Bay Area chain that’s been in operation since the early 1980s. They’ve done so well, they even have a couple franchises in the Philippines! I love a good Philly cheese steak, to the point that it was probably more than half the reason [I visited Philly](http://www.thegourmez.com/2012/01/philadelphia-food-and-drink-day-2-cheesesteaks-indian-and-pretzels/) a few years back. The Cheese Steak Shop makes their sandwiches in that classic style, going so far as to ship in their ingredients from Philly-based vendors. I think that commitment has paid off.
 
@@ -49,11 +53,5 @@ The store’s atmosphere is typical fast food joint with pleasant customer servi
 They do have a loyalty card giving a free sandwich for every ten purchased, which is presently residing in my wallet because I will be back. Hoagies, fish and chips, and salads are also offered. The cheese steaks aren’t perfect—fresher peppers or offering bells in addition to the cherry ones, having sliced rather than diced onions, and giving a scoop more meat and cheese would make me happier—but they are satisfying regardless. And those chips, those chips!
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
-
-**The Cheese Steak Shop** 3422 Village Drive Castro Valley [Website](http://www.cheesesteakshop.com/index.htm) $4.20 -–$11.00
-
-[![Cheese Steak Shop on Urbanspoon](http://www.urbanspoon.com/b/link/1212141/minilink.gif)](http://www.urbanspoon.com/r/6/1212141/restaurant/Cheese-Steak-Shop-Castro-Valley)
-
-[![The Cheese Steak Shop on Foodio54](http://foodio54.com/images/badge-1-f954.jpg)](http://foodio54.com/restaurant/Castro-Valley-CA/f954/The-Cheese-Steak-Shop)
 
 _Reviewed 10 February 14._

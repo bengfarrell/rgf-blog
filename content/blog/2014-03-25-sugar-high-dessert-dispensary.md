@@ -3,7 +3,6 @@ title: "Sugar High Dessert Dispensary"
 date: "2014-03-25"
 categories: 
   - "bakeries"
-  - "ice-cream-bakery-food-truck"
 tags: 
   - "bakery"
   - "banana"
@@ -23,6 +22,10 @@ tags:
 
 [![Sugar_High_03](http://s3.amazonaws.com/thegourmez-wpmedia/2014/03/Sugar_High_03-500x333.jpg)](http://www.thegourmez.com/2014/03/sugar-high-dessert-dispensary/sugar_high_03/)
 
+NewPark Mall\
+Newark, CA\
+[Website](https://www.facebook.com/SugarHighDessertDispensary)
+
 I tried out the cupcakes at this local bakery stand inside the NewPark Mall (directly under the food court) after an open mic night with [the Fremont Writers’ Club](http://www.cwc-fremontareawriters.org/). The pretty, pretty cupcakes on display drew me in; I’m a sucker for a gorgeous cupcake, although the wares often don’t deliver on the visual appeal. It was nearing closing, so the owner saw me looking and enticed me over by offering a deal for the gigantic cinnamon rolls. I’m not a big cinnamon roll fan, so I countered with a two-for-one cupcake offer, which she happily accepted. Normally, the cupcakes are $3.50 each, so taking home an extra one for the husband at that price was great! The owner scurried back to their kitchen to frost them freshly, which she loves doing whenever the stand isn’t too busy. Meanwhile, I noticed they sell Marianne’s ice cream, and because I’m an UCSC alum, that earned Sugar High Dessert Dispensary another star in my book. So did the store’s whimsical name.
 
 Cupcakes secured nicely in a bakery tin, and I was on my way. Back home, the husband and I split the cupcakes in half. The owner had mentioned she uses fresh strawberries in the batter, syrup, and frosting for the strawberry cream cake, so that’s why I chose it.
@@ -40,7 +43,5 @@ The cake was moist again but not quite as notable in flavor as the strawberry on
 Let’s just say I am not at all unhappy to pass Sugar High on my way out of the mall once a month.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
-
-**Sugar High Dessert Dispensary** NewPark Mall Newark [Website](https://www.facebook.com/SugarHighDessertDispensary)
 
 _Reviewed 27 February 14._

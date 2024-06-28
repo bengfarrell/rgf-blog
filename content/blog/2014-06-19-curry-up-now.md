@@ -2,7 +2,6 @@
 title: "Curry Up Now!"
 date: "2014-06-19"
 categories: 
-  - "san-francisco-restaurant-review"
   - "restaurants"
 tags: 
   - "cheap-eats"
@@ -27,6 +26,11 @@ tags:
 ---
 
 [![Curry_Up_Now_05](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/Curry_Up_Now_05-500x332.jpg)](http://www.thegourmez.com/2014/06/curry-up-now/curry_up_now_05/)
+
+694 Valencia Street\
+The Mission, San Francisco\
+[Website](http://curryupnow.com/menu)\
+$6.50–$11
 
 Curry Up Now! pulled us in for dinner with their lively logo, colorful chalkboard menu, and energetic vibe coming from their patrons.
 
@@ -56,8 +60,5 @@ Do I think either of our choices were perfect fusions of cuisine? Nah. But they 
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-**Curry Up Now!** 694 Valencia Street The Mission, San Francisco [Website](http://curryupnow.com/menu) $6.50 –$11
-
-[![Curry Up Now on Urbanspoon](http://www.urbanspoon.com/b/link/1740810/minilink.gif)](http://www.urbanspoon.com/r/6/1740810/restaurant/Mission/Curry-Up-Now-San-Francisco)
 
 _Reviewed 10 May 14._

@@ -3,7 +3,7 @@ title: "The Wildfire at Firehouse 37"
 date: "2014-02-06"
 categories: 
   - "bars"
-  - "bars-in-san-ramon-ca"
+  - "cocktails"
 tags: 
   - "bay-area"
   - "cocktail"
@@ -15,7 +15,9 @@ tags:
   - "templeton-rye"
 ---
 
-**The Wildfire** [Firehouse 37,](http://www.firehouse37.com/) San Ramon $10
+**[Firehouse 37,](http://www.firehouse37.com/)**\
+San Ramon, CA\
+$10
 
 [![the_wildfire](http://s3.amazonaws.com/thegourmez-wpmedia/2014/01/the_wildfire-385x500.jpg)](http://www.thegourmez.com/2014/02/the-wildfire/the_wildfire/)
 

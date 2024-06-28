@@ -2,8 +2,6 @@
 title: "Fat Grape Winery 2010 Merlot"
 date: "2014-01-21"
 categories: 
-  - "merlot"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "2010"
@@ -20,7 +18,7 @@ tags:
   - "unfiltrated"
 ---
 
-**Fat Grape Winery 2010 Merlot** Northern California
+**Region:** Northern California
 
 [![Fat_Grape_01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/Fat_Grape_01-500x332.jpg)](http://www.thegourmez.com/2014/01/fat-grape-winery-2010-merlot/fat_grape_01/)
 

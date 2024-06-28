@@ -2,7 +2,6 @@
 title: "Mac & Cheese Night #3: The Tipsy Pig"
 date: "2014-08-26"
 categories:
-  - "san-francisco-restaurant-review"
   - "restaurants"
 tags:
   - "spirit-reviews"
@@ -40,6 +39,11 @@ It’s only a few days until Mac & Cheese Night #4, and I’m just now getting t
 Night #3 was our biggest group yet, and it took place at the Inner Marina’s local gastropub, the Tipsy Pig.
 
 [![Tipsy_pig_01](http://s3.amazonaws.com/thegourmez-wpmedia/2014/08/Tipsy_pig_01-500x332.jpg)](http://www.thegourmez.com/2014/08/mac-cheese-night-3-the-tipsy-pig/tipsy_pig_01/)
+
+2231 Chestnut Street\
+Cow Hollow, San Francisco\
+[Website](http://www.thetipsypigsf.com/)\
+$12–$24
 
 This is definitely an in-demand spot, but unlike so many others of its ilk, the Tipsy Pig actually takes reservations and has thus earned my gratitude. I’m so much happier when I can be assured I’ll get a table before I go to a restaurant, especially when that involves trekking across the Bay, as it often does.
 
@@ -132,11 +136,5 @@ I cannot say the same of the mac & cheese. I’d pay $12 for it again in a heart
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
 Next week? Homeroom in Oakland!
-
-**The Tipsy Pig** 2231 Chestnut Street Cow Hollow, San Francisco [Website](http://www.thetipsypigsf.com/) $12–$24
-
-[![Tipsy Pig on Urbanspoon](http://www.urbanspoon.com/b/link/1432865/minilink.gif)](http://www.urbanspoon.com/r/6/1432865/restaurant/Marina/Tipsy-Pig-San-Francisco)
-
-[![The Tipsy Pig on Foodio54](http://foodio54.com/images/badge-2-c7d1e.jpg)](http://foodio54.com/restaurant/San-Francisco-CA/c7d1e/The-Tipsy-Pig)
 
 _Reviewed 26 July 14._

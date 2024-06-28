@@ -3,7 +3,7 @@ title: "The Cantina"
 date: "2014-01-14"
 categories: 
   - "bars"
-  - "bars-in-san-francisco"
+  - "cocktails"
   - "spirits"
 tags: 
   - "bar"
@@ -23,6 +23,11 @@ tags:
 ---
 
 **[![Cantina_05](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/Cantina_05-332x500.jpg)](http://www.thegourmez.com/2014/01/the-cantina/cantina_05/)**
+
+580 Sutter Street\
+Union Square, San Francisco\
+[http://www.cantinasf.com/](http://www.cantinasf.com/)
+
 
 After a fun night out at [Kuleto's](http://www.thegourmez.com/2013/12/kuletos/) last November, our friends introduced us to one of their favorite drink spots, just a few blocks away.
 
@@ -47,9 +52,5 @@ It is an elegant drink I can definitely recommend, though the pisco's presence m
 The Cantina is worth going to just to revel in its divine citrus scent. With drinks that deliver on that promise, it's bound to become one of my favorites.
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.thegourmez.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
-
-**The Cantina** 580 Sutter Street Union Square, San Francisco [http://www.cantinasf.com/](http://www.cantinasf.com/)
-
-[![Cantina on Urbanspoon](http://www.urbanspoon.com/b/link/352961/minilink.gif)](http://www.urbanspoon.com/r/6/352961/restaurant/Nob-Hill/Cantina-San-Francisco)
 
 _Reviewed 1 December 2013._

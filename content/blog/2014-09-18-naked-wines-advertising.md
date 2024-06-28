@@ -3,6 +3,7 @@ title: "NakedWines.com Advertising"
 date: "2014-09-18"
 categories:
   - "announcements"
+  - "wine"
 tags:
   - "advertising"
   - "angels"

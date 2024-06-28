@@ -2,9 +2,7 @@
 title: "Cozymeal’s German Currywurst Dinner"
 date: "2014-06-12"
 categories:
-  - "san-francisco-restaurant-review"
-  - "events"
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
   - "restaurants"
 tags:

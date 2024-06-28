@@ -2,7 +2,6 @@
 title: "Michael's Sourdough"
 date: "2014-08-12"
 categories: 
-  - "san-rafael-restaurant-reviews"
   - "restaurants"
 tags: 
   - "bay-area"
@@ -18,6 +17,11 @@ tags:
 ---
 
 [![Michaels_Sourdough_003](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/Michaels_Sourdough_003.jpg)](http://www.thegourmez.com/2014/08/michaels-sourdough/michaels_sourdough_003/)
+
+3095 Kerner Blvd #L\
+San Rafael, CA\
+[Website](http://www.michaelssourdough.com/)\
+$7–$8
 
 Michael’s Sourdough is a small chain in Marin and Sonoma counties that specializes in giant sandwiches featuring their signature, fresh-baked sourdough rolls. Most of their meats are also hand-roasted, which is a huge undertaking for a sandwich shop in a small space, so applause! I’m guessing they have a central kitchen somewhere to pull that off.
 
@@ -36,9 +40,5 @@ But the sourdough was not as memorable. Maybe my expectations were too high? I t
 All toppings were thinly sliced except the shredded iceberg lettuce, which is always fun for a change. The rest was swiss cheese, mustard (which I refused), lettuce, tomato, and red onion. A satisfying sandwich with a unique chicken salad filling, but I wanted more thrill from the hyped-up bread.
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
-
-**Mike’s Sourdough** 3095 Kerner Blvd #L San Rafael [Website](http://www.michaelssourdough.com/) $7–$8
-
-[![Michael's Sourdough Sandwiches on Foodio54](http://foodio54.com/images/badge-2-d5cb5.jpg)](http://foodio54.com/restaurant/San-Rafael-CA/d5cb5/Michaels-Sourdough-Sandwiches)
 
 _Reviewed 28 May 14._

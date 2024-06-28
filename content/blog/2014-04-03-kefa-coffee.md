@@ -2,9 +2,7 @@
 title: "Kefa Coffee"
 date: "2014-04-03"
 categories: 
-  - "coffee-shop"
-  - "oakland-coffee-shop-reviews"
-  - "oakland-restaurant-reviews"
+  - "coffee-shops"
   - "restaurants"
 tags: 
   - "alameda"
@@ -24,6 +22,10 @@ tags:
 ---
 
 [![Kefa_Coffee_05](http://s3.amazonaws.com/thegourmez-wpmedia/2014/03/Kefa_Coffee_05-500x386.jpg)](http://www.thegourmez.com/2014/04/kefa-coffee/kefa_coffee_05/)
+
+422 29th Avenue\
+East Oakland, CA\
+$4–$7
 
 This place has a cult of appreciators for their breakfast sandwiches, which is why my [visiting NC foodie](http://www.ericandleandra.com/wp/category/travel/) friends insisted we check it out. It’s open only for breakfast and lunch and is located right off the fork between 29th and 23rd leading into Alameda.
 
@@ -52,11 +54,5 @@ I tried a chocolate one with vanilla filling. Curiously, it reminded me of the s
 To sum up, I appreciate Kefa’s devotion to the art of the egg-and-cheese, but I think their masterpieces are a bit too salty to be my masterpieces. However, I still gobbled mine all the way up, and you can bet I’ll remember Kefa’s next time I have a craving. I think the spinach version will be next.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
-
-**Kefa Coffee** 422 29th Avenue East Oakland $4–$7
-
-[![Kefa Coffee on Urbanspoon](http://www.urbanspoon.com/b/link/1413807/minilink.gif)](http://www.urbanspoon.com/r/6/1413807/restaurant/Kefa-Coffee-Oakland)
-
-[![Cafe Kefa on Foodio54](http://foodio54.com/images/badge-1-9ddc4.jpg)](http://foodio54.com/restaurant/Oakland-CA/9ddc4/Cafe-Kefa)
 
 _Reviewed 24 Feb 14._

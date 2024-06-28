@@ -3,8 +3,7 @@ title: "Wine Tasting in the Santa Cruz Mountains"
 date: "2014-03-27"
 categories:
   - "tasting-rooms"
-  - "tasting-rooms-in-the-santa-cruz-mountains"
-  - "travel-guide"
+  - "travel-guides"
   - "wine"
 tags:
   - "bargetto"

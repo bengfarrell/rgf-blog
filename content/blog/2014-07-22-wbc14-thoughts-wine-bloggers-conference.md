@@ -4,8 +4,6 @@ date: "2014-07-22"
 categories:
   - "events"
   - "wine"
-  - "wine-bloggers-conference-2014-buellton"
-  - "writing"
 tags:
   - "buellton"
   - "casual-writer"
@@ -56,9 +54,9 @@ It’s been a little over a week since I returned home from the Wine Bloggers Co
 
 I wouldn’t qualify my experience as negative in any way. My thinky thoughts are more about defining what sort of wine writer I am and considering whether that fits into the WBC’s intended audience or not.
 
-**1\. Value**
+## 1\. Value
 
-The conference was run by [Zephyr Adventures](http://www.zephyradventures.com/), which as their website rightfully claims, “specialize\[s\] in providing our travelers with big experiences from a small company at a fair price.” That company description exactly sums up my overall opinion of the conference. If nothing else, WBC14 offered two and a half days’ worth of unending wine tastings, two meals a day--
+The conference was run by [Zephyr Adventures](http://www.zephyradventures.com/), which as their website rightfully claims, “specialize\[s\] in providing our travelers with big experiences from a small company at a fair price.” That company description exactly sums up my overall opinion of the conference. If nothing else, WBC14 offered two and a half days’ worth of unending wine tastings, two meals a day—
 
 
 
@@ -68,13 +66,13 @@ The conference was run by [Zephyr Adventures](http://www.zephyradventures.com/),
 [![Fare at the Wine Blogger Awards dinner.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_143-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc14-thoughts-wine-bloggers-conference/wbc_14_143/) Fare at the Wine Blogger Awards dinner.</div>
 
 
-\--the chance to get to know other wine writers and a bevy of industry professionals, and an afternoon spent at the Sanford Winery nestled in the Sta. Rita Hills AVA all for $100 for citizen bloggers like myself.
+\—the chance to get to know other wine writers and a bevy of industry professionals, and an afternoon spent at the Sanford Winery nestled in the Sta. Rita Hills AVA all for $100 for citizen bloggers like myself.
 
 Next, add in the amazing value of the multiple excursions the conference put together. I attended the Bridlewood excursion for only $15, and we enjoyed a large picnic lunch at the winery’s immensely scenic grounds—
 
 [![WBC_14_160](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_160-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc14-thoughts-wine-bloggers-conference/wbc_14_160/)
 
-\--tastings of their wines with the meal, and a panel of local food producers that resulted in yes, more food and wine.
+\—tastings of their wines with the meal, and a panel of local food producers that resulted in yes, more food and wine.
 
 
 
@@ -94,7 +92,7 @@ But that doesn’t mean it wasn’t lacking. Mainly in COFFEE.
 
 I’m helpless without the stuff. How can I adequately taste wine when my brain cells haven’t awakened? It’s asking too much of me, folks. Too much of poor, uncaffeinated me.
 
-**2\. People**
+## 2\. People
 
 I’ve yet to attend a conference where the most beneficial part isn’t the networking that takes place between sessions, at meals, and at after parties. WBC14 was no exception to that rule. Both long-timers and my fellow first-timers welcomed me with opened arms.
 
@@ -116,7 +114,7 @@ No worries; we didn’t let the students get their hands on our wine. ;)
 
 I haven’t made it through my mighty stack of business cards yet, but I look forward to familiarizing myself with everyone’s blogs. I’ll post on my favorites of those soon, too.
 
-**3\. The Intended Audience**
+## 3\. The Intended Audience
 
 I shouldn’t have been surprised there were as many attendees from the wine industry at the conference as there were. The WBC site description reads, “Up to 400 citizen wine bloggers, industry bloggers, and other wine and social media professionals will gather from throughout the world to meet, learn, and share at this, the seventh annual conference.”
 
@@ -142,7 +140,7 @@ Perhaps it’s naïve of me to think I provide value to readers of wine blogs wi
 
 Which brings me to my next point.
 
-**4\. The Content**
+## 4\. The Content
 
 The general expectation that I would want to become a member of the industry if I weren’t one already extended to a general expectation communicated from those at the podium that I should want to tell the story of the people who make wine and that my readers are most interested in such stories. From the keynote to the print wine writers panel to the photography and videography panel, I got the sense that the accepted definition of a wine blogger in this community is either someone who works within the industry and provides behind-the-scenes descriptions of what making wine entails or someone who’s a journalist and wants to tell the story of those people who make the wine.
 

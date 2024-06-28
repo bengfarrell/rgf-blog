@@ -18,7 +18,8 @@ tags:
   - "usa"
 ---
 
-**Ridge Distillery Absinthe Blanche** Kalispell, MT 116 proof
+**Region:** Kalispell, MT\
+116 proof
 
 [![Ridge_Distillery_Blanche_03](http://s3.amazonaws.com/thegourmez-wpmedia/2014/01/Ridge_Distillery_Blanche_03-302x500.jpg)](http://www.thegourmez.com/2014/02/the-wildfire/ridge_distillery_blanche_03/)
 

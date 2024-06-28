@@ -2,7 +2,6 @@
 title: "Burger Joints of Hayward #3: Red Rocket Char Grill"
 date: "2014-10-09"
 categories: 
-  - "hayward-restaurant-reviews"
   - "restaurants"
 tags: 
   - "american-cheese"
@@ -64,7 +63,5 @@ But they were fried to a great crunch, making me very forgiving. Salt was used w
 They definitely kick the shake into full-on dessert mode. A yummy, super-thick dessert that would benefit from having spoons available to help eat it. But I managed to suck up nearly every drop by the end of the meal.
 
 **The Value:** $15.72 for everything. That’s a good $3–$5 more expensive than the first round of joints I visited. Is it worth it for the atmosphere upgrade? The shake does earn Red Rocket extra consideration, though I wonder if the chocolate and vanilla would impress as much without the preserves. The fries, though not a cut I enjoy, were uniformly crisp, and I haven’t found great fries yet on this quest. So…maybe? I’ll eat there again, but I will resent the price point a little. If they offered smaller sizes and corresponding prices, I’d be more generous in my review.
-
-Chicken
 
 _Reviewed 17 September 14._

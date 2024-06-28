@@ -1,9 +1,7 @@
 ---
-title: "Mac & Cheese Night #2: Q Restaurant"
+title: "Mac & Cheese Night #2: Q Restaurant *CLOSED*"
 date: "2014-06-24"
 categories: 
-  - "san-francisco-restaurant-review"
-  - "events"
   - "restaurants"
 tags: 
   - "asiago"
@@ -26,6 +24,10 @@ tags:
 ---
 
 [![q_mac_n_cheese_001](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/q_mac_n_cheese_001-298x500.jpg)](http://www.thegourmez.com/2014/06/mac-cheese-night-2-q-restaurant/q_mac_n_cheese_001/)
+
+225 Clement St.\
+Inner Richmond, San Francisco\
+[Website](http://www.qrestaurant.com/)
 
 I didn’t know that Q Restaurant would be closing when I planned Mac & Cheese Night #2. It proved fortuitous that I chose it as my next stop [on the list](http://www.7x7.com/eat-drink/10-best-mac-n-cheeses-bay-area) as their macaroni and cheese will soon be no more, along with the rest of their jazzed-up comfort food menu. If you want to try the cheesy goodness for yourself, you’ve only got until this Sunday to do it!
 
@@ -70,11 +72,6 @@ I should also mention the delightful, if misleading, cornbread appetizer with ja
 We expected multiple squares of cornbread with jelly on the side, as you might imagine. But instead, Q fries one cornbread square and drenches it with the tasty, sweet jelly. It was delicious and inventive and I highly recommend it. Just don’t expect it to feed the table!
 
 See you in July for Mac & Cheese Night #3. Right now, I’m thinking the Tipsy Pig.
-
-**Q Restaurant and Wine Bar** 225 Clement St. Inner Richmond, San Francisco [Website](http://www.qrestaurant.com/)
-
-[![Q Restaurant on Urbanspoon](http://www.urbanspoon.com/b/link/182272/minilink.gif)](http://www.urbanspoon.com/r/6/182272/restaurant/Richmond/Q-Restaurant-San-Francisco)
-
  
 
 _Reviewed 14 June 14._

@@ -2,7 +2,6 @@
 title: "Ike's Place"
 date: "2014-05-20"
 categories:
-  - "danville-restaurant-reviews"
   - "restaurants"
 tags:
   - "bay-area"
@@ -28,6 +27,12 @@ tags:
 ---
 
 [![ikes_01](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/ikes_01-500x430.jpg)](http://www.thegourmez.com/2014/05/ikes-place/ikes_01/)
+
+
+21 Railroad Ave\
+Danville, CA\
+[Website](http://ilikeikesplace.com/)\
+$7–$12
 
 This rapidly expanding Bay Area chain of sandwich shops got its start in the Castro neighborhood of San Francisco, and its devoted following has multiplied phenomenally in the seven years of its existence, enough to  support 13 stores in all. I was glad to bypass the legendary lines at the original location and accepted a friend’s invitation to check out the Danville store.
 
@@ -72,9 +77,5 @@ Not only is that a cool label, but the soda perfectly captured the flavor of its
 Will I dine at Ike’s again? I could spend my life working my way through the menu on a quest to find the best sandwich of them all. That’s my answer.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
-
-**Ike’s Place** 21 Railroad Ave Danville [Website](http://ilikeikesplace.com/) $7–$12
-
-[![Ike's Lair on Urbanspoon](http://www.urbanspoon.com/b/link/1771619/minilink.gif)](http://www.urbanspoon.com/r/6/1771619/restaurant/Ikes-Lair-Danville)
 
 _Reviewed 8 May 14._

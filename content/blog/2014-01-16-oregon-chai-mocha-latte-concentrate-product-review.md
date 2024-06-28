@@ -2,7 +2,7 @@
 title: "Oregon Chai Mocha Latte Concentrate Product Review"
 date: "2014-01-16"
 categories:
-  - "beverage-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "almond-mik"

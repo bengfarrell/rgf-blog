@@ -2,7 +2,6 @@
 title: "Little Star Pizza"
 date: "2014-06-26"
 categories:
-  - "san-francisco-restaurant-review"
   - "restaurants"
 tags:
   - "almonds"
@@ -29,6 +28,11 @@ tags:
 
 [![Our waitress rushing out, concerned my husband left his bag behind. Thanks!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/Little_Star_04-500x332.jpg)](http://www.thegourmez.com/2014/06/little-star-pizza/little_star_04/) Our waitress rushing out, concerned my husband left his bag behind. Thanks!</div>
 
+400 Valencia St.\
+The Mission, San Francisco\
+[Website](http://www.littlestarpizza.com/index.html)\
+$14–$26
+
 
 Little Star is a small gourmet-pizza chain with three outlets in San Francisco. We chose it for an early dinner on a Saturday afternoon because it had the best ratings for open eateries in that neck of the Mission at that time, aside from the also-appealing arepas spot across the street.
 
@@ -52,6 +56,4 @@ The Italian wasn’t the best pizza I’ve had, but it definitely cured our hung
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-**Little Star Pizza** 400 Valencia St. The Mission, San Francisco [Website](http://www.littlestarpizza.com/index.html) $14–$26
-
-[![Little Star Pizza on Urbanspoon](http://www.urbanspoon.com/b/link/86802/minilink.gif)](http://www.urbanspoon.com/r/6/86802/restaurant/Mission/Little-Star-Pizza-San-Francisco) _Reviewed 10 May 14._
+_Reviewed 10 May 14._

@@ -2,8 +2,6 @@
 title: "Homewood Winery Merlot Port 2010"
 date: "2014-01-28"
 categories: 
-  - "fortified-wine"
-  - "port-fortified-wine"
   - "wine"
 tags: 
   - "2010"
@@ -20,7 +18,7 @@ tags:
   - "winery"
 ---
 
-**Homewood Winery Merlot Port 2010** Dry Creek, CA
+**Region:** Dry Creek, CA
 
 [![Homewood_Port_01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/Homewood_Port_01-415x500.jpg)](http://www.thegourmez.com/2014/01/homewood-winery-merlot-port-2010/homewood_port_01/)
 

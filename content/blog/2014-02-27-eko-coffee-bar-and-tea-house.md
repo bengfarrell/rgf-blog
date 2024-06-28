@@ -1,9 +1,8 @@
 ---
-title: "Éko Coffee Bar and Tea House"
+title: "Éko Coffee Bar and Tea House *CLOSED*"
 date: "2014-02-27"
 categories: 
-  - "coffee-shop"
-  - "hayward-coffee-shop-review"
+  - "coffee-shops"
 tags: 
   - "banana"
   - "boba"
@@ -23,7 +22,13 @@ tags:
   - "tea"
 ---
 
-[![eko_01](http://s3.amazonaws.com/thegourmez-wpmedia/2014/02/eko_01-500x317.jpg)](http://www.thegourmez.com/2014/02/eko-coffee-bar-and-tea-house/eko_01/)I’d been watching the _Coming Soon_! sign for this coffee shop with interest since I moved to Hayward in August. Downtown Hayward has few coffee options aside from the usual chain suspects. Though I enjoy both Snappy’s Café and the Bistro for my caffeine needs, Snappy’s is pretty small and the Bistro is more of a bar and music venue than a spot suitable for working. Sometimes, I just need that coffee shop escape from the home office.
+[![eko_01](http://s3.amazonaws.com/thegourmez-wpmedia/2014/02/eko_01-500x317.jpg)](http://www.thegourmez.com/2014/02/eko-coffee-bar-and-tea-house/eko_01/
+
+1075 B St.\
+Downtown Hayward, CA\
+[Website](http://www.eko-coffee.com/)
+
+I’d been watching the _Coming Soon_! sign for this coffee shop with interest since I moved to Hayward in August. Downtown Hayward has few coffee options aside from the usual chain suspects. Though I enjoy both Snappy’s Café and the Bistro for my caffeine needs, Snappy’s is pretty small and the Bistro is more of a bar and music venue than a spot suitable for working. Sometimes, I just need that coffee shop escape from the home office.
 
 Éko, which will have been open about a month at the time of this post, fits that bill. The contemporary atmosphere is appealing, especially the mod, black, circle chairs. Those are mixed in with marble tables, bursts of marsh green fabric along the booth row, and rust red and white walls. Excepting the fixed sunburst mirror and white decorative lamps in the alcove, the shop is decorated with local artwork.
 
@@ -71,6 +76,6 @@ The husband had a strawberry milk boba, and again, no complaints on his end.
 
 I also love that they provide two different pitchers of ice water with a different fruit immersed in each. But the best part of this new spot is how much fun the staff has making all their drinks and eats. I’ve seen people take joy in customer service so rarely, and eavesdropping on their conversations while I’m supposedly working makes the afternoon pass faster. Not that _I_ would ever do such a thing, of course.
 
-[![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/) **Éko Coffee Bar and Tea House** 1075 B St. Downtown Hayward [Website](http://www.eko-coffee.com/)
+[![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/) 
 
 _Reviewed 1 Feb and 5 Feb 2014._

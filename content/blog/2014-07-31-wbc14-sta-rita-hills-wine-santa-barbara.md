@@ -3,8 +3,8 @@ title: "WBC14: The Sta. Rita Hills “History” Excursion"
 date: "2014-07-31"
 categories:
   - "events"
-  - "tasting-rooms-in-lompoc-ca"
-  - "wine-bloggers-conference-2014-buellton"
+  - "tasting-rooms"
+  - "wine"
 tags:
   - "appellation"
   - "auggie-rodriguez"

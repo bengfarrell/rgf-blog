@@ -3,7 +3,7 @@ title: "Tartine Bakery"
 date: "2014-02-04"
 categories: 
   - "bakeries"
-  - "ice-cream-bakery-food-truck"
+  
 tags: 
   - "bakery"
   - "biscotti"
@@ -19,6 +19,11 @@ tags:
   - "sourdough"
   - "tartine"
 ---
+
+600 Guerrero St.\
+The Mission, San Francisco\
+[Website](http://www.tartinebakery.com/)
+
 
 It’s always refreshing to find a place that lives up to the hype, and Tartine Bakery qualifies. One of my North Carolina food-writing friends was visiting California (check Kristen out at [GadaboutFood](http://gadaboutfood.com/)!), and she invited me along to try this small bakery in the Mission District that has made a million top ten lists for the Bay Area. It’s so well known, it doesn’t even need a sign. You know you’ve hit the right corner when you see the line queuing out of the black shop.
 
@@ -63,11 +68,5 @@ Heading behind the counter to bus your own tables is also awkward. So while I th
 Who am I kidding? We’re foodies. We can always eat more.
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.thegourmez.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
-
-**Tartine Bakery** 600 Guerrero St. The Mission, San Francisco [Website](http://www.tartinebakery.com/)
-
-[![Tartine Bakery on Foodio54](http://foodio54.com/images/badge-1-c31af.jpg)](http://foodio54.com/restaurant/San-Francisco-CA/c31af/Tartine-Bakery)
-
-[![Tartine Bakery on Urbanspoon](http://www.urbanspoon.com/b/link/92204/minilink.gif)](http://www.urbanspoon.com/r/6/92204/restaurant/Mission/Tartine-Bakery-San-Francisco)
 
 _Reviewed 2 January 14._

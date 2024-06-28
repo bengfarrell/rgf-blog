@@ -2,8 +2,6 @@
 title: "Mac & Cheese Night #4: Homeroom"
 date: "2014-09-09"
 categories:
-  - "oakland-restaurant-reviews"
-  - "events"
   - "restaurants"
 tags:
   - "best-of-the-bay"
@@ -22,6 +20,10 @@ tags:
 My 4th Mac & Cheese Night took place at the East Bay’s prime mac & cheese destination along 40th Street in Oakland: Homeroom.
 
 [![Homeroom_001](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Homeroom_001-500x332.jpg)](http://www.thegourmez.com/2014/09/mac-cheese-night-4-homeroom-oakland-review/homeroom_001/)
+
+400 40th Street\
+Piedmont, Oakland\
+[Website](http://homeroom510.com/)
 
 Nearly every time I’ve mentioned my mac & cheese quest, I’ve been interrupted by an excited new acquaintance asking if I’ve tried Homeroom yet. Finally, FINALLY, I can say yes when asked.
 
@@ -79,12 +81,6 @@ A pitcher breaks down to four drinks at $5 each, which is affordable enough that
 
 So…Homeroom was great! I wouldn’t hesitate to go back, though I’d likely wait until their new space opens if I have a large party again. Thus far, I’m ranking [the Tipsy Pig’s mac & cheese](http://www.thegourmez.com/2014/08/mac-cheese-night-3-the-tipsy-pig/) higher because their masterful use of bacon left a lasting impression and Homeroom’s sauce, though impressively varied in flavor depending on the dish, was just too dense to completely win my heart. However, Friend #2, who’s been at all mac & cheese nights so far, thinks I’m crazy for placing the Tipsy Pig above Homeroom. And I’d bet all those people who’ve had Homeroom’s name on the tips of their tongue when I’ve mentioned my quest would agree. Would you?
 
-**Homeroom** 400 40th Street Piedmont, Oakland [Website](http://homeroom510.com/)
-
 P.S. The Husband has declared Homeroom to be far too hipster because I was one of three people photographing their food at the same exact time. I, however, felt a universal sense of foodie camaraderie. The mason jars, though...he has a point.
-
-[![Homeroom 510 Mac & Cheese on Urbanspoon](http://www.urbanspoon.com/b/link/1564217/minilink.gif)](http://www.urbanspoon.com/r/6/1564217/restaurant/Homeroom-510-Mac-Cheese-Oakland)
-
-[![Homeroom on Foodio54](http://foodio54.com/images/badge-2-d5be9.jpg)](http://foodio54.com/restaurant/Oakland-CA/d5be9/Homeroom)
 
 _Reviewed 29 August 14._

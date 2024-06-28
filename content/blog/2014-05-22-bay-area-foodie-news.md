@@ -3,7 +3,7 @@ title: "Bay Area Foodie News"
 date: "2014-05-22"
 categories:
   - "events"
-  - "restaurants"
+  - "other-businesses"
 tags:
   - "affordable"
   - "bay-area"

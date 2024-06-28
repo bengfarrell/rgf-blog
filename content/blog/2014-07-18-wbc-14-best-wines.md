@@ -2,15 +2,8 @@
 title: "WBC 14: Best Wines"
 date: "2014-07-18"
 categories:
-  - "chardonnay"
-  - "events"
-  - "pinot-noir"
-  - "sauvignon-blanc"
-  - "shiraz"
-  - "teroldego"
-  - "touriga-adelaida"
   - "wine"
-  - "wine-bloggers-conference-2014-buellton"
+  - "events"
 tags:
   - "2005"
   - "2009"
@@ -167,9 +160,11 @@ Speaking of legends of winemaking,
 
 Ken has been pioneering pinot noir in SBC since the late 1970s with fellow old-timers Richard Sanford and Michael Benedict, and his passion and prowess is renowned in the area. If these two wines are any indication, I understand why.
 
-[![Ken addressing us during the SBC Winemakers Panel.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_051-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc-14-best-wines/wbc_14_051/)
+[![Ken addressing us during the SBC Winemakers Panel.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_051-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc-14-best-wines/wbc_14_051/) Ken addressing us during the SBC Winemakers Panel.</div>
 
-Ken addressing us during the SBC Winemakers Panel.
+
+
+
 
 I didn’t take notes on either wine, but I remember being impressed by how balanced, yet lively, the 2010 was, especially in comparison to the dustier, grassier 2011 Santa Maria Valley pinot noir that Ken wisely sampled with it that afternoon, making both wines stand out no matter the taster’s preference. The 2005 was served at dinner to gasps of appreciation from my fellow attendees who know more about wine history than I do.
 

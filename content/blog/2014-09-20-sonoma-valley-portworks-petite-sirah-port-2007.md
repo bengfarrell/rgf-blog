@@ -3,10 +3,6 @@ title: "Sonoma Valley Portworks Petite Sirah Port 2007"
 date: "2014-09-20"
 categories:
   - "tasting-rooms"
-  - "petite-sirah"
-  - "port-fortified-wine"
-  - "tasting-rooms-in-sonoma-ca"
-  - "travel-guide"
   - "wine"
 tags:
   - "2007"
@@ -24,7 +20,7 @@ tags:
   - "vinegar"
 ---
 
-**Sonoma Valley Portworks Petite Sirah Port 2007** Clarksburg, CA
+**Region:** Clarksburg, CA
 
 [![Sonoma_Portworks](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Sonoma_Portworks-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/09/sonoma-valley-portworks-petite-sirah-port-2007/sonoma_portworks/)
 

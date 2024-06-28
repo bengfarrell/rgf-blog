@@ -2,9 +2,8 @@
 title: "Red Blossom Tea Tasting at Café 4"
 date: "2014-08-07"
 categories:
-  - "coffee-shop"
-  - "castro-valley-coffee-shop-review"
-  - "san-francisco-coffee-shop-reviews"
+  - "coffee-shops"
+  - "other-businesses"
   - "events"
 tags:
   - "alice"

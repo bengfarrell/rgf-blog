@@ -2,7 +2,6 @@
 title: "Burger Joints of Hayward #1—1/4 Lb. Giant Burger"
 date: "2014-07-25"
 categories:
-  - "hayward-restaurant-reviews"
   - "restaurants"
 tags:
   - "14-lb"
@@ -52,7 +51,7 @@ What makes a great burger joint? It’s more than just **the patty** for me, tho
 
 <div class="caption">
 
-![](http://rebeccagomezfarrell.com/gourmez/photos/williams7.jpg) William's Gourmet Kitchen in Durham, NC, shows off its melting cheese.</div>
+![williams7](http://s3.amazonaws.com/thegourmez-wpmedia/2009/08/williams7.jpg) William's Gourmet Kitchen in Durham, NC, shows off its melting cheese.</div>
 
 
 **Quality of the toppings:** I like mayo, and I like it sloppy. I also want lettuce, tomato, onion, and maybe bacon, jalapeno, or avocado depending on my mood. Regardless, the ingredients must not make me wonder when the restaurant had its last produce delivery (this is my main problem with Val’s). **Fries:** Anything but steak-cut, boring, flavorless fries makes me happy (Val’s problem #2). **Shake:** I like to sip at my straw and actually get some shake through it, but I accept that the thicker the shake, the happier most people are, though I must maintain that such shakes should just be called _ice cream_ (Final Val’s note: I haven’t had their shakes. I suspect that’s my biggest problem).
@@ -61,7 +60,9 @@ You have my criteria. And I have my first burger joint review for you.
 
 [![Giant_Burger_004](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/Giant_Burger_004-500x332.jpg)](http://www.thegourmez.com/2014/07/burger-joints-of-hayward-1-14-lb-giant-burger/giant_burger_004/)
 
-**1/4 Lb. Giant Burger** 24134 Mission Blvd.
+**1/4 Lb. Giant Burger**
+24134 Mission Blvd.\
+Hayward, CA
 
 You have two options for ordering here. Either place an order to go at the window or walk inside to dine in at the cute counter with a row of red stools. Okay, three options. Place an order at the window then realize there’s a cute counter inside and ask for your food there. That’s what I did.
 
@@ -90,9 +91,5 @@ If the fries were more appealing, I’d knock this rating up a level. As it is, 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/).
 
 Worth eating, but plenty of room for improvement. Especially for the fries.
-
-[![Hambrick's Giant Burgers on Urbanspoon](http://www.urbanspoon.com/b/link/84622/minilink.gif)](http://www.urbanspoon.com/r/6/84622/restaurant/Hambricks-Giant-Burgers-Hayward)
-
-[![Hambrick's Giant Burgers on Foodio54](http://foodio54.com/images/badge-1-f8ac.jpg)](http://foodio54.com/restaurant/Hayward-CA/f8ac/Hambricks-Giant-Burgers)
 
 _Reviewed 2 June 14._

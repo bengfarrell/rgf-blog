@@ -2,9 +2,8 @@
 title: "WBC14: Bridlewood Estate Excursion"
 date: "2014-08-28"
 categories:
-  - "chardonnay"
   - "wine"
-  - "wine-bloggers-conference-2014-buellton"
+  - "tasting-rooms"
 tags:
   - "2014"
   - "bloggers"

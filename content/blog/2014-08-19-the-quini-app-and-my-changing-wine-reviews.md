@@ -3,7 +3,7 @@ title: "The Quini App and My Changing Wine Reviews"
 date: "2014-08-19"
 categories:
   - "wine"
-  - "writing"
+  - "announcements"
 tags:
   - "app"
   - "application"

@@ -2,8 +2,7 @@
 title: "Fair Trade Product Review"
 date: "2014-01-09"
 categories:
-  - "beverage-product-review"
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "archer-farms-coffee"
