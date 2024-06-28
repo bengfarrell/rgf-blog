@@ -2,8 +2,7 @@
 title: "Crowdpleazin 2013"
 date: "2015-02-10"
 categories: 
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2013"
   - "angels"
@@ -22,7 +21,7 @@ tags:
   - "winos"
 ---
 
-Crowdpleazin 2013 Sonoma Valley, CA
+**Region:** Sonoma Valley, CA
 
 ![crowdpleazin_1](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/crowdpleazin_1-333x500.jpg)
 

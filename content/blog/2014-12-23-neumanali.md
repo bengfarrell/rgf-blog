@@ -2,7 +2,6 @@
 title: "Neumanali"
 date: "2014-12-23"
 categories: 
-  - "hayward-restaurant-reviews"
   - "restaurants"
 tags: 
   - "b-street"
@@ -28,6 +27,11 @@ tags:
   - "victorian"
   - "warm-goat-cheese"
 ---
+
+742 B Street\
+Downtown Hayward\
+[Website](http://www.neumanali.com/)\
+Entrees: $24–$34
 
 Neumanali is one of Hayward's few fine dining restaurants. [Bijou](http://www.thegourmez.com/2013/11/bijou/), just a few blocks up B Street, is the only other one that immediately comes to mind. Neumanali is tucked away by the downtown Hayward BART station in a beautiful Victorian that most people don't even realize is a restaurant as they walk past.
 
@@ -94,11 +98,5 @@ We certainly tried a variety of Neumanali's offerings! The salad, filet, and lam
 Which all goes to say that I found Neumanali to be a satisfying, and at times impressive, fine dining experience for Hayward. I look forward to trying them again in the spring as the menu changes and the patio beckons. The potential is assuredly there for a meal that delivers on all counts. They already deliver on most.
 
 ![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
-
-**Neumanali** 742 B Street Downtown Hayward [Website](http://www.neumanali.com/) Entrees: $24–$34
-
-[![Neumanali on Urbanspoon](http://www.urbanspoon.com/b/link/88090/minilink.gif)](http://www.urbanspoon.com/r/6/88090/restaurant/Neumanali-Hayward)
-
-[![Neumanali on Foodio54](http://foodio54.com/images/badge-1-f884.jpg)](http://foodio54.com/restaurant/Hayward-CA/f884/Neumanali)
 
 _Reviewed 5 December 2014._

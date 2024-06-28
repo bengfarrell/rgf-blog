@@ -2,7 +2,7 @@
 title: "Love With Food Product Review"
 date: "2014-11-18"
 categories:
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "180-snacks"

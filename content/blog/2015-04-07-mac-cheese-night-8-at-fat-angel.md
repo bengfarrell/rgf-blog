@@ -2,7 +2,6 @@
 title: "Mac & Cheese Night #8 at Fat Angel"
 date: "2015-04-07"
 categories:
-  - "san-francisco-restaurant-review"
   - "restaurants"
   - "wine"
 tags:
@@ -22,6 +21,11 @@ tags:
 
 ![Fat_Angel_01](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/Fat_Angel_01-500x397.jpg)
 
+ 1740 O'Farrell St.\
+ Fillmore District, San Francisco\
+ [Website](http://www.fatangelsf.com/)\
+ $12–$15
+ 
 Fat Angel's menu is focused on nibbles to go with their exceptionally long list of beers, wines, and meads, including after-dinner selections for all of their beverage categories. As usually happens, that leads to meat and cheese boards, nuts and olives, and in their case, a selection of fancy butter schmears served with Firebrand breads. Because they also offer flatbreads, salads, and a trio of larger plates, Fat Angel doesn't operate quite like the typical trendy wine/beer bar. They do, typically, not take reservations, but you don't have to fight for elbow room and hunker over a tiny corner of surface space and can instead enjoy your meal with friends in relative peacefulness after your wait is over—ours took about 20 minutes for 3 people at 8 pm on a Saturday.
 
 
@@ -71,7 +75,5 @@ It used the same roast chicken as the salad and boasts of carrots, sherry, and t
 Now that I've written up the review, my impression of Fat Angel has become clear. While offering some inventive ingredients, most of our selections underwhelmed. But the drink offerings are great, and the mac and cheese is worth coming for all on its own. Pair all that with a pleasant atmosphere and sure, I'd drop in again. As long as an order of the mac and cheese is placed for the table.
 
 ![Fat_Angel_03](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/Fat_Angel_03-500x309.jpg)
-
-**Fat Angel** 1740 O'Farrell St. Fillmore District, San Francisco [Website](http://www.fatangelsf.com/) $12–$15
 
 _Reviewed 21 March 2015._

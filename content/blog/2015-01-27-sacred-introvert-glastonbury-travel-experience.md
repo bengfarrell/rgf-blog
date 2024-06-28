@@ -3,7 +3,7 @@ title: "Sacred Introvert Glastonbury Travel Experience"
 date: "2015-01-27"
 categories: 
   - "announcements"
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "england"
   - "glastonbury"
@@ -54,7 +54,7 @@ Glastonbury Abbey
 
 Glastonbury, England
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/lisa_1.jpg)](http://sacredintrovert.com/home/who-is-behind-si/my-story/)**Lisa Avebury**Your Guide
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/lisa_1.jpg)](http://sacredintrovert.com/home/who-is-behind-si/my-story/)**Lisa Avebury** Your Guide
 
 * * *
 

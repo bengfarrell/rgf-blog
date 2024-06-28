@@ -2,8 +2,8 @@
 title: "Breakfast Highlights of the Eixample"
 date: "2015-01-29"
 categories:
-  - "dining-barcelona"
-  - "travel-guide"
+  - "restaurants"
+  - "travel-guides"
 tags:
   - "alsur-cafe"
   - "architecture"
@@ -54,7 +54,8 @@ But the food, Becca! You said this was about the food!
 
 Apologies. Sometimes I get carried away with admiration for city planning. I started that tangent mainly to convey just how large the Example is as it essentially surrounds the Gothic Quarter and heads off to the east for a ways as well. Thus, these best breakfasts are separated by great distances! So I'll note what sightseeing you may want to do nearby, after you've stored your energy for the day. Consider them potential starting points for a few days' worth of adventures, if you'd like.
 
-[Granja Petitbo](http://www.granjapetitbo.com/) Passeig De Sant Joan, 82
+## [Granja Petitbo](http://www.granjapetitbo.com/)
+Passeig De Sant Joan, 82
 
 ![2014_Barcelona_580](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/2014_Barcelona_580-500x333.jpg)
 
@@ -78,7 +79,8 @@ The cappuccino was excellent. I love how Barcelona considers a sprinkle of cocoa
 
 _English menus available._  _Nearby Sightseeing: La Sagrada Familia, Arc de Triomf_
 
-[Alsur Café](http://www.alsurcafe.com/alsurcafe/lluria.html) Calle Roger de Lluria, 23
+## [Alsur Café](http://www.alsurcafe.com/alsurcafe/lluria.html)
+Calle Roger de Lluria, 23
 
 ![2014_Barcelona_409](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/2014_Barcelona_409-392x500.jpg)
 
@@ -102,7 +104,8 @@ _English menus available._ _Nearby Sightseeing: La Rambla, Casa Batllo_
 
 Calling my final breakfast recommendation part of the Eixample may be a stretch, but I'm following _Yelp's_ example. The café's website declares it to be part of Sant Antoni. It's tucked right between the Paral-lel and the El Raval neighborhood.
 
-[Federal Café](http://www.federalcafe.es/barcelona/) Carrer del Parlament 39
+## [Federal Café](http://www.federalcafe.es/barcelona/)
+Carrer del Parlament 39
 
 ![2014_Barcelona_032](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/2014_Barcelona_032-500x333.jpg)
 

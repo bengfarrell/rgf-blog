@@ -2,8 +2,6 @@
 title: "Bandit Wines Cabernet Sauvignon"
 date: "2015-03-17"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "bandit"
@@ -27,7 +25,7 @@ tags:
   - "wine-scramp"
 ---
 
-**Bandit Wines Cabernet Sauvignon** California
+**Region:** California
 
 ![Bandit_Cab_sauvignon](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/Bandit_Cab_sauvignon-333x500.jpg)
 

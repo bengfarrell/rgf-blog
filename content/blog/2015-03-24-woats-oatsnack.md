@@ -2,7 +2,7 @@
 title: "WOATS Oatsnack"
 date: "2015-03-24"
 categories:
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "butter-toffee-peanuts"

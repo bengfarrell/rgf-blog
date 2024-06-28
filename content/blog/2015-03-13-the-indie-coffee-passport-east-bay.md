@@ -3,7 +3,7 @@ title: "The Indie Coffee Passport – East Bay"
 date: "2015-03-13"
 categories:
   - "announcements"
-  - "coffee-shop"
+  - "coffee-shops"
 tags:
   - "alameda"
   - "albany"

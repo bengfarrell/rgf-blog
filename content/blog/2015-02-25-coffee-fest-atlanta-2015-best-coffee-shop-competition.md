@@ -2,7 +2,7 @@
 title: "Coffee Fest Atlanta 2015: Best Coffee Shop Competition"
 date: "2015-02-25"
 categories:
-  - "coffee-shop"
+  - "coffee-shops"
   - "events"
 tags:
   - "2015"

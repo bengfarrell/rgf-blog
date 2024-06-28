@@ -3,7 +3,7 @@ title: "La Bedaine"
 date: "2015-07-23"
 categories: 
   - "bakeries"
-  - "ice-cream-bakery-food-truck"
+  - "ice-cream-parlors"
 tags: 
   - "albany"
   - "apple-almond-tart"
@@ -24,6 +24,10 @@ tags:
 
 [![IMG_4107](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4107-336x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4107.jpg)
 
+1585 Solano Avenue\
+Berkeley, CA\
+[Website](http://labedaine.com)
+
 La Bedaine is a tiny French bakery on the outside, but on the inside, it specializes in French cuisine that you can take home to cut a few steps out of dinner. That means vacuum-packed meals such as duck confit and coq au vin. For simple meanderers, such as myself, La Bedaine’s cheery yellow display cases offer a range of meats and baked goods from sweet to savory.
 
 [![IMG_4103](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4103-500x269.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4103.jpg) [![IMG_4100](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4100-500x291.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4100.jpg) [![IMG_4105](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4105-500x407.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4105.jpg)
@@ -42,6 +46,5 @@ We took both our treats onto the streetfront bench and enjoyed every bite. My fr
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-**La Bedaine** 1585 Solano Avenue Berkeley, CA [Website](http://labedaine.com)
 
 _Reviewed 4 June 2015._

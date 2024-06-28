@@ -2,7 +2,6 @@
 title: "Pink's Hot Dogs"
 date: "2015-01-22"
 categories:
-  - "los-angeles-restaurant-reviews"
   - "restaurants"
 tags:
   - "celebrities"
@@ -21,6 +20,11 @@ tags:
 ---
 
 ![2014_Hollywood_010](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/2014_Hollywood_010-500x3331.jpg)
+
+709 North La Brea Avenue\
+Hollywood, Los Angeles\
+[Website](http://www.pinkshollywood.com/)\
+$3.80–$10.25
 
 I have fulfilled another entry on my foodie bucket list. Okay, I'm lying. I am way too lazy to have made a foodie bucket list, but if I had, Pink's Hot Dogs would assuredly be on it. Since 1939, the Pink family has been perfecting the hot dog, and as all good Californians know, perfecting = adding lots of toppings. Though I soon discovered that these dogs are more than what meets the eye. They're also just darn good hot dogs!
 
@@ -58,12 +62,5 @@ If you're interested in seeing all those crazy combinations, _Serious Eats_ actu
 <div class="caption">
 
 ![Thank you, Pink's!](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/me-at-pinks-500x5001.jpg) Foodie mission acocomplished!</div>
-
-
-**Pink's Hot Dogs** 709 North La Brea Avenue Hollywood, Los Angeles [Website](http://www.pinkshollywood.com/) $3.80–$10.25
-
-[![Pink's Hot Dogs on Urbanspoon](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/minilink.png)](http://www.urbanspoon.com/r/5/73259/restaurant/West-Hollywood/Pinks-Hot-Dogs-LA)
-
-[![Pink's on Foodio54](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/badge-2-58cc.jpg)](http://foodio54.com/restaurant/Los-Angeles-CA/58cc/Pinks)
 
 _Reviewed 28 November 2014._

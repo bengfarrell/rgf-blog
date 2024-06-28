@@ -2,8 +2,6 @@
 title: "Pickberry Vineyard Merlot 2013"
 date: "2015-07-08"
 categories: 
-  - "merlot"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "2013"
@@ -22,7 +20,7 @@ tags:
   - "tom-shula"
 ---
 
-**Pickberry Vineyard Merlot 2013** Sonoma Mountain, CA
+**Region:** Sonoma Mountain, CA
 
 [![Pickberry_Merlot](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/Pickberry_Merlot-500x446.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/Pickberry_Merlot.jpg)
 

@@ -2,11 +2,11 @@
 title: "Sipping Stones, TOPO Eight Oak Carolina Whiskey, and the Strawberry Glades"
 date: "2015-02-19"
 categories: 
-  - "beverage-product-review"
+  - "other-businesses"
   - "recipes"
+  - "cocktails"
   - "product-reviews"
   - "spirits"
-  - "whiskey-whisky-review"
 tags: 
   - "carolina-whiskey"
   - "cocktails"
@@ -67,9 +67,12 @@ Yep, it's a time for a new cocktail recipe from the Gourmez! I'm pretty proud of
 
 ![TOPO_Eight_04](http://s3.amazonaws.com/thegourmez-wpmedia/2015/02/TOPO_Eight_04-356x500.jpg)
 
-**Strawberry Glades**
+## Strawberry Glades
 
-1 oz TOPO Eight Oak Whiskey 1/4 oz Crème de Framboise 15 drops Workhouse Rye Salted Cacao bitters lemon-lime soda (I used Sodastream's mix)
+1 oz TOPO Eight Oak Whiskey\
+1/4 oz Crème de Framboise\
+15 drops Workhouse Rye Salted Cacao bitters\
+lemon-lime soda (I used Sodastream's mix)
 
 And the drink:
 
@@ -86,7 +89,5 @@ All in all, this cocktail gives the whiskey a chance to show off its stuff witho
 TOPO Eight Oak _and_ Sipping Stones both earn a chicken from me.
 
 ![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
-
-Interested in purchasing your own Sipping Stones? You can get them right here:
 
 _Reviewed 29 January 15 and 3 February 15._

@@ -2,7 +2,6 @@
 title: "Burger Joints of Hayward #4: Cecil's Famous Burgers"
 date: "2014-11-26"
 categories: 
-  - "hayward-restaurant-reviews"
   - "restaurants"
 tags: 
   - "american-cheese"
@@ -23,6 +22,9 @@ tags:
 ---
 
 ![Cecils_Burgers_002](http://s3.amazonaws.com/thegourmez-wpmedia/2014/11/Cecils_Burgers_002-500x316.jpg)
+
+547 Tennyson Rd\
+Hayward
 
 The next stop on my Burger Joints of Hayward tour is Cecil’s Famous Burgers, found due to its Yelp rivalry with Val’s Burgers, the most iconic Hayward burger joint I can think of. Being as I’m not that enthused with Val’s (still planning a return visit for a review), I was rather intrigued by this supposed challenger. Its nondescript exterior with only a window to order from and a few outdoor tables to use struck me as just right for a potential dark horse in this race.
 
@@ -59,11 +61,5 @@ We shared a banana shake, which you can get real banana added to for an upcharge
 Cecil’s Famous Burgers gets bonus points for the shake selection, the value, and the great burger overall. More meat flavor and crisper fries and lettuce would have put them over the edge into my best ranking. As is, Cecil’s offers a solid burger worth repeating.
 
 ![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
-
-**Cecil’s Famous Burgers** 547 Tennyson Rd Hayward
-
-[![Cecil's Famouse Burgers on Urbanspoon](http://www.urbanspoon.com/b/link/82098/minilink.gif)](http://www.urbanspoon.com/r/6/82098/restaurant/Cecils-Famouse-Burgers-Hayward)
-
-[![Cecil's Famouse Burgers & Sandwiches Take Out on Foodio54](http://foodio54.com/images/badge-2-f8af.jpg)](http://foodio54.com/restaurant/Hayward-CA/f8af/Cecils-Famouse-Burgers-amp-Sandwiches-Take-Out)
 
 _Reviewed 10.29.14._

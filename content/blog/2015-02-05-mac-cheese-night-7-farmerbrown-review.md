@@ -2,7 +2,7 @@
 title: "Mac & Cheese Night #7 at Farmerbrown"
 date: "2015-02-05"
 categories: 
-  - "san-francisco-restaurant-review"
+  - "cocktails"
   - "restaurants"
 tags: 
   - "baby-back-ribs"
@@ -30,6 +30,10 @@ tags:
 ---
 
 ![Farmer_Browns_001](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/Farmer_Browns_001-500x333.jpg)
+
+25 Mason St at the Hotel Metropolis\
+Tenderloin, San Francisco\
+Entrees: $18–$26
 
 First Mac & Cheese Night of 2015! This outing took us to Farmerbrown, just about a block from the Powell St. BART stop in the heart of downtown San Francisco. Our original location was meant to be Grub in the Mission District, but it turns out Grub must have closed sometime in December! That makes two restaurants on [the 7x7 list](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0CDMQFjAC&url=http%3A%2F%2Fwww.7x7.com%2Feat-drink%2F10-best-mac-n-cheeses-bay-area&ei=sEnIVJ6eAsHvoASA3YC4Cw&usg=AFQjCNHUIzLzDmEWvX7sw3jruU7vvFdkoQ&sig2=Np2uTi5h5KBItabfPHqvRA&bvm=bv.84607526,d.cGU) that no longer exist and two more left to go before my mission is complete.
 
@@ -100,11 +104,5 @@ Well, it was supposed to be served warm. Mine was maybe a smidge above room temp
 In fact, I'd recommend most of what we ate at Farmerbrown, just not with overwhelming enthusiasm. I'd need to feel like the meal had been more of a value for that. And they'd need to remove their "mason jar cocktails" section of the cocktail list. Yes, I have a well-documented vendetta against the omnipresent mason jars, which served as cocktail glasses, water glasses, and candles at our table. But I'm not demanding that Farmerbrown get rid of them by any means. Just that they don't give them their own section of the cocktail list. It's only drinkware! The cocktail is the part you should be ordering! Sigh. /rant
 
 Next month will be Fat Angel's drunken goat version of mac & cheese! I can't wait.
-
-**Farmerbrown** 25 Mason St at the Hotel Metropolis Tenderloin, San Francisco Entrees: $18–$26
-
-[![Farmerbrown on Urbanspoon](http://www.urbanspoon.com/b/link/83790/minilink.gif)](http://www.urbanspoon.com/r/6/83790/restaurant/Civic-Center/Farmerbrown-San-Francisco)
-
-[![farmerbrown on Foodio54](http://foodio54.com/images/badge-2-c36d6.jpg)](http://foodio54.com/restaurant/San-Francisco-CA/c36d6/farmerbrown)
 
 _Reviewed 24 January 15._

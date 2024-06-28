@@ -2,7 +2,7 @@
 title: "Goody Good Stuff Product Review"
 date: "2014-12-15"
 categories:
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "allergen-free"

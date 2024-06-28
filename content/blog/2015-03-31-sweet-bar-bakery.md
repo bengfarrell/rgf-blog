@@ -3,10 +3,7 @@ title: "Sweet Bar Bakery"
 date: "2015-03-31"
 categories: 
   - "bakeries"
-  - "coffee-shop"
-  - "oakland-coffee-shop-reviews"
-  - "oakland-restaurant-reviews"
-  - "ice-cream-bakery-food-truck"
+  - "coffee-shops"
   - "restaurants"
 tags: 
   - "blt"
@@ -29,6 +26,11 @@ tags:
 ---
 
 ![Sweet_Bar_08](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/Sweet_Bar_08-500x354.jpg)
+
+2355 Broadway\
+Downtown Oakland
+[Website](http://www.sweetbarbakery.com/)\
+Lunch: $8–10
 
 There's a lot that I love about Sweet Bar Bakery: their commitment to locally sourced, fair trade, and cage-free ingredients; that they know the difference between a latte and a cortado; that you can usually get a seat without too much of a hassle on a weekday. But I'm befuddled by how their baked goods, with _bakery_ as part of their name, have continually been dry.
 
@@ -66,14 +68,7 @@ I've had better success with the tuna salad sandwich (not pictured) and the BLAT
 
 Sweet Bar Bakery has a lot of the core components of an amazing café, but I think I'll stick to the coffee and the occasional lunch. The salads do look tasty as they pass by…and you can always ask for more dressing if a salad's dry, right? Friend #1 confirms that they are good. She's a regular, and as she also confirms that every baked good she's ordered has been on the dry side, I think we can trust her opinion.
 
-**Sweet Bar Bakery** 2355 Broadway Downtown Oakland [Website](http://www.sweetbarbakery.com/) Lunch: $8--10
-
 ![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-[![Sweet Bar Bakery on Urbanspoon](http://www.urbanspoon.com/b/link/1718201/minilink.gif)](http://www.urbanspoon.com/r/6/1718201/restaurant/Sweet-Bar-Bakery-Oakland)
-
- 
-
- 
 
 _Reviewed 15 January & 4 March 2015._

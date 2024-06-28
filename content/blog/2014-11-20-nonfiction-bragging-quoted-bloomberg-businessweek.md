@@ -3,6 +3,7 @@ title: "Nonfiction Bragging--Bloomberg Businessweek Quote!"
 date: "2014-11-20"
 categories: 
   - "announcements"
+  - "spirits"
 tags: 
   - "alcohol"
   - "bloomberg"

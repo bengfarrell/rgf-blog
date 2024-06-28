@@ -2,7 +2,7 @@
 title: "Waiākea Hawaiian Volcanic Water—and Coupon Code!"
 date: "2014-11-11"
 categories:
-  - "beverage-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "coupon-code"

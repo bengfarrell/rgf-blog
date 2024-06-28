@@ -2,7 +2,7 @@
 title: "Poggia Basso Grappa del Piemonte"
 date: "2014-12-08"
 categories: 
-  - "grappa"
+  - "spirits"
 tags: 
   - "big-league"
   - "christian-brothers"
@@ -20,7 +20,8 @@ tags:
   - "trader-joes"
 ---
 
-**Poggia Basso Grappa del Piemonte** Ghemme, Italy 40% ABV
+**Region:** Ghemme, Italy\
+40% ABV
 
 ![grappa_del_piemonte_01](http://s3.amazonaws.com/thegourmez-wpmedia/2014/12/grappa_del_piemonte_01-332x500.jpg)
 

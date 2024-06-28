@@ -2,8 +2,9 @@
 title: "Barcelona Beach Strolling"
 date: "2015-04-10"
 categories:
-  - "dining-barcelona"
-  - travel-guide"
+  - "restaurants"
+  - "ice-cream-parlors"
+  - "travel-guides"
 tags:
   - "barcelona"
   - "barceloneta"

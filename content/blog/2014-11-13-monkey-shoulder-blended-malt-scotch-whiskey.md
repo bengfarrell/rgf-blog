@@ -2,7 +2,7 @@
 title: "Monkey Shoulder Blended Malt Scotch Whiskey"
 date: "2014-11-13"
 categories: 
-  - "whiskey-whisky-review"
+  - "spirits"
 tags: 
   - "apricot"
   - "blended"
@@ -25,7 +25,8 @@ tags:
   - "whisky"
 ---
 
-Monkey Shoulder Blended Malt Scotch Whiskey Dufftown, Scotland 40% ABV
+**Region:** Dufftown, Scotland\
+40% ABV
 
 [![Monkey_Shoulder__001](http://s3.amazonaws.com/thegourmez-wpmedia/2014/11/Monkey_Shoulder__001-332x500.jpg)](http://www.thegourmez.com/2014/11/monkey-shoulder-blended-malt-scotch-whiskey/monkey_shoulder__001/)
 

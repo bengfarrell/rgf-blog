@@ -2,7 +2,7 @@
 title: "Barcelona: La Sagrada Familia"
 date: "2015-03-11"
 categories:
-  - travel-guide"
+  - "travel-guides"
 tags:
   - "antonin"
   - "architecture"

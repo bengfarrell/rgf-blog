@@ -2,7 +2,7 @@
 title: "Food Should Taste Good's Brown Rice Crackers"
 date: "2015-04-20"
 categories:
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "brand"

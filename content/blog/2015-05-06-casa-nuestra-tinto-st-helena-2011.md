@@ -2,8 +2,6 @@
 title: "Casa Nuestra Tinto St. Helena 2011"
 date: "2015-05-06"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "2011"
@@ -20,7 +18,7 @@ tags:
   - "wine-spies"
 ---
 
-**Casa Nuestra Tinto St. Helena 2011** Oakville, Napa Valley, CA
+**Region:** Oakville, Napa Valley, CA
 
 ![Casa_Nuestra_Tinto](http://s3.amazonaws.com/thegourmez-wpmedia/2015/05/Casa_Nuestra_Tinto-333x500.jpg)
 

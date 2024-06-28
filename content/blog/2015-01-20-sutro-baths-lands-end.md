@@ -2,7 +2,7 @@
 title: "Sutro Baths and Land's End"
 date: "2015-01-20"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "abandoned-places"
   - "day-trip"
@@ -26,9 +26,7 @@ tags:
 
 
 
-<div class="caption">
-
-![Click twice for the panorama.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/2014_Sutro_Baths_102-1024x277.jpg) Click twice for the panorama.</div>
+![2014_Sutro_Baths_062](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/2014_Sutro_Baths_102-1024x277.jpg)
 
 
 On the western tip of San Francisco lies the abandoned [Sutro Baths.](http://www.nps.gov/goga/planyourvisit/cliff-house-sutro-baths.htm) It's a popular—but not always populous—tourist destination that draws photographers from far and wide for its breathtaking views of the Pacific Coast. Along with nearby Land's End, the Sutro Baths are part of the larger [National Golden Gate Recreation Area](http://www.nps.gov/goga/index.htm).
@@ -97,4 +95,4 @@ The nearby historic Cliff House, Atlas Obscura, and Ocean's Beach are all worth 
 
 ![2014_Sutro_Baths_090](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/2014_Sutro_Baths_090.jpg)
 
-For my full set of Sutro Bath photos, c[lick here](https://www.facebook.com/media/set/?set=a.10152182864274607.1073741886.567409606&type=1&l=b8d83372bf).
+For my full set of Sutro Bath photos, [click here](https://www.facebook.com/media/set/?set=a.10152182864274607.1073741886.567409606&type=1&l=b8d83372bf).

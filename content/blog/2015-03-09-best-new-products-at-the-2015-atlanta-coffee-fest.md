@@ -2,7 +2,8 @@
 title: "Best New Products at the 2015 Atlanta Coffee Fest"
 date: "2015-03-09"
 categories:
-  - "coffee-shop"
+  - "coffee-shops"
+  - "other-businesses"
   - "events"
 tags:
   - "2015"
@@ -42,7 +43,7 @@ tags:
 
 You can find fast-paced, ongoing [barista competitions](http://www.rebeccagomezfarrell.com/2015/02/coffee-fest-atlanta-2015-best-coffee-shop-competition/) in any corner of a Coffee Fest show, but at their heart, these events are trade shows. And I had far more fun than expected discovering up-and-coming products among the many established brands. This isn't a list featuring my favorite coffee beans from the weekend—that would be expected. Rather, it's a list of my favorite unexpected finds, all products I hope may be appearing at a coffee shop near me soon.
 
-**1\. The Airflow Cooling Lid**
+## 1\. The Airflow Cooling Lid
 
 
 
@@ -66,7 +67,7 @@ Apparently I'm not alone in that concern, because Akiva Shapiro has invented the
 
 This product is still in the prototype stage and seeking investors, so I avidly await the day it'll be mass-produced.
 
-**2. [Bikos Coffee Bags](http://www.bikoscoffeebags.com/)**
+## 2. [Bikos Coffee Bags](http://www.bikoscoffeebags.com/)
 
 ![2015_Coffee_Fest_053](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_053-373x500.jpg)
 
@@ -76,7 +77,7 @@ Another plus for the literary types: Bikos Coffee Bags are customizable, and the
 
 Now we can gift a bag of a coffee and an adorable way to store it at the same time!
 
-**3. [Tropics Refreshers](http://www.tropics-refreshers.com/)**
+## 3. [Tropics Refreshers](http://www.tropics-refreshers.com/)
 
 If you haven't heard of green coffee drinks yet, you will soon enough. There were a handful at Coffee Fest Atlanta, and my favorite of the bunch was absolutely Tropics Refreshers.
 
@@ -86,7 +87,7 @@ Through green coffee bean extracts, we get a small boost of caffeine and none of
 
 Tropics Refreshers's Valenica Orange had the best taste of the drinks I sampled made with green coffee beans. It also stays relatively low calorie through a combination of pure cane sugar and Stevia. If you're a regular reader, you'll already know that Stevia is the only sugar substitute I like, so that automatically gets my approval. The other currently available flavor is Wildberry Mint.
 
-**4. [Earnest Eats Rush Hot Cereals](http://www.earnesteats.com/)**
+## 4. [Earnest Eats Rush Hot Cereals](http://www.earnesteats.com/)
 
 ![Earnest Eats Rush](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/Earnest-Eats-Rush-446x500.jpg)
 

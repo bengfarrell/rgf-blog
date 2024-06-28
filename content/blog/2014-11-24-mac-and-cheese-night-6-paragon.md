@@ -2,7 +2,6 @@
 title: "Mac and Cheese Night #6: Paragon"
 date: "2014-11-24"
 categories: 
-  - "san-francisco-restaurant-review"
   - "restaurants"
 tags: 
   - "apple-sangria"
@@ -28,6 +27,11 @@ tags:
 ---
 
 For my sixth Mac and Cheese Night, the husband and I went a little upscale, heading to Paragon right outside AT&T Park.
+
+701 Second St\
+SoMa, San Francisco\
+[Website](http://paragonrestaurant.com/home.sanfrancisco)\
+Entrees: $15–$24
 
 ![Paragon_001](http://s3.amazonaws.com/thegourmez-wpmedia/2014/11/Paragon_001-500x344.jpg)
 
@@ -69,10 +73,6 @@ Enough about the glass. The sangria was made with white wine, apples, ginger, ci
 
 Despite brussel sprouts that won my heart, Paragon served up my least favorite Mac and Cheese Night experience thus far. I should note that the mac and cheese was still good, but among its competitors, it just doesn’t rank.
 
-I’m taking December off from mac and cheese—too many other heavy foods to tantalize me over the holidays! The next Mac and Cheese Night will be in January. As always, if you’d like to come along, shoot me an email or a tweet! All are welcome. **Paragon** 701 Second St SoMa, San Francisco [Website](http://paragonrestaurant.com/home.sanfrancisco) Entrees: $15–$24
-
-[![Paragon Restaurant & Bar San Francisco on Urbanspoon](http://www.urbanspoon.com/b/link/88812/minilink.gif)](http://www.urbanspoon.com/r/6/88812/restaurant/SOMA/Paragon-Restaurant-Bar-San-Francisco-San-Francisco)
-
-[![Paragon Restaurant and Bar on Foodio54](http://foodio54.com/images/badge-2-c360c.jpg)](http://foodio54.com/restaurant/San-Francisco-CA/c360c/Paragon-Restaurant-and-Bar)
+I’m taking December off from mac and cheese—too many other heavy foods to tantalize me over the holidays! The next Mac and Cheese Night will be in January. As always, if you’d like to come along, shoot me an email or a tweet! All are welcome. 
 
 _Reviewed 8 November 2014._

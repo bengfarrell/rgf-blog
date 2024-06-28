@@ -2,9 +2,7 @@
 title: "Food Should Taste Good Brunch with Tablehopper!"
 date: "2015-04-17"
 categories:
-  - "san-francisco-restaurant-review"
   - "events"
-  - "food-product-review"
   - "restaurants"
 tags:
   - "bacon"

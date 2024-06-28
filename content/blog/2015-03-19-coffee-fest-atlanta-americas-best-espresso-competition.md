@@ -2,7 +2,7 @@
 title: "Coffee Fest Atlanta: America's Best Espresso Competition"
 date: "2015-03-19"
 categories:
-  - "coffee-shop"
+  - "coffee-shops"
   - "events"
 tags:
   - "americas-best-espresso"
@@ -25,13 +25,6 @@ tags:
   - "seeds-coffee"
   - "third-wave"
 ---
-
-The America's Best Espresso Competition at the Atlanta Coffee Fest
-
-
-
-
-<div class="caption">
 
 ![The crowd watches Bout #1 on Saturday, 2/7.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_107.jpg) The crowd watches Bout #1 on Saturday, 2/7.</div>
 

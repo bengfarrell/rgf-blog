@@ -2,8 +2,8 @@
 title: "Four Corners Cafe"
 date: "2015-07-13"
 categories: 
-  - "coffee-shop"
-  - "coffee-in-albany"
+  - "coffee-shops"
+ 
 tags: 
   - "albany"
   - "breakfast"
@@ -25,6 +25,12 @@ tags:
 
 [![IMG_4087](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/IMG_4087-410x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/IMG_4087.jpg)
 
+862 San Pablo Avenue\
+Albany, CA\
+[Website](https://cafefourcorners.cm/)\
+Coffee: $1.75–$4.35\
+Eats: $2.50–$11.50
+
 I headed out to Albany for the first time to check another café off my [East Bay Indie Coffee Passpor](http://thegourmez.com/tag/indie-coffee-passport/)t. I met up with a new friend and fellow UCSC alum who was excited to show me around her neck of the woods, which means you’ll be getting another Albany review from me soon. Four Corners is where we started, and it’s a neighborhood coffeeshop that recognizes the value of the wireless worker.
 
 [![IMG_4097](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/IMG_4097-500x352.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/IMG_4097.jpg)
@@ -42,7 +48,5 @@ Plenty of flavor with none of the pastiness that comes from the canned varieties
 Four Corners Café isn’t reinventing the espresso machine, but it’s providing the quality of fare, drink, and space that makes a coffeehouse clinger like myself content for the afternoon.
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
-
-**Four Corners Café** 862 San Pablo Avenue Albany, CA [Website](https://cafefourcorners.cm/) Coffee: $1.75–$4.35 Eats: $2.50–$11.50
 
 _Reviewed 4 June 2015._

@@ -1,8 +1,7 @@
 ---
-title: "Farm Burger"
+title: "Farm Burger *CLOSED*"
 date: "2015-04-22"
 categories:
-  - "berkeley-restaurant-review"
   - "restaurants"
 tags:
   - "berkeley"
@@ -30,6 +29,10 @@ tags:
 ---
 
 ![Farm_Burger_10](http://s3.amazonaws.com/thegourmez-wpmedia/2015/04/Farm_Burger_10-500x333.jpg)
+
+1313 9th Street\
+West Berkeley\
+[Website](http://eastbaydish.com/)
 
 Christina of [East Bay Dish](http://eastbaydish.com/) invited me out on this media lunch to try Farm Burger in Berkeley. **Obligatory disclaimer:** Our meal was comped. **Non-obligatory disclaimer**: Our eyes may have been bigger than our stomachs as we pretty much tried two or more items from every section of their menu.
 
@@ -98,9 +101,4 @@ So Farm Burger was a mixed bag for me. I really loved those collards and the pim
 Yet when it comes down to it, this is a burger joint, and do you need anything else but a burger and fries at one of those? Not in my experience, and Farm Burger delivers on those counts and on the count of using good practices to source their ingredients at relatively affordable prices. So if you're looking for a burger fix in the Gilman District neighborhood, you definitely have a place to go. And I look forward to someone telling me how wrong I am about the tasteworthiness of the chicken pot pie fritters…
 
 ![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
-
-**Farm Burger** 1313 9th Street West Berkeley [Website](http://eastbaydish.com/)
-
-[![Farm Burger on Urbanspoon](http://www.urbanspoon.com/b/link/1892594/minilink.gif)](http://www.urbanspoon.com/r/6/1892594/restaurant/Farm-Burger-Berkeley)
-
 _Reviewed 11 April 15._

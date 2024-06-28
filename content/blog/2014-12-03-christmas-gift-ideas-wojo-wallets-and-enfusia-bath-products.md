@@ -2,9 +2,8 @@
 title: "Christmas Gift Ideas: Wojo Wallets and Enfusia Bath Products"
 date: "2014-12-03"
 categories:
-  - "bath-product-review"
+  - "other-businesses"
   - "product-reviews"
-  - "travel-product-review"
 tags:
   - "all-natural"
   - "bath-bomb"
