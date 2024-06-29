@@ -2,8 +2,6 @@
 title: "2011 Green Fin Cabernet Sauvignon"
 date: "2013-03-08"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "2011"
@@ -21,7 +19,7 @@ tags:
   - "trader-joes"
 ---
 
-**2011 Green Fin Cabernet Sauvignon** California
+**Region:** California
 
 [![green fin cab](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/green-fin-cab.jpg)](http://www.thegourmez.com/2013/03/2011-green-fin-cabernet-sauvignon/green-fin-cab/)
 
@@ -31,7 +29,7 @@ Simple, pleasant, not memorable.
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [The Wino That I Know](http://thewinothatiknow.blogspot.com/2012/05/green-fin-cabernet-sauvignon.html)
 

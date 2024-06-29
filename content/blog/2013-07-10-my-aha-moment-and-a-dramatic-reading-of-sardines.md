@@ -3,7 +3,6 @@ title: "My Aha Moment and a dramatic reading of \"Sardines\""
 date: "2013-07-10"
 categories:
   - "announcements"
-  - "writing"
 tags:
   - "cannery-row"
   - "fourth-grade"
@@ -22,7 +21,7 @@ A few weeks back, I recorded my aha moment. How does one record an aha moment? F
 
 You can peruse all the videos and commericals they've produced at their website. I participated at their Raleigh, NC, stop and shared about my writing and the moment when I realized I was a writer for real...at the tender age of 9 (maybe 10). Watch my aha moment below!
 
-http://youtu.be/2pS2AxvwWFo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2pS2AxvwWFo?si=x2CUFqYI3wMP7B0X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I think it turned out pretty well! But what didn't make it onto the reel was my dramatic reading of the poem I composed that day in Monterey. I can still picture the light blue paper I was finally able to jot it down on once we returned to the hotel in the evening, but alas, I no longer have the sheet of paper. I do still have the poem, however. And here I am, reading it in all it's fourth-grade glory.
 

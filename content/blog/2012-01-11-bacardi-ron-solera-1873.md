@@ -36,7 +36,7 @@ It would serve best for adding great character to cocktails because of its light
 
  
 
-Other bloggers’ thoughts:
+**Other Bloggers’ Thoughts**
 
 [Rum Reviews](http://www.rumreviews.com/?rr=reviews&rums=102)
 

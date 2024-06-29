@@ -2,8 +2,10 @@
 title: "Day One Pop-Up Restaurant"
 date: "2013-05-27"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
+  - "bakeries"
+  - "food-trucks"
+  - "events"
 tags: 
   - "ari-berenbaum"
   - "bodega"

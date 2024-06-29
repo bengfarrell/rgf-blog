@@ -1,8 +1,7 @@
 ---
-title: "Brunch at City Beverage"
+title: "Brunch at City Beverage *CLOSED*"
 date: "2013-06-05"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "bloody-mary"
@@ -22,7 +21,11 @@ tags:
   - "woodcroft"
 ---
 
-**City Beverage** 4810 Hope Valley Road Woodcroft, Durham [Website](http://www.citybeverage-durham.com/) Brunch: $5 –$15 Sundays, 10:30 – 2:30
+4810 Hope Valley Road\
+Woodcroft, Durham\
+[Website](http://www.citybeverage-durham.com/)\
+Brunch: $5–$15\
+Sundays, 10:30–2:30
 
 _I first posted this review on [Carpe Durham](http://wp.me/px7rI-66g "Carpe Durham post") a few days ago._
 
@@ -55,7 +58,3 @@ Portions were large, which is always a plus. Brunch at City Beverage is a welcom
 [![](http://carpedurham.com/wp-content/uploads/2013/06/City_Beverage_Brunch06.jpg)](http://carpedurham.com/2013/06/03/brunch-at-city-beverage/city_beverage_brunch06/)
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
-
-[![City Beverage on Urbanspoon](http://www.urbanspoon.com/b/link/290568/minilink.gif)](http://www.urbanspoon.com/r/25/290568/restaurant/Hope-Valley/City-Beverage-Durham) _Reviewed 26 May 13._
-
-[![City Beverage on Foodio54](http://foodio54.com/images/badge-1-549d8.jpg)](http://foodio54.com/restaurant/Durham-NC/549d8/City-Beverage)

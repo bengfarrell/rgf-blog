@@ -2,8 +2,6 @@
 title: "Charlottesville Blogging: Brunch Downtown at Rapture"
 date: "2013-05-10"
 categories:
-  - "charlottesville-virginia-bar-reviews"
-  - "charlottesville-virginia-restaurant-reviews"
   - "restaurants"
   - "spirits"
 tags:
@@ -64,8 +62,5 @@ I can definitely recommend Rapture for brunch on the downtown mall. It was close
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-[![Rapture on Urbanspoon](http://www.urbanspoon.com/b/link/853285/minilink.gif)](http://www.urbanspoon.com/r/108/853285/restaurant/Rapture-Charlottesville)
-
-[![Rapture on Foodio54](http://foodio54.com/images/badge-1-760f7.jpg)](http://foodio54.com/restaurant/Charlottesville-VA/760f7/Rapture)
 
 _Reviewed 27 April 13._

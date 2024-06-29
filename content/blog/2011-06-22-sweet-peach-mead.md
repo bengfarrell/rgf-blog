@@ -17,7 +17,7 @@ It smells first of honey and then of peaches, and the honey comes back for an af
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 I think I’m still the only blogger fascinated with this Pittsboro-based winery. That won’t last for long as they get more and more well known.
 

@@ -23,7 +23,7 @@ The MGM 2010 pinot noir is simple and unassuming and I dig it.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Cheese N Truffles](http://cheesentruffles.com/?p=824)
 

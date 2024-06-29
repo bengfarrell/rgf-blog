@@ -2,7 +2,6 @@
 title: "Tweat-Up at An"
 date: "2013-07-03"
 categories:
-  - "cary-restaurant-reviews"
   - "events"
   - "restaurants"
 tags:
@@ -148,7 +147,5 @@ Most of the food we tried was elevated by the attention to detail they pay to la
 [![An_Tweatup_25](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/An_Tweatup_25-500x333.jpg)](http://www.thegourmez.com/2013/07/tweat-up-at-an/an_tweatup_25/)
 
 If you think that was an excuse to show off that picture, then you'd be right. In that photo is Johanna of [Durham Foodie](http://www.visitraleigh.com/), Allison of Green Olive Media who organized the event, Chana from [Raleigh What's Up!,](http://raleighwhatsup.blogspot.com/) and Leigh from [Hines Sight](http://www.hinessightblog.com/). Thank you, Allison, for introducing me to An's cuisine and giving me one more chance to hang out with the fantastic food-media members we have in the Triangle.
-
-[![An Cuisines on Urbanspoon](http://www.urbanspoon.com/b/link/290054/minilink.gif)](http://www.urbanspoon.com/r/25/290054/restaurant/An-Cuisines-Cary)
 
 _Reviewed 19 June 13._

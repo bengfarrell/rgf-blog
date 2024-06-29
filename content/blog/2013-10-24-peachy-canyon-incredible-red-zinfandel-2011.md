@@ -2,8 +2,7 @@
 title: "Peachy Canyon Incredible Red Zinfandel 2011"
 date: "2013-10-24"
 categories: 
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2011"
   - "cedar"
@@ -18,7 +17,7 @@ tags:
   - "the-wine-cask-blog"
 ---
 
-**Peachy Canyon Incredible Red Zinfandel 2011** Paso Robles, CA
+**Region:** Paso Robles, CA
 
 [![peachy canyon](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/peachy-canyon.jpg)](http://www.thegourmez.com/2013/10/peachy-canyon-incredible-red-zinfandel-2011/peachy-canyon/)
 
@@ -28,7 +27,7 @@ The berry is much fuller on drinking: plum and raspberry with a lollipop afterta
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [Now and Zin](http://www.nowandzin.com/2013/07/peachy-canyon-incredible-red-zinfandel.html) on the 2010
 

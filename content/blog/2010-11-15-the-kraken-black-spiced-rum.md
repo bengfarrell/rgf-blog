@@ -33,7 +33,7 @@ In my opinion, there’s too much alcohol bite for sipping, but it may make a gr
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 3 stars</div>
 
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [drinkhacker](http://www.drinkhacker.com/2009/11/03/review-the-kraken-black-spiced-rum/)
 

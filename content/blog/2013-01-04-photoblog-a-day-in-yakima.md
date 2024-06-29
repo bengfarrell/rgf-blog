@@ -2,11 +2,9 @@
 title: "A Day in Yakima"
 date: "2013-01-04"
 categories:
-  - "coffee-shop"
-  - "coffee-shops-in-yakima-wa"
-  - "dining-in-yakima-wa"
+  - "coffee-shops"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "ahoy-fish-and-chips"
   - "akin-center"
@@ -78,8 +76,6 @@ Coffee was pretty decent for a strip mall location, and my chorizo omelet was de
 [![IMG_7794smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7794smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7794smallfb/)
 
 The egg was not too thick or thin and the chorizo was wonderfully spicy. Ask for the deep-fried jalapeno to go with it and you’ll get more greasy heat that’ll make you happy. My accompanying tortillas weren’t housemade, but they were warm and serviceable.
-
-[![Backwoods Country Fare Cafe on Urbanspoon](http://www.urbanspoon.com/b/link/1341242/minilink.gif)](http://www.urbanspoon.com/r/333/1341242/restaurant/Backwoods-Country-Fare-Cafe-Yakima)
 
 Spend your time recovering from breakfast by meandering around the **Pioneer Graveyard** (East end of Ahtanum Road).
 
@@ -173,9 +169,6 @@ It’s one of the few coffeehouses in the area that aren’t Starbucks and that 
 <div class="caption">
 
 [![Inside Northtown.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7784smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7784smallfb/) Inside Northtown.</div>
-
-
-[![Northtown Coffeehouse on Urbanspoon](http://www.urbanspoon.com/b/link/1643150/minilink.gif)](http://www.urbanspoon.com/r/333/1643150/restaurant/Yakima/Northtown-Coffeehouse-Selah)
 
 Now if the weather is good, I would definitely recommend getting some exercise among the [Yakima Greenway’s](http://yakimagreenway.org/) many riverfront trails.
 
@@ -276,10 +269,6 @@ It was all fried well, though I prefer more seasoning in my batter.
 [![IMG_7432smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7432smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7432smallfb/)
 
 The fish was nice and flakey, and the coleslaw had a good tang to it.
-
-[![Ahoy Fish & Chips on Urbanspoon](http://www.urbanspoon.com/b/link/1584886/minilink.gif)](http://www.urbanspoon.com/r/333/1584886/restaurant/Ahoy-Fish-Chips-Yakima)
-
-[![Ahoy Fish and Chips on Foodio54](http://foodio54.com/images/badge-1-10eede.jpg)](http://foodio54.com/restaurant/Yakima-WA/10eede/Ahoy-Fish-and-Chips)
 
 For the evening, the [Capitol Theater](http://www.capitoltheatre.org/sts.cfm) is the spot you want if touring Broadway shows are your style. We also went to a smaller theater called the [Akin Center](http://www.akintheatre.com/) that was great! It’s where you want to go if you want the homegrown stars and less glitz at a much cheaper price. I’m sure both give great shows.
 

@@ -2,8 +2,6 @@
 title: "2010 Fetzer Crimson Winemaker's Favorite Red Wine Blend"
 date: "2013-11-19"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "2010"
@@ -22,7 +20,7 @@ tags:
   - "vintage"
 ---
 
-2010 Fetzer Crimson Winemaker's Favorite Red Wine Blend Mendocino County, CA
+**Region:** Mendocino County, CA
 
 [![fetzer_crimson](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/fetzer_crimson.jpg)](http://www.thegourmez.com/2013/11/2010-fetzer-crimson-winemakers-favorite-red-wine-blend/fetzer_crimson/)
 
@@ -34,7 +32,7 @@ I could drink this wine all night. In fact, I probably will.
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.thegourmez.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [Simple Vines](http://simplevines.com/2013/09/26/fetzer-crimson/) (I think we disagreed)
 

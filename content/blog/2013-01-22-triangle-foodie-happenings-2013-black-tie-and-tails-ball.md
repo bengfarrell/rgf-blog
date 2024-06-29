@@ -2,7 +2,7 @@
 title: "Triangle Foodie Happenings: 2013 Black Tie and Tails Ball"
 date: "2013-01-22"
 categories:
-  - "events"
+  - "announcements"
 tags:
   - "auction"
   - "ball"

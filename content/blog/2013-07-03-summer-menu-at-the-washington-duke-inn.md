@@ -2,8 +2,8 @@
 title: "Summer Menu at the Washington Duke Inn"
 date: "2013-07-03"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
+  - "events"
 tags:
   - "american-red-snapper"
   - "blackberry-shortcake"

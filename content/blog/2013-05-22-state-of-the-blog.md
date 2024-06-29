@@ -4,7 +4,6 @@ date: "2013-05-22"
 categories:
   - "announcements"
   - "wine"
-  - "writing"
 tags:
   - "announcement"
   - "boardwalk"

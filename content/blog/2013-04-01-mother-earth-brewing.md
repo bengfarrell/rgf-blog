@@ -3,8 +3,8 @@ title: "Kinston, NC, Blogging: Mother Earth Brewing"
 date: "2013-04-01"
 categories:
   - "breweries"
-  - "breweries-in-kinston-nc"
-  - "travel-guide"
+  - "travel-guides"
+  - "beer"
 tags:
   - "beer"
   - "brewery"
@@ -55,7 +55,5 @@ Doesn't it look pretty with the blue lighting? And that is a lot of beer to try!
 The Berlack Imperial Schwartz is lighter in body than a Guinness, making for easier drinking for this beer lightweight. It still has that bitterness and warmth I like in stouts along with earthy coffee notes, so I'd choose it over Guinness anytime.
 
 We didn't take a tour, but those happen on the hour from 9 – 4 pm Tues – Fri and 12 – 7 pm Sat. Taproom hours are 4 – 10 Weds – Fri and 1 – 6 Sat.
-
-[![Mother Earth Brewing tap room on Urbanspoon](http://www.urbanspoon.com/b/link/1524293/minilink.gif)](http://www.urbanspoon.com/r/157/1524293/restaurant/Greenville/Mother-Earth-Brewing-tap-room-Kinston)
 
 My third blog on things to do in Kinston will focus on our dinner at the Chef & the Farmer. Spoiler alert! It lives up to the hype.

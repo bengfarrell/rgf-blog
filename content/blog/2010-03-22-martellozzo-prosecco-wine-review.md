@@ -27,7 +27,7 @@ Okay, you came to read about the wine, not my crisis of gourmet progression. The
 
 ![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [The Wineauxs](http://thewineauxs.blogspot.com/2010/01/nv-martellozzo-veneto-prosecco.html)
 

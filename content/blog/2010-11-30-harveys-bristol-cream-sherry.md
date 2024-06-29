@@ -28,7 +28,7 @@ It’s not a tawny, thankfully. Tawny’s are so not my thing. It’s the color 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 3 stars</div>
 
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 I could only find one entry that I’d consider a review. The Google pages are full of reflections on holidays of yore with a glass of Harveys Bristol Cream in hand, recipes that call for it, or people rolling their eyes at it, but nary a thought on how it actually tastes could I find but this one.
 

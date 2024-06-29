@@ -33,7 +33,7 @@ It’s a pretty tasty white wine. Don’t be afraid of nonsensical labeling; giv
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Jason’s Wine Blog](http://jasonswineblog.com/2012/02/20/2010-comique-revolution-blanc/)
 

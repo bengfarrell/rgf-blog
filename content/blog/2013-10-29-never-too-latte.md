@@ -2,8 +2,7 @@
 title: "Never Too Latté"
 date: "2013-10-29"
 categories: 
-  - "coffee-shop"
-  - "san-bruno-coffee-shop-review"
+  - "coffee-shops"
 tags: 
   - "bay-area"
   - "california-club"
@@ -23,6 +22,12 @@ tags:
 ---
 
 [![Never_Too_Latte_02](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/Never_Too_Latte_02.jpg)](http://www.thegourmez.com/2013/10/never-too-latte/never_too_latte_02/)
+
+486 San Mateo Avenue\
+The Avenue, San Bruno\
+Food: $2–$6\
+Coffee Drinks: $1.5–$4\
+[Website](http://www.nevertoolatte.net/)
 
 This coffee shop has been well loved as the worn, comfy couches show. I consider that a plus in a coffee shop. Outlets abound, and except for a small lunch rush, it was pretty quiet over the couple of hours a friend and I spent there. The bakery case was only a third full at best, but the desserts inside looked quite appealing. However, we wanted lunch, which is a mix of sandwiches and crepes with mundane fillings. More importantly, we wanted to try their specialty espresso drinks. Yelp informed me that mighty fine latté art is available if you ask. So I did, and the barista sadly informed me that it's not available for what I wanted due to the consistency of the mocha.
 
@@ -45,9 +50,5 @@ If you're looking for a perfectly crisped French crepe, these aren't them. But i
 Never Too Latté's espresso drinks are worth spending an afternoon in the coffee shop, and I have a feeling the desserts are also remarkable. The food is run-of-the-mill but still a good option. Next time I'm in the area, I will definitely try a red velvet latté—it's another highly recommended drink and I have a feeling it'll show off the foam artwork the best.
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
-
-**Never Too Latté** 486 San Mateo Avenue The Avenue, San Bruno Food: $2–$6 Coffee Drinks: $1.5–$4 [Website](http://www.nevertoolatte.net/)
-
-[![Never Too Latte on Urbanspoon](http://www.urbanspoon.com/b/link/88091/minilink.gif)](http://www.urbanspoon.com/r/6/88091/restaurant/Never-Too-Latte-San-Bruno)
 
 _Reviewed 8 October 13._

@@ -26,7 +26,7 @@ It’s an interesting chianti, but not mature enough, I think.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)
 
-Other bloggers’ thoughts:
+**Other Bloggers’ Thoughts**
 
 [Anna Uncorked](http://www.annauncorked.com/2010/05/gaetano-daquino-chianti-docg-08-499.html), unknown vintage
 

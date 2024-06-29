@@ -31,7 +31,7 @@ I enjoy it. It’s simple but lusher than you’d expect from a light-bodied cha
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)</div>
 
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 Couldn’t find any!
 

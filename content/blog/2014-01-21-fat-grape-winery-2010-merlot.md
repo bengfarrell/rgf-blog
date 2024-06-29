@@ -34,7 +34,7 @@ My food blogger pretensions tell me I shouldn't enjoy this sulfate-free, slap-ha
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.thegourmez.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 Can't find any! There are mentions of the wineries but no specific views on the wines. Hopefully, I can entice other bloggers to share their thoughts on Fat Grape.
 

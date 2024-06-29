@@ -3,7 +3,8 @@ title: "Kahlua Midnight"
 date: "2013-05-03"
 categories:
   - "recipes"
-  - "liqueur-reviews"
+  - "spirits"
+  - "cocktails"
 tags:
   - "almond"
   - "black-coffee-liqueur"
@@ -21,7 +22,9 @@ tags:
   - "simple-cocktails"
 ---
 
-**Kahlua Midnight** Mexico 35% ABV
+**Region:**\
+Mexico\
+35% ABV
 
 [![Kahlua_Midnight_01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/Kahlua_Midnight_01.jpg)](http://www.thegourmez.com/2013/05/kahlua-midnight/kahlua_midnight_01/)
 
@@ -43,7 +46,11 @@ I think this liqueur is pleasing on its own, but I couldn't help but imagine it 
 [![Note, I had no orange, so no zest.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/Kahlua_Midnight_03.jpg)](http://www.thegourmez.com/2013/05/kahlua-midnight/kahlua_midnight_03/) _Note, I had no orange, so no slice._</div>
 
 
-**Café D'olla on a Bender** 1.5 shots Kahlua Midnight 0.5 shots RumChata 0.5 shots Grand Marnier Orange slice
+**Café D'olla on a Bender**\
+1.5 shots Kahlua Midnight\
+0.5 shots RumChata\
+0.5 shots Grand Marnier\
+Orange slice
 
 Shake that alcohol up, serve it over crushed ice, and garnish with the orange slice. It's a treat!
 
@@ -51,7 +58,7 @@ In both sipping and as a cocktail, Kahlua Midnight does well, preserving a clean
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.thegourmez.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [Drink Hacker](http://www.drinkhacker.com/2012/10/31/review-kahlua-midnight-liqueur/)
 

@@ -2,7 +2,6 @@
 title: "Weathervane"
 date: "2013-01-28"
 categories: 
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "bread-pudding"
@@ -30,7 +29,10 @@ tags:
   - "weathervane"
 ---
 
-**Weathervane** 201 S. Estes Drive University Mall, Chapel Hill [Website](http://www.southernseason.com/weathervane/) $11–$38
+201 S. Estes Drive\
+University Mall, Chapel Hill, NC\
+[Website](http://www.southernseason.com/weathervane/)\
+$11–$38
 
 [![Weathervane 11](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/Weathervane-11.jpg)](http://www.thegourmez.com/2013/01/weathervane/weathervane-11/)
 
@@ -97,9 +99,5 @@ I had a bite of that one, and the fritters' texture was fantastic, somehow tasti
 As you can tell, Weathervane serves satiating, earthy fare. Any one dish had enough food and flavor to be filling on its own, so it actually may not be the best choice if you want to make it out without gaining several pounds. But the food was great even when it wasn't quite what we expected. I would definitely recommend the current menu for a cold winter's evening, and I would imagine the menu lightens up some when the season changes.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
-
-[![Weathervane Restaurant on Urbanspoon](http://www.urbanspoon.com/b/link/292395/minilink.gif)](http://www.urbanspoon.com/r/25/292395/restaurant/Weathervane-Restaurant-Chapel-Hill)
-
-[![Weathervane on Foodio54](http://foodio54.com/images/badge-1-e5ffc.jpg)](http://foodio54.com/restaurant/Chapel-Hill-NC/e5ffc/Weathervane)
 
 _16 Jan 2013._

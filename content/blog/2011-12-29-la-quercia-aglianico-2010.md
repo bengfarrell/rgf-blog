@@ -16,7 +16,7 @@ I think it’s fantastic. Give it a try.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 Lots of bloggers have thoughts on their montepulciano d’abruzzo but the aglianico has been neglected.
 

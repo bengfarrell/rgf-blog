@@ -2,8 +2,6 @@
 title: "Edna Valley Vineyard 2011 Merlot"
 date: "2013-11-29"
 categories: 
-  - "merlot"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "2011"
@@ -21,7 +19,7 @@ tags:
   - "vintage"
 ---
 
-**Edna Valley Vineyard 2011 Merlot** Central Coast, CA
+**Region:** Central Coast, CA
 
 [![Edna_Valley](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/Edna_Valley.jpg)](http://www.thegourmez.com/2013/11/edna-valley-vineyard-2011-merlot/edna_valley/)
 
@@ -31,7 +29,7 @@ You can sink your teeth into this wine. It's fun to drink but not necessarily wo
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/) 
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [Kristen's Wine Blog](http://kewitte-wine.blogspot.com/2012/03/tasting-edna-valley-vineyard-merlot.html) on the 2009
 

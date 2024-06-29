@@ -2,7 +2,7 @@
 title: "Tourist Musts for the Outer Banks"
 date: "2013-12-10"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "beaches"
   - "bodie-island-lighthouse"
@@ -47,7 +47,7 @@ tags:
 
 Last July, I spent the weekend in the Outer Banks for only the second time in the eight years I lived in North Carolina. My first trip was camping on Ocracoke, the most remote of the islands, so I had never done the typical tourist activities in the more accessible areas, and I wanted to hit them up before we moved. Luckily, friends Laura and Ellen came to the rescue! In one whirlwind weekend, we covered each of these must-sees of the Outer Banks.
 
-**1\. Jockey's Ridge State Park**
+## 1\. Jockey's Ridge State Park
 
 
 
@@ -87,7 +87,7 @@ Jockey's Ridge is the largest sand dune formation on the East Coast. Not to brag
 [![Exiting through the same path many have walked before.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_044-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_044/) Exiting through the same path many have walked before.</div>
 
 
-**2\. Cape Hatteras Lighthouse**
+## 2\. Cape Hatteras Lighthouse
 
 [![2013_Outer_Banks_095](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_095-332x500.jpg)](http://www.outerbankslighthousesociety.org/lighthshouses/lighthouse-hatteras-info.html)
 
@@ -109,7 +109,7 @@ Take a few photos then look up to find the lighthouse in view. Then walk on over
 
 You can climb up all 208 feet of the tower for a fee, but we passed on that opportunity. It was a hot and humid day, and there were more sights to see!
 
-**3\. Wright Brothers National Memorial and Museum**
+## 3\. Wright Brothers National Memorial and Museum
 
 
 
@@ -155,7 +155,7 @@ There is more to this park than a scenic view, of course. Spending the minimal f
 
 You can even explore the park at your leisure because the $4 buys you access for multiple days.
 
-**#4 Roanoke Island Festival Park**
+## #4 Roanoke Island Festival Park
 
 Roanoke Island is where the first English colony was founded in the United States. That colony disappeared without a trace three years later, thus earning it the name _the Lost Colony._  [The Festival Park](http://roanokeisland.com/) celebrates that colony's history through several different recreations, including an American Indian village, a settlement village, and a 16th-century longship. Additionally, the site hosts multiple museum exhibits and a waterfront pavilion.
 
@@ -209,7 +209,7 @@ Roanoke Island is where the first English colony was founded in the United State
 
 $10 isn't a steep price for the attraction, but I must admit, I found visiting the free, open grounds of Fort Raleigh just as interesting as I did exploring these recreations. That is next on the list!
 
-**#5 Fort Raleigh and the Lost Colony Musical**
+## #5 Fort Raleigh and the Lost Colony Musical
 
 My primary motivation for this Outer Banks trip was to see _the Lost Colony_ musical that shows every summer at the Waterside Theater on the [Fort Raleigh grounds](http://www.nps.gov/fora/index.htm) on Roanoke Island.
 
@@ -241,7 +241,7 @@ Other than finding the material dated, and what material wouldn't be after 75 ye
 
 If you go during park hours, you can also learn about the history of Roanoke's Freedman's Colony and the early experiments with radio that took place in the same location.
 
-**#6 Manteo Waterfront**
+## #6 Manteo Waterfront
 
 Finally, spending some time at the Manteo waterfront and its cute shopping village is a must for tourists at the Outer Banks.  Stroll around the area, and your eyes will find plenty to feast upon, whether actual food—
 

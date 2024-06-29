@@ -2,9 +2,6 @@
 title: "Goats in Villages Shiraz Pinotage"
 date: "2013-10-15"
 categories: 
-  - "pinotage"
-  - "red-wine-review"
-  - "shiraz"
   - "wine"
 tags: 
   - "blackberry"
@@ -21,11 +18,13 @@ tags:
   - "trader-joes"
 ---
 
-[**Goats in Villages Shiraz Pinotage** South Africa Note: No vintage I could see.](http://www.thegourmez.com/2013/10/goats-in-villages-shiraz-pinotage/goats-in-villages/)
+**Region:** South Africa\
+Nonvintage\
+<a href="http://www.thegourmez.com/2013/10/goats-in-villages-shiraz-pinotage/goats-in-villages">Website</a>
 
 [![goats in villages](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/goats-in-villages.jpg)](http://www.thegourmez.com/2013/10/goats-in-villages-shiraz-pinotage/goats-in-villages/)
 
-The artwork on this bottle of wine and the playfulness of the distributor's name — Goats Do Roam — charm me. For Trader Joe's, this is a high-end bottle at $9.99. Smells like blackberry gumdrops with a hint of licorice.
+The artwork on this bottle of wine and the playfulness of the distributor's name—Goats Do Roam—charm me. For Trader Joe's, this is a high-end bottle at $9.99. Smells like blackberry gumdrops with a hint of licorice.
 
 I haven't drunk wine this pleasant in a while — we've mostly been on a $5 wine budget until our North Carolina house sells (6 days, knock on wood!). It has a bit too much alcohol heat for me, but my cheeks are tickled by the pleasant peppery mouthfeel, and I'm enjoying a note of beef. Which means drinking this wine is similar to dining on a peppered rib eye. Vanilla, custard, and blackberry layer into those savory notes very well. Ending impressions are dry eucalyptus with an attractive touch of bitterness.
 
@@ -33,7 +32,7 @@ This is a great value. Let it seduce you for all 10 of those dollars.
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.thegourmez.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [Sourmashed (no vintage noted):](sourmashed.com/2012/04/review-goats-in-villages-shiraz-pinotage/)
 

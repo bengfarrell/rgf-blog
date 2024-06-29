@@ -2,7 +2,6 @@
 title: "East Coast Chinese Food Express"
 date: "2013-02-13"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "beef"
@@ -22,7 +21,13 @@ tags:
   - "traditional"
 ---
 
-**East Coast Chinese Food Express** 202 NC Hwy 54 Inside the Kroger, South Durham [Website](http://www.eastcoastchinesefoodexpress.com/) Open Mondays-Saturdays 11 am to 3 pm, 4 pm to 10 pm $7 -–$12 [![](http://carpedurham.com/wp-content/uploads/2013/02/East-Coast-Express-00.jpg)](http://carpedurham.com/?attachment_id=23094)
+202 NC Hwy 54\
+Inside the Kroger, South Durham, NC\
+[Website](http://www.eastcoastchinesefoodexpress.com/)\ 
+Open Mondays–Saturdays 11 am to 3 pm, 4 pm to 10 pm\
+$7–$12\
+
+[![](http://carpedurham.com/wp-content/uploads/2013/02/East-Coast-Express-00.jpg)](http://carpedurham.com/?attachment_id=23094)
 
 I've heard many good things about East Coast Chinese Food Express. They’ve been located inside the Kroger by the Highway 54 and Fayetteville intersection for quite some time. It’s a small café, mainly for to-go orders, but there are a few tables if you want to sit and eat in the grocery store. Everyone else ordering was a regular and on friendly terms with the owner at the register. Food is cooked to order, so it’ll take 10 to 20 minutes depending on how crowded it is. There are menus everywhere, so figuring out your options can seem a tad overwhelming. Make sure you take a look at them in addition to the printed English menu.
 
@@ -53,9 +58,5 @@ The rice vermicelli was cooked perfectly, and the beef was good. Shredded cabbag
 I’m bummed I didn’t notice the chicken-stuffed tofu skins until after I ordered. The Americanized options didn’t blow me away except for those spare ribs, but they were a lot better than my other nearby Chinese spots. What have people tried off the Chinese menu? I hear the eggplant is delicious, but that wasn't on the American menu, either, so I'll ask for a recommendation with it next time.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
-
-[![East Coast Chinese Food Exp on Urbanspoon](http://www.urbanspoon.com/b/link/290742/minilink.gif)](http://www.urbanspoon.com/r/25/290742/restaurant/South-Durham/East-Coast-Chinese-Food-Exp-Durham)
-
-[![East Coast Chinese Food Express on Foodio54](http://foodio54.com/images/badge-1-b3043.jpg)](http://foodio54.com/restaurant/Durham-NC/b3043/East-Coast-Chinese-Food-Express)
 
 _Reviewed 9 February 13._

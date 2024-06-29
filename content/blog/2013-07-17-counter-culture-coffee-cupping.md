@@ -2,10 +2,9 @@
 title: "Counter Culture Coffee Cupping"
 date: "2013-07-17"
 categories:
-  - "coffee-shop"
-  - "durham-coffee-shop-reviews"
+  - "coffee-shops"
   - "events"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "break"
   - "brightness"
@@ -26,9 +25,12 @@ tags:
   - "training-facility"
 ---
 
-Counter Culture Coffee 4911 South Alston Avenue Research Triangle Park [Website](http://counterculturecoffee.com/education/coffee-cupping) Free!
+4911 South Alston Avenue\
+Research Triangle Park, NC\
+<a href="http://counterculturecoffee.com/education/coffee-cupping\">Website</a>
+Free!
 
-Durham has several notable coffee roasters--[Joe Van Gogh](http://www.joevangogh.com/) and [Bean Traders](http://www.beantraderscoffee.com/) make my list--but none have as large a profile and the nationwide distribution that Counter Culture does. The company is headquartered here and Durham hosts one of their several training facilities. Counter Culture has a tradition at all their training centers: at 10:00 am every Friday, they hold a coffee cupping. If you're unfamiliar with that term, a coffee cupping is a method of tasting and evaluating coffee, much like a wine tasting.
+Durham has several notable coffee roasters--[Joe Van Gogh](http://www.joevangogh.com/) and [Bean Traders](http://www.beantraderscoffee.com/) make my list—but none have as large a profile and the nationwide distribution that Counter Culture does. The company is headquartered here and Durham hosts one of their several training facilities. Counter Culture has a tradition at all their training centers: at 10:00 am every Friday, they hold a coffee cupping. If you're unfamiliar with that term, a coffee cupping is a method of tasting and evaluating coffee, much like a wine tasting.
 
 Making Counter Culture's coffee cupping has long been on my list of "musts" for Durham, and I finally made it last week with the threat of my move in a month serving as motivation. Arrive a little early—the cupping begins promptly and parking can go fast in their lot. There were roughly thirty people this morning, which is more than most but each week is different.
 

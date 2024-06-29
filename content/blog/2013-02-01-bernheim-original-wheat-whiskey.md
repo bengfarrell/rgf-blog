@@ -2,9 +2,7 @@
 title: "Bernheim Original Wheat Whiskey"
 date: "2013-02-01"
 categories:
-  - "bourbon"
   - "spirits"
-  - "whiskey-whisky-review"
 tags:
   - "bernheim"
   - "honey"
@@ -20,7 +18,8 @@ tags:
   - "winter-wheat"
 ---
 
-**Bernheim Original Wheat Whiskey** Kentucky 45% ABV
+**Region:** Kentucky\
+45% ABV
 
 [![Bernheim](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/Bernheim.jpg)](http://www.rebeccagomezfarrell.com/2013/02/bernheim-original-wheat-whiskey/bernheim/)
 
@@ -32,7 +31,7 @@ I don’t want to mislead you with candy comparisons; this is a strong whiskey. 
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.rebeccagomezfarrell.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
 
-Other bloggers’ thoughts:
+**Other Bloggers’ Thoughts**
 
 [Robert's Whiskey Review](http://wowbobwow32.com/2013/01/02/bernheim-wheat-whiskey/)
 

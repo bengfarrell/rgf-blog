@@ -23,7 +23,7 @@ Those layers are vanilla, aloe, Meyer lemon, peppery heat from the alcohol, flee
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)
 
-Other Bloggers’ thoughts:
+**Other Bloggers’ Thoughts**
 
 [Cocktail Enthusiast](http://cocktailenthusiast.com/2011/01/13/tres-generaciones-plata-tequila-review/)
 

@@ -32,7 +32,7 @@ The nose is very creamy, and the coloring’s light yellow like a chardonnay or 
 
 [![rating_truffle1.gif](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)
 
-**Other Bloggers’ Thoughts:**
+**Other Bloggers’ Thoughts**
 
 [Passionate Foodie](http://passionatefoodie.blogspot.com/2012/06/sipping-sake-recommendations-reviews.html)
 

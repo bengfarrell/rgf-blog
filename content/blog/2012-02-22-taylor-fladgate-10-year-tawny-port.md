@@ -29,7 +29,7 @@ Other than the potential tamarind note, it was . . . typical. Because I enjoy po
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Wine Peeps](http://winepeeps.com/2012/01/25/challenging-wine-pairing-german-chocolate-pie/):
 

@@ -30,7 +30,7 @@ At last drop, it’s too heavy to make me revel in the blend’s smoothness. The
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Bob’s Brew and Liquor Reviews](http://www.bobsbrewandliquorreviews.com/2012/11/primal-roots-red-blend.html)
 

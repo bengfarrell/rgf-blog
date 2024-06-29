@@ -2,7 +2,6 @@
 title: "Plaza Café"
 date: "2013-01-02"
 categories: 
-  - "raleigh-restaurant-reviews"
   - "restaurants"
 tags: 
   - "breakfast"
@@ -17,7 +16,9 @@ tags:
   - "to-go"
 ---
 
-**Plaza Café** 411 Fayetteville Street Downtown Raleigh $4-8 Breakfast, Lunch
+411 Fayetteville Street\
+Downtown Raleigh, NC\
+$4–8: Breakfast, Lunch
 
 [![IMG_8500](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/IMG_8500.jpg)](http://www.thegourmez.com/2013/01/plaza-cafe/img_8500/)
 
@@ -44,5 +45,3 @@ I’m wary of a place that offers chicken wings as their daily special, and the 
 [![rating_olive1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)](http://www.thegourmez.com/2009/04/cocktail-review-the-shiki-tini/rating_olive1/)
 
 _Reviewed 16 Nov 12._
-
-[![Plaza Cafe on Urbanspoon](http://www.urbanspoon.com/b/link/1723002/minilink.gif)](http://www.urbanspoon.com/r/25/1723002/restaurant/Inside-the-Beltline/Plaza-Cafe-Raleigh)

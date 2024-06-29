@@ -2,12 +2,11 @@
 title: "Bloggers' Night at TOPO Distillery"
 date: "2013-06-26"
 categories:
-  - "distillery"
+  - "distilleries"
   - "events"
   - "gin-reviews"
-  - "travel-product-review"
-  - "vodka"
-  - "whiskey-whisky-review"
+  - "spirits"
+  - "cocktails"
 tags:
   - "aged-whiskey"
   - "angels-share"
@@ -229,7 +228,3 @@ We used a side-by-side comparison for the white whiskey as well, using a top she
 [![TOPO_tour_45](http://s3.amazonaws.com/thegourmez-wpmedia/2013/06/TOPO_tour_45-500x429.jpg)](http://www.thegourmez.com/2013/06/bloggers-night-at-topo-distillery/topo_tour_45/)
 
 The evening was a lot of fun, as any evening with this crew of food blogging friends tends to be. I had the pleasure of meeting both [Tarheel Eater](http://tarheeleater.com/) and Sarah Cooks the Book for the first time, and they were both lovely. Tarheel Eater's +1 had the best reactions to tasting the spirits, keeping me entertained. And Esteban and Scott were fantastic hosts. I honestly believe the tour and tasting is worth the normal $10 charge, which was waived for us this evening (Did you just see an obligatory disclaimer? I did!). I'm mostly excited to add some of TOPO's spirits to my alcohol cabinet! It's sold at ABC stores in the Triangle, mixed up at several local bars and restaurants, and hopefully will get wider distribution soon.  For more pictures from the event, [click here](https://www.facebook.com/media/set/?set=a.10151501404769607.1073741840.567409606&type=1&l=2c7245f215 "TOPO Album").
-
-Normal 0 false false false EN-US X-NONE X-NONE
-
-/\* Style Definitions \*/ table.MsoNormalTable {mso-style-name:"Table Normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-priority:99; mso-style-parent:""; mso-padding-alt:0in 5.4pt 0in 5.4pt; mso-para-margin-top:0in; mso-para-margin-right:0in; mso-para-margin-bottom:10.0pt; mso-para-margin-left:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri","sans-serif"; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin;}

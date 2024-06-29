@@ -21,7 +21,7 @@ tags:
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Cheap Wine Finder](http://www.cheapwinefinder.com/2011/04/2009-terrenal-tempranillo-garnacha/)
 

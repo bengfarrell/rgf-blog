@@ -33,7 +33,7 @@ My rating:
 [![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 3/5</div>
 
 
-## **Other Bloggers’ Thoughts:**
+**Other Bloggers’ Thoughts**
 
 [Cliff’s Wine Picks](https://cliffswinepicks.com/2017/01/20/cliffs-wine-picks-seriously-pink-rose-wines-of-provence/)
 

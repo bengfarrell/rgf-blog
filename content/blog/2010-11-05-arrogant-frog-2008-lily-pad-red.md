@@ -31,7 +31,7 @@ There’s not much going on in this wine, but it’s pleasant.
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)</div>
 
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [More than Merlot](http://www.morethanmerlot.com/2009/11/arrogant-frog-promotion/)
 

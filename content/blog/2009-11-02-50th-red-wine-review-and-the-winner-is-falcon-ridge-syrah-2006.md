@@ -24,7 +24,7 @@ Wine: **Falcon Ridge Syrah 2006** Region: Central Coast, CA
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.rebeccagomezfarrell.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
 
-**Other Bloggers’ Thoughts:**
+**Other Bloggers’ Thoughts**
 
 @ [Great Value Wines](http://greatvaluewines.blogspot.com/2008/05/falcon-ridge-syrah.html)
 

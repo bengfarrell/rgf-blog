@@ -30,7 +30,7 @@ This is a NakedWines.Com wine, which means you can only get it through their web
 
 [![Chicken the Gourmez Rating 3/5 Average](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-## **Other Bloggers’ Thoughts:**
+**Other Bloggers’ Thoughts**
 
 [My Kings Court](http://mykingscourt.com/tag/white-wine/) on the 2013
 

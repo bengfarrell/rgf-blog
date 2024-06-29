@@ -26,7 +26,7 @@ Does this succeed as a wine? No. It’s more of a blackberry cordial. But it’s
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Chow Bella](http://blogs.phoenixnewtimes.com/bella/2010/12/wild_vines_blackberry_merlot.php)
 

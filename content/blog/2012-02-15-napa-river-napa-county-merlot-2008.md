@@ -31,7 +31,7 @@ This is definitely a merlot worth trying. I may just keep a few around.
 
  
 
-Other Bloggers Thoughts:
+**Other Bloggers' Thoughts:**
 
 [Cheap Wine Finder](http://www.cheapwinefinder.com/2011/02/2007-napa-river-napa-county-merlot/) on the 2007 vintage
 

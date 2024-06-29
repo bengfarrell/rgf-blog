@@ -2,8 +2,7 @@
 title: "Borsao 2011 Grenache"
 date: "2013-01-23"
 categories: 
-  - "garnacha"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2011"
   - "blueberry"
@@ -19,7 +18,7 @@ tags:
   - "vintage"
 ---
 
-**Borsao 2011 Grenache** Borja, Spain
+**Region:** Borja, Spain
 
  
 
@@ -31,7 +30,7 @@ For now, this is a wine to bypass. Aging has the potential to mellow all those s
 
 [![rating_mushroom1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_mushroom1.gif)](http://www.thegourmez.com/2009/04/restaurant-review-dickeys-barbecue-pit-durham/rating_mushroom1/)
 
-**Other bloggers’ thoughts:**
+**Other Bloggers’ Thoughts**
 
 There aren’t any, though I stumbled across a few reviews of the 2009 vintage. Mainly, I learned that the same winery has a higher end version of this wine called Tres Picos that has picked up a lot of acclaim and awards. Needless to say, I don’t think the value version holds up. I am curious what I’d think about that Tres Picos, however.
 

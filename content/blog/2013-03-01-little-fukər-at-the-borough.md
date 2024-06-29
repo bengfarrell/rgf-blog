@@ -3,8 +3,7 @@ title: "Little Fŭk’ər at the Borough"
 date: "2013-03-01"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
-  - "bourbon"
+  - "cocktails"
 tags: 
   - "alcohol"
   - "butterscotch-schnapps"
@@ -20,7 +19,9 @@ tags:
   - "the-borough"
 ---
 
-**Little Fŭk’ər** [The Borough](http://theboroughraleigh.com/) Downtown Raleigh $6.50
+**[The Borough](http://theboroughraleigh.com/)**\
+Downtown Raleigh, NC\
+$6.50
 
 [![borough lil fcker](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/borough-lil-fcker.jpg)](http://www.thegourmez.com/2013/03/little-fuk%c9%99r-at-the-borough/borough-lil-fcker/)
 
@@ -31,5 +32,3 @@ This is a nicely blended drink; all the ingredients melt into each other beautif
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
 _Reviewed 26 Jan 13._
-
-[![The Borough on Urbanspoon](http://www.urbanspoon.com/b/link/290270/minilink.gif)](http://www.urbanspoon.com/r/25/290270/restaurant/Inside-the-Beltline/The-Borough-Raleigh)

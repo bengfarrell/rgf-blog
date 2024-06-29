@@ -2,7 +2,6 @@
 title: "Prix Fixe Fridays at Parizade"
 date: "2013-06-18"
 categories:
-  - "durham-restaurant-reviews"
   - "events"
   - "restaurants"
 tags:
@@ -36,10 +35,10 @@ tags:
   - "white-bean-rosemary"
 ---
 
-**Parizade** 2200 West Main Street Erwin Square, Durham [Website](http://parizadedurham.com/) $35 + tax & tip
-
-
-
+2200 West Main Street\
+Erwin Square, Durham\
+[Website](http://parizadedurham.com/)\
+$35 + tax & tip
 
 <div class="caption">
 
@@ -117,9 +116,5 @@ To wash that giant meal down, Parizade recommends a negroni sbagliato cocktail m
 Both my husband and I had it, and the Campari’s bitterness was right on the edge of pleasing and too much, which makes it a prime digestif choice. It resembled a mandarin orange complete with pith more and more with each sip. I quite liked the effect.
 
 If you are interested in celebrating the Mediterranean and want to spend a relaxing Friday night indulging your taste buds, you will get your money’s worth with Parizade’s prix fixe offerings this summer. The hanger steak, semifreddo, and eggplant shone brightest among the constellation of courses, but rest assured, there are enough options to please everyone in your party.
-
-[![Cafe Parizade on Urbanspoon](http://www.urbanspoon.com/b/link/290354/minilink.gif)](http://www.urbanspoon.com/r/25/290354/restaurant/Old-West-Durham-9th-St/Cafe-Parizade-Durham)
-
-[![Parizade on Foodio54](http://foodio54.com/images/badge-1-cfde2.jpg)](http://foodio54.com/restaurant/Durham-NC/cfde2/Parizade)
 
 _Reviewed 14 June 13._

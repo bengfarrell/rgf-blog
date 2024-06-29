@@ -32,7 +32,7 @@ This wine is easily drinkable, smooth, pleasant, and lovely.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Back to Bacchus](http://bachtobacchus.blogspot.com/2011/12/budget-wine-report.html)
 

@@ -26,7 +26,7 @@ The wine has a great flavor profile, but they all flee way too fast. The more I 
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_mushroom1.gif "rating_mushroom1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_mushroom1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Alcohlogers’ Anonymous](http://the-alcohlog.blogspot.com/2011/05/tisdale-pinot-noir.html)
 

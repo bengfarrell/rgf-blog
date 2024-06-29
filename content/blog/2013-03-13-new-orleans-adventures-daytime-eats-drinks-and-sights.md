@@ -2,10 +2,9 @@
 title: "New Orleans Adventures: Daytime Eats, Drinks, and Sights"
 date: "2013-03-13"
 categories:
-  - "new-orleans-bar-review"
-  - "new-orleans-restaurant-review"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
+  - "bars"
 tags:
   - "big-easy"
   - "bourbon-house"
@@ -68,12 +67,7 @@ That’s not to say breakfast was anything less than delicious! Breakfast dishes
 
 Coffee was served in large, cozy mugs perfect for a lazy morning.
 
-[![Surrey's Cafe & Juice Bar on Urbanspoon](http://www.urbanspoon.com/b/link/621969/minilink.gif)](http://www.urbanspoon.com/r/57/621969/restaurant/Lower-Garden-District/Surreys-Cafe-Juice-Bar-New-Orleans)
-
 Our morning was anything but lazy, however, because I had streets to walk!
-
-
-
 
 <div class="caption">
 
@@ -123,10 +117,6 @@ Plus, they have a fountain of taps!
 [![2012_Dec_Nola_142small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_142small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_142small/)
 
 Who could resist that? Not us.
-
-[![The Bulldog on Urbanspoon](http://www.urbanspoon.com/b/link/1346219/minilink.gif)](http://www.urbanspoon.com/r/57/1346219/restaurant/Garden-District/The-Bulldog-New-Orleans)
-
-[![The Bulldog on Foodio54](http://foodio54.com/images/badge-1-cca5e.jpg)](http://foodio54.com/restaurant/New-Orleans-LA/cca5e/The-Bulldog)
 
 We were about three drinks in after the Bulldog, so after another few blocks, we headed up Napoleon Ave. to catch the streetcar on St. Charles Ave.
 
@@ -244,15 +234,11 @@ The bar is a fantastic place to watch expert oyster shucking as well.
 
 Bourbon House ranks high on my list of places we ate and drank.
 
-[![Bourbon House on Urbanspoon](http://www.urbanspoon.com/b/link/620187/minilink.gif)](http://www.urbanspoon.com/r/57/620187/restaurant/French-Quarter/Bourbon-House-New-Orleans)
-
 Perhaps the only place that beat it was where we went to breakfast our last morning.
 
 [![2012_Dec_Nola_414small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_414small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_414small/)
 
 [Stanley](http://stanleyrestaurant.com/) (547 Saint Ann St.) is one of the corner restaurants framing Jackson Square, and it is amazing for breakfast.
-
-[![Bourbon House on Foodio54](http://foodio54.com/images/badge-1-cca82.jpg)](http://foodio54.com/restaurant/New-Orleans-LA/cca82/Bourbon-House)
 
 [![2012_Dec_Nola_413small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_413small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_413small/)
 
@@ -265,8 +251,6 @@ My cousin recommended the Breaux Bridge Benedict, and I will forever be grateful
 Made with Charlie T’s boudin, smoked ham, creole hollandaise, soft baguettes, and poached eggs, it is an absolute pleasure to eat. Luckily, breakfast is available all day at Stanley. My husband was quite happy with their roast beef po’ boy. It was much better than the one he had at Mother’s our first night in town.
 
 [![2012_Dec_Nola_412small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_412small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_412small/)
-
-[![Stanley Restaurant on Urbanspoon](http://www.urbanspoon.com/b/link/621906/minilink.gif)](http://www.urbanspoon.com/r/57/621906/restaurant/French-Quarter/Stanley-Restaurant-New-Orleans)
 
 I made use of our last few hours in New Orleans by giving Jackson Square its due in the daylight hours, having documented it quite well at night already.
 
@@ -284,9 +268,6 @@ I made use of our last few hours in New Orleans by giving Jackson Square its due
 <div class="caption">
 
 [![Iconic view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_418small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_418small/) Iconic view.</div>
-
-
-[![Stanley on Foodio54](http://foodio54.com/images/badge-1-ccacf.jpg)](http://foodio54.com/restaurant/New-Orleans-LA/ccacf/Stanley)
 
 We walked back to the hotel and our waiting car, taking in a few more sights of the French Quarter along the way.
 

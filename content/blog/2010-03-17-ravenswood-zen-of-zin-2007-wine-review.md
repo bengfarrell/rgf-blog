@@ -33,7 +33,7 @@ It is thin-bodied for a zinfandel. Tastes oaky, with rich plum and leather. Ther
 ![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
 
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [Tastings by Gary and Allison](http://www.obrientastings.com/2010/02/2007-ravenswood-zen-of-zin-zinfandel.html)
 

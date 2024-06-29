@@ -2,17 +2,7 @@
 title: "Country Vintner 2013 Trade Show Finds"
 date: "2013-03-29"
 categories:
-  - "beverage-product-review"
   - "events"
-  - "merlot"
-  - "other-red-blends"
-  - "pinot-grigio-gris"
-  - "product-reviews"
-  - "red-wine-review"
-  - "sangiovese"
-  - "sauvignon-blanc"
-  - "valpolicella"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "blanc-2004"

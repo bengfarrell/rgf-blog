@@ -26,7 +26,7 @@ This rose doesn’t provide anything of interest. Drink it because it’s there,
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_mushroom1.gif "rating_mushroom1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_mushroom1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 Couldn’t find any! And I was so hoping for confirmation of my lackluster opinion.
 

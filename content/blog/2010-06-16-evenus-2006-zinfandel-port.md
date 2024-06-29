@@ -32,7 +32,7 @@ What can I say? It's been a good couple of weeks for zinfandel wines in my house
 ![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1") 4 stars</div>
 
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [365 Sweet Wines in 365 Days](http://365sweetwinesin365days.blogspot.com/2009/12/day-213-2006-evenus-zinfandel-port-375.html)
 

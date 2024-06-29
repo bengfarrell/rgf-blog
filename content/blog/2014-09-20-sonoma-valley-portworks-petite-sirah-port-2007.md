@@ -44,7 +44,7 @@ My full Quini profile:
 
 [![Sonoma Vally Portworks Quini](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Sonoma-Vally-Portworks-Quini-895x1024.jpg)](http://www.rebeccagomezfarrell.com/2014/09/sonoma-valley-portworks-petite-sirah-port-2007/sonoma-vally-portworks-quini/)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 There are plenty of reviews available for SVP’s ARIS port, but not for this little guy.
 

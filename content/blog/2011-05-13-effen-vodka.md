@@ -22,7 +22,7 @@ My imagination may be running away with me here, but I’ll drink it again regar
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Nerdfit](http://www.nerdfit.com/2011/01/nerdfit-booze-reviews-effen-vodka-750ml/)
 

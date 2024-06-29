@@ -2,7 +2,6 @@
 title: "Ipsus Passito di Pantelleria Dessert Wine"
 date: "2013-03-25"
 categories: 
-  - "dessert-wine-reviews"
   - "wine"
 tags: 
   - "dessert"
@@ -21,7 +20,7 @@ tags:
   - "tasting-notes"
 ---
 
-**Ipsus Passito di Pantelleria Dessert Wine** Marsala, Italy
+**Region:** Marsala, Italy
 
 [![ipsus pantelleria](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/ipsus-pantelleria.jpg)](http://www.thegourmez.com/2013/03/ipsus-passito-di-pantelleria-dessert-wine/ipsus-pantelleria/)
 
@@ -33,7 +32,7 @@ I love it! You may be surprised that loving a dessert wine is more my exception 
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-Other Bloggers Thoughts:
+**Other Bloggers' Thoughts:**
 
 [SourMashed](http://sourmashed.com/2012/09/review-ipsus-passito-di-pantelleria-moscato/)
 

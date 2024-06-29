@@ -2,8 +2,8 @@
 title: "Charlottesville Blogging: Dinner at Mas"
 date: "2013-05-06"
 categories:
-  - "charlottesville-virginia-bar-reviews"
-  - "charlottesville-virginia-restaurant-reviews"
+  - "cocktails"
+  - "bars"
   - "restaurants"
 tags:
   - "belmont"
@@ -97,7 +97,5 @@ I have no idea if this was an inventive pisco sour—the drink list was on the b
 I think Mas is a great option for relaxing with friends after a busy workday or week, but it's probably too popular for a romantic date night. The ingredients were top-notch, and several menu items were impressive, but some veered more toward the conventional. It should be noted that conventional is always a crowd pleaser! It should also be noted that the husband was thoroughly unimpressed, but then, I don't have any clue what will impress him most days. I swear he loved tapas when we lived in Boston.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
-
-[![MAS on Urbanspoon](http://www.urbanspoon.com/b/link/853211/minilink.gif)](http://www.urbanspoon.com/r/108/853211/restaurant/MAS-Charlottesville)
 
 _Reviewed 26 April 13._

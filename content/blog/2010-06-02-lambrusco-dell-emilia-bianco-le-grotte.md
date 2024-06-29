@@ -29,7 +29,7 @@ It's not bad, but much sweeter than I like my whites.
 <div class="caption">
 
 ![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
-  Other Bloggers' Thoughts:
+  **Other Bloggers' Thoughts:**
 
 [Good Wines Cheap](http://goodwinescheap.blogspot.com/2009/08/bubble-bubbles-and-more-bubbles.html)
 

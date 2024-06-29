@@ -35,7 +35,7 @@ This is a good, lingering white wine.
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
 
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [Wine Witch](http://winewitch.net/wine-reviews/skn-sauvignon-blanc-2007-california-10-15/)
 

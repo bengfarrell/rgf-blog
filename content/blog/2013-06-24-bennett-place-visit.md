@@ -3,7 +3,7 @@ title: "Bennett Place Visit"
 date: "2013-06-24"
 categories:
   - "events"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "bennett-place"
   - "civil-war"

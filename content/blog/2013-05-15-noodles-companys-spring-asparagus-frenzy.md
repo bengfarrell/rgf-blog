@@ -2,7 +2,6 @@
 title: "Noodles & Company's Spring Asparagus Frenzy!"
 date: "2013-05-15"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "asparagus"
@@ -89,9 +88,5 @@ The evaporated and sweetened, condensed milk pool is thick and delightful, and t
 So if you're in the mood for a spring asparagus dish, Noodles & Company has your back! All three special items are worth ordering, though I give the flatbread an edge. And go ahead and spoil yourself with that tres leches cake.
 
 Now for the fun part! First five commenters on this post will get a coupon for a free Noodles & Company dish of your choice. Make sure you include your e-mail address so I can get your physical address to send it out. Comment away!
-
-[![Noodles and Company on Foodio54](http://foodio54.com/images/badge-1-cceaa.jpg)](http://foodio54.com/restaurant/Durham-NC/cceaa/Noodles-and-Company)
-
-[![Noodles & Company on Urbanspoon](http://www.urbanspoon.com/b/link/1425966/minilink.gif)](http://www.urbanspoon.com/r/25/1425966/restaurant/Duke/Noodles-Company-Durham)
 
 _Reviewed 3 May 13._

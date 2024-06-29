@@ -3,7 +3,7 @@ title: "Caipirinha @ Calavera"
 date: "2013-01-09"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags: 
   - "brazil"
   - "cachaca"
@@ -17,7 +17,10 @@ tags:
   - "sugar-cane"
 ---
 
-**Caipirinha** [Calavera](http://calaveraraleigh.com/) ([my restaurant review](http://www.thegourmez.com/2012/06/calavera-raleigh/)) Downtown Raleigh $8
+**[Calavera](http://calaveraraleigh.com/)**\
+([my restaurant review](http://www.thegourmez.com/2012/06/calavera-raleigh/))\
+Downtown Raleigh, NC\
+$8
 
 [![caiprinha_calavera](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/caiprinha_calavera.jpg)](http://www.thegourmez.com/2013/01/caipirinha-calavera/caiprinha_calavera/)
 
@@ -28,5 +31,3 @@ This one is possibly too sweet, which may come from my insistence on sucking eve
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
 _Reviewed 29 Nov 12._ 
-
-[![Calavera on Urbanspoon](http://www.urbanspoon.com/b/link/1626035/minilink.gif)](http://www.urbanspoon.com/r/25/1626035/restaurant/Inside-the-Beltline/Calavera-Cary)

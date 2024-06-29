@@ -35,7 +35,7 @@ Vieux Pontarlier absinthe calls forth the green fairy, but she refuses to show o
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-**Other Bloggers’ Thoughts:**
+**Other Bloggers’ Thoughts**
 
 Michael at [Drink Up NY](http://www.drinkupny.com/Vieux-Pontarlier-p/s0683.htm)
 

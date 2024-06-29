@@ -24,7 +24,7 @@ Love it.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)
 
-Other bloggers’ thoughts:
+**Other Bloggers’ Thoughts**
 
 There are a number of great reviews of Shannon Ridge’s 2007 Zinfandel, but that’s a different series than the Ranch Collection, so I’m not sure those thoughts would translate well—they were great, though! Thus, I have no blogger reviews to share.
 

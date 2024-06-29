@@ -2,9 +2,8 @@
 title: "Pizzeria Toro"
 date: "2013-03-04"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
-  - "rye"
+  - "cocktails"
 tags: 
   - "blenheins-ginger-ale"
   - "brick-oven"
@@ -29,7 +28,10 @@ tags:
   - "whiskey"
 ---
 
-**Pizzeria Toro** 105 E. Chapel Hill St. Five Points, Durham Website $12 to 1$16 11 am to 11 pm daily
+105 E. Chapel Hill St.\
+Five Points, Durham, NC\
+Website $12 to $16\
+11 am to 11 pm daily
 
 [![Pizzeria Toro 01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Pizzeria-Toro-01.jpg)](http://www.thegourmez.com/2013/03/pizzeria-toro/pizzeria-toro-01/)
 
@@ -68,7 +70,5 @@ Clobber, based on our devouring of the dessert, is that lemon curd and clotted c
 Other than finding the salad a touch too bitter, our meal at Pizzeria Toro was amazing and I didn’t even try the antipasti or special ham charcuterie. I am now accepting invitations to be anyone’s dinner companion there in the future. I can’t think of a better way to while away the evening in Durham.
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.thegourmez.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
-
-[![Pizzeria Toro on Urbanspoon](http://www.urbanspoon.com/b/link/1678691/minilink.gif)](http://www.urbanspoon.com/r/25/1678691/restaurant/Downtown-Durham/Pizzeria-Toro-Durham)
 
 _Reviewed 6 Feb 13._

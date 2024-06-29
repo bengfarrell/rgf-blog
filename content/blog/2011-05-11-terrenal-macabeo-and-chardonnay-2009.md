@@ -30,7 +30,7 @@ It’s acidic, pretty bland, yet absolutely drinkable. Alas, I’m not apt to bu
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Fruit of the Vine](http://fruitofthevine.blog.com/2011/04/13/terrenal-macabeo-chardonnay-2009/)
 

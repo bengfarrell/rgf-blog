@@ -25,7 +25,7 @@ From perusing other blogs, I’ve learned that Bolla Soave had fallen out of fav
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [NYC Nom Nom](http://nycnomnom.com/2011/05/09/guest-blog-everyday-italian-white-wines-beyond-pinot-grigio/)
 

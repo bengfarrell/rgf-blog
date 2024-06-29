@@ -25,7 +25,7 @@ Nail polish and heavy spice meet my nose, but I’ve found a nail polish smell d
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 What, no other bloggers have stumbled across this pun of a wine label, yet? I’m shocked.
 

@@ -3,6 +3,7 @@ title: "Triangle Foodie Happenings"
 date: "2013-04-02"
 categories: 
   - "events"
+  - "announcements"
 tags: 
   - "ali-rudel"
   - "anniversary"

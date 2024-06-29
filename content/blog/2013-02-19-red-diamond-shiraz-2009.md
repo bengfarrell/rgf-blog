@@ -2,8 +2,6 @@
 title: "Red Diamond Shiraz 2009"
 date: "2013-02-19"
 categories: 
-  - "red-wine-review"
-  - "shiraz"
   - "wine"
 tags: 
   - "anise"
@@ -21,7 +19,7 @@ tags:
   - "washington"
 ---
 
-**Red Diamond Shiraz 2009** Washington State
+**Region:** Washington State
 
 [![red diamond shiraz](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/red-diamond-shiraz.jpg)](http://www.thegourmez.com/2013/02/red-diamond-shiraz-2009/red-diamond-shiraz/)
 
@@ -31,7 +29,7 @@ The wine is too thin for the berry to demand attention as it should, but it’s 
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Frugal Wine Snob on the 2007 vintage](http://www.thefrugalwinesnob.com/2011/09/02/recommended-2007-red-diamond-shiraz-also-cabernet-sauvignon-13-5-abv-suggested-retail-9-99-available-for-as-little-as-6-99-a-treasure-for-that-price/)
 

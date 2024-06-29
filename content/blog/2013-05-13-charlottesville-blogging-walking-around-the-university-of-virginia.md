@@ -2,7 +2,7 @@
 title: "Charlottesville Blogging: Walking Around the University of Virginia"
 date: "2013-05-13"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "brooks-hall"
   - "charlottesville"

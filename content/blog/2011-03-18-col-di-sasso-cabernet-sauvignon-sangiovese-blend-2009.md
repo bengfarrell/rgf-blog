@@ -24,7 +24,7 @@ It smells mildly of fig and tastes of fig, too, with plum notes also. Besides th
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [College Oenophiles on the 2007 vintage](http://collegeoenophiles.wordpress.com/2011/02/15/red-bicyclette-merlot-col-di-sasso/)
 

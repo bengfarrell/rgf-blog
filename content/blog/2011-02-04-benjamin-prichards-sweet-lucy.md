@@ -27,7 +27,7 @@ It tastes like some sort of ice cream that I can’t put my finger on, or rather
 
 I want to dislike it, but I’m not going to lie. I enjoy it! It will find a cocktail home.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)  Other Bloggers’ Thoughts:
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)  **Other Bloggers’ Thoughts**
 
 [Drink Hacker](http://www.drinkhacker.com/2010/11/12/review-benjamin-prichards-tennessee-whiskeys-and-liqueur/)
 

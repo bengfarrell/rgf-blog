@@ -29,7 +29,7 @@ There is some limestone at first, followed with green apple notes galore. It’s
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 2 stars</div>
 
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Sipping Saint Louis](http://sippinstl.blogspot.com/2010/06/new-grape.html)
 

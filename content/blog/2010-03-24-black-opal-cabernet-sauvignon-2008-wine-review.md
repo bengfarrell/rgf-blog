@@ -31,7 +31,7 @@ The spice definitely comes to the forefront when tasting, but it's much more pep
 <div class="caption">
 
 ![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
-  Other Bloggers' Thoughts:
+  **Other Bloggers' Thoughts:**
 
 [Tom and Melody's Wine Blog](http://tomandmelodywine.com/2010/01/13/black-opal-cabernet-sauvignon-2008/)
 

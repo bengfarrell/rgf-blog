@@ -3,8 +3,7 @@ title: "Lemontini @ the Oxford"
 date: "2013-05-24"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
-  - "champagne"
+  - "cocktails"
 tags: 
   - "absolut-citron"
   - "cocktail"
@@ -21,7 +20,9 @@ tags:
   - "the-oxford"
 ---
 
-**Lemontini** The Oxford ([My Review](http://www.thegourmez.com/2009/09/restaurant-review-the-oxford-downtown-raleigh/)) Downtown Raleigh $9
+**The Oxford** ([My Bar Review](http://www.thegourmez.com/2009/09/restaurant-review-the-oxford-downtown-raleigh/))\
+Downtown Raleigh, NC\
+$9
 
 [![lemontini](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/lemontini.jpg)](http://www.thegourmez.com/2013/05/lemontini-the-oxford/lemontini/)
 

@@ -23,7 +23,7 @@ The smell of this port is unappealing, like glue. Luckily, I already know it isn
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other bloggers’ thoughts:
+**Other Bloggers’ Thoughts**
 
 [Just Joeb](http://justjoep.blogspot.com/2009/10/quarles-harris-ruby-porto.html)
 

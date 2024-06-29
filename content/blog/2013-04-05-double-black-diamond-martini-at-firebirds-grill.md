@@ -3,7 +3,7 @@ title: "Double Black Diamond Martini at Firebird's Grill"
 date: "2013-04-05"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags: 
   - "bar"
   - "citron-vodka"
@@ -21,7 +21,9 @@ tags:
   - "svedka"
 ---
 
-**Double Black Diamond Martini** [Firebirds](http://www.firebirdsrestaurants.com/fb/) Southpoint, Durham $10
+**[Firebirds](http://www.firebirdsrestaurants.com/fb/)**\
+Southpoint, Durham, NC\
+$10
 
 [![double black diamond](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/double-black-diamond.jpg)](http://www.thegourmez.com/2013/04/double-black-diamond-martini-at-firebirds-grill/double-black-diamond/)
 

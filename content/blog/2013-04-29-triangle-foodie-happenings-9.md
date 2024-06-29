@@ -2,7 +2,7 @@
 title: "Triangle Foodie Happenings"
 date: "2013-04-29"
 categories: 
-  - "events"
+  - "announcements"
 tags: 
   - "artisan-series"
   - "chapel-hill"

@@ -2,8 +2,7 @@
 title: "First Vine Red Wine Blend"
 date: "2013-11-07"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "cheap-wine"
   - "chemical"
@@ -28,7 +27,7 @@ I could do without the chemical element, but honestly, I've had much worse $3.99
 
 [![rating_olive1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)](http://www.thegourmez.com/2009/04/cocktail-review-the-shiki-tini/rating_olive1/)
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 _[Wine on the Dime](http://www.wineonthedime.com/2013/01/first-vine-california-red-wine-blend.html)_
 

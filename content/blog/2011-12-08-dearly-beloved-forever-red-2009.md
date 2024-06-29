@@ -31,7 +31,7 @@ I’d like to try it with more airing again, but it’s a serviceable, juicy win
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Other bloggers’ thoughts:
+**Other Bloggers’ Thoughts**
 
 [Living Trader Joe’s](http://www.livingtraderjoes.com/dearly-beloved-forever-red-2009/)
 

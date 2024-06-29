@@ -30,7 +30,7 @@ The taste ends on mildly sweetened cranberries, and it starts with milk chocolat
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Sommelier Style](http://sommelierstyle.wordpress.com/2012/02/15/cocobon-red-wine-2010/)
 

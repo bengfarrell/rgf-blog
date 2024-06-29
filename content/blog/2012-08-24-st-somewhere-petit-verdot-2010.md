@@ -31,7 +31,7 @@ I know ashes as aftertaste isn’t for everyone, but for me, this is an excellen
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 None. A few have reviewed the malbec and syrah from this label, but not the petit verdot.
 

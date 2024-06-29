@@ -27,7 +27,7 @@ _Nose:_ Candied cherry and chocolates. _Taste:_ Bright, ripe cherries and semisw
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
 
 
-_Other Bloggers' Thoughts:_
+_**Other Bloggers' Thoughts:**_
 
 PB @ [The Wine Cask Blog](http://winecask.blogspot.com/2006/05/alice-white-shiraz-2005-wine-review-by.html) on the 2005 vintage
 

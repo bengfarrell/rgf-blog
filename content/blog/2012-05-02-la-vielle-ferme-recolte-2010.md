@@ -27,7 +27,7 @@ It’s a thin-bodied wine with exquisite layers, making it infinitely and easily
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [The Wine Newbies](http://thewinenewbies.com/2011/05/01/2009-la-vieille-ferme-recolte/) on the 2009 vintage
 

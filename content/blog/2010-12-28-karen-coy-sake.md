@@ -27,7 +27,7 @@ The rose-colored bottle is very pretty, which counts for automatic bonus points-
 
 Or rather, it was. I was going for my top rating, but a few more sips made me change my mind. The sweetness took on a sucralose flavor; I hate chemical sweeteners because I hate that taste. Soon, all I could taste was that flavor except for some peach that pulled through it. I doubt there are any sweeteners added to the sake, but that’s still what came out most strongly for me. Based on an exceptional start that become a less than satisfactory finish, this one garners a
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)  Other Bloggers’ Thoughts:
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)  **Other Bloggers’ Thoughts**
 
 [UrbanSake.com](http://www.urbansake.com/sake/ichishima-karen-coy-junmai.html)
 

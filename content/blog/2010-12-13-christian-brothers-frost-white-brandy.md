@@ -28,7 +28,7 @@ Ultimately, those odd flavors together made this brandy unsippable for me, but I
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif) 1 star</div>
 
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 None in review form. Mainly, it seems to appear as part of cocktail recipes, especially the China Rose (_ed. 17.12.10 Oops, I meant China Girl---[recipe here](http://www.thespir.it/cocktail-recipe/china-girl/)_), which I’ve never heard of before.
 

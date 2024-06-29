@@ -34,7 +34,7 @@ It smells more intriguing than it tastes. That strong butter element limits its 
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Amanda’s Wine Blog](http://anv1989-wine.blogspot.com/2012/02/tasting-protocolo-2010-white-blend.html) on the 2010 vintage
 

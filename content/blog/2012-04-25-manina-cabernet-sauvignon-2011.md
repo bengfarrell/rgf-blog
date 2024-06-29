@@ -25,7 +25,7 @@ The wine mellows some with airing, transforming the smokiness into more of a gra
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 Apparently, I’m the only one who’s thought about this one.
 

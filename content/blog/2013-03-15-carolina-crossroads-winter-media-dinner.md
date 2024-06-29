@@ -2,7 +2,6 @@
 title: "Carolina Crossroads Winter Media Dinner"
 date: "2013-03-15"
 categories:
-  - "dining-chapel-hill-nc"
   - "events"
   - "restaurants"
 tags:
@@ -115,7 +114,3 @@ What's nice about these media dinners, beyond the opportunity to sample cuisine 
 
 
 \--and sat down for a well-deserved break at the end the meal, fielding our questions. (Yes, readers, he is working on a rabbit entree, if your question happens to be the same as mine was.) It's always a treat to be invited, and I want to extend my thanks to the Carolina Crossroads team for a delicious feast that conquered us all with the sheer magnitude of food and the imagination shown in the creative pairings. Try that winter menu while you can, especially the oysters, red velvet mousse, lamb terrine, and pulled duck and tuna sandwiches.
-
-[![Carolina Crossroads on Urbanspoon](http://www.urbanspoon.com/b/link/290414/minilink.gif)](http://www.urbanspoon.com/r/25/290414/restaurant/Carolina-Crossroads-Chapel-Hill)
-
-[![Carolina Crossroads Restaurant at the Carolina Inn on Foodio54](http://foodio54.com/images/badge-1-cfe6b.jpg)](http://foodio54.com/restaurant/Chapel-Hill-NC/cfe6b/Carolina-Crossroads-Restaurant-at-the-Carolina-Inn)

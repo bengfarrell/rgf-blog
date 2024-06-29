@@ -19,7 +19,7 @@ tags:
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Vino Virgins](http://www.vinovirgins.tv/2010/01/yum-yum-peter-brum.html)
 

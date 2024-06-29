@@ -33,7 +33,7 @@ It’s pretty standard but tasty for a pinot grigio. If you’re a fan of this v
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Colin Blogs](http://colintalcroft.blogspot.com/2011/08/wines-im-drinking-2009-la-ronescina.html):
 

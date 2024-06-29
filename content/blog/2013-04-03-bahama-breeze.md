@@ -2,8 +2,8 @@
 title: "Bahama Breeze Late Night Appetizers & Drinks"
 date: "2013-04-03"
 categories:
-  - "raleigh-restaurant-reviews"
   - "restaurants"
+  - "cocktails"
 tags:
   - "bahama-breeze"
   - "barbeque"
@@ -30,8 +30,6 @@ tags:
   - "tropical-storm"
   - "zombie"
 ---
-
-**Bahama Breeze Late Night Appetizers & Drinks**
 
 [Bahama Breeze](http://www.bahamabreeze.com/), a chain of island-resort-themed restaurants mainly located on the East Coast with a few Midwest outposts, invited me out to sample a few menu items to promote their new late night appetizer menu. From 9 pm until closing, most of their regular appetizers are now available at half the price, and if you're a regular reader, you know anything that honors night owls appeals to me. They've also added some new drinks to their list of legendary island cocktails, which the press release describes as "10 authentic, custom-made drinks sourced from world-famous island bars and created with the same techniques and ingredients that made them famous." Everything I've reviewed in this column was provided free of charge by Bahama Breeze.
 
@@ -102,9 +100,5 @@ Luckily, our last selection, from the appetizer menu, was better.
 We went for the pulled pork sliders, served with a sweet barbecue sauce. NC readers, these didn't try to mimic the vinegar-tang of your local barbecue, so no need to rise up in arms! The meat was juicy, closer to chopped than pulled in texture, and came on soft, buttery buns. They need the vinegar- and tomato-based sauce to liven them up, and crisper pickles with a strong bite would do wonders to make them more memorable, but it was a nice way to round out the meal.
 
 I would pass on those pretzels, but the rest of the appetizers we tried were good to great, especially the conch fritters and the habanero wings. Frankly, they would all be quite a value during late night happy hour pricing when they'd come in around $4 to $6 each. The Painkiller and Zombie were good riffs on the standard cocktails, and the Tropical Storm was a fabulous, well-considered, original creation. Thanks, Bahama Breeze, for the chance to try them out!
-
-[![Bahama Breeze on Urbanspoon](http://www.urbanspoon.com/b/link/290132/minilink.gif)](http://www.urbanspoon.com/r/25/290132/restaurant/North-Raleigh/Bahama-Breeze-Raleigh)
-
-[![Bahama Breeze on Foodio54](http://foodio54.com/images/badge-1-54765.jpg)](http://foodio54.com/restaurant/Raleigh-NC/54765/Bahama-Breeze)
 
 _Reviewed 19 Mar 13._

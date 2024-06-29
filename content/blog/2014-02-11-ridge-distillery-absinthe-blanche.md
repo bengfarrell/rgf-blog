@@ -35,7 +35,7 @@ After the louche, no color changes occur except the expected milkiness. Thankful
 
 [![rating_olive1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)](http://www.thegourmez.com/2009/04/cocktail-review-the-shiki-tini/rating_olive1/)
 
-**Other Bloggers’ Thoughts:**
+**Other Bloggers’ Thoughts**
 
 I didn’t find any straight up reviews of the Ridge Distillery Absinthe Blanche, but [Sass and Gin made up this Goody Two Shoes cocktail](http://sassandgin.blogspot.com/2013/12/mixology-monday-anise.html) featuring it, and [Absinthe.FM](http://www.absinthe.fm/absinthe-blog/absinthe-experiences/finally-good-us-made-absinthe) has good things to say about it in concert with Ridge Distillery’s Absinthe Verte, which is considered a top US-made absinthe by many:
 

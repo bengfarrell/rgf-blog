@@ -2,8 +2,7 @@
 title: "LaCheteau Vouvray 2011"
 date: "2013-04-12"
 categories: 
-  - "vouvray"
-  - "white-wine-reviews"
+  - "wine"
 tags: 
   - "2011-vintage"
   - "acidic"
@@ -20,7 +19,7 @@ tags:
   - "welcome-to-the-wine-nook"
 ---
 
-**LaCheteau Vouvray 2011** Loire Valley, France
+**Region:** Loire Valley, France
 
 [![la chateau vouvray](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/la-chateau-vouvray.jpg)](http://www.thegourmez.com/2013/04/lacheteau-vouvray-2011/la-chateau-vouvray/)
 
@@ -30,7 +29,7 @@ LaCheteau Vouvray 2011 is a good, solid, by-the-book white wine. Ultimately, tho
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [The Wannabe Sommelier](http://thewannabesommelier.wordpress.com/tag/lacheteau-vouvray/)
 

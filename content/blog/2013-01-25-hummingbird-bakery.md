@@ -3,8 +3,6 @@ title: "Hummingbird Bakery"
 date: "2013-01-25"
 categories: 
   - "bakeries"
-  - "durham-restaurant-reviews"
-  - "ice-cream-bakery-food-truck"
   - "restaurants"
 tags: 
   - "almond-joy-cupcake"
@@ -28,7 +26,9 @@ tags:
   - "tornquist"
 ---
 
-**Hummingbird Bakery** 771 Broad Street Old West Durham, Durham [Website](http://www.hummingbird-durham.com/) Lunch: $6.50 -–$9.00
+771 Broad Street\
+Old West Durham, Durham, NC\
+[Website](http://www.hummingbird-durham.com/)\ Lunch: $6.50–$9.00
 
 [![Hummingbird_Bakery09](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/Hummingbird_Bakery09.jpg)](http://www.thegourmez.com/2013/01/hummingbird-bakery/hummingbird_bakery09/)
 
@@ -81,5 +81,3 @@ Hummingbird is a great bakery and lunch option in Durham, though I think the pim
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
 _Reviewed 19 December 2012._
-
-[![Hummingbird Cafe on Urbanspoon](http://www.urbanspoon.com/b/link/1704141/minilink.gif)](http://www.urbanspoon.com/r/25/1704141/restaurant/Old-West-Durham-9th-St/Hummingbird-Cafe-Durham)

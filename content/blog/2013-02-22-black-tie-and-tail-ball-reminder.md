@@ -3,7 +3,7 @@ title: "Black Tie and Tail Ball Reminder!"
 date: "2013-02-22"
 categories: 
   - "events"
-  - "restaurants"
+  - "announcements"
 tags: 
   - "auction"
   - "ball"

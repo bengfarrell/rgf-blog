@@ -3,7 +3,8 @@ title: "TOPO Piedmont Gin"
 date: "2013-10-17"
 categories: 
   - "recipes"
-  - "gin-reviews"
+  - "cocktails"
+  - "product-reviews"
   - "spirits"
 tags: 
   - "allspice"
@@ -25,7 +26,8 @@ tags:
   - "topo"
 ---
 
-**TOPO Piedmont Gin** Chapel Hill, NC ABV 46%
+**Region:** Chapel Hill, NC\
+ABV 46%
 
 [![topo gin02](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/topo-gin02.jpg)](http://www.thegourmez.com/2013/10/topo-piedmont-gin/topo-gin02/)
 
@@ -47,12 +49,17 @@ Look how pretty they are! The syrups are produced in small batches from organic 
 
 **[![topo gin03](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/topo-gin03.jpg)](http://www.thegourmez.com/2013/10/topo-piedmont-gin/topo-gin03/)**
 
-**Late Summer Ray**
+## Late Summer Ray
 
-1.5 oz. TOPO Piedmont Gin .25 oz. Royal Rose Saffron Syrup .25 oz. Royal Rose Raspberry Syrup 2 squeezes of lime
+1.5 oz. TOPO Piedmont Gin\
+0.25 oz. Royal Rose Saffron Syrup\
+0.25 oz. Royal Rose Raspberry Syrup\
+2 squeezes of lime
 
-Shake it up, pour it out. Garnish with a lime wheel if you're fancy. Obviously, I'm not.
+Shake it up, pour it out. Garnish with a lime wheel, if you're fancy. Obviously, I'm not.
 
-Never forget I'm a cocktail experimenter readers, and most of the recipes I share are unrefined. Yet I think I love this combination. It's in the rare range of gin drinks I can handle, along with several cocktails made with grapefruit juice. In fact, half an ounce of grapefruit juice would probably smooth the Late Summer Ray out nicely. But I don't have any, so I'm presenting this cocktail as is. The combination of lush saffron with the milder raspberry syrup is unexpectedly delightful. All that natural flavor floating through the gin almost fools me into believing I've muddled something rather than just uncorked a few bottles. Give it a try, and let me know if you add the grapefruit. And yes, there will be more cocktails made with Royal Rose syrups soon. I made a rum punch just last night that's pretty exciting.
+Never forget that I'm a cocktail experimenter readers, and most of the recipes I share are unrefined. Yet I think I love this combination. It's in the rare range of gin drinks I can handle, along with several cocktails made with grapefruit juice. In fact, half an ounce of grapefruit juice would probably smooth the Late Summer Ray out nicely. But I don't have any, so I'm presenting this cocktail as is. The combination of lush saffron with the milder raspberry syrup is unexpectedly delightful. All that natural flavor floating through the gin almost fools me into believing I've muddled something rather than just uncorked a few bottles. 
+
+Give it a try, and let me know if you add the grapefruit. And yes, there will be more cocktails made with Royal Rose syrups soon. I made a rum punch just last night that's pretty exciting.
 
 _Reviewed and cocktail created 24 Sept 13._

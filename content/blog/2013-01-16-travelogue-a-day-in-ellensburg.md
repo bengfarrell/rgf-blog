@@ -2,10 +2,9 @@
 title: "Travelogue: A Day in Ellensburg"
 date: "2013-01-16"
 categories:
-  - "coffee-shop"
-  - "dining-in-ellensburg-wa"
+  - "coffee-shops"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "art"
   - "buildings"
@@ -142,8 +141,6 @@ Ordering it with a salad instead of fries made me feel a little better, but I th
 
 It came with an Asian slaw that I can vouch for as delicious. So were the prawns. They avoided any heaviness from the grease, so the coconut sweetness shined and went well with the also-sweet slaw and dipping sauce.
 
-[![D & M Coffee Co on Urbanspoon](http://www.urbanspoon.com/b/link/1341021/minilink.gif)](http://www.urbanspoon.com/r/321/1341021/restaurant/Washington-State/D-M-Coffee-Co-Ellensburg)
-
 After lunch, stroll around downtown Ellensburg’s blocks. There are a lot of cute retail stores and the owners are nice and may offer goodies like apple cider to warm you up as you explore.
 
 Pearl Street between 4th and 5th has the best stretch of shops.
@@ -179,8 +176,6 @@ Stroll on down toward 3rd Avenue for a coffee break, passing a few more unique s
 [![IMG_7593](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7593.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7593/) [![IMG_7594](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7594.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7594/)
 
 On 3rd, going either left or right will take you toward [D & M Coffee](http://www.dmcoffee.com/home.htm), a local chain of roasters and coffee shops. I’d opt for the one on 416 North Main. We tried the one on 301 N. Pine, and all of our drinks, ranging from hot chocolate to cappuccino, had very little flavor beyond hot milk. But it was a great spot to take a break from exploring and one of the few areas of downtown Ellensburg where people congregated.
-
-[![D & M Coffee Co on Urbanspoon](http://www.urbanspoon.com/b/link/1341021/minilink.gif)](http://www.urbanspoon.com/r/321/1341021/restaurant/Washington-State/D-M-Coffee-Co-Ellensburg)
 
 Because coffee should be roasted as locally as possible, I would be willing to give the other D & M a try. They weren’t open on the weekend because it’s less coffee shop and more roasting facility.
 

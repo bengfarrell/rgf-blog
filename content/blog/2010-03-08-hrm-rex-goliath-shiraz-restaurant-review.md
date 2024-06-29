@@ -21,7 +21,7 @@ This wine has a lot of pepper on the nose, with some rhubarb and caramel coming 
 
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [Wine is Life](http://baldwinegeek.blogspot.com/2009/10/rex-goliath-shiraz.html) The nose was full of fruit, with plums and blackberries. Also picked up hints of spice and a little earth. The taste was very fruit forward, with black cherry leading the way. Got some nice bramble fruit notes as well, followed by subtle black pepper and anise notes.
 

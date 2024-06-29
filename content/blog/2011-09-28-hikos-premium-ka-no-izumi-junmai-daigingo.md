@@ -30,7 +30,7 @@ First of all, it’s wonderfully smooth. Banana is the dominant flavor. In secon
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 Apparently, they haven’t thought them yet. Sake reviews are always few and far between, however.
 

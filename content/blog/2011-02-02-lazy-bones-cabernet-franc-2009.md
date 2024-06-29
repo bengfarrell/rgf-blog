@@ -26,7 +26,7 @@ It's a tight wine that definitely needs decanting. Without some aeration, it’s
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Viva la Wino!](http://www.vivalawino.com/2010/12/lazy-bones-cabernet-franc-2009.html)
 

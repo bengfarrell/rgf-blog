@@ -29,7 +29,7 @@ It was a nice wine, if a little mysterious in flavor combinations. Yes, I call w
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Mclarenblog](http://mclarenblog.com/?p=1577)
 

@@ -29,7 +29,8 @@ tags:
   - "wormwood"
 ---
 
-**Meadow of Love Absinthe Superieure** Delaware Phoenix Distillery Walton, NY
+Delaware Phoenix Distillery\
+Walton, NY
 
  _[![Meadow of Love 01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/Meadow-of-Love-01.jpg)](http://www.thegourmez.com/2013/04/meadow-of-love-absinthe-superieure/meadow-of-love-01/)_
 
@@ -49,7 +50,7 @@ Meadow of Love is perhaps a tad too at one with itself, bordering on a blend tha
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-Other bloggers' thoughts:
+**Other Bloggers' Thoughts:**
 
 [La Fée Verte](http://www.feeverte.net/guide/country/usa/meadow_of_love_absinthe_superi/)
 

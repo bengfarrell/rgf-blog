@@ -30,7 +30,7 @@ I think my taste buds may have been screwed by all that cheap merlot from earlie
 <div class="caption">
 
 ![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
-  Other Bloggers' Thoughts:
+  **Other Bloggers' Thoughts:**
 
 [Joe Peck Blogarhythms](http://joepeckblogarhythms.wordpress.com/2010/03/19/beringer-cabernet-sauvignon-2008/)
 

@@ -2,7 +2,6 @@
 title: "Kinston, NC, Blogging: Chef and the Farmer"
 date: "2013-04-10"
 categories:
-  - "kinston-nc-restaurant-review"
   - "restaurants"
 tags:
   - "benjamin-knight"
@@ -33,11 +32,6 @@ tags:
   - "visitor-guide"
   - "vivian-howard"
 ---
-
-**Kinston, NC, Blogging: Chef and the Farmer**
-
-
-
 
 <div class="caption">
 
@@ -93,9 +87,5 @@ I have no thoughts to share on them, but not sharing the pictures would be a was
 I can recommend Chef and the Farmer without reservations — though you should probably make some of those. My complaints are confined to the entrée, and it was a good dish despite a few qualms. The rest of the food was beyond impressive and well worth a day trip to Kinston.
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.thegourmez.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
-
-[![Chef & The Farmer on Urbanspoon](http://www.urbanspoon.com/b/link/947365/minilink.gif)](http://www.urbanspoon.com/r/157/947365/restaurant/Greenville/Chef-The-Farmer-Kinston)
-
-[![Chef & The Farmer on Foodio54](http://foodio54.com/images/badge-1-b39cb.jpg)](http://foodio54.com/restaurant/Kinston-NC/b39cb/Chef-amp-The-Farmer)
 
 _Reviewed 9 Mar 13._

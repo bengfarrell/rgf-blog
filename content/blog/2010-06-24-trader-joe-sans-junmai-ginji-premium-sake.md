@@ -26,7 +26,7 @@ I haven't developed a sake nose yet, because I can only say that Trader Joe-San'
 <div class="caption">
 
 ![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
-  Other Bloggers' Thoughts:
+  **Other Bloggers' Thoughts:**
 
 [The Sake Diaries](http://thesakediaries.blogspot.com/2007/10/trader-joe-sans-sake.html)
 

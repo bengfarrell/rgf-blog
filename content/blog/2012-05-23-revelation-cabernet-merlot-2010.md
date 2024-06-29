@@ -29,7 +29,7 @@ The layers of this wine work together well, creating a balanced, delightful glas
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Cheap Wine Snobs](http://cheapwinesnobs.wordpress.com/2012/04/18/revelation-cabernetmerlot-2009/) on the 2009 vintage
 

@@ -26,7 +26,7 @@ This red was really dense on first sip, with lots of chocolate, spice, and fruit
 <div class="caption">
 
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
- Other Bloggers' Thoughts:
+ **Other Bloggers' Thoughts:**
 
 [The Wine Saver](http://winesaver.blogspot.com/2007/11/alexander-fitch-cabernet-sauvignon.html) on the 2005 vintage
 

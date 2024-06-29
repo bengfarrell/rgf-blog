@@ -34,7 +34,7 @@ If you don’t drink it for the quality of wine but think of it as a pretty good
 
 _Reviewed 11.24.10._
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Confessions of a Foodie](http://foodieconfessions.blogspot.com/2010/09/wine-i-make-mean-sangria-but-in-pinch.html)
 

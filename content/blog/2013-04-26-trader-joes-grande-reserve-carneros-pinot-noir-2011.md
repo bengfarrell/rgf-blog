@@ -2,8 +2,7 @@
 title: "Trader Joe's Grande Reserve Carneros Pinot Noir 2011"
 date: "2013-04-26"
 categories: 
-  - "pinot-noir"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2011"
   - "berry"
@@ -22,7 +21,7 @@ tags:
   - "vino-duo"
 ---
 
-**Trader Joe's Grande Reserve Carneros Pinot Noir 2011** Napa, California
+**Region:** Napa, California
 
 [![trader joes reserve carneros](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/trader-joes-reserve-carneros.jpg)](http://www.thegourmez.com/2013/04/trader-joes-grande-reserve-carneros-pinot-noir-2011/trader-joes-reserve-carneros/)
 
@@ -32,7 +31,7 @@ I will call this a gateway wine, one with no dryness so the uninitiated will thi
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/) 
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [The Vino Duo](http://www.thevinoduo.com/2012/06/trader-joes-grand-reserve-pinot-noir.html)
 

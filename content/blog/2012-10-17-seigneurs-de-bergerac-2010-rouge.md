@@ -28,7 +28,7 @@ The Seigneurs de Bergerac Rouge is not overly complex, but it’s a good, everyd
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Wine Guide Charlottesville](http://www.wineguildcville.com/wine/best-6-wine-on-the-market/) on the 2011 vintage
 

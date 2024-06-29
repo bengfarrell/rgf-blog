@@ -42,7 +42,7 @@ My rating:
 
 [![avocado rating](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [Wine on the Dime](http://www.wineonthedime.com/2012-extremely-rare-rare-red-black-blend/)
 

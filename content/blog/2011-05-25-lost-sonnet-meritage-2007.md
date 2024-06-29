@@ -29,7 +29,7 @@ It needs some airing—otherwise, it gets a little too close to tasting like pot
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Beards and Bellies](http://beardsandbellies.com/2011/04/25/lost-sonnet-meritage-2007-napa-valley-red-wine/)
 

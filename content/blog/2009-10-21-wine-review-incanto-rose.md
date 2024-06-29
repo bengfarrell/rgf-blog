@@ -28,7 +28,7 @@ This sparkling rose has no nose to speak of.  It is moderately fizzy and paltry
 ![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
 
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 **Wine Novice @ [The Wino That I Know](http://thewinothatiknow.blogspot.com/2008/08/incanto-rose.html)**
 

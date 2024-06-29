@@ -23,7 +23,7 @@ It’s a simple wine but simply good, too.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [#crasstalk](http://crasstalk.com/2010/12/bubble-bubble-toil-and-trouble/)
 

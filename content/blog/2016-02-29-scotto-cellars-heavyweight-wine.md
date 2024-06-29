@@ -38,7 +38,7 @@ In other words, aging is recommended to realize this wine’s full potential—b
 
 For me, the petite sirah is a heavyweight I’d gladly go up against again, and the cabernet is likely to graduate to another weight class in time.
 
-## **Other Bloggers’ Thoughts:**
+**Other Bloggers’ Thoughts**
 
 [Stay Rad Wine Blog](https://stayradwineblog.com/) on the Petite Sirah
 

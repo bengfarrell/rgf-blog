@@ -29,7 +29,7 @@ This sake is nigori, so it's unfiltered, and I'm happy to report that it doesn't
 
 ![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [GANBEI](http://dandancandrink.blogspot.com/2008/12/momokawa-pearl-junmai-ginjo-nigori.html)!
 

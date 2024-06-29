@@ -28,7 +28,7 @@ This isn’t a sophisticated wine by any means, but it’s a serviceable example
 
  
 
-Other bloggers’ thoughts:
+**Other Bloggers’ Thoughts**
 
 [The Poor Man’s Guide to Alcohol](http://thepoormansguidetoalcohol.wordpress.com/2011/12/10/red-wines-for-6-and-under/)
 

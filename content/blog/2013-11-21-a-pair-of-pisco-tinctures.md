@@ -3,7 +3,9 @@ title: "A Pair of Pisco Tinctures"
 date: "2013-11-21"
 categories:
   - "recipes"
-  - "pisco"
+  - "spirits"
+  - "product-reviews"
+  - "cocktails"
 tags:
   - "cocktail"
   - "fennel"
@@ -33,11 +35,16 @@ I'm quite proud of the first drink, and if I, or you, took the time to infuse th
 
 [![Pisco Fennel](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/Pisco-Fennel-497x500.jpg)](http://www.thegourmez.com/2013/11/a-pair-of-pisco-tinctures/pisco-fennel/)
 
-**The Jurong**
+## The Jurong
 
-2 oz. pisco ¼ of a large orange A large handful of fennel fronds 1 oz. Royal Rose tamarind syrup
+2 oz. pisco\
+¼ of a large orange\
+A large handful of fennel fronds\
+1 oz. Royal Rose tamarind syrup
 
-Chill your glasses. Muddle the orange quarter with the fennel and the pisco, saving a few fronds of fennel for garnish. Muddle that sucker until you can see many specks of fennel floating around. Fill the glasses with two large ice cubes each. I chose wine glasses because they show off a layered drink well. Also, I only had so many clean glasses. Strain your muddled mixture, shake with ice, and pour into the glasses. Using a spoon against the side of the glass, pour the tamarind syrup into the bottom of the drink. Ooh and ah at how pretty it is before swishing it all together—it'll taste better that way.
+Chill your glasses. Muddle the orange quarter with the fennel and the pisco, saving a few fronds of fennel for garnish. Muddle that sucker until you can see many specks of fennel floating around. Fill the glasses with two large ice cubes each. I chose wine glasses because they show off a layered drink well. Also, I only had so many clean glasses. 
+
+Strain your muddled mixture, shake with ice, and pour into the glasses. Using a spoon against the side of the glass, pour the tamarind syrup into the bottom of the drink. Ooh and ah at how pretty it is before swishing it all together—it'll taste better that way.
 
 The tamarind syrup is sweet enough to even out the alcohol, but it also gives the drink weight. Without it, the Jurong would be light enough to blow away on the breeze.
 
@@ -47,9 +54,13 @@ Drink #2 is simpler than the Jurong, but it has quite a kick! I actually made it
 
 [![Pisco 3 Chiles](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/Pisco-3-Chiles.jpg)](http://www.thegourmez.com/2013/11/a-pair-of-pisco-tinctures/pisco-3-chiles/)
 
-**The Fiery Grape**
+## The Fiery Grape
 
-1 oz. pisco ¼ oz. Royal Rose Three Chiles Syrup 2 oz. orange juice (from ¼ of a large orange) 1 oz. white wine orange zest
+1 oz. pisco\
+¼ oz. Royal Rose Three Chiles Syrup\
+2 oz. orange juice (from ¼ of a large orange\
+1 oz. white wine\
+orange zest
 
 Shake the ingredients together and sprinkle some zest on top. This drink isn't shy; you'll either love it or you'll put it aside for a smoother concoction.
 

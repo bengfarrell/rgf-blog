@@ -29,7 +29,7 @@ There's a lot of fruit in this medium-bodied wine including raspberry, cherry, a
 <div class="caption">
 
 ![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")</div>
-  Other Bloggers' Thoughts:
+  **Other Bloggers' Thoughts:**
 
 [Star Silver Creek](http://www.starksilvercreek.com/2009/01/napa-river-merlot-2005-mysterious-in-origin-trader-joes-review.html) on the 2005 vintage
 

@@ -16,7 +16,7 @@ The Banshee Red Wine is surprisingly mellow and lacking in any electrifying mann
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 Not finding any! Guess no one else has heard it screaming from the wine shelves.
 

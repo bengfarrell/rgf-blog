@@ -2,8 +2,7 @@
 title: "Triangle Foodie Happenings"
 date: "2013-06-19"
 categories: 
-  - "events"
-  - "restaurants"
+  - "announcements"
 tags: 
   - "an"
   - "andrea-edith-moore"

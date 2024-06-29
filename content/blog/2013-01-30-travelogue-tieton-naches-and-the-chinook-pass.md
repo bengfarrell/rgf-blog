@@ -2,8 +2,9 @@
 title: "Travelogue: Tieton, Naches, and the Chinook Pass"
 date: "2013-01-30"
 categories:
-  - "travel-guide"
-  - "travel-guide"
+  - "travel-guides"
+  - "tasting-rooms"
+  - "wine"
 tags:
   - "apples"
   - "car-trip"

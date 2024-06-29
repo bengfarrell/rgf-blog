@@ -2,9 +2,8 @@
 title: "Travelogue: Abita Springs and Covington, LA"
 date: "2013-02-04"
 categories:
-  - "bars"
-  - "breweries-in-abita-springs-la"
-  - "travel-guide"
+  - "breweries"
+  - "travel-guides"
 tags:
   - "abita-brewery"
   - "abita-mystery-house"

@@ -2,8 +2,6 @@
 title: "Broadbent Vinho Verde"
 date: "2013-02-08"
 categories: 
-  - "vinho-verde"
-  - "white-wine-reviews"
   - "wine"
 tags: 
   - "bianca-blanca-rioja"
@@ -20,7 +18,7 @@ tags:
   - "white"
 ---
 
-**Broadbent Vinho Verde** Portugal
+**Region:** Portugal
 
 [![Broadbent Vinho Verde](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/Broadbent-Vinho-Verde.jpg)](http://www.thegourmez.com/2013/02/broadbent-vinho-verde/broadbent-vinho-verde-2/)
 
@@ -32,7 +30,7 @@ This wine has a lot of typical Vinho Verde characteristics, but it’s too astri
 
 [![rating_olive1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)](http://www.thegourmez.com/2009/04/cocktail-review-the-shiki-tini/rating_olive1/)
 
-**Other Bloggers’ Thoughts:**
+**Other Bloggers’ Thoughts**
 
 [Boise Weekly](http://www.boiseweekly.com/boise/its-easy-being-green-with-vinho-verde/Content?oid=2697880)
 

@@ -3,7 +3,7 @@ title: "Southern Tea @ the Oxford"
 date: "2013-05-31"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags: 
   - "cocktail"
   - "downtown"
@@ -17,7 +17,9 @@ tags:
   - "the-oxford"
 ---
 
-**Southern Tea** The Oxford ([My Review](http://www.thegourmez.com/2009/09/restaurant-review-the-oxford-downtown-raleigh/)) Downtown Raleigh $9
+**The Oxford** ([My Bar Review](http://www.thegourmez.com/2009/09/restaurant-review-the-oxford-downtown-raleigh/))\
+Downtown Raleigh, NC\
+$9
 
 [![southern tea](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/southern-tea-381x500.jpg)](http://www.thegourmez.com/2013/05/lemontini-the-oxford/southern-tea/)
 

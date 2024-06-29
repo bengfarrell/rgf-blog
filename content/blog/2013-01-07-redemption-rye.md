@@ -2,8 +2,7 @@
 title: "Redemption Rye"
 date: "2013-01-07"
 categories: 
-  - "rye"
-  - "whiskey-whisky-review"
+  - "spirits"
 tags: 
   - "chemistry-of-the-cocktail"
   - "corn"
@@ -18,7 +17,7 @@ tags:
   - "whisky"
 ---
 
-**Redemption Rye** Bardstown, Kentucky
+**Region:** Bardstown, Kentucky
 
 [](http://www.thegourmez.com/2013/01/redemption-rye/redemption_-rye/)[![RedemptionRye](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/RedemptionRye.jpg)](http://www.thegourmez.com/2013/01/redemption-rye/redemptionrye/)
 
@@ -32,7 +31,7 @@ That’s all I have to say. It’s delicious, and I’ll buy more.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [A Girl and Her Barstool](http://girlandherbarstool.com/2012/12/19/riff-on-a-scofflaw-with-redemption-rye-at-au-cheval/)
 

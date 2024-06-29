@@ -3,7 +3,8 @@ title: "Bar Lusconi"
 date: "2013-05-01"
 categories: 
   - "bars"
-  - "tasting-rooms-in-durham-nc"
+  - "cider"
+  - "restaurants"
   - "wine"
 tags: 
   - "bar-lusconi"
@@ -22,7 +23,10 @@ tags:
   - "timothy-neill"
 ---
 
-**Bar Lusconi** 117B East Main Street Downtown Durham [Website](http://barlusconi.com/) Weds – Sat, 5 pm – 2 am
+117B East Main Street\
+Downtown Durham\
+[Website](http://barlusconi.com/)\
+Weds–Sat, 5:00 pm–2:00 am
 
 [![](http://carpedurham.com/wp-content/uploads/2013/04/BarLusconi.jpg)](http://carpedurham.com/2013/04/25/bar-lusconi-soft-opening/barlusconi/)
 

@@ -2,8 +2,8 @@
 title: "Poole's Downtown Diner"
 date: "2013-07-26"
 categories: 
-  - "raleigh-restaurant-reviews"
   - "restaurants"
+  - "cocktails"
 tags: 
   - "ashley-christiansen"
   - "au-gratin"
@@ -40,7 +40,10 @@ tags:
   - "upscale"
 ---
 
-Poole's Downtown Diner 426 McDowell Street Downtown Raleigh [Website](http://www.ac-restaurants.com/pooles/) Entrees: $19-22
+426 McDowell Street\
+Downtown Raleigh, NC\
+[Website](http://www.ac-restaurants.com/pooles/)\
+Entrees: $19-22
 
 This highly praised foodie haven from Raleigh celebrity chef Ashley Christiansen was Number #1 on my must list for places to try before leaving the Triangle. And I am super glad I did. It's a foodie haven for a reason. But I was surprised by how strongly I felt it might not be for everyone else.
 
@@ -131,9 +134,5 @@ It was the more creative option, as the cobbler had an interesting texture from 
 At the end of the evening, I was convinced that Poole's designation as a required stop for Triangle foodies is earned, but I questioned whether the inconveniences would make it worthwhile for the average patron who just wants a good meal. The chalkboard menus made me feel clumsy when having to walk around to read them, and the lack of air conditioning would be a challenge for some diners. Plus, the no reservation policy has deterred many of my friends in the past, and it's why it took me this long to finally check Poole's out. But if none of that stymies your passionate pursuit of good food, as it did not stymie mine, then Poole's is worth the effort.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
-
-[![Poole's Downtown Diner on Urbanspoon](http://www.urbanspoon.com/b/link/291802/minilink.gif)](http://www.urbanspoon.com/r/25/291802/restaurant/Inside-the-Beltline/Pooles-Downtown-Diner-Raleigh)
-
-[![Poole's Downtown Diner on Foodio54](http://foodio54.com/images/badge-2-545ef.jpg)](http://foodio54.com/restaurant/Raleigh-NC/545ef/Pooles-Downtown-Diner)
 
 _Reviewed 18 July 13._

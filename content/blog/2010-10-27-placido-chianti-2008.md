@@ -30,7 +30,7 @@ This chianti tastes pungent, and not in a good way. Unripened blackberries, nect
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)</div>
 
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Tom and Melody’s Wine Blog](http://tomandmelodywine.com/2010/06/17/placido-chianti-2008/)
 

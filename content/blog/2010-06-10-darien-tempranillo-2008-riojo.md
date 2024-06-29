@@ -30,7 +30,7 @@ This Spanish red rises to the roof of my mouth right away. There's some pucker f
 <div class="caption">
 
 ![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
-  Other Bloggers' Thoughts:\*
+  **Other Bloggers' Thoughts:**\*
 
 [Cheap Wine Critics](http://www.cheapwinecritics.com/varietal/tempranillo/darien-tempranillo-rioja-nv/)
 

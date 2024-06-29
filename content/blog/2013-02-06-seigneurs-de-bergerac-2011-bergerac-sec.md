@@ -2,9 +2,6 @@
 title: "Seigneurs de Bergerac 2011 Bergerac Sec"
 date: "2013-02-06"
 categories: 
-  - "bergerac-sec"
-  - "dessert-wine-reviews"
-  - "white-wine-reviews"
   - "wine"
 tags: 
   - "2011"
@@ -21,7 +18,7 @@ tags:
   - "wine-is-life"
 ---
 
-**Seigneurs de Bergerac 2011 Bergerac Sec** Dordogne Valley, France
+**Region** Dordogne Valley, France
 
 [![seignerus_de_bergerac_sec](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/seignerus_de_bergerac_sec.jpg)](http://www.thegourmez.com/2013/02/seigneurs-de-bergerac-2011-bergerac-sec/seignerus_de_bergerac_sec/)
 
@@ -31,7 +28,7 @@ The Bergerac Sec is harmless with character from the lime and custard notes. You
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
 
-**Other Bloggers’ Thoughts:**
+**Other Bloggers’ Thoughts**
 
 [Wine is Life](http://baldwinegeek.blogspot.com/2008/05/seigneurs-de-bergerac-bergerac-sec-2006.html) on the 2006 vintage
 

@@ -3,7 +3,6 @@ title: "Review Bragging - New WRAL Post"
 date: "2013-04-15"
 categories: 
   - "announcements"
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "beans"
@@ -21,7 +20,7 @@ tags:
   - "wral"
 ---
 
-I'm a little (a lot) behind on the times in that I'm just now posting this teaser here, and it was published about a month ago at _WRAL_'s Out and About blog. Oops! My time from reviewing a spot/drink to posting about it is on a month lag right now, so that's par for the course! Oh well. Someday, I'll get back to more of a 1--2 week lag.
+I'm a little (a lot) behind on the times in that I'm just now posting this teaser here, and it was published about a month ago at _WRAL_'s Out and About blog. Oops! My time from reviewing a spot/drink to posting about it is on a month lag right now, so that's par for the course! Oh well. Someday, I'll get back to more of a 1–2 week lag.
 
 But enough of my behind-the-scenes issues. Here's a teaser of my review of Sarah's Empanadas:
 

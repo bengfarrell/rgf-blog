@@ -31,7 +31,7 @@ It tastes mild and clean with but a small burst of tannins. Light-bodied, a bit 
 <div class="caption">
 
 ![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
-  Other Bloggers' Thoughts:
+  **Other Bloggers' Thoughts:**
 
 On the 2007 vintage from [Decanting](http://www.wine-road.com/blog/?p=371):
 

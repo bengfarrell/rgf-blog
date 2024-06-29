@@ -2,7 +2,7 @@
 title: "Kinston, NC Blogging: An Afternoon by the Neuse River"
 date: "2013-03-27"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "bank"
   - "birds-of-prey"
@@ -29,10 +29,6 @@ tags:
   - "train-ride"
   - "visitor-guide"
 ---
-
-**Kinston, NC Blogging: An Afternoon by the Neuse River**
-
-
 
 
 <div class="caption">

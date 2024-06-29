@@ -28,7 +28,7 @@ There's no nose to speak of. The taste is mineral and bright with lime and lemon
 <div class="caption">
 
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
-  Other Bloggers' Thoughts:
+  **Other Bloggers' Thoughts:**
 
 [Under the Grape Tree](http://underthegrapetree.blogspot.com/2009/02/alfonse-checks-in-with-some-faves-for.html)
 

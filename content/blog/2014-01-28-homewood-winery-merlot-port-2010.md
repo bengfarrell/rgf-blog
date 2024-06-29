@@ -30,7 +30,7 @@ This port is a lot of fun to drink, and I imagine it will only deepen in depth w
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 Again, I’ve found no blog reviews of this wine. I’m beginning to suspect that local wine bottlings without mass distribution don’t end up with many reviews of their wares. Hrm. I think that deserves further pondering despite it being rather unsurprising.
 

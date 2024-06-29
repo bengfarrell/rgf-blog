@@ -25,7 +25,7 @@ Prunes and strawberries dominate the nose. There’s a crushed mint flavor that 
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Other bloggers’ thoughts:
+**Other Bloggers’ Thoughts**
 
 [Trader Joe’s Wine Compendium](http://traderjoeswine.blogspot.com/2009/04/2006-three-knights-merlot-699.html)
 

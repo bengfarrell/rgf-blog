@@ -3,8 +3,8 @@ title: "Cocktails and Other Night Sights in New Orleans"
 date: "2013-02-20"
 categories:
   - "spirits"
-  - "new-orleans-bar-review"
-  - "travel-guide"
+  - "cocktails"
+  - "travel-guides"
 tags:
   - "aquarium-of-the-americas"
   - "balcony"
@@ -60,7 +60,7 @@ You'll note their signature drink, the Ginger Mint Julep, advertised on the buil
 
 [![2012_Dec_Nola_078small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_078small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_078small/)
 
-It was refreshing, but not the sort of cocktail that keeps my attention for long. Too much club soda for that, and who knew what was waiting for me in a city known for its mixology? My husband went for one of our trusty standards, the Sazerac, and we were surprised by how sweet it was. Sugar is not something I associate with a Sazerac, but several bars served it that way in New Orleans. Simple syrup appears to be in the standard recipe for it, but I think bars outside of New Orleans may skimp on it—and I approve of that decision. [![Evangeline on Urbanspoon](http://www.urbanspoon.com/b/link/1677532/minilink.gif)](http://www.urbanspoon.com/r/57/1677532/restaurant/French-Quarter/Evangeline-New-Orleans)
+It was refreshing, but not the sort of cocktail that keeps my attention for long. Too much club soda for that, and who knew what was waiting for me in a city known for its mixology? My husband went for one of our trusty standards, the Sazerac, and we were surprised by how sweet it was. Sugar is not something I associate with a Sazerac, but several bars served it that way in New Orleans. Simple syrup appears to be in the standard recipe for it, but I think bars outside of New Orleans may skimp on it—and I approve of that decision. 
 
 We moved on after one drink, not realizing there was a full courtyard in back that would have been more appealing than the abandoned bar—obviously, we were newcomers to this city. Many French Quarter joints have a courtyard. But the change of locale had its rewards. Our next choice was the [Carousel Bar](http://hotelmonteleone.com/dining-entertainment/carouselbar/) inside the Monteleone Hotel (214 Royal St.).
 
@@ -299,11 +299,6 @@ Honestly, their version was too sweet for me, but I drank it like the dutiful to
 
 [![Me and the flame!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_392small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_392small/) Me and the flame!</div>
 
-
-[![Pat O'Brien's Courtyard Restaurant on Urbanspoon](http://www.urbanspoon.com/b/link/1609025/minilink.gif)](http://www.urbanspoon.com/r/57/1609025/restaurant/French-Quarter/Pat-OBriens-Courtyard-Restaurant-New-Orleans)
-
-[![Pat O'Brien's Courtyard Restaurant on Foodio54](http://foodio54.com/images/badge-1-de03b.jpg)](http://foodio54.com/restaurant/New-Orleans-LA/de03b/Pat-OBriens-Courtyard-Restaurant)
-
 Thus, it was time to walk off another drink and make our way to a new one, by way of more lit up French Quarter side streets.
 
 [![2012_Dec_Nola_359small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_359small.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_359small/)
@@ -327,8 +322,6 @@ Before we could stop it, that absinthe was flamed!
 I swear I didn't know she was going to light it, absinthe lovers! Regardless, it made for a dramatic presentation. The check presentation was just as dramatic, as we learned those servings were $30 each! Well, Ben, swears it was $20, but still!
 
 "Oops," said the bartender when we confirmed the tab. "I was supposed to tell you the price first." I would have raged, but I'm far too mellow for that, and besides, I had drunk absinthe.
-
-[![Old Absinthe House on Foodio54](http://foodio54.com/images/badge-1-31a6a.jpg)](http://foodio54.com/restaurant/New-Orleans-LA/31a6a/Old-Absinthe-House)
 
 That strikes me as an excellent way to end this post on nightlife in the Big Easy: with a note of contentedness and a note of confusion. Really, isn't that how all good bar crawls should finish? If you want more pictures for our eats and drinks in the dark times, [click here](https://www.facebook.com/media/set/?set=a.10151171960834607.451342.567409606&type=1&l=57ddc79a98 "NOLA Streets and Eats by Night").
 

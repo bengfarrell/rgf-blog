@@ -18,7 +18,7 @@ It would make a nice ice cream flavor, but it’s too sweet for my drinking pref
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 MIA. Other than a few remarks about buying it for a friend who likes semisweet wines or using it to get courage to clean carpet stains, there were no blogger reviews of the wine.
 

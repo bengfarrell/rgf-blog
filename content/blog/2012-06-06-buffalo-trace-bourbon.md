@@ -29,7 +29,7 @@ In other words, Buffalo Trace makes worthwhile bourbon that’s just a tad cheap
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 
 
-Other bloggers’ thoughts:
+**Other Bloggers’ Thoughts**
 
 [Cigar Brief](http://cigarbrief.com/featured/review-buffalo-trace-kentucky-straight-bourbon-whiskey/4611/)
 

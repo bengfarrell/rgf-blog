@@ -2,7 +2,7 @@
 title: "Bring Me That Restaurant Delivery Service"
 date: "2013-05-29"
 categories:
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "asian-kitchen"
@@ -28,7 +28,7 @@ tags:
   - "triangle-startup-factory"
 ---
 
-_**Warning! Please make sure to read the comment thread below, as many customers have reported having problems with this service in the past four years since I wrote this post. Use caution-**_**the Gourmez,** _**5/23/2017**_
+_**Warning! Many customers have reported having problems with this service in the past four years since I wrote this post. It is no longer recommended by this site. Use caution-**_**the Gourmez,** _**5/23/2017**_
 
 [Bring Me That](http://www.bringmethat.com/), a Web-based service for ordering food, is a startup with the Triangle Startup Factory in Durham. This is of particular interest to you, the readers of my blog, because you tend to like food from local restaurants and Bring Me That is making it easier for their food to end up in your mouths. After launching in Ohio, Bring Me That has opened up shop for North Carolinian restaurants, and they asked me to check out the service for them.
 

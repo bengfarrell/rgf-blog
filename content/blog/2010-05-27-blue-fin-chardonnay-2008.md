@@ -30,7 +30,7 @@ It's not a bad wine, but certainly doesn't tickle my taste buds.
 <div class="caption">
 
 ![1 star](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")</div>
-  Other Bloggers' Thoughts:
+  **Other Bloggers' Thoughts:**
 
 [Eat Well and Prosper](http://eatwellandprosper.blogspot.com/2010/04/wine-of-week-blue-fin-2008-chardonnay.html)
 

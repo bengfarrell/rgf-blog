@@ -3,7 +3,7 @@ title: "The Boy's Club at the Borough"
 date: "2013-03-11"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags: 
   - "alcohol"
   - "baileys"
@@ -22,7 +22,9 @@ tags:
   - "the-boys-club"
 ---
 
-**The Boy’s Club** [The Borough](http://theboroughraleigh.com/) Downtown Raleigh $7.50
+**[The Borough](http://theboroughraleigh.com/)**\
+Downtown Raleigh, NC\
+$7.50
 
 This cocktail is a Kahlua, Bailey’s Irish cream, and Frangelico trio shaken up with chocolate and iced Counter Culture coffee. If you’re thinking dessert, you’re thinking correctly, as most coffee cocktails fall under that category.
 
@@ -33,7 +35,5 @@ The drink is indisputably gorgeous with that chocolate pattern laced into the lo
 The Boy's Club is an attractive drink, but it needs more coffee.
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
-
-[![The Borough on Urbanspoon](http://www.urbanspoon.com/b/link/290270/minilink.gif)](http://www.urbanspoon.com/r/25/290270/restaurant/Inside-the-Beltline/The-Borough-Raleigh)
 
 _Reviewed 26 Jan 13._

@@ -42,7 +42,7 @@ Pretty good whiskey for the price point. It cost around $23. Husband says, “It
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [The Cocktail Geek](http://thecocktailgeek.com/review-monkey-shoulder-whisky/)
 

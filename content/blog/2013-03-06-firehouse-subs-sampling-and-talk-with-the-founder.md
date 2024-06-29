@@ -2,7 +2,6 @@
 title: "Firehouse Subs Sampling and Talk with the Founder"
 date: "2013-03-06"
 categories:
-  - "cary-restaurant-reviews"
   - "events"
   - "restaurants"
 tags:
@@ -37,11 +36,6 @@ tags:
   - "smokehouse-beef-and-cheddar-brisket"
   - "spicy"
 ---
-
-**Firehouse Subs Sampling and Talk with the Founder**
-
-
-
 
 <div class="caption">
 
@@ -135,9 +129,5 @@ Firehouse subs sent us home with a cookie and an appreciation for the company.
 [![Firehouse Subs 17](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Firehouse-Subs-17.jpg)](http://www.thegourmez.com/2013/03/firehouse-subs-sampling-and-talk-with-the-founder/firehouse-subs-17/)
 
 My thanks to Robin and Firehouse Subs for the opportunity to sample, or stuff myself with, rather, their food this evening. Firehouse Sub’s unique style of steaming sandwiches produces a great texture and melding of ingredients. The bread is soft but toasty around the edges, and everything comes together in inviting, warm bites. Plus, I love a messy dressing on any sandwich, so I will definitely be back.
-
-[![Firehouse Subs on Urbanspoon](http://www.urbanspoon.com/b/link/290840/minilink.gif)](http://www.urbanspoon.com/r/25/290840/restaurant/Firehouse-Subs-Cary)
-
-[![Firehouse Subs on Foodio54](http://foodio54.com/images/badge-1-54175.jpg)](http://foodio54.com/restaurant/Cary-NC/54175/Firehouse-Subs)
 
 Now’s your chance, dear reader, to win a $10 gift card to Firehouse Subs! Be the first of five people to leave a comment on this post, and you’ll win. Make sure to give me your e-mail when filling out the comment form, so I can get your address.

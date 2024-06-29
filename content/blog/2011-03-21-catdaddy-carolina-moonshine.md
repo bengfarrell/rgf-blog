@@ -24,7 +24,7 @@ I’ve been enjoying this spirit out in the occasional cocktail, and I’m excit
 
 It’ll be too sweet for some palates, but it’s much more layered than I expected, which comes out more with every sip. Overall, a tad too sweet for my palate, too, but a lovely sipper and mixer, nonetheless.[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [American Craft Spirits](http://americancraftspirits.com/?p=1617)
 

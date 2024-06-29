@@ -25,7 +25,7 @@ This wine is from my stomping grounds, though I didn’t know much about wine ba
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Good Juice. Bad Juice.](http://goodjuicebadjuice.com/wordpress/?p=1021)
 

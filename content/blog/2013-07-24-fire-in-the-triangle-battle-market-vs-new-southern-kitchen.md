@@ -4,8 +4,6 @@ date: "2013-07-24"
 categories:
   - "events"
   - "restaurants"
-  - "spirits"
-  - "vodka"
 tags:
   - "basil-gin-syrup"
   - "battle"

@@ -2,7 +2,7 @@
 title: "New Orleans’ Adventures: Honey Island Swamp Touring"
 date: "2013-02-27"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "alligator"
   - "beauitiful"

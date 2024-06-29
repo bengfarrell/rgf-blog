@@ -29,7 +29,7 @@ That bad impression is spoiled milk. This is a very acidic sake and combined wit
 <div class="caption">
 
 ![0 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_mushroom1.gif "rating_mushroom1")</div>
-  Other Bloggers' Thoughts:
+  **Other Bloggers' Thoughts:**
 
 There are a number of video reviews of this sake, but I don't tend to watch those. I could only find the one written review below:
 

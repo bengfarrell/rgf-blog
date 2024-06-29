@@ -2,7 +2,6 @@
 title: "Fresno Cafe"
 date: "2013-01-21"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "butternut-squash-soup"
@@ -20,7 +19,11 @@ tags:
   - "steak-salad"
 ---
 
-**Fresno Café** 4015 University Drive South Square [Website](http://fresnocafedurham.com/index.html) M-W: 10 am – 6 pm Th-Sat: 10 am – 2:30 pm, 4:30 pm – 8 pm
+4015 University Drive\
+South Square, Durham, NC\
+[Website](http://fresnocafedurham.com/index.html)\ 
+M–W: 10 am–6 pm\
+Th–Sat: 10 am–2:30 pm, 4:30 pm–8 pm
 
 Fresno Café opened late summer in the strip mall spot that last housed Bear Rock Café. The last time I was there, it was Rick's Diner and the look has completely changed since then.
 
@@ -65,7 +68,5 @@ The filling is a blend of Idaho and sweet potatoes with gouda and scallions. The
 Ultimately, I think the entrees were a bit overpriced (they ranged from $11 to $16, I think) and some of the recipes could definitely be more flavorful. Other items are already great as is, though, like the onions, the steak salad, and the apricot vinaigrette. I am also very interested in trying the pizza pies on the menu, especially the apple and bacon one. Has anybody had their lunch sandwiches?
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
-
-[![Fresno Cafe on Urbanspoon](http://www.urbanspoon.com/b/link/1710858/minilink.gif)](http://www.urbanspoon.com/r/25/1710858/restaurant/Hope-Valley/Fresno-Cafe-Durham)
 
 _Reviewed 17 Jan 2013._

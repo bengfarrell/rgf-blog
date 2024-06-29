@@ -2,9 +2,7 @@
 title: "Triangle Foodie Happenings"
 date: "2013-07-08"
 categories: 
-  - "coffee-shop"
-  - "events"
-  - "restaurants"
+  - "announcements"
 tags: 
   - "american-seafood"
   - "blu"

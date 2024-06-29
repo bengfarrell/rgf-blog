@@ -2,7 +2,6 @@
 title: "Maximillian’s Grill"
 date: "2013-03-22"
 categories: 
-  - "cary-restaurant-reviews"
   - "restaurants"
 tags: 
   - "best-restaurants"
@@ -31,7 +30,10 @@ tags:
   - "veal"
 ---
 
-**Maximillian’s Grill** 8314 Chapel Hill Road Cary [Website](http://www.maximilliansgrill.com/) $19–$35
+8314 Chapel Hill Road\
+Cary, NC\
+[Website](http://www.maximilliansgrill.com/)\
+$19–$35
 
 [![Maximillians 08](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Maximillians-08-405x500.jpg)](http://www.thegourmez.com/2013/03/maximillians-grill/maximillians-08/)
 
@@ -91,6 +93,3 @@ My meal at Maximillian’s left me happy and satiated, but I found the restauran
 
 _Reviewed 20 Feb 13._
 
-[![Maximillians on Urbanspoon](http://www.urbanspoon.com/b/link/291433/minilink.gif)](http://www.urbanspoon.com/r/25/291433/restaurant/Maximillians-Cary)
-
-[![Maximillians Grill & Wine Bar on Foodio54](http://foodio54.com/images/badge-1-5415a.jpg)](http://foodio54.com/restaurant/Cary-NC/5415a/Maximillians-Grill-amp-Wine-Bar)

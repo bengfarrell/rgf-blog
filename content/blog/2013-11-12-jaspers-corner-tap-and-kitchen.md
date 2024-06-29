@@ -2,7 +2,6 @@
 title: "Jasper's Corner Tap and Kitchen"
 date: "2013-11-12"
 categories:
-  - "san-francisco-restaurant-review"
   - "restaurants"
 tags:
   - "amaro"
@@ -29,6 +28,11 @@ tags:
 
 [![Jaspers_01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/Jaspers_01.jpg)](http://www.thegourmez.com/2013/11/jaspers-corner-tap-and-kitchen/jaspers_01/)
 
+401 Taylor Street\
+The Tenderloin, San Francisco\
+[Website](http://www.jasperscornertap.com/)\
+Eat for $8–$21
+
 Jasper's Corner Tap and Kitchen is an appealing Tenderloin escape from the crowds near Union Square in downtown San Francisco, especially if you're in a drinking mood. The walls are a sleek gray with the occasional geometric patterns and letters embellished on them in shades of blue. Booths and tables are done in dark woods and black. Service is relaxed, and the extensive cocktail and beer lists with seasonal specialties should please most imbibers like myself. The menu is the everpresent mix of snacks, small plates, and large plates I've seen in pretty much every San Francisco restaurant I've tried so far. That's not a complaint — just a statement of fact. This one has a bent toward New American and comfort foods.
 
 Friend #1, my husband, and I quickly made our drink selections. Rather, they made their drink selections while I took forever to decide on the Smashing Pumpkin.
@@ -39,7 +43,6 @@ Friend #1, my husband, and I quickly made our drink selections. Rather, they mad
 <div class="caption">
 
 [![Smashing Pumpkin on the left, Friend #1's drink in the middle, and my husband's Wiessen Sour on the right.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/Jaspers_02.jpg)](http://www.thegourmez.com/2013/11/jaspers-corner-tap-and-kitchen/jaspers_02/) Smashing Pumpkin on the left, Friend #1's drink in the middle, and my husband's Wiessen Sour on the right.</div>
-
 
 The Smashing Pumpkin was a heavy drink with a light texture from velvety egg foam. Maple pumpkin butter gave it depth and richness, but you could probably have two without feeling like you swam through calories. Dark rum, amaro, and sherry made for a creative combination of liqueurs with the amaro injecting smooth herbal notes into the mix. I would drink more. I would drink often.
 
@@ -84,9 +87,5 @@ The spices of the cardamaro were mellowed by both its cardoon flavor and the mad
 In case you can't tell, I will definitely visit Jasper's again. I recommend bypassing the fry menu to save every ounce of appetite you can for the rest of the options. Want comfort food? They've got it. Want high-brow deviled eggs? They've got it. Want a full meal of coffee-brined pork with veggie ragout on one plate? They've got that too. I look forward to trying more from all their menus.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
-
-**Jasper's Corner Tap and Kitchen** 401 Taylor Street The Tenderloin, San Francisco [Website](http://www.jasperscornertap.com/) Eat for $8–$21
-
-[![Jasper's on Urbanspoon](http://www.urbanspoon.com/b/link/1629571/minilink.gif)](http://www.urbanspoon.com/r/6/1629571/restaurant/Civic-Center/Jaspers-San-Francisco)
 
 _Reviewed 26 October 13._

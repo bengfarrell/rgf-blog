@@ -35,7 +35,7 @@ If this were categorized as a liqueur, I’d be more forgiving. But as a spirit,
 
 [![rating_olive1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)
 
-**Other Bloggers’ Thoughts:**
+**Other Bloggers’ Thoughts**
 
 [Drink Hacker](http://www.drinkhacker.com/2016/01/30/review-serpents-bit-apple-cider-flavored-whisky/)
 

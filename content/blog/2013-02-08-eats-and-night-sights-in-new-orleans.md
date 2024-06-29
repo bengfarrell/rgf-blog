@@ -2,10 +2,10 @@
 title: "Eats and Night Sights in New Orleans"
 date: "2013-02-08"
 categories:
-  - "new-orleans-bar-review"
-  - "new-orleans-restaurant-review"
+  - "bars"
+  - "cocktails"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "alligator"
   - "bar"
@@ -44,11 +44,6 @@ tags:
   - "visitors-guide"
 ---
 
-**Eats and Night Sights in New Orleans**
-
-
-
-
 <div class="caption">
 
 [![Click twice on the panorama for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_217small-1024x306.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_217small/) Click twice on the panorama for the largest view!</div>
@@ -77,8 +72,6 @@ The sauce is smothering white rice, and my chosen sides were grits (lackluster) 
 ![2012_Dec_Nola_072small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_072small.jpg)
 
 He was not impressed. It was drenched in juice, not that flavorful, and the bread was soaked through. Perhaps that's normal for a po' boy, but none of the other ones we saw on this vacation were floating. You are all more than welcome to eviscerate our opinions of Mother's in the comments—I know it has a lot of fans!
-
-[![Mother's Restaurant on Urbanspoon](http://www.urbanspoon.com/b/link/621330/minilink.gif)](http://www.urbanspoon.com/r/57/621330/restaurant/Warehouse-District/Mothers-Restaurant-New-Orleans)
 
 Discouraged that Mother's didn't live up to the hype for me, we walked a few blocks from the Central Business District to get our first experiences in the French Quarter.
 
@@ -118,10 +111,6 @@ I was up to the task of eating bread pudding.
 
 Theirs was similar in shape to an inverted bundt cake, but the texture was creamy and spongy. The vanilla anglaise sauce was the best part. And thus ended Day 1 of our food adventures.
 
-[![Marigny Brasserie on Urbanspoon](http://www.urbanspoon.com/b/link/621225/minilink.gif)](http://www.urbanspoon.com/r/57/621225/restaurant/Marigny/Marigny-Brasserie-New-Orleans)
-
-[![The Marigny Brasserie on Foodio54](http://foodio54.com/images/badge-1-317fb.jpg)](http://foodio54.com/restaurant/New-Orleans-LA/317fb/The-Marigny-Brasserie)
-
 For an early dinner the next night, Ben chose [Lucy's Retired Surfers Bar and Restaurant](http://www.lucysretiredsurfers.com/) (701 Tchoupitoulas Street), which is located in the Central Business District.
 
 [![2012_Dec_Nola_231small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_231small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_231small/)
@@ -142,8 +131,6 @@ It was satisfying though possibly holding too many oysters! The bread was delici
 
 That's as hilarious of a drink as it looks. The waitress served it with two mermaids floating on top of rum and lemonade. Then she dove that shark right into it, its mouth full of grenadine to provide the final ingredient: the blood of one innocent victim. The whole routine was well worth the $6. You can even keep the shark! Ours is now proudly residing on our mantel.
 
-[![Lucy's Retired Surfers Bar & Restaurant on Urbanspoon](http://www.urbanspoon.com/b/link/1426018/minilink.gif)](http://www.urbanspoon.com/r/57/1426018/restaurant/Warehouse-District/Lucys-Retired-Surfers-Bar-Restaurant-New-Orleans)
-
 I’m full just from looking, you say. Enough time spent noshing and imbibing! That's where you're wrong, my friend. There is never enough time spent during either of those things in New Orleans. We barely made it out of the French Quarter on most evenings, and that was time well spent. In Jackson Square maybe two hours later, I dug right into more must-tastes for the tourist foodie. When in Rome New Orleans, [Café du Monde](http://www.cafedumonde.com/) (800 Decatur St.) is a necessity.
 
 [![2012_Dec_Nola_205small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_205small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_205small/)
@@ -160,10 +147,6 @@ They are puffed, fried dough for those of you unfamiliar with these packets of g
 
 I had mine iced and mixed with half-and-half in the traditional style, though I'm normally a black coffee drinker. The chicory definitely gives it a fun layer of depth.
 
-[![Café Du Monde on Urbanspoon](http://www.urbanspoon.com/b/link/620276/minilink.gif)](http://www.urbanspoon.com/r/57/620276/restaurant/French-Quarter/Cafe-Du-Monde-New-Orleans)
-
-[![Cafe du Monde Coffee Stand Office on Foodio54](http://foodio54.com/images/badge-1-a82f4.jpg)](http://foodio54.com/restaurant/New-Orleans-LA/a82f4/Cafe-du-Monde-Coffee-Stand-Office)
-
 Forswearing beignets for some unknown reason, or because HE'S CRAZY, Ben took us in pursuit of an appetizer. Café Pontalba (546 St. Peter St.), on the exact opposite end of Jackson Square, was his choice. It has a relaxed, cozy pub feel.
 
 [![2012_Dec_Nola_213small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_213small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_213small/)
@@ -175,8 +158,6 @@ More importantly, they make delicious alligator bites!
 [![2012_Dec_Nola_215small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_215small.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_215small/)
 
 That was not my first alligator, but it was the best I've had. The batter was medium density with plenty of spices, the meat tender, and you know that hot sauce drizzled on top only made it better. Good call, Ben.
-
-[![Cafe Pontalba on Urbanspoon](http://www.urbanspoon.com/b/link/620302/minilink.gif)](http://www.urbanspoon.com/r/57/620302/restaurant/French-Quarter/Cafe-Pontalba-New-Orleans)
 
 Night #3 began with an early appetizer at the [Crescent City Brewhouse](http://www.crescentcitybrewhouse.com/) (527 Decatur St.), the only microbrewery in the French Quarter.
 
@@ -215,10 +196,6 @@ I would avoid their cocktails, though.
 ![2012_Dec_Nola_344small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_344small.jpg)
 
 My Old-Fashioned was lacking on a few counts, and as beer is their specialty, it's a safer bet.
-
-[![Crescent City Brewhouse on Urbanspoon](http://www.urbanspoon.com/b/link/620558/minilink.gif)](http://www.urbanspoon.com/r/57/620558/restaurant/French-Quarter/Crescent-City-Brewhouse-New-Orleans)
-
-[![Crescent City Brewhouse on Foodio54](http://foodio54.com/images/badge-1-31aa4.jpg)](http://foodio54.com/restaurant/New-Orleans-LA/31aa4/Crescent-City-Brewhouse)
 
 Also a safe bet? Finding a voodoo store when you need one!
 
@@ -263,7 +240,5 @@ It's closer to a mussels dish than barbecue yet manages to be finger-lickin' goo
 ![2012_Dec_Nola_379small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_379small.jpg)
 
 Dessert was more bread pudding, which always makes me happy. No finesse, but it was simply done and didn't need it.
-
-[![Mr B's Bistro on Urbanspoon](http://www.urbanspoon.com/b/link/621343/minilink.gif)](http://www.urbanspoon.com/r/57/621343/restaurant/French-Quarter/Mr-Bs-Bistro-New-Orleans)
 
 What? That's it? I swear I ate more food! Oh, I did. It was just in the daytime. You'll have to wade your way through the libations before we can feast again. Yes, that means cocktails in New Orleans are next on the agenda. Viva la vieux carre!

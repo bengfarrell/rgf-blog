@@ -30,7 +30,7 @@ But back to the bourbon. The nose has a mellow heat. It smells of light molasses
 
 I find it very similar in principle to a light-bodied rum I reviewed a few months ago, the [Bacardi Ron Solera 1873](http://www.thegourmez.com/2012/01/bacardi-ron-solera-1873/). Both are thin but full of layers that make them more interesting than their base spirits generally are with that sort of body. Enjoy experimenting!
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) Other Bloggers’ Thoughts:
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) **Other Bloggers’ Thoughts**
 
 [Winofiles](http://www.winofiles.com/2012/03/corner-creek-reserve-bourbon-whiskey.html)
 

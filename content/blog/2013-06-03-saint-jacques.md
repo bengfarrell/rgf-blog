@@ -2,7 +2,6 @@
 title: "Saint Jacques"
 date: "2013-06-03"
 categories: 
-  - "raleigh-restaurant-reviews"
   - "restaurants"
 tags: 
   - "amuse-bouche"
@@ -31,7 +30,10 @@ tags:
   - "upscale"
 ---
 
-**Saint Jacques** 6112 Falls of Neuse Rd. North Raleigh [Website](http://www.saintjacquesfrenchcuisine.com/) $25–$40
+6112 Falls of Neuse Rd.\
+North Raleigh, NC\
+[Website](http://www.saintjacquesfrenchcuisine.com/)\
+$25–$40
 
 [![saint_jacques_01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/saint_jacques_01.jpg)](http://www.thegourmez.com/2013/06/saint-jacques/saint_jacques_01/)
 
@@ -108,9 +110,5 @@ The Charlotte Saint Jacques presents a round of soft carrot cake topped with dic
 Saint Jacques is an expensive choice but one with plenty of creativity and the refined technique needed to pull it off. Despite a few qualms, it’s worthy of the occasional splurge for Triangle diners.
 
 [![rating_truffle1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)](http://www.thegourmez.com/2009/02/silk-hope-winery-nc-traminette-2007/rating_truffle1/)
-
-[![Saint Jacques French Cuisine on Urbanspoon](http://www.urbanspoon.com/b/link/292112/minilink.gif)](http://www.urbanspoon.com/r/25/292112/restaurant/North-Raleigh/Saint-Jacques-French-Cuisine-Raleigh)
-
-[![Saint Jacques French Cuisine on Foodio54](http://foodio54.com/images/badge-1-5477f.jpg)](http://foodio54.com/restaurant/Raleigh-NC/5477f/Saint-Jacques-French-Cuisine)
 
 _Reviewed 15 May 13._

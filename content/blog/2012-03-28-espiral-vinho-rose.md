@@ -30,7 +30,7 @@ My first vinho rosé leaves much to hope for from future bottles, but it’s ple
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [The Wino That I Know](http://thewinothatiknow.blogspot.com/2012/02/espiral-vinho-rose.html)
 

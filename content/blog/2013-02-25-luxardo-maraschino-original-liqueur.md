@@ -2,7 +2,9 @@
 title: "Luxardo Maraschino Original Liqueur"
 date: "2013-02-25"
 categories: 
-  - "liqueur-reviews"
+  - "spirits"
+  - "recipes"
+  - "cocktails"
 tags: 
   - "almond"
   - "cherry"
@@ -18,7 +20,10 @@ tags:
   - "vanilla"
 ---
 
-**Luxardo Maraschino Original Liqueur** Veneto, Italy 32% ABV [![luxardo maraschino](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/luxardo-maraschino.jpg)](http://www.thegourmez.com/2013/02/luxardo-maraschino-original-liqueur/luxardo-maraschino/)
+**Region:** Veneto, Italy\
+32% ABV\
+
+[![luxardo maraschino](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/luxardo-maraschino.jpg)](http://www.thegourmez.com/2013/02/luxardo-maraschino-original-liqueur/luxardo-maraschino/)
 
 This is a spirit of legend for me, in that I’d seen it in a million cocktail recipes before I could ever track it down. Now that it’s finally appeared at my local ABC store, I can explore it. And it’s full of shockers. Per Luxardo’s website, the spirit is distilled from the marasca cherry and aged for two years before being diluted and sweetened. When I think maraschino, I think of the dessert topping and thus (1) sweet and (2) reddish-pink. This spirit is neither.
 
@@ -32,7 +37,12 @@ Maraschino stands out on its own, and I do think it’s appropriate for sipping.
 
 [![luxardo maraschino 02](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/luxardo-maraschino-02.jpg)](http://www.thegourmez.com/2013/02/luxardo-maraschino-original-liqueur/luxardo-maraschino-02/)
 
-**The Mayan Premonition à la Gourmez** 1.25 shots tequila 0.75 shot Luxardo Maraschino Original 0.25 shot lime juice lemon-lime soda a little ginger
+**The Mayan Premonition à la Gourmez**\
+1.25 shots tequila\
+0.75 shot Luxardo Maraschino Original\
+0.25 shot lime juice\
+lemon-lime soda\
+a little ginger
 
 That recipe list is a variation from the Mayan Premonition on their website because I don’t have all their ingredients on hand, so I’m making do. And it does pretty well! The mixture highlights the Maraschino, but it’s easier to drink than it was on its own because its already mild alcohol kick is subdued. The flavors are too mellow, however. Perhaps adding more ginger or doubling the lime would enliven the cocktail. But it’s good, and more importantly, I can better appreciate the possibilities for Maraschino.
 
@@ -40,7 +50,7 @@ I should not have gone looking at other recipes over at Luxardo. There are cockt
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 This spirit is all over the web, but finding opinions on it turned up nothing. There are lots of reviews of the Luxardo maraschino cherries and a few of Luxardo Cherry Liquor, but I could only find Maraschino Original in cocktails.
 

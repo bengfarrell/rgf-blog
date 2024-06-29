@@ -2,7 +2,7 @@
 title: "Covington Sweet Potato Vodka"
 date: "2013-05-17"
 categories:
-  - "vodka"
+  - "spirits"
 tags:
   - "best-yam-vodka"
   - "covington"
@@ -18,7 +18,8 @@ tags:
   - "tasting-notes"
 ---
 
-**Covington Sweet Potato Vodka** Snow Hill, NC 40% ABV
+**Region:** Snow Hill, NC\
+40% ABV
 
 [![Covington_01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/Covington_01-332x500.jpg)](http://www.thegourmez.com/2013/05/covington-sweet-potato-vodka/covington_01/)
 
@@ -40,7 +41,7 @@ Covington Sweet Potato Vodka is quite pleasant, almost like Pinnacle's whipped c
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 I didn't find anything by way of blogger reviews. But Covington did win a 2013 Gold Medal at the San Francisco World Spirits competition, so congratulations to them on that!
 

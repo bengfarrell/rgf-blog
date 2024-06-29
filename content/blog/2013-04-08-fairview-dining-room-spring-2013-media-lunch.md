@@ -2,8 +2,8 @@
 title: "Fairview Dining Room Spring 2013 Media Lunch"
 date: "2013-04-08"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
+  - "events"
 tags:
   - "bacon-wrapped-shrimp"
   - "bavarian-cream"
@@ -89,7 +89,5 @@ To the left was the wildflower honey and verbena Bavarian cream with pistachio d
 On the far right was a frozen Limoncello mousse over a polenta pine nut cake with apricot syrup, whipped crème fraiche, and a pine nut cracker. I would liken it to eating a lemon meringue pie in one bite without the meringue but with the same tanginess. The pine nut cracker was a nice ending crunch.
 
 Once again, with full bellies all around, lunch was over. The Washington Duke Inn will be 25 years old in November, and I can't imagine the cuisine ever failing to live up to that legacy. The duckling fricassee and the souffléd scallop with bacon-wrapped shrimp were especially deserving of it this time around. Head in between 5:30 and 6:30 for a $30 three-course prix-fixe menu! If you get the shrimp, duck, and any of those desserts, you won't be disappointed.
-
-[![Fairview Dining Room on Urbanspoon](http://www.urbanspoon.com/b/link/290808/minilink.gif)](http://www.urbanspoon.com/r/25/290808/restaurant/Duke/Fairview-Dining-Room-Durham)
 
 _Dined with pleasure on 21 Mar 13._

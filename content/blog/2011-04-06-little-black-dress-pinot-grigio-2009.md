@@ -25,7 +25,7 @@ This is bitter! That doesn’t happen often with white wines. It’s also herbal
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
-Other Bloggers’ Thoughts:
+**Other Bloggers’ Thoughts**
 
 [Gamblelynn on Wine](http://gamblelynnonwine.com/2009/04/27/little-black-dressno-longer-just-for-women/) on an unknown vintage
 

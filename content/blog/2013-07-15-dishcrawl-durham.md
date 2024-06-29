@@ -2,11 +2,8 @@
 title: "Dishcrawl Durham"
 date: "2013-07-15"
 categories:
-  - "durham-restaurant-reviews"
-  - "events"
   - "restaurants"
-  - "travel-guide"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "american-tobacco-district"
   - "avocado"
@@ -84,7 +81,7 @@ Our final stop of the evening was a few doors down at another restaurant I can h
 
 <div class="caption">
 
-![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/01/luva01.jpg) The view from my first L'Uva visit.</div>
+![luva01](http://s3.amazonaws.com/thegourmez-wpmedia/2012/01/luva01.jpg) The view from my first L'Uva visit.</div>
 
 
 An Italian restaurant was a surprising stop for dessert, but Chef John Tate used to be the pastry chef at Revolution, so it actually made sense. He personally prepared our chocolate tiramisus, and we were given complimentary tastes of a Lambrusco Rosso, which is a fruity and carbonated red wine, to wash it down.

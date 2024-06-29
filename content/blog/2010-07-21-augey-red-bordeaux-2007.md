@@ -32,7 +32,7 @@ It's a good, pleasant, easy-to-drink wine. For Bordeauxs, it's one of my favorit
 ![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11") 2 stars</div>
 
 
-Other Bloggers' Thoughts:
+**Other Bloggers' Thoughts:**
 
 [Jersey Foodies](http://jerseyfoodies.blogspot.com/2008/05/2004-augey-bordeaux.html) on the 2004 vintage
 

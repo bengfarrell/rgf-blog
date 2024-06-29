@@ -3,7 +3,6 @@ title: "The Barrel Room"
 date: "2013-12-05"
 categories: 
   - "wine-bars"
-  - "tasting-rooms-in-san-francisco-ca"
   - "wine"
 tags: 
   - "bar"
@@ -20,6 +19,11 @@ tags:
   - "union-square"
   - "wine-bar"
 ---
+
+620 Post Street\
+Union Square, San Francisco\
+[http://barrelroomsf.com/](http://barrelroomsf.com/)
+
 
 I came across the Barrel Room on a night out with an old high school friend, which pretty much describes every night out I've had since moving to the Bay Area—I have a lot of old friends to rediscover in this neck of the woods. We wanted somewhere to extend the evening but still hear each other, which can be challenge in most bars. The Barrel Room fit the bill with its parlor-room feel, complete with a fake fire and soft music playing overhead.
 
@@ -40,7 +44,5 @@ I loved how each glass came with the name of the wine written down, because I al
 Once the Barrel Room varies their flight focus, which they appear to do every so often, I can definitely see myself back in that welcoming space, spending another evening exploring wines with a friend. Okay, I'll be honest—I probably won't wait until the selection changes. It's inviting enough that I'll let the bartenders try to convince me they can find a French red for a Spanish lover like myself.
 
 [![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
-
-**The Barrel Room** 620 Post Street Tenderloin/Nob Hill/Union Square San Francisco [http://barrelroomsf.com/](http://barrelroomsf.com/)
 
 _Reviewed 27 October 13._

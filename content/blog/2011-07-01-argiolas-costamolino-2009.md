@@ -31,7 +31,7 @@ Pleasing and certainly worth finding a package of slightly savory cookies to go 
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other bloggers’ thoughts:
+**Other Bloggers’ Thoughts**
 
 [The Collingswood Wine Club](http://collingswoodwineclub.com/2011/06/10/june-wine-review-3/)
 
