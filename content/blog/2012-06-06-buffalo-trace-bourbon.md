@@ -2,7 +2,7 @@
 title: "Buffalo Trace Bourbon"
 date: "2012-06-06"
 categories: 
-  - "bourbon"
+  - "spirits"
 tags: 
   - "allspice"
   - "bourbon-reviews"
@@ -17,7 +17,7 @@ tags:
   - "woody"
 ---
 
-Buffalo Trace Bourbon Kentucky
+**Region:** Kentucky
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/buffalotrace-682x1024.jpg "buffalotrace")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/buffalotrace.jpg)
 

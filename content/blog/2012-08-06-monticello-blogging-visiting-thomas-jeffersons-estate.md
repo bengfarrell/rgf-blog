@@ -2,7 +2,7 @@
 title: "Monticello Blogging: Visiting Thomas Jefferson’s Estate"
 date: "2012-08-06"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "admission"
   - "charlottesville"

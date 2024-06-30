@@ -2,8 +2,7 @@
 title: "Cocobon 2010 Red Wine"
 date: "2012-06-13"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2010"
   - "blend"
@@ -20,7 +19,7 @@ tags:
   - "vine-duo"
 ---
 
-**Cocobon 2010 Red Wine** California
+**Region:** California
 
  [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/Cocobonsmall.jpg "Cocobonsmall")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/Cocobonsmall.jpg)
 

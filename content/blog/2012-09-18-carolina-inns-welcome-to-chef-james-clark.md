@@ -2,7 +2,6 @@
 title: "Carolina Inn’s Welcome to Chef James Clark"
 date: "2012-09-18"
 categories:
-  - "dining-chapel-hill-nc"
   - "events"
   - "restaurants"
 tags:

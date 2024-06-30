@@ -2,9 +2,8 @@
 title: "Minneapolis Blogging – The Sculpture Garden and Eat Street"
 date: "2012-06-18"
 categories:
-  - "minneapolis-dining"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "asian-taste"
   - "cowles-conservatory"

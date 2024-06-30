@@ -2,7 +2,6 @@
 title: "Rainbow"
 date: "2012-06-28"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "boba"
@@ -20,7 +19,9 @@ tags:
   - "wonton-soup"
 ---
 
-**Rainbow** 910 West Main Street Brightleaf District [Website](http://rainbowdurham.com "Rainbow")
+910 West Main Street\
+Brightleaf District, Durham, NC\
+[Website](http://rainbowdurham.com)
 
 [![](http://carpedurham.com/wp-content/uploads/2012/06/rainbowchinese01.jpg)](http://www.thegourmez.com/?attachment_id=)
 
@@ -44,4 +45,4 @@ I’d be lying if I didn’t admit being a bit in love with that cup—bubble te
 
 Most of Rainbow’s offerings are standard Chinese-American menu items, but they do have Chinese donuts that intrigued me. Unfortunately, I forgot to order them, and really, that combination was plenty of food already. Has anybody tried the Chinese donuts? They also had Faygo soda bottles, which I’d never heard of before but are apparently sold in the mid-Atlantic states and some parts of the South, so if you’re a fan, you can get them at Rainbow. **[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)**
 
-_Reviewed 20 June 12._ [![Rainbow on Urbanspoon](http://www.urbanspoon.com/b/link/291857/minilink.gif)](http://www.urbanspoon.com/r/25/291857/restaurant/Downtown-Durham/Rainbow-Durham)
+_Reviewed 20 June 12._ 

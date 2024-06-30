@@ -3,11 +3,9 @@ title: "Virginia Wine Tasting at the Angus Barn"
 date: "2012-07-09"
 categories:
   - "cider"
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "events"
-  - "nebbiolo"
-  - "other-red-blends"
-  - "petit-verdot"
+  - "wine"
 tags:
   - "angus-barn"
   - "arturo-ciompi"

@@ -3,9 +3,7 @@ title: "The Sustainable Classroom #3: The Cultivation and Culinary Possibilities
 date: "2012-12-14"
 categories:
   - "events"
-  - "zinfandel"
-  - "travel-guide"
-  - "travel-guide"
+  - "travel-guides"
   - "wine"
 tags:
   - "2012"
@@ -36,8 +34,6 @@ tags:
   - "unique-southern-dishes"
   - "wine-pairings"
 ---
-
-**The Sustainable Classroom #3: The Cultivation and Culinary Possibilities of Figs** 
 
 For my third session at [the Sustainable Classroom](http://www.terravitaevent.com/TerraVITA/SessionDescrip.html) as part of my bloggers’ free pass to [TerraVITA 2012](http://www.terravitaevent.com/TerraVITA/SessionDescrip.html), I chose to take a class on figs and wine pairings. My reasoning was simple. I adore figs. I adore wine. I often think of figs when drinking an especially rich wine. So it was a match made in heaven for me.
 

@@ -2,15 +2,9 @@
 title: "Virginia Wine Tasting at the Fox Liquor Bar"
 date: "2012-11-19"
 categories:
-  - "bars"
-  - "bars-in-raleigh-nc"
-  - "red-bordeaux"
+  - "bars""
   - "events"
-  - "petit-verdot"
-  - "red-wine-review"
-  - "sparkling-wine-review"
-  - "viognier"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "barbara-ensrud"
   - "boxwood"
@@ -30,8 +24,6 @@ tags:
   - "wine-tasting"
   - "winery"
 ---
-
-**Virginia Wine Tasting at the Fox Liquor Bar**
 
 Back in July, I attended a [wine tasting event](http://www.thegourmez.com/2012/07/virginia-wine-tasting-at-the-angus-barn/) at the Angus Barn promoting wineries from Virginia. It was very informative and a great preparation for [my trip to Charlottesville](http://www.thegourmez.com/2012/07/charlottesville-blogging-downtown-food-and-the-downtown-mall/) a few weeks later. Well, the VA Wine Board was back in town a week and a half ago, and this time they set up in Fox’s Liquor Bar in downtown Raleigh.
 

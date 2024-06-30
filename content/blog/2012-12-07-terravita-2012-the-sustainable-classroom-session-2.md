@@ -3,7 +3,7 @@ title: "The Sustainable Classroom: Practical Vs. Purist"
 date: "2012-12-07"
 categories:
   - "events"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "2012"
   - "angelo-mojica"
@@ -34,9 +34,7 @@ tags:
   - "wholesale"
 ---
 
-**The Sustainable Classroom: Practical Vs. Purist** 
-
-It’s been a while since I’ve had the chance to blog. That’s what a vacation in New Orleans will do for you. But I’m back, and I have a few more posts coming your way from the [TerraVITA 2012](http://www.terravitaevent.com/) food and wine festival. This one is a summary of a fantastic panel that was part of [the Sustainable Classroo](http://www.terravitaevent.com/TerraVITA/SessionDescrip.html)m day of educational sessions. The session title and subject was “Practical vs. Purist: Ideal and the Real World…Can They Really be the Same?”
+It’s been a while since I’ve had the chance to blog. That’s what a vacation in New Orleans will do for you. But I’m back, and I have a few more posts coming your way from the [TerraVITA 2012](http://www.terravitaevent.com/) food and wine festival. This one is a summary of a fantastic panel that was part of [the Sustainable Classroom](http://www.terravitaevent.com/TerraVITA/SessionDescrip.html) day of educational sessions. The session title and subject was “Practical vs. Purist: Ideal and the Real World…Can They Really be the Same?”
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012123.jpg "TerraVita2012123")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012123.jpg)
 

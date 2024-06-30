@@ -2,7 +2,6 @@
 title: "City Kitchen Media Dinner"
 date: "2012-09-26"
 categories:
-  - "dining-chapel-hill-nc"
   - "events"
   - "restaurants"
 tags:
@@ -42,7 +41,7 @@ tags:
   - "wral"
 ---
 
-**City Kitchen Media Dinner** [Website](http://citykitchenchapelhill.com/)
+[Website](http://citykitchenchapelhill.com/)
 
 Last week, I had the pleasure of attending a complimentary dinner at City Kitchen for media types, which I am occasionally considered thanks to my WRAL Out and About posts. This dinner was put on by Giorgios Bakatsias himself, owner of the Giorgios Hospitality Group and a man who has opened upwards of 60 restaurants in his years in the kitchen and in front of the house.
 
@@ -244,4 +243,4 @@ As Giorgios described, “The influences we have as Americans gives us the chanc
 
 That’s certainly evident in a menu that marries sushi with pizza and roast pork, and I think it was effectively conveyed in the dishes we sampled this evening as well. I’m glad I had the chance to meet Giorgios and to encounter City Kitchen anew, and I thank them so much for the free and mouth-watering meal.
 
-[WRAL’s Out and About post](http://www.wral.com/entertainment/out_and_about/blogpost/11575088/) on the event. [![City Kitchen on Urbanspoon](http://www.urbanspoon.com/b/link/1674903/minilink.gif)](http://www.urbanspoon.com/r/25/1674903/restaurant/City-Kitchen-Chapel-Hill)
+[WRAL’s Out and About post](http://www.wral.com/entertainment/out_and_about/blogpost/11575088/) on the event.

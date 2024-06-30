@@ -2,13 +2,9 @@
 title: "TerraVITA 2012 Media Farm Tour: Stop 2, Joe Van Gogh Coffee Roastery"
 date: "2012-11-06"
 categories:
-  - "coffee-shop"
-  - "chapel-hill-coffee-shop-reviews"
-  - "durham-coffee-shop-reviews"
-  - "raleigh-coffee-shop-reviews"
+  - "coffee-shops"
   - "events"
-  - "travel-guide"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "2012"
   - "coffee"

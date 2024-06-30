@@ -2,8 +2,7 @@
 title: "Baguetteaboutit"
 date: "2012-12-19"
 categories:
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "food-trucks"
 tags:
   - "baguettaboutit"
   - "baguette"
@@ -23,7 +22,8 @@ tags:
   - "triangle"
 ---
 
-**Baguetteaboutit** [Various Triangle Parking Lots](http://baguettaboutit.com/schedule/) [Website](http://baguettaboutit.com/)
+ [Various Triangle Parking Lots](http://baguettaboutit.com/schedule/)\
+ [Website](http://baguettaboutit.com/)
 
 
 
@@ -56,7 +56,5 @@ And it still has kick! The sausage was chicken chipotle, which had a smoky kick 
 Let me be real, the novelty of Baguettaboutit is enough for me to recommend this food truck on its own. Yes, the South of the Border exceeded my heat tolerance, but I know some of you enjoy challenging your taste buds as well, so I can’t really call it a demerit. Perhaps adding a creamy element to that roll would make it much easier to take. The United Nations was perfect as it was, and I’m sure the other combinations provide their own fun experiences.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
-
-[![Baguettaboutit (Food Truck) on Urbanspoon](http://www.urbanspoon.com/b/link/1685685/minilink.gif)](http://www.urbanspoon.com/r/25/1685685/restaurant/Baguettaboutit-Food-Truck-Chapel-Hill)
 
 _Reviewed 2 Nov 12 and sometime last summer._

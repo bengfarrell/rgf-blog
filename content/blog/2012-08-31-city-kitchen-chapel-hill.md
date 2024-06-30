@@ -2,9 +2,8 @@
 title: "City Kitchen"
 date: "2012-08-31"
 categories: 
-  - "dining-chapel-hill-nc"
+  - "cocktails"
   - "restaurants"
-  - "tequila"
 tags: 
   - "apple-chocolate-torte"
   - "bistro"
@@ -33,7 +32,10 @@ tags:
   - "village-burger"
 ---
 
-**City Kitchen** 201 South Estes Drive University Mall, Chapel Hill [Website](http://citykitchenchapelhill.com/) $9—26
+201 South Estes Drive\
+University Mall, Chapel Hill, NC\
+[Website](http://citykitchenchapelhill.com/)\
+$9—26
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/08/CityKitchen01.jpg "CityKitchen01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/08/CityKitchen01.jpg)
 
@@ -88,7 +90,5 @@ It was described as an apple chocolate torte with fruit compote, but flavorwise,
 While it’s obvious that City Kitchen is copying the unpretentious, yet somehow still pretentious, bistro trend, that’s not a mark against it. More of a problem is the quality control issue, but even then, we found plenty to enjoy about each dish. It’s worth a visit, and I was eyeing a wine dinner menu as we left. Village Burger is also now on my list of spots to try soon.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
-
-[![City Kitchen on Urbanspoon](http://www.urbanspoon.com/b/link/1674903/minilink.gif)](http://www.urbanspoon.com/r/25/1674903/restaurant/City-Kitchen-Chapel-Hill)
 
 _Reviewed 9 Aug 12._

@@ -2,8 +2,6 @@
 title: "Protocolo 2011 White Wine"
 date: "2012-08-08"
 categories: 
-  - "white-tempranillo"
-  - "white-wine-reviews"
   - "wine"
 tags: 
   - "2011"
@@ -24,7 +22,7 @@ tags:
   - "white"
 ---
 
-**Protocolo 2011 White Wine** Castilla, Spain
+**Region:** Castilla, Spain
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/08/protocolo-2011-white.jpg "protocolo 2011 white")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/08/protocolo-2011-white.jpg)
 

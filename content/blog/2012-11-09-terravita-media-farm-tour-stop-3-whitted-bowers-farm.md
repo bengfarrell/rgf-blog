@@ -3,8 +3,7 @@ title: "TerraVITA Media Farm Tour: Stop 3, Whitted Bowers Farm"
 date: "2012-11-09"
 categories:
   - "events"
-  - "travel-guide"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "biodynamic"
   - "biodynamics"

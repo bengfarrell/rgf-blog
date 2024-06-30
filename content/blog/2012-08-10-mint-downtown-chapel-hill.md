@@ -2,7 +2,6 @@
 title: "Mint"
 date: "2012-08-10"
 categories: 
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "black-pepper-cauliflower"
@@ -24,7 +23,10 @@ tags:
   - "upscale"
 ---
 
-**Mint** 504 Franklin Street Downtown Chapel Hill [Website](http://www.mintunc.com/) Entrees: $13 to $20
+504 Franklin Street\
+Downtown Chapel Hill, NC\
+[Website](http://www.mintunc.com/)\
+Entrees: $13 to $20
 
 Mint is an upscale Indian restaurant that resides in a former bank. Thus _mint_ serves as a double entendre for the location and the popular herb in Indian cooking. Most of the space is full of light from the storefront glass, complimenting the gold and black tones of the simple modern décor. The back table was pretty dark, however. If you want to see your food well, you should ask not to be seated there.
 
@@ -51,7 +53,5 @@ It’s ice cream that is heavy on the milk fat, extra icy on the edges, and very
 Mint serves up quality Indian food, but I’m not quite sure it matches up with the upscale ambience and pricing they reach for. It was a nice meal, but most the dishes were close to what I could get at a more casual location for half the price. If I want an inventive, top-notch, Indian meal out, I will stick with [Saffron](http://www.thegourmez.com/2009/02/saffron-morrisville-nc/ "Saffron review").
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
-
-[![Mint on Urbanspoon](http://www.urbanspoon.com/b/link/1344393/minilink.gif)](http://www.urbanspoon.com/r/25/1344393/restaurant/Franklin-St/Mint-Chapel-Hill)
 
 _Reviewed 5 July 12._

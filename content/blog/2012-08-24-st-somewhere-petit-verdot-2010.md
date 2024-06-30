@@ -2,8 +2,6 @@
 title: "St. Somewhere Petit Verdot 2010"
 date: "2012-08-24"
 categories: 
-  - "petit-verdot"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "2010"
@@ -19,7 +17,7 @@ tags:
   - "trader-joes"
 ---
 
-**St. Somewhere Petit Verdot 2010** Paso Robles, CA
+**Region:** Paso Robles, CA
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/08/St.-Somewhere.jpg "St. Somewhere")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/08/St.-Somewhere.jpg)
 

@@ -3,7 +3,7 @@ title: "North Carolina Sour at Foundation"
 date: "2012-05-18"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags: 
   - "carraige-house-apple-brandy"
   - "downtown"
@@ -18,7 +18,10 @@ tags:
   - "simple-syrup"
 ---
 
-**North Carolina Sour** Foundation ([Past](http://www.thegourmez.com/2011/12/golden-era-foundation/) [Reviews](http://www.thegourmez.com/2011/09/root-beer-flip/)) Downtown Raleigh $10
+**Foundation**\
+([Past](http://www.thegourmez.com/2011/12/golden-era-foundation/) [Reviews](http://www.thegourmez.com/2011/09/root-beer-flip/))\
+Downtown Raleigh, NC\
+$10
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/ncsour.jpg "ncsour")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/ncsour.jpg)
 

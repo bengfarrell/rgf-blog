@@ -3,8 +3,8 @@ title: "The LoMo Market"
 date: "2012-06-01"
 categories:
   - "events"
-  - "food-product-review"
-  - "product-reviews"
+  - "other-businesses"
+  - "food-trucks"
 tags:
   - "cottle-organics"
   - "durham"
@@ -20,7 +20,8 @@ tags:
   - "woodcroft"
 ---
 
-**The LoMo Market** Various Durham Locations [Website](http://lomomarket.com/)
+Various Durham Locations\
+[Website](http://lomomarket.com/)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/lomomarket08.jpg "lomomarket08")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/lomomarket08.jpg)
 

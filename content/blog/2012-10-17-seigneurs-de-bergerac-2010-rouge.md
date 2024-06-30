@@ -2,8 +2,7 @@
 title: "Seigneurs de Bergerac 2010 Rouge"
 date: "2012-10-17"
 categories: 
-  - "red-bergerac"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2010"
   - "bergerac-wine"
@@ -18,7 +17,7 @@ tags:
   - "tasting-notes"
 ---
 
-**Seigneurs de Bergerac 2010 Rouge** Bergerac, France
+**Region:** Bergerac, France
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/bergeracrouge.jpg "bergeracrouge")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/bergeracrouge.jpg)
 

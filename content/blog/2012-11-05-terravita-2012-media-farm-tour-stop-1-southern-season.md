@@ -1,14 +1,11 @@
 ---
-title: "TerraVITA 2012 Media Farm Tour: Stop 1, Southern Season"
+title: "TerraVITA 2012 Media Farm Tour: Stop 1, Southern Season *CLOSED*"
 date: "2012-11-05"
 categories:
-  - "coffee-shop"
-  - "chapel-hill-coffee-shop-reviews"
+  - "coffee-shops"
   - "events"
-  - "ice-cream-bakery-food-truck"
-  - "markets"
-  - "travel-guide"
-  - "travel-guide"
+  - "ice-cream-parlors"
+  - "other-businesses"
   - "wine"
 tags:
   - "bakery"
@@ -180,5 +177,3 @@ In case you couldn’t tell, I think the changes have made Southern Season more 
 I’m also interested in their Fridays Uncorked events, which occur every Friday night and involve rotating varieties of wine to sample and appetizers for $15. For the celebrity chef fans, Curtis Stone will be on hand at the store on [11/15 at 11 am](http://www.southernseason.com/events/single/?type=store&id=5149) for a free event promoting his new cookbook and his line of cookware.
 
 Next stop, which will be my next post, is Joe Van Gogh Coffee Roastery!
-
-[![Southern Season on Urbanspoon](http://www.urbanspoon.com/b/link/1697266/minilink.gif)](http://www.urbanspoon.com/r/25/1697266/restaurant/Southern-Season-Chapel-Hill)

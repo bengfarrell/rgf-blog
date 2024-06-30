@@ -2,7 +2,6 @@
 title: "Fire in the Triangle Round 6"
 date: "2012-06-21"
 categories: 
-  - "raleigh-restaurant-reviews"
   - "events"
   - "restaurants"
 tags: 
@@ -29,7 +28,7 @@ tags:
   - "write-up"
 ---
 
-**Fire in the Triangle Round 6** [Mia Francesca](http://www.miafrancesca.com/static.asp?path=3104) versus [518 West](http://www.518west.com/)
+**[Mia Francesca](http://www.miafrancesca.com/static.asp?path=3104) versus [518 West](http://www.518west.com/)**
 
 Last night was the sixth round of the [Fire in the Triangle](http://www.competitiondining.com/) competition. What’s that, you ask? Well, it’s a six-week-long culinary adventure pitting sixteen chefs of our prized restaurants against each other. All of the ingredients for the battle come in on one truck daily, and there is a secret, North Carolinian ingredient that the competing chefs and their teams learn about at noon the day of the competition. When all is said and done, one chef will be proclaimed the victor and win $2000, among other prizes.
 

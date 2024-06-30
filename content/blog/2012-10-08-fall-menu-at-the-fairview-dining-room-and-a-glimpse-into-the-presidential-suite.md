@@ -2,11 +2,9 @@
 title: "Fall Menu at the Fairview Dining Room (and a glimpse into the presidential suite!)"
 date: "2012-10-08"
 categories:
-  - "durham-restaurant-reviews"
   - "events"
   - "restaurants"
-  - "travel-guide"
-  - "travel-product-review"
+  - "travel-guides"
 tags:
   - "artic-char"
   - "cehddar-biscuits"
@@ -30,9 +28,11 @@ tags:
   - "washington-duke-inn"
 ---
 
-**Fall Menu at the Fairview Dining Room (and a glimpse into the presidential suite!)**
-
-Fairview Dining Room Washington Duke Inn 3001 Cameron Blvd. Duke Campus, Durham Entrees: $19-–$30 [Website](http://www.washingtondukeinn.com/Dining/fairview.asp)
+Fairview Dining Room @ the Washington Duke Inn\
+3001 Cameron Blvd.\
+Duke Campus, Durham, NC\
+Entrees: $19–$30\
+[Website](http://www.washingtondukeinn.com/Dining/fairview.asp)
 
 As you may recall, I was invited to try [the spring menu](http://www.thegourmez.com/2012/04/spring-menu-at-the-fairview-dining-room-durham/) at the Fairview Dining Room last March. Last Thursday, I previewed the fall menu along with several other local food bloggers and media members at a complimentary lunch. And it was amazing. Chef Jason Cunningham’s cuisine continues to prove to me time and time again that it’s one of the best in the area.
 
@@ -160,4 +160,3 @@ Thank you, once again, to the lovely staff of the Washington Duke Inn for the gr
 
 _Event held 10/4/2012._
 
-[![Fairview on Urbanspoon](http://www.urbanspoon.com/b/link/290808/minilink.gif)](http://www.urbanspoon.com/r/25/290808/restaurant/Duke/Fairview-Durham)

@@ -2,9 +2,8 @@
 title: "Calavera"
 date: "2012-06-20"
 categories: 
-  - "raleigh-restaurant-reviews"
   - "restaurants"
-  - "tequila"
+  - "cocktails"
 tags: 
   - "calavera"
   - "dinner"
@@ -21,7 +20,10 @@ tags:
   - "review"
 ---
 
-**Calavera** 444-101 South Blount St. Downtown Raleigh [Website](http://www.calaveraraleigh.com/) $3 per empanada
+444-101 South Blount St.\
+Downtown Raleigh, NC\
+[Website](http://www.calaveraraleigh.com/)\
+$3 per empanada
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/calaveras04.jpg "calaveras04")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/calaveras04.jpg)
 
@@ -57,4 +59,3 @@ I also recommend ordering three empanadas for a full meal. Two are better if you
 
 _Reviewed 1 June 12._
 
-[![Calavera on Urbanspoon](http://www.urbanspoon.com/b/link/1626035/minilink.gif)](http://www.urbanspoon.com/r/25/1626035/restaurant/Inside-the-Beltline/Calavera-Cary)

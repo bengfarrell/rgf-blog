@@ -2,8 +2,7 @@
 title: "Jubala Village Coffee (Raleigh)"
 date: "2012-09-24"
 categories: 
-  - "coffee-shop"
-  - "raleigh-coffee-shop-reviews"
+  - "coffee-shops"
 tags: 
   - "belgian"
   - "big-spoon"
@@ -23,7 +22,10 @@ tags:
   - "waffle"
 ---
 
-**Jubala Village Coffee** 8450 Honeycutt Road Lafayette Village, Raleigh [Website](http://www.jubalavillagecoffee.com/public/) $2.50 -–$7.50
+8450 Honeycutt Road\
+Lafayette Village, Raleigh, NC\
+[Website](http://www.jubalavillagecoffee.com/public/)\
+$2.50–$7.50
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/jubala01.jpg "jubala01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/jubala01.jpg)
 
@@ -55,4 +57,4 @@ As for atmosphere—
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)
 
-_Reviewed 10 Sep 12._ [![Jubala Village Coffee on Urbanspoon](http://www.urbanspoon.com/b/link/1591915/minilink.gif)](http://www.urbanspoon.com/r/25/1591915/restaurant/North-Raleigh/Jubala-Village-Coffee-Raleigh)
+_Reviewed 10 Sep 12._ 

@@ -2,7 +2,6 @@
 title: "KoMo KoMo Afternoon Tea"
 date: "2012-10-15"
 categories: 
-  - "cary-restaurant-reviews"
   - "restaurants"
 tags: 
   - "afternoon-tea"
@@ -31,7 +30,10 @@ tags:
   - "tuna-melt"
 ---
 
-**KoMo KoMo Afternoon Tea** 1305 NW Maynard Rd. Maynard Crossing, Cary [Website](http://komokomonc.com/) Tea Service: $14 plus the cost of tea or coffee
+1305 NW Maynard Rd.\
+Maynard Crossing, Cary, NC\
+[Website](http://komokomonc.com/)\
+Tea Service: $14 plus the cost of tea or coffee
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/komokomotea01.jpg "komokomotea01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/10/komokomotea01.jpg)
 
@@ -106,5 +108,3 @@ For $20 including the tea service and tea, an afternoon spent at KoMo KoMo is de
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
 _Reviewed 3 October 2012._
-
-[![KoMo KoMo on Urbanspoon](http://www.urbanspoon.com/b/link/1631657/minilink.gif)](http://www.urbanspoon.com/r/25/1631657/restaurant/KoMo-KoMo-Cary)

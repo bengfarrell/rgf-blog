@@ -2,8 +2,6 @@
 title: "Primal Roots 2010 Red Blend"
 date: "2012-12-31"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "2010"
@@ -24,7 +22,9 @@ tags:
   - "unfussy-wine"
 ---
 
-**Primal Roots 2010 Red Blend** Acampo, California [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/primal_roots.jpg "primal_roots")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/primal_roots.jpg) I love blends. They make me happier than wines primarily made of one grape. Together, the blend is smoother, more drinkable, although I assume an argument can be made that they lose character along the way. That may be the case with the Primal Roots 2010 Red Blend. It’s pretty good, but it could use more time to age for sure. It’s pretty far up the leather and molasses scales right now. Black raspberry is the main fruit. Kumquat, rhubarb, and strawberry are all potentially in the mix, creating a dense, sweet pie of a wine without the crust.
+**Region:** Acampo, California
+
+ [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/primal_roots.jpg "primal_roots")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/primal_roots.jpg) I love blends. They make me happier than wines primarily made of one grape. Together, the blend is smoother, more drinkable, although I assume an argument can be made that they lose character along the way. That may be the case with the Primal Roots 2010 Red Blend. It’s pretty good, but it could use more time to age for sure. It’s pretty far up the leather and molasses scales right now. Black raspberry is the main fruit. Kumquat, rhubarb, and strawberry are all potentially in the mix, creating a dense, sweet pie of a wine without the crust.
 
 At last drop, it’s too heavy to make me revel in the blend’s smoothness. There are better options ready now. Though I am curious about older vintages...
 

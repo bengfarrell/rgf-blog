@@ -2,13 +2,10 @@
 title: "TerraVITA 2012 Media Farm Tour: Stop 4, Boxcarr Farms"
 date: "2012-11-12"
 categories:
-  - "durham-restaurant-reviews"
   - "events"
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "food-trucks"
   - "restaurants"
-  - "travel-guide"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "2012"
   - "ariyeh"
@@ -203,8 +200,5 @@ After the meal, it was time to move on to our next and final stop, Coon Rock Far
 <div class="caption">
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/TerraVita2012047.jpg "TerraVita2012047")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/TerraVita2012047.jpg)</div>
-
-
-[![Boxcarr Farms Mobile Food Truck on Urbanspoon](http://www.urbanspoon.com/b/link/1723258/minilink.gif)](http://www.urbanspoon.com/r/25/1723258/restaurant/Downtown-Durham/Boxcarr-Farms-Mobile-Food-Truck-Durham)
 
 At Coon Rock, we’ll learn how they integrate animal raising and crop planting on a much larger scale than Boxcarr, and then it will be onto the Sustainable Classroom!

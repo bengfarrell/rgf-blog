@@ -2,7 +2,6 @@
 title: "El Agave (Durham) *CLOSED*"
 date: "2012-09-14"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "chile-colorado"
@@ -26,7 +25,9 @@ tags:
   - "tortilla"
 ---
 
-**El Agave** 4814 N. Highway 55 Hwys. 54 & 55 Crossroads Durham
+4814 N. Highway 55\
+Hwys. 54 & 55 Crossroads\
+Durham, NC
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/elagave10.jpg "elagave10")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/elagave10.jpg)
 
@@ -59,5 +60,3 @@ Thus, El Agave is an average Mexican American restaurant, and it could do quite 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
 _Reviewed 7 Sept 12._
-
-[![El Agave Mexican Grill on Urbanspoon](http://www.urbanspoon.com/b/link/1661146/minilink.gif)](http://www.urbanspoon.com/r/25/1661146/restaurant/RTP/El-Agave-Mexican-Grill-Durham)

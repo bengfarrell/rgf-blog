@@ -2,7 +2,6 @@
 title: "Wild Vines Blackberry Merlot"
 date: "2012-09-17"
 categories: 
-  - "dessert-wine-reviews"
   - "wine"
 tags: 
   - "blackberry-merlot"
@@ -15,8 +14,6 @@ tags:
   - "tasting-notes"
   - "wild-vines"
 ---
-
-Wild Vines Blackberry Merlot
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/wildvinesblackberry.jpg "wildvinesblackberry")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/wildvinesblackberry.jpg)
 

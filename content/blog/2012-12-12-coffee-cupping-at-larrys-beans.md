@@ -2,9 +2,8 @@
 title: "Coffee Cupping at Larry’s Beans"
 date: "2012-12-12"
 categories:
-  - "coffee-shop"
-  - "raleigh-coffee-shop-reviews"
-  - "events"
+  - "coffee-shops"
+  - ""events"
 tags:
   - "abela-geluke"
   - "big-spoon"
@@ -35,7 +34,8 @@ tags:
   - "triangle-localista"
 ---
 
-**Coffee Cupping at Larry’s Beans** 1507 Gavin Street, Raleigh
+1507 Gavin Street\
+Raleigh, NC
 
 When I accepted an invitation to check out the first coffee cupping at the [Larry’s Beans roastery](http://www.larrysbeans.com/), I had no idea that the roastery is literally a Willy Wonka house in the middle of an industrial block of downtown Raleigh.
 

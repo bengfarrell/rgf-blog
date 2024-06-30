@@ -2,8 +2,6 @@
 title: "La Ronescina Pinot Grigio"
 date: "2012-08-29"
 categories: 
-  - "pinot-grigio-gris"
-  - "white-wine-reviews"
   - "wine"
 tags: 
   - "cantaloupe"
@@ -23,7 +21,7 @@ tags:
   - "vanilla"
 ---
 
-**La Ronescina Pinot Grigio** Collio, Italy
+**Region:** Collio, Italy
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/08/laronescina.jpg "laronescina")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/08/laronescina.jpg)
 

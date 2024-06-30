@@ -3,9 +3,7 @@ title: "Review of Bandido's and Award Bragging—Carpe Durham and WRAL Out and A
 date: "2012-06-07"
 categories: 
   - "announcements"
-  - "durham-restaurant-reviews"
   - "restaurants"
-  - "writing"
 tags: 
   - "2012"
   - "bandidos"

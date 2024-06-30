@@ -3,8 +3,6 @@ title: "Bourbon Tasting"
 date: "2012-05-14"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "bourbon"
   - "spirits"
 tags: 
   - "12-year"
@@ -29,7 +27,10 @@ tags:
   - "whiskey"
 ---
 
-**Bourbon Tasting** The Roxy ([Bar Review](http://www.thegourmez.com/2011/12/the-roxy-review-and-yelps-mobsters-and-molls-party/)) Brightleaf, Durham $20
+**The Roxy**\ 
+([Bar Review](http://www.thegourmez.com/2011/12/the-roxy-review-and-yelps-mobsters-and-molls-party/))\ 
+Brightleaf, Durham, NC\
+$20
 
 The Roxy hosted a bourbon tasting the night before my birthday, and bourbon is something I’ve definitely grown to love during my time in NC. And let’s be real — I’m down for tasting any sort of alcoholic beverage. This was the first time I went to a bourbon tasting, although I did LOVE the bourbon dinner that Jujube held a few years back in which I tried a bacon bourbon cocktail for the first time. But that was spread out over several dinner courses. Bourbon tasting at the Roxy is a more casual affair with chips and salsa and some cheese pizza strips as snacks.
 

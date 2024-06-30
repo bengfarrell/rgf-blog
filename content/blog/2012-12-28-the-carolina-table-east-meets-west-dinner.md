@@ -2,11 +2,8 @@
 title: "The Carolina Table: East Meets West Dinner"
 date: "2012-12-28"
 categories:
-  - "dining-chapel-hill-nc"
-  - "kinston-nc-restaurant-review"
   - "events"
   - "restaurants"
-  - "travel-product-review"
 tags:
   - "adam-rose"
   - "arancini"
@@ -54,15 +51,9 @@ tags:
   - "vivian-howard"
 ---
 
-**The Carolina Table: East Meets West Dinner**
-
-
-
-
 <div class="caption">
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012163.jpg "TerraVita2012163")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/TerraVita2012163.jpg)</div>
-
 
 We have finally made it, dear eaters. It’s the last of my posts on TerraVITA 2012, which you may find funny because I passed up the Grand Tasting on the Square, which is TerraVITA’s main event. It did not take place until the day after this meal, and there are several [nice](http://farmfreshnorthcarolina.com/2012/11/food-fest-recap-all-yummy-all-the-time/) [write](https://www.facebook.com/media/set/?set=a.10151097770190759.437392.123680860758&type=1) [ups](http://inezsays.com/long-live-terra-vita.htm) for it. But this blogger knows herself, and she knew she would need a tasting bud sabbatical after the mad rush of the [Media Farm Tour](http://www.rebeccagomezfarrell.com/2012/11/terravita-2012-media-farm-tour-stop-1-southern-season/) and [the Sustainable Classroom](http://www.rebeccagomezfarrell.com/2012/11/the-sustainable-classroom-coffee-chocolate/). So I chose to end my TerraVITA experience with the [East Meets West Dinner](http://www.terravitaevent.com/TerraVITA/CarolinaTable.html), a new addition to TerraVITA. Once again, my meal ticket was complimentary.
 

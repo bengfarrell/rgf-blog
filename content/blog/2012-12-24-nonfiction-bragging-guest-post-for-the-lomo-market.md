@@ -3,10 +3,8 @@ title: "Nonfiction Bragging: Guest Post for the LoMo Market"
 date: "2012-12-24"
 categories:
   - "announcements"
-  - "beverage-product-review"
-  - "recipes"
-  - "product-reviews"
-  - "writing"
+  - "guest-posts"
+  
 tags:
   - "blog"
   - "cocktail-syrup"
@@ -19,8 +17,6 @@ tags:
   - "this-and-that-jam"
   - "writing"
 ---
-
-**Nonfiction Bragging: Guest Post for the LoMo Market**
 
 A few weeks back, I did some cocktail experimentation for [the LoMo Market](http://www.thegourmez.com/2012/06/the-lomo-market/), and I didn’t have the chance until now to link you all to [the post on it.](http://lomomarket.com/2012/11/this-and-that-jam-cocktail-syrup/) It was a lot of fun, and I love when I get the chance to prove I’ve learned something from this little food and drink blog of mine.
 

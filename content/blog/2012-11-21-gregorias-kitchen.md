@@ -2,7 +2,6 @@
 title: "Gregoria's Kitchen"
 date: "2012-11-21"
 categories: 
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "chapel-hill-road"
@@ -22,7 +21,11 @@ tags:
   - "vaca-frita"
 ---
 
-**Gregoria’s Kitchen** 2818 Chapel Hill Road Rockwood/Lakewood, Durham $11—$21 Dinner only [![](http://carpedurham.com/wp-content/uploads/2012/11/gregorias_kitchen_8_small.jpg)](http://www.thegourmez.com/?attachment_id=) Gregoria’s Kitchen is a Cuban restaurant in a historic home/restaurant just south of where Chapel Hill Road crosses 15-501. There is not much parking in back so park at the Yates Baptist Church across the street or use their complimentary valet. First and foremost, Gregoria’s has a wonderful atmosphere. [![](http://carpedurham.com/wp-content/uploads/2012/11/gregorias_kitchen_7_small.jpg)](http://www.thegourmez.com/?attachment_id=) The manager greeted us warmly, and an electronic harp player provided lively background music. Loads of happy patrons relaxed in welcoming red- and gold-toned rooms on the restaurant’s bottom floor. Without a reservation on a busy Friday night, we were seated upstairs at the hallway tables, which are less attractive. [![](http://carpedurham.com/wp-content/uploads/2012/11/gregorias_kitchen_5_small.jpg)](http://www.thegourmez.com/?attachment_id=) The manager, however, shared that the rest of the rooms in the top floor were undergoing renovation and would be open for dining in about a week or two if all goes well. So likely, it’ll all have the same cozy feel of the downstairs soon.
+2818 Chapel Hill Road\
+Rockwood/Lakewood, Durham, NC\
+$11—$21 Dinner only
+
+ [![](http://carpedurham.com/wp-content/uploads/2012/11/gregorias_kitchen_8_small.jpg)](http://www.thegourmez.com/?attachment_id=) Gregoria’s Kitchen is a Cuban restaurant in a historic home/restaurant just south of where Chapel Hill Road crosses 15-501. There is not much parking in back so park at the Yates Baptist Church across the street or use their complimentary valet. First and foremost, Gregoria’s has a wonderful atmosphere. [![](http://carpedurham.com/wp-content/uploads/2012/11/gregorias_kitchen_7_small.jpg)](http://www.thegourmez.com/?attachment_id=) The manager greeted us warmly, and an electronic harp player provided lively background music. Loads of happy patrons relaxed in welcoming red- and gold-toned rooms on the restaurant’s bottom floor. Without a reservation on a busy Friday night, we were seated upstairs at the hallway tables, which are less attractive. [![](http://carpedurham.com/wp-content/uploads/2012/11/gregorias_kitchen_5_small.jpg)](http://www.thegourmez.com/?attachment_id=) The manager, however, shared that the rest of the rooms in the top floor were undergoing renovation and would be open for dining in about a week or two if all goes well. So likely, it’ll all have the same cozy feel of the downstairs soon.
 
 For soda drinkers, they serve imported cokes in 8 oz. bottles. I tried the house cocktail called the Hemingway ($8), made with grapefruit juice, light rum, and dark rum infused with the house grenadine. [![](http://carpedurham.com/wp-content/uploads/2012/11/gregorias_kitchen_2_small.jpg)](http://www.thegourmez.com/?attachment_id=) I’m not sure what infusing the dark rum contributes to the drink, but it was a nice blend of flavors, almost too sweet with the grenadine but the rum still came through.
 
@@ -36,6 +39,6 @@ Dessert was the only disappointing part of the meal. [![](http://carpedurham.com
 
 Gregoria’s Kitchen is somewhere between a date night location and an enjoyable evening out with friends. Prices were perhaps too high, but I would certainly be willing to pay them again to explore more of their menu. I would love to hear if anyone’s had their croquettes or paella.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) [![Gregoria's Kitchen on Urbanspoon](http://www.urbanspoon.com/b/link/1625011/minilink.gif)](http://www.urbanspoon.com/r/25/1625011/restaurant/Duke/Gregorias-Kitchen-Durham)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 
 
 _Reviewed 16 Nov 12._

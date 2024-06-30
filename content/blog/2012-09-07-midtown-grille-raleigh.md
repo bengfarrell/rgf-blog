@@ -2,9 +2,8 @@
 title: "Midtown Grille"
 date: "2012-09-07"
 categories: 
-  - "bourbon"
-  - "raleigh-restaurant-reviews"
   - "restaurants"
+  - "cocktails"
 tags: 
   - "bar-scene"
   - "bolognese"
@@ -28,7 +27,11 @@ tags:
   - "upscale"
 ---
 
-**Midtown Grille** 4421-115 Six Forks Road North Hills, Raleigh [Website](http://themidtowngrille.com/) Entrees: $19 -–$29 Closed on Sundays
+4421-115 Six Forks Road\
+North Hills, Raleigh, NC\
+[Website](http://themidtowngrille.com/)\
+Entrees: $19–$29\
+Closed on Sundays
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/midtowngrille_0002.jpg "midtowngrille_0002")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/midtowngrille_0002.jpg)
 
@@ -93,5 +96,3 @@ So how do I rank a restaurant that seemed to have an exceptionally off night and
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif).
 
 _Reviewed 22 August 12._
-
-[![Midtown Grille on Urbanspoon](http://www.urbanspoon.com/b/link/1591496/minilink.gif)](http://www.urbanspoon.com/r/25/1591496/restaurant/North-Raleigh/Midtown-Grille-Raleigh)

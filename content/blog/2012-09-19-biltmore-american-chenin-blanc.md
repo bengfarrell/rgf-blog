@@ -2,11 +2,10 @@
 title: "Biltmore American Chenin Blanc"
 date: "2012-09-19"
 categories: 
-  - "chenin-blanc"
-  - "white-wine-reviews"
+  - "wine"
 ---
 
-**American Chenin Blanc** The Biltmore Estate North Carolina
+**Region:** North Carolina
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/biltmorecheninblanc.jpg "biltmorecheninblanc")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/biltmorecheninblanc.jpg)
 

@@ -3,8 +3,7 @@ title: "The Sustainable Classroom #4: Wine and Cheese"
 date: "2012-12-21"
 categories:
   - "events"
-  - "travel-guide"
-  - "travel-guide"
+  - "travel-guides"
   - "wine"
 tags:
   - "alexander-kast"
@@ -33,8 +32,6 @@ tags:
   - "tarboro"
   - "terravita"
 ---
-
-**The Sustainable Classroom: Wine and Cheese**
 
 The trio of organizers for my final session at [the Sustainable Classroom](http://www.terravitaevent.com/TerraVITA/SessionDescrip.html), a day of intensive discussion and tasting of sustainable foods at [TerraVITA 2012,](http://www.terravitaevent.com/TerraVITA/SessionDescrip.html) knew their crowd. They knew we were seasoned foodies; the concept of pairing cheese and wine was not revolutionary to us, though it will always be delicious. So they came at this tried and true discipline from a new angle: why not investigate cheese and wine pairings according to how the cheese is cooked? _Inspired_. But first, our cheeses.
 

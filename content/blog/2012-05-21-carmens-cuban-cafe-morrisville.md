@@ -2,7 +2,6 @@
 title: "Carmen's Cuban Cafe"
 date: "2012-05-21"
 categories: 
-  - "morrisville-restaurant-reviews"
   - "restaurants"
 tags: 
   - "cafe-con-leche"
@@ -26,7 +25,11 @@ tags:
   - "tres-leche-chocolate"
 ---
 
-**Carmen’s Cuban Café** 108 D Factory Shops Road Morrisville [Website](http://www.carmenscubancafe.com/) Lunch: $7 to $9 Dinner: $10 to $25
+108 D Factory Shops Road\
+Morrisville, NC\
+[Website](http://www.carmenscubancafe.com/)\
+Lunch: $7 to $9\
+Dinner: $10 to $25
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/carmens06.jpg "carmens06")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/carmens06.jpg)
 
@@ -66,4 +69,3 @@ Carmen’s gives good dessert, and I think it comes out ahead in terms of yucca 
 
 _Reviewed 4 May 12._
 
-[![Carmen's Cuban Cafe & Touch Ultra Lounge on Urbanspoon](http://www.urbanspoon.com/b/link/290404/minilink.gif)](http://www.urbanspoon.com/r/25/290404/restaurant/Carmens-Cuban-Cafe-Touch-Ultra-Lounge-Morrisville)

@@ -2,8 +2,7 @@
 title: "Interview Bragging - Durham Magazine"
 date: "2012-05-31"
 categories:
-  - "restaurants"
-  - "writing"
+  - "announcements"
 tags:
   - "blogging"
   - "carpe-durham"

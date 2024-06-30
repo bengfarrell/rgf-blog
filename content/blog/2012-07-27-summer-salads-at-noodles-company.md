@@ -2,7 +2,6 @@
 title: "Summer Salads at Noodles & Company"
 date: "2012-07-27"
 categories:
-  - "raleigh-restaurant-reviews"
   - "restaurants"
 tags:
   - "backyard-barbecue"

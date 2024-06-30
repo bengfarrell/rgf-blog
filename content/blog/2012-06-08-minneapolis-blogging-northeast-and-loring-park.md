@@ -2,10 +2,9 @@
 title: "Minneapolis Blogging – Northeast and Loring Park"
 date: "2012-06-08"
 categories:
-  - "coffee-shop"
-  - "minneapolis-dining"
+  - "coffee-shops"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "baby-geese"
   - "bridge"

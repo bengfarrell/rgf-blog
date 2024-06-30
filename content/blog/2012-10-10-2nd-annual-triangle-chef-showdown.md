@@ -26,7 +26,10 @@ tags:
   - "weathervane"
 ---
 
-**2nd Annual Triangle Chef Showdown** at the NC Chef’s Academy 2001 Carrington Mill Morrisville [Website](http://tca2.pingg.com/TriChefShowdown)
+NC Chef’s Academy\
+2001 Carrington Mill\
+Morrisville, NC\
+[Website](http://tca2.pingg.com/TriChefShowdown)
 
 
 

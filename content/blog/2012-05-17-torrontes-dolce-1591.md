@@ -2,9 +2,7 @@
 title: "Torrontes Dolce 1591"
 date: "2012-05-17"
 categories: 
-  - "dessert-wine-reviews"
-  - "sparkling-wine-review"
-  - "torrontes"
+  - "wine"
 tags: 
   - "1591"
   - "argentina-wines"
@@ -19,7 +17,7 @@ tags:
   - "vanilla"
 ---
 
-**Torrontes Dolce 1591** La Rioja, Argentina
+**Region:** La Rioja, Argentina
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/dolcesparkling.jpg "dolcesparkling")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/dolcesparkling.jpg)
 
@@ -29,7 +27,7 @@ Torrontes Dolce 1591 is pleasant, but ultimately, it’s too sweet to make me en
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Bloggers’ Thoughts
+**Other Bloggers’Thoughts**
 
 [Cheap Wine Finder](http://www.cheapwinefinder.com/2011/12/2011-la-riojana-1591-torrontes-dolce/)
 

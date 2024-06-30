@@ -3,8 +3,9 @@ title: "The Cookery’s Front Room Opening"
 date: "2012-09-21"
 categories:
   - "events"
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "food-trucks"
+  - "bakeries"
+  - "other-businesses"
 tags:
   - "apex-salsa"
   - "bar"

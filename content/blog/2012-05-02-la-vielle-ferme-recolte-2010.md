@@ -2,8 +2,7 @@
 title: "La Vieille Ferme Récolte 2010"
 date: "2012-05-02"
 categories: 
-  - "red-wine-review"
-  - "rhone"
+  - "wine"
 tags: 
   - "2010"
   - "black-raspberry"
@@ -17,7 +16,7 @@ tags:
   - "wine-newbies"
 ---
 
-**La Vieille Ferme Récolte 2010** Rhone Valley, France
+**Region:** Rhone Valley, France
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/lavielleferme.jpg "lavielleferme")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/lavielleferme.jpg)
 

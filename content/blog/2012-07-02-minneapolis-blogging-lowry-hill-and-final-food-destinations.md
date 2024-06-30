@@ -2,10 +2,10 @@
 title: "Minneapolis Blogging: Lowry Hill and Final Food Destinations"
 date: "2012-07-02"
 categories:
-  - "coffee-shop"
-  - "minneapolis-dining"
+  - "coffee-shops"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
+  - "cocktails"
 tags:
   - "angels-food"
   - "bakery"

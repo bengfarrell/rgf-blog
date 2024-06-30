@@ -2,9 +2,8 @@
 title: "Minneapolis Blogging - Chain of Lakes and the Skyways"
 date: "2012-06-04"
 categories:
-  - "minneapolis-dining"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "activities"
   - "beaches"

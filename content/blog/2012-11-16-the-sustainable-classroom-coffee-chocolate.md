@@ -1,14 +1,11 @@
 ---
-title: "The Sustainable Classroom: Coffee &colate"
+title: "The Sustainable Classroom: Coffee & Chocolate"
 date: "2012-11-16"
 categories:
-  - "chocolatiers"
-  - "coffee-shop"
-  - "chapel-hill-coffee-shop-reviews"
-  - "raleigh-coffee-shop-reviews"
+  - "distilleries"
+  - "coffee-shops"
   - "events"
-  - "ice-cream-bakery-food-truck"
-  - "travel-guide"
+  - "other-businesses"
 tags:
   - "carrboro-coffee"
   - "chapel-hill"
@@ -32,8 +29,6 @@ tags:
   - "topo-distillery"
   - "videri"
 ---
-
-**The Sustainable Classroom: Coffee & Chocolate**
 
 As part of my whirlwind weekend at [TerraVITA 2012](http://www.terravitaevent.com "TerraVITA"), I participated in the [Sustainable Classroom](http://www.terravitaevent.com/TerraVITA/SessionDescrip.html) on a free press pass. Each of the four sessions I attended was jam-packed with information and tasting experiences. There is no way I can share everything I learned with you, so instead, I’m giving a very brief look into each of them, focusing on the sustainability discussions. There was plenty to learn for people more interested in the processes of making food, but I’m skipping past that for now.
 

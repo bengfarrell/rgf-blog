@@ -3,7 +3,7 @@ title: "Tico Fresco at Aloft WXZY Lounge"
 date: "2012-07-11"
 categories: 
   - "bars"
-  - "bars-chapel-hill-nc"
+  - "cocktails"
 tags: 
   - "aloft-hotels"
   - "chapel-hill"
@@ -19,7 +19,9 @@ tags:
   - "wxyz-lounge"
 ---
 
-**Tico Fresco** W XYZ Lounge Aloft Hotel, Chapel Hill $9
+**W XYZ Lounge**\
+Aloft Hotel, Chapel Hill, NC\
+$9
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/ticofresco.jpg "ticofresco")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/ticofresco.jpg)
 

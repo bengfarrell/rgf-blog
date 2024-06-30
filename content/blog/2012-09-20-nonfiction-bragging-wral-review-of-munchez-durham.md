@@ -2,9 +2,8 @@
 title: "Nonfiction Bragging - WRAL Review of Munchez (Durham) *CLOSED*"
 date: "2012-09-20"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
-  - "writing"
+  - "announcements"
 tags: 
   - "blog"
   - "cubano"

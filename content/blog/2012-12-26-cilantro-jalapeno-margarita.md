@@ -3,8 +3,7 @@ title: "Cilantro Jalapeno Margarita"
 date: "2012-12-26"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
-  - "tequila"
+  - "cocktails"
 tags: 
   - "calavera"
   - "cilantro"
@@ -21,7 +20,10 @@ tags:
   - "spice-rim"
 ---
 
-**Cilantro Jalapeno Margarita** [Calavera](http://calaveraraleigh.com/) ([my restaurant review](http://www.thegourmez.com/2012/06/calavera-raleigh/)) Downtown Raleigh $8
+**[Calavera](http://calaveraraleigh.com/)**\
+([my restaurant review](http://www.thegourmez.com/2012/06/calavera-raleigh/))\
+Downtown Raleigh, NC\
+$8
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/jalapeno_margarita_calavera.jpg "jalapeno_margarita_calavera")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/12/jalapeno_margarita_calavera.jpg)
 
@@ -32,5 +34,3 @@ Made with Jimador tequila, lime, orange juice, and a cilantro and jalapeno simpl
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
   _Reviewed 29 Nov 12._ 
-
-[![Calavera on Urbanspoon](http://www.urbanspoon.com/b/link/1626035/minilink.gif)](http://www.urbanspoon.com/r/25/1626035/restaurant/Inside-the-Beltline/Calavera-Cary)

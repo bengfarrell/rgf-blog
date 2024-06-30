@@ -2,9 +2,7 @@
 title: "Wilmoore Cafe *CLOSED*"
 date: "2012-06-11"
 categories: 
-  - "coffee-shop"
-  - "raleigh-coffee-shop-reviews"
-  - "raleigh-restaurant-reviews"
+  - "coffee-shops"
   - "restaurants"
 tags: 
   - "allergy"
@@ -29,7 +27,13 @@ tags:
   - "wilmoore-cafe"
 ---
 
-**Wilmoore Café** \*CLOSED\* 223 S. Wilmington Street Downtown Raleigh [Website](http://wilmoorecafe.com/) Sandwiches/Salads: $5.75 to $8.00 M to W, 7 am to 5 pm Th to Fri, 7 am to 10 pm Sat, 5 pm to 10 pm
+223 S. Wilmington Street\
+Downtown Raleigh, NC\
+[Website](http://wilmoorecafe.com/)\
+Sandwiches/Salads: $5.75 to $8.00\
+M to W, 7 am to 5 pm\
+Th to Fri, 7 am to 10 pm\
+Sat, 5 pm to 10 pm
 
 I have passed Wilmoore Café many times, and I’m always intrigued by the protruding display windows full of tables and chairs rather than retail. But I had never been until a few weeks ago, because I tend to end up in Raleigh later at night, and the Wilmoore Cafe is always closed when I stroll by. Luckily, it was open before a show at the Progress Energy Center and was the perfect spot for my group of six to meet up and get a quick dinner ahead of time.
 
@@ -60,5 +64,3 @@ The pork is roasted in-house, and the sandwich is filled with pickled radishes a
 The Wilmoore Café is a great option for a quick sandwich or salad with more quality ingredients than I expected. As their motto says, it’s “good, healthy food with a friendly coffeehouse vibe.” I can’t wait to try their fried green beans and sit in one of the window displays with a cup of joe.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) _Reviewed 25 May 12._
-
-[![Wilmoore Café on Urbanspoon](http://www.urbanspoon.com/b/link/1616296/minilink.gif)](http://www.urbanspoon.com/r/25/1616296/restaurant/Inside-the-Beltline/Wilmoore-Cafe-Raleigh)

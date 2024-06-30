@@ -3,7 +3,7 @@ title: "Bobbi's Rum Punch (West 94th St. Pub, Durham)"
 date: "2012-08-15"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags: 
   - "151"
   - "bobbis-rum-punch"
@@ -20,7 +20,9 @@ tags:
   - "woodcroft"
 ---
 
-**Bobbi’s Rum Punch** West 94th Street Pub Woodcroft, Durham [Website](http://www.west94stpub.com/)
+**West 94th Street Pub**\
+Woodcroft, Durham, NC\
+[Website](http://www.west94stpub.com/)
 
  
 

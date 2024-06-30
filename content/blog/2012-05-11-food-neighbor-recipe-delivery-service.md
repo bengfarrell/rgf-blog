@@ -2,7 +2,7 @@
 title: "Food Neighbor Recipe Delivery Service"
 date: "2012-05-11"
 categories:
-  - "food-product-review"
+  - "other-businesses"
   - "product-reviews"
 tags:
   - "chapel-hill"

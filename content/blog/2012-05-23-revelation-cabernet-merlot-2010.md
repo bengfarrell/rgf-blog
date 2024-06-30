@@ -2,9 +2,7 @@
 title: "Revelation Cabernet-Merlot 2010"
 date: "2012-05-23"
 categories: 
-  - "cabernet-sauvignon"
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2010"
   - "cabernet-merlot"
@@ -19,7 +17,7 @@ tags:
   - "review"
 ---
 
-Revelation Cabernet-Merlot 2010 Pays D’Oc, France
+**Region:** Pays D’Oc, France
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/revelation.jpg "revelation")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/revelation.jpg)
 

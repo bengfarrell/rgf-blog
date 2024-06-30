@@ -3,8 +3,7 @@ title: "Nonfiction Bragging--Bowbarr Review at WRAL Out and About"
 date: "2012-08-10"
 categories: 
   - "bars"
-  - "bars-chapel-hill-nc"
-  - "bourbon"
+  - "announcements"
 tags: 
   - "bar"
   - "bowbarr"

@@ -1,9 +1,9 @@
 ---
-title: "Firefly Mango Palmer (Alivia's Durham Bistro, Durham)"
+title: "Firefly Mango Palmer"
 date: "2012-05-25"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags: 
   - "alcohol"
   - "alivias"
@@ -21,7 +21,9 @@ tags:
   - "sour-mix"
 ---
 
-**Firefly Mango Palmer** Alivia’s Durham Bistro ([Restaurant Review](http://www.thegourmez.com/2007/04/alivias-durham-bistro-brightleaf-durham/)) Brightleaf, Durham
+Alivia’s Durham Bistro\
+([Restaurant Review](http://www.thegourmez.com/2007/04/alivias-durham-bistro-brightleaf-durham/))\
+Brightleaf, Durham, NC
 
  [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/fireflymango.jpg "fireflymango")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/fireflymango.jpg)
 

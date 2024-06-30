@@ -2,7 +2,6 @@
 title: "Wimpy's Grill"
 date: "2012-08-22"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "biscuits"
@@ -21,7 +20,11 @@ tags:
   - "wimpys-grill"
 ---
 
-Wimpy’s Grill 617 Hicks Street Old West Durham [Website](http://www.wimpysgrillnc.com/) $2–$5 Hours: M–F, 7 am–2 pm
+617 Hicks Street\
+Old West Durham, NC\
+[Website](http://www.wimpysgrillnc.com/)\
+$2–$5\
+Hours: M–F, 7 am–2 pm
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/08/Wimpys_0001.jpg "Wimpys_0001")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/08/Wimpys_0001.jpg)
 
@@ -44,5 +47,3 @@ I found Wimpy’s Grill a solid choice for a hamburger that will hit the spot, a
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
 _Reviewed 21 Aug 12._
-
-[![Wimpy's Grill on Urbanspoon](http://www.urbanspoon.com/b/link/292421/minilink.gif)](http://www.urbanspoon.com/r/25/292421/restaurant/Old-West-Durham-9th-St/Wimpys-Grill-Durham)

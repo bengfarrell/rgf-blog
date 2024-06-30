@@ -2,7 +2,6 @@
 title: "Bull City Vegan Brunch Challenge"
 date: "2012-10-12"
 categories: 
-  - "durham-restaurant-reviews"
   - "events"
   - "restaurants"
 tags: 
