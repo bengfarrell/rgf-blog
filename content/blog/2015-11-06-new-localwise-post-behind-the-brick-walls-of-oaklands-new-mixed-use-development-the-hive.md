@@ -1,10 +1,10 @@
 ---
 title: "New Localwise Post: Behind the Brick Walls of Oakland's New Mixed-Use Development - The Hive!"
 date: "2015-11-06"
-categories: 
+categories:
   - "announcements"
-  
-  tags: 
+
+tags:
   - "beer"
   - "beer-garden"
   - "bread"

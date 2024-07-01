@@ -58,7 +58,7 @@ Lucia also makes an appearance as the dot of the _i on_ Frick's "Lucia" blend, o
 
 Bill is a great host in person, sharing beloved memorabilia in the tasting room. But he's also a great host on the winery's [Facebook page](https://www.facebook.com/pg/FrickWines/posts/), where a 2:00 pm Saturday photograph of whomever is present is always posted, as well as images from life in the vineyard.
 
-My personal favorite of Bill's wines, which you can try up to six of for free when you come to visit, is the **Frick Winery "C****ôtes de Frick" Blanc 2016**.
+My personal favorite of Bill's wines, which you can try up to six of for free when you come to visit, is the **Frick Winery "Côtes de Frick" Blanc 2016**.
 
 [![wine road, sonoma, sonoma county, frick winery, wine, tasting room, cotes de frick, blanc](https://thegourmez-wpmedia.s3.amazonaws.com/2019/08/WineRoad-028-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/08/WineRoad-028.jpg)On that label, you can see the paint splash that typically fills in for the _i_'s dot, which of course is drawn from Judith's artistic side. The wine offers great spice with honeysuckle and graham cracker notes, and apricot and grapefruit acidity. A delicious glass all-around. Here's hoping the next vintage will be released by your visit.
 

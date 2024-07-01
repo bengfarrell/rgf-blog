@@ -3,7 +3,7 @@ title: "Coffee Cupping at Larry’s Beans"
 date: "2012-12-12"
 categories:
   - "coffee-shops"
-  - ""events"
+  - "events"
 tags:
   - "abela-geluke"
   - "big-spoon"

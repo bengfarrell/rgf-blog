@@ -1,9 +1,9 @@
 ---
 title: "Randall Grahm’s Uncle Louie Vineyard Zinfandel 2013"
 date: "2015-06-26"
-categories: 
+categories:
   - "wine"
-tags: 
+tags:
   - "wine"
   - "nakedwines-com-beer-wine-sake-review"
   - "nakedwines-com"
@@ -13,9 +13,9 @@ tags:
   - "uncle-louie"
 ---
 
-**Region:** Contra Costa Country, California [![Randall_Grahm_Zin]
+**Region:** Contra Costa Country, California
 
-(http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/Randall_Grahm_Zin-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/Randall_Grahm_Zin.jpg) My first thought on looking at that label is that Uncle Louie bears a remarkable resemblance to the Monopoly Man. Thought #2 is “Wow, you can really smell that floral and cedar nose the moment the bottle opens.” Remarkably, the nose is not as powerful while drinking, and there is little berry presence. But it's a world of difference between sniffing and tasting. I haven't had a smoky wine in a while, and I'm finding it a pleasurable reacquaintance.
+[![Randall_Grahm_Zin](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/Randall_Grahm_Zin-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/Randall_Grahm_Zin.jpg) My first thought on looking at that label is that Uncle Louie bears a remarkable resemblance to the Monopoly Man. Thought #2 is “Wow, you can really smell that floral and cedar nose the moment the bottle opens.” Remarkably, the nose is not as powerful while drinking, and there is little berry presence. But it's a world of difference between sniffing and tasting. I haven't had a smoky wine in a while, and I'm finding it a pleasurable reacquaintance.
 
 Let’s engage my poetic side: A silhouette of fruit is hard to make out through the haze, but once the haze dispels, candied cherries and fresh figs steeped in vanilla cream waft your way. Sweetness lingers as you find the meadow at wood's edge.
 

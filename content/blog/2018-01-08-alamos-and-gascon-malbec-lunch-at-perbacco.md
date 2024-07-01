@@ -37,7 +37,7 @@ For the second course, we moved on to the select lines of malbec from these prod
 
 [![2014 Gascón Reserva Malbec](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_06-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_06.jpg)The **2014 Gascón Reserva Malbec** tasted rich, deep, and cool like an escape to a hidden swimming hole. It held lots of fruit: plum, blackberry, raspberry (**4.5/5**).
 
-[![Alamos 2015 Selección Malbec](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_09-309x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_09.jpg)The **Alamos 2015 Selecci****ón Malbec** was softer by contrast, with an elegant potpourri nose and a smooth blend of violet, cherry, plum, and oak (**4/5**). It enveloped my flat-iron steak, while the Gascón complemented every bite.
+[![Alamos 2015 Selección Malbec](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_09-309x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_09.jpg)The **Alamos 2015 Selección Malbec** was softer by contrast, with an elegant potpourri nose and a smooth blend of violet, cherry, plum, and oak (**4/5**). It enveloped my flat-iron steak, while the Gascón complemented every bite.
 
 [![perbacco steak panzanella](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_21-357x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/Perbacco_Wine_21.jpg)Perbacco’s flatiron steak over an arugula panzanella is a great argument for always serving steak over salad! The roasted red and yellow peppers tasted sweet as cherries and the capers provided an essential flavor pop. I’m always game for chimichurri on top of…everything, on top of everything.
 

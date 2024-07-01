@@ -72,7 +72,7 @@ White wine grapes came later to Bodegas Aguirre's repertoire—their first chard
 
 [![Bodegas Aguirre, wine, livermore, smoked salmon, pairing](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_140825-500x374.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_140825.jpg)I'm not a big wine buyer, despite the testimony of this blog to the contrary. But I could not pass up the great sale prices Bodegas Aguirre was running for its library wines and wine cases. I went home with a case of their 2007 Estate Trio, which has been a great everyday wine in the months since, with proper airing. I also selected a 2007 cabernet franc, one of the few varietals we did not taste that day, and a 2003 and 2009 petite sirah for comparison's sake with my memory of that glorious 2004. I'd have bought plenty of the 2004 petite sirah if it were available, believe me.
 
-For the record, my compatriots all loved the **2017 Bodegas Sylvia Ros****é** and were crestfallen that it had not yet been released.
+For the record, my compatriots all loved the **2017 Bodegas Sylvia Rosé** and were crestfallen that it had not yet been released.
 
 [![Bodegas Aguirre, wine, livermore, rose](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_142048-375x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180406_142048.jpg)But it has now! So if you're a rosé lover, you may want to check it out. It just wasn't a preferred style of rosé for me. Visit [the tasting room](https://www.bodegasaguirre.com/location/) to purchase.
 

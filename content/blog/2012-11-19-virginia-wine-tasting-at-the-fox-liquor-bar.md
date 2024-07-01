@@ -2,7 +2,7 @@
 title: "Virginia Wine Tasting at the Fox Liquor Bar"
 date: "2012-11-19"
 categories:
-  - "bars""
+  - "bars"
   - "events"
   - "wine"
 tags:

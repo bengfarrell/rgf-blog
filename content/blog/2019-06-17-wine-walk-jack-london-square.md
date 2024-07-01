@@ -70,7 +70,7 @@ This year, it appears there will be private lounge areas for VIP guests instead.
 [![farmhouse kitchen thai, thai, oakland, jack london square](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-24-404x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-24.jpg) Those spring rolls! That peanut sauce!</div>
 
 
-Farmhouse Kitchen Thai has proven itself a great addition to Jack London Square [since it opened last summer](https://thegourmez.com/2018/08/02/farmhouse-kitchen-thai-cuisine-now-open-in-oakland/). But the Wine Walk's focus is on wine, so I wanted to highlight one more new-to-me wine from this event: **Rock Wall 2017 Sparkling Ros****é Wine.**
+Farmhouse Kitchen Thai has proven itself a great addition to Jack London Square [since it opened last summer](https://thegourmez.com/2018/08/02/farmhouse-kitchen-thai-cuisine-now-open-in-oakland/). But the Wine Walk's focus is on wine, so I wanted to highlight one more new-to-me wine from this event: **Rock Wall 2017 Sparkling Rosé Wine.**
 
 [![rock wall, rock wall wines, rose, wine walk, tasting notes](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-20-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/2018-Jack-London-Wine-Walk-20.jpg)It reminded me of one of my dad's old favorite drinks: New York Seltzer's cherry flavor with tons of dry bubbles. Cherry and strawberry notes reign with a suggestion of vanilla at the end. A flinty depth can be discovered as you dive into the glass.
 
