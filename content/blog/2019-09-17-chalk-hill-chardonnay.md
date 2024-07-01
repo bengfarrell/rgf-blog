@@ -10,7 +10,9 @@ tags:
   - "wine-tasting"
 ---
 
-**_Obligatory disclaimer:_** These Chalk Hill chardonnays were free to me for my review. They are [Chalk Hill's](https://www.chalkhill.com/) two commercially available chardonnays; the winery produces two others that are only available at the estate or at their website.[![chalk hill, chalk hill chardonnay, wine tasting, wine review](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/Chalk-Hill-Chard-003-498x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/Chalk-Hill-Chard-003.jpg)The **2016 Chalk Hill Estate Chardonnay** comes completely from grapes within the estate's Chalk Hill AVA vineyards. It's all golden pear, and pear so ripe, the juice seeps out when you press its skin. It's richly layered, with more spice than I expected on first sip: baking mace and a subtle clove kick.
+**_Obligatory disclaimer:_** These Chalk Hill chardonnays were free to me for my review. They are [Chalk Hill's](https://www.chalkhill.com/) two commercially available chardonnays; the winery produces two others that are only available at the estate or at their website.
+
+[![chalk hill, chalk hill chardonnay, wine tasting, wine review](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/Chalk-Hill-Chard-003-498x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/Chalk-Hill-Chard-003.jpg)The **2016 Chalk Hill Estate Chardonnay** comes completely from grapes within the estate's Chalk Hill AVA vineyards. It's all golden pear, and pear so ripe, the juice seeps out when you press its skin. It's richly layered, with more spice than I expected on first sip: baking mace and a subtle clove kick.
 
 [![chalk hill, chalk hill chardonnay, wine tasting, wine review](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/Chalk-Hill-Chard-001-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/Chalk-Hill-Chard-001.jpg)The strong pear makes me remember why I loved canned slices of it so much as a kid. Lemon rind appears in equal parts with butter, creating a simulacrum of a hot buttered rum—hold the rum. Honeysuckle comes through in the end, along with a fresh breeze.
 

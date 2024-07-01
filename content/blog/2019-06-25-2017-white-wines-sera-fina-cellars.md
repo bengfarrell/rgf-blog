@@ -14,7 +14,9 @@ tags:
   - "wine-review"
 ---
 
-_Obligatory disclaimer:_ These wines were free samples for my review.[![sera fina cellars, sera fina wine, sera fine, serafina, amador county, tasting notes, wine review, scotto, sauvignon blanc](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/Serrafina-Wine-01-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/Serrafina-Wine-01.jpg)
+_Obligatory disclaimer:_ These wines were free samples for my review.
+
+[![sera fina cellars, sera fina wine, sera fine, serafina, amador county, tasting notes, wine review, scotto, sauvignon blanc](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/Serrafina-Wine-01-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/06/Serrafina-Wine-01.jpg)
 
 [Sera Fina Cellars,](http://serafinacellars.com/) founded in 2010, is an Amador County winery owned by Paul Scotto, the chief winemaker behind the Scotto family's growing portfolio of wines and ciders [(my previous reviews).](https://thegourmez.com/?s=scotto) Sera Fina Cellars focuses on Italian and Rhône winemaking styles and varietals.
 
