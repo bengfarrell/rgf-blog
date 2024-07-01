@@ -2,10 +2,7 @@
 title: "Boxcarr Farms Food Truck"
 date: "2012-02-24"
 categories: 
-  - "durham-restaurant-reviews"
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
-  - "restaurants"
+  - "food-trucks"
 tags: 
   - "boxcarr-farms"
   - "breakfast"
@@ -23,7 +20,11 @@ tags:
   - "upside-down-cake"
 ---
 
-**Boxcarr Farms Food Truck** Touring Durham and Chapel Hill [Website](http://z-indexproductions.com/testSpace/boxcarr/foodtruck.htm) Dinner Tapas: $6 per item [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/boxcarr01.jpg "boxcarr01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/boxcarr01.jpg)
+Touring Durham and Chapel Hill, NC\
+[Website](http://z-indexproductions.com/testSpace/boxcarr/foodtruck.htm)\
+Dinner Tapas: $6 per item\
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/boxcarr01.jpg "boxcarr01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/boxcarr01.jpg)
 
 The Boxcarr Farms food truck can be found at Fullsteam most Thursday nights, which is where we found it a few weeks ago. They offer food made from Boxcarr Farms wares and those from other local farms, and let me tell you, it all sounded pretty darn delicious. I’m super excited to see that they offer breakfast, brunch, and lunch menus, too. For dinner, small plates are on the menu, and they are each priced at $6 along with a dessert option. The menu changes often, depending on what ingredients they have available.
 

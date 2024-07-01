@@ -1,9 +1,8 @@
 ---
-title: "Straw Valley Café (Durham)"
+title: "Straw Valley Café *CLOSED*"
 date: "2012-04-18"
 categories: 
-  - "coffee-shop"
-  - "durham-coffee-shop-reviews"
+  - "coffee-shops"
   - "sake"
   - "wine"
 tags: 
@@ -27,7 +26,9 @@ tags:
   - "straw-valley-cafe"
 ---
 
-**Straw Valley Café** 5420 Durham-Chapel Hill Blvd. New Hope Commons, Durham [Website](http://strawvalleycafe.com/)
+5420 Durham-Chapel Hill Blvd.\
+New Hope Commons, Durham, NC\
+[Website](http://strawvalleycafe.com/)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/strawvalleycafe01.jpg "strawvalleycafe01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/strawvalleycafe01.jpg)
 
@@ -87,4 +88,4 @@ As for their food and beverage, Straw Valley Café would benefit from adding mor
 
 _Reviewed 21 Mar 12._
 
-[![Straw Valley Cafe on Urbanspoon](http://www.urbanspoon.com/b/link/1642892/minilink.gif)](http://www.urbanspoon.com/r/25/1642892/restaurant/Hope-Valley/Straw-Valley-Cafe-Durham)
+

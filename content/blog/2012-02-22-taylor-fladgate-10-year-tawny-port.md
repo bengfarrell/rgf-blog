@@ -2,7 +2,6 @@
 title: "Taylor Fladgate 10 Year Tawny Port"
 date: "2012-02-22"
 categories: 
-  - "port-fortified-wine"
   - "wine"
 tags: 
   - "10-year"
@@ -19,7 +18,7 @@ tags:
   - "wine-peeps"
 ---
 
-**Taylor Fladgate 10 Year Tawny Port** Portugal
+**Region:** Portugal
 
 I failed to take a picture of this tawny port before I recycled the bottle. Somehow, I think you’ll make do. What you won’t do with is not recognizing what _tawny_ means, which I just discovered while researching this post. Tawny ports are ports aged for long enough in wood that their coloring changes from red-purple to more of an orange-yellow shade that is called tawny. I had no idea! I thought tawny meant they used a method similar to white wine, leaving out the skins, to achieve the different color, and I didn’t like the first few I tried so I swore them all off until now. Luckily, this wine taught me that tawny is a port style I can embrace, even though I’m still confused that it was closer to purple in color than that tawny shade.
 

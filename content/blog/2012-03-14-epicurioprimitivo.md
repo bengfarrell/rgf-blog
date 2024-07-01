@@ -2,8 +2,7 @@
 title: "Epicurio 2008 Primitivo Di Manduria Vendemmia"
 date: "2012-03-14"
 categories: 
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2008-vintage"
   - "back-to-bacchus"
@@ -20,7 +19,7 @@ tags:
   - "wine-review"
 ---
 
-Epicurio 2008 Primitivo Di Manduria Vendemmia Apulia, Italy
+**Region:** Apulia, Italy
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/epicuroprimitivo.jpg "epicuroprimitivo")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/epicuroprimitivo.jpg)
 

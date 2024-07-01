@@ -3,8 +3,8 @@ title: "Graniwinkle @ Watts Grocery"
 date: "2012-01-06"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "brandy"
+  - "cocktails"
+  - "spirits"
   - "cider"
 tags: 
   - "apple-cider"
@@ -21,7 +21,10 @@ tags:
   - "watts-grocery"
 ---
 
-**Graniwinkle** Watts Grocery [Review](http://www.thegourmez.com/2009/03/watts-grocery-and-listen-to-your-elders-reviews/)/[Website](http://www.wattsgrocery.com/) Watts Hillandale, Durham $9
+**Watts Grocery**\
+[Review](http://www.thegourmez.com/2009/03/watts-grocery-and-listen-to-your-elders-reviews/)/[Website](http://www.wattsgrocery.com/)\
+Watts Hillandale, Durham, NC\
+$9
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/graniwinkle.jpg "graniwinkle")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/graniwinkle.jpg)
 

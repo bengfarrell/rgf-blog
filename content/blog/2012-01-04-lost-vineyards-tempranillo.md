@@ -2,8 +2,6 @@
 title: "Lost Vineyards Tempranillo"
 date: "2012-01-04"
 categories: 
-  - "red-wine-review"
-  - "tempranillo"
   - "wine"
 tags: 
   - "blog"
@@ -16,7 +14,7 @@ tags:
   - "spain"
 ---
 
-**Lost Vineyards Tempranillo** Calatayud, Spain
+**Region:** Calatayud, Spain
 
  [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/lostvineyardstempranillo.jpg "lostvineyardstempranillo")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/lostvineyardstempranillo.jpg)
 

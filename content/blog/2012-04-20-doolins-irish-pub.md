@@ -2,7 +2,6 @@
 title: "Doolin's Irish Pub"
 date: "2012-04-20"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "alcohol"
@@ -24,7 +23,9 @@ tags:
   - "south-square"
 ---
 
-**Doolin’s Irish Pub** 3211 Shannon Road South Square, Durham Website Entrees: $8 -–$15
+3211 Shannon Road\
+South Square, Durham, NC\
+Entrees: $8–$15
 
 [![](http://carpedurham.com/wp-content/uploads/2012/04/Doolins01.jpg)](http://www.thegourmez.com/?attachment_id=) Doolin’s Irish Pub is the newest restaurant in the same office building that houses [G2B](http://www.thegourmez.com/2011/11/g2b-gastropub/ "G2B gastropub"). This building has been notoriously harsh to its restaurants — the location is off the beaten path across the street from the Bank of America on Shannon Road. Doolin’s has the advantage of being in the front of the building so you can see it as you drive by, so hopefully that will help them with traffic. I was surprised that they were mostly full on a Thursday night.
 
@@ -41,7 +42,5 @@ The dessert options could use some work, however. My friend had the apple turnov
 I had the Bailey’s cheesecake, which I assumed would be an Irish cream cheesecake. [![](http://carpedurham.com/wp-content/uploads/2012/04/Doolins07.jpg)](http://www.thegourmez.com/?attachment_id=) I think I assumed wrong. It tasted like plain, but good, cheesecake to me. The problem was the gummy crust that tasted like graham crackers crumbs mixed with shortening — not my idea of a good cheesecake crust.
 
 The desserts and service can definitely use improvement, but our entrees were great, and I liked the restaurant atmosphere a lot. We’ll be back to check out trivia night soon.
-
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) [![Doolin's Irish Pub on Urbanspoon](http://www.urbanspoon.com/b/link/1674915/minilink.gif)](http://www.urbanspoon.com/r/25/1674915/restaurant/Hope-Valley/Doolins-Irish-Pub-Durham)
 
 _Reviewed 19 April 12._

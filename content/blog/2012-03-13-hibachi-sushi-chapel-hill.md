@@ -2,7 +2,6 @@
 title: "Hibachi Sushi"
 date: "2012-03-13"
 categories: 
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "affordable"
@@ -23,7 +22,12 @@ tags:
   - "thai"
 ---
 
-**Hibachi Sushi** 103 Meadowmont Village Circle Meadowmont, Chapel Hill Sushi: $3.50 to $10.00 per roll Entrees: $5.00 to $12.00 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/hibachisushi01.jpg "hibachisushi01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/hibachisushi01.jpg)
+103 Meadowmont Village Circle\
+Meadowmont, Chapel Hill, NC\
+Sushi: $3.50 to $10.00 per roll\
+Entrees: $5.00 to $12.00
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/hibachisushi01.jpg "hibachisushi01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/hibachisushi01.jpg)
 
 Hibachi Sushi is a fairly recent addition to Meadowmont Village, taking up residence right near \[ONE\]. It’s a low frills, order-at-the-counter restaurant focused on sushi, Thai entrees, and Japanese standards including udon and soba noodle dishes. There are no BOGO or 50% off sushi specials here, but the sushi is very reasonably priced, so those sorts of deals are unnecessary.
 
@@ -47,6 +51,6 @@ Our friend is a regular at Hibachi Sushi, and I believe she had an Alaska roll (
 
 She definitely values Hibachi Sushi’s prices and the speed at which they can put together a sushi order. When it comes down to it, those are the reasons to come to Hibachi Sushi—fast sushi at reasonable prices. It does that quite well.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) [![Hibachi Sushi on Urbanspoon](http://www.urbanspoon.com/b/link/1657215/minilink.gif)](http://www.urbanspoon.com/r/25/1657215/restaurant/Hibachi-Sushi-Chapel-Hill)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
 _Reviewed 2.15.12._

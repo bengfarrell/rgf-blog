@@ -2,8 +2,7 @@
 title: "Napa River Napa County Merlot 2008"
 date: "2012-02-15"
 categories: 
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2008"
   - "cheap-wine"
@@ -19,7 +18,7 @@ tags:
   - "trader-joes"
 ---
 
-**Napa River Napa County Merlot 2008** Napa Valley, CA
+**Region:** Napa Valley, CA
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/naparivermerlot.jpg "naparivermerlot")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/naparivermerlot.jpg)
 

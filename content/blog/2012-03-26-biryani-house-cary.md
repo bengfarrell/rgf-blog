@@ -2,7 +2,6 @@
 title: "Biryani House"
 date: "2012-03-26"
 categories: 
-  - "cary-restaurant-reviews"
   - "restaurants"
 tags: 
   - "affordable"
@@ -27,7 +26,10 @@ tags:
   - "triangle"
 ---
 
-**Biryani House** 744-A East Chatham Street Chatham Square, Downtown Cary [Website](http://biryani-house.com/bh_home.htm) Entrees: $8 to $13
+744-A East Chatham Street\
+Chatham Square, Downtown Cary, NC\
+[Website](http://biryani-house.com/bh_home.htm)\
+Entrees: $8 to $13
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/biryani01.jpg "biryani01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/biryani01.jpg)
 
@@ -74,7 +76,5 @@ The bread was warm and fluffy, but I was disappointed at the lack of heat from t
 As I told you at the start, I thought Biryani was great, and I’d go again happily! However, I think a certain dessert house may be calling my name first . . .
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
-
-[![Biryani House on Urbanspoon](http://www.urbanspoon.com/b/link/290202/minilink.gif)](http://www.urbanspoon.com/r/25/290202/restaurant/Biryani-House-Cary)
 
 _Reviewed 4 Mar 12._

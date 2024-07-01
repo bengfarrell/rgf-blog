@@ -2,9 +2,7 @@
 title: "Yellowtail Shiraz Grenache 2010"
 date: "2012-01-18"
 categories: 
-  - "garnacha"
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
 tags: 
   - "2010"
   - "bitter"
@@ -19,7 +17,7 @@ tags:
   - "yellowtail"
 ---
 
-**Yellowtail Shiraz Grenache 2010** Southeastern Australia
+**Region:** Southeastern Australia
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/01/yellowtailshirazgrenache.jpg "yellowtailshirazgrenache")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/01/yellowtailshirazgrenache.jpg) Blueberry flavors come first with this wine, but they melt away into something that reminds me of the fig butter I just picked up from Trader Joe’s. But this wine is bitterer than the fig butter and pretty dry. There’s a heat to it, and I’d call it medium bodied.
 

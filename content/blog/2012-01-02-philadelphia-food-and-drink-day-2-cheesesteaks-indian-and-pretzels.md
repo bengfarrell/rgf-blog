@@ -2,9 +2,8 @@
 title: "Philadelphia Food and Drink, Day 2: Cheesesteaks, Indian, and Pretzels"
 date: "2012-01-02"
 categories:
-  - "philadelphia-restaurant-review"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "cash-only"
   - "center-city"

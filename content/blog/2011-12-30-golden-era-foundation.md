@@ -3,7 +3,7 @@ title: "Golden Era @ Foundation"
 date: "2011-12-30"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
   - "cider"
 tags: 
   - "bitters"
@@ -18,7 +18,10 @@ tags:
   - "rum"
 ---
 
-**Golden Era** Foundation Downtown Raleigh [Website](http://www.foundationnc.com/) $10
+**Foundation**\
+Downtown Raleigh, NC\
+[Website](http://www.foundationnc.com/)\
+$10
 
  [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/goldenera.jpg "goldenera")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/goldenera.jpg)
 

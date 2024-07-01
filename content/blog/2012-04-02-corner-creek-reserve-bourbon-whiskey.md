@@ -2,7 +2,7 @@
 title: "Corner Creek Reserve Bourbon Whiskey"
 date: "2012-04-02"
 categories: 
-  - "bourbon"
+  - "spirits"
 tags: 
   - "agave"
   - "bardstown"
@@ -22,7 +22,7 @@ tags:
   - "winofiles"
 ---
 
-**Corner Creek Reserve Bourbon Whiskey** Bardstown, KY
+**Region:** Bardstown, KY
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/cornercreek.jpg "cornercreek")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/cornercreek.jpg) A bourbon in a wine bottle? Why not? It’s enough of a novelty to make me interested, at least. Plus, the label art is pretty—I find simple ink or pencil drawings best for selling me wine or liquor, with three to four colors at most. Yes, I just offered up a bunch of tips for the advertisers among you on how to market me alcohol. You’re welcome.
 
@@ -30,7 +30,9 @@ But back to the bourbon. The nose has a mellow heat. It smells of light molasses
 
 I find it very similar in principle to a light-bodied rum I reviewed a few months ago, the [Bacardi Ron Solera 1873](http://www.thegourmez.com/2012/01/bacardi-ron-solera-1873/). Both are thin but full of layers that make them more interesting than their base spirits generally are with that sort of body. Enjoy experimenting!
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) **Other Bloggers’ Thoughts**
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 
+
+**Other Bloggers’ Thoughts**
 
 [Winofiles](http://www.winofiles.com/2012/03/corner-creek-reserve-bourbon-whiskey.html)
 

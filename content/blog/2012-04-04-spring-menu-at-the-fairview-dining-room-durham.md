@@ -1,8 +1,7 @@
 ---
-title: "Spring Menu at the Fairview Dining Room (Durham)"
+title: "Spring Menu at the Fairview Dining Room"
 date: "2012-04-04"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "artichoke"
@@ -120,7 +119,5 @@ I say surprisingly because I can often find them run of the mill, but both the i
 Of course, you can see from those desserts and the earlier photos that the Fairview Dining Room excels at presentation in addition to combining disparate tastes and textures. If you don’t want to make your way through the entire spring menu [found here](http://www.washingtondukeinn.com/_files/_pdf/Spring_Dinner_Menu.pdf), make sure you give the sweet pea soup and striped bass a try. Those were the standout dishes for me and worthy of any palate.
 
 Thank you to Chef Cunningham, Wendy Shannon, Danielle Kaspar, and the rest of the Fairview Dining Room and Washington Duke Inn staff for having us out! It was an absolute treat. Thanks also to Danielle and my two other fabulous dining companions, Matt of [Green Eats Blog](http://www.greeneatsblog.com/) and the Triangle [Localista](http://www.trianglelocalista.com/) whose name escapes me, for being great company. More Thursdays should be spent giving me free food with great conversation!
-
-[![Fairview on Urbanspoon](http://www.urbanspoon.com/b/link/290808/minilink.gif)](http://www.urbanspoon.com/r/25/290808/restaurant/Duke/Fairview-Durham)
 
 _Dining took place on 28 Mar 12. You can find other takes on the menu at [the Examiner](http://www.examiner.com/luxury-travel-in-raleigh/delightful-spring-menu-awaits-at-durham-s-washington-duke-inn-golf-club "The Examiner") and [Durham Magazine](http://www.durhammag.com/blogs/durham-magazine-blog/sneak-peek-at-wadu%27s-spring-menu "Durham Magazine"), so far. More will post soon, I'm sure!_

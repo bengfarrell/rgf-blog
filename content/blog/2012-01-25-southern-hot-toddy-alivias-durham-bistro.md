@@ -3,8 +3,7 @@ title: "Southern Hot Toddy at Alivia's Durham Bistro"
 date: "2012-01-25"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "bourbon"
+  - "cocktails"
 tags: 
   - "alivias"
   - "alivias-durham-bistro"
@@ -19,7 +18,9 @@ tags:
   - "winter"
 ---
 
-**Southern Hot Toddy** Alivia’s Durham Bistro/[My Review](http://www.thegourmez.com/2007/04/alivias-durham-bistro-brightleaf-durham/ "Alivia's Durham BIstro") Brightleaf, Durham
+**Alivia’s Durham Bistro**\
+[My Review](http://www.thegourmez.com/2007/04/alivias-durham-bistro-brightleaf-durham/)\
+Brightleaf, Durham, NC
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/01/hottoddy.jpg "hottoddy")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/01/hottoddy.jpg)
 

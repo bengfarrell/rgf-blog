@@ -2,7 +2,6 @@
 title: "Vit Goal Tofu"
 date: "2012-02-20"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "bento-box"
@@ -23,7 +22,11 @@ tags:
   - "vit-goal-tofu"
 ---
 
-**Vit Goal Tofu** 2107 Allendown Drive Hwys. 54 and 55 Crossroads, Durham Lunch: $8–$12 Dinner: $12–$20
+2107 Allendown Drive\
+Hwys. 54 and 55 Crossroads\
+Durham, NC\
+Lunch: $8–$12\
+Dinner: $12–$20
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/vitgoal07.jpg "vitgoal07")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/vitgoal07.jpg)
 

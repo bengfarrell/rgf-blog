@@ -3,7 +3,6 @@ title: "Nonfiction Bragging - Front Porch at the Independent Weekly"
 date: "2012-01-26"
 categories: 
   - "announcements"
-  - "writing"
 tags: 
   - "cary"
   - "chapel-hill"

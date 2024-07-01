@@ -2,7 +2,6 @@
 title: "L’Uva Enoteca"
 date: "2012-01-27"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "arugula"
@@ -26,7 +25,11 @@ tags:
   - "uva"
 ---
 
-**L’Uva Enoteca** 406 Blackwell Street Tobacco District, Durham [Website](http://www.luvaenoteca.com/) Lunch: $9–$15
+406 Blackwell Street\
+The Tobacco District\
+Durham, NC\
+[Website](http://www.luvaenoteca.com/)\
+Lunch: $9–$15
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/01/luva05.jpg "luva05")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/01/luva05.jpg)
 

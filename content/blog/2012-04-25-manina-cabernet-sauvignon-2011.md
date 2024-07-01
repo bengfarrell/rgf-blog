@@ -2,8 +2,6 @@
 title: "Maniña Cabernet Sauvignon 2011"
 date: "2012-04-25"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "berry"
@@ -15,7 +13,7 @@ tags:
   - "valle-central"
 ---
 
-**Maniña Cabernet Sauvignon 2011** Valle Central, Chile
+**Region:** Valle Central, Chile
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/manina.jpg "manina")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/manina.jpg)
 

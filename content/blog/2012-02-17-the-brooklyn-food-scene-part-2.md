@@ -3,9 +3,9 @@ title: "The Brooklyn Food Scene Part 2"
 date: "2012-02-17"
 categories: 
   - "bars"
-  - "brooklyn-restaurant-reviews"
+  - "cocktails"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "auto-bahn-bahn"
   - "brooklyn"

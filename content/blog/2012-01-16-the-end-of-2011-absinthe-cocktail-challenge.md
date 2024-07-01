@@ -3,7 +3,7 @@ title: "The End of 2011 Absinthe Cocktail Challenge"
 date: "2012-01-16"
 categories:
   - "spirits"
-  - "recipes"
+  - "cocktails"
 tags:
   - "2012"
   - "absinthe-frappe"
@@ -35,7 +35,7 @@ Needless to say, I’ve talked up the need for Chris and Steve to compete in an 
 
 NV Absinthe Verte was the absinthe chosen for the competition, because, well, I had it on hand. It’s not my favorite absinthe, but we don’t have many choices here in NC, and the Pernod Absinthe, which I do prefer, is around twice as expensive. Steve and Chris mostly used ingredients in our alcohol cabinet, which is really more of an alcohol stand—yes, I’m proud of my collection and display it. Some shaking and stirring later and the first two competing drinks were ready.
 
-**Round 1**
+## Round 1
 
 
 
@@ -75,7 +75,7 @@ The coloring of this drink was beautiful, of course, and it was fairly simple co
 
 Round 2 began right away, and I’d call it the fruity round of the competition.
 
-**Round 2**
+## Round 2
 
 
 
@@ -115,7 +115,7 @@ The Hemingway was a simple recipe, and for me, it tasted smooth and classy. Judg
 
 Two rounds was the intended competition length, but adding up all three of our scores resulted in a dead heat. We pulled those two cocktail makers away from their avid Ryan Seacrest viewing to come back and mix up a third drink, completely unprepared.
 
-**Round 3--_updated because, well, three rounds of absinthe makes my memory fuzzy._**
+## Round 3—_updated because, well, three rounds of absinthe makes my memory fuzzy._**
 
 
 

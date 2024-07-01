@@ -3,8 +3,7 @@ title: "b. a. b. c. @ Revolution"
 date: "2012-04-23"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "bourbon"
+  - "cocktails"
 tags: 
   - "b-a-b-c"
   - "babc"
@@ -20,7 +19,10 @@ tags:
   - "revolution"
 ---
 
-**b. a. b. c.** [Revolution](http://www.revolutionrestaurant.com/Revolution_Durham/Cocktails.html), Downtown Durham [Restaurant Review](http://www.thegourmez.com/2010/04/revolution-downtown-durham-restaurant-review/) $9
+**[Revolution](http://www.revolutionrestaurant.com/Revolution_Durham/Cocktails.html)**\
+Downtown Durham, NC\ 
+[Restaurant Review](http://www.thegourmez.com/2010/04/revolution-downtown-durham-restaurant-review/)\
+$9
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/babc.jpg "babc")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/babc.jpg)
 

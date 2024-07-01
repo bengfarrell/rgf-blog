@@ -2,7 +2,6 @@
 title: "Lumpy's Ice Cream"
 date: "2012-03-23"
 categories:
-  - "ice-cream-bakery-food-truck"
   - "ice-cream-parlors"
 tags:
   - "baklava"
@@ -30,7 +29,10 @@ tags:
   - "wake-forest"
 ---
 
-**Lumpy’s** 306 East Wait Avenue Wake Forest [Website](http://lumpysicecream.com/) $3 a scoop
+306 East Wait Avenue\
+Wake Forest, NC\
+[Website](http://lumpysicecream.com/)\
+$3 a scoop
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/lumpys01.jpg "lumpys01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/lumpys01.jpg)
 

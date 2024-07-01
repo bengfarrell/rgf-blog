@@ -2,9 +2,7 @@
 title: "Espiral Vinho Rosé"
 date: "2012-03-28"
 categories: 
-  - "rose-review"
-  - "vinho-rose"
-  - "vinho-verde"
+  - "wine"
 tags: 
   - "blush-wine"
   - "espiral"
@@ -20,7 +18,7 @@ tags:
   - "wine-review"
 ---
 
-**Espiral Vinho Ros****é** Gaia, Portugal
+**Region:** Gaia, Portugal
 
 Apologies, but I have no wine label to share with you. This is a bottle I picked up at Trader Joe’s — hopefully, that helps if you’re interested in it?
 

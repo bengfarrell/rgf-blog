@@ -2,8 +2,7 @@
 title: "Comique Revolution Blanc 2010"
 date: "2012-03-30"
 categories: 
-  - "white-wine-blends"
-  - "white-wine-reviews"
+  - "wine"
 tags: 
   - "2010"
   - "butter-cream"
@@ -21,7 +20,7 @@ tags:
   - "wine-review"
 ---
 
-**Comique Revolution Blanc 2010** Central Coast, CA
+**Region** Central Coast, CA
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/comiqueblanc02.jpg "comiqueblanc02")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/comiqueblanc02.jpg)[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/comiqueblanc01.jpg "comiqueblanc01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/comiqueblanc01.jpg)
 

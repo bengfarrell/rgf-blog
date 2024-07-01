@@ -2,8 +2,7 @@
 title: "Alexander Valley Rendition Zinfandel 2009"
 date: "2012-03-21"
 categories: 
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2009"
   - "alexander-valley"
@@ -19,7 +18,7 @@ tags:
   - "wine-review"
 ---
 
-**Alexander Valley Rendition Zinfandel 2009** Sonoma Country, CA
+**Region:** Sonoma County, CA
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/RenditionZin.jpg "RenditionZin")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/RenditionZin.jpg)
 

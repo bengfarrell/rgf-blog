@@ -2,7 +2,7 @@
 title: "Triangle Foodie Happenings"
 date: "2012-04-27"
 categories:
-  - "events"
+  - "announcements"
 tags:
   - "daylight-magazine"
   - "durham"

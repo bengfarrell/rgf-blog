@@ -2,7 +2,7 @@
 title: "Bacardi Ron Solera 1873"
 date: "2012-01-11"
 categories: 
-  - "rum-review"
+  - "spirits"
 tags: 
   - "1873"
   - "aged-rum"
@@ -22,7 +22,7 @@ tags:
   - "vanilla"
 ---
 
-Bacardi Ron Solera 1873 Mexico
+**Region:** Mexico
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/ronsolera.jpg "ronsolera")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/ronsolera.jpg)
 
