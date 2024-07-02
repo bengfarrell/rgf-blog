@@ -2,7 +2,7 @@
 title: "California Trip 2011, Day 9: Santa Cruz Pier and Boardwalk"
 date: "2011-12-02"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "boardwalk"
   - "carousal"

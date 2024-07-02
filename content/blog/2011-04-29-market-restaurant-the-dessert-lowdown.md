@@ -1,10 +1,9 @@
 ---
-title: "Market Restaurant--the Dessert and Drink Lowdown *RELOCATING*"
+title: "Market Restaurant—the Dessert and Drink Lowdown *RELOCATING*"
 date: "2011-04-29"
 categories: 
-  - "raleigh-restaurant-reviews"
   - "restaurants"
-  - "spirits"
+  - "cocktails"
 tags: 
   - "avocado-gelato"
   - "bars"
@@ -19,7 +18,11 @@ tags:
   - "rockfish"
 ---
 
-**Market’s Dessert and Cocktails** 938 North Blount Street Mordecai, Raleigh [Website](http://www.eatatmarket.com/) Lunch: $6-–$11 Dinner: $6-–$18
+938 North Blount Street\
+Mordecai, Raleigh, NC\
+[Website](http://www.eatatmarket.com/)\
+Lunch: $6–$11\
+Dinner: $6–$18
 
 Folks, I have been back to Market, and I can unequivocally bump up my rating for them to an
 

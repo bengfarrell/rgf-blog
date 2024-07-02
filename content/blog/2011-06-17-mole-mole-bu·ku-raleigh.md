@@ -3,7 +3,7 @@ title: "Mole-Mole (bu·ku, Raleigh)"
 date: "2011-06-17"
 categories:
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags:
   - "3-olive-chocolate-vodka"
   - "bu-ku"
@@ -17,7 +17,8 @@ tags:
   - "raleigh"
 ---
 
-**Mole-Mole** [bu·ku,](http://bukuraleigh.com/buku/) Downtown Raleigh
+**[bu·ku,](http://bukuraleigh.com/buku/)**
+Downtown Raleigh, NC
 
 
 

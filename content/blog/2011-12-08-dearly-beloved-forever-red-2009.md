@@ -2,8 +2,6 @@
 title: "Dearly Beloved Forever Red 2009"
 date: "2011-12-08"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "2009-vintage"
@@ -19,7 +17,7 @@ tags:
   - "wine-sipperer"
 ---
 
-Dearly Beloved Forever Red 2009 Mendocino County, CA
+**Region:** Mendocino County, CA
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/dearlybeloved.jpg "dearlybeloved")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/dearlybeloved.jpg)
 

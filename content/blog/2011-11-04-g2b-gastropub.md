@@ -2,7 +2,6 @@
 title: "G2B Gastropub *CLOSED*"
 date: "2011-11-04"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "arugula-pesto"
@@ -26,7 +25,9 @@ tags:
   - "wii"
 ---
 
-**G2B Gastropub** 3211 Shannon Road [Website](http://g2b-restaurant.com/default.aspx "Website")
+3211 Shannon Road\
+Durham, NC\
+[Website](http://g2b-restaurant.com/default.aspx "Website")
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/g2b01.jpg "g2b01")](http://www.thegourmez.com/2011/11/g2b-gastropub/g2b01/)
 

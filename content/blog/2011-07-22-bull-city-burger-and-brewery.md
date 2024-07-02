@@ -2,7 +2,6 @@
 title: "Bull City Burger and Brewery"
 date: "2011-07-22"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
   - "wine"
 tags: 
@@ -26,7 +25,11 @@ tags:
   - "vegetarian"
 ---
 
-**Bull City Burger and Brewery** 107 E. Parrish Street Downtown Durham [Website](http://bullcityburgerandbrewery.com/BCB&B/Home.html) Burgers start at $6 Hotdogs start at $5
+107 E. Parrish Street\
+Downtown Durham, NC\
+[Website](http://bullcityburgerandbrewery.com/BCB&B/Home.html)\
+Burgers start at $6\
+Hot dogs start at $5
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/07/bcbb01.jpg "bcbb01")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/07/bcbb01.jpg)
 

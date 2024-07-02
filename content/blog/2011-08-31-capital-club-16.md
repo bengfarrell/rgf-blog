@@ -2,7 +2,7 @@
 title: "Capital Club 16"
 date: "2011-08-31"
 categories:
-  - "raleigh-restaurant-reviews"
+  - "cocktails"
   - "restaurants"
   - "spirits"
 tags:
@@ -25,7 +25,10 @@ tags:
   - "southern"
 ---
 
-**Capital Club 16** 16 W. Martin Street Downtown Raleigh [Website](http://www.capitalclub16.com/Capital_Club_16/Home.html) Entrees: $10–$18
+16 W. Martin Street\
+Downtown Raleigh, NC\
+[Website](http://www.capitalclub16.com/Capital_Club_16/Home.html)\
+Entrees: $10–$18
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/capitalclub1601.jpg "capitalclub1601")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/capitalclub1601.jpg)
 

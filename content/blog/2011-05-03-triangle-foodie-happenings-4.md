@@ -3,7 +3,7 @@ title: "Triangle Foodie Happenings"
 date: "2011-05-03"
 categories: 
   - "events"
-  - "restaurants"
+  - "announcements"
 tags: 
   - "bake-sale"
   - "blogger-bake-sale"

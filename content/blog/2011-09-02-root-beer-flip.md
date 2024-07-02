@@ -3,7 +3,7 @@ title: "Root Beer Flip at Foundation"
 date: "2011-09-02"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags: 
   - "brown-sugar-syrup"
   - "cocktail"
@@ -20,7 +20,11 @@ tags:
   - "scene"
 ---
 
-**Root Beer Flip** Foundation Downtown Raleigh [Website](http://foundationnc.com/) I shy away from cocktails that have soda as a main ingredient—I prefer less dilution and more thoughtful ingredient combinations than soda-based drinks usually reflect. The root beer flip at Foundation, however, is an absolutely delicious cocktail that I don’t regret breaking that rule for at all. The _flip_ in the name means that this drink follows a style first established in the 17th century that included beer, rum, and sugar served hot. Over time that combination morphed into today’s idea of a flip, which can cover anything that uses a spirit, egg, and sugar. Foundation’s root beer flip includes root beer, egg yolk, brown sugar syrup, and Cruzan Rum. And it’s delicious.
+**Foundation**\
+Downtown Raleigh, NC\
+[Website](http://foundationnc.com/)
+
+ I shy away from cocktails that have soda as a main ingredient—I prefer less dilution and more thoughtful ingredient combinations than soda-based drinks usually reflect. The root beer flip at Foundation, however, is an absolutely delicious cocktail that I don’t regret breaking that rule for at all. The _flip_ in the name means that this drink follows a style first established in the 17th century that included beer, rum, and sugar served hot. Over time that combination morphed into today’s idea of a flip, which can cover anything that uses a spirit, egg, and sugar. Foundation’s root beer flip includes root beer, egg yolk, brown sugar syrup, and Cruzan Rum. And it’s delicious.
 
 [![Root Beer Flip](http://s3.amazonaws.com/thegourmez-wpmedia/2011/09/rootbeerflip.jpg "rootbeerflip")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/09/rootbeerflip.jpg)
 

@@ -2,8 +2,7 @@
 title: "Pinot Evil Pinot Noir Dry Sparkling Rosé"
 date: "2011-09-22"
 categories: 
-  - "pinot-noir-rose"
-  - "rose-review"
+  - "wine"
 tags: 
   - "dry"
   - "pinot-evil"
@@ -12,9 +11,9 @@ tags:
   - "sweet"
 ---
 
-**Pinot Evil Pinot Noir Dry Sparkling Rosé** France
+**Region:** France
 
-\[insert photo lost during last week’s hard drive failure. Le sigh\]
+\[pretend there's a photo lost during last week’s hard drive failure. Le sigh\]
 
 For a dry rosé, this is pretty darn sweet, or rather, it’s a nice blend of sweet and dry.  The flavor is strawberry galore and mostly makes me think of strawberry frozen yogurt. In fact, its dryness gives it that slight tang you expect from frozen yogurt.
 

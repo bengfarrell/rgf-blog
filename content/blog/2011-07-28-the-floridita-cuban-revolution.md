@@ -3,7 +3,7 @@ title: "The Floridita at Cuban Revolution"
 date: "2011-07-28"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
   - "vermouth"
 tags: 
   - "bacardi-select"
@@ -15,7 +15,9 @@ tags:
   - "lime"
 ---
 
-**The Floridita** Cuban Revolution American Tobacco District, Durham
+**Cuban Revolution**\
+American Tobacco District\
+Durham, NC
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/07/037-768x1024.jpg "037")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/07/037.jpg)
 

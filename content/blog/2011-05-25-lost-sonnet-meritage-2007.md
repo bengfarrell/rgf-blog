@@ -2,8 +2,6 @@
 title: "Lost Sonnet Meritage 2007"
 date: "2011-05-25"
 categories: 
-  - "meritage"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "2007"
@@ -19,7 +17,7 @@ tags:
   - "wine-know-sips"
 ---
 
-**Lost Sonnet Meritage 2007** Napa Valley, CA
+**Region:** Napa Valley, CA
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/lostsonnet.jpg "lostsonnet")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/lostsonnet.jpg)
 

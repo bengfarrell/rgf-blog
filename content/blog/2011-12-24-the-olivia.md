@@ -3,8 +3,8 @@ title: "The Olivia @ West End Wine Bar"
 date: "2011-12-24"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "tasting-rooms-in-durham-nc"
+  - "tasting-rooms"
+  - "cocktails"
 tags: 
   - "cocktail"
   - "cranberry"
@@ -17,7 +17,10 @@ tags:
   - "west-end-wine-bar"
 ---
 
-**The Olivia** [West End Wine Bar](http://www.thegourmez.com/2009/10/barrestaurant-review-west-end-wine-bar-warehouse-district-durham/) West Village, Durham [Website](http://www.westendwinebar.com/durham/drink.html) $9
+**[West End Wine Bar](http://www.thegourmez.com/2009/10/barrestaurant-review-west-end-wine-bar-warehouse-district-durham/)**\
+West Village, Durham, NC\
+[Website](http://www.westendwinebar.com/durham/drink.html)\
+$9
 
  [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/theolivia.jpg "theolivia")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/theolivia.jpg)
 

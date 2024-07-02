@@ -2,10 +2,7 @@
 title: "Vouvray Brut Le Bouchet"
 date: "2011-08-24"
 categories: 
-  - "champagne"
-  - "chenin-blanc"
-  - "sparkling-wine-review"
-  - "vouvray"
+  - "wine"
 tags: 
   - "almond"
   - "brut"
@@ -16,7 +13,7 @@ tags:
   - "tight-bubbles"
 ---
 
-**Vouvray Brut Le Bouchet** Loire Valley, France
+**Region:** Loire Valley, France
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/lebouchet.jpg "lebouchet")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/lebouchet.jpg)
 
@@ -26,8 +23,8 @@ For a delicate sparkling wine, you could do a lot worse than le Bouchet.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-_Reviewed 8.12.11._
-
-Other Bloggers’ Thoughts
+**Other Bloggers’ Thoughts**
 
 Couldn’t find any because I’m pretty sure this isn’t a Francois Chidaine wine, who appears to be a fancypants winemaker in the Loire Valley, and his wines were the only ones showing up in my search for Vouvray Brut Le Bouchet. I did learn that le Bouchet is the name of the vineyard, though. And I had thought the French were getting creative with their wine names for a minute. Silly me.
+
+_Reviewed 8.12.11._

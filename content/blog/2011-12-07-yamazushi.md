@@ -2,7 +2,6 @@
 title: "Yamazushi"
 date: "2011-12-07"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "ceramics"
@@ -19,7 +18,9 @@ tags:
   - "yamazushi"
 ---
 
-**Yamazushi** 4711 Hope Valley Road Woodcroft, Durham [Website](http://www.yamazushirestaurant.com/#!)
+4711 Hope Valley Road\
+Woodcroft, Durham, NC\
+[Website](http://www.yamazushirestaurant.com/#!)
 
 Yamazushi is a Japanese restaurant that’s been in the Woodcroft Shopping Center since 1986, owned by the same husband and wife pair, George and Mayumi Yamazawa. I’ve been once before, at least four years ago, and it struck me then as your standard sushi and teriyaki restaurant with prices that were somewhat steeper than the others nearby. I discovered on my recent visit that Yamazushi has undergone a transformation—they now offer a unique Japanese dining experience for this area, focused on kaiseki, a multicourse meal of small but thoughtfully planned out courses. In addition to a few starters and midsize entrees that change daily ($6–$16, black cod miso, chef’s sashimi platter, and hot pots are what I remember), Yamazushi offers a three-course kaiseki meal to walk-in customers that is $35. If you are interested in the five-course (somewhere around $50) or eight-course (somewhere around $80) options, you’ll need to make reservations ahead of time. You can also request a vegetarian or vegan option when you call. Also worth noting is that the restaurant can only accommodate parties of one to four people.
 

@@ -2,11 +2,8 @@
 title: "Tea Tasting at Tin Roof Teas"
 date: "2011-07-05"
 categories:
-  - "beverage-product-review"
-  - "beverages-to-go"
   - "events"
-  - "ice-cream-bakery-food-truck"
-  - "product-reviews"
+  - "other-businesses"
 tags:
   - "assam"
   - "black-tea"
@@ -22,7 +19,11 @@ tags:
   - "yellow-tea"
 ---
 
-**Tea Tasting at Tin Roof Teas** 419-B Daniels Street Cameron Village, Raleigh [Website](http://tinroofteas.com/) $10
+419-B Daniels Street\
+Cameron Village\
+Raleigh, NC\
+[Website](http://tinroofteas.com/)\
+$10
 
 
 

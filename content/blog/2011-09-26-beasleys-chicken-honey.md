@@ -2,8 +2,8 @@
 title: "Beasley’s Chicken + Honey"
 date: "2011-09-26"
 categories: 
-  - "raleigh-restaurant-reviews"
   - "restaurants"
+  - "cocktails"
 tags: 
   - "ashley-christiansen"
   - "beasleys"
@@ -21,7 +21,8 @@ tags:
   - "tomatoes"
 ---
 
-**Beasley’s Chicken + Honey** 237 S. Wilmington Street Downtown Raleigh
+237 S. Wilmington Street\
+Downtown Raleigh, NC\
 
 We tried Beasley’s with a bunch of fellow foodies, two of whom are huge fans of the spot. It’s a concept restaurant by Ashley Christiansen, a two-times James Beard nominee, which is a huge honor. The space sells only fried chicken and sides. You can get that chicken by the quarter-bird in white or dark portions ($7.50), as part of a sandwich ($6.50), or with waffles ($10), but the waffles are only available in the morning and late at night.
 

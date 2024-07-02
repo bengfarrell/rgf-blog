@@ -2,10 +2,9 @@
 title: "Dos Perros Brunch with the Social Media Supper Club"
 date: "2011-05-02"
 categories: 
-  - "durham-restaurant-reviews"
   - "events"
   - "restaurants"
-  - "tequila"
+  - "cocktails"
 tags: 
   - "chilaquiles"
   - "churros"
@@ -20,7 +19,9 @@ tags:
   - "social-media-supper-club"
 ---
 
-**Dos Perros Brunch with the Social Media Supper Club** Downtown Durham Social Media [Supper Club Site](http://smsc.tumblr.com/) [Dos Perros Website](http://dosperrosrestaurant.com/)
+Downtown Durham, NC\
+[Durham Social Media Supper Club Site](http://smsc.tumblr.com/)\
+[Dos Perros Website](http://dosperrosrestaurant.com/)
 
 It’s no secret that I’m a fan of Charlie Deal’s restaurants, with Jujube being my favorite in the area. Dos Perros is also a great restaurant with takes on standard Mexican dishes that never fail to make my mouth water. So for the last social media supper club a few weeks’ back, I didn’t hesitate to suggest Dos Perros for brunch. I hadn’t tried it for brunch – heck, I hadn’t been out to brunch forever – and a hankering for chilaquiles played no small role in my recommendation. Brian and Mandy were quick to agree, and it was set! Dos Perros for brunch with two tables of our closest foodie friends was on the agenda.
 

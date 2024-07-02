@@ -3,7 +3,7 @@ title: "Point Break at the Pinhook"
 date: "2011-06-06"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
   - "spirits"
 tags: 
   - "absolut-citron"
@@ -20,7 +20,9 @@ tags:
   - "pinhook"
 ---
 
-**Point Break** [The Pinhook](http://thepinhook.com/ "Pinhook Website"), Downtown Durham $8
+**[The Pinhook](http://thepinhook.com/ "Pinhook Website")**\
+Downtown Durham, NC\
+$8
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/pointbreak.jpg "pointbreak")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/pointbreak.jpg)
 

@@ -3,7 +3,7 @@ title: "Mexicano Mojito at Bandido's"
 date: "2011-08-16"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags: 
   - "151-rum"
   - "bacardi"
@@ -22,7 +22,9 @@ tags:
   - "woodcroft"
 ---
 
-**Mexicano** **Mojito**  Bandidos Woodcroft, Durham $5.95
+**Bandidos**\
+Woodcroft, Durham, NC\
+$5.95
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/mexicanomojito.jpg "mexicanomojito")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/mexicanomojito.jpg)
 

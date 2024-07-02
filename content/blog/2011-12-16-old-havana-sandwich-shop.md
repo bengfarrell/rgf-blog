@@ -2,7 +2,6 @@
 title: "Old Havana Sandwich Shop"
 date: "2011-12-16"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "black-beans"
@@ -29,7 +28,10 @@ tags:
   - "the-tampa"
 ---
 
-**Old Havana Sandwich Shop** 310 East Main Street Downtown Durham [Website](http://oldhavanaeats.com/) $5.50–$10
+310 East Main Street\
+Downtown Durham, NC\
+[Website](http://oldhavanaeats.com/)\
+$5.50–$10
 
  
 

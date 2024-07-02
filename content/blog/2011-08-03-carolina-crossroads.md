@@ -2,7 +2,6 @@
 title: "Carolina Crossroads"
 date: "2011-08-03"
 categories: 
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "carolina-crossroads"
@@ -24,7 +23,10 @@ tags:
   - "unc-chapel-hill"
 ---
 
-**Carolina Crossroads** 211 Pittsboro Street Chapel Hill [Website](http://www.carolinainn.com/crossroads-restaurant.php) Entrees $24–$30
+211 Pittsboro Street\
+Chapel Hill, NC\
+[Website](http://www.carolinainn.com/crossroads-restaurant.php)\
+Entrees $24–$30
 
 Carolina Crossroads is one of the many fantastic hotel-based restaurants in the area, including the [Fearrington House Restaurant,](http://www.thegourmez.com/?p=1276) the [Fairview Dining Room,](http://www.thegourmez.com/?p=1946) and Herons among others. I’ve been to a few disappointing meals recently, and it was great to have a meal out that exceeded my expectations.
 

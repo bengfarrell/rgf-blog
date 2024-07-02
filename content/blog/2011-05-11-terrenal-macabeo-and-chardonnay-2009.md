@@ -2,9 +2,7 @@
 title: "Terrenal Macabeo and Chardonnay 2009"
 date: "2011-05-11"
 categories: 
-  - "chardonnay"
-  - "macabeo-viura"
-  - "white-wine-reviews"
+  - "wine"
 tags: 
   - "2009"
   - "acidic"
@@ -18,7 +16,7 @@ tags:
   - "vanilla"
 ---
 
-**Terrenal Macabeo and Chardonnay 2009** Carinena, Spain
+**Region:** Carinena, Spain
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/terranalwhite.jpg "terranalwhite")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/terranalwhite.jpg)
 

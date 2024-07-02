@@ -2,8 +2,7 @@
 title: "Cinco Joses Old Vines Grenache 2008"
 date: "2011-09-21"
 categories: 
-  - "garnacha"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2008"
   - "cinco-joses-old-vines-grenache"
@@ -13,9 +12,9 @@ tags:
   - "raspberry"
 ---
 
-**Cinco Joses Old Vines Grenache 2008** Campo de Borga, Spain
+**Region:** Campo de Borga, Spain
 
-\[insert picture that I lost in my hard drive failure here. Le sigh.\]
+\[imagine a picture that I lost in my hard drive failure here. Le sigh.\]
 
 Do yourself a favor and do NOT read the horrible explanation of who each Joe is on the label. It’s ten seconds I really need back in my life, including an extra five for pondering if Joe the Plumber has anything to do with the 2008 presidential election campaign.
 

@@ -2,9 +2,8 @@
 title: "Minneapolis Day 3: Riverfront, Mill City Museum, and Nick and Eddie’s"
 date: "2011-06-10"
 categories: 
-  - "minneapolis-dining"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "big-pickle"
   - "butterscotch-pudding"
@@ -28,9 +27,11 @@ tags:
 
 For our last full day in Minneapolis, I finally managed to steal Ben away from his conference for a riverfront stroll. We aimed for brunch at the Nicollet Island Inn, which is on Nicollet Island in the middle of the Mississippi. Unfortunately, the historic inn with a menu that sounded divine was booked up, so we continued to the north side of the riverfront.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis139.jpg "minneapolis139")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis139.jpg)
+<div class="caption">
 
-View of the river from Nicollet Island
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis139.jpg "minneapolis139")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis139.jpg) View of the river from Nicollet Island </div>
+
+
 
 There are a great many opportunities for picturesque photos on that side of the river, and we happened across a heritage trail that parallels it. What that means is I spent lots of time reading plaques and Ben spent lots of time concentrating on not rolling his eyes every time I stopped.
 
@@ -40,19 +41,19 @@ There are a great many opportunities for picturesque photos on that side of the 
 
 I don’t know what type of trees these are, but I dug the white coloring.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis145.jpg "minneapolis145")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis145.jpg)
+<div class="caption">
 
-Downtown from the north side.
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis145.jpg "minneapolis145")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis145.jpg) Downtown from the north side. </div>
 
 We ended up having brunch at [Pracna](http://www.pracna.com/) instead, which fit in with my quest for the historic as it’s Minneapolis’s oldest restaurant on its oldest street, having been around since 1890.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis146.jpg "minneapolis146")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis146.jpg)
+<div class="caption">
 
-Pracna in the St. Anthony Main district.
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis146.jpg "minneapolis146")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis146.jpg) Pracna in the St. Anthony Main district.</div>
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis147.jpg "minneapolis147")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis147.jpg)
+<div class="caption">
 
-St. Anthony Main District.
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis147.jpg "minneapolis147")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis147.jpg) St. Anthony Main District. </div>
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis148.jpg "minneapolis148")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis148.jpg)
 
@@ -76,13 +77,13 @@ Now that we were fed, the river walk could continue. We headed onto Hennepin Isl
 
 because it’s been preserved through a concrete apron that stopped it from eroding further up the Mississippi. Minneapolis wanted to keep its energy-making machine, you see, as the Falls have had much to do with Minneapolis industries since its founding.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis156.jpg "minneapolis156")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis156.jpg)
+<div class="caption">
 
-Ben looking out at the falls.
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis156.jpg "minneapolis156")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis156.jpg) Ben looking out at the falls. </div>
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis159.jpg "minneapolis159")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis159.jpg)
+<div class="caption">
 
-The river rushing toward the Stone Arch Bridge.
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis159.jpg "minneapolis159")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis159.jpg) The river rushing toward the Stone Arch Bridge.</div>
 
 Regardless, they are still impressive in their might even if they lack a bit of beauty! I’m mesmerized by any and all rushing water.
 
@@ -122,19 +123,19 @@ At this point, Ben and I parted ways yet again, as he was needed back at the con
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis180.jpg "minneapolis180")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis180.jpg)
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis181.jpg "minneapolis181")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis181.jpg)
+<div class="caption">
 
-The mill ruins from on high.
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis181.jpg "minneapolis181")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis181.jpg) The mill ruins from on high. </div>
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis184.jpg "minneapolis184")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis184.jpg)
+<div class="caption">
 
-Guthrie Theater’s billboard from the mill’s 9th floor.
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis184.jpg "minneapolis184")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis184.jpg) Guthrie Theater’s billboard from the mill’s 9th floor. </div>
 
 After I had my fill of gaping and being blown by the wind, I headed back to the museum’s main floor. In addition to an interactive baking room (hit it if something’s coming out of the oven) and a short film on Minneapolis history (miss it unless you love cheesy productions), there are many displays on old flour, grain cereal, and baking mix advertisements.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis185.jpg "minneapolis185")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis185.jpg)
+<div class="caption">
 
-The giant pancake table.
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis185.jpg "minneapolis185")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis185.jpg) The giant pancake table. </div>
 
 There were also a number of interesting old harvesting and milling tools about.
 

@@ -140,7 +140,7 @@ At [McGrail Vineyards](https://www.mcgrailvineyards.com/), founded in 1999, we w
 
 [![Hand pie Sabio's on Main Pleasanton](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/WBC16-Livermore-173-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/WBC16-Livermore-173.jpg)
 
-The dessert, topped with Sweet Woodruff ice cream and a peanut crumble, was outstanding on its own. Throw in that port, and it’s a match made in heaven for me. An eggplant caponata with currant and pine nut lamb sausages and Calabrian chile yogurt also impressed at that pairing meal. As did the **2014 Angela’s Cuv****ée Ros****é** from [Page Mill Winery](http://www.pagemillwinery.com/), which achieved one of my highest ratings of the WBC. My description: “The golden peach color sets the stage for a remarkable rosé. Guava and papaya eddy on a Santa Claus melon current before that too crests and fades quickly into the spume.”
+The dessert, topped with Sweet Woodruff ice cream and a peanut crumble, was outstanding on its own. Throw in that port, and it’s a match made in heaven for me. An eggplant caponata with currant and pine nut lamb sausages and Calabrian chile yogurt also impressed at that pairing meal. As did the **2014 Angela’s Cuvée Rosé** from [Page Mill Winery](http://www.pagemillwinery.com/), which achieved one of my highest ratings of the WBC. My description: “The golden peach color sets the stage for a remarkable rosé. Guava and papaya eddy on a Santa Claus melon current before that too crests and fades quickly into the spume.”
 
 
 

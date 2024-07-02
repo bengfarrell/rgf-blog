@@ -3,7 +3,7 @@ title: "The Republic"
 date: "2011-09-05"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
   - "spirits"
 tags: 
   - "bars"
@@ -22,7 +22,9 @@ tags:
   - "the-republic"
 ---
 
-**The Republic** 353 W. Main Street Five Points, Durham [Website](http://www.therepublicnc.com/)
+353 W. Main Street\
+Five Points, Durham, NC\
+[Website](http://www.therepublicnc.com/)
 
  
 

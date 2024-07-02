@@ -2,8 +2,7 @@
 title: "Bolla Soave DOC 2009"
 date: "2011-06-21"
 categories: 
-  - "soave"
-  - "white-wine-reviews"
+  - "wine"
 tags: 
   - "2009"
   - "bolla-soave"
@@ -15,7 +14,7 @@ tags:
   - "peach"
 ---
 
-**Bolla Soave DOC 2009** Veneto, Italy
+**Region:** Veneto, Italy
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/bollasoave.jpg "bollasoave")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/bollasoave.jpg)
 

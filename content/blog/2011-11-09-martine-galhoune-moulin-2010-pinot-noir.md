@@ -2,8 +2,6 @@
 title: "Martine Galhoune Moulin 2010 Pinot Noir"
 date: "2011-11-09"
 categories: 
-  - "pinot-noir"
-  - "red-wine-review"
   - "wine"
 tags: 
   - "2010-vintage"
@@ -17,7 +15,9 @@ tags:
   - "spice"
 ---
 
-**Martine Galhoune Moulin 2010 Pinot Noir** France [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/MGMpinotnoir.jpg "MGMpinotnoir")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/MGMpinotnoir.jpg) Nectarine. The nose of this wine is full of nectarine. It’s thin-bodied, fun to drink, and a welcome shift from the overly dry wines I’ve had lately. I’d call this one medium dry. It has vanilla, spice, nectarine, chocolate, and cherry all balanced well together.
+**Region:** France 
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/MGMpinotnoir.jpg "MGMpinotnoir")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/MGMpinotnoir.jpg) Nectarine. The nose of this wine is full of nectarine. It’s thin-bodied, fun to drink, and a welcome shift from the overly dry wines I’ve had lately. I’d call this one medium dry. It has vanilla, spice, nectarine, chocolate, and cherry all balanced well together.
 
 The MGM 2010 pinot noir is simple and unassuming and I dig it.
 

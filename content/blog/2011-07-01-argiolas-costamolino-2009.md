@@ -2,8 +2,7 @@
 title: "Argiolas Costamolino 2009"
 date: "2011-07-01"
 categories: 
-  - "vermentino"
-  - "white-wine-reviews"
+  - "wine"
 tags: 
   - "2009"
   - "argiolas-costamolino"
@@ -21,7 +20,7 @@ tags:
   - "wine-street-times"
 ---
 
-**Argiolas Costamolino 2009** Sardinia, Italy
+**Region:** Sardinia, Italy
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/argiolas.jpg "argiolas")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/argiolas.jpg)
 

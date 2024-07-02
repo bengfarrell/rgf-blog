@@ -2,8 +2,7 @@
 title: "Gaetano D’Aquino Chianti 2010"
 date: "2011-10-26"
 categories: 
-  - "chianti"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2010"
   - "2010-vintage"
@@ -16,7 +15,7 @@ tags:
   - "wine-cask-blog"
 ---
 
-**Gaetano D’Aquino Chianti 2010** Italy
+**Region:** Italy
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/daquino-chianti.jpg "daquino chianti")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/daquino-chianti.jpg)
 

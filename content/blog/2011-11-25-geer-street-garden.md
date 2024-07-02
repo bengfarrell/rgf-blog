@@ -2,7 +2,6 @@
 title: "Geer Street Garden"
 date: "2011-11-25"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
   - "sake"
   - "wine"
@@ -28,7 +27,11 @@ tags:
   - "the-pile"
 ---
 
-**Geer Street Garden** 644 Foster Street Central Park District, Durham [Website](http://geerstreetgarden.com/) Sandwiches/Entrees: $8–$17
+644 Foster Street\ 
+Central Park District\
+Durham, NC\
+[Website](http://geerstreetgarden.com/)\
+Sandwiches/Entrees: $8–$17
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/geerstgarden06.jpg "geerstgarden06")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/geerstgarden06.jpg)
 

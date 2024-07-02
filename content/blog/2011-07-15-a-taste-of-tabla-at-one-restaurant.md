@@ -2,7 +2,7 @@
 title: "A Taste of Tabla at [ONE] Restaurant"
 date: "2011-07-15"
 categories: 
-  - "dining-chapel-hill-nc"
+  - "cocktails"
   - "events"
   - "restaurants"
 tags: 
@@ -23,8 +23,10 @@ tags:
   - "watermelon-curry"
 ---
 
-**A Taste of Tabla at \[ONE\] Restaurant** 100 Meadowmont Village Circle Meadowmont Village, Chapel Hill [Website](http://www.one-restaurant.com/default.aspx)
-
+100 Meadowmont Village Circle\
+Meadowmont Village\
+Chapel Hill, NC\
+[Website](http://www.one-restaurant.com/default.aspx)\
 $55
 
 A few weeks ago, I attended my first prix fixe dinner at \[ONE\], a great restaurant that [I loved last year](http://www.thegourmez.com/?p=1473) when I tried it out shortly after its opening.  This dinner was thrown in honor of Floyd Cardoz’s win of the third season of Top Chef Masters. Two of the chefs at \[ONE\]—Sean McCarthy, Chef de Cuisine, and Carrie (whose last name I didn’t get), Sous Chef—used to work under Chef Cardoz at his famous restaurant in New York, Tabla. They thought they’d honor their former boss’s success with a themed dinner menu for the week. The menu consisted of some of their favorite New Indian dishes from their time at Tabla.

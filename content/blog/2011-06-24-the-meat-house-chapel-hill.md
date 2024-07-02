@@ -2,9 +2,7 @@
 title: "The Meat House (Chapel Hill) *CLOSED*"
 date: "2011-06-24"
 categories: 
-  - "butchers"
-  - "food-product-review"
-  - "ice-cream-bakery-food-truck"
+  - "other-businesses"
   - "product-reviews"
 tags: 
   - "aged-steak"
@@ -24,7 +22,9 @@ tags:
   - "steak-tips"
 ---
 
-**The Meat House** 1508 E. Franklin Street Chapel Hill [Website](http://www.themeathouse.com/store-location/North-Carolina/Chapel-Hill.aspx)
+1508 E. Franklin Street\
+Chapel Hill, NC\
+[Website](http://www.themeathouse.com/store-location/North-Carolina/Chapel-Hill.aspx)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/meathouse26.jpg "meathouse26")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/meathouse26.jpg)
 

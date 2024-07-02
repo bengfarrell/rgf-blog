@@ -2,9 +2,7 @@
 title: "Terrenal Tempranillo and Garnacha 2009"
 date: "2011-05-04"
 categories: 
-  - "garnacha"
-  - "red-wine-review"
-  - "tempranillo"
+  - "wine"
 tags: 
   - "2009"
   - "cheap-wine-finder"
@@ -15,7 +13,7 @@ tags:
   - "thin-bodied"
 ---
 
-**Terrenal Tempranillo and Garnacha 2009** Carinena, Spain
+**Region:** Carinena, Spain
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/terrenaltempgar.jpg "terrenaltempgar")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/terrenaltempgar.jpg) Oh, this is so very thin and unappealing. My word, I haven’t had a wine this uninspired in a while. It tastes metallic, with thin strawberry and fig flavors. There’s a little bit of greenery involved that reminds me of eucalyptus. It’s okay, but there are so many better wines in the world.
 

@@ -13,7 +13,8 @@ tags:
   - "white-cranberry-juice"
 ---
 
-**Pineapple Express Martini** Rockfish Seafood and Grill Southpoint
+**Rockfish Seafood and Grill**\
+Southpoint, Durham, NC
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/07/pineappleexpress.jpg "pineappleexpress")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/07/pineappleexpress.jpg)
 

@@ -2,7 +2,6 @@
 title: "Aviator Smokehouse"
 date: "2011-06-20"
 categories: 
-  - "fuquay-varina-restaurant-review"
   - "restaurants"
   - "sake"
   - "wine"
@@ -21,7 +20,10 @@ tags:
   - "triangle"
 ---
 
-**Aviator Smokehouse** 525 East Broad Street Fuquay-Varina [Website](http://www.aviatorsmokehouse.com/1.html) $6.95–$13.95
+525 East Broad Street\
+Fuquay-Varina, NC\
+[Website](http://www.aviatorsmokehouse.com/1.html)\
+$6.95–$13.95
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/aviator1.jpg "aviator1")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/aviator1.jpg)
 

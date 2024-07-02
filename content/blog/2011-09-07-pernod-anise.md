@@ -2,7 +2,7 @@
 title: "Pernod Anise"
 date: "2011-09-07"
 categories: 
-  - "liqueur-reviews"
+  - "spirits"
 tags: 
   - "alcohol"
   - "anise"
@@ -12,8 +12,6 @@ tags:
   - "pernod"
   - "sambuca"
 ---
-
-**Pernod Anise** French anise-based liqueur
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/09/pernod01.jpg "pernod01")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/09/pernod01.jpg)
 

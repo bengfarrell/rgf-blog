@@ -2,8 +2,6 @@
 title: "Twisted Noodles--Durham Branch"
 date: "2011-05-27"
 categories: 
-  - "durham-restaurant-reviews"
-  - "plum-wine"
   - "restaurants"
 tags: 
   - "chile-sauce"
@@ -20,7 +18,10 @@ tags:
   - "twisted-noodles"
 ---
 
-**Twisted Noodles** 4201-112 University Drive South Square $8.95–$15.95 [Website](http://www.twistednoodles.com/index.html)
+4201-112 University Drive\
+South Square, Durham, NC\
+$8.95–$15.95\
+[Website](http://www.twistednoodles.com/index.html)
 
  
 

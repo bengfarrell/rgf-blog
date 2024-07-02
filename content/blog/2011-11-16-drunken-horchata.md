@@ -3,7 +3,7 @@ title: "Drunken Horchata at Dos Perros"
 date: "2011-11-16"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags: 
   - "cocktail-review"
   - "dos-perros"
@@ -19,7 +19,11 @@ tags:
   - "rum"
 ---
 
-Drunken Horchata [Dos Perros](http://dosperrosrestaurant.com/) Dinner [Review](http://www.thegourmez.com/2010/07/dos-perros-downtown-durham/), Brunch [Review](http://www.thegourmez.com/2011/05/dos-perros-brunch-with-the-social-media-supper-club/) Downtown Durham $9
+**[Dos Perros](http://dosperrosrestaurant.com/)**\
+Dinner [Review](http://www.thegourmez.com/2010/07/dos-perros-downtown-durham/)\
+Brunch [Review](http://www.thegourmez.com/2011/05/dos-perros-brunch-with-the-social-media-supper-club/)\
+Downtown Durham, NC\
+$9
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/dosperroshorchata-1024x916.jpg "dosperroshorchata")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/dosperroshorchata.jpg)
 

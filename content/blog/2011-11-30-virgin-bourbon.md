@@ -2,7 +2,7 @@
 title: "Virgin Bourbon"
 date: "2011-11-30"
 categories: 
-  - "bourbon"
+  - "spirits"
 tags: 
   - "7-year"
   - "bourbon-reviews"
@@ -12,7 +12,8 @@ tags:
   - "virgin-bourbon"
 ---
 
-**Virgin Bourbon Bardstown, Kentucky 101 Proof**
+**Region:** Bardstown, Kentucky\ 
+101 Proof
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/virginbourbon1.jpg "virginbourbon")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/virginbourbon1.jpg)
 

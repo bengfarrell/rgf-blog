@@ -2,7 +2,7 @@
 title: "The Bloody Brunch (Motorco and Ko Kyu BBQ)"
 date: "2011-06-14"
 categories: 
-  - "durham-restaurant-reviews"
+  - "cocktails"
   - "events"
   - "restaurants"
 tags: 
@@ -21,7 +21,10 @@ tags:
   - "tater-tot"
 ---
 
-**The Bloody Brunch** Motorco Music Hall and Ko Kyu BBQ Central Park District, Durham Sundays
+**Motorco Music Hall**
+Central Park District\
+Durham, NC\
+Sundays
 
 [The Bloody Brunch](http://motorcomusic.com/bloody-brunch-w-peter-lamb-the-wolves-2) is a weekly event hosted by [Motorco Music Hall](http://www.thegourmez.com/?p=1785) and the [Ko Kyu BBQ](http://www.kokyubbq.com/) truck that brings together a winning combination for the night owls among us: a brunch that doesn’t start until 1 pm, cool drinks, a market of crafts and clothes, and free music. That’s not even mentioning the chill neighborhood vibe of my fellow eaters and drinkers. Durham lounges well, folks.
 

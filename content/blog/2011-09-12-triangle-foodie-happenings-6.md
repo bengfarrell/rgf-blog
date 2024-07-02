@@ -4,6 +4,7 @@ date: "2011-09-12"
 categories: 
   - "events"
   - "restaurants"
+  - "announcements"
 tags: 
   - "beefsteak-octoberfest"
   - "bull-city-burger"

@@ -2,12 +2,10 @@
 title: "Taste Carolina Tours TriFoodie Tweetup"
 date: "2011-05-31"
 categories: 
-  - "raleigh-restaurant-reviews"
   - "events"
-  - "product-reviews"
   - "restaurants"
   - "sake"
-  - "travel-guide"
+  - "travel-guides"
   - "wine"
 tags: 
   - "18-seaboard"
@@ -53,9 +51,9 @@ Oh my! It was absolutely beautiful, and the fiddlehead fern, red potato, and ram
 
 Next stop was a few blocks down the road, where [Market](http://www.eatatmarket.com/) and [Escazu](http://www.escazuchocolates.com/) share a corner. Escazu’s chief chocolate maker, Hallot Parson, led us through the steps of making a chocolate bar in their small factory, one of the few small-batch chocolate factories in the US. They perform all the steps of chocolate making from sorting the cacao beans out to molding the bars themselves.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/toctweet08.jpg "toctweet08")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/toctweet08.jpg)
+<div class="caption">
 
-Hallot Parson
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/toctweet08.jpg "toctweet08")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/toctweet08.jpg) Hallot Parson </div>
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/toctweet09.jpg "toctweet09")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/toctweet09.jpg)
 

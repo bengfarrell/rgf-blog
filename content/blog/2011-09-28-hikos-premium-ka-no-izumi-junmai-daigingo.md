@@ -20,7 +20,7 @@ tags:
   - "tasting-notes"
 ---
 
-**Hiko’s Premium Ka No Izumi Junmai Daigingo** Koga Shiga, Japan
+**Region:** Koga Shiga, Japan
 
  [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/09/hikospremium.jpg "hikospremium")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/09/hikospremium.jpg)
 

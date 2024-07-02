@@ -2,7 +2,7 @@
 title: "Carolina Tiger Rescue"
 date: "2011-04-19"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "binturong"
   - "blind-tiger"
@@ -19,7 +19,9 @@ tags:
   - "white-tiger"
 ---
 
-**Carolina Tiger Rescue** 1940 Hanks Chapel Road Pittsboro [Website](http://www.carolinatigerrescue.org/default.asp)
+1940 Hanks Chapel Road\
+Pittsboro, NC\
+[Website](http://www.carolinatigerrescue.org/default.asp)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue089.jpg "tigerrescue089")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue089.jpg)
 
@@ -27,7 +29,9 @@ When my sister was in town a few weeks ago, we decided, at long last, to check o
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue090.jpg "tigerrescue090")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue090.jpg)
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue050.jpg "tigerrescue050")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue050.jpg)_My sister, Christa, then Ben and friends Laura and Ellen._
+<div class="caption">
+
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue050.jpg "tigerrescue050")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue050.jpg)_My sister, Christa, then Ben and friends Laura and Ellen._ </div>
 
 Then it’s on your way to see the animals they have. This is no quick tour—it took us about 2 hours all in all. And it was freezing cold that day, too! We were troopers and enjoyed a fire back at our place afterwards.
 
@@ -39,31 +43,29 @@ The animals were separated from us by loose chain link fences so the cats realiz
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue102.jpg "tigerrescue102")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue102.jpg)
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue060.jpg "tigerrescue060")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue060.jpg)
+<div class="caption">
 
-_The infamous sprayer._
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue060.jpg "tigerrescue060")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue060.jpg) _The infamous sprayer._ </div>
 
 We learned that if a tiger aims your way, take three large steps to the left, and you should be out of the line of fire. We practiced that maneuver several times while visiting Raj. We also heard our first chuffing at Raj’s enclosure. It’s a noise somewhat like a blustering horse that tigers make to greet each other. Each volunteer learns to chuff and says hello to the tigers by doing so. The tigers can actually distinguish between each volunteer’s chuff.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue100.jpg "tigerrescue100")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue100.jpg)
+<div class="caption">
 
-_Raj chuffing._
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue100.jpg "tigerrescue100")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue100.jpg) _Raj chuffing._ </div>
 
 I thought the chuffing was pretty adorable. After meeting Raj, we moved down toward the servals, who were happy to come out in the cold once they realized treats were involved.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue096.jpg "tigerrescue096")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue096.jpg)
+<div class="caption">
 
-_Poking a head out._
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue096.jpg "tigerrescue096")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue096.jpg) _Poking a head out._ </div>
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue098.jpg "tigerrescue098")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue098.jpg)
+<div class="caption">
 
- 
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue098.jpg "tigerrescue098")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue098.jpg) _I believe this was Santana, but I’m unsure._ </div>
 
-_I believe this was Santana, but I’m unsure._
+<div class="caption">
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue109.jpg "tigerrescue109")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue109.jpg)
-
-_The serval reaching for a treat._
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue109.jpg "tigerrescue109")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue109.jpg) _The serval reaching for a treat._ </div>
 
 We also passed by the caracals and lynxes, all of which refused to come out in the cold. I did snap a picture of a caracal from the other side of the rescue as we neared the end of the tour, though.
 
@@ -73,21 +75,17 @@ They are gorgeous animals. Aren’t all cats, though?
 
 A trio of lions was next on the agenda, and they were a playful bunch! Well, playful with each other. Apparently these cats are high on the aggression scale, so no humans go in to see them at all.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue066.jpg "tigerrescue066")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue066.jpg)
+<div class="caption">
 
- 
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue066.jpg "tigerrescue066")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue066.jpg) _Resting before playtime._</div>
 
-_Resting before playtime._
+<div class="caption">
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue078.jpg "tigerrescue078")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue078.jpg)
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue078.jpg "tigerrescue078")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue078.jpg) _Play!_ </div>
 
-_Play!_
+<div class="caption">
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue073.jpg "tigerrescue073")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue073.jpg)
-
- 
-
-_A male lion—no mane because he was neutered, so he never grew one._
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue073.jpg "tigerrescue073")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue073.jpg)_A male lion—no mane because he was neutered, so he never grew one._</div>
 
 We then passed by a beautiful bobcat.
 
@@ -111,9 +109,8 @@ I’d never seen a binturong before! According to our tour guide, they are prett
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue034.jpg "tigerrescue034")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue034.jpg).
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue039.jpg "tigerrescue039")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue039.jpg)
-
-_Nitro finds his chicken by narrowing down the area._
+<div class="caption">
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue039.jpg "tigerrescue039")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue039.jpg)_Nitro finds his chicken by narrowing down the area._</div>
 
 He’s a super friendly tiger, even with his disability. He posed for us for quite a while.
 
@@ -125,13 +122,13 @@ Next door to Nitro is a white tiger named Jellybean who also gave us the courtes
 
 We moved on to our last tigers, a mated pair named Carmelita and Lucky.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue082.jpg "tigerrescue082")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue082.jpg)
+<div class="caption">
 
-_Carmelita looking content._
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue082.jpg "tigerrescue082")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue082.jpg) _Carmelita looking content._</div>
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue080.jpg "tigerrescue080")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue080.jpg)
+<div class="caption">
 
-_Lucky, licking a baby food jar clean—he loves the stuff!_
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue080.jpg "tigerrescue080")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tigerrescue080.jpg) _Lucky, licking a baby food jar clean—he loves the stuff!_ </div>
 
 Money from the tours is the Carolina Tiger Rescue’s primary source of income, so if you’re intrigued by what you see, head on out and support this awesome group.
 

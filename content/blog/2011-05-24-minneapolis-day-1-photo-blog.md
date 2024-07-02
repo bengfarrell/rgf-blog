@@ -2,9 +2,8 @@
 title: "Minneapolis Day 1—Photo Blog"
 date: "2011-05-24"
 categories: 
-  - "minneapolis-dining"
   - "sake"
-  - "travel-guide"
+  - "travel-guides"
   - "wine"
 tags: 
   - "architecture"

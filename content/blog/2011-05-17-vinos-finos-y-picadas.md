@@ -3,8 +3,8 @@ title: "Vinos Finos y Picadas"
 date: "2011-05-17"
 categories: 
   - "wine-bars"
-  - "malbec"
-  - "tasting-rooms-in-raleigh-nc"
+  - "wine"
+  - "tasting-rooms"
 tags: 
   - "cheese-plate"
   - "lafayette-village"
@@ -18,7 +18,11 @@ tags:
   - "wine-flight"
 ---
 
-**Vinos Finos y Picadas** 8450 Honeycutt Road Lafayette Village, North Raleigh [Website](http://www.vinosfinosypicadas.com/) Bites: $3–$8 Cheese & Meat Plates: $10–$30
+8450 Honeycutt Road\
+Lafayette Village, North Raleigh, NC\
+[Website](http://www.vinosfinosypicadas.com/)\
+Bites: $3–$8\
+Cheese & Meat Plates: $10–$30
 
 Vinos Finos y Picadas is a South American wine bar in the new Lafayette Village shopping plaza that’s designed to look like a European village in the tradition of Epcot and Las Vegas before it.
 

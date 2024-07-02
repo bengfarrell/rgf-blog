@@ -2,7 +2,6 @@
 title: "My Sister's Kitchen"
 date: "2011-10-03"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "breakfast"
@@ -22,7 +21,14 @@ tags:
   - "rtp"
 ---
 
-**My Sister’s Kitchen** 4716 NC Highway 55 Edge of Research Triangle Park, Durham [Website](http://mysisterskitchen-inc.com/Home_Page.html) Breakfast: $1.99–$6.99 Lunch/Dinner: $4.99–$10.99 [![](http://carpedurham.com/wp-content/uploads/2011/10/sisterskitchen08.jpg)](http://www.thegourmez.com/2012/10/komo-komo-afternoon-tea/komokomotea10/) My Sister’s Kitchen is located just past the intersection of highways 54 and 55. It’s in a bright red building now adorned with a mural of a tasty breakfast plate. Breakfast is a big draw for this spot, because it’s served all day, and it’s pretty affordable. There’s also free wireless. Inside, I was pleasantly surprised by the bright, cheery yellow of the dining room setup. [![](http://carpedurham.com/wp-content/uploads/2011/10/sisterskitchen05.jpg)](http://www.thegourmez.com/2012/10/komo-komo-afternoon-tea/komokomotea06/) Service is either take out and order at the register or sit down and be waited on. Don’t bother looking up at the overhead menu—it’s not complete. The real menus are at the tables so grab one of those to see what My Sister’s Kitchen offers.
+4716 NC Highway 55\
+Edge of Research Triangle Park\
+Durham, NC\
+[Website](http://mysisterskitchen-inc.com/Home_Page.html)\
+Breakfast: $1.99–$6.99\
+Lunch/Dinner: $4.99–$10.99
+
+[![](http://carpedurham.com/wp-content/uploads/2011/10/sisterskitchen08.jpg)](http://www.thegourmez.com/2012/10/komo-komo-afternoon-tea/komokomotea10/) My Sister’s Kitchen is located just past the intersection of highways 54 and 55. It’s in a bright red building now adorned with a mural of a tasty breakfast plate. Breakfast is a big draw for this spot, because it’s served all day, and it’s pretty affordable. There’s also free wireless. Inside, I was pleasantly surprised by the bright, cheery yellow of the dining room setup. [![](http://carpedurham.com/wp-content/uploads/2011/10/sisterskitchen05.jpg)](http://www.thegourmez.com/2012/10/komo-komo-afternoon-tea/komokomotea06/) Service is either take out and order at the register or sit down and be waited on. Don’t bother looking up at the overhead menu—it’s not complete. The real menus are at the tables so grab one of those to see what My Sister’s Kitchen offers.
 
 [![](http://carpedurham.com/wp-content/uploads/2011/10/sisterskitchen02.jpg)](http://www.thegourmez.com/2012/10/komo-komo-afternoon-tea/komokomotea04/)[![](http://carpedurham.com/wp-content/uploads/2011/10/sisterskitchen03.jpg)](http://www.thegourmez.com/2012/10/komo-komo-afternoon-tea/komokomotea03/)[![](http://carpedurham.com/wp-content/uploads/2011/10/sisterskitchen04.jpg)](http://www.thegourmez.com/2012/10/komo-komo-afternoon-tea/komokomotea05/)  Pancakes, omelets, and various egg and meat combinations are on the menu for breakfast. For lunch and dinner, a short list of entrees includes some Caribbean jerk, chicken marsala, stuffed pork tenderloin, pasta and then straightforward sandwiches, hamburgers, and hot dogs. In other words, it’s a mix of cuisines. We dined in, and the only problem I found with My Sister’s Kitchen became noticeable right away—the same people work the take-out register as work the dine-in service, so service is slow if there’s anyone up at the counter, and there usually was. It wasn’t so slow to have annoyed me, though, but I’d be lax if I didn’t mention that two tables walked out while we were there, and the wait may have had to do with one of those. The other table seemed displeased with what looked like a delicious chili dog from my vantage point and left without even trying it, so I think that was unrelated.
 

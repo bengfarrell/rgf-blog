@@ -2,7 +2,7 @@
 title: "Effen Vodka"
 date: "2011-05-13"
 categories: 
-  - "vodka"
+  - "spirits"
 tags: 
   - "almond"
   - "cayenne"
@@ -10,7 +10,8 @@ tags:
   - "nerdfit"
 ---
 
-**Effen Vodka** 80 Proof Wheat Vodka from Holland
+**Region:** Holland\
+80 Proof Wheat Vodka
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/effenvodka.jpg "effenvodka")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/effenvodka.jpg)
 

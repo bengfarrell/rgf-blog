@@ -2,8 +2,7 @@
 title: "Tisdale Pinot Noir (vintage free, yo!)"
 date: "2011-06-13"
 categories: 
-  - "pinot-noir"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "alcohlogers-anonymous"
   - "california"
@@ -16,7 +15,9 @@ tags:
   - "winers-blog"
 ---
 
-**Tisdale Pinot Noir (vintage free, yo!)** Modesto, CA
+**Region:** Modesto, CA\
+(vintage free, yo!)
+
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/tisdalepinot.jpg "tisdalepinot")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/tisdalepinot.jpg)
 

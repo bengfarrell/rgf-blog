@@ -3,7 +3,7 @@ title: "Mango Bellini @ Nantucket Grill"
 date: "2011-12-12"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
   - "spirits"
 tags: 
   - "bars"
@@ -19,7 +19,8 @@ tags:
   - "woodcroft"
 ---
 
-**Mango Bellini** [Nantucket Grill and Bar](http://www.nantucketcafeandgrill.com/) Sutton Station, Durham
+**[Nantucket Grill and Bar](http://www.nantucketcafeandgrill.com/)**\
+Sutton Station, Durham, NC
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/mangobellini.jpg "mangobellini")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/mangobellini.jpg)
 

@@ -82,7 +82,7 @@ The wines have plenty of that playful spirit in them, too. The tasting room mana
 
 I loved it. It reminded me of the pleasure of wrapping up in a favorite scarf for the first brisk day of fall. Attractive, smooth raspberry and plum dominated with elements of toffee wafting through. 5/5
 
-I also gave my highest score to the **Alexandria Nicole Sergeant Pepper 2013 Carm****én****ère.**
+I also gave my highest score to the **Alexandria Nicole Sergeant Pepper 2013 Carménère.**
 
 [![alexandria nicole sergeant pepper 2013 carmenere](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-198-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-198.jpg)
 

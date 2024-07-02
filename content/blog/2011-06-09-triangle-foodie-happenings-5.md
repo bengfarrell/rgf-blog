@@ -3,7 +3,7 @@ title: "Triangle Foodie Happenings"
 date: "2011-06-09"
 categories: 
   - "events"
-  - "restaurants"
+  - "announcements"
 tags: 
   - "buku"
   - "chez-moi"

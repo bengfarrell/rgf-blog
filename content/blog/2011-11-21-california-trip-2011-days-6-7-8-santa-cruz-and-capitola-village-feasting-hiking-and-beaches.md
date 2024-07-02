@@ -2,9 +2,8 @@
 title: "California Trip 2011, Days 6, 7, & 8: Santa Cruz and Capitola Village Feasting, Hiking, and Beaches"
 date: "2011-11-21"
 categories: 
-  - "santa-cruz-restaurant-reviews"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "2011"
   - "515"

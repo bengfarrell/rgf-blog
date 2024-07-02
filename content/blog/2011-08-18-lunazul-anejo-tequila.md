@@ -3,7 +3,6 @@ title: "Lunazul Anejo Tequila"
 date: "2011-08-18"
 categories: 
   - "spirits"
-  - "tequila"
 tags: 
   - "1823"
   - "aged-tequila"
@@ -18,7 +17,7 @@ tags:
   - "wolf"
 ---
 
-**Lunazul Anejo Tequila** Jalisco, Mexico
+**Region:** Jalisco, Mexico
 
  [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/lunazulanejo.jpg "lunazulanejo")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/lunazulanejo.jpg)
 

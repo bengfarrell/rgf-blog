@@ -2,7 +2,6 @@
 title: "Spartacus"
 date: "2011-09-29"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "antipasto"
@@ -24,7 +23,11 @@ tags:
   - "white-bean-dip"
 ---
 
-**Spartacus** 4139 Durham-Chapel Hill Blvd. South Square, Durham Entrees: $12–$18 Sandwiches: $9 [Website](http://www.spartacusrestaurant.com/index.htm)
+4139 Durham-Chapel Hill Blvd.\
+South Square, Durham, NC
+Entrees: $12–$18\
+Sandwiches: $9\
+[Website](http://www.spartacusrestaurant.com/index.htm)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/09/spartacus12.jpg "spartacus12")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/09/spartacus12.jpg)
 

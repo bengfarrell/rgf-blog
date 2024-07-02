@@ -3,9 +3,9 @@ title: "Minneapolis Evening 1 and Day/Evening 2--Photo Blog"
 date: "2011-06-01"
 categories: 
   - "bars"
-  - "bars-in-minneapolis-mn"
+  - "cocktails"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "2-gingers-whiskey"
   - "brain-splurge"

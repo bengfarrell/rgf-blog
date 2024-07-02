@@ -3,7 +3,7 @@ title: "Desert Pear Martini at Firebirds"
 date: "2011-08-25"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags: 
   - "apple"
   - "belvedere-citrus-vodka"
@@ -16,7 +16,9 @@ tags:
   - "prickly-pear"
 ---
 
-**Desert Pear Martini** [Firebirds](http://www.firebirdsrestaurants.com/index.html) North Hills, Raleigh $9
+**[Firebirds](http://www.firebirdsrestaurants.com/index.html)**
+North Hills, Raleigh, NC\
+$9
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/pearmartini.jpg "pearmartini")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/08/pearmartini.jpg)
 

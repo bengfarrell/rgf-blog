@@ -3,7 +3,7 @@ title: "Raspberry Veranda at Parizade"
 date: "2011-05-10"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags: 
   - "chambord"
   - "cocktail"
@@ -16,7 +16,10 @@ tags:
   - "triple-sec"
 ---
 
-**Raspberry Veranda** [Parizade,](http://www.thegourmez.com/?p=1159) Durham $6.50 [Website](http://www.parizadedurham.com/index.html)
+**[Parizade,](http://www.thegourmez.com/?p=1159)**\
+Durham, NC\
+$6.50\
+[Website](http://www.parizadedurham.com/index.html)
 
 The Raspberry Veranda is a welcome addition to cocktails using sweet tea vodka—this is no simple twist on an Arnold Palmer!
 
