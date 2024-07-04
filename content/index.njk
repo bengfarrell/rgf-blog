@@ -58,7 +58,7 @@ numberOfLatestPostsToShow: 4
 
 {% set postsCount = collections.posts | filterByTags(['san-francisco']) | length %}
 {% set postslist = collections.posts | filterByTags(['san-francisco']) | head(-1) %}
-{% set city = 'San Francisco' %}
+{% set city = 'San-Francisco' %}
 {% include "city-postslist.njk" %}
 
 {% set postsCount = collections.posts | filterByTags(['berkeley']) | length %}

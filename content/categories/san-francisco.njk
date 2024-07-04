@@ -7,11 +7,11 @@
 		alias: "postslist",
 		size: 20,
 		before: function(data) {
-			return this.filterByTags(data, ['hayward']);
+			return this.filterByTags(data, ['san-francisco']);
 		}
 	},
 	eleventyNavigation: {
-		key: "Hayward",
+		key: "san-francisco",
 		order: 1
 	},
 	permalink: "categories/{{ page.fileSlug }}/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
@@ -19,7 +19,7 @@
 ---
 
 <section>
-	<h1>Hayward</h1>
+	<h1>San Francisco</h1>
 	{% include "postslist.njk" %}
 
 	<nav aria-labelledby="pages" class="pagination">
