@@ -48,22 +48,26 @@ numberOfLatestPostsToShow: 4
 <ol reversed class="cities postlist">
 {% set postsCount = collections.posts | filterByTags(['hayward']) | length %}
 {% set postslist = collections.posts | filterByTags(['hayward']) | head(-1) %}
-{% set city = 'Hayward' %}
+{% set city = 'hayward' %}
+{% set cityname = 'Hayward' %}
 {% include "city-postslist.njk" %}
 
 {% set postsCount = collections.posts | filterByTags(['oakland']) | length %}
 {% set postslist = collections.posts | filterByTags(['oakland']) | head(-1) %}
-{% set city = 'Oakland' %}
+{% set city = 'oakland' %}
+{% set cityname = 'Oakland' %}
 {% include "city-postslist.njk" %}
 
 {% set postsCount = collections.posts | filterByTags(['san-francisco']) | length %}
 {% set postslist = collections.posts | filterByTags(['san-francisco']) | head(-1) %}
-{% set city = 'San-Francisco' %}
+{% set city = 'san-francisco' %}
+{% set cityname = 'San Francisco' %}
 {% include "city-postslist.njk" %}
 
 {% set postsCount = collections.posts | filterByTags(['berkeley']) | length %}
 {% set postslist = collections.posts | filterByTags(['berkeley']) | head(-1) %}
-{% set city = 'Berkeley' %}
+{% set city = 'berkeley' %}
+{% set cityname = 'Berkeley' %}
 {% include "city-postslist.njk" %}
 </ol>
 </section>
