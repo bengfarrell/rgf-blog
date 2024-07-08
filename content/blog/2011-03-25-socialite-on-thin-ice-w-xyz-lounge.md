@@ -3,7 +3,7 @@ title: "Socialite on Thin Ice, W XYZ Lounge"
 date: "2011-03-25"
 categories: 
   - "bars"
-  - "bars-chapel-hill-nc"
+  - "cocktails"
 tags: 
   - "aloft"
   - "chapel-hill"
@@ -15,7 +15,9 @@ tags:
   - "wxyz-lounge"
 ---
 
-**Socialite on Thin Ice** [W XYZ Lounge](http://www.aloftchapelhill.com/wxyz), Aloft Hotel Chapel Hill $9
+**[W XYZ Lounge](http://www.aloftchapelhill.com/wxyz)**\
+Aloft Hotel, Chapel Hill, NC\
+$9
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/03/ontherocks.jpg "ontherocks")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/03/ontherocks.jpg)
 

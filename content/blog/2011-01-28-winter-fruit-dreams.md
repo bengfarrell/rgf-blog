@@ -3,8 +3,8 @@ title: "Winter Fruit Dreams"
 date: "2011-01-28"
 categories: 
   - "recipes"
-  - "liqueur-reviews"
-  - "rum-review"
+  - "cocktails"
+  - "spirits"
 tags: 
   - "bacardi"
   - "banana-liquor"
@@ -16,9 +16,13 @@ tags:
   - "winter-fruit-dreams"
 ---
 
-**Winter Fruit Dreams**
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/winterfruitdreams.jpg "winterfruitdreams")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/winterfruitdreams.jpg)
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/winterfruitdreams.jpg "winterfruitdreams")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/winterfruitdreams.jpg) 2.5 shots of Trader Joe’s Pear Cider 1.5 shots of Bacardi Select Puerto Rican Rum 0.5 shot of St. Germain Elderflower Liqueur 0.25 shot of Joaquin’s Banana Liqueur
+Recipe:\
+2.5 shots of Trader Joe’s Pear Cider\
+1.5 shots of Bacardi Select Puerto Rican Rum\
+0.5 shot of St. Germain Elderflower Liqueur\
+0.25 shot of Joaquin’s Banana Liqueur
 
 Shake all the ingredients up with crushed ice then strain into a martini glass.
 

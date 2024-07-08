@@ -2,7 +2,6 @@
 title: "Vimala's Curryblossom Cafe"
 date: "2011-01-11"
 categories:
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags:
   - "chapel-hill"
@@ -22,7 +21,11 @@ tags:
   - "vimalas-curryblossom-cafe"
 ---
 
-**Vimala’s Curryblossom Cafe** 431 West Franklin, the Courtyard Downtown Chapel Hill [Website](http://www.curryblossom.com/) $7–$17
+431 West Franklin\
+the Courtyard\
+Downtown Chapel Hill, NC\
+[Website](http://www.curryblossom.com/)\
+$7–$17
 
 
 

@@ -2,7 +2,6 @@
 title: "Lucky 32 Southern Kitchen"
 date: "2011-03-01"
 categories:
-  - "raleigh-restaurant-reviews"
   - "events"
   - "restaurants"
 tags:
@@ -27,7 +26,15 @@ tags:
   - "voodoo-sauce"
 ---
 
-**Lucky 32 Southern Kitchen** 7307 Tryon Road Cary [Website](http://www.lucky32.com/cary.htm) Hours: Mon, 11:15 am to 9 pm Tues—Thurs, 11:15 am to 10 pm Fri--Sat, 11:15 am to 11 pm Sun, 10:00 am to 9:00 pm Sandwiches/Appetizers: $8-–$13 Entrees: $15-–$28
+7307 Tryon Road\
+Cary, NC\
+[Website](http://www.lucky32.com/cary.htm)\
+Hours: Mon, 11:15 am to 9 pm\
+Tues—Thurs, 11:15 am to 10 pm\
+Fri–Sat, 11:15 am to 11 pm\
+Sun, 10:00 am to 9:00 pm\
+Sandwiches/Appetizers: $8–$13\
+Entrees: $15–$28
 
 For this month’s [Social Media Supper Club](http://www.amiando.com/smsc.html), we settled on Lucky 32 Southern Kitchen, in large part because I’d enjoyed their appetizers at the [Tri Foodie Tweetup](../../../../../?p=1654) last fall and had a hankering to try some more. We were very happy to be joined by first timers Valentina (@ValenGarcia43), Chelsea (@chelsea\_alyssa), and Morgan (@morgansiem) in addition to our stalwart regulars including Rocio (@apiciusapprenti), Brian (@BCwritr), Mandy (@demandycom), and me (@thegourmez).
 

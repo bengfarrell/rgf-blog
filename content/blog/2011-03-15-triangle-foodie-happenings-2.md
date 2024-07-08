@@ -3,7 +3,7 @@ title: "Triangle Foodie Happenings"
 date: "2011-03-15"
 categories: 
   - "events"
-  - "restaurants"
+  - "announcements"
 tags: 
   - "andrea-lekberg"
   - "artist-baker"

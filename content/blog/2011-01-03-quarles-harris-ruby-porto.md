@@ -2,8 +2,7 @@
 title: "Quarles Harris Ruby Porto"
 date: "2011-01-03"
 categories: 
-  - "fortified-wine"
-  - "port-fortified-wine"
+  - "wine"
 tags: 
   - "boston-dc-san-fran-wine-blog"
   - "brown-sugar"
@@ -15,7 +14,7 @@ tags:
   - "ruby-porto"
 ---
 
-**Quarles Harris Ruby Porto** Gaia, Portugal
+**Region:** Gaia, Portugal
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/rubyporto.jpg "rubyporto")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/rubyporto.jpg)
 

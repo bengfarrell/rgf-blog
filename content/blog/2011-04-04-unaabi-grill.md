@@ -2,7 +2,6 @@
 title: "Unaabi Grill"
 date: "2011-04-04"
 categories: 
-  - "cary-restaurant-reviews"
   - "restaurants"
 tags: 
   - "afghan"
@@ -22,7 +21,10 @@ tags:
   - "unaabi-grill"
 ---
 
-**Unaabi Grill** 914 Kildaire Farm Road Cary [Website](http://www.unaabi.com/) Entrees: $10—14
+914 Kildaire Farm Road\
+Cary, NC\
+[Website](http://www.unaabi.com/)\
+Entrees: $10—14
 
 This is a restaurant with a lot of potential, but the service and food timing is definitely not doing the food justice. The ambience is pretty nice—it’s amazing how some track lighting and gold sheers can really transform an old Pizza Hut.
 
@@ -58,4 +60,4 @@ Unaabi has some good food and flavors that you aren’t likely to get anywhere e
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)
 
-Reviewed 3.16.11.
+_Reviewed 3.16.11._

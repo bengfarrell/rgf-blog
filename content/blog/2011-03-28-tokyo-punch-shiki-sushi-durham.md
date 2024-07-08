@@ -1,12 +1,9 @@
 ---
-title: "Tokyo Punch @ Shiki Sushi, Durham"
+title: "Tokyo Punch @ Shiki Sushi"
 date: "2011-03-28"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "brandy"
-  - "spirits"
-  - "vodka"
+  - "cocktails"
 tags: 
   - "bars"
   - "cocktails"
@@ -21,7 +18,9 @@ tags:
   - "tokyo-punch"
 ---
 
-**Tokyo Punch** [Shiki Sushi](http://www.shikisushionline.com/) Southwest Durham $7.75
+**[Shiki Sushi](http://www.shikisushionline.com/)**\
+Southwest Durham, NC\
+$7.75
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/03/tokyopuncha.jpg "tokyopuncha")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/03/tokyopuncha.jpg)
 

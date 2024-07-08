@@ -12,7 +12,9 @@ tags:
   - "sticky"
 ---
 
-**Lost in the Trees** [Fullsteam Brewery](http://www.fullsteam.ag/) Central Park District, Durham $8, which included the glass and a bottle of beer.
+**[Fullsteam Brewery](http://www.fullsteam.ag/)**\
+Central Park District, Durham\
+$8, which included the glass and a bottle of beer
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/litt1.jpg "litt1")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/litt1.jpg)
 

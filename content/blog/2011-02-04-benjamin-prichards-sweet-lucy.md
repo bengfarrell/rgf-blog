@@ -2,7 +2,7 @@
 title: "Benjamin Prichard's Sweet Lucy"
 date: "2011-02-04"
 categories: 
-  - "bourbon"
+  - "spirits"
 tags: 
   - "amaretto"
   - "benjamin-prichards-sweet-lucy"
@@ -17,7 +17,9 @@ tags:
   - "wild-turkey-american-honey"
 ---
 
-**Benjamin Prichard’s Sweet Lucy** Bourbon-based liquor Kelso, TN
+**Other Words on the Label**\
+Bourbon-based liquor\
+Kelso, TN
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/sweetlucy.jpg "sweetlucy")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/sweetlucy.jpg)
 

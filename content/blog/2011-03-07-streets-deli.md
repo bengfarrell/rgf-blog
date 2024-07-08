@@ -2,7 +2,6 @@
 title: "Streets Deli *CLOSED*"
 date: "2011-03-07"
 categories: 
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "chapel-hill"
@@ -18,7 +17,13 @@ tags:
   - "waldorf-salad"
 ---
 
-**Streets Deli** \*CLOSED\* 1118 Environ Way East 54 Urban Village, Chapel Hill [Website](http://www.streetsdeli.com/) Hours: Mon---Sat, 7:30 am---8:30 pm Sun, 9 am---3 pm Grub: $6.95-–$10.95
+1118 Environ Way\
+East 54 Urban Village\
+Chapel Hill, NC\
+[Website](http://www.streetsdeli.com/)\
+Hours: Mon–Sat, 7:30 am–8:30 pm\
+Sun, 9 am–3 pm\
+Grub: $6.95–$10.95
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/streets05.jpg "streets05")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/streets05.jpg)
 

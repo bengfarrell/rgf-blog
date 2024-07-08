@@ -3,8 +3,7 @@ title: "Tingletini @ Rockfish *CLOSED*"
 date: "2011-04-08"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "vodka"
+  - "cocktails"
 tags: 
   - "durham"
   - "jalapeno"
@@ -16,7 +15,9 @@ tags:
   - "tingletini"
 ---
 
-**Tingletini** @ Rockfish Southpoint, Durham [Website](http://www.rockfish.com/ncarolina.htm#southpoint)
+**Rockfish**\
+Durham, NC\
+[Website](http://www.rockfish.com/ncarolina.htm#southpoint)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tingletini.jpg "tingletini")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/tingletini.jpg)
 

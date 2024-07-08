@@ -3,7 +3,7 @@ title: "Triangle Foodie Happenings"
 date: "2011-04-07"
 categories: 
   - "events"
-  - "restaurants"
+  - "announcements"
 tags: 
   - "brunch"
   - "bull-spec"

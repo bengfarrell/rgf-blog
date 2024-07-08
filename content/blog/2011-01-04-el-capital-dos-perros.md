@@ -3,9 +3,7 @@ title: "El Capital @ Dos Perros"
 date: "2011-01-04"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "tequila"
-  - "vermouth"
+  - "cocktails"
 tags: 
   - "bar-scene"
   - "cocktail"
@@ -20,7 +18,9 @@ tags:
   - "sweet"
 ---
 
-**El Capital** [Dos Perros,](http://www.thegourmez.com/?p=1394) Durham $10
+**[Dos Perros,](http://www.thegourmez.com/?p=1394)**\
+Durham, NC\
+$10
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/elcapital.jpg "elcapital")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/elcapital.jpg)
 

@@ -2,8 +2,7 @@
 title: "Arge & Tina Malbec 2009"
 date: "2011-03-16"
 categories: 
-  - "malbec"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2009"
   - "arge"
@@ -15,7 +14,7 @@ tags:
   - "tina"
 ---
 
-**Arge & Tina Malbec 2009** San Juan, Argentina
+**Region:** San Juan, Argentina
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/03/argentina.jpg "argentina")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/03/argentina.jpg)
 

@@ -2,8 +2,7 @@
 title: "Little Black Dress Pinot Grigio 2009"
 date: "2011-04-06"
 categories: 
-  - "pinot-grigio-gris"
-  - "white-wine-reviews"
+  - "wine"
 tags: 
   - "2009"
   - "bitter"
@@ -17,7 +16,7 @@ tags:
   - "thursday-happy-hour"
 ---
 
-**Little Black Dress 2009 Pinot Grigio** California
+**Region:** California
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/littleblackdress.jpg "littleblackdress")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/littleblackdress.jpg)
 

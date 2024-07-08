@@ -2,8 +2,7 @@
 title: "Tres Pinos 2009 Red Wine"
 date: "2011-01-12"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2009"
   - "cranberry"
@@ -17,7 +16,7 @@ tags:
   - "tres-pinos"
 ---
 
-**Tres Pinos 2009 Red Wine** San Luis Obispo, CA
+**Region:** San Luis Obispo, CA
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/trespinos.jpg "trespinos")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/trespinos.jpg)
 

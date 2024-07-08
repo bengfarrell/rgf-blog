@@ -17,7 +17,9 @@ tags:
   - "urban-sake"
 ---
 
-**Karen “Coy” Junmai Sake** Niigata, Japan
+**Other Words on the Label:**\
+Junmai Sake\
+Niigata, Japan
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/12/coysake2.jpg "coysake2")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/12/coysake2.jpg)
 

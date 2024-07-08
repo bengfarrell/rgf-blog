@@ -2,7 +2,7 @@
 title: "Tres Generaciones Plata"
 date: "2011-01-31"
 categories: 
-  - "tequila"
+  - "spirits"
 tags: 
   - "buttery"
   - "cocktail-enthusiast"
@@ -13,7 +13,9 @@ tags:
   - "vanilla"
 ---
 
-**Tres Generaciones Plata** 100% Agave Mexico
+**Other Words on the Label**\
+100% Agave\
+Mexico
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/tresgeneracionesplata.jpg "tresgeneracionesplata")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/tresgeneracionesplata.jpg)
 

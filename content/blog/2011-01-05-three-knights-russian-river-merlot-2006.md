@@ -2,8 +2,7 @@
 title: "Three Knights Russian River Merlot 2006"
 date: "2011-01-05"
 categories: 
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2006"
   - "blueberry"
@@ -17,7 +16,7 @@ tags:
   - "tuesday-dinner-club"
 ---
 
-**Three Knights 2006 Russian River Valley Merlot** Sonoma, CA
+**Region:** Sonoma, CA
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/threeknights.jpg "threeknights")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/threeknights.jpg)
 

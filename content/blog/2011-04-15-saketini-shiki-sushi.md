@@ -3,10 +3,8 @@ title: "Saketini @ Shiki Sushi"
 date: "2011-04-15"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
   - "sake"
-  - "spirits"
-  - "vodka"
+  - "cocktails"
 tags: 
   - "bars"
   - "cocktails"
@@ -20,7 +18,10 @@ tags:
   - "shiki-sushi"
 ---
 
-**Saketini** Shiki Sushi Southwest Durham [Website](http://www.shikisushionline.com/) $8
+**Shiki Sushi**\
+Southwest Durham, NC\
+[Website](http://www.shikisushionline.com/)\
+$8
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/saketini.jpg "saketini")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/saketini.jpg)
 

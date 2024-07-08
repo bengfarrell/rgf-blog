@@ -2,8 +2,8 @@
 title: "Berenbaum's Bakery Stand"
 date: "2011-04-14"
 categories: 
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "food-trucks"
+  - "bakeries"
 tags: 
   - "berenbaums-bakery"
   - "carpe-durham"
@@ -11,7 +11,9 @@ tags:
   - "irish-soda-bread"
 ---
 
-**Berenbaum’s Bakery Stand** Somewhere near the Farmer’s Market Saturday Mornings
+Somewhere near the Farmer’s Market\
+Durham, NC\
+Saturday Mornings
 
 _with contributions from TIF of [Carpe Durham](http://carpedurham.com)_
 

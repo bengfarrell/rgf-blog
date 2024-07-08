@@ -2,8 +2,6 @@
 title: "Trader Joe’s Petit Reserve Rose 2009"
 date: "2011-02-16"
 categories: 
-  - "other-rose-blends"
-  - "rose-review"
   - "wine"
 tags: 
   - "2009-vintage"
@@ -16,7 +14,7 @@ tags:
   - "trader-joes"
 ---
 
-**Trader Joe’s Petit Reserve Rose 2009** Napa Valley, CA
+**Region:** Napa Valley, CA
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/traderjoesrose.jpg "traderjoesrose")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/traderjoesrose.jpg) It’s a gorgeous soft gold and pink rose color. Smells pleasingly of artificial raspberry flavoring—-this is not a bad smell; think of Chapstick or Fun Dips.
 

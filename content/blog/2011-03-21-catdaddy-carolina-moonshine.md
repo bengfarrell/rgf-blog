@@ -2,7 +2,7 @@
 title: "Catdaddy Carolina Moonshine"
 date: "2011-03-21"
 categories: 
-  - "moonshine-reviews"
+  - "spirits"
 tags: 
   - "american-craft-spirits"
   - "bourbon-blog"
@@ -15,8 +15,6 @@ tags:
   - "vanilla"
   - "young-connoiseur"
 ---
-
-**Catdaddy Carolina Moonshine**
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/03/catdaddymoonshine.jpg "catdaddymoonshine")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/03/catdaddymoonshine.jpg)
 

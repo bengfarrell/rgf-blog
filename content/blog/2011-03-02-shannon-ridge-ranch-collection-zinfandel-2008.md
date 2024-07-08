@@ -2,8 +2,7 @@
 title: "Shannon Ridge Ranch Collection Zinfandel 2008"
 date: "2011-03-02"
 categories: 
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "2008"
   - "anise"
@@ -14,7 +13,7 @@ tags:
   - "shannon-ridge"
 ---
 
-**Shannon Ridge 2008 Ranch Collection Zinfandel** Lake County, CA
+**Region:** Lake County, CA
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/shannonridgezin.jpg "shannonridgezin")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/shannonridgezin.jpg)
 

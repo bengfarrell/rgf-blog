@@ -2,9 +2,8 @@
 title: "Starrlight Meadery"
 date: "2011-02-25"
 categories:
-  - "mead-review"
-  - "travel-guide"
-  - "travel-guide"
+  - "mead"
+  - "travel-guides"
 tags:
   - "becky-starr"
   - "ben-starr"
@@ -24,7 +23,11 @@ tags:
   - "tour"
 ---
 
-**Starrlight Meadery** 480 Hillsboro Street, Pittsboro [Website](http://starrlightmead.com/) Hours: Thurs through Sat, 12 to 6; Sun 1 to 5. Tours offered every other hour on the weekends
+480 Hillsboro Street\
+Pittsboro, NC\
+[Website](http://starrlightmead.com/)\
+Hours: Thurs through Sat, 12 to 6; Sun 1 to 5.\
+Tours offered every other hour on the weekends
 
 I had a great time checking out Starlight Meadery a couple of weekends ago in Pittsboro’s Chatham Mills shopping center. They are located in the white building hiding at the back of the complex.
 

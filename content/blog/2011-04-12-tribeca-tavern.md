@@ -2,7 +2,6 @@
 title: "Tribeca Tavern"
 date: "2011-04-12"
 categories:
-  - "cary-restaurant-reviews"
   - "restaurants"
 tags:
   - "blue-devil-burger"
@@ -20,7 +19,10 @@ tags:
   - "waffle-cut"
 ---
 
-**Tribeca Tavern** 500 Ledgestone Way Cary [Website](http://tribecatavernnc.com/) $9–$15
+500 Ledgestone Way\
+Cary, NC\
+[Website](http://tribecatavernnc.com/)\
+$9–$15
 
 Tribeca Tavern, mainly a burger and sports venue, is an impressive view from the outside.
 

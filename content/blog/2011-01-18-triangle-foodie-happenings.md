@@ -3,8 +3,7 @@ title: "Triangle Foodie Happenings"
 date: "2011-01-18"
 categories: 
   - "events"
-  - "restaurants"
-  - "wine"
+  - "announcements"
 tags: 
   - "apex"
   - "butcher"

@@ -2,7 +2,7 @@
 title: "Bin 90 Lindeman’s Moscato 2010"
 date: "2011-03-30"
 categories: 
-  - "dessert-wine-reviews"
+  - "wine"
 tags: 
   - "2010"
   - "cantaloupe"
@@ -16,7 +16,7 @@ tags:
   - "yeast"
 ---
 
-**Bin 90 Lindeman’s Moscato 2010** Australia
+**Region:** Australia
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/03/lindemansbin90moscato.jpg "lindemansbin90moscato")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/03/lindemansbin90moscato.jpg)
 
@@ -24,7 +24,7 @@ I purchased this wine mainly because I was curious how the Australian moscato di
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
-Other Blogger’s Thoughts:
+**Other Bloggers’ Thoughts:**
 
 [Life with a Possum](http://possumhillfarms.blogspot.com/2010/09/2009-lindemans-moscato.html) on the 2009 vintage
 

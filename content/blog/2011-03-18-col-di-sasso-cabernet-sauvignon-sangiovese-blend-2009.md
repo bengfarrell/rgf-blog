@@ -2,9 +2,7 @@
 title: "Col di Sasso Cabernet Sauvignon & Sangiovese Blend 2009"
 date: "2011-03-18"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
-  - "sangiovese"
+  - "wine"
 tags: 
   - "2009"
   - "allspice"
@@ -15,8 +13,6 @@ tags:
   - "make-mine-a-wine"
   - "winephones"
 ---
-
-**Col di Sasso Cabernet Sauvignon & Sangiovese Blend 2009**
 
 No photo this time! It was a casualty of my trigger finger.
 

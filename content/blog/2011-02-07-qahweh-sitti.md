@@ -3,7 +3,7 @@ title: "Qahweh @ Sitti"
 date: "2011-02-07"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags: 
   - "beans"
   - "cocktail"
@@ -16,7 +16,10 @@ tags:
   - "stoli-vanil"
 ---
 
-**Qahweh** Sitti, Downtown Raleigh [Website](http://www.sitti-raleigh.com/index1.php) $9
+**Sitti**\
+Downtown Raleigh, NC\
+[Website](http://www.sitti-raleigh.com/index1.php)\
+$9
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/qahweh.jpg "qahweh")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/qahweh.jpg)
 

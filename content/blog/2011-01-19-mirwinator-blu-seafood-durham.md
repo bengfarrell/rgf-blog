@@ -3,8 +3,7 @@ title: "Mirwinator @ Blu Seafood (Durham)"
 date: "2011-01-19"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "bourbon"
+  - "cocktails"
 tags: 
   - "blu"
   - "blu-seafood"
@@ -16,7 +15,9 @@ tags:
   - "thyme"
 ---
 
-**Mirwinator** [Blu Seafood](../../../../../?p=1326) 9th Street, Durham $9
+**Blu Seafood**\
+9th Street, Durham, NC\
+$9
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mirwinator.jpg "mirwinator")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/mirwinator.jpg)
 

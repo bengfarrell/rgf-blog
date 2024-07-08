@@ -3,8 +3,7 @@ title: "The Old Ceremony @ Motorco"
 date: "2011-01-10"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "bourbon"
+  - "cocktails"
 tags: 
   - "bars"
   - "bitters"
@@ -19,7 +18,10 @@ tags:
   - "the-old-ceremony"
 ---
 
-**The Old Ceremony** [Motorco](../../../../../?p=1785) Central Park District, Durham $6
+**Motorco**\
+Central Park District\
+Durham, NC\
+$6
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/oldceremony.jpg "oldceremony")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/oldceremony.jpg)
 

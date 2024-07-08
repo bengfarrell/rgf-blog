@@ -2,8 +2,7 @@
 title: "Farmhand/Firsthand Foods Sausage Wagon"
 date: "2011-02-15"
 categories:
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "food-trucks"
 tags:
   - "3-cups"
   - "farmhand-foods"
@@ -15,7 +14,9 @@ tags:
   - "wagon"
 ---
 
-**Farmhand Firsthand Foods Sausage Wagon** On the move in Chapel Hill, Carrboro, and Durham [Website](http://www.firsthandfoods.com/) $6 per sausage roll
+On the move in Chapel Hill, Carrboro, and Durham, NC\
+[Website](http://www.firsthandfoods.com/)\
+$6 per sausage roll
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/sausagewagon04.jpg "sausagewagon04")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/sausagewagon04.jpg)
 

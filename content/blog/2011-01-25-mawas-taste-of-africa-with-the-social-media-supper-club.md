@@ -2,7 +2,6 @@
 title: "Mawa's Taste of Africa with the Social Media Supper Club *CLOSED*"
 date: "2011-01-25"
 categories:
-  - "cary-restaurant-reviews"
   - "restaurants"
 tags:
   - "african-morrisville"
@@ -23,7 +22,10 @@ tags:
   - "south-african"
 ---
 
-**Mawa’s Taste of Africa** \*CLOSED\* 152 Morrisville Square Way Morrisville Entrees: $12–$18 [Website](http://www.mawa-nc.com/Taste-of-Africa.html)
+152 Morrisville Square Way\
+Morrisville, NC\
+Entrees: $12–$18\
+[Website](http://www.mawa-nc.com/Taste-of-Africa.html)
 
 The third outing of the Social Media Supper Club took place at Mawa’s Taste of Africa, in Morrisville, at demandycom’s suggestion. We had a small group this time around, but it was lovely, as always, to see demandycom (Mandy), bengfarrell (my fine husband, Ben), dawnacrawford (Dawn), apiciusapprenti (Rocio), and BCwritr (Brian).
 

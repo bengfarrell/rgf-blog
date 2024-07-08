@@ -2,8 +2,7 @@
 title: "Cava Brut Gran Sarao"
 date: "2011-02-23"
 categories: 
-  - "cava"
-  - "sparkling-wine-review"
+  - "wine"
 tags: 
   - "brut"
   - "bubbly"
@@ -13,7 +12,7 @@ tags:
   - "orange"
 ---
 
-**Cava Brut Gran Sarao** Spain
+**Region:** Spain
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/gransarao.jpg "gransarao")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/gransarao.jpg)
 

@@ -2,9 +2,8 @@
 title: "Triangle Foodie News"
 date: "2011-02-14"
 categories: 
-  - "coffee-shop"
+  - "announcements"
   - "events"
-  - "restaurants"
 tags: 
   - "bean-traders"
   - "chicken-masa-soup"
