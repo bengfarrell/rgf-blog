@@ -2,8 +2,8 @@
 title: "London in October 2010, Part 3: The Tower of London, London Bridge City, Soho, and Notting Hill"
 date: "2010-11-29"
 categories:
-  - "dining-london"
-  - "travel-guide"
+  - "restaurants"
+  - "travel-guides"
 tags:
   - "2010"
   - "alounak"

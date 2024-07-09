@@ -2,7 +2,6 @@
 title: "Tri Foodie Tweetup at Lucky 32"
 date: "2010-10-12"
 categories:
-  - "raleigh-restaurant-reviews"
   - "events"
   - "restaurants"
 tags:

@@ -3,7 +3,7 @@ title: "Corn Maze Adventure 2010!"
 date: "2010-10-14"
 categories: 
   - "events"
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "corn-maze"
   - "corn-maze-adventure"
@@ -41,7 +41,7 @@ A Jack O’Hay Bale losing his straw. So sad.
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201022.JPG)
 
-This friendly scarecrow pointed us in the right direction, lest we got lost---and more embarrassed--- in the children’s maze instead. We broke into groups by whoever happened to be closest together and headed off in separate directions, and on a leisurely pace for our group of Ben, Brian, Dawn, Erika, and myself.
+This friendly scarecrow pointed us in the right direction, lest we got lost—and more embarrassed—in the children’s maze instead. We broke into groups by whoever happened to be closest together and headed off in separate directions, and on a leisurely pace for our group of Ben, Brian, Dawn, Erika, and myself.
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201013.JPG)
 
@@ -53,7 +53,7 @@ And here she is, being stalked by my hands!
 
 ![](http://farm5.static.flickr.com/4106/5071898585_724cc53dd5_z.jpg) Brian’s Photo
 
-About this time, ten minutes into the maze, Melissa B. and Laura P. accidentally found their way out already! They decided to shoot the breeze and eat ice cream rather than continue trudging through the maze---they were smart!
+About this time, ten minutes into the maze, Melissa B. and Laura P. accidentally found their way out already! They decided to shoot the breeze and eat ice cream rather than continue trudging through the maze—they were smart!
 
 A little ways farther in, Ben and Erika decided they would try polar opposite tracking techniques. Ben used an app on his phone to track where we’d gone, which worked okay until his GPS failed.
 
@@ -71,7 +71,7 @@ Rows of corn
 
 Corn stalk growing skyward . . . like they always do. I'm so profound.
 
-After an hour and a half or so, Dawn, Brian, and Erika threw in the towel with only half our stations found. Ben and I continued on stalwartly, occasionally glimpsing Laura C., Jordan, and Melissa C. through the corn field haze---or were they mirages? Another half an hour later and only one more station down, Ben and I admitted defeat also.
+After an hour and a half or so, Dawn, Brian, and Erika threw in the towel with only half our stations found. Ben and I continued on stalwartly, occasionally glimpsing Laura C., Jordan, and Melissa C. through the corn field haze—or were they mirages? Another half an hour later and only one more station down, Ben and I admitted defeat also.
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201019.JPG) Me very sad at failure
 

@@ -2,8 +2,8 @@
 title: "London in October 2010, Part 2: Borough Market, the London Bridge, and Camden Town"
 date: "2010-11-23"
 categories:
-  - "dining-london"
-  - "travel-guide"
+  - "restaurants"
+  - "travel-guides"
 tags:
   - "borough-market"
   - "camden"

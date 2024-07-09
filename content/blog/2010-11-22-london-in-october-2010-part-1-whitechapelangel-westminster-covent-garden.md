@@ -2,8 +2,8 @@
 title: "London in October 2010, Part 1: Whitechapel/Angel, Westminster, Covent Garden"
 date: "2010-11-22"
 categories:
-  - "dining-london"
-  - "travel-guide"
+  - "restaurants"
+  - "travel-guides"
 tags:
   - "2010"
   - "belgian-food"

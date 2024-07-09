@@ -3,8 +3,7 @@ title: "Hot Date @ Jujube"
 date: "2010-12-21"
 categories: 
   - "bars"
-  - "bars-chapel-hill-nc"
-  - "bourbon"
+  - "cocktails"
 tags: 
   - "cayenne"
   - "chapel-hill"
@@ -15,7 +14,9 @@ tags:
   - "triangle-cocktails"
 ---
 
-**Hot Date** [Jujube](http://jujuberestaurant.com/) Chapel Hill $9
+**[Jujube](http://jujuberestaurant.com/)**\
+Chapel Hill, NC\
+$9
 
 Alas, no picture for this cocktail review, but don’t let the lack of visual stimulation stop you from trying it out. The Hot Date is made of jujube preserves, bourbon, cayenne, and lemon. And it is one hot date, as far as that cayenne’s concerned!
 

@@ -2,7 +2,6 @@
 title: "Social Media Supper Club at David’s Dumpling and Noodle Bar"
 date: "2010-10-05"
 categories:
-  - "raleigh-restaurant-reviews"
   - "restaurants"
   - "sake"
 tags:
@@ -19,7 +18,9 @@ tags:
 
 Once upon a time, three little tweeps named @demandycom, @thegourmez, and @BCwritr decided to meet up for dinner at a new restaurant by the locally famed David Mao. This was fated, because all three loved food and hanging out with others who also loved food. A date was set and other tweeps of the same persuasion were invited along. Lo and behold, the anointed time and place came to pass and food and fellowship were had. Thus began the Social Media Supper Club. The moral of the story, I have been told, is “It’s not your corner Darryl’s anymore.”
 
-**David’s Dumpling and Noodle Bar** 1900 Hillsborough Road, Raleigh [Website](http://www.ddandnb.com/)
+**David’s Dumpling and Noodle Bar**\
+1900 Hillsborough Road, Raleigh, NC\
+[Website](http://www.ddandnb.com/)
 
 ![](http://www.thegourmez.com/gourmez/photos/davidsdumplings01.JPG)
 
@@ -55,7 +56,7 @@ I blame my bad focus for this set of photos on my camera being on the fritz. Sur
 ![](http://www.thegourmez.com/gourmez/photos/davidsdumplings04.JPG)</div>
 
 
-As for libations, I tried the Kikusui sake, which was a tad sweet, really good, and tasted of caramel and orange water. The beer drinkers all enjoyed the Great Divide Samurai rice ale. No full bar for the present at least. As for food, nearly all of us opted to try a few of the appetizers ($2.50–$6.00), noodle plates ($5.50–$9.00), and “Quick Stir” dishes ($10)---stir-fry is so passé---rather than the entrees ($16) to see if the dumplings and noodles were worthy of claiming the restaurant’s name. The small plates, soups, and apps are a great deal, especially the noodles that were plenty large enough to be a full meal on their own.
+As for libations, I tried the Kikusui sake, which was a tad sweet, really good, and tasted of caramel and orange water. The beer drinkers all enjoyed the Great Divide Samurai rice ale. No full bar for the present at least. As for food, nearly all of us opted to try a few of the appetizers ($2.50–$6.00), noodle plates ($5.50–$9.00), and “Quick Stir” dishes ($10)—stir-fry is so passé—rather than the entrees ($16) to see if the dumplings and noodles were worthy of claiming the restaurant’s name. The small plates, soups, and apps are a great deal, especially the noodles that were plenty large enough to be a full meal on their own.
 
 For dumplings, the crispy, spicy ones were declared the hands-down winners. I didn’t try them, but their sauce was especially exclaimed over. My dumplings came by way of a chinese greens, dumplings, and noodle soup.
 

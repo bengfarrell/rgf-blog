@@ -2,8 +2,7 @@
 title: "Madria Sangria"
 date: "2010-12-06"
 categories:
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "bottled-sangria"
   - "citrus"
@@ -13,8 +12,6 @@ tags:
   - "punch"
   - "roxy-cape"
 ---
-
-**Madria Sangria**
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/12/madriasangria.jpg "madriasangria")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/12/madriasangria.jpg)
 

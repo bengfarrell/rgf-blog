@@ -2,8 +2,7 @@
 title: "Zestos Blancos 2009"
 date: "2010-12-01"
 categories:
-  - "malvar"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2009"
   - "blancos"
@@ -15,7 +14,7 @@ tags:
   - "zestos"
 ---
 
-**Zestos Blancos 2009** Madrid, Spain
+**Region:** Madrid, Spain
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/12/zestosblancos.jpg "zestosblancos")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/12/zestosblancos.jpg)
 

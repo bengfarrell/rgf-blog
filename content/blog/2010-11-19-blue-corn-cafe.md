@@ -2,7 +2,6 @@
 title: "Blue Corn Cafe"
 date: "2010-11-19"
 categories:
-  - "durham-restaurant-reviews"
   - "events"
   - "restaurants"
 tags:
@@ -17,7 +16,12 @@ tags:
   - "sopapillas"
 ---
 
-**Blue Corn Cafe** 716 9th Street, Durham [Website](http://www.bluecorn-tosca.com/bc_home.asp) Entrees $8.95–$17.95 Mon---Thurs 11:30 am to 9 pm Fri---Sat 11:30 am to 9:30 pm
+716 9th Street\
+Durham, NC\
+[Website](http://www.bluecorn-tosca.com/bc_home.asp)\
+Entrees $8.95–$17.95\
+Mon–Thurs 11:30 am to 9 pm\
+Fri–Sat 11:30 am to 9:30 pm
 
 For the second meeting of the [Social Media Supper Club](http://smsc.tumblr.com/) (an excuse to try-out restaurants with friends from Twitter who also love food) we went to the Blue Corn Cafe. They offer mainly Mexican dishes with some Cuban and Puerto Rican options as well.  Going into the meal, most of us had the impression or experience of Blue Corn Cafe being a great find when it opened, which has now become less exciting compared to the other Mexican options in the area. Leaving the meal, we felt about the same. The food is great if you’re just looking to fill up for the evening, but if you’re aiming for a food experience, then it’s not quite up to snuff.
 

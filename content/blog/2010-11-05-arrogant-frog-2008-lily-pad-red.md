@@ -2,9 +2,7 @@
 title: "Arrogant Frog 2008 Lily Pad Red"
 date: "2010-11-05"
 categories:
-  - "cabernet-sauvignon"
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2008"
   - "arrogant-frog"
@@ -15,7 +13,7 @@ tags:
   - "wine-skinny"
 ---
 
-**Arrogant Frog 2008 Lily Pad Red** Langeoudoc, France
+**Region:** Langeoudoc, France
 
 ![](http://www.thegourmez.com/gourmez/photos/arrogantfrog.JPG)
 

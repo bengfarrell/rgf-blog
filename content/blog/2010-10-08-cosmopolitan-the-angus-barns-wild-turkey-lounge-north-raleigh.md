@@ -3,7 +3,7 @@ title: "Cosmopolitan @ the Angus Barn's Wild Turkey Lounge"
 date: "2010-10-08"
 categories:
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags:
   - "angus-barn"
   - "cocktails-triangle"
@@ -17,7 +17,10 @@ tags:
   - "wild-turkey-lounge"
 ---
 
-**Cosmopolitan** Wild Turkey Loft at the Angus Barn Raleigh [Website](http://www.angusbarn.com/turkey.htm) $10
+**The Angus Barn**\
+Raleigh, NC\
+[Website](http://www.angusbarn.com/turkey.htm)\
+$10
 
 ![](http://www.thegourmez.com/gourmez/photos/anguscosmo.jpg)
 

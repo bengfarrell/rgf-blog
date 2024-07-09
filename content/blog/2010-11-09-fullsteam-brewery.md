@@ -3,7 +3,8 @@ title: "Fullsteam Brewery"
 date: "2010-11-09"
 categories:
   - "bars"
-  - "breweries-in-durham-nc"
+  - "breweries"
+  - "beer"
 tags:
   - "barbecue"
   - "basil"
@@ -16,7 +17,14 @@ tags:
   - "tavern"
 ---
 
-**Fullsteam Brewery** 726 Rigsbee Avenue Central Park District, Durham W–Th: 4 pm to 10 pm, Fri: 4 pm to 2 am Sat: 12 pm to 2 am, Sun: 12 pm to 10 pm [Website](http://www.fullsteam.ag/)
+726 Rigsbee Avenue\
+Central Park District\
+Durham, NC\
+W–Th: 4 pm to 10 pm\
+Fri: 4 pm to 2 am\
+Sat: 12 pm to 2 am\
+Sun: 12 pm to 10 pm\
+[Website](http://www.fullsteam.ag/)
 
 
 

@@ -2,7 +2,7 @@
 title: "Washington DC September 2010: Arlington National Cemetery"
 date: "2010-10-04"
 categories: 
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "amphitheater"
   - "arlington-house"

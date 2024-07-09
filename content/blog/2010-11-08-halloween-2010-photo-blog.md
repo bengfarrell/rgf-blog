@@ -3,7 +3,7 @@ title: "Halloween 2010 Photo Blog"
 date: "2010-11-08"
 categories:
   - "events"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "2010"
   - "alien"
@@ -24,7 +24,7 @@ tags:
   - "zombie"
 ---
 
-Last weekend, as you all know, unless you’re my reader from Uganda, then maybe you don’t, was Halloween. Since it was on a Sunday, I had two days’ worth of fun. Halloween is my favorite holiday, so the more merrymaking the better! I had my costume planned out since buying a hat at [Disneyworld](../../../../../?p=847) last February, that of the Alien Plush Toy.
+Last weekend, as you all know (unless you’re my reader from Uganda, then maybe you don’t) was Halloween. Since it was on a Sunday, I had two days’ worth of fun. Halloween is my favorite holiday, so the more merrymaking the better! I had my costume planned out since buying a hat at [Disneyworld](../../../../../?p=847) last February, that of the Alien Plush Toy.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010021.jpg "halloween201002")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010021.jpg)
 

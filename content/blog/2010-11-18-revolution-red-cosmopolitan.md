@@ -3,7 +3,7 @@ title: "Revolution Red Cosmopolitan @ Revolution"
 date: "2010-11-18"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags: 
   - "cointreau"
   - "cosmopolitan"
@@ -14,7 +14,10 @@ tags:
   - "revolution-restaurant"
 ---
 
-**Revolution Red Cosmo** Revolution, Durham [Website](http://www.revolutionrestaurant.com/Revolution_Durham/Cocktails.html) $10
+**Revolution**\
+Durham, NC\
+[Website](http://www.revolutionrestaurant.com/Revolution_Durham/Cocktails.html)\
+$10
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/redcosmo.jpg "redcosmo")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/redcosmo.jpg)
 

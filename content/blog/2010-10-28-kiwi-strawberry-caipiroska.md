@@ -3,8 +3,7 @@ title: "Kiwi + Strawberry Caipiroska @ Piola"
 date: "2010-10-28"
 categories:
   - "bars"
-  - "bars-chapel-hill-nc"
-  - "spirits"
+  - "cocktails"
 tags:
   - "bars"
   - "caipiroska"
@@ -17,11 +16,14 @@ tags:
   - "strawberry"
 ---
 
-**Kiwi + Strawberry Caipiroska** Piola Chapel Hill [Website](http://www.piola.it/mondo2.php?menu_number=3&lang=en&id=38) $7
+**Piola**\
+Chapel Hill, NC\
+[Website](http://www.piola.it/mondo2.php?menu_number=3&lang=en&id=38)\
+$7
 
 ![](http://www.thegourmez.com/gourmez/photos/piola03.JPG)
 
-This very pretty drink has the perfect ratio of alcohol to sweetness. The freshly muddled kiwi and strawberry add much to the good quality of the vodka, and the taste is clean and full of tasty bites of pulp. Definitely worth a drink! My only complaint is that it should be another third to half as large per drink---it’s the right amount of ice for this elixir, but that ice doesn’t leave enough room for much else.
+This very pretty drink has the perfect ratio of alcohol to sweetness. The freshly muddled kiwi and strawberry add much to the good quality of the vodka, and the taste is clean and full of tasty bites of pulp. Definitely worth a drink! My only complaint is that it should be another third to half as large per drink—it’s the right amount of ice for this elixir, but that ice doesn’t leave enough room for much else.
 
 
 

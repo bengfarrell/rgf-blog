@@ -3,7 +3,7 @@ title: "Motorco Music Hall"
 date: "2010-11-16"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "central-park-district"
   - "durham"
@@ -15,7 +15,11 @@ tags:
   - "super-moco"
 ---
 
-**Motorco Music Hall** 723 Rigsbee Avenue Central Park District Website Mon--Fri, 4 pm to 2 am Sat, 11 am to 2 am
+723 Rigsbee Avenue\
+Central Park District\
+Durham, NC\
+Mon–Fri, 4 pm to 2 am\
+Sat, 11 am to 2 am
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/motorco091-300x225.jpg "motorco09")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/motorco091.jpg)
 

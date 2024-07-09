@@ -3,8 +3,7 @@ title: "So Old Fashioned @ Revolution"
 date: "2010-11-12"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
-  - "spirits"
+  - "cocktails"
 tags:
   - "bars"
   - "bookers-bourbon"
@@ -17,7 +16,10 @@ tags:
   - "so-old-fashioned"
 ---
 
-**So Old Fashioned** Revolution, Downtown Durham [Website](http://www.revolutionrestaurant.com/Revolution_Durham/Cocktails.html) $12
+**Revolution**\
+Downtown Durham, NC\
+[Website](http://www.revolutionrestaurant.com/Revolution_Durham/Cocktails.html)\
+$12
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/sooldfashioned1.jpg "sooldfashioned")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/sooldfashioned1.jpg)
 

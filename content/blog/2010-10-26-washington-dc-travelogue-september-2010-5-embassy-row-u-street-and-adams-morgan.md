@@ -2,10 +2,10 @@
 title: "Washington DC Travelogue September 2010 #5: Embassy Row, U Street, and Adams Morgan."
 date: "2010-10-26"
 categories: 
-  - "washington-dc-bars"
-  - "coffee-shop"
+  - "bars"
+  - "coffee-shops"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "adams-morgan"
   - "embassy-row"

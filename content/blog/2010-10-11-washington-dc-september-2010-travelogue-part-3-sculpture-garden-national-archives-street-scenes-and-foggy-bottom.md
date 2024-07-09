@@ -2,7 +2,7 @@
 title: "Washington DC September 2010 Travelogue Part 3: Union Station, Supreme Court, US Botanical Gardens, and Museum of the American Indian"
 date: "2010-10-11"
 categories: 
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "always-becoming"
   - "capitol-building"

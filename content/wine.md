@@ -11,4 +11,4 @@ After trying so many wines on wine tourism media trips [link to “wine bloggers
 
 a small winery may also mean a winemaker who’s still learning how to best approach the craft—nothing is a sure a bet. Which is why I am happy to help introduce you to ones I’ve already enjoyed! Hopefully, you will too.
 
-View my wine reviews here. [link to category search for wine, white wine, sparkling wine, rose wine, red wine, plum wine, fortified wine]
+View my wine reviews here. [link to category search for wine]

@@ -11,4 +11,4 @@ In terms of where I’m drinking, I’m drawn toward places that have their own 
 
 Cheesy décor on the walls? I’M ALL IN. But let’s keep the lights bright enough that I can read your cocktail list, please? Or at least light enough to get a good picture of my beverage. I’m just not a lowlight sort of gal, as my husband could tell you. He’d prefer mood lighting every day in the living room, but I’m quick to flip that overhead light switch.
 
-Read my nightlife and cocktail posts here. [link to search categories of bars and tasting rooms, cocktail recipes, cocktails]
+Read my nightlife and cocktail posts here. [link to search categories of bars and cocktails]

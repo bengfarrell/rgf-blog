@@ -2,8 +2,7 @@
 title: "Alamos Torrontes 2009"
 date: "2010-10-06"
 categories:
-  - "torrontes"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2009"
   - "alamos-torrontes"
@@ -17,7 +16,7 @@ tags:
   - "white-wine"
 ---
 
-**Alamos Torrontes 2009** Catana, Argentina
+**Region:** Catana, Argentina
 
 ![](http://www.thegourmez.com/gourmez/photos/alamostorrontes.jpg)
 
@@ -31,7 +30,7 @@ This is the perfect white wine for me. It’s very tart with plentiful grapefrui
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif)</div>
 
 
-Other Bloggers’ Thoughts
+**Other Bloggers’ Thoughts**
 
 [TasteWine](http://rjwine.com/blog/2010/07/02/alamos-torrontes-2009/)
 

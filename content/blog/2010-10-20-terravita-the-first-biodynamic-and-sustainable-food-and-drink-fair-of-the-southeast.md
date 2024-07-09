@@ -3,9 +3,8 @@ title: "TerraVITA: The First Biodynamic and Sustainable Food and Drink Fair of t
 date: "2010-10-20"
 categories: 
   - "events"
-  - "restaurants"
-  - "travel-guide"
-  - "travel-guide"
+  - "restaurants""
+  - "travel-guides"
 tags: 
   - "biodynamic"
   - "carrboro-coffee-company"

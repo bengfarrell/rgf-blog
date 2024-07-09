@@ -2,8 +2,7 @@
 title: "Harveys Bristol Cream Sherry"
 date: "2010-11-30"
 categories:
-  - "fortified-wine"
-  - "sherry-fortified-wine"
+  - "wine"
 tags:
   - "chocolate"
   - "cream"
@@ -12,7 +11,7 @@ tags:
   - "wine-drank-john-jaster"
 ---
 
-**Harveys Bristol Cream Sherry** Jerez, Spain
+**Region:** Jerez, Spain
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/harveysbristolcream.jpg "harveysbristolcream")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/harveysbristolcream.jpg)
 

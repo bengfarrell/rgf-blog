@@ -2,7 +2,7 @@
 title: "The Kraken Black Spiced Rum"
 date: "2010-11-15"
 categories:
-  - "rum-review"
+  - "spirits"
 tags:
   - "black-rum"
   - "dr-bamboo"
@@ -15,7 +15,8 @@ tags:
   - "vanilla"
 ---
 
-**The Kraken Black Spiced Rum** 40% alcohol content 47% alcohol content (apparently, I can't do math), 94 proof
+**Other Words on the Label**\
+94 proof
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/thekraken.jpg "thekraken")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/thekraken.jpg)
 

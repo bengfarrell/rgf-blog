@@ -2,15 +2,9 @@
 title: "Jujube's Bubbly Recession Wine Dinner"
 date: "2010-12-15"
 categories:
-  - "cava"
-  - "cava-rose"
-  - "dining-chapel-hill-nc"
   - "events"
-  - "moscato-dasti"
-  - "prosecco"
   - "restaurants"
-  - "rose-review"
-  - "sparkling-wine-review"
+  - "wine"
 tags:
   - "adami-garbel-13"
   - "aria"
@@ -36,7 +30,9 @@ tags:
   - "vietti"
 ---
 
-[Jujube](http://jujuberestaurant.com/), Chapel Hill $40 per plate
+[Jujube](http://jujuberestaurant.com/)\
+Chapel Hill, NC\
+$40 per plate
 
 Last Tuesday, I had the pleasure of attending another Jujube wine dinner---it had been a while! These dinners are kept affordable by profiling wines in the $10 to $20 range from the [Hope Valley Bottle Shop](http://www.hvbottleshop.com/) crew, of which Drew did the sommelier honors this evening. Alas, I was cameraless for this meal, but I did take notes! I was also lucky to be joined by great friends who don’t mind picking apart their meals, either.
 

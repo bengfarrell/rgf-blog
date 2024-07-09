@@ -2,10 +2,9 @@
 title: "Washington, DC, September 2010 Travelogue 4: National Sculpture Garden, National Archives, and Foggy Bottom"
 date: "2010-10-19"
 categories: 
-  - "washington-dc-bars"
-  - "dining-in-washington-dc"
+  - "bars"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "dc-nightlife"
   - "dc-streets"
@@ -63,7 +62,7 @@ I chose the [Front Page restaurant](http://www.frontpagerestaurant.com/), becaus
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc249.JPG)
 
-If you like some kick in your cocktail, I highly recommend it. For my meal, I had their fennel sausage and pepper sub, which was just that---nothing fancy going on, and sometimes, that’s just fine.
+If you like some kick in your cocktail, I highly recommend it. For my meal, I had their fennel sausage and pepper sub, which was just that—nothing fancy going on, and sometimes, that’s just fine.
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc250.JPG)
 

@@ -2,8 +2,7 @@
 title: "Dynamite Vineyards 2007 North Coast Chardonnay"
 date: "2010-11-01"
 categories:
-  - "chardonnay"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2007"
   - "apple"
@@ -15,7 +14,7 @@ tags:
   - "vanilla-ice-cream"
 ---
 
-**Dynamite Vineyards 2007 North Coast Chardonnay** Sonoma, CA
+**Region:** Sonoma, CA
 
 ![](http://www.thegourmez.com/gourmez/photos/dynamitechard.jpg)
 

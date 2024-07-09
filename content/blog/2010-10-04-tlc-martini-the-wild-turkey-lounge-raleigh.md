@@ -3,8 +3,7 @@ title: "TLC Martini @ the Wild Turkey Lounge"
 date: "2010-10-04"
 categories:
   - "bars"
-  - "bars-in-raleigh-nc"
-  - "vodka"
+  - "cocktails"
 tags:
   - "angus-barn"
   - "cointreau"
@@ -14,7 +13,10 @@ tags:
   - "wild-turkey-lounge"
 ---
 
-**The TLC Martini** Wild Turkey Lounge at the Angus Barn Raleigh [Website](http://www.angusbarn.com/turkey.htm) $8.25 (I think)
+**Wild Turkey Lounge at the Angus Barn**
+Raleigh, NC\
+[Website](http://www.angusbarn.com/turkey.htm)\
+$8.25 (I think)
 
 ![](http://www.thegourmez.com/gourmez/photos/tlcmartini.jpg)
 
