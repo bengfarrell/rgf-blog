@@ -55,7 +55,7 @@ The Naches Valley is gorgeous all on its own, as you can see in both of these pa
 
 <div class="caption">
 
-[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7301small.jpg)](http://www.rebeccagomezfarrell.com/2013/01/travelogue-tieton-naches-and-the-chinook-pass/img_7301small/) Click twice for the largest view!</div>
+[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7301small.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7301small.jpg) Click twice for the largest view!</div>
 
 
 
