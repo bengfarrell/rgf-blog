@@ -177,5 +177,3 @@ And now I conclude this blog of Halloween celebration with a few of my favorite 
 And I will end with another shot of Laura, because that costume really was fantastic.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween201029a.jpg "halloween201029a")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween201029a.jpg)
-
-For more pictures of Halloween 2010, including costumed line-dancing, more costume karaokers, and more fuzzy pictures of Franklin Street nightmares, swing by the [photo site.](http://www.blastanova.com/photoalbum/index.html?path=Events/Halloween%202010)

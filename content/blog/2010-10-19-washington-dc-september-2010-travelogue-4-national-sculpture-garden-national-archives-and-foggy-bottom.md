@@ -68,4 +68,4 @@ If you like some kick in your cocktail, I highly recommend it. For my meal, I ha
 
 The next and last day in DC starts back at Dupont Circle for explorations of Embassy Row, then lunch with a friend, and journeys to a few of DC’s destination neighborhoods: U Street and Adams Morgan.
 
-[More photos at our photo website!](http://www.blastanova.com/photoalbum/index.html?path=Adventures/Washington%20DC%202010)
+

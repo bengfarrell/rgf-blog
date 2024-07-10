@@ -41,7 +41,8 @@ tags:
 
 <div class="caption">
 
-[![Art at the Abita Mystery House](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_060small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_060small/) Art at the Abita Mystery House</div>
+[![Art at the Abita Mystery House](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_060small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_060small/)
+Art at the Abita Mystery House</div>
 
 
 The hubby and I did a whirlwind tour of New Orleans and the surrounding areas in early December. The quintessence of the city—Cajun food, voodoo religion, laissez faire—has always placed it high on my list of places to see. I had considered moving there not long before Hurricane Katrina hit. Its pull on me is that strong, and yes, I'm the type of girl that will move without ever having seen the area where I'm relocating. I've done it a few times, actually.
@@ -57,7 +58,7 @@ The town of Abita Springs is tiny and centered around a cute roundabout of an in
 
 <div class="caption">
 
-[![My husband in the courtyard.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_003small.jpg)](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/2012_dec_nola_003small/) My husband in the courtyard.</div>
+[![My husband in the courtyard.](https://thegourmez-wpmedia.s3.us-east-1.amazonaws.com/2013/02/2012_Dec_Nola_003.JPG)](https://thegourmez-wpmedia.s3.us-east-1.amazonaws.com/2013/02/2012_Dec_Nola_003.JPG) My husband in the courtyard.</div>
 
 
 The tour begins right inside the french doors in a large, mahogany barroom.

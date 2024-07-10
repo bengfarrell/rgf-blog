@@ -88,4 +88,4 @@ After the cemetery, I met up for dinner with two high school friends in the area
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc134.JPG)
 
-And thus, Day 2 in DC ended. The next day brought the Supreme Court, the Museum of the American Indian, the US Botanical Garden, Foggy Bottom, and dinner in Dupont Circle. Will it be one post or two? I know, the suspense is killing you. If you want more pictures before then, head to our [photo website](http://www.blastanova.com/photoalbum/index.html?path=Adventures/Washington%20DC%202010).
+And thus, Day 2 in DC ended. The next day brought the Supreme Court, the Museum of the American Indian, the US Botanical Garden, Foggy Bottom, and dinner in Dupont Circle. Will it be one post or two? I know, the suspense is killing you. 

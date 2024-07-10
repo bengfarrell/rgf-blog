@@ -53,4 +53,4 @@ Pitcher plant forest.
 
 ![](http://www.blastanova.com/photoalbum/Adventures/UNC%20Botanical%20Garden/uncbotanicalgarden39.JPG)
 
-If you'd like to see more, head over to [our photo website](http://www.blastanova.com/photoalbum/index.html?path=Adventures/UNC%20Botanical%20Garden#).
+

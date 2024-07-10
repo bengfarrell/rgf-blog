@@ -85,4 +85,4 @@ The group, minus Melissa B. who had a date with a farmer’s market, relaxed in 
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201024.JPG)
 
-Any afternoon that ends with a face like that is a good afternoon, even with failing at the corn maze. For more pictures, head to [our photo website](http://www.blastanova.com/photoalbum/index.html?path=Adventures/Corn%20Maze%202010) or Brian’s fabulous shots at [his flickr site](http://www.flickr.com/photos/brian_and_dawn/sets/72157625017730807/) .
+Any afternoon that ends with a face like that is a good afternoon, even with failing at the corn maze.

@@ -101,4 +101,4 @@ Eventually, we made our way back to downtown Santa Cruz and met up for dinner at
 
 All my lovelies gathered together at Chocolate, except Paul, who’s behind the camera.
 
-Thus endeth my first two days in Santa Cruz. There’s only one more blog post to come, full of Santa Cruz pier and boardwalk photos. In the meantime, if you’d like to peruse more pictures of our trip, head on over to our [photo site](http://www.blastanova.com/photoalbum/index.html?path=Adventures/CA%20Trip%202011).
+Thus endeth my first two days in Santa Cruz. There’s only one more blog post to come, full of Santa Cruz pier and boardwalk photos. 

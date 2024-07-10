@@ -1,5 +1,5 @@
 ---
-title: "Disneyworld 2.5.10--2.8.10---Travelogue (and new photo website)"
+title: "Disneyworld 2.5.10–2.8.10—Travelogue"
 date: "2010-02-23"
 categories: 
   - "announcements"
@@ -105,8 +105,6 @@ Highlights: The Primeval Whirl, Expedition Everest, Kilimanjaro Safari.
 
 We headed back to the train that evening and made it home to Raleigh the next morning. Our train had been delayed an hour before leaving, but we still made it to Raleigh on schedule somehow. More points for trains!
 
-Disneyworld was a great, and very needed, vacation. Thanks to Erin for inviting and planning for us! We have lots more pictures at our new photo website, [here](http://www.blastanova.com/photoalbum/index.html?path=Adventures/Disneyworld). Ben redesigned our old site and I think this is a vast improvement. He's got slideshow options, captions that pop up then disappear, and the ability to click easily from one picture to the next. Tell us what you think! Is the wait too short between pics in the slideshow? Do you like the new and improved look? Oh, just a warning that we got too lazy to weed out the bad pictures, so there's some uncaptioned, boring or repeated shots to sift through.
-
-Hope you have a magical vacation soon, too.  \[/cheese\]
+Disneyworld was a great, and very needed, vacation. Thanks to Erin for inviting and planning for us! Hope you have a magical vacation soon, too.  \[/cheese\]
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Disneyworld/Epcot/disneyworld%20149.JPG)

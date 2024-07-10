@@ -39,4 +39,4 @@ Alas, I did not see the _Man vs. Food_ team make it to the finish line, as I cou
 
 There was also a row of craft booths across the street and plenty of yummy looking vendor carts in addition to produce and flowers.  I will be back-if I can ever get myself out of bed that early again.
 
-Next year, I might just have to volunteer for The Doughman or at least pick a spot where I can watch the racers gorge themselves on delicious cheeseburgers, BLTs and cupcakes first thing in the morning.  For more pictures of the finish line, check my photo website [here](http://www.yellow5labs.com/photos/index.php?path=./Events/Doughman%2009).
+Next year, I might just have to volunteer for The Doughman or at least pick a spot where I can watch the racers gorge themselves on delicious cheeseburgers, BLTs and cupcakes first thing in the morning.

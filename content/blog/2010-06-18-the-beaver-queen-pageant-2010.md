@@ -76,6 +76,4 @@ I did not stay for much of the evening gown round-that sun really wore me down-b
 
 ![](http://www.blastanova.com/photoalbum/Events/Beaver%20Queen%202010/beaverqueen92.JPG)
 
-There are plenty more pictures at [our photo website](http://www.blastanova.com/photoalbum/index.html?path=Events/Beaver%20Queen%202010), if you'd like to see more Durham beaver action.
-
 I definitely enjoyed the Beaver Queen Pageant, and love the fact that I live in a community that would put on such an event as the Beaver Queen Pageant. If I'm not out of town next year, I think I will have to make my own tail to bring along with my chair, camera, water, sunscreen, and bribery dollars. Thanks for a fun, free event, Beaver Lodge!

@@ -79,4 +79,4 @@ Having just come from FDR’s memorial, it was delightful to see another impress
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc072.JPG)
 
-From there, I moved on to Arlington National Cemetery, but you’ll have to wait for the next blog for that. In the meantime, all the photos of the trip are at [our photo website](http://www.blastanova.com/photoalbum/index.html?path=Adventures/Washington%20DC%202010).
+From there, I moved on to Arlington National Cemetery, but you’ll have to wait for the next blog for that.

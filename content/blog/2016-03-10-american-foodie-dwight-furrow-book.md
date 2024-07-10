@@ -21,7 +21,8 @@ I don't often recommend books without having read them, but from the sounds of t
 
 <div class="caption">
 
-[![Morning bun at Prep Kitchen, San Diego](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/morning-bun-prep-kitchen-500x500.jpeg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/morning-bun-prep-kitchen.jpeg) My most recently Instagrammed pastry, a chocolate and pineapple morning bun from Prep Kitchen in San Diego.</div>
+[![Morning bun at Prep Kitchen, San Diego](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/morning-bun-prep-kitchen-500x500.jpeg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/morning-bun-prep-kitchen.jpeg)
+My most recently Instagrammed pastry, a chocolate and pineapple morning bun from Prep Kitchen in San Diego.</div>
 
 
 As the _Publishers' Weekly_ review puts it, "In chapters about reading a meal, the beauty of a tuna casserole, and the future of taste, Furrow argues that the foodie craze is in revolt against ‘a life that has become bureaucratic and digitized.’ In the end, Furrow makes a case for the taste revolution in a text." As a fellow blogger, Furrow is qualified to make that case, but even more so because he is a professor of philosophy of food and wine, aesthetics, and ethics at San Diego Mesa College. He is also a certified wine specialist with certification from the Society of Wine Educators and an advanced level certification from the Wine and Spirits Educational Trust. He deeply understands the implications of taking the time to savor from many different angles. In his own words,

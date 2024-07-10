@@ -45,6 +45,4 @@ Our last stop was Donnie’s Corvette Specialists in Kenly, where a very shady c
 
 According to Roadside America, he is a relic from a Tastee Freeze ad campaign in the 1950s. I don’t know how much ice cream the fellow sold, but I was glad to be speeding away from him as soon as the pictures were snapped. Day-Glo Orange is not a good color on anyone.
 
-Many more photos are on our [photo website](http://blastanova.com/photoalbum/Adventures/whirligig%20adventure), of course.If you’d like to browse, hit adventures, and then select whirligig adventure at the end of the list.Ben did a redesign on the site, so let us know any feedback you may have!To view the comments, you press the plus sign on the right side of the screen.
-
 Coming up, wedding trips in New Jersey, Washington DC, and my ten-year high school reunion in California. Will I be sick of traveling by November? Never!

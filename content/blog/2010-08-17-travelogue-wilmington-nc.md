@@ -46,4 +46,4 @@ USS North Carolina:
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Wilmington/wilmington20.JPG)
 
-As always, there are more pictures of our Wilmington afternoon at [our photo website](http://www.blastanova.com/photoalbum/index.html?path=Adventures/Wilmington).
+

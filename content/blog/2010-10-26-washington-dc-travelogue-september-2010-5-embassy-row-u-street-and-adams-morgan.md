@@ -122,4 +122,4 @@ Farewell, DC! Until we meet again, which may be sooner rather than later.
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc322.JPG)
 
-[If you can take any more pictures after all that, come to our photo website.](http://www.blastanova.com/photoalbum/index.html?path=Adventures/Washington%20DC%202010)
+

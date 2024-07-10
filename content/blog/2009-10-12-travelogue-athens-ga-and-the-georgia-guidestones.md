@@ -98,5 +98,3 @@ There are also several holes and slots that match up with the noonday sun, the a
 I thought it looked pretty awesome, even though I'm saddened that the time capsule buried at the site had no date for when it was to be brought up again.  A shame!  We could have had great relics of a crazy person's mind, if only they finished the sentence on the engraving!
 
 Thanks, Athens and the Georgia Guidestones, for a weekend well-spent!  And now, Athens, GA, is officially the furthest I've been into the South.
-
-For more pictures, head to our [photo website](http://www.yellow5labs.com/photos/index.php?path=./Adventures/Athens, GA "yellow 5 labs photos"). Click the thumbnails at the bottom of the page to see the pictures.

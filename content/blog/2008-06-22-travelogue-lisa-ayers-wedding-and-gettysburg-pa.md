@@ -51,4 +51,4 @@ And here I am on top of the New York Memorial, just one of many, many, many memo
 
 [![ayers wedding and gettysburg 117](http://s3.amazonaws.com/thegourmez-wpmedia/2008/06/ayers-wedding-and-gettysburg-1171.jpg)](http://www.rebeccagomezfarrell.com/2008/06/travelogue-lisa-ayers-wedding-and-gettysburg-pa/ayers-wedding-and-gettysburg-117/)
 
-Then we went home, happy to have no surprises from the kitties for the weekend.Thanks for watching them again, Amy! For more photos of the [wedding](http://www.yellow5labs.com/photos/index.php?path=./Weddings/Lisa%20and%20David) or [Gettysburg](http://www.yellow5labs.com/photos/index.php?path=./Adventures/Gettysburg), head on over to our photo website at www.yellow5labs.com.
+Then we went home, happy to have no surprises from the kitties for the weekend.Thanks for watching them again, Amy!

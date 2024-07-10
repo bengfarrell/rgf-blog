@@ -402,4 +402,4 @@ We then parted ways for the evening, and Ben and I headed back to the hotel, pas
 
  
 
-Coming up on London Part 3, probably next week, is the Tower of London, which was my absolutely favorite part of the trip, if only because it applies to my fantasy sensibilities so well. In the meantime, feel free to see more photos at [our photo website](http://www.blastanova.com/photoalbum/index.html?path=Adventures/London%20Oct%202010).
+Coming up on London Part 3, probably next week, is the Tower of London, which was my absolutely favorite part of the trip, if only because it applies to my fantasy sensibilities so well.

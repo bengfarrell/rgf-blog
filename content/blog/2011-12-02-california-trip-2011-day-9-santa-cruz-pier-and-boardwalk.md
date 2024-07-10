@@ -123,4 +123,4 @@ Farewell, California. I promise not to let three years pass before I see you aga
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/catrip036.jpg "catrip036")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/catrip036.jpg)
 
-Dude, y’all, I miss those sunsets already. If you’d like to peruse more pictures of our trip, head on over to our [photo site](http://www.blastanova.com/photoalbum/index.html?path=Adventures/CA%20Trip%202011).
+Dude, y’all, I miss those sunsets already.

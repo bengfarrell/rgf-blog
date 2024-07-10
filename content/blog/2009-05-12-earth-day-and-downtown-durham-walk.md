@@ -36,4 +36,4 @@ Lastly, I'll leave you with this picture of a sight not likely to be seen again,
 
 ![img_2200forblog](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/img_2200forblog-200x300.jpg "img_2200forblog")
 
-As to my first goal of getting sun, rest assured, I had plenty and my tan lines were happy.  The afternoon ended with a cherry [Locopop](http://ilovelocopops.com/) that felt oh-so-delightful on my tongue.  If you'd like more pictures of downtown Durham on Earth Day, check my photo website [here](http://www.yellow5labs.com/photos/index.php?path=./Adventures/Earth%20Day%20in%20Durham%2009).  There are pictures of the skateboarding, too.
+As to my first goal of getting sun, rest assured, I had plenty and my tan lines were happy.  The afternoon ended with a cherry [Locopop](http://ilovelocopops.com/) that felt oh-so-delightful on my tongue.

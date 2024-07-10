@@ -109,4 +109,4 @@ These statues are part of a larger work called Always Becoming outside of the bu
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc212.JPG)
 
-Coming up on the next installment of the DC travelogue: the Sculpture Garden, National Archives, Ford Theater, Foggy Bottom, and dinner! I might even get to Embassy Row by the end of it, but I make no promises. [More photos at our photo website!](http://www.blastanova.com/photoalbum/index.html?path=Adventures/Washington%20DC%202010)
+Coming up on the next installment of the DC travelogue: the Sculpture Garden, National Archives, Ford Theater, Foggy Bottom, and dinner! I might even get to Embassy Row by the end of it, but I make no promises. 

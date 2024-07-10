@@ -153,4 +153,4 @@ While the trout and pot de crème were the stars of my meal, we did manage to se
 
 That was certainly a great way to end our time in Los Angeles. We spent the night back at Christa and Joe’s place in Playa del Rey, and the next morning began the Santa Cruz leg of the journey. On the next blog, we’ll hit up Capitola Village—my favorite Santa Cruz area beach—and reunite with more cherished college friends, whom I miss far too much. There are some downsides to having wanderlust, after all, and having my nearest and dearest on the other side of the country is the hugest one of those. Oh, California homesickness, you never truly get better from this coast.
 
-If you’d like to peruse more pictures of our trip before the next blog, head on over to our [photo site](http://www.blastanova.com/photoalbum/index.html?path=Adventures/CA%20Trip%202011).
+

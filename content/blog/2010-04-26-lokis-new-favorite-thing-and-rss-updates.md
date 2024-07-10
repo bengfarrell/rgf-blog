@@ -38,4 +38,4 @@ Kittens on the march, err, lie down.
 
 ![](http://www.blastanova.com/photoalbum/Other/Kittens/cats15.jpg)
 
-As always, more pictures of the cats for those that just can't get enough of Loki, Mazu, and Verdandi (namely, me) are available at [our photo website](http://www.blastanova.com/photoalbum/index.html?path=Other/Kittens).
+

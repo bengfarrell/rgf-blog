@@ -199,4 +199,4 @@ One last picture of the Charleston Harbor.
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Charleston%202010/Charleston097.JPG)
 
-As always, we have plenty more pictures over at [our photo website](http://www.blastanova.com/photoalbum/index.html?path=Adventures/Charleston%202010#).
+

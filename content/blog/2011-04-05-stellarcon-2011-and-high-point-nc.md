@@ -164,4 +164,3 @@ That evening, we headed to the costume competition, which is always a highlight 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon50.jpg "stellarcon50")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/stellarcon50.jpg)</div>
 
 
-I’ll post some more pictures on our photo site eventually, but I’m even farther behind updating there. Oh, the torment of sharing too much personal information over the interwebs--my digital life can never keep up with my real one.

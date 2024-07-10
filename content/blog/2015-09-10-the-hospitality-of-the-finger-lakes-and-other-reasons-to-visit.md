@@ -38,11 +38,11 @@ _Shh,_ don’t tell [the fine folks who run](http://www.zephyradventures.com/) t
 
 ## The Airport
 
-It’s fair to say I felt wanted at the Elmira Corning Airport from the moment I stepped off my second flight from Denver. I knew from other bloggers’ tweets that there was a welcome sign for us--
+It’s fair to say I felt wanted at the Elmira Corning Airport from the moment I stepped off my second flight from Denver. I knew from other bloggers’ tweets that there was a welcome sign for us—
 
-<blockquote class="twitter-tweet" lang="en"><p dir="ltr" lang="en" style="text-align: center">A nice welcome! <a href="https://twitter.com/hashtag/wbc15?src=hash">#wbc15</a> <a href="https://twitter.com/hashtag/flx?src=hash">#flx</a> <a href="https://twitter.com/hashtag/slwt?src=hash">#slwt</a> <a href="http://t.co/5u0nFsA3FO">pic.twitter.com/5u0nFsA3FO</a></p><p style="text-align: center">— Brianne Cohen (@SOMMspirations) <a href="https://twitter.com/SOMMspirations/status/631934008994234368">August 13, 2015</a></p></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A nice welcome! <a href="https://twitter.com/hashtag/wbc15?src=hash&amp;ref_src=twsrc%5Etfw">#wbc15</a> <a href="https://twitter.com/hashtag/flx?src=hash&amp;ref_src=twsrc%5Etfw">#flx</a> <a href="https://twitter.com/hashtag/slwt?src=hash&amp;ref_src=twsrc%5Etfw">#slwt</a> <a href="http://t.co/5u0nFsA3FO">pic.twitter.com/5u0nFsA3FO</a></p>&mdash; Brianne Cohen (@SOMMspirations) <a href="https://twitter.com/SOMMspirations/status/631934008994234368?ref_src=twsrc%5Etfw">August 13, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-\--but I didn’t know I’d have my first wine tasting right off the plane!
+—but I didn’t know I’d have my first wine tasting right off the plane!
 
 <blockquote class="twitter-tweet" lang="en">This awaits the moment you alight from the plane for <a href="https://twitter.com/hashtag/wbc15?src=hash">#wbc15</a> bloggers. Well done <a href="https://twitter.com/hashtag/ELM?src=hash">#ELM</a> ! <a href="http://t.co/Dvdghc80We">pic.twitter.com/Dvdghc80We</a> — becca gomez farrell (@thegourmez) <a href="https://twitter.com/thegourmez/status/631966161291354112">August 13, 2015</a></blockquote>
 

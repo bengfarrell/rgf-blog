@@ -91,5 +91,3 @@ Far too early on Sunday morning (5am), we took the two hour journey back to the 
 Another day to hit up the snorkeling or take a boat ride would have been fabulous, but I can't complain, really.
 
 If we go again, though, I might want a more local feel and stay at a bed and breakfast or one of the smaller resorts located in one of the larger cities.  I had two helpings of jerk chicken while there, which was tasty as usual, but I'm not sure that I quite got the feel of the country.  People were usually quite friendly, but of course, they are paid to be so at a resort!  One thing's certain, I can't stop thinking, "No problem, mon" whenever I finish a sentence now.
-
-For more pictures of our trip, visit our [photo website](http://www.yellow5labs.com/photos/index.php?path=./Adventures/Jamaica 2009 "yellow 5labs photos").

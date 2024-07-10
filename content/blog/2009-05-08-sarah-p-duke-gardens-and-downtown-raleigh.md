@@ -36,5 +36,3 @@ We also explored out the [Knights of the Black Flag exhibit](http://ncmuseumofhi
 I'm determined to work something like that into a fantasy story.  Doesn't it just look fascinating?  Also interesting was the display on how x-ray is used to identify the artifacts found in what is believed to be the wreck of the Queen Anne's Revenge, Blackbeard's last ship.  The curators also did a great job of linking pirates from their earliest history to today's profiteers in Somalia and Indonesia.  Definitely check out the exhibit if you have a love for pirate lore.  It will be in town through the end of the year.
 
 ![img_2173forblog](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/img_2173forblog-300x200.jpg "img_2173forblog")
-
-For more pics of the Duke Gardens and downtown Raleigh, check out my photo website at [http://yellow5labs.com/photos.](http://www.yellow5labs.com/photos/index.php?path=./Adventures/Downtown Raleigh 4 09)

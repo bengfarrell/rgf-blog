@@ -260,5 +260,3 @@ After dinner, we decided to hit up a couple more pubs for our last pints of the 
 ![](http://www.blastanova.com/photoalbum/Adventures/London%20Oct%202010/london451.JPG)
 
 Scott was, of course, wonderful company, and it was great to have both a food guide and old friend on the trip. I’m lucky to be surrounded with lots of fellow world-travellers in North Carolina, but it’s rare that I manage to see high school friends with similar viewpoints on the world, politics, and good places for dinner.  In other words, London was awesome, and I could easily imagine myself jumping over for a weekend trip as easily as heading to DC or NYC if I’m in the mood for a big city escape. Unfortunately, it costs a bit more to fly 8 hours than to drive them. Sigh.
-
-If these three blogs full of London photos weren’t enough for you, view the whole set at our [photo website](http://www.blastanova.com/photoalbum/index.html?path=Adventures/London%20Oct%202010).

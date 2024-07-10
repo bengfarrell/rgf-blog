@@ -203,4 +203,3 @@ And thus, our first trip to Minneapolis concluded. I must say, it definitely cha
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis086.jpg "minneapolis086")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/06/minneapolis086.jpg)
 
-If you’d like full-size versions of these pics or want to wander through all my images from the trip, head to [our photo website.](http://blastanova.com/photoalbum/index.html?path=Adventures/Minneapolis%202011)
