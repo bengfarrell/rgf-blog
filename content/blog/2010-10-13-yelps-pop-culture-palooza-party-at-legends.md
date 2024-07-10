@@ -1,11 +1,11 @@
 ---
 title: "Yelp's Pop Culture Palooza Party at Legend's"
 date: "2010-10-13"
-categories: 
-  - "bars""
+categories:
+  - "bars"
   - "events"
   - "restaurants"
-tags: 
+tags:
   - "catdaddy"
   - "charles-nelson-reilly"
   - "coti-collins"

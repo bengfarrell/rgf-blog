@@ -1,11 +1,11 @@
 ---
 title: "TerraVITA: The First Biodynamic and Sustainable Food and Drink Fair of the Southeast"
 date: "2010-10-20"
-categories: 
+categories:
   - "events"
-  - "restaurants""
+  - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "biodynamic"
   - "carrboro-coffee-company"
   - "chapel-hill"
