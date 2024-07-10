@@ -498,7 +498,7 @@ a[href].header-anchor:hover {
 }
 a[href].header-anchor:focus,
 :hover > a[href].header-anchor {
-	color: #aaa;
+	color: transparent;
 }
 
 h2 + .header-anchor {
@@ -509,9 +509,10 @@ div.caption {
 	display: inline-block;
 	font-size: 0.8125em; /* 13px /16 */
 	color: var(--color-gray-90);
-	padding: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	width: 100%;
 	text-align: center;
-	width: calc(100% - 30px);
 }
 
 div.caption img {
@@ -594,7 +595,7 @@ body.search #search {
 #sidebar .sidebar-content img {
 	width: 100%;
 	border-radius: var(--rounded-corner);
-	margin-bottom: 15px;
+	margin-bottom: 0;
 }
 
 img[title="rating_chicken11"],
@@ -605,3 +606,11 @@ img[title="rating_avocado1"] {
 	width: 30px;
 	align-self: center;
 }
+
+blockquote {
+	background-color: #eaeaea;
+	padding: 15px;
+	filter: drop-shadow( 3px 3px 2px var(--color-blue));
+	border-radius: 15px;
+}
+

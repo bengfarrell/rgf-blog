@@ -6,9 +6,9 @@
 		reverse: true,
 		alias: "postslist",
 		size: 20,
-	},
-	before: function(data) {
-		return this.filterByCommonTags(data, ['cocktail-recipe', 'cocktail-recipes']);
+		before: function(data) {
+			return this.filterByAllRequiredCategories(data, ['recipes', 'cocktails']);
+		},
 	},
 	eleventyNavigation: {
 		key: "Cocktail Recipes",

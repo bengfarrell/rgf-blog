@@ -160,6 +160,8 @@ Speaking of legends of winemaking,
 
 Ken has been pioneering pinot noir in SBC since the late 1970s with fellow old-timers Richard Sanford and Michael Benedict, and his passion and prowess is renowned in the area. If these two wines are any indication, I understand why.
 
+<div class="caption">
+
 [![Ken addressing us during the SBC Winemakers Panel.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_051-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc-14-best-wines/wbc_14_051/) Ken addressing us during the SBC Winemakers Panel.</div>
 
 

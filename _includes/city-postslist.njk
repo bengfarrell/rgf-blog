@@ -1,7 +1,7 @@
 {% for post in postslist %}
 	<li class="postlist-item">
-		<a href="{{ post.url }}" class="postlist-link">{{city}}</a>
-		<a href="{{ post.url }}">
+		<a href="/categories/{{ city }}" class="postlist-link">{{cityname}}</a>
+		<a href="/categories/{{ city }}">
 			<img height="200px" width="100%" src="{% first_image post %}" style="object-fit: cover; max-width:100%;" />
 		</a>
 	</li>

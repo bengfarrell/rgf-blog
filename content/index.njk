@@ -6,13 +6,13 @@ eleventyNavigation:
 numberOfLatestPostsToShow: 4
 ---
 {% set postsCount = collections.posts | length %}
-{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+{% set postslist = (collections.posts | head(-1 * numberOfLatestPostsToShow)).reverse() %}
 {% set postslistCounter = postsCount %}
 
 <section>
 	<h1>Latest</h1>
 	{% include "postslist.njk" %}
-	<a class="more-posts" href="/categories/eateries">see more...</a>
+	<a class="more-posts" href="/categories/latest">see more...</a>
 </section>
 
 <div class="message-box">
@@ -22,7 +22,7 @@ numberOfLatestPostsToShow: 4
 <section>
 	<h1>Eateries</h1>
 	{% set postsCount = collections.posts | filterByCommonCategories(['restaurants', 'ice-cream-parlors', 'bakeries', 'food-trucks']) | length %}
-	{% set postslist = collections.posts | filterByCommonCategories(['restaurants', 'ice-cream-parlors', 'bakeries', 'food-trucks']) | head(-1 * numberOfLatestPostsToShow) %}
+	{% set postslist = (collections.posts | filterByCommonCategories(['restaurants', 'ice-cream-parlors', 'bakeries', 'food-trucks']) | head(-1 * numberOfLatestPostsToShow)).reverse() %}
 	{% include "postslist.njk" %}
 	<a class="more-posts" href="/categories/eateries">see more...</a>
 </section>
@@ -34,7 +34,7 @@ numberOfLatestPostsToShow: 4
 <section>
 <h1>Wines</h1>
 {% set postsCount = collections.posts | filterByCommonCategories(['wine']) | length %}
-{% set postslist = collections.posts | filterByCommonCategories(['wine']) | head(-1 * numberOfLatestPostsToShow) %}
+{% set postslist = (collections.posts | filterByCommonCategories(['wine']) | head(-1 * numberOfLatestPostsToShow)).reverse() %}
 {% include "postslist.njk" %}
 <a class="more-posts" href="/categories/wine">see more...</a>
 </section>
@@ -48,25 +48,28 @@ numberOfLatestPostsToShow: 4
 <ol reversed class="cities postlist">
 {% set postsCount = collections.posts | filterByTags(['hayward']) | length %}
 {% set postslist = collections.posts | filterByTags(['hayward']) | head(-1) %}
-{% set city = 'Hayward' %}
+{% set city = 'hayward' %}
+{% set cityname = 'Hayward' %}
 {% include "city-postslist.njk" %}
 
 {% set postsCount = collections.posts | filterByTags(['oakland']) | length %}
 {% set postslist = collections.posts | filterByTags(['oakland']) | head(-1) %}
-{% set city = 'Oakland' %}
+{% set city = 'oakland' %}
+{% set cityname = 'Oakland' %}
 {% include "city-postslist.njk" %}
 
 {% set postsCount = collections.posts | filterByTags(['san-francisco']) | length %}
 {% set postslist = collections.posts | filterByTags(['san-francisco']) | head(-1) %}
-{% set city = 'San Francisco' %}
+{% set city = 'san-francisco' %}
+{% set cityname = 'San Francisco' %}
 {% include "city-postslist.njk" %}
 
 {% set postsCount = collections.posts | filterByTags(['berkeley']) | length %}
 {% set postslist = collections.posts | filterByTags(['berkeley']) | head(-1) %}
-{% set city = 'Berkeley' %}
+{% set city = 'berkeley' %}
+{% set cityname = 'Berkeley' %}
 {% include "city-postslist.njk" %}
 </ol>
-<a class="more-posts" href="/categories/cities">see more...</a>
 </section>
 
 <div class="message-box">
