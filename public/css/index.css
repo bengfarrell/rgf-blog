@@ -606,3 +606,11 @@ img[title="rating_avocado1"] {
 	width: 30px;
 	align-self: center;
 }
+
+blockquote {
+	background-color: #eaeaea;
+	padding: 15px;
+	filter: drop-shadow( 3px 3px 2px var(--color-blue));
+	border-radius: 15px;
+}
+

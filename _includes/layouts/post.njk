@@ -7,6 +7,7 @@ layout: layouts/base.njk
 		<h1>{{ title }}</h1>
 
 		<ul class="post-metadata">
+			<li style="display:none" data-pagefind-sort="date">{{ page.date | htmlDateString }}</li>
 			<li><time data-pagefind-meta="date:{{ page.date | htmlDateString }}" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
 		</ul>
 
