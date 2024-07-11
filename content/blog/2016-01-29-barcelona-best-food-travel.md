@@ -76,7 +76,7 @@ We were in Barcelona in mid-December, so open-air markets were more plentiful th
 
 The market is at the Plaça de Nicolas Salmeron, and we found a vendor selling glasses of cava for half a euro. Who could say no to that just before dinner?
 
-<blockquote class="twitter-tweet" lang="en"><p dir="ltr" lang="en">Copa de Cavas for half a euro? Yes, please. <a href="https://twitter.com/hashtag/wine?src=hash">#wine</a> <a href="https://twitter.com/hashtag/Barcelona?src=hash">#Barcelona</a> <a href="http://t.co/qkFF1ZVSN1">pic.twitter.com/qkFF1ZVSN1</a></p>— becca gomez farrell (@thegourmez) <a href="https://twitter.com/thegourmez/status/545994296886054912">December 19, 2014</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Copa de Cavas for half a euro? Yes, please. <a href="https://twitter.com/hashtag/wine?src=hash&amp;ref_src=twsrc%5Etfw">#wine</a> <a href="https://twitter.com/hashtag/Barcelona?src=hash&amp;ref_src=twsrc%5Etfw">#Barcelona</a> <a href="http://t.co/qkFF1ZVSN1">pic.twitter.com/qkFF1ZVSN1</a></p>&mdash; Becca Gomez Farrell | Author, Food &amp; Drink Guide (@thegourmez) <a href="https://twitter.com/thegourmez/status/545994296886054912?ref_src=twsrc%5Etfw">December 19, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Purchases also included Marcona almonds on a return trip. Ben was more pleased that he looked, I promise.
 

@@ -1,5 +1,5 @@
 ---
-title: "Finger Lakes 2013 Riesling Launch--Live! On Twitter and Facebook"
+title: "Finger Lakes 2013 Riesling Launch—Live! On Twitter and Facebook"
 date: "2014-09-27"
 categories: 
   - "events"

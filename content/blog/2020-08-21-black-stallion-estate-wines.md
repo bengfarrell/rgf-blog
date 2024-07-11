@@ -10,8 +10,6 @@ tags:
   - "wine-review"
 ---
 
-<script async defer="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0&appId=152380721638567&autoLogAppEvents=1" nonce="8ZGIyh6L"></script>
-
 Early on in the pandemic shutdown, I received two wines to review for this blog from Black Stallion Estate Winery ([website](https://www.blackstallionwinery.com/)), located in the Napa Valley. Like much of California wine country right now, Black Stallion is not that far from wildfires caused by lightning strikes last weekend, though they are not under threat as far as I know. Please remember California, and indeed, several western states also aflame, in your prayers.
 
 Buying wine is a great way to support wine country after a disaster like these fires, but do know they may not be able to fill your order right away — calling the tasting room line at 707-227-3250 or e-mailing [concierge@blackstallionwinery.com](mailto:concierge@blackstallionwinery.com) to check in first is likely a good idea. **_Obligatory disclaimer:_**  By “received two wines to review for this blog,” I mean that the wines pictured here were free to me.

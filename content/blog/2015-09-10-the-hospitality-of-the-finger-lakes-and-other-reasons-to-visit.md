@@ -44,7 +44,7 @@ It’s fair to say I felt wanted at the Elmira Corning Airport from the moment I
 
 —but I didn’t know I’d have my first wine tasting right off the plane!
 
-<blockquote class="twitter-tweet" lang="en">This awaits the moment you alight from the plane for <a href="https://twitter.com/hashtag/wbc15?src=hash">#wbc15</a> bloggers. Well done <a href="https://twitter.com/hashtag/ELM?src=hash">#ELM</a> ! <a href="http://t.co/Dvdghc80We">pic.twitter.com/Dvdghc80We</a> — becca gomez farrell (@thegourmez) <a href="https://twitter.com/thegourmez/status/631966161291354112">August 13, 2015</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This awaits the moment you alight from the plane for <a href="https://twitter.com/hashtag/wbc15?src=hash&amp;ref_src=twsrc%5Etfw">#wbc15</a> bloggers. Well done <a href="https://twitter.com/hashtag/ELM?src=hash&amp;ref_src=twsrc%5Etfw">#ELM</a> ! <a href="http://t.co/Dvdghc80We">pic.twitter.com/Dvdghc80We</a></p>&mdash; Becca Gomez Farrell | Author, Food &amp; Drink Guide (@thegourmez) <a href="https://twitter.com/thegourmez/status/631966161291354112?ref_src=twsrc%5Etfw">August 13, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Not only that, but Ann Crook, director of aviation at the airport, was there in person to make sure those of us using the free shuttle service they provided to the Radisson Hotel Corning, a twenty-minute drive, didn’t get lost. Now it’s a small-enough airport that getting lost would be a challenge in itself, but the hospitality they provided at the airport set the stage for the days to come.
 
@@ -86,7 +86,7 @@ Oh, the bliss of ice cream melting into espresso after you’ve been travelling 
 
 As most WBC15 attendees would agree, the coffee situation wasn’t the best during our weekend, so I also managed to make that hotel coffee sample work out a few days later.
 
-<blockquote class="twitter-tweet" lang="en"><p style="text-align: center">This afternoon delight comes courtesy of <a href="https://twitter.com/elementwinery">@ElementWinery</a> 's Isabel Bogadtke & <a href="https://twitter.com/gafferdistrict">@GafferDistrict</a> 's Soul Full Cup <a href="https://twitter.com/hashtag/WBC15?src=hash">#WBC15</a> <a href="http://t.co/z64SQZa7re">pic.twitter.com/z64SQZa7re</a></p><p style="text-align: center">— becca gomez farrell (@thegourmez) <a href="https://twitter.com/thegourmez/status/632668188036231168">August 15, 2015</a></p></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This afternoon delight comes courtesy of <a href="https://twitter.com/elementwinery?ref_src=twsrc%5Etfw">@ElementWinery</a> &#39;s Isabel Bogadtke &amp; <a href="https://twitter.com/gafferdistrict?ref_src=twsrc%5Etfw">@GafferDistrict</a> &#39;s Soul Full Cup <a href="https://twitter.com/hashtag/WBC15?src=hash&amp;ref_src=twsrc%5Etfw">#WBC15</a> <a href="http://t.co/z64SQZa7re">pic.twitter.com/z64SQZa7re</a></p>&mdash; Becca Gomez Farrell | Author, Food &amp; Drink Guide (@thegourmez) <a href="https://twitter.com/thegourmez/status/632668188036231168?ref_src=twsrc%5Etfw">August 15, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Don’t ask how. You don’t want to know. But man, it was still better than anything else in walking distance.
 

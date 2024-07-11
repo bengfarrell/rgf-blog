@@ -184,7 +184,7 @@ The oldest vines at Viano date to 1888, and Sand Rock Hill has them! Lighter ber
 
 After an evening spent tasting great food and drink, I was thoroughly content with my SCOCO gala experience, and I'll be enjoying the Handsome Carver nut butter sampler basket that I won in the silent auction for months to come.
 
-<blockquote class="twitter-tweet" lang="en"><p dir="ltr" lang="en">Excited to try this Handsome Carver peanuts and cashew butter sampler. I won it at <a href="https://twitter.com/sustcoco">@SustCoCo</a> 's gala. <a href="https://twitter.com/hashtag/foodie?src=hash">#foodie</a> <a href="http://t.co/GhelhbOZG4">pic.twitter.com/GhelhbOZG4</a></p>— becca gomez farrell (@thegourmez) <a href="https://twitter.com/thegourmez/status/647111997289398272">September 24, 2015</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited to try this Handsome Carver peanuts and cashew butter sampler. I won it at <a href="https://twitter.com/sustcoco?ref_src=twsrc%5Etfw">@SustCoCo</a> &#39;s gala. <a href="https://twitter.com/hashtag/foodie?src=hash&amp;ref_src=twsrc%5Etfw">#foodie</a> <a href="http://t.co/GhelhbOZG4">pic.twitter.com/GhelhbOZG4</a></p>&mdash; Becca Gomez Farrell | Author, Food &amp; Drink Guide (@thegourmez) <a href="https://twitter.com/thegourmez/status/647111997289398272?ref_src=twsrc%5Etfw">September 24, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Thanks for the invite, SCOCO, and thanks for the great offerings, Viano, IHTA, Plate & Vine, Yalla, Merryvale, Black Diamond, & Captain!
 
