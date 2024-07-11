@@ -21,7 +21,9 @@ tags:
   - "unfiltered"
 ---
 
-**Momokawa Pearl Sake** Junmai Ginjo Nigori Genshu Oregon
+**Other Words on the Label**\
+Junmai Ginjo Nigori Genshu\
+Oregon
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/pearlsake.jpg)
 

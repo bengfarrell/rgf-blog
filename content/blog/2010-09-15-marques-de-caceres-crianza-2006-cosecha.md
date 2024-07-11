@@ -2,9 +2,7 @@
 title: "Marqués de Cáceres Crianza 2006 Cosecha"
 date: "2010-09-15"
 categories:
-  - "garnacha"
-  - "red-wine-review"
-  - "tempranillo"
+  - "wine"
 tags:
   - "2006-vintage"
   - "beachside-resident"
@@ -21,7 +19,9 @@ tags:
   - "spanish-wine"
 ---
 
-**Marqués de Cáceres Crianza 2006 Cosecha** Rioja, Spain ![](http://www.thegourmez.com/gourmez/photos/marquedecaceres.jpg)
+**Region:** Rioja, Spain
+
+ ![](http://www.thegourmez.com/gourmez/photos/marquedecaceres.jpg)
 
 Everything I like about Spanish wine is in this glass---spicy, leathery, fruit that is ripe to bursting, cayenne, maybe even a mild curry. The first notes, though, were of chocolate and raspberry.  The chocolate's mostly from the nose, but it helps mellow the wine, almost giving it a slight film like milk chocolate occasionally has.
 
@@ -35,7 +35,7 @@ The flavors in this Crianza Cosecha, which is a blend of tempranillo and grenach
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
 
 
-Other Bloggers' Thoughts
+**Other Bloggers' Thoughts**
 
 The [Beachside Resident](http://thebeachsideresident.com/2009/03/marques-de-caceres-crianza/) on the 2003 vintage
 

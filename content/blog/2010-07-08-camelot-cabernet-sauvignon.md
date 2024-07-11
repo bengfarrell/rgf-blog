@@ -2,8 +2,7 @@
 title: "Camelot Cabernet Sauvignon"
 date: "2010-07-08"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "camelot-cabernet-sauvignon"
   - "chocolate-note"
@@ -13,9 +12,7 @@ tags:
   - "soft-tannins"
 ---
 
-**Camelot Cabernet Sauvignon**
-
-California
+**Region:** California
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/camelotcabsav.jpg)
 

@@ -17,7 +17,11 @@ tags:
   - "rtp-lunch"
 ---
 
-**A Gracious Plenty Cafe** \*CLOSED\* 3530 S. Alston Avenue, Durham [Website](http://www.agraciousplentyinc.com/) Hours: Mon--Fri, 11--2 Lunch: $5.30–$7.80
+3530 S. Alston Avenue\
+Durham, NC\
+[Website](http://www.agraciousplentyinc.com/)\
+Hours: Mon–Fri, 11–2\
+Lunch: $5.30–$7.80
 
 ![](http://www.thegourmez.com/gourmez/photos/agraciousplenty5.JPG)
 
@@ -27,7 +31,7 @@ A Gracious Plenty looks appealing from the outside with a yellow storefront, gre
 
 ![](http://www.thegourmez.com/gourmez/photos/agraciousplenty1.JPG)
 
-The inside was stuffy by contrast, with very plain décor and tables. Definitely opt for the outdoors if it's not too warm of a day. The staff and owner are very friendly and get props for remembering my name right away. Fewer props go to the length of time it took for my food to come--far, far too long for lunch time. I overheard someone saying they had catering problems that morning, though, so it may generally be faster than the thirty minutes I waited for my meal. Varieties of quesadillas, salads, flat bread pizzas, burgers, sandwiches, and wraps are the standard menu options with plenty for vegetarians. There's also a specials menu that rotates weekly. This week's was all variations on club sandwiches. I went for a regular menu option, the mesquite grilled tuna sandwich on a kaiser roll.
+The inside was stuffy by contrast, with very plain décor and tables. Definitely opt for the outdoors if it's not too warm of a day. The staff and owner are very friendly and get props for remembering my name right away. Fewer props go to the length of time it took for my food to come—far, far too long for lunch time. I overheard someone saying they had catering problems that morning, though, so it may generally be faster than the thirty minutes I waited for my meal. Varieties of quesadillas, salads, flat bread pizzas, burgers, sandwiches, and wraps are the standard menu options with plenty for vegetarians. There's also a specials menu that rotates weekly. This week's was all variations on club sandwiches. I went for a regular menu option, the mesquite grilled tuna sandwich on a kaiser roll.
 
 ![](http://www.thegourmez.com/gourmez/photos/agraciousplenty2.JPG)
 

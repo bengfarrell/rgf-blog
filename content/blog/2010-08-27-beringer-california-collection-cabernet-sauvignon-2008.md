@@ -2,8 +2,7 @@
 title: "Beringer California Collection Cabernet Sauvignon 2008"
 date: "2010-08-27"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "beringer"
   - "bleach"
@@ -16,7 +15,7 @@ tags:
   - "strawberry"
 ---
 
-**Beringer California Collection Cabernet Sauvignon 2008** Napa Valley, CA
+**Region:** Napa Valley, CA
 
 ![](http://www.thegourmez.com/gourmez/photos/beringercabsav.jpg)
 
@@ -36,6 +35,6 @@ I think my taste buds may have been screwed by all that cheap merlot from earlie
 
 Pleasant berries on the nose.  A surprisingly bright core of cherry and tasty strawberry on the palate.  Really a VERY light red for a cabernet sauvignon.  Almost no tannins to speak of.  And some pleasant but very faint spice notes - vanilla, I'd say.  I haven't been paying close attention to the specifics of recent vintages.  Did they get a lot of rain in 2007/2008?  I won't call this wine watery because it has flavor throughout.  It's just really light for this varietal.  If your preference is heavy cabs, this is not the wine for you.  But for a light red to sip - say on a summer's evening - this is not bad.  Fruity, straightforward, simple, drinkable.
 
-**Wow. Guess we had some different opinions on that wine.**
+_The Gourmez:_ Wow. Guess we had some different opinions on that wine.
 
 _Reviewed 8.11.10._

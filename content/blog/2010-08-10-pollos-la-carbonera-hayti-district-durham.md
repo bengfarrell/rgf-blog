@@ -2,7 +2,6 @@
 title: "Pollos La Carbonera (Hayti District, Durham) *CLOSED*"
 date: "2010-08-10"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "barbacoa"
@@ -15,7 +14,10 @@ tags:
   - "taco"
 ---
 
-**Pollos La Carbonera** \*CLOSED\* 606 Fayetteville Road Hayti District, Durham $2–$8 per item
+606 Fayetteville Road\
+Hayti District\
+Durham, NC\
+$2–$8 per item
 
 ![](http://www.thegourmez.com/gourmez/photos/polloslacarbonara01.JPG)
 

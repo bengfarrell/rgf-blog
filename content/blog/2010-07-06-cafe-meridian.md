@@ -2,7 +2,6 @@
 title: "Cafe Meridian"
 date: "2010-07-06"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "big-burrito"
@@ -15,7 +14,11 @@ tags:
   - "sandwiches"
 ---
 
-**Café Meridian** 2500 Meridian Parkway & Highway 55 RTP/South Durham Hours: 11-2 Monday through Friday Whole sandwiches and a side: $5.75–$7 Daily special entrees: $4.99–$8.99
+2500 Meridian Parkway & Highway 55\
+RTP, South Durham, NC\
+Hours: 11-2 Monday through Friday\
+Whole sandwiches and a side: $5.75–$7\
+Daily special entrees: $4.99–$8.99
 
 ![](http://www.thegourmez.com/gourmez/photos/meridiancafe06.JPG)
 

@@ -2,8 +2,7 @@
 title: "Redwood Creek Pinot Noir 2009"
 date: "2010-07-15"
 categories:
-  - "pinot-noir"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2009-vintage"
   - "adventures-in-9-wines"
@@ -16,7 +15,8 @@ tags:
   - "splendor-and-folly"
 ---
 
-**Redwood Creek Pinot Noir 2009** Modesto, California, bottling of French grapes
+**Other Words on the Label**\
+Modesto, California, bottling of French grapes
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/redwoodcreekpinot.jpg)
 

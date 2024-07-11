@@ -2,9 +2,8 @@
 title: "Absente Minded @ Posta Tuscan Grille"
 date: "2010-08-31"
 categories:
-  - "spirits"
+  - "cocktails"
   - "bars"
-  - "bars-in-raleigh-nc"
 tags:
   - "absente-minded"
   - "cocktail"
@@ -19,7 +18,10 @@ tags:
   - "triangle-foodie-tweetup"
 ---
 
-**Absente Minded** Posta Tuscan Grille, Raleigh [Website](http://www.postatuscangrille.com/news.html) $12
+**Posta Tuscan Grille**\
+Raleigh, NC\
+[Website](http://www.postatuscangrille.com/news.html)\
+$12
 
 ![absenteminded](http://s3.amazonaws.com/thegourmez-wpmedia/2010/08/absenteminded.jpg "absenteminded")
 

@@ -2,8 +2,7 @@
 title: "Novella Synergy 2008"
 date: "2010-08-18"
 categories:
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2008"
   - "de-cantation"
@@ -14,7 +13,7 @@ tags:
   - "strawberry"
 ---
 
-**Novella Synergy 2008** Paso Robles, CA
+**Region:** Paso Robles, CA
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/novellasynergy.JPG)
 

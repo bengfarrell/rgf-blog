@@ -3,7 +3,7 @@ title: "Caiprosca @ Bahama Breeze"
 date: "2010-08-24"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags: 
   - "bahama-breeze"
   - "caipirinha"
@@ -13,7 +13,9 @@ tags:
   - "mango-vodka"
 ---
 
-**Caipirosca** Bahama Breeze, Raleigh [Website](http://www.bahamabreeze.com/)
+**Bahama Breeze**\
+Raleigh, NC\
+[Website](http://www.bahamabreeze.com/)
 
 ![](http://wwww.rebeccagomezfarrell.com/gourmez/photos/caipirosca.jpg)
 

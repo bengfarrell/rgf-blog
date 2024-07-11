@@ -3,7 +3,7 @@ title: "Cherry-Aid @ Buffalo Wings and Rings (Morrisville)"
 date: "2010-07-05"
 categories:
   - "bars"
-  - "bars-in-morrisville-nc"
+  - "cocktails"
 tags:
   - "3-olives-vodka"
   - "buffalo-wings-and-rings"
@@ -14,7 +14,8 @@ tags:
   - "sour-patch-kids"
 ---
 
-**Cherry-Aid** [Buffalo Wings and Rings](http://www.buffalowingsandrings.com/locations_store.php?id=069) Grace Park, Morrisville
+**[Buffalo Wings and Rings](http://www.buffalowingsandrings.com/locations_store.php?id=069)**\
+Grace Park, Morrisville, NC
 
 ![](http://www.thegourmez.com/gourmez/photos/cherryaid.jpg)
 

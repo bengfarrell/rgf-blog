@@ -2,8 +2,7 @@
 title: "VINTJS Cabernet Sauvignon 2006"
 date: "2010-08-11"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2006"
   - "allspice"
@@ -16,7 +15,7 @@ tags:
   - "yayas-dream"
 ---
 
-**VINTJS Cabernet Sauvignon 2006** Napa Valley, CA
+**Region:** Napa Valley, CA
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/vintjscabsav.jpg)
 
@@ -28,7 +27,8 @@ A pleasant wine with a good amount of flavors mingling together--the spices are 
 <div class="caption">
 
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
-  Another Blogger's Thoughts:
+
+**Other Bloggers' Thoughts**
 
 [Yaya's Dream](http://yayasdream.blogspot.com/2009/11/thanksgiving-wines.html)
 

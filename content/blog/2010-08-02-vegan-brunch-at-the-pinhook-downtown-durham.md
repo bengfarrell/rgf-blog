@@ -3,6 +3,7 @@ title: "Vegan Brunch at the Pinhook (Downtown Durham) *DISCONTINUED*"
 date: "2010-08-02"
 categories: 
   - "restaurants"
+  - "cocktails"
 tags: 
   - "bloody-mary"
   - "chef-shirle"
@@ -17,7 +18,11 @@ tags:
   - "vegan-food"
 ---
 
-**Monthly Vegan Brunch at the Pinhook** \*DISCONTINUED) 117 West Main, Downtown Durham [Pinhook website](http://www.thepinhook.com/) [The Fiction Kitchen website](http://thefictionkitchen.com/) $7, 12 pm to 2 pm, first Sunday of the month
+117 West Main\
+Downtown Durham\
+[Pinhook website](http://www.thepinhook.com/)\
+[The Fiction Kitchen website](http://thefictionkitchen.com/)\
+$7, 12 pm to 2 pm, first Sunday of the month
 
 Close to a year ago now, the Pinhook, a downtown Durham rock venue, started hosting vegan brunches on the first Sundays of the month. Chef Shirle was the cook for these relaxed dining events back then, but the cooking was transferred over to the Fiction Kitchen a few months ago. I'd been hearing about the brunches since they first started, and being someone who never minds when meat goes missing from a meal, I wanted to check them out. The stars finally aligned this past weekend. The first thing I learned:
 

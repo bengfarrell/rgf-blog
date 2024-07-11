@@ -2,8 +2,7 @@
 title: "Yellow Jersey Sauvignon Blanc 2007"
 date: "2010-08-30"
 categories:
-  - "sauvignon-blanc"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2007"
   - "butterscotch"
@@ -14,7 +13,7 @@ tags:
   - "yeloow-jersey"
 ---
 
-**Yellow Jersey Sauvignon Blanc 2007** Burgundy, France
+**Region:** Burgundy, France
 
 ![](http://www.thegourmez.com/gourmez/photos/yellowjerseysavblanc.jpg)
 

@@ -3,10 +3,8 @@ title: "Banana Split @ Beyu Caffe"
 date: "2010-09-03"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
-  - "coffee-shop"
-  - "spirits"
-  - "vodka"
+  - "coffee-shops"
+  - "cocktails"
 tags:
   - "banana-split-cocktail"
   - "bars"
@@ -20,7 +18,10 @@ tags:
   - "stoli"
 ---
 
-**Banana Split** Beyu Caffe, Durham [Website](http://www.beyucaffe.com/) $8
+**Beyu Caffe**\
+Durham, NC\
+[Website](http://www.beyucaffe.com/)\
+$8
 
 ![](http://www.thegourmez.com/gourmez/photos/beyucaffe11.jpg)
 

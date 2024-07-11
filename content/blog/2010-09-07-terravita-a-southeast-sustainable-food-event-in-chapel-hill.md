@@ -3,9 +3,7 @@ title: "TerraVITA: A Southeast Sustainable Food Event in Chapel Hill"
 date: "2010-09-07"
 categories: 
   - "events"
-  - "restaurants"
-  - "travel-guide"
-  - "travel-guide"
+  - "announcements"
 tags: 
   - "biodynamic"
   - "carolina-farm-stwardship-association"
@@ -27,13 +25,16 @@ I have info on an upcoming foodie event to share with you all today, by way of C
 
 The details:
 
-What: TerraVITA Food & Wine Event Where: Southern Village Green, 400 Market St., Chapel Hill, NC 27516 When: October 16, 2010, 1--5 p.m. for the big event Who is Confirmed: Bill Smith (Crook's Corner), Scott Crawford (Herons), Chip Smith (Bonne Soiree), Amy Tornquist (Watt's Grocery), Matthew Beason (Six Plates), Jason Smith (18 Seaboard), John Stehling (Early Girl Eatery), Vivian Howard (Chef & The Farmer), Stephen Ribustello (On The Square), Seth Kingsbury (Pazzo), Adam Rose (Il Palio), Jimmy Reale (Crossroads Restaurant), Sarig Agasi (Zely & Ritz), Jeff Barney (Saxapahaw General Store), Scott Howell (Nana's), Jay Pierce (Lucky 32) and on and on.  New Belgium, Peak Brewery, Bonterra and Mendocino Wine Company are just a few of the beverage folks that will be present.
+What: TerraVITA Food & Wine Event\
+Where: Southern Village Green, 400 Market St., Chapel Hill, NC 27516\
+When: October 16, 2010, 1–5 p.m. for the big event\
+Who is Confirmed: Bill Smith (Crook's Corner), Scott Crawford (Herons), Chip Smith (Bonne Soiree), Amy Tornquist (Watt's Grocery), Matthew Beason (Six Plates), Jason Smith (18 Seaboard), John Stehling (Early Girl Eatery), Vivian Howard (Chef & The Farmer), Stephen Ribustello (On The Square), Seth Kingsbury (Pazzo), Adam Rose (Il Palio), Jimmy Reale (Crossroads Restaurant), Sarig Agasi (Zely & Ritz), Jeff Barney (Saxapahaw General Store), Scott Howell (Nana's), Jay Pierce (Lucky 32) and on and on. New Belgium, Peak Brewery, Bonterra and Mendocino Wine Company are just a few of the beverage folks that will be present.
 
 Here's what Colleen had to say about herself and TerraVITA, which will hopefully become an annual Southeast regional event held in the Triangle.
 
 > Lots of folks are talking about sustainability, but I started my career in 1993 in New York City after being recruited out of college by one of the largest agricultural chemical companies in the world.  The company was purchased a decade ago and no longer exists under the same name, but the experience shaped my beliefs and understanding of the state of the industry! I moved to Atlanta with my husband in 1996, and as I educated myself on behalf of my family, my interest in educating others on the affects and effects of chemical pesticides on the environment grew.  I subscribed to my local CSA, joined a goat co-op, made my own cheese, raised my own backyard chickens, and began an organic gardening program at my daughter's inner-city school.
 > 
-> When we decided to move back to the Triangle, I conceived of the ideal event---geared to educating consumers, while also serving the very best of what sustainable agriculture has to offer---great food, great beverage.  And the key is all of it must be truly delicious and produced with complete care for the environment, including animals and people . . .
+> When we decided to move back to the Triangle, I conceived of the ideal event—geared to educating consumers, while also serving the very best of what sustainable agriculture has to offer---great food, great beverage.  And the key is all of it must be truly delicious and produced with complete care for the environment, including animals and people . . .
 > 
 > With TerraVITA, we have the best chefs from the state of NC and some of the best beverages from around the world, and our interest is to draw folks from across the Southeast to set in motion an annual pilgrimage of sorts.  We'll have great bluegrass music playing and we'll be raising money for two very worthy nonprofits: one dedicated to supporting organic farmers that produce wonderful food (Carolina Farm Stewardship Association), and one dedicated to feeding good food to hungry children (TABLE).
 

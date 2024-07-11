@@ -4,6 +4,7 @@ date: "2010-08-05"
 categories:
   - "recipes"
   - "sake"
+  - "cocktails"
 tags:
   - "almond-milk"
   - "avocado"
@@ -17,11 +18,17 @@ tags:
   - "yuri-kato"
 ---
 
-**Butter in the Forest** Adapted from _Japanese Cocktails_ by Yuri Kato
+**Butter in the Forest**\
+Adapted from _Japanese Cocktails_ by Yuri Kato
 
 ![](http://www.thegourmez.com/gourmez/photos/butterforest.jpg)
 
-1/4 avocado 1 tsp honey 2 shots junmai nigori sake 3/4 shot vodka 1/4 shot triple sec 1 shot almond milk
+1/4 avocado\
+1 tsp honey\
+2 shots junmai nigori sake\
+3/4 shot vodka\
+1/4 shot triple sec\
+1 shot almond milk
 
 I made this drink from a sake cocktail recipe in order to use up less than a glass of sake. I had to alter ingredients due to what I had available; I used a combo of vodka and triple sec  rather than citrus vodka, guesstimated the amount of honey (getting a measuring spoon all sticky is totally not worth it) and used almond milk rather than soy. With all that, it probably needs a new title, but my creativity juice is zapped.
 

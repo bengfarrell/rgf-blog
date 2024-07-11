@@ -3,9 +3,7 @@ title: "Cruzan 9 Promotional Event at the Busy Bee"
 date: "2010-09-27"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
   - "events"
-  - "rum-review"
   - "spirits"
 tags: 
   - "appetizers"

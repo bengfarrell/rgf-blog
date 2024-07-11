@@ -2,7 +2,6 @@
 title: "Dos Perros (Downtown Durham)"
 date: "2010-07-16"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "bunuelos"
@@ -21,7 +20,10 @@ tags:
   - "restaurant"
 ---
 
-**Dos Perros** 200 N. Magnum Downtown Durham [Website](http://dosperrosrestaurant.com/) Entrees: $12-22
+200 N. Magnum\
+Downtown Durham, NC\
+[Website](http://dosperrosrestaurant.com/)\
+Entrees: $12-22
 
 ![](http://www.thegourmez.com/gourmez/photos/dosperros01.JPG)
 

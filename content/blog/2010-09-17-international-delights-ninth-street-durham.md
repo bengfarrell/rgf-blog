@@ -2,8 +2,8 @@
 title: "International Delights"
 date: "2010-09-17"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
+  - "announcements"
 tags:
   - "durham"
   - "falafel"
@@ -16,7 +16,10 @@ tags:
   - "tahini"
 ---
 
-**International Delights** 740 Ninth Street, Durham Sandwiches/Gyros: $6–$8 Platters: $7–$10
+740 Ninth Street\
+Durham, NC\
+Sandwiches/Gyros: $6–$8\
+Platters: $7–$10
 
 ![](http://www.thegourmez.com/gourmez/photos/idelights01.JPG)
 

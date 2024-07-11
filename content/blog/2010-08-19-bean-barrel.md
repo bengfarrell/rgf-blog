@@ -2,8 +2,7 @@
 title: "Bean & Barrel"
 date: "2010-08-19"
 categories:
-  - "coffee-shop"
-  - "chapel-hill-coffee-shop-reviews"
+  - "coffee-shops"
 tags:
   - "bar"
   - "bean-barrel"
@@ -17,7 +16,9 @@ tags:
   - "grill"
 ---
 
-**Bean & Barrel** 50100 Governor's Drive Governor's Village, Chapel Hill [Website](http://www.beanandbarrel.com/index.html)
+50100 Governor's Drive\
+Governor's Village, Chapel Hill, NC\
+[Website](http://www.beanandbarrel.com/index.html)
 
 ![](http://www.thegourmez.com/gourmez/photos/beanbarrel04.JPG)
 

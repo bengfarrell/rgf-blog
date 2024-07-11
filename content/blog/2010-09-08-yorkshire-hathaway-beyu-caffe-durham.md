@@ -3,7 +3,7 @@ title: "Yorkshire Hathaway @ Beyu Caffe"
 date: "2010-09-08"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "beyu-caffe"
   - "butterscotch-schnapps"
@@ -14,7 +14,10 @@ tags:
   - "yorkshire-hathaway"
 ---
 
-**Yorkshire Hathaway** Beyu Caffe, Durham [Website](http://www.beyucaffe.com/) $6.50
+**Beyu Caffe**\
+Durham, NC\
+[Website](http://www.beyucaffe.com/)\
+$6.50
 
 ![](http://www.thegourmez.com/gourmez/photos/beyucaffe12.jpg)
 

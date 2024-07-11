@@ -3,7 +3,7 @@ title: "Sicilian Firefly @ Serena"
 date: "2010-09-10"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags: 
   - "banana-schnapps"
   - "cocktail"
@@ -17,12 +17,14 @@ tags:
   - "sicilian-firefly"
 ---
 
-**Sicilian Firefly** Serena, Durham [Website](http://www.serena-rtp.com/)
+**Serena**\
+Durham, NC\
+[Website](http://www.serena-rtp.com/)
 
 ![](http://www.thegourmez.com/gourmez/photos/sicilianfirefly.jpg)
 
 This pretty, and nicely sized drink, is made with banana schnapps, coconut vodka, and melon liqueur. I admit, the menu description sold me with its poetic waxings about the sweet hues of dancing Sicilian fireflies. The flavors dance as well as their namesakes, with the coconut and melon pairing smoothly. The melon liqueur, definitely not Midori, brought out some nice floral notes too. It was sweet but in a small enough portion that it never became cloying.
 
-Avocado
+![Avocado](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
 _Reviewed 9.1.10._

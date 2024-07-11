@@ -3,7 +3,7 @@ title: "White Satin @ Bahama Breeze"
 date: "2010-08-20"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags: 
   - "bahama-breeze"
   - "cocktail"
@@ -17,7 +17,11 @@ tags:
   - "white-satin"
 ---
 
-**White Satin** Bahama Breeze, Raleigh [Website](http://www.bahamabreeze.com/) ![](http://wwww.rebeccagomezfarrell.com/gourmez/photos/whitesatin.jpg)
+**Bahama Breeze**\
+Raleigh, NC\
+[Website](http://www.bahamabreeze.com/)\
+
+![](http://wwww.rebeccagomezfarrell.com/gourmez/photos/whitesatin.jpg)
 
 This drink started out very, very well. It's a delicious combination of coconut rum, Cointreau, coconut milk, and just a hint of ginger. Served in a large martini glass, the first half of the drink was a heavenly blend of those elements, with the orange and ginger flavors highlighting the lusciousness of coconut, though a little more Cointreau would have been nice.
 

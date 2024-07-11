@@ -4,7 +4,7 @@ date: "2010-09-30"
 categories: 
   - "events"
   - "restaurants"
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "abundance-foundation"
   - "all-about-beer-magazine"

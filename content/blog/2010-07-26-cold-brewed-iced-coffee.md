@@ -3,9 +3,8 @@ title: "Cold-Brewed Iced Coffee"
 date: "2010-07-26"
 categories: 
   - "announcements"
-  - "coffee-shop"
-  - "recipes-2"
-  - "writing"
+  - "coffee-shops"
+  - "recipes"
 tags: 
   - "coffee"
   - "cold-brewed-coffee"
@@ -24,7 +23,7 @@ Here's what you need:
 - Water. Cold or room temperature works fine. I used 3 cups.
 - Coffee ground to medium thickness. I used two-thirds of a cup. You do not want fine grounds for this.
 
-So the important part is keeping that ratio of coffee to water---one-third of a cup of grounds to a cup and a half of water. Pour them into your container/glass, give a little stir (might not even be necessary), then let sit for 12 hours on either your counter or in the fridge. Strain into your drinking glass and serve over ice. Ta-da!
+So the important part is keeping that ratio of coffee to water—one-third of a cup of grounds to a cup and a half of water. Pour them into your container/glass, give a little stir (might not even be necessary), then let sit for 12 hours on either your counter or in the fridge. Strain into your drinking glass and serve over ice. Ta-da!
 
 It worked perfectly for me, and I just finished my first glass of homemade iced coffee. It's easier than making it hot even; you just have to plan ahead. Supposedly, this method reduces the amount of acidity and bitterness in the coffee, which are flavors that the hot water bring out more. Did I notice that? Nope. It was still acidic and bitter but that's okay by this black coffee drinker. I would need to do a side-by-side comparison to see if the two methods really taste differently or not.
 

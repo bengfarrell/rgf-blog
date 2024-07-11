@@ -2,8 +2,7 @@
 title: "Augey Red Bordeaux 2007"
 date: "2010-07-21"
 categories:
-  - "red-bordeaux"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2007"
   - "augey-bordeaux"
@@ -16,7 +15,7 @@ tags:
   - "wood"
 ---
 
-**Augey 2007 Bordeaux** France
+**Region:** France
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/auguybordeaux.jpg)
 

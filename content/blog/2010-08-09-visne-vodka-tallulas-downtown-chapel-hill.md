@@ -3,7 +3,7 @@ title: "Visne Vodka @ Tallulas (Downtown Chapel Hill)"
 date: "2010-08-09"
 categories:
   - "bars"
-  - "bars-chapel-hill-nc"
+  - "cocktails"
 tags:
   - "absolut-kurant"
   - "chapel-hill"
@@ -17,7 +17,10 @@ tags:
   - "visne-vodka"
 ---
 
-**Visne Vodka** 456 W. Franklin Street Downtown Chapel Hill [Website](http://www.talullas.com/) $9
+456 W. Franklin Street\
+Downtown Chapel Hill, NC\
+[Website](http://www.talullas.com/)\
+$9
 
 ![](http://www.thegourmez.com/gourmez/photos/tallulas05.JPG)
 

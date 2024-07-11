@@ -1,8 +1,8 @@
 ---
-title: "Travelogue---Wilmington, NC"
+title: "Travelogue—Wilmington, NC"
 date: "2010-08-17"
 categories: 
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "cape-fear-memorial-bridge"
   - "cape-fear-river"

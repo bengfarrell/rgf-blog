@@ -2,8 +2,7 @@
 title: "Shelton Vineyards Madison Lee Red Wine"
 date: "2010-09-29"
 categories: 
-  - "red-bordeaux"
-  - "red-wine-review"
+  - "wine"
 tags: 
   - "dark-chocolate"
   - "east-coast-wines"
@@ -17,7 +16,7 @@ tags:
   - "vintage-connections-wine-info"
 ---
 
-**Shelton Vineyards Madison Lee Red Wine** Dobson, NC
+**Region:** Dobson, NC
 
 ![](http://www.thegourmez.com/gourmez/photos/madisonlee.jpg)
 
@@ -27,7 +26,7 @@ It tastes much better than I expected, and feels smooth and velvety. Rhubarb and
 
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")
 
-Other Bloggers' Thoughts
+**Other Bloggers' Thoughts**
 
 [Vintage Connections Wine Info](http://vintageconnectionswineinfo.blogspot.com/2010/03/wine-tips-of-week-17-wines-of-usa-102.html)
 

@@ -3,7 +3,7 @@ title: "French Quarter Cosmopolitan (Papa Mojo's, Durham)"
 date: "2010-07-19"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "citrus-vodka"
   - "cosmopolitan"
@@ -16,7 +16,9 @@ tags:
   - "sour-mix"
 ---
 
-French Quarter Cosmopolitan [Papa Mojo's Roadhouse](http://www.papamojosroadhouse.com/) Greenwood Commons, Durham [Restaurant Review](../../../../../?p=478)
+**[Papa Mojo's Roadhouse](http://www.papamojosroadhouse.com/)**\
+Greenwood Commons, Durham, NC\
+[Restaurant Review](https://thegourmez.com/blog/2009/08/18/restaurant-and-cocktail-review-papa-mojos-roadhouse-brunch/)
 
 ![](http://www.thegourmez.com/gourmez/photos/frenchquartercosmo.jpg)
 

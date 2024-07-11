@@ -1,5 +1,5 @@
 ---
-title: "[One] Restaurant, Chapel Hill"
+title: "[One] Restaurant"
 date: "2010-08-03"
 categories: 
   - "dining-chapel-hill-nc"
@@ -19,7 +19,11 @@ tags:
   - "upscale"
 ---
 
-**\[One\] Restaurant** 100 Meadowmont Village Circle Meadowmont Village, Chapel Hill [Website](http://www.one-restaurant.com/default.aspx) Small plates: $8–$14 Entrees: $17–$24
+100 Meadowmont Village Circle\
+Meadowmont Village, Chapel Hill, NC\
+[Website](http://www.one-restaurant.com/default.aspx)\
+Small plates: $8–$14\
+Entrees: $17–$24
 
 ![](http://www.thegourmez.com/gourmez/photos/one01.JPG)
 
@@ -27,11 +31,11 @@ tags:
 
 ![](http://www.thegourmez.com/gourmez/photos/one02.JPG)
 
-I loved the cut-out backs of the gray and red chairs, but I've always been an oddball who thinks gray makes a great color for room décor (my mother's complaints when I painted my room in essentially the same color scheme as \[one\]'s in high school were many---that may have been the point). The kitchen is completely open-air with no divisions from the dining room whatsoever except for the blue-underlit bar's counter. There's a large wine collection on the left as you enter the restaurant (the wine bottle list is available by iPad), and there's plenty of seating to accommodate both small groups and large parties. I liked the ambience a lot; it felt like a great option if you are looking for a big-city feel in the midst of the relaxed Triangle. A fresh, flat focaccia round with cracked salt on top was served before our small plate of steamed kabocha squash dumplings with honey-glazed cipollini onions in a yellow squash curry broth.
+I loved the cut-out backs of the gray and red chairs, but I've always been an oddball who thinks gray makes a great color for room décor (my mother's complaints when I painted my room in essentially the same color scheme as \[one\]'s in high school were many—that may have been the point). The kitchen is completely open-air with no divisions from the dining room whatsoever except for the blue-underlit bar's counter. There's a large wine collection on the left as you enter the restaurant (the wine bottle list is available by iPad), and there's plenty of seating to accommodate both small groups and large parties. I liked the ambience a lot; it felt like a great option if you are looking for a big-city feel in the midst of the relaxed Triangle. A fresh, flat focaccia round with cracked salt on top was served before our small plate of steamed kabocha squash dumplings with honey-glazed cipollini onions in a yellow squash curry broth.
 
 ![](http://www.thegourmez.com/gourmez/photos/one03.JPG)
 
-I found the use of squash in both the dumplings and sauce a little redundant, but there was an unexpected kick to the curry broth that heightened the flavors nicely. My husband doesn't like squash usually, but he did like this preparation of it. It was a pretty small portion--an extra dumpling would have been just right. Our friends started with the roasted peach and tomato gazpacho---declared to be "very chunky"---and the Broken Arrow Ranch antelope carpaccio that seemed a bit too small also but was very good.
+I found the use of squash in both the dumplings and sauce a little redundant, but there was an unexpected kick to the curry broth that heightened the flavors nicely. My husband doesn't like squash usually, but he did like this preparation of it. It was a pretty small portion--an extra dumpling would have been just right. Our friends started with the roasted peach and tomato gazpacho—declared to be "very chunky"—and the Broken Arrow Ranch antelope carpaccio that seemed a bit too small also but was very good.
 
 More bread came out next including a Guinness bread with roasted barley that had a very earthy taste to it and an olive oil ciabetta that was deliciously rich from that oil.
 

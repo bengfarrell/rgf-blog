@@ -2,7 +2,6 @@
 title: "William's Gourmet Kitchen, 2nd visit"
 date: "2010-09-13"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "cheeseburger"
@@ -12,7 +11,12 @@ tags:
   - "williams-gourmet-kitchen"
 ---
 
-**William's Gourmet Kitchen** 2114 East Highway 54 Highways 55 and 54 Crossroads, Durham [http://www.williamsgk.com/](http://www.williamsgk.com/) Sandwiches:  $4.29–$6.49 Sides:  $0.99–$2.49
+2114 East Highway 54\
+Highways 55 and 54 Crossroads\
+Durham, NC\
+[http://www.williamsgk.com/](http://www.williamsgk.com/)\
+Sandwiches: $4.29–$6.49\
+Sides: $0.99–$2.49
 
 A year ago, I posted my [first review](http://www.thegourmez.com/?p=464) of William's Gourmet Kitchen, and I thought it was pretty good, definitely a step up from fast food, but nothing that made me crave running back there again. With a few calls to try it again from Carpe Durham and an afternoon waiting for my car to get fixed in the area, I finally did go back.
 

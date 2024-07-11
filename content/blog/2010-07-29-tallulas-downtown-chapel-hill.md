@@ -2,7 +2,6 @@
 title: "Tallulas (Downtown Chapel Hill)"
 date: "2010-07-29"
 categories:
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags:
   - "adana-kebob"
@@ -20,7 +19,11 @@ tags:
   - "visne-cherry"
 ---
 
-**Tallulas** 456 W. Franklin Street Downtown Chapel Hill [Website](http://www.talullas.com/) Pizzas/Mezzes: $7–$12 Entrees: $15--22
+456 W. Franklin Street\
+Downtown Chapel Hill, NC\
+[Website](http://www.talullas.com/)\
+Pizzas/Mezzes: $7–$12\
+Entrees: $15–22
 
 ![](http://www.thegourmez.com/gourmez/photos/tallulas11.JPG)
 
@@ -40,7 +43,7 @@ For my entrée, I had the yogurtlu kebablar, a chicken kebob baked with a tomato
 
 ![](http://www.thegourmez.com/gourmez/photos/tallulas09.JPG)
 
-The yogurt contributed a welcome element of coolness to the warm dish. The chicken was delicate and marinated with great herbs and had plenty of char from the grill. Bread cubes gave the sauce, which had a sweet and mild vinegar flavor, a great texture so it did not seem soupy. Somehow, all these elements came together to give it the flavor of artichoke hearts-I don't know how, but it did! Since I like artichoke hearts, I had no complaints, only praise.
+The yogurt contributed a welcome element of coolness to the warm dish. The chicken was delicate and marinated with great herbs and had plenty of char from the grill. Bread cubes gave the sauce, which had a sweet and mild vinegar flavor, a great texture so it did not seem soupy. Somehow, all these elements came together to give it the flavor of artichoke hearts—I don't know how, but it did! Since I like artichoke hearts, I had no complaints, only praise.
 
 My husband had the yabrak doner kebabi, a style of cooking lamb that sounded similar to schwarma (cooked and marinated on a skewer). They only prepare it on weekends.
 
