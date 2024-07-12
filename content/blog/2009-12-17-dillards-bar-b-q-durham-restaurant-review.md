@@ -1,5 +1,5 @@
 ---
-title: "Dillard's Bar-B-Q (Durham)—Restaurant Review"
+title: "Dillard's Bar-B-Q (Durham)"
 date: "2009-12-17"
 categories:
   - "durham-restaurant-reviews"

@@ -1,9 +1,8 @@
 ---
-title: "Villa Sonia Pinot Grigio Piave 2008--Wine Review"
+title: "Villa Sonia Pinot Grigio Piave 2008"
 date: "2010-02-16"
 categories:
-  - "pinot-grigio-gris"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2008-vintage"
   - "casaba"
@@ -14,7 +13,7 @@ tags:
   - "villa-sonia-pinot-grigio-piave"
 ---
 
-Wine: Villa Sonia Pinot Grigio Piave 2008 Region: Trevino, Italy
+**Region:** Trevino, Italy
 
 The Villa Sonia Pinot Grigio Piave 2008 has very little color, which fits as it also has very little body.  There was no smell I could discern. The tanginess hits you first, followed by a very light melon flavor, perhaps casaba. As the tanginess comes back, the flavor becomes staunchly that of star fruit. Sugar seems to settle down at the end of each sip.
 

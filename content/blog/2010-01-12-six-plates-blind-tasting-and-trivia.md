@@ -3,9 +3,8 @@ title: "Six Plates Blind Tasting and Trivia *REOPENED AS BLACK TWIG CIDERY*"
 date: "2010-01-12"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
   - "restaurants"
-  - "tasting-rooms-in-durham-nc"
+  - "tasting-rooms"
 tags: 
   - "big-slow-toms-trivia"
   - "blind-tasting"

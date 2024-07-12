@@ -1,8 +1,7 @@
 ---
-title: "Outdoors Dining Spots---The Carpe Durham List"
+title: "Outdoors Dining Spots—The Carpe Durham List"
 date: "2010-03-23"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "carpe-durham"
@@ -12,7 +11,7 @@ tags:
 
 I'm pulling today's post straight from [Carpe Durham](http://carpedurham.com), where I just posted it there. Read on for recommendations on great spots to eat outside in Durham. I've got reviews of a number of them hanging out around here, too.
 
-> Now that the weather's getting gorgeous, we had a request to put together some recommendations for outside dining. I'm not sure why sitting outside while we eat is so gosh-darn appealing---but it is. So without further ado, here are our recommendations on outdoor dining locations, compiled by the oh-so-scientific method of asking contributors to send in a list and note anything they thought might be helpful in relation to the outside sections of those specific spots. If the name is hyperlinked, it goes to the restaurant's website. If Carpe Durham Review appears, then we have a review up for that spot and click to go to it. Also, feel free to add your own favorite outdoors dining spots in the comments or add notes to any of the ones we've listed.
+> Now that the weather's getting gorgeous, we had a request to put together some recommendations for outside dining. I'm not sure why sitting outside while we eat is so gosh-darn appealing—but it is. So without further ado, here are our recommendations on outdoor dining locations, compiled by the oh-so-scientific method of asking contributors to send in a list and note anything they thought might be helpful in relation to the outside sections of those specific spots. If the name is hyperlinked, it goes to the restaurant's website. If Carpe Durham Review appears, then we have a review up for that spot and click to go to it. Also, feel free to add your own favorite outdoors dining spots in the comments or add notes to any of the ones we've listed.
 > 
 > **9th Street/Broad Street**
 > 

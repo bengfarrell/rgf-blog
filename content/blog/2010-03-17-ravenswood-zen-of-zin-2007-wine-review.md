@@ -1,8 +1,8 @@
 ---
-title: "Ravenswood Zen of Zin 2007---Wine Review"
+title: "Ravenswood Zen of Zin 2007"
 date: "2010-03-17"
 categories:
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2007-vintage"
   - "a-good-time-with-wine"
@@ -17,7 +17,7 @@ tags:
   - "zen-of-zin"
 ---
 
-**Ravenswood Zen of Zin 2007** Sonoma County, CA
+**Region:** Sonoma County, CA
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/zenofzin.jpg)
 

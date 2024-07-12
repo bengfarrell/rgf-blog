@@ -1,5 +1,5 @@
 ---
-title: "Schloss Biebrech Sekt—Wine Review"
+title: "Schloss Biebrech Sekt"
 date: "2009-11-06"
 categories:
   - "schloss-biebrech-sekt"

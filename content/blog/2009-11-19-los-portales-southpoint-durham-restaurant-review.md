@@ -1,5 +1,5 @@
 ---
-title: "Los Portales, Southpoint (Durham)—Restaurant Review"
+title: "Los Portales, Southpoint (Durham)"
 date: "2009-11-19"
 categories:
   - "durham-restaurant-reviews"

@@ -11,7 +11,7 @@ tags:
   - "orange-fluffy-thing"
 ---
 
-It's kitten picture time! At least we're still calling Mazu a kitten, even though she's up to 10 months now and has enough fur to convince us she's much larger than she is. It's pretty impossible to deny that she's a Maine Coon anymore---heck, I'm not sure if she's got any of her calico mother in there at all!
+It's kitten picture time! At least we're still calling Mazu a kitten, even though she's up to 10 months now and has enough fur to convince us she's much larger than she is. It's pretty impossible to deny that she's a Maine Coon anymore—heck, I'm not sure if she's got any of her calico mother in there at all!
 
 But back to the battle. Please enjoy these pictures of Mazu engaged in a fierce war, so fierce that focusing was nearly impossible. What better way to start your Monday than with kitten adorableness? (I may have a sickness, I know).
 
@@ -28,7 +28,7 @@ But back to the battle. Please enjoy these pictures of Mazu engaged in a fierce 
 
 <div class="caption">
 
-![The first catch---shes fascinated, really.](http://www.blastanova.com/photoalbum/Other/Kittens/cats17.JPG) The first catch---she's fascinated, really.</div>
+![The first catch—she's fascinated, really.](http://www.blastanova.com/photoalbum/Other/Kittens/cats17.JPG) The first catch—she's fascinated, really.</div>
 
 
 

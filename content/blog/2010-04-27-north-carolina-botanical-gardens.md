@@ -2,7 +2,7 @@
 title: "North Carolina Botanical Gardens"
 date: "2010-04-27"
 categories: 
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "chapel-hill-hiking"
   - "north-carolina-botanical-garden-pitcher-plants"
@@ -11,7 +11,9 @@ tags:
   - "venus-flytrap"
 ---
 
-[North Carolina Botanical Garden](http://www.ncbg.unc.edu/) 100 Mason Farm Road UNC Campus, Chapel Hill
+[Website](http://www.ncbg.unc.edu/)\
+100 Mason Farm Road\
+UNC Campus, Chapel Hill, NC
 
 ![](http://www.blastanova.com/photoalbum/Adventures/UNC%20Botanical%20Garden/uncbotanicalgarden02.JPG)
 

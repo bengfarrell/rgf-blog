@@ -1,5 +1,5 @@
 ---
-title: "Passion Fruit Sunrise @ Nantucket Cafe (Durham)—Cocktail Review"
+title: "Passion Fruit Sunrise @ Nantucket Cafe (Durham)"
 date: "2009-11-25"
 categories:
   - "bars"

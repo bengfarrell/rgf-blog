@@ -1,9 +1,8 @@
 ---
-title: "Trader Joe's Reserve Syrah 2006—Wine Review"
+title: "Trader Joe's Reserve Syrah 2006"
 date: "2010-02-12"
 categories:
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
 tags:
   - "2006-vintage"
   - "black-raspberry-candy"
@@ -13,7 +12,7 @@ tags:
   - "vino-mundo"
 ---
 
-Wine: **Trader Joe's Reserve Syrah 2006** Region:  Mendocino County, California
+**Region:** Mendocino County, California
 
 I've recently become suspicious of wines labeled _reserve_ or _vintner's selection_ because I haven't found that I like them any more than ones without a fancy classification in their name.  So it was with trepidation that I tried this Trader Joe's wine, even more so because it's a grocery store label--could it really be great quality?
 

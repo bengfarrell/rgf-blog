@@ -2,8 +2,7 @@
 title: "Fuerza Blancos 2009"
 date: "2010-05-05"
 categories:
-  - "torrontes"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2009"
   - "apple"
@@ -17,7 +16,7 @@ tags:
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/fuerzablancos.jpg)
 
-**Fuerza Blancos 2009** Mendoza, Argentina
+**Region:** Mendoza, Argentina
 
 For the record, I'm drinking this white wine blend very chilled, which can lessen the potency of the nose and flavors of the wine.  I smell apple and vanilla.  It tastes of apple also. It's acidic, which makes it seem peppery. Caramel notes are present and some herbal quality, perhaps oregano. There's a white chocolate aftertaste with some floral undertones.
 

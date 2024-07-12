@@ -1,8 +1,7 @@
 ---
-title: "Jamaica Jamaica (Durham)—Restaurant Review"
+title: "Jamaica Jamaica (Durham)"
 date: "2010-01-20"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "coco-bread"
@@ -16,7 +15,11 @@ tags:
   - "the-gourmez-review"
 ---
 
-**Jamaica Jamaica** 4853 NC Highway 55 Intersection of highways 55 and 54, Durham Lunch Entrees: $7-13, $1 more for Dinner Sides: $2-6
+4853 NC Highway 55\
+Intersection of Highways 55 and 54\
+Durham, NC\
+Lunch Entrees: $7-13, $1 more for Dinner\
+Sides: $2-6
 
 ![](http://www.thegourmez.com/gourmez/photos/jamaicajamaica002.jpg)
 

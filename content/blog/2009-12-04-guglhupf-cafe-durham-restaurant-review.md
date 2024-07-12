@@ -1,5 +1,5 @@
 ---
-title: "Guglhupf Cafe (Durham)—Restaurant Review"
+title: "Guglhupf Cafe (Durham)"
 date: "2009-12-04"
 categories:
   - "durham-restaurant-reviews"

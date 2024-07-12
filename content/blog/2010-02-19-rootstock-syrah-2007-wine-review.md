@@ -1,10 +1,8 @@
 ---
-title: "Rootstock Syrah 2007--Wine Review"
+title: "Rootstock Syrah 2007"
 date: "2010-02-19"
 categories:
-  - "red-wine-review"
-  - "shiraz"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2007-vintage"
   - "boozing-it"
@@ -17,7 +15,7 @@ tags:
   - "vanilla"
 ---
 
-**Rootstock Syrah 2007** North Coast, CA
+**Region:** North Coast, CA
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/rootstocksyrah.JPG)
 

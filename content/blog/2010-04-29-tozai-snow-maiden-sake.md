@@ -15,13 +15,13 @@ tags:
   - "unfiltered"
 ---
 
-**Tozai Snow Maiden** Kyoto, Japan
+**Region:** Kyoto, Japan
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/tozaisnowmaiden.jpg)
 
 Snow Maiden is a junmai nigori sake; in other words, it's sake made with no added alcohol, only pure rice water with yeast, and is unfiltered. I've enjoyed unfiltered sake before, so figured why not try a more creamy one?  I think that was a mistake for me. You, of course, may like it as I think my opinion is mainly based on a bad mental image, which is entirely not the sake's fault.
 
-That bad impression is spoiled milk. This is a very acidic sake and combined with its creamy texture, I could not get it out of my head that I was drinking curdled milk. I know it's not true, but that's just how it tasted to me. At first, it would taste mellow, like banana, along with the graininess and slightly toasty flavor of the rice, but that acidity made the flavor turn sour right away to me. I stress that this was to me---you may totally dig it if you don't have the same hang-ups or lack of sake experience.
+That bad impression is spoiled milk. This is a very acidic sake and combined with its creamy texture, I could not get it out of my head that I was drinking curdled milk. I know it's not true, but that's just how it tasted to me. At first, it would taste mellow, like banana, along with the graininess and slightly toasty flavor of the rice, but that acidity made the flavor turn sour right away to me. I stress that this was to me—you may totally dig it if you don't have the same hang-ups or lack of sake experience.
 
 
 

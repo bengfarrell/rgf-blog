@@ -1,9 +1,8 @@
 ---
-title: "Vida Organica Torrontes 2008---Wine Review"
+title: "Vida Organica Torrontes 2008"
 date: "2010-04-07"
 categories:
-  - "torrontes"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2008-vintage"
   - "bon-gourmet-blog"
@@ -16,7 +15,7 @@ tags:
   - "vida-organica-torrontes"
 ---
 
-**Vida Organica Torrontes 2008** Mendoza, Argentina
+**Region:** Mendoza, Argentina
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/vidaorganicatorrontes.JPG)
 

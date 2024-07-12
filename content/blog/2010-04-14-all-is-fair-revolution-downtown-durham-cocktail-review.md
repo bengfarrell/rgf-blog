@@ -1,9 +1,9 @@
 ---
-title: "All is Fair (Revolution, Downtown Durham)---Cocktail Review"
+title: "All is Fair @ Revolution"
 date: "2010-04-14"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
   - "events"
 tags: 
   - "all-is-fair"
@@ -18,7 +18,9 @@ tags:
   - "television"
 ---
 
-**All is Fair** Revolution, Downtown Durham [Website](http://www.revolutionrestaurant.com/Revolution_Durham/Menus.html)
+**Revolution**\
+Downtown Durham\
+[Website](http://www.revolutionrestaurant.com/Revolution_Durham/Menus.html)
 
 Now this cocktail isn't one you are going to see again.
 

@@ -1,8 +1,7 @@
 ---
-title: "Tonali (Durham)—Restaurant Review"
+title: "Tonali (Durham)"
 date: "2010-01-13"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "chicken-mole"
@@ -16,7 +15,9 @@ tags:
   - "tonali-durham"
 ---
 
-**Tonali** 3642 Shannon Road Durham Entrees: $10-25 (I think)
+3642 Shannon Road\
+Durham, NC\
+Entrees: $10-25 (I think)
 
 ![](http://www.thegourmez.com/gourmez/photos/tonali 002.jpg)
 

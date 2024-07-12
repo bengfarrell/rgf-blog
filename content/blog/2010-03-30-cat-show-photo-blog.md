@@ -1,5 +1,5 @@
 ---
-title: "Cat Show---Photo Blog"
+title: "Cat Show—Photo Blog"
 date: "2010-03-30"
 categories: 
   - "events"
@@ -48,5 +48,3 @@ I could easily be convinced to spend another few hours at a cat show in the futu
 ![](http://www.blastanova.com/photoalbum/Events/Cat%20Show/catshow06.JPG)
 
 ![](http://www.blastanova.com/photoalbum/Events/Cat%20Show/catshow83.JPG)
-
-Plenty more photos at our photo [website](http://www.blastanova.com/photoalbum/index.html?path=Events/Cat%20Show#).

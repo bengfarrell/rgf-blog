@@ -2,8 +2,8 @@
 title: "Empty Bowls 2010 Soup Review"
 date: "2010-03-12"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
+  - "events"
 tags: 
   - "blue-seafood"
   - "butternet-squash"
@@ -29,7 +29,7 @@ tags:
 
 I posted the press release for Empty Bowls 2010 a few weeks ago. It's a unique annual fundraiser that benefits Urban Ministries of Durham. At the time, I was unsure that I would make it, being as it was my fourth wedding anniversary and all, but we ended up going last Friday anyhow. Why not celebrate by sampling eight soups created by Durham's top chefs and organizations?
 
-The event was held in the Durham Armory. [![](http://www.thegourmez.com/gourmez/photos/emptybowls201011.jpg)](http://www.umdurham.org/news-and-events/events/thanks-for-supporting-empty-bowls-10.html'>here</a>. There was a great band playing American standards up on the stage, and setup consisted of large signs declaring which soup was where. Tables were spread out around the floor, and it was super crowded, so don't think this event is a relax and enjoy your meal sort of thing. It's more of a run, snag some soup, and hope you can find something to lean against evening.</p> <p><img src=)
+The event was held in the Durham Armory. There was a great band playing American standards up on the stage, and setup consisted of large signs declaring which soup was where. Tables were spread out around the floor, and it was super crowded, so don't think this event is a relax and enjoy your meal sort of thing. It's more of a run, snag some soup, and hope you can find something to lean against evening.</p> <p><img src=)
 
 Tickets were available for $15 or $30 and the more expensive ones included our choice of a handcrafted soup bowl. The actual soup was served up in small, Styrofoam containers. That's not a complaint: without small portion sizes, I could never have made my way through all eight soups offered. The title of Durham's Best Soup was at stake, and voting was done by both a judge's panel and an innovative fundraising technique for the popular vote: diners were encouraged to vote with their money by placing donations in bins at the soup station they enjoyed the most.
 
@@ -39,7 +39,7 @@ On to the soup! Be prepared for many similar pictures to follow, and be aware th
 
 [![](http://www.thegourmez.com/gourmez/photos/emptybowls201013.jpg)](http://www.umdurham.org/news-and-events/events/thanks-for-supporting-empty-bowls-10.html'>here</a>. There was a great band playing American standards up on the stage, and setup consisted of large signs declaring which soup was where. Tables were spread out around the floor, and it was super crowded, so don't think this event is a relax and enjoy your meal sort of thing. It's more of a run, snag some soup, and hope you can find something to lean against evening.</p> <p><img src=)
 
-Love, love, love Watt's Grocery--did not love this soup. Mainly, I thought there was way too much ginger in it, which popped out and masked the other flavors. I didn't think the poblano combined well with the apple or sweet potato, either. The tortilla strip added a fun texture.
+Love, love, love Watt's Grocery—did not love this soup. Mainly, I thought there was way too much ginger in it, which popped out and masked the other flavors. I didn't think the poblano combined well with the apple or sweet potato, either. The tortilla strip added a fun texture.
 
 #2 Clam Chowder-blu Seafood
 

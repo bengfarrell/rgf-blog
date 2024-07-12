@@ -2,7 +2,7 @@
 title: "Eat Tasty Soup and Fill Someone Else's Bowl—Fundraiser Press Release"
 date: "2010-02-17"
 categories: 
-  - "restaurants"
+  - "events"
 tags: 
   - "durham-armory"
   - "durham-chefs"
@@ -23,7 +23,7 @@ The event will be held on Friday, March 5 at the Durham Armory, 220 Foster Stree
 
 No bowls will be empty as attendees sample tasty soups from Durham's best chefs. This year, chefs from blu seafood & bar, Papa Mojo's Roadhouse, Revolution, Nana’s, and other top restaurants will serve up their best for the cause.
 
-Local celebrities –including North Carolina General Assembly Representative Henry (Mickey) Michaux, Jr. - will be the judges to award the coveted “Best Soup in Durham." Attendees will also get in on the fun picking their favorite.
+Local celebrities—including North Carolina General Assembly Representative Henry (Mickey) Michaux, Jr.—will be the judges to award the coveted “Best Soup in Durham." Attendees will also get in on the fun picking their favorite.
 
 Tickets are $30 each, which includes a one-of-a-kind keepsake bowl created by a local artisan. There are also tickets available for $15 if participants want to sample soup only. Children 6 and under are free.
 

@@ -2,7 +2,6 @@
 title: "Babymoon Cafe, Morrisville"
 date: "2010-05-07"
 categories:
-  - "morrisville-restaurant-reviews"
   - "restaurants"
 tags:
   - "babymoon-cafe"
@@ -18,7 +17,11 @@ tags:
   - "tiramisu"
 ---
 
-Babymoon Café 100 Jerusalem Drive, Suite 106 Morrisville [Website](http://www.babymooncafe.com/) Pasta/Entrees: $9.95–$23.95 Sandwiches/Pizzas: $7.25–$16.95
+100 Jerusalem Drive, Suite 106\
+Morrisville, NC\
+[Website](http://www.babymooncafe.com/)\
+Pasta/Entrees: $9.95–$23.95\
+Sandwiches/Pizzas: $7.25–$16.95
 
 Babymoon Café is an Italian restaurant in the tradition of most Italian restaurants in the US: pastas, pizza, calzones, subs, and Rat Pack music playing in the background. Their porch is very inviting, and I especially liked the trellis's design.
 
@@ -30,11 +33,11 @@ First off, the bread was really, really good.
 
 ![](http://www.thegourmez.com/gourmez/photos/babymooncafe3.JPG)
 
-It was ridiculously soft and fluffy, and coated on top with what might have been an oil and butter mixture with garlic and a few herbs---whatever it was gave a great flavor to the bread, so much so that the dipping mixture was almost unnecessary. But that was good too, so you may as well dip. More calories for everyone! I forced Mr. Gourmez to start the meal with eggplant rollatini (he doesn't like eggplant) since it was my birthday, after all.
+It was ridiculously soft and fluffy, and coated on top with what might have been an oil and butter mixture with garlic and a few herbs—whatever it was gave a great flavor to the bread, so much so that the dipping mixture was almost unnecessary. But that was good too, so you may as well dip. More calories for everyone! I forced Mr. Gourmez to start the meal with eggplant rollatini (he doesn't like eggplant) since it was my birthday, after all.
 
 ![](http://www.thegourmez.com/gourmez/photos/babymooncafe4.JPG)
 
-This was a strange version of rollatini---much more similar to eggplant parmesan than my understanding of rollatini, actually. I like eggplant parm, too, but I was expecting thin slices of eggplant rolled around the filling of extremely creamy ricotta and fairly thick squares of prosciutto rather than thick slices of eggplant topped with those fillings, then breaded and either fried or baked (my money's on fried), and smothered in marinara. Let me be clear, though, it was good, just not what I think of when I think rollatini. The marinara sauce was good and that ricotta was divine. Ultimately, I'm complaining that it wasn't rolled up and served with a lighter sauce, so really, I should probably just move on . . .
+This was a strange version of rollatini—much more similar to eggplant parmesan than my understanding of rollatini, actually. I like eggplant parm, too, but I was expecting thin slices of eggplant rolled around the filling of extremely creamy ricotta and fairly thick squares of prosciutto rather than thick slices of eggplant topped with those fillings, then breaded and either fried or baked (my money's on fried), and smothered in marinara. Let me be clear, though, it was good, just not what I think of when I think rollatini. The marinara sauce was good and that ricotta was divine. Ultimately, I'm complaining that it wasn't rolled up and served with a lighter sauce, so really, I should probably just move on . . .
 
 . . .  to the main course, Chicken Mulberry. Two sautéed chicken breasts served up with tomatoes, broccoli, mozzarella, and angel hair pasta in a lemon and white wine sauce.
 

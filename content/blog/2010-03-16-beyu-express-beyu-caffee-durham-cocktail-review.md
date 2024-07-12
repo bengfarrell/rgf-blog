@@ -1,9 +1,9 @@
 ---
-title: "Beyu Express (Beyu Caffee, Durham)---Cocktail Review"
+title: "Beyu Express @ Beyu Caffee"
 date: "2010-03-16"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "beyu-caffee"
   - "beyu-express"
@@ -15,7 +15,10 @@ tags:
   - "milk"
 ---
 
-**Beyu Express** Beyu Caffee, Downtown Durham [Website](http://www.beyucaffe.com/) $6.75
+**Beyu Caffee**\
+Downtown Durham\
+[Website](http://www.beyucaffe.com/)\
+$6.75
 
 ![](http://www.thegourmez.com/gourmez/photos/beyu1.jpg)
 

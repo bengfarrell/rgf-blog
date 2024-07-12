@@ -2,8 +2,7 @@
 title: "McWilliams Hanwood Estates Shiraz 2008"
 date: "2010-05-13"
 categories:
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
 tags:
   - "2008"
   - "cherry"
@@ -14,7 +13,7 @@ tags:
   - "wine-girl-wines"
 ---
 
-**McWilliams Hanwood Estates Shiraz 2008** Southeastern Australia
+**Region:** Southeastern Australia
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/mcwilliamsshiraz.jpg)
 
@@ -38,6 +37,6 @@ This Shiraz is a clear, medium-deep ruby in color. The nose is simplicity itself
 
 [The Wine Cask Blog](http://winecask.blogspot.com/2008/12/mcwilliams-hanwood-estate-shiraz-2006.html) on the 2006 Vintage
 
-Black cherry pour with ample rich plum and black cherry bouquet full of ripe fruit. Palate---spicy front with some heft yielding to nicely integrated, extracted plummy fruit with character in an easy drinking style. Finishes with some spice and fruit galore.
+Black cherry pour with ample rich plum and black cherry bouquet full of ripe fruit. Palate—spicy front with some heft yielding to nicely integrated, extracted plummy fruit with character in an easy drinking style. Finishes with some spice and fruit galore.
 
 _Reviewed 5.3.10_

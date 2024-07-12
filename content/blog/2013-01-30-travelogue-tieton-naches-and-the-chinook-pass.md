@@ -55,7 +55,7 @@ The Naches Valley is gorgeous all on its own, as you can see in both of these pa
 
 <div class="caption">
 
-[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7301small.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7301small.jpg) Click twice for the largest view!</div>
+[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7301small.jpg)](https://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7301small.jpg) Click twice for the largest view!</div>
 
 
 
@@ -63,7 +63,7 @@ The Naches Valley is gorgeous all on its own, as you can see in both of these pa
 
 <div class="caption">
 
-[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7288small.jpg)](http://www.rebeccagomezfarrell.com/2013/01/travelogue-tieton-naches-and-the-chinook-pass/img_7288small/) Click twice for the largest view!</div>
+[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7288small.jpg)](https://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7288small.jpg/) Click twice for the largest view!</div>
 
 
 The town of Naches has a number of pretty nooks and crannies, including their welcome building.
@@ -161,7 +161,8 @@ The prettiest parts were making my way through several country roads that led in
 
 <div class="caption">
 
-[![Passing orchards.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7738small.jpg)](http://www.rebeccagomezfarrell.com/2013/01/travelogue-tieton-naches-and-the-chinook-pass/img_7738small/) Passing orchards.</div>
+[![Passing orchards.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7738small.jpg)](http://www.rebeccagomezfarrell.com/2013/01/travelogue-tieton-naches-and-the-chinook-pass/img_7738small/)
+Passing orchards.</div>
 
 
 
@@ -169,7 +170,7 @@ The prettiest parts were making my way through several country roads that led in
 
 <div class="caption">
 
-[![Panorama of a hops farm. Click twice for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7756small-1024x105.jpg)](http://www.rebeccagomezfarrell.com/2013/01/travelogue-tieton-naches-and-the-chinook-pass/img_7756small/) Panorama of a hops farm. Click twice for the biggest view!</div>
+[![Panorama of a hops farm. Click twice for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7756small-1024x105.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7756small-1024x105.jpg) Panorama of a hops farm. Click for the biggest view!</div>
 
 
 

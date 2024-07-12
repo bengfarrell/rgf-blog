@@ -1,5 +1,5 @@
 ---
-title: "Alexander & Fitch 2007 Cabernet Sauvignon---Wine Review"
+title: "Alexander & Fitch 2007 Cabernet Sauvignon"
 date: "2010-04-12"
 categories:
   - "cabernet-sauvignon"
@@ -16,7 +16,7 @@ tags:
   - "the-wine-saver"
 ---
 
-**Alexander & Fitch 2007 Cabernet Sauvignon** Alexander Valley, CA
+**Region:** Alexander Valley, CA
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/alexanderfitchcabsav.JPG)
 

@@ -2,8 +2,7 @@
 title: "Napa River Merlot 2007"
 date: "2010-05-20"
 categories:
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2007"
   - "berry"
@@ -15,7 +14,7 @@ tags:
   - "wine-cask"
 ---
 
-**Napa River Merlot 2007** Napa County
+**Region:** Napa County, CA
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/naparivermerlot.jpg)
 

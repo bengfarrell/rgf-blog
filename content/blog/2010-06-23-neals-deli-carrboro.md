@@ -2,7 +2,6 @@
 title: "Neal's Deli (Carrboro)"
 date: "2010-06-23"
 categories:
-  - "dining-in-carrboro-nc"
   - "restaurants"
 tags:
   - "carrboro-lunch"
@@ -14,7 +13,11 @@ tags:
   - "neals-deli"
 ---
 
-**Neal's Deli** 100 East Main Street Downtown Carrboro [Website](http://www.nealsdeli.com/) $5.75–$8.50 Hours: M-Sat, 7:30 to 4
+100 East Main Street\
+Downtown Carrboro, NC\
+[Website](http://www.nealsdeli.com/)\
+$5.75–$8.50\
+Hours: M-Sat, 7:30 to 4
 
 ![](http://www.thegourmez.com/gourmez/photos/nealsdeli04.jpg)
 

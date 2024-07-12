@@ -1,9 +1,8 @@
 ---
-title: "Martellozzo Prosecco---Wine Review"
+title: "Martellozzo Prosecco"
 date: "2010-03-22"
 categories:
-  - "prosecco"
-  - "sparkling-wine-review"
+  - "wine"
 tags:
   - "bubbly"
   - "cork"
@@ -17,7 +16,7 @@ tags:
   - "veneto"
 ---
 
-**Martellozzo Prosecco** Veneto, Italy
+**Region:** Veneto, Italy
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/proseccoveneto.jpg)
 
@@ -31,13 +30,13 @@ Okay, you came to read about the wine, not my crisis of gourmet progression. The
 
 [The Wineauxs](http://thewineauxs.blogspot.com/2010/01/nv-martellozzo-veneto-prosecco.html)
 
-A fruity gum sort of nose - like a peach flavored gum.
+A fruity gum sort of nose—like a peach flavored gum.
 
-Light body with a good amount of fizz. A bit of apple and grapefruit - a rather crisp bottle, good acid, a touch of sugar, a thoroughly enjoyable bottle.
+Light body with a good amount of fizz. A bit of apple and grapefruit—a rather crisp bottle, good acid, a touch of sugar, a thoroughly enjoyable bottle.
 
 Some honeydew qualities come through on the finish.
 
-We haven't had a lot of luck with Prosecco, but this one I'm enjoying - if I recall, many Proseccos have an unripe tropical fruit stickiness that doesn't work, but this is light, crisp, and easy drinking all around.
+We haven't had a lot of luck with Prosecco, but this one I'm enjoying—if I recall, many Proseccos have an unripe tropical fruit stickiness that doesn't work, but this is light, crisp, and easy drinking all around.
 
 [Drinking My Way Through Trader Joe's Wine](http://albinnyc.blogspot.com/2008/04/martellozzo-prosecco-699.html)
 

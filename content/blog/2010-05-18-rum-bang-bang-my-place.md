@@ -3,6 +3,7 @@ title: "Rum Bang Bang, My Place"
 date: "2010-05-18"
 categories:
   - "recipes"
+  - "cocktails"
 tags:
   - "bacardi-gold-rum"
   - "bad-cocktails"
@@ -18,7 +19,10 @@ I'm really low on alcohol right now, so don't judge me. It strikes me that nearl
 
 ![](http://www.thegourmez.com/gourmez/photos/rumbangbang.JPG)
 
-2 shots Bacardi Gold Rum 0.5 shot Galliano Dash of International Delight Caramel Macchiato creamer 0 .25 shot of Myer's Dark Rum
+2 shots Bacardi Gold Rum\
+0.5 shot Galliano\
+Dash of International Delight Caramel Macchiato creamer\
+0 .25 shot of Myer's Dark Rum
 
 Shake everything up but the dark rum. Pour into a martini glass then float the dark rum on top.
 

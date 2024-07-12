@@ -2,8 +2,7 @@
 title: "Evenus 2006 Zinfandel Port"
 date: "2010-06-16"
 categories:
-  - "fortified-wine"
-  - "port-fortified-wine"
+  - "wine"
 tags:
   - "2006"
   - "365-sweet-wines-in-365-days"
@@ -16,7 +15,7 @@ tags:
   - "top-stories-las-vegas"
 ---
 
-**Evenus 2006 Zinfandel Port** Paso Robles, CA
+**Region:** Paso Robles, CA
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/evenuszinport.JPG)
 

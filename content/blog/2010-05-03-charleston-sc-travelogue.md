@@ -1,8 +1,8 @@
 ---
-title: "Charleston, SC---Travelogue"
+title: "Charleston, SC—Travelogue"
 date: "2010-05-03"
 categories: 
-  - "travel-guide"
+  - "travel-guides"
 tags: 
   - "arthur-ravenel-bridge"
   - "carriage-ride"
@@ -39,7 +39,7 @@ Our hotel in Charleston, the Courtyard Marriot on the Water, was nice and I cert
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Charleston%202010/Charleston114.JPG)
 
-It was about 2--3 miles from the historic district, and Ben and I walked over to check it out the first night. We passed many lovely sites.
+It was about 2–3 miles from the historic district, and Ben and I walked over to check it out the first night. We passed many lovely sites.
 
 One of several small church graveyards.
 
@@ -121,7 +121,7 @@ One of many gorgeous gardens in the area.
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Charleston%202010/Charleston146.JPG)
 
-This is an original gate dating back from slavery day---the house is still owned by the family of plantation owners from then. The spikes were to protect from possible slave revolts.
+This is an original gate dating back from slavery day—the house is still owned by the family of plantation owners from then. The spikes were to protect from possible slave revolts.
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Charleston%202010/Charleston149.JPG)
 

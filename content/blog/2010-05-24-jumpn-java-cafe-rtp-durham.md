@@ -2,8 +2,7 @@
 title: "Jump'n Java Cafe (RTP, Durham)"
 date: "2010-05-24"
 categories:
-  - "coffee-shop"
-  - "durham-coffee-shop-reviews"
+  - "coffee-shops"
   - "restaurants"
 tags:
   - "artichoke-hearts"
@@ -16,7 +15,12 @@ tags:
   - "teriyaki-bowl"
 ---
 
-**Jump'n Java Café** 2945 S Miami Blvd Research Triangle Park Sandwiches: $5.99 Double Cappuccino: $3.29 Hours: 7 am--3 pm, Monday through Friday
+2945 S Miami Blvd\
+Research Triangle Park\
+Durham, NC\
+Sandwiches: $5.99\
+Double Cappuccino: $3.29\
+Hours: 7 am–3 pm, Monday through Friday
 
 ![](http://www.thegourmez.com/gourmez/photos/jumpnjava1.JPG)
 

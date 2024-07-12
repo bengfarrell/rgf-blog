@@ -1,8 +1,7 @@
 ---
-title: "Southern Fast Food Series #2: Chick-fil-A--Restaurant Review"
+title: "Southern Fast Food Series #2: Chick-fil-A"
 date: "2010-02-18"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "bojangles"
@@ -17,7 +16,11 @@ tags:
   - "waffle-fries"
 ---
 
-**Chick-fil-A** 7836 Leonardo Drive Renaissance Village, Durham [Website](http://www.chickfila.com/) Sandwiches: $2.89-­­$4.25 One chicken club combo with a slice of lemon pie: $9.53
+7836 Leonardo Drive\
+Renaissance Village, Durham, NC\
+[Website](http://www.chickfila.com/)\
+Sandwiches: $2.89-­­$4.25\
+One chicken club combo with a slice of lemon pie: $9.53
 
 I'll admit it right now: this was not the first time I'd been to a Chick-fil-A. I will also admit that I honestly thought the restaurant was spelled Chik-fil-A, which exposes that I did not feel positively enough about my previous experiences, at the medical campus of UNC, to learn to spell the name correctly. The location I went to this time was a vast improvement over that smaller outlet in terms of style, as can be seen by both its enormous size, long drive-through line, and vast wall of condiments including lite mayo, mayo, honey roasted BBQ sauce, hot sauce, International Delights creamers, mustard, ketchup, various jellies, and more.  They also had large signs hung and were giving out flyers about a benefit they were putting on the next day for a local family that lost half of their members to a car accident. Community support is always a plus.
 

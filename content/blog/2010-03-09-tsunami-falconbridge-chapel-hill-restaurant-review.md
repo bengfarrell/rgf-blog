@@ -1,8 +1,7 @@
 ---
-title: "Tsunami (Falconbridge, Chapel Hill)---Restaurant Review *CLOSED*"
+title: "Tsunami *CLOSED*"
 date: "2010-03-09"
 categories: 
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags: 
   - "bento-box"
@@ -21,7 +20,15 @@ tags:
   - "tsunami-japanese-restaurant"
 ---
 
-**Tsunami Sushi** \*CLOSED\* 6118 Farrington Road Falconbridge, Chapel Hill [Website](http://www.tsunami-sushi.com) Entrees: $10.95­–$18.95 Sushi Rolls: $3.25–$5.95 Specialty Rolls: $5.95–$11.95 ![](http://www.thegourmez.com/gourmez/photos/tsunami6.jpg)
+6118 Farrington Road\
+Falconbridge\
+Chapel Hill, NC\
+[Website](http://www.tsunami-sushi.com)\
+Entrees: $10.95­–$18.95\
+Sushi Rolls: $3.25–$5.95\
+Specialty Rolls: $5.95–$11.95
+
+ ![](http://www.thegourmez.com/gourmez/photos/tsunami6.jpg)
 
 Tsunami Sushi is a small Japanese restaurant that offers all the standard menu choices, including sushi, bento boxes, tempura, and teriyaki. The atmosphere was fine, if a bit plain, with elevator music playing, green walls, and red paneling. Service was a tad slow for a completely empty restaurant.
 

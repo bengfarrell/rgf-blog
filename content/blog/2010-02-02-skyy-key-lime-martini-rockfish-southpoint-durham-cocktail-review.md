@@ -1,8 +1,9 @@
 ---
-title: "Skyy Key Lime Pie Martini @ Rockfish (Southpoint, Durham) *CLOSED*"
+title: "Skyy Key Lime Pie Martini @ Rockfish *CLOSED*"
 date: "2010-02-02"
 categories:
-  - "bars-in-durham-nc"
+  - "bars"
+  - "cocktails"
 tags:
   - "durham-cocktail"
   - "key-lime-pie-martini"
@@ -12,7 +13,11 @@ tags:
   - "the-gourmez-review"
 ---
 
-Skyy Key Lime Pie Martini Rockfish Grill 8030 Renaissance Parkway #905 The Streets at Southpoint, Durham [Website](http://www.rockfishseafood.com/ncarolina.htm#southpoint)
+**Rockfish Grill**\
+8030 Renaissance Parkway #905\
+The Streets at Southpoint\
+Durham, NC\
+[Website](http://www.rockfishseafood.com/ncarolina.htm#southpoint)
 
 ![](http://www.thegourmez.com/gourmez/photos/skyykeylimemartini.jpg)
 

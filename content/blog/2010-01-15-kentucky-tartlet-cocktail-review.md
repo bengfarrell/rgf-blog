@@ -1,8 +1,8 @@
 ---
-title: "Kentucky Tartlet—Cocktail Review"
+title: "Kentucky Tartlet"
 date: "2010-01-15"
 categories:
-  - "bourbon"
+  - "cocktails"
   - "recipes"
 tags:
   - "ancient-age"
@@ -24,7 +24,10 @@ Let it also be known that I generally only have about 3-4 base liquors at a time
 
 **Kentucky Tartlet**
 
-1.5 shots of Ancient Age Bourbon Whiskey 0.75 shot of Dekuyper Triple Sec Two drops (or so) of rosewater 4 shots Trader Joe's Pomegranate Limeade
+1.5 shots of Ancient Age Bourbon Whiskey\
+0.75 shot of Dekuyper Triple Sec\
+Two drops (or so) of rosewater\
+4 shots Trader Joe's Pomegranate Limeade
 
 Shake together and pour into a martini glass that ought to have been chilled, but wasn't, so add in some crushed ice for kicks.
 

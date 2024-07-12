@@ -1,5 +1,5 @@
 ---
-title: "Margarita @ Torero's (Durham)—Cocktail Review"
+title: "Margarita @ Torero's (Durham)"
 date: "2009-12-19"
 categories:
   - "bars"

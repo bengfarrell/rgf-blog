@@ -1,8 +1,7 @@
 ---
-title: "Revolution (Downtown Durham)---Restaurant Review"
+title: "Revolution"
 date: "2010-04-02"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "durham-restaurants"
@@ -17,7 +16,12 @@ tags:
   - "upscale-dining"
 ---
 
-**Revolution** 107 West Main Street Downtown Durham [Website](http://www.revolutionrestaurant.com/Revolution_Durham/Revolution_Enter.html) Entrees: $16–$32 Smaller Plates/Apps: $8–$16 Tasting Menus from 3 to 7 courses: $40–$95
+107 West Main Street\
+Downtown Durham\
+[Website](http://www.revolutionrestaurant.com/Revolution_Durham/Revolution_Enter.html)\
+Entrees: $16–$32\
+Smaller Plates/Apps: $8–$16\
+Tasting Menus from 3 to 7 courses: $40–$95
 
 Revolution is a downtown Durham restaurant with a lot of buzz. It's quite popular, even midweek, and can get a bit loud when full.
 
@@ -51,7 +55,7 @@ One of my friends adored her foie gras "BLT" with tomato, Serrano bacon, arugula
 
 I think that dish might have had the best presentation, but I didn't try it. That whole foie gras deal grosses me out.
 
-Next up, I had the poached halibut with warm saffron coulis, watercress, and sunchoke---oh wait, that's what I meant to have! Somehow, I managed to say "pork chop" instead of "halibut," which I didn't realize until the course appeared. My companions all confirmed that I had, indeed, ordered the pork chop. Luckily for me, it was very good.
+Next up, I had the poached halibut with warm saffron coulis, watercress, and sunchoke—oh wait, that's what I meant to have! Somehow, I managed to say "pork chop" instead of "halibut," which I didn't realize until the course appeared. My companions all confirmed that I had, indeed, ordered the pork chop. Luckily for me, it was very good.
 
 ![](http://www.thegourmez.com/gourmez/photos/revolution11.JPG)
 

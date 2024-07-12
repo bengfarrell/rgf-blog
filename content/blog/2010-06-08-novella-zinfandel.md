@@ -2,8 +2,7 @@
 title: "Novella Zinfandel"
 date: "2010-06-08"
 categories:
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "cinnamon"
   - "currant"
@@ -14,7 +13,7 @@ tags:
   - "swirl-sniff-sip-and-savor"
 ---
 
-**Novella Zinfandel** Paso Robles
+**Region:** Paso Robles, CA
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/novellazin.jpg)
 

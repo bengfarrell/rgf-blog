@@ -16,7 +16,7 @@ tags:
   - "pineapple"
 ---
 
-**Blue Fin Chardonnay 2008** Napa, California
+**Region:** Napa, California
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/bluefinchard.JPG)
 

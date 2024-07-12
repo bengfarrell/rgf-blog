@@ -2,7 +2,6 @@
 title: "Parker and Otis (Durham)"
 date: "2010-06-07"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "baked-goods"
@@ -18,7 +17,10 @@ tags:
   - "truffles"
 ---
 
-**Parker and Otis** 112 S Duke Street Peabody Square, Durham [Website](http://www.parkerandotis.com/store/index.php/)
+112 S Duke Street\
+Peabody Square\
+Durham, NC\
+[Website](http://www.parkerandotis.com/store/index.php/)
 
 ![](http://www.thegourmez.com/gourmez/photos/parkerandotis11.JPG)
 
@@ -50,7 +52,7 @@ I was not as enthused with the corn and tomato salad I chose to upgrade to over 
 
 ![](http://www.thegourmez.com/gourmez/photos/parkerandotis03.JPG)
 
-I think my lack of enthusiasm probably had something to do with thinking that $2 was a bit steep for a side substitution, but mostly, it was because corn was the only flavor I tasted. Yes, the parsley, tomato, and red onion were all good, but I think this dish would have benefited from a light vinaigrette or some garlic at the very least. I love corn, and I adore corn cut right off the cob like this---better than on the cob actually---but it was too plain.
+I think my lack of enthusiasm probably had something to do with thinking that $2 was a bit steep for a side substitution, but mostly, it was because corn was the only flavor I tasted. Yes, the parsley, tomato, and red onion were all good, but I think this dish would have benefited from a light vinaigrette or some garlic at the very least. I love corn, and I adore corn cut right off the cob like this—better than on the cob actually—but it was too plain.
 
 To sum up:  fantastic sandwich, great atmosphere, variety galore, good coffee, boring side.
 

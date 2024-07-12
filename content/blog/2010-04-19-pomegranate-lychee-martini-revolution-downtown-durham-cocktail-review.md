@@ -1,10 +1,9 @@
 ---
-title: "Pomegranate Lychee Martini @ Revolution (Downtown Durham)---Cocktail Review"
+title: "Pomegranate Lychee Martini @ Revolution"
 date: "2010-04-19"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "vodka"
+  - "cocktails"
 tags: 
   - "durham-cocktail"
   - "lychee"
@@ -13,7 +12,10 @@ tags:
   - "revolution"
 ---
 
-**Pomegranate Lychee Martini** Revolution (Downtown Durham) [Website](http://www.revolutionrestaurant.com/Revolution_Durham/Menus.html) $10
+**Revolution**\
+Downtown Durham, NC\
+[Website](http://www.revolutionrestaurant.com/Revolution_Durham/Menus.html)\
+$10
 
 ![](http://www.thegourmez.com/gourmez/photos/Pomegranate Lychee Martini.jpg)
 

@@ -1,9 +1,9 @@
 ---
-title: "Pink Salt and Pepper Martini (Revolution, Durham)---Cocktail Review"
+title: "Pink Salt and Pepper Martini @ Revolution"
 date: "2010-04-09"
 categories:
   - "bars"
-  - "bars-chapel-hill-nc"
+  - "cocktails"
 tags:
   - "cucumber"
   - "durham"
@@ -13,7 +13,11 @@ tags:
   - "volcanic-salt"
 ---
 
-**Pink Salt and Pepper Martini** Revolution, Downtown Durham [Restaurant Review](http://www.thegourmez.com/?p=940) [Website](http://www.revolutionrestaurant.com/Revolution_Durham/Revolution_Enter.html) $11
+**Revolution**\
+Downtown Durham, NC\
+[Restaurant Review](https://thegourmez.com/blog/2010/04/02/revolution-downtown-durham-restaurant-review/\
+[Website](http://www.revolutionrestaurant.com/Revolution_Durham/Revolution_Enter.html)\
+$11
 
 ![](http://www.thegourmez.com/gourmez/photos/revolution07.JPG)
 

@@ -1,5 +1,5 @@
 ---
-title: "Basil Smash @ Foundation (Raleigh)—Cocktail Review"
+title: "Basil Smash @ Foundation (Raleigh)"
 date: "2009-11-11"
 categories:
   - "bars"

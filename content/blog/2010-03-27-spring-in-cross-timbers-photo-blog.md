@@ -1,8 +1,9 @@
 ---
-title: "Spring in Cross Timbers---Photo Blog"
+title: "Spring in Cross Timbers—Photo Blog"
 date: "2010-03-27"
 categories: 
   - "announcements"
+  - "travel-guides"
 tags: 
   - "bradford-pear"
   - "cat"

@@ -1,8 +1,8 @@
 ---
-title: "Easter Brunch at Revolution---Restaurant Review"
+title: "Easter Brunch at Revolution"
 date: "2010-04-06"
 categories: 
-  - "durham-restaurant-reviews"
+  - "events"
   - "restaurants"
 tags: 
   - "apple-crisp"
@@ -13,7 +13,7 @@ tags:
   - "squash-tamales"
 ---
 
-I just posted my [dinner review](http://www.thegourmez.com/?p=940) of Revolution last Friday, so this is but an  addendum to that one, since we checked out their Easter brunch in the meantime! It was three courses for $35 a person, including biscuits and cornbread (both just all right) and coffee, tea, or juice. We were a little too early to try the cocktail options.
+I just posted my [dinner review](https://thegourmez.com/blog/2010/04/02/revolution-downtown-durham-restaurant-review/) of Revolution last Friday, so this is but an  addendum to that one, since we checked out their Easter brunch in the meantime! It was three courses for $35 a person, including biscuits and cornbread (both just all right) and coffee, tea, or juice. We were a little too early to try the cocktail options.
 
 I started with the squash tamales.
 
@@ -23,7 +23,7 @@ Obviously large enough to be a whole meal itself, I enjoyed every bite. The flav
 
 ![](http://www.thegourmez.com/gourmez/photos/revolutionbrunch03.jpg)
 
-Man, portions were huge for this brunch! The chicken was nicely fried and the potatoes intriguing, with mashed clumps of sweet potato poking out here and there. The bacon was almost overwhelming in flavor---never fear, I managed to eat both slices over two days. The helping of scallions did a lot to bring this dish together. It was good, but not as good as the tamales.
+Man, portions were huge for this brunch! The chicken was nicely fried and the potatoes intriguing, with mashed clumps of sweet potato poking out here and there. The bacon was almost overwhelming in flavor—never fear, I managed to eat both slices over two days. The helping of scallions did a lot to bring this dish together. It was good, but not as good as the tamales.
 
 I chose the apple crisp with rum-raisin caramel sauce for dessert.
 

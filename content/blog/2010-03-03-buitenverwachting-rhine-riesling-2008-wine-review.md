@@ -1,9 +1,8 @@
 ---
-title: "Buitenverwachting Rhine Riesling 2008---Wine Review"
+title: "Buitenverwachting Rhine Riesling 2008"
 date: "2010-03-03"
 categories:
-  - "riesling"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2008-vintage"
   - "buitenverwachting-rhine-riesling"
@@ -13,7 +12,7 @@ tags:
   - "south-african-wines"
 ---
 
-**Buitenverwachting Rhine Riesling 2008** South Africa
+**Region:** South Africa
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/rhineriesling.jpg)
 

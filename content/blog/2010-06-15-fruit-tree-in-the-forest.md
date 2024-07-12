@@ -3,6 +3,7 @@ title: "Fruit Tree in the Forest"
 date: "2010-06-15"
 categories:
   - "recipes"
+  - "cocktails"
 tags:
   - "choya-ume"
   - "cocktail-recipe"
@@ -12,9 +13,14 @@ tags:
   - "st-germaine-elderflower-liquor"
 ---
 
-**Fruit Tree in the Forest** ![](http://www.thegourmez.com/gourmez/photos/fruittree.jpg)
+**Fruit Tree in the Forest**
 
-2 shots New Amsterdam Gin 0.5 shot St. Germaine Elderflower Liquor 1 shot lemonade 2 shots Choya Ume
+ ![](http://www.thegourmez.com/gourmez/photos/fruittree.jpg)
+
+2 shots New Amsterdam Gin\
+0.5 shot St. Germaine Elderflower Liquor\
+1 shot lemonade\
+2 shots Choya Ume
 
 Shake together the gin and elderflower and pour into a martini glass. Slowly pour the lemonade on top. Take a break to feed the cats who are complaining. Shake the Choya Ume to chill it then slowly pour it on top of the others.  You could just shake it all together, but I wanted to layer the flavors unevenly, so there might be interesting differences with each sip.
 

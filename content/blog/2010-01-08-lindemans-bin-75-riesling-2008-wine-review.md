@@ -1,9 +1,8 @@
 ---
-title: "Lindemans' Bin 75 Riesling 2008—Wine Review"
+title: "Lindemans' Bin 75 Riesling 2008"
 date: "2010-01-08"
 categories:
-  - "riesling"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2008"
   - "acidity"
@@ -14,7 +13,7 @@ tags:
   - "tangering-note"
 ---
 
-**Wine:** Lindemans' Bin 75 Riesling 2008 **Region:** Australia
+**Region:** Australia
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/lindemansbin.jpg)
 
@@ -30,11 +29,11 @@ On first sip, I like it. A lot. There's a mild sweetness that contrasts with its
 
 **Other Bloggers' Thoughts:**
 
-_Melinda Johnston @[Fickle Palate](http://www.ficklepalate.com/2008/lindemans-bin-75-reisling/). Unknown Vintage-_
+_Melinda Johnston @ [Fickle Palate](http://www.ficklepalate.com/2008/lindemans-bin-75-reisling/). Unknown Vintage-_
 
 . . . The wine came. It smelled like rain. It tasted like spring rain, too, with a hint of grapefruit. Very soft, very fresh, absolutely no body whatsoever. It was missing the sparkle that Rieslings usually have. It wasn't a bad wine, but we were disappointed, and glad that we didn't order a bottle.
 
-_Lain @[Winetalk](http://winetalk.org/2009/01/28/2007-lindemans-bin-75-riesling-australia-8.aspx) on the 2007 vintage-_
+_Lain @ [Winetalk](http://winetalk.org/2009/01/28/2007-lindemans-bin-75-riesling-australia-8.aspx) on the 2007 vintage-_
 
 If you are looking for a not overly sweet white, then this is your white. Aromas of lime and lemon zest are complimented with subtle hints of peach notes. The flavors are straightforward; layers of pears, stone fruit and sweet cantaloupe are framed with the finish of the citrus zest. The finish is subtle not overpowering the taste buds. A great light sweeter style white that won't break the bank.
 

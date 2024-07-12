@@ -1,9 +1,8 @@
 ---
-title: "Chateau Julian Bordeaux Sec 2008--Wine Review"
+title: "Chateau Julian Bordeaux Sec 2008"
 date: "2010-01-29"
 categories:
-  - "bordeaux-sec"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2008-vintage"
   - "appellations"
@@ -15,7 +14,7 @@ tags:
   - "wine-notes"
 ---
 
-**Wine:** Chateau Julian Bordeaux Sec 2008 **Region:** Gironde, France
+**Region:** Gironde, France
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/chateaujulienbordeauxsec002.jpg)
 

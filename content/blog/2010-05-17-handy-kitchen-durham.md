@@ -1,8 +1,7 @@
 ---
-title: "Handy Kitchen, Durham"
+title: "Handy Kitchen"
 date: "2010-05-17"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "durham-chinese"
@@ -14,7 +13,10 @@ tags:
   - "wonton-strips"
 ---
 
-**Handy Kitchen** 5279 N. Roxboro Road Eno Square Shopping Center Lunch Specials: $4.65–$4.75 Dinner Combos: $5.95–$6.95
+5279 N. Roxboro Road\
+Eno Square Shopping Center\
+Lunch Specials: $4.65–$4.75\
+Dinner Combos: $5.95–$6.95
 
 ![](http://www.thegourmez.com/gourmez/photos/handy4.jpg)
 

@@ -1,5 +1,5 @@
 ---
-title: "Triangle Wine Experience 2010 (2/4-2/6)"
+title: "Triangle Wine Experience 2010"
 date: "2010-01-22"
 categories: 
   - "events"

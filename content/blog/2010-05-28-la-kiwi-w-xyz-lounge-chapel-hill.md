@@ -18,7 +18,9 @@ tags:
   - "wxyz-lounge"
 ---
 
-**LA Kiwi** W XYZ Lounge, Aloft Hotel Chapel Hill
+**W XYZ Lounge**\
+Aloft Hotel\
+Chapel Hill, NC
 
 Since this was my first time at the W XYZ Lounge, I thought I'd share a little about the atmosphere of the spot before diving into my cocktail review. The W XYZ Lounge is the main floor of the new Aloft hotel in the East Highway 54 development. By main floor, I mean it is essentially the whole entry floor of the hotel; even the registration desk seems part of the lounge's design. I was surprised that there were a few different groups of hotel guests and other patrons stopping for a drink already; the property is pretty new. Décor is upscale modern with high-backed couches, a pool table, and a mesmerizing light show on television screens that I'm still not sure didn't hypnotize me. The bar itself has a fun, LED light counter that constantly changes colors from blue to green and back again. There's also an appealing patio area with a giant cube of light around the side of the hotel.
 

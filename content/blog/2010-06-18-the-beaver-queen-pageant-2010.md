@@ -3,6 +3,7 @@ title: "The Beaver Queen Pageant 2010"
 date: "2010-06-18"
 categories: 
   - "events"
+  - "travel-guides"
 tags: 
   - "beaver-lodge-local-1504"
   - "beaver-queen-pageant"

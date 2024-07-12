@@ -1,8 +1,7 @@
 ---
-title: "La Residence (Chapel Hill)—Restaurant Review"
+title: "La Residence (Chapel Hill)"
 date: "2009-12-31"
 categories:
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags:
   - "chapel-hill-dining"
@@ -15,7 +14,10 @@ tags:
   - "trigger-fish"
 ---
 
-**La Residence** 202 West Rosemary Street Downtown Chapel Hill [Website](http://www.laresidencedining.com) Entrees: $19-29
+202 West Rosemary Street\
+Downtown Chapel Hill, NC\
+[Website](http://www.laresidencedining.com)\
+Entrees: $19-29
 
 La Residence is a cozy, fine dining establishment that specializes on local food with a French influence. They've been around since 1976 and plenty of family work here, even when they are just in town for vacation. The service was a wee bit too attentive for me but we've all got our own service preferences, and this was definitely appropriate for a four star establishment.  Rat Park music played in the background, and our room was painted with a warm, clay brown that kept the ambience from feeling dated.
 

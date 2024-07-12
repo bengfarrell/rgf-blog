@@ -2,12 +2,9 @@
 title: "Jujube's Semler Wine Dinner"
 date: "2010-04-15"
 categories: 
-  - "cabernet-sauvignon"
-  - "dining-chapel-hill-nc"
-  - "pinot-noir"
+  - "events"
   - "restaurants"
-  - "sauvignon-blanc"
-  - "shiraz"
+  - "wine"
 tags: 
   - "chapel-hill"
   - "crab-salad-roll"
@@ -20,8 +17,6 @@ tags:
   - "vietnamese-coffee-ice-cream"
   - "wine-dinner"
 ---
-
-**Jujube’s Semler Wine Dinner**
 
 There are few things I like more than wine dinners at [Jujube](//www.thegourmez.com/gourmez/restaurants/review.php?id=6&type=”). For $42 per person with four courses and four glasses of wine, they really aren’t a bad deal at all. Tuesday night, I went to one with my husband and a pair of foodie friends that was hosted by Malibu Family Wines, the parent company of the Semler and Saddlerock labels. Their representative was very passionate about the wines, and we heard about how the family imported the rootstocks to their Malibu vineyard from France over and over again. We were considering taking bets on if the next wine also had an imported rootstock by the end of the evening.
 

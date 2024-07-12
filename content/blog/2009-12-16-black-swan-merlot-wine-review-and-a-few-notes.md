@@ -1,5 +1,5 @@
 ---
-title: "Black Swan Merlot—Wine Review (and a few notes)"
+title: "Black Swan Merlot (and a few notes)"
 date: "2009-12-16"
 categories:
   - "merlot"

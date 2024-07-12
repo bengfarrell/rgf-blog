@@ -1,9 +1,8 @@
 ---
-title: "La Granja 360 Tempranillo 2008---Wine Review"
+title: "La Granja 360 Tempranillo 2008"
 date: "2010-04-01"
 categories:
-  - "red-wine-review"
-  - "tempranillo"
+  - "wine"
 tags:
   - "2008"
   - "clove"
@@ -18,7 +17,9 @@ tags:
   - "your-wine-pick"
 ---
 
-**La Granja 360 Tempranillo 2008** Carinena, Spain ![](http://www.rebeccagomezfarrell.com/gourmez/photos/lagranja.jpg)
+**Region:** Carinena, Spain
+
+ ![](http://www.rebeccagomezfarrell.com/gourmez/photos/lagranja.jpg)
 
 My first impression on drinking: This is not a great wine. Both the nose and first sip were of wet cigarettes. But other flavors worked their way in slowly, some tart raspberry, earth, leaves, and then clove, lots of clove. By the end, a layer of dark chocolate had also appeared.  The flavors, and my impression of the wine, mellowed from that first sip.
 
@@ -34,14 +35,14 @@ So, a rough beginning but a smooth ending.
 
 [](http://yourwinepick.com/2010/01/29/2008-la-granja-360-tempranillo/)Your Wine Pick
 
-- Color--Purple/Red
-- Nose--A little funky, Red berries,
-- Body--Medium
-- Taste--Light tannins, Raspberry, Plum, Little dry
+- Color–Purple/Red
+- Nose–A little funky, Red berries,
+- Body–Medium
+- Taste–Light tannins, Raspberry, Plum, Little dry
 
 [Trader Joe's Wine Compendium](http://traderjoeswine.blogspot.com/2009/08/2008-la-granja-360-tempranillo-399.html)
 
-Reviewing the bottom of the bottle after having it been open and VacuVin sealed for a couple days reveals the following: A great deep ruby color (which is not at all showcased by my backlight heavy picture). Earthy nose with a solid dose of black licorice. Dry and slightly tannic on the tongue. Faint taste of stale cinnamon and cocoa, but in a good way. A definite bargain that I'll be buying again soon. thumbs up---76
+Reviewing the bottom of the bottle after having it been open and VacuVin sealed for a couple days reveals the following: A great deep ruby color (which is not at all showcased by my backlight heavy picture). Earthy nose with a solid dose of black licorice. Dry and slightly tannic on the tongue. Faint taste of stale cinnamon and cocoa, but in a good way. A definite bargain that I'll be buying again soon. thumbs up!
 
 [Jason's Wine Blog](http://jasonswineblog.com/2009/08/20/2008-la-granja-tempranillo/)
 

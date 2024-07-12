@@ -2,8 +2,7 @@
 title: "Trader Joe's Reserve Growers Petite Sirah 2008"
 date: "2010-04-28"
 categories:
-  - "petite-sirah"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2008-raspberry"
   - "anise"
@@ -14,7 +13,7 @@ tags:
   - "trader-joes-growers-reserve"
 ---
 
-**Trader Joe's Reserve Growers Petite Sirah 2008** California
+**Region:** California
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/traderjoespetitesyrah.jpg)
 

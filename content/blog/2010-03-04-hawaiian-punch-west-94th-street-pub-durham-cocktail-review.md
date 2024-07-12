@@ -1,10 +1,9 @@
 ---
-title: "Hawaiian Punch (West 94th Street Pub, Durham)---Cocktail Review"
+title: "Hawaiian Punch @ West 94th Street Pub"
 date: "2010-03-04"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
-  - "vodka"
+  - "cocktails"
 tags:
   - "blue-curacao"
   - "durham-cocktails"
@@ -15,7 +14,9 @@ tags:
   - "west-94th-street-pub"
 ---
 
-**Hawaiian Punch** West 94th Street Pub Woodcroft, Durham [Website](http://www.west94stpub.com/)
+ West 94th Street Pub\
+ Woodcroft, Durham, NC\
+ [Website](http://www.west94stpub.com/)
 
 ![](http://www.thegourmez.com/gourmez/photos/hawaiianpunch.jpg)
 

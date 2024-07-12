@@ -1,9 +1,8 @@
 ---
-title: "Screw Kappa Napa Sauvignon Blanc 2007---Wine Review"
+title: "Screw Kappa Napa Sauvignon Blanc 2007"
 date: "2010-03-10"
 categories:
-  - "sauvignon-blanc"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2007-vintage"
   - "cream"
@@ -17,7 +16,7 @@ tags:
   - "wine-witch"
 ---
 
-**Screw Kappa Napa (S/K/N) Sauvignon Blanc 2007** Napa Valley, CA
+**Region:** Napa Valley, CA
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/screwkappanappa.jpg)
 
@@ -39,6 +38,6 @@ This is a good, lingering white wine.
 
 [Wine Witch](http://winewitch.net/wine-reviews/skn-sauvignon-blanc-2007-california-10-15/)
 
-The 2007 SKN Sauvignon Blanc is a pale greenish gold in the glass.  The nose is pretty light, but if you really get into the glass you get melon and maybe some jasmine.  Despite the light nose, there is a lot going on in the glass - a veritable buffet of tropical fruits including mango and guava.  This Sauvignon Blanc has the acidity you would expect from this grape, but there is an almost Chardonnay like butter in there also.   This is not a sophisticated wine - it is all there on the first taste.
+The 2007 SKN Sauvignon Blanc is a pale greenish gold in the glass.  The nose is pretty light, but if you really get into the glass you get melon and maybe some jasmine.  Despite the light nose, there is a lot going on in the glass - a veritable buffet of tropical fruits including mango and guava.  This Sauvignon Blanc has the acidity you would expect from this grape, but there is an almost Chardonnay like butter in there also.   This is not a sophisticated wine—it is all there on the first taste.
 
 _Reviewed 2.28.10._

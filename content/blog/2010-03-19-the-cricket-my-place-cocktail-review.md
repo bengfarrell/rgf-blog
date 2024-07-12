@@ -1,9 +1,9 @@
 ---
-title: "The Cricket (My Place)---Cocktail Review"
+title: "The Cricket (My Place)"
 date: "2010-03-19"
 categories:
   - "recipes"
-  - "vodka"
+  - "cocktail-recipes"
 tags:
   - "chocolate"
   - "cocktail-review"
@@ -14,11 +14,14 @@ tags:
   - "the-cricket-cocktail"
 ---
 
-**The Cricket**
-
 ![](http://www.thegourmez.com/gourmez/photos/thecricket.jpg)
 
-Chocolate Syrup ¼ shot Sambuca Splash crème de menthe ½ shot hazelnut liquor 1.5 shots light cream 1.5 shots vodka
+Chocolate Syrup\
+¼ shot Sambuca\
+Splash crème de menthe\
+½ shot hazelnut liquor\
+1.5 shots light cream\
+1.5 shots vodka
 
 Drizzle some chocolate syrup around the sides of a martini glass. Shake together the rest of the ingredients and pour them in.
 

@@ -2,7 +2,6 @@
 title: "The Fearrington House Restaurant (Pittsboro)"
 date: "2010-05-19"
 categories: 
-  - "dining-in-pittsboro-nc"
   - "restaurants"
 tags: 
   - "banana-pudding"
@@ -16,7 +15,11 @@ tags:
   - "softshell-crab"
 ---
 
-**The Fearrington House Restaurant** 2000 Fearrington Village Center Pittsboro [Website](http://www.fearrington.com/house/samplemenu.asp) Three courses: $69 Four courses: $79
+2000 Fearrington Village Center\
+Pittsboro, NC\
+[Website](http://www.fearrington.com/house/samplemenu.asp)\
+Three courses: $69\
+Four courses: $79
 
 The Fearrington House Restaurant is known as one of the Triangle's finest restaurants, and after finally enjoying one of their meals myself, I couldn't agree more. The cuisine is modern American, a bit eclectic, a bit experimental, but all good. I love that the only options are to have a three- or four-course meal: it says a lot about their goal of providing an evening of experiencing food, not just coming in for a rushed hour or so. In other words, make sure you don't have any other plans when you go.
 

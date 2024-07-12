@@ -2,7 +2,7 @@
 title: "Blu Seafood and Bar (Durham)"
 date: "2010-06-14"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
 tags: 
   - "blu"
   - "blu-seafood-and-bar"

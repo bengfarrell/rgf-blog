@@ -1,8 +1,9 @@
 ---
-title: "Disneyworld 2.5.10–2.8.10—Travelogue"
+title: "Disneyworld Travelogue"
 date: "2010-02-23"
 categories: 
   - "announcements"
+  - "travel-guides"
 tags: 
   - "amtrak"
   - "amtrak-to-orlando"

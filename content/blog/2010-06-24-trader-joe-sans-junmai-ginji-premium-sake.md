@@ -14,8 +14,6 @@ tags:
   - "trader-joes"
 ---
 
-**Trader Joe-san's Junmai Ginji Premium Sake**
-
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/traderjoesan.jpg)
 
 I haven't developed a sake nose yet, because I can only say that Trader Joe-San's sake smells like . . . sake. It tastes clean and crisp, and of rice, of course, but it's also densely creamy, without actually being an unfiltered sake. It's like drinking toasted marshmallow cream but with only a mild sweetness and a fleeting hint of banana. I really like it.

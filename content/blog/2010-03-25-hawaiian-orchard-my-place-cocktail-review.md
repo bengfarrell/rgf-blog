@@ -1,9 +1,9 @@
 ---
-title: "Hawaiian Orchard @ My Place---Cocktail Review"
+title: "Hawaiian Orchard @ My Place"
 date: "2010-03-25"
 categories:
   - "recipes"
-  - "vodka"
+  - "cocktails"
 tags:
   - "hawaiian-orchard"
   - "lemon"
@@ -11,11 +11,12 @@ tags:
   - "triple-sec"
 ---
 
-**Hawaiian Orchard** My Place
-
 ![](http://www.thegourmez.com/gourmez/photos/hawaiianorchard.jpg)
 
-2 shots vodka 1 shot triple sec Juice of ½ lemon 1 shot pineapple juice
+2 shots vodka\
+1 shot triple sec\
+Juice of ½ lemon\
+1 shot pineapple juice
 
 Shake all the ingredients together and pour into a martini glass.
 

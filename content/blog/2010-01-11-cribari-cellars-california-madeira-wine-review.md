@@ -1,9 +1,7 @@
 ---
-title: "Cribari Cellars California Madeira—Wine Review"
+title: "Cribari Cellars California Madeira"
 date: "2010-01-11"
 categories:
-  - "fortified-wine"
-  - "madeira"
   - "wine"
 tags:
   - "apricot-note"
@@ -16,7 +14,7 @@ tags:
   - "vanilla-note"
 ---
 
-**Wine:** Cribari Cellars California Madeira **Region:** California
+**Region:** California
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/cribarimadeira.JPG)
 

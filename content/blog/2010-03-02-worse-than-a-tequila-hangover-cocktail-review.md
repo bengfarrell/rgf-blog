@@ -1,8 +1,9 @@
 ---
-title: "Worse than a Tequila Hangover---Cocktail Review"
+title: "Worse than a Tequila Hangover"
 date: "2010-03-02"
 categories:
   - "recipes"
+  - "cocktails"
 tags:
   - "coffee-cocktail"
   - "maraschino-cherry"
@@ -13,11 +14,13 @@ tags:
   - "worse-than-a-tequila-hangover"
 ---
 
-Worse than a Tequila Hangover
-
 ![](http://www.thegourmez.com/gourmez/photos/worsethanmexicanhangover.jpg)
 
-2 shots Two Fingers gold tequila 0.5 shot Starbucks coffee liquor 2 shots heavy pulp orange juice 0.5 shot maraschino cherry juice 1 maraschino cherry
+2 shots Two Fingers gold tequila\
+0.5 shot Starbucks coffee liquor\
+2 shots heavy pulp orange juice\
+0.5 shot maraschino cherry juice\
+1 maraschino cherry
 
 Shake up the first three ingredients, then tip in the cherry juice and plop in the cherry. It's not pretty, but neither is a tequila hangover.
 

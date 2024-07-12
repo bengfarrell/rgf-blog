@@ -1,5 +1,5 @@
 ---
-title: "Cafe Capistrano (Cary)—Restaurant Review *CLOSED*"
+title: "Cafe Capistrano (Cary) *CLOSED*"
 date: "2009-12-10"
 categories: 
   - "cary-restaurant-reviews"

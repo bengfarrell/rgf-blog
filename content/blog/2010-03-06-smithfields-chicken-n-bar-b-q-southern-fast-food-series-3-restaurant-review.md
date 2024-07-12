@@ -1,8 +1,7 @@
 ---
-title: "Smithfield's Chicken 'N Bar-B-Q (Southern Fast Food Series #3)---Restaurant Review"
+title: "Smithfield's Chicken 'N Bar-B-Q (Southern Fast Food Series #3)"
 date: "2010-03-06"
 categories:
-  - "morrisville-restaurant-reviews"
   - "restaurants"
 tags:
   - "coleslaw"
@@ -16,7 +15,13 @@ tags:
   - "the-gourmez-review"
 ---
 
-**Southern Fast Food Series #3: Smithfield's Chicken 'N Bar-B-Q** More than 30 locations throughout North Carolina This location: 3578 Davis Drive, Morrisville, NC [Website](http://scnbnc.com/) Boxes of Chicken: $6.99–$22.99 Platters (2 sides and hushpuppies): $5.89–$6.99 Snacks (Fries): $4.49-5.29
+More than 30 locations throughout North Carolina\
+This location: 3578 Davis Drive\
+Morrisville, NC\
+[Website](http://scnbnc.com/)\
+Boxes of Chicken: $6.99–$22.99\
+Platters (2 sides and hushpuppies): $5.89–$6.99\
+Snacks (Fries): $4.49-5.29
 
 ![](http://www.thegourmez.com/gourmez/photos/smithfield_0001.JPG)
 
@@ -44,8 +49,5 @@ Next up, I'm thinking of a morning biscuit chain. Perhaps Biscuitville?
 <div class="caption">
 
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1") 3 stars</div>
-
-
-[![Smithfield's Chicken 'n Bar-B-Q](http://www.tabelog.us/restaurants/172975/blog_parts/logo/xxs.png)](http://www.tabelog.us/restaurants/smithfields-chicken-n-bar-b-q-172975)
 
 _Reviewed 3.1.10._

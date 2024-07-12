@@ -3,7 +3,7 @@ title: "Eastern Shore @ Blu Seafood (Durham)"
 date: "2010-06-21"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "blu-seafood-and-bar"
   - "cocktail"
@@ -15,7 +15,9 @@ tags:
   - "pimms"
 ---
 
-**Eastern Shore** Blu Seafood and Bar [Website](http://bluseafoodandbar.com/) [My restaurant review](http://www.thegourmez.com/?p=1326)
+**Blu Seafood and Bar**\
+[Website](http://bluseafoodandbar.com/)\
+[My restaurant review](https://thegourmez.com/blog/2010/06/14/blu-seafood-and-bar-durham/)
 
 ![](http://www.thegourmez.com/gourmez/photos/blu07.JPG)
 

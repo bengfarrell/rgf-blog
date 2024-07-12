@@ -2,7 +2,7 @@
 title: "Christmas in LA 2009—Travelogue"
 date: "2010-01-03"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "avila-adobe"
   - "christmas-eve-dinner"
@@ -144,4 +144,4 @@ We then decided to try for a cousins' picture and managed to succeed getting a f
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-150.jpg)
 
-We headed back home the next morning but didn't make it until Sunday, due to O'Hare flight problems once again. No matter, it was a great Christmas and I was happy to see the family again! Thanks for having us, Gomezes! There's plenty more pictures to view at our photo [website](http://www.blastanova.com/photoalbum/index.html?path=Adventures/Christmas%20in%20LA%202009).
+We headed back home the next morning but didn't make it until Sunday, due to O'Hare flight problems once again. No matter, it was a great Christmas and I was happy to see the family again! Thanks for having us, Gomezes!

@@ -2,7 +2,6 @@
 title: "Beyu Caffé"
 date: "2010-04-30"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "alicia-hylton"
@@ -24,7 +23,14 @@ tags:
 
 ![](http://www.thegourmez.com/gourmez/photos/beyucaffe05.JPG)
 
-**Beyu** **Caffé** 335 West Main Street Downtown Durham [Website](http://www.beyucaffe.com/) Breakfast, Lunch: $4–$10 Dinner: $8–$18 Desserts: $2–$5 Cocktails: $5.75–$9 Coffee: $1.60–$4.50
+335 West Main Street\
+Downtown Durham, NC\
+[Website](http://www.beyucaffe.com/)\
+Breakfast, Lunch: $4–$10\
+Dinner: $8–$18\
+Desserts: $2–$5\
+Cocktails: $5.75–$9\
+Coffee: $1.60–$4.50
 
 This review comes from three separate trips to Beyu Caffé (pronounced Be You); one for dessert and coffee, one for dessert and cocktails, and one for breakfast and coffee. There have been mixed reviews on Beyu's lunch and dinner menu so far, but on coffee and dessert, most people I've heard from have raved. I would also say that I was quite satisfied with my breakfast, but I haven't tried them for other meals. For breakfast and lunch, you order at the counter. For dinner, wait service is the standard.
 

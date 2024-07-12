@@ -1,8 +1,7 @@
 ---
-title: "Tom Yum Thai (Cary)---Restaurant Review"
+title: "Tom Yum Thai"
 date: "2010-02-26"
 categories:
-  - "cary-restaurant-reviews"
   - "restaurants"
 tags:
   - "calamari-rings"
@@ -17,7 +16,11 @@ tags:
   - "tom-yum-thai"
 ---
 
-**Tom Yum Thai** 685 Cary Towne Boulevard Village Square Shopping Center, Cary [Website](http://www.tomyumthaicary.com/) Entrees: $5.95–$18.95
+685 Cary Towne Boulevard\
+Village Square Shopping Center\
+Cary, NC\
+[Website](http://www.tomyumthaicary.com/)\
+Entrees: $5.95–$18.95
 
 ![](http://www.thegourmez.com/gourmez/photos/tomyumthai6.jpg)
 

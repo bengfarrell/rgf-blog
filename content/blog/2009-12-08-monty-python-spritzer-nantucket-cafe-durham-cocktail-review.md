@@ -1,5 +1,5 @@
 ---
-title: "Monty Python Spritzer @ Nantucket Cafe (Durham)—Cocktail Review"
+title: "Monty Python Spritzer @ Nantucket Cafe (Durham)"
 date: "2009-12-08"
 categories:
   - "bars"

@@ -2,8 +2,6 @@
 title: "Darien Tempranillo 2008 Riojo"
 date: "2010-06-10"
 categories:
-  - "red-wine-review"
-  - "tempranillo"
   - "wine"
 tags:
   - "2008-vintage"
@@ -18,7 +16,7 @@ tags:
   - "wine-cask-blog"
 ---
 
-**Darien Tempranillo 2008 Riojo** Logrono, Spain
+**Region:** Logrono, Spain
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/darienrioja.jpg)
 

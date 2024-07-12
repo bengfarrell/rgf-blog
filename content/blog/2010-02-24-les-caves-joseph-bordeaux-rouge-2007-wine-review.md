@@ -1,8 +1,8 @@
 ---
-title: "Les Caves Joseph Bordeaux Rouge 2007---Wine Review"
+title: "Les Caves Joseph Bordeaux Rouge 2007"
 date: "2010-02-24"
 categories:
-  - "red-bordeaux"
+  - "wine"
 tags:
   - "2007-vintage"
   - "cherry"
@@ -16,7 +16,7 @@ tags:
   - "vino-and-veggies"
 ---
 
-**Les Caves Joseph Bordeaux Rouge 2007** France
+**Region:** France
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/lescavesjosephbordeaux.jpg)
 

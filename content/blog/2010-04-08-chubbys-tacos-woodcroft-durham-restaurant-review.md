@@ -1,8 +1,7 @@
 ---
-title: "Chubby's Tacos (Woodcroft, Durham)---Restaurant Review"
+title: "Chubby's Tacos"
 date: "2010-04-08"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "al-pastor"
@@ -18,7 +17,10 @@ tags:
   - "torta"
 ---
 
-**Chubby's Tacos** 4711 Hope Valley Road Woodcroft, Durham [Website](http://www.chubbystacos.com) $2–$8 per item
+4711 Hope Valley Road\
+Woodcroft, Durham\
+[Website](http://www.chubbystacos.com)\
+$2–$8 per item
 
 ![](http://www.thegourmez.com/gourmez/photos/chubbys02.JPG)
 

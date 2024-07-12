@@ -1,9 +1,7 @@
 ---
-title: "Black Opal Cabernet Sauvignon 2008---Wine Review"
+title: "Black Opal Cabernet Sauvignon 2008"
 date: "2010-03-24"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
   - "wine"
 tags:
   - "2008-vintage"
@@ -17,11 +15,11 @@ tags:
   - "wine-o-rama"
 ---
 
-**Black Opal Cabernet Sauvignon 2008** Southeastern Australia
+**Region:** Southeastern Australia
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/blackopal.jpg)
 
-Nose: Plum and spice---most notably, paprika.
+Nose: Plum and spice—most notably, paprika.
 
 The spice definitely comes to the forefront when tasting, but it's much more peppery, though the paprika is still there. For fruit, there's raspberry and prune, with some of the dense molasses-type of sugar that comes with that dried plum, but not enough to be obnoxious. It's medium-bodied and pretty good.
 

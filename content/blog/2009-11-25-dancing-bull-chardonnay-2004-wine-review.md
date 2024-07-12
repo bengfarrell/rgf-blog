@@ -1,5 +1,5 @@
 ---
-title: "Dancing Bull Chardonnay 2004—Wine Review"
+title: "Dancing Bull Chardonnay 2004"
 date: "2009-11-25"
 categories:
   - "chardonnay"
