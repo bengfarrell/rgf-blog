@@ -1,16 +1,15 @@
 ---
-title: "Wine Review--Westbend Le Noirien"
+title: "Westbend Le Noirien"
 date: "2009-07-20"
 categories:
-  - "pinot-noir"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "north-carolina-wines"
   - "westbend-vineyards-le-noirien"
   - "yadkin-valley-wines"
 ---
 
-**Westbend Vineyards Le Noirien** _Other Words on the Label:_ 2005, Pinot Noir, Yadkin Valley
+**Other Words on the Label:** 2005, Pinot Noir, Yadkin Valley
 
 ![](http://www.rebeccagomezfarrell.com/photos/westbendlenoirien.jpg)
 

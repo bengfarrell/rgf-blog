@@ -1,9 +1,7 @@
 ---
-title: "Wine Review--Bella Sera 2007 Pinot Grigio"
+title: "Bella Sera 2007 Pinot Grigio"
 date: "2009-10-08"
 categories:
-  - "pinot-grigio-gris"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "bella-sera-2007-pinot-grigio"
@@ -14,7 +12,7 @@ tags:
   - "wine-reviews"
 ---
 
-Wine:  **Bella Sera 2007 Pinot Grigio** Region:  Dollo Venizie, Italy
+**Region:** Dollo Venizie, Italy
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/bellasera.jpg)
 
@@ -22,7 +20,7 @@ This pinot grigio smells of sweet and crisp honeydew. It tastes minerally with s
 
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")
 
-Other bloggers said:
+**Other bloggers said:**
 
 [Karen B's Cooking Made Easy!](http://karenbcookingmadeeasy.blogspot.com/2009/07/wine-pick-of-day-bella-sera-pinot.html):
 

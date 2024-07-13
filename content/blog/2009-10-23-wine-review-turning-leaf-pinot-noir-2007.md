@@ -1,9 +1,8 @@
 ---
-title: "Wine Review--Turning Leaf Pinot Noir 2007"
+title: "Turning Leaf Pinot Noir 2007"
 date: "2009-10-23"
 categories:
-  - "pinot-noir"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "anne-of-green-gables"
   - "cherry-cordial"
@@ -15,7 +14,7 @@ tags:
   - "wineass"
 ---
 
-Wine: **Turning Leaf Pinot Noir 2007** Region: Germany
+**Region:** Germany
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/tlpinotnoir.jpg)
 

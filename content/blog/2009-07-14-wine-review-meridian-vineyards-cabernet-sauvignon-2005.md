@@ -1,9 +1,7 @@
 ---
-title: "Wine Review--Meridian Vineyards Cabernet Sauvignon 2005"
+title: "Meridian Vineyards Cabernet Sauvignon 2005"
 date: "2009-07-14"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
   - "wine"
 tags:
   - "meridian-vineyards-cabernet-sauvignon-2005"
@@ -11,7 +9,9 @@ tags:
   - "the-gourmez-wine-review"
 ---
 
-**Meridian Vineyards Cabernet Sauvignon 2006** Other words on the label:  California ![](http://www.rebeccagomezfarrell.com/photos/meridiancab.jpg)
+**Other words on the label:** California
+
+ ![](http://www.rebeccagomezfarrell.com/photos/meridiancab.jpg)
 
 This wine has a spicy nose of cumin and rich cinnamon.  Figs are the central fruit though there is also a small bit of pipe tobacco on the finish.  It is tart and spicy.  For people like me who love a spicy wine, it is highly drinkable if a bit rough around the edges.
 

@@ -1,9 +1,8 @@
 ---
-title: "Wine Review--2007 Trentatre Rosso"
+title: "2007 Trentatre Rosso"
 date: "2009-10-22"
 categories:
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "date-notes"
   - "oc-wine-and-lifestyle"
@@ -14,7 +13,7 @@ tags:
   - "trentartre-rosso-2007"
 ---
 
-Wine: **2007 Trentartre Rosso** Region: Salento, Italy
+**Region:** Salento, Italy
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/thirtyone.jpg)
 

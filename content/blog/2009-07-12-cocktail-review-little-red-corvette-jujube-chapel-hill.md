@@ -1,9 +1,9 @@
 ---
-title: "Cocktail Review--Little Red Corvette, Jujube, Chapel Hill"
+title: "Little Red Corvette @ Jujube"
 date: "2009-07-12"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "agave-syrup"
   - "cocktail-review"
@@ -14,7 +14,10 @@ tags:
   - "triangle-cocktails"
 ---
 
-**Little Red Corvette** Jujube, Chapel Hill [http://www.jujuberestaurant.com](http://www.jujuberestaurant.com/) $9
+**Jujube**\
+Chapel Hill, NC\
+[http://www.jujuberestaurant.com](http://www.jujuberestaurant.com/)\
+$9
 
 The Little Red Corvette is made with agave syrup, tequila, and hibiscus nectar.  It was served in a double old-fashioned glass.  The drink was a beautiful carmine pink at bottom, with the shade getting lighter the higher up it went.
 

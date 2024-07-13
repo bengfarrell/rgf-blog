@@ -1,9 +1,7 @@
 ---
-title: "Wine Review--Hanover Park Mourvedre 2005"
+title: "Hanover Park Mourvedre 2005"
 date: "2009-06-24"
 categories:
-  - "mourvedre"
-  - "red-wine-review"
   - "wine"
 tags:
   - "hanover-park-mourvedre-2005"
@@ -12,7 +10,7 @@ tags:
   - "yadkin-valley-wines"
 ---
 
-**Hanover Park Mourvedre 2005** Other words on the label:  Yadkin Valley, Alcohol Content 13%
+**Other words on the label:** Yadkin Valley, Alcohol Content 13%
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/Hanover_Park_Mouvedre.jpg)
 

@@ -1,9 +1,9 @@
 ---
-title: "Cocktail Review--Fiesta, Bandido's Mexican Cafe"
+title: "Fiesta @ Bandido's Mexican Cafe"
 date: "2009-06-18"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "bandidos-mexican-cafe"
   - "creme-de-banane"
@@ -12,7 +12,11 @@ tags:
   - "pineapple-juice"
 ---
 
-**Fiesta** Bandido's Mexican Cafe 4711 Hope Valley Road Woodcroft Shopping Center, Durham [www.bandidoscafe.com](http://www.bandidoscafe.com/)
+**Bandido's Mexican Cafe**\
+4711 Hope Valley Road\
+Woodcroft Shopping Center\
+Durham, NC\
+[www.bandidoscafe.com](http://www.bandidoscafe.com/)
 
 The Fiesta is a tropical cocktail made with Malibu rum, crème de banane, and pineapple juice.  The noxiously yellow drink came in a hurricane glass with plenty of ice.  The banana is apparent on first sip but is overpowered by the pineapple juice that snatches control and doesn't give it up.  An uninspired drink.
 

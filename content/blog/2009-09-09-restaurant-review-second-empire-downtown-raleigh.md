@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Second Empire, Downtown Raleigh"
+title: "Second Empire, Downtown Raleigh"
 date: "2009-09-09"
 categories:
-  - "raleigh-restaurant-reviews"
   - "restaurants"
 tags:
   - "buttermilk-pie"
@@ -15,7 +14,10 @@ tags:
   - "victorian-house-raleigh"
 ---
 
-**Second Empire** 330 Hillsborough Street Downtown Raleigh Entrees: $25-37. [http://www.second-empire.com](http://www.second-empire.com/)
+330 Hillsborough Street\
+Downtown Raleigh, NC\
+Entrees: $25-37\
+[http://www.second-empire.com](http://www.second-empire.com/)
 
 Second Empire is a four star, fine dining restaurant housed in a lovely historic Victorian house.
 

@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Backyard Barbecue Pit, Durham"
+title: "Backyard Barbecue Pit, Durham"
 date: "2009-05-06"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "backyard-barbecue-pit"
@@ -13,7 +12,9 @@ tags:
   - "triangle-barbecue"
 ---
 
-**5122 NC Highway 55** **[www.sweetribs.com](http://www.sweetribs.com/)** **Meals with 2 sides:  $5.49-8.99** **Sandwiches:  $3.50**
+[www.sweetribs.com](http://www.sweetribs.com/)\
+Meals with 2 sides: $5.49-8.99\
+Sandwiches: $3.50
 
 The Backyard Barbecue Pit is in a nondescript storefront on the Highway 55 corridor.  From the moment you step out of your car, in a parking lot that definitely needs a makeover, the smell of a campfire and roasting meat greets you.  It's much larger than it looks inside, with plenty of seating in simple tables and booths.  The white walls are covered with graffiti from diners come and gone.  Order up front at the counter and choose from a selection of smoked meats or fried fish.  The standard sides are all in attendance as well, with plenty of green beans, collards, etc., jostling for your attention.  I opted for the white meat chicken plate with sides of macaroni and cheese, potato salad, and hush puppies.  My sister went for the rack of pork ribs, her favorite food at most any barbecue locale.
 

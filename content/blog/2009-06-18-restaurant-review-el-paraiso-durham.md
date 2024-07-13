@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--El Paraiso, Durham *CLOSED*"
+title: "El Paraiso, Durham *CLOSED*"
 date: "2009-06-18"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "agua-fresca"
@@ -15,7 +14,9 @@ tags:
   - "the-gourmez-restaurant-review"
 ---
 
-**El Paraiso** \*CLOSED\* 111 S. Alston Street East Durham (Note, I only think this is the East Durham area.  Feel free to correct me!) Lunch/Dinner:  $2-7 per item
+111 S. Alston Street\
+East Durham, NC (Note, I only think this is the East Durham area.  Feel free to correct me!)\
+Lunch/Dinner: $2-7 per item
 
 I've been dying to try one of Durham's taquerias for quite some time, as they have been heavily praised.  On my way back from the Animal Protection Society for a biweekly check for my lost cat, I stopped for lunch at El Paraiso.  It's not much to look at from the outside, basic building with barred windows, but I did like the bright green paint!  Inside, the walls are yellow and studded with those beer logo mirrors that I think must be sent out for free advertisement in bulk.  There are two rows of plywood booths and a few red-clothed tables as well.  Pool table in the back.  Soccer on the television.  This sort of relaxed vibe is exactly what I think of when I think cheap eats for lunch.
 

@@ -2,7 +2,7 @@
 title: "Small Plot Curiousity"
 date: "2009-02-13"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "durham-cemeteries"
   - "graveyards"

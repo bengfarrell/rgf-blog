@@ -1,8 +1,7 @@
 ---
-title: "Saffron--Morrisville, NC"
+title: "Saffron"
 date: "2009-02-19"
 categories:
-  - "morrisville-restaurant-reviews"
   - "restaurants"
 tags:
   - "indian-in-the-triangle"
@@ -11,14 +10,9 @@ tags:
   - "the-gourmez"
 ---
 
-**Saffron**
-
-**4121 Davis Drive**
-
-**Morrisville, NC**
-
-**Dinner Entrees:  $10-27**
-
+4121 Davis Drive\
+Morrisville, NC\
+Dinner Entrees: $10-27\
 [www.saffronnc.com](http://www.saffronnc.com/)
 
 We went to Saffron on a Friday night with friends who recommended it.  Our opinion of triangle area Indian hasn't been great but this restaurant is definitely a find, especially as it wasn't full on a Friday night.  That's a miracle in itself and likely an anomaly.

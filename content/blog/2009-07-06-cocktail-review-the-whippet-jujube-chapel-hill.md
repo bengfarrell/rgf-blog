@@ -1,10 +1,9 @@
 ---
-title: "Cocktail Review--The Whippet, Jujube, Chapel Hill"
+title: "The Whippet @ Jujube"
 date: "2009-07-06"
 categories:
   - "bars"
-  - "bars-chapel-hill-nc"
-  - "cava"
+  - "cocktails"
 tags:
   - "finlandia-grapfruit-vodka"
   - "jujube-cocktails"
@@ -13,7 +12,8 @@ tags:
   - "the-whippet-cocktail"
 ---
 
-**The Whippet** Jujube [http://www.jujuberestaurant.com](http://www.jujuberestaurant.com/)
+**Jujube**\
+[http://www.jujuberestaurant.com](http://www.jujuberestaurant.com/)
 
 Jujube's bartenders definitely know how to make a good cocktail.  The whippet is a gem of a drink with Finlandia grapefruit-flavored vodka, Cava, and lychee juice.    It looked like a Lemon Drop minus the sugary rim, an elegant, white gold drink with an ice shard layer that I love.  The taste was wonderfully layered as well; all elements were present and accounted for and happy to share the limelight.
 

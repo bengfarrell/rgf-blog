@@ -1,16 +1,15 @@
 ---
-title: "Wine Review--Condesa de Saraballa Garnacha 2007"
+title: "Condesa de Saraballa Garnacha 2007"
 date: "2009-03-16"
 categories:
-  - "garnacha"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "condesa-de-sarabella"
   - "condesa-de-sarabella-garnacha-2007"
   - "the-gourmez-wine-review"
 ---
 
-_Other words on the label: Producto de Espana_
+**Other words on the label:** Producto de Espana
 
 The label displays an abstract, lined portrait on a mustard yellow background.
 

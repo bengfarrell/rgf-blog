@@ -1,9 +1,7 @@
 ---
-title: "Wine Review--Cline Zinfandel 2007"
+title: "Cline Zinfandel 2007"
 date: "2009-08-14"
 categories:
-  - "zinfandel"
-  - "red-wine-review"
   - "wine"
 tags:
   - "cline-zinfandel-2007"
@@ -12,7 +10,7 @@ tags:
   - "the-gourmez-review"
 ---
 
-**Cline Zinfandel 2007** Region:  California
+**Region:**  California
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/clinezin.jpg)
 

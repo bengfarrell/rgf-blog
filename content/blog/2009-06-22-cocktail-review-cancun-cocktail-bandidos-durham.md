@@ -1,9 +1,9 @@
 ---
-title: "Cocktail Review--Cancun Cocktail, Bandido's, Durham"
+title: "Cancun Cocktail @ Bandido's"
 date: "2009-06-22"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "bandidos-durham"
   - "cancun-cocktail"
@@ -13,7 +13,9 @@ tags:
   - "the-gourmez-cocktail-review"
 ---
 
-Cancun Cocktail Bandido's Mexican Café Woodcroft, Durham [http://www.bandidoscafe.com](http://www.bandidoscafe.com/)
+**Bandido's Mexican Café**\
+Woodcroft, Durham, NC\
+[http://www.bandidoscafe.com](http://www.bandidoscafe.com/)
 
 The Cancun Cocktail, served in a hurricane glass, is the color of a salmon fillet.  Unappetizing description aside, it's a great drink with dark rum, peach schnapps; orange, pineapple and papaya juices.  Peach schnapps would overpower a lighter base but it serves to mellow out the dark rum here.  All three juices are easily discernable in the mix and I loved that papaya was part of it.
 

@@ -1,9 +1,8 @@
 ---
-title: "Wine Review--Snapping Turtle Merlot 2007"
+title: "Snapping Turtle Merlot 2007"
 date: "2009-09-16"
 categories:
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "curry-nose"
   - "dijon-note"
@@ -12,7 +11,7 @@ tags:
   - "tobacco-nose"
 ---
 
-**Wine:  Snapping Turtle Merlot 2007** Region:  Monterey, CA
+**Region:** Monterey, CA
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/snappingturtlemerlot.jpg)
 

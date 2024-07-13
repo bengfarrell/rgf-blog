@@ -2,7 +2,7 @@
 title: "Eno River Hike"
 date: "2009-05-22"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "christa-gomez"
   - "durham-water-pump"
@@ -30,5 +30,3 @@ And here's proof that Christa actually made it into the woods!
 ![picture-032forblog](http://s3.amazonaws.com/thegourmez-wpmedia/2009/05/picture-032forblog-200x300.jpg "picture-032forblog")
 
 I enjoyed getting out for a hike, something I have not done often enough since leaving Santa Cruz, and will definitely go back to the Eno River.  Does anybody have a favorite hike at Eno River National Park or just any cool spots that I must see?
-
-For more pictures from our hike, head to my photo [website](http://www.yellow5labs.com/photos/index.php?path=./Adventures/Eno%20River).

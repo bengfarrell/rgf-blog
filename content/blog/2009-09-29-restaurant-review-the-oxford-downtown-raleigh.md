@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--The Oxford (Downtown Raleigh)"
+title: "The Oxford (Downtown Raleigh)"
 date: "2009-09-29"
 categories:
-  - "raleigh-restaurant-reviews"
   - "restaurants"
 tags:
   - "blt-fried-green-tomato"
@@ -14,7 +13,11 @@ tags:
   - "tomato-stilton-bisque"
 ---
 
-**The Oxford** 319 Fayetteville Street Downtown Raleigh [http://www.oxfordraleigh.com/](http://www.oxfordraleigh.com/) Lunch/Brunch: $9-14 Dinner: $9-19
+319 Fayetteville Street\
+Downtown Raleigh, NC\
+[http://www.oxfordraleigh.com/](http://www.oxfordraleigh.com/)\
+Lunch/Brunch: $9-14\
+Dinner: $9-19
 
 The Oxford is a gastropub in downtown Raleigh with a posh, yet relaxed atmosphere.  It's a large space that's divided into three rooms, one with a huge television, twinkly-starred ceiling, and the Union Jack on the wall; one that's more of a traditional dining room with gold crests on the red and black walls and black shrouded chandeliers; and one that is the bar area with high-top tables and comfortable red leather chairs.
 

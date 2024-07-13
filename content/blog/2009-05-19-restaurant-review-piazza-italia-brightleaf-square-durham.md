@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Piazza Italia, Brightleaf Square, Durham"
+title: "Piazza Italia"
 date: "2009-05-19"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "brightleaf"
@@ -17,7 +16,11 @@ tags:
 
 Drum roll, please...this is my 40th restaurant review!  Yippee!  Thanks, Triangle, for having so many awesome places to dine at!
 
-**Piazza Italia** 905 West Main Street, Suite 18A Brightleaf Square, Durham [http://piazzaitalia.us/](http://piazzaitalia.us/) Entrees:  $11-24
+**Piazza Italia**\
+905 West Main Street, Suite 18A\
+Brightleaf Square, Durham, NC\
+[http://piazzaitalia.us/](http://piazzaitalia.us/)\
+Entrees:  $11-24
 
 Piazza Italia is a combination of two restaurants and one gelato counter.  Per their website, there is also a market but I did not come across it.  We ate in the Piazza Italia portion, which had a warm, rustic feel with mild orange walls and attractive wooden supports.  Down the brightly painted corridor that evokes an Italian piazza, of course, you find the gelato counter and Piazza di Mare, the lovely, white and cream room where their seafood-focused menu is offered.
 

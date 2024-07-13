@@ -1,16 +1,15 @@
 ---
-title: "Wine Review--La Ferme Julien Rouge 2007"
+title: "La Ferme Julien Rouge 2007"
 date: "2009-03-16"
 categories:
-  - "other-red-blends"
-  - "red-wine-review"
   - "wine"
 tags:
   - "la-ferme-julien-rouge-2007"
   - "the-gourmez-wine-review"
 ---
 
-_Other words on the label: Rhone Valley Vineyards_ _Cotes Du Ventaux_ _Appellation Cotes Du Ventaux controlee_
+**Other words on the label:**\
+Rhone Valley Vineyards, Cotes Du Ventaux, Appellation Cotes Du Ventaux controlee
 
 This wine is a blend of grenache, syrah, carignan, and cinsault. I've only heard of the first two before. There are an awful lot of grape varietals in the world, aren't there?
 

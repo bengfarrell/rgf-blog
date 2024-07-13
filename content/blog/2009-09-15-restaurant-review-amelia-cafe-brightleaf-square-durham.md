@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Amelia Cafe, Brightleaf Square, Durham"
+title: "Amelia Cafe, Brightleaf Square, Durham"
 date: "2009-09-15"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "amelia-cafe-durham"
@@ -15,7 +14,12 @@ tags:
   - "the-gourmez-restaurant-review"
 ---
 
-**Amelia Café** 905 West Main Street Brightleaf Square, Durham [www.ameliacafe.us](http://www.ameliaface.us) Food: $3-11 Desserts: $2-6.50
+905 West Main Street\
+Brightleaf Square\
+Durham, NC\
+[www.ameliacafe.us](http://www.ameliaface.us)\
+Food: $3-11\
+Desserts: $2-6.50
 
 Amelia Cafe is an appealing spot for lunch or dessert if you are in the Brightleaf area.
 

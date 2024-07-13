@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Rue Cler, Downtown Durham"
+title: "Rue Cler"
 date: "2009-05-29"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "beignet"
@@ -12,7 +11,11 @@ tags:
   - "the-gourmez-review"
 ---
 
-**Rue Cler** 401 East Chapel Hill Street Downtown Durham Website:  [http://www.ruecler-durham.com/](http://www.ruecler-durham.com/) Brunch/Lunch:  $7-17 Dinner:  Prix Fixe $30, a la carte $9-17
+401 East Chapel Hill Street\
+Downtown Durham, NC\
+Website: [http://www.ruecler-durham.com/](http://www.ruecler-durham.com/)\
+Brunch/Lunch: $7-17\
+Dinner: Prix Fixe $30, a la carte $9-17
 
 Rue Cler is a French restaurant and bakery café located on a cozy corner of downtown Durham.
 

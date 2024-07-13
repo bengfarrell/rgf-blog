@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Saladelia Cafe (Durham)"
+title: "Saladelia Cafe (Durham)"
 date: "2009-10-05"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "brunch-durham"
@@ -14,7 +13,11 @@ tags:
   - "the-gourmez-restaurant-review"
 ---
 
-**Saladelia Cafe** 4201 University Drive Eastgate, Durham [www.saladelia.com](http://www.saladelia.com/) Breakfast: $3.25-7.90 Lunch: $4.99-7.50
+4201 University Drive\
+Eastgate, Durham, NC\
+[www.saladelia.com](http://www.saladelia.com/)\
+Breakfast: $3.25-7.90\
+Lunch: $4.99-7.50
 
 Saladelia is a staple of Durham's lunch scene with a bustling catering business in addition to their onsite food.  It is a favorite of mine for a late breakfast also, as their breakfast menu is available until 2pm on the weekend.  They offer sandwiches, salads, pastries, and desserts with a Mediterranean bent.  Order at the counter and your food will be brought to you.  Espresso drinks are available.
 

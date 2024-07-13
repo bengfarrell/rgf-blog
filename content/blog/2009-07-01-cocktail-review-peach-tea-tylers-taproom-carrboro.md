@@ -1,9 +1,9 @@
 ---
-title: "Cocktail Review--Peach Tea, Tyler's Taproom, Carrboro"
+title: "Peach Tea @ Tyler's Taproom"
 date: "2009-07-01"
 categories:
   - "bars"
-  - "bars"
+  - "cocktails"
 tags:
   - "club-soda"
   - "firefly-sweet-tea-vodka"
@@ -14,7 +14,9 @@ tags:
   - "tylers-taproom-cocktails"
 ---
 
-**Peach Tea** Tyler's Taproom, Carrboro [www.tylerstaproom.com](http://www.tylerstaproom.com/)
+**Tyler's Taproom**\
+Carrboro, NC\
+[www.tylerstaproom.com](http://www.tylerstaproom.com/)
 
 I was drawn to the Peach Tea cocktail while out with friends last weekend to celebrate my husband's birthday.  I'm a big fan of Firefly Sweet Tea Vodka, which is saying a lot since I don't like sweet tea in its natural form at all, by which I mean liquid so thick you could stand up a fork in it.  Firefly is all the rage for mixing these days and Tyler's had three different drinks featuring it, if I recall correctly.  This one also included peach schnapps, club soda, and Sierra Mist.
 

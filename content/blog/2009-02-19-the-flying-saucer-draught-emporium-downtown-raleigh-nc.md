@@ -1,5 +1,5 @@
 ---
-title: "The Flying Saucer Draught Emporium--Downtown Raleigh, NC"
+title: "The Flying Saucer Draught Emporium"
 date: "2009-02-19"
 categories:
   
@@ -14,12 +14,9 @@ tags:
   - "the-gourmez"
 ---
 
-**The Flying Saucer Draught Emporium**
-
-**328 West Morgan Street, Downtown Raleigh, NC**
-
-**Grub: $5-8**
-
+328 West Morgan Street\
+Downtown Raleigh, NC\
+Grub: $5-8\
 [http://www.beerknurd.com/stores/raleigh](http://www.beerknurd.com/stores/raleigh)
 
 We hit The Flying Saucer with a couple of my husband's coworkers.  I'd heard of it often, so was curious to try it out.  It's one of several in the southeast region and is definitely a place designed to bring friends together for drinking and hanging out.  It fully succeeds in doing just that.

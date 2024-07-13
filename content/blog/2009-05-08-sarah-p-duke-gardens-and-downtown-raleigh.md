@@ -2,8 +2,7 @@
 title: "Sarah P. Duke Gardens and Downtown Raleigh"
 date: "2009-05-08"
 categories:
-  - "travel-guide"
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "downtown-raleigh"
   - "durham-gardens"

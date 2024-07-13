@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Bali Hai, 9th Street, Durham"
+title: "Bali Hai"
 date: "2009-05-11"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "bali-hai-durham"
@@ -15,8 +14,9 @@ tags:
   - "triangle-restaurants"
 ---
 
-Bali Hai 811 9th Street, Suite 170 9th Street District, Durham [http://www.balihainc.com/](http://www.balihainc.com/)
-
+811 9th Street, Suite 170\
+9th Street District, Durham, NC\
+[http://www.balihainc.com/](http://www.balihainc.com/)\
 Entrees:  $7-9
 
 Bali Hai is a Mongolian restaurant with two branches in the Triangle area.  They offer a unique dining experience, where you fill one or two bowls with your choice of vegetables and thinly sliced beef, pork, or turkey.  If you would like other meats or seafood, they are available at an additional cost of $1.50-3. You then leave your bowl for the chef to stir fry along with your chosen sauce and when it is done, your server brings it over with either steamed or fried rice.  You give your server your drink, sauce, and rice preferences before you head to the ingredient station.

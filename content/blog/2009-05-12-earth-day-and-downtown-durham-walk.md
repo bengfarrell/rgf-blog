@@ -2,7 +2,7 @@
 title: "Earth Day and Downtown Durham Walk"
 date: "2009-05-12"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "downtown-durham"
   - "durham-architecture"

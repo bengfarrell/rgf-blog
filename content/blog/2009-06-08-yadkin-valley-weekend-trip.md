@@ -2,8 +2,8 @@
 title: "Yadkin Valley Weekend Trip"
 date: "2009-06-08"
 categories: 
-  - "tasting-rooms-in-the-yadkin-valley-nc"
-  - "travel-guide"
+  - "tasting-rooms"
+  - "travel-guides"
 tags: 
   - "buck-shoals-vineyard"
   - "elkin-creek-vineyard"
@@ -22,7 +22,7 @@ Anyhow, we set out on Saturday morning.  We took I-40 out west for around 1.5 h
 
 ![picture-027forblog](http://s3.amazonaws.com/thegourmez-wpmedia/2009/06/picture-027forblog-300x2001.jpg "picture-027forblog")
 
-[Westbend Vineyards was](http://www.westbendvineyards.com/) a welcome sight after a couple of hours driving.  It definitely had one of the most pleasing outdoor seating areas of the bunch.  We walked out with a bottle of their Pioneer White and Le Noirian.
+[Westbend Vineyards](http://www.westbendvineyards.com/) was a welcome sight after a couple of hours driving.  It definitely had one of the most pleasing outdoor seating areas of the bunch.  We walked out with a bottle of their Pioneer White and Le Noirian.
 
 It's worth mentioning that if you, like us, hadn't tried the wine of Yadkin Valley before, it is much, much less sweet than the wines you can find closer to home.  Never once did I hear the words "muscadine" or "scuppernong" while we tasted, and I have to say, I am glad for it.  Those two native NC grapes typically create wines that are way too sweet for me.  Not one of these places offered a fruit wine either, which again, was a nice change from wineries closer to home.  Fruit and sweet wines can be great; I've just gotten tired of tasting them and appreciate the more traditional wines that the Yadkin Valley offered.
 
@@ -64,6 +64,10 @@ Last on the list was [RagApple Lassie Vineyards](http://www.ragapplelassie.com/)
 
 The tasting room is in the same industrial building as at least some of their vats, which takes away some hominess but the enjoyable tasting made up for it.  We only ended up with their "Oh my, God!" picnic red wine, named thusly because it was packaged in the wrong bottle.  I think this was due to my tastebuds and credit card being worn out by this point.  There were definitely more winners in the bunch.
 
-What I've learned about Yadkin Valley is 1. It's much closer than I thought!  2.  The wines are much more amenable to my palate.  I like a mix of dry and lightly sweet wines and it was great to try more local wines that fit that.  3.  Fairfield Inn is a great place to stay in the area and 4.  A weekend spent wine tasting is a weekend well spent.
+What I've learned about Yadkin Valley:
 
-For more pictures from our weekend, check out our photo [website](http://www.yellow5labs.com/photos/index.php?path=./Adventures/Yadkin%20Valley,%20NC).
+1. It's much closer than I thought!
+1. The wines are much more amenable to my palate.  I like a mix of dry and lightly sweet wines and it was great to try more local wines that fit that.
+1. Fairfield Inn is a great place to stay in the area.
+1. A weekend spent wine tasting is a weekend well spent.
+

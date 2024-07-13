@@ -2,8 +2,7 @@
 title: "Albero Tempranillo Barrica 2006"
 date: "2009-03-30"
 categories:
-  - "red-wine-review"
-  - "tempranillo"
+  - "wine"
 tags:
   - "albero"
   - "albero-spanish-red-wine"

@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Bavarian Brathaus, Cary"
+title: "Bavarian Brathaus"
 date: "2009-06-25"
 categories:
-  - "cary-restaurant-reviews"
   - "restaurants"
 tags:
   - "authentic-german-food"
@@ -15,7 +14,10 @@ tags:
   - "the-gourmez-restaurant-review"
 ---
 
-**Bavarian Brathaus** Cary Parkway and Tryon Drive Cary [http://www.carybrats.blogspot.com/](http://www.carybrats.blogspot.com/) Entrees:  $23-27, though you can get just a bratwurst for cheaper.
+Cary Parkway and Tryon Drive\
+Cary, NC\
+[http://www.carybrats.blogspot.com/](http://www.carybrats.blogspot.com/)\
+Entrees: $23-27, though you can get just a bratwurst for cheaper
 
 _Disclaimer:  I went to Bavarian Brathaus with a German friend who thinks it is fantastic and has tried many things on the menu.  I think if I were a bigger lover of meat, I may have liked it more.  Also, portions are large!_
 
@@ -29,7 +31,7 @@ Inside, there is plentiful seating with an interior that feels both like a castl
 
 Nothing can put you in the mood better than that!  I believe they aim to have musicians play at least once a month.
 
-There is plenty of German beer to choose from for the beer drinkers among you, including sample portions.  Not being a beer drinker, I ordered one of the [King's Champagne Cocktails](http://www.thegourmez.com/gourmez/cocktails/review.php?id=29&type= "The Gourmez Cocktail Review"), which, well, could have been better.
+There is plenty of German beer to choose from for the beer drinkers among you, including sample portions.  Not being a beer drinker, I ordered one of the King's Champagne Cocktails which, well, could have been better.
 
 A basket of white and dark bread rolls, honey butter and tomato salad was served with all entrees.  While the bread was nothing special, the tomato salad was delicious.  Tomatoes, onions and parsley, I believe, were mixed in a creamy and oily dressing that was invitingly sweet.
 

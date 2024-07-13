@@ -1,9 +1,9 @@
 ---
-title: "Cocktail Review--The Shiki Tini"
+title: "The Shiki Tini @ Shiki Sushi"
 date: "2009-04-03"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "cocktail-review"
   - "cocktails-triangle"
@@ -12,8 +12,9 @@ tags:
   - "shiki-tini"
 ---
 
-Shiki Sushi 207 W Highway 54 Homestead Market, Durham
-
+**Shiki Sushi**\
+207 W Highway 54\
+Homestead Market, Durham, NC\
 [http://www.shikisushionline.com/](http://shikisushionline.com)
 
 I am an unabashed fan of Shiki Sushi.  Their intriguing deluxe rolls, relaxing atmosphere, and fantastic selection of non-sushi items never fail to leave me well-fed and happy.  But there is the occasionally squeaky wheel and at last night's dinner, it was the Shiki Tini.

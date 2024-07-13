@@ -1,9 +1,8 @@
 ---
-title: "Wine Review--Cristalino Cava"
+title: "Cristalino Cava"
 date: "2009-09-11"
 categories:
-  - "cava"
-  - "sparkling-wine-review"
+  - "wine"
 tags:
   - "cava-review"
   - "chicken-soup-wine"
@@ -11,7 +10,7 @@ tags:
   - "spanish-wine"
 ---
 
-Wine:  **Cristalino Cava** Region:  Spain
+**Region:** Spain
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/cristalino.jpg)
 

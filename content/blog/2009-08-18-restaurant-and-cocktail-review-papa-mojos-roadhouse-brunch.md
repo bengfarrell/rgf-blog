@@ -1,10 +1,9 @@
 ---
-title: "Restaurant and Cocktail Review--Papa Mojo's Roadhouse, Brunch"
+title: "Restaurant and Papa Mojo's Roadhouse"
 date: "2009-08-18"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
-  - "durham-restaurant-reviews"
+  - "cocktails"
   - "restaurants"
 tags:
   - "beignets"
@@ -20,7 +19,11 @@ tags:
   - "triangle-cajun"
 ---
 
-**Papa Mojo's Roadhouse** 5410-Y Highway 55 Greenwood Commons Durham [www.papamojosroadhouse.com](http://www.papamojosroadhouse.com/) Brunch:  $7–$13.
+**Papa Mojo's Roadhouse**\
+5410-Y Highway 55\
+Greenwood Commons, Durham, NC\
+[www.papamojosroadhouse.com](http://www.papamojosroadhouse.com/)\
+Brunch:  $7–$13
 
 Papa Mojo's is a lively restaurant full of good Cajun cooking, live music during Sunday brunch and most evenings, and a bar with a nice drink list.  They do not shy away from a New Orleans vibe but rather embrace it fully with Mardi Gras décor mixing it up with their wooden tables and benches, faux fireplace, and broken mirrors.
 

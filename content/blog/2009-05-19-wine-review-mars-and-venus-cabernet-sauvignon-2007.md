@@ -1,9 +1,8 @@
 ---
-title: "Wine Review--Mars and Venus Cabernet Sauvignon 2007"
+title: "Mars and Venus Cabernet Sauvignon 2007"
 date: "2009-05-19"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "cabernet-sauvignon-review"
   - "mars-and-venus-cabernet-sauvignon"
@@ -11,9 +10,7 @@ tags:
   - "the-gourmez-wine-review"
 ---
 
-**Mars and Venus Cabernet Sauvignon 2007**
-
-**![](http://www.rebeccagomezfarrell.com/gourmez/photos/Picture051forblog.jpg)**
+![](http://www.rebeccagomezfarrell.com/gourmez/photos/Picture051forblog.jpg)**
 
 The nose is musty but in a good, inviting way.  It smells closest to sweet tobacco from a pipe.
 

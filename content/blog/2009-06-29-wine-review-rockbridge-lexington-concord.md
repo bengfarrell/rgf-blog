@@ -1,8 +1,8 @@
 ---
-title: "Wine Review--Rockbridge Lexington & Concord"
+title: "Rockbridge Lexington & Concord"
 date: "2009-06-29"
 categories:
-  - "dessert-wine-reviews"
+  - "wine"
 tags:
   - "concord-grape-wine"
   - "dessert-or-table-wine"
@@ -12,7 +12,7 @@ tags:
   - "virginia-sweet-red-table-wine"
 ---
 
-**Rockbridge Lexington & Concord** Other words on the label:  Virginia Sweet Red Table Wine
+**Other words on the label:** Virginia Sweet Red Table Wine
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/Rockbridge.jpg "Rockbridge Sweet Table Wine")
 

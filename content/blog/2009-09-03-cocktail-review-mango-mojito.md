@@ -1,9 +1,9 @@
 ---
-title: "Cocktail Review--Mango Mojito"
+title: "Mango Mojito"
 date: "2009-09-03"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "10-cane-rum"
   - "cocktail-reviews"
@@ -13,7 +13,9 @@ tags:
   - "the-gourmez-review"
 ---
 
-**Mango Mojito** Firebirds Rocky Mountain Grill Southpoint Durham [http://www.firebirdsrockymountaingrill.com/](http://www.firebirdsrockymountaingrill.com/)
+**Firebirds Rocky Mountain Grill**\
+Southpoint, Durham, NC\
+[http://www.firebirdsrockymountaingrill.com/](http://www.firebirdsrockymountaingrill.com/)
 
 ![](http://www.thegourmez.com/gourmez/photos/mangomojito.jpg)
 

@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Satisfaction, Brightleaf Square, Durham"
+title: "Satisfaction"
 date: "2009-07-15"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "cars-in-restaurants"
@@ -12,9 +11,11 @@ tags:
   - "the-gourmez-restaurant-review"
 ---
 
-**Satisfaction Restaurant and Bar** 905 W Main Street Suite 37 Brightleaf Square, Durham [http://www.satisfactionrestaurant.com](http://www.satisfactionrestaurant.com/)
-
-Sandwiches and Salads:  $5.29-8.99. Pizza:  Starting at $8.59 for a small, plain cheese.
+905 W Main Street, Suite 37\
+Brightleaf Square, Durham, NC\
+[http://www.satisfactionrestaurant.com](http://www.satisfactionrestaurant.com/)\
+Sandwiches and Salads: $5.29-8.99\
+Pizza: Starting at $8.59 for a small, plain cheese
 
 On a Sunday afternoon, Satisfaction is a relaxing sports bar and grill.  I specify when we ate because I've been here for a drink on a game night and the vibe is completely different, much louder and younger, as to be expected.  It has a large, open, wood and brick interior with sports paraphernalia, plenty of huge televisions, and a couple of cars coming out of the walls.
 

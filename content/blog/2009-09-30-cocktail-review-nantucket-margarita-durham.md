@@ -1,9 +1,9 @@
 ---
-title: "Cocktail Review--Nantucket Margarita (Durham)"
+title: "Nantucket Margarita (Durham)"
 date: "2009-09-30"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "cocktail-reviews"
   - "drink-reviews"
@@ -14,7 +14,9 @@ tags:
   - "sutton-station"
 ---
 
-**Nantucket Margarita** Nantucket Cafe and Grill Sutton Station, Durham [www.nantucketcafeandgrill.com](http://www.nantucketcafeandgrill.com/)
+**Nantucket Cafe and Grill**\
+Sutton Station, Durham, NC\
+[www.nantucketcafeandgrill.com](http://www.nantucketcafeandgrill.com/)
 
 ![](http://www.thegourmez.com/gourmez/photos/nantucketmargarita.jpg)
 

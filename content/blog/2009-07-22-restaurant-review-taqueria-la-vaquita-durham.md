@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Taqueria La Vaquita, Durham"
+title: "Taqueria La Vaquita"
 date: "2009-07-22"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "durham-taquerias"
@@ -16,7 +15,11 @@ tags:
   - "torta"
 ---
 
-**Taqueria La Vaquita** 2700 Chapel Hill Road Durham [http://lavaquitanc.com](http://lavaquitanc.com/) A la carte:  $2-6. Plates:  $8.29-14.
+2700 Chapel Hill Road\
+Durham, NC\
+[http://lavaquitanc.com](http://lavaquitanc.com/)\
+A la carte: $2-6\
+Plates: $8.29-14
 
 ![](http://www.thegourmez.com/gourmez/photos/lavaquita.jpg)
 

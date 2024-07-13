@@ -1,5 +1,5 @@
 ---
-title: "Lack of updates=sick!"
+title: "Lack of updates = sick!"
 date: "2009-07-04"
 categories: 
   - "announcements"

@@ -2,7 +2,7 @@
 title: "6 Days to Paradise"
 date: "2009-02-26"
 categories:
-  - "travel-guide"
+  - "announcements"
 tags:
   - "inertia"
   - "jamaica"

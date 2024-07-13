@@ -2,13 +2,12 @@
 title: "Barten & Guestier Private Selection Merlot 2006"
 date: "2009-02-06"
 categories:
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "barten-guestier"
 ---
 
-**Other Words:  Depuis 1725**
+**Other Words on the label:** Depuis 1725
 
 I must note that the label features a lovely piece of impressionist artwork with brilliant orange and red roads around an orchard.  I suppose it's probably a vineyard but looks more like trees than vines, so I'm sticking to orchard.
 

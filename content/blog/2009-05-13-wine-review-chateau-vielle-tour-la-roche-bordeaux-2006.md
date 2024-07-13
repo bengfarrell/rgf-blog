@@ -1,16 +1,13 @@
 ---
-title: "Wine Review--Chateau Vielle Tour La Roche Bordeaux 2006"
+title: "Chateau Vielle Tour La Roche Bordeaux 2006"
 date: "2009-05-13"
 categories:
-  - "red-bordeaux"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "chateau-vielle-tour-la-roche-bordeaux-2006"
   - "gourmez-wine-review"
   - "raspberry-flavoring"
 ---
-
-**Chateau Vielle Tour La Roche Bordeaux 2006**
 
 **Other words on the label:** Grand Vin de Bordeaux, appellation Bordeaux controlee, EARL Vignobles LABONNE, proprietaire a F33790 MASSUGAS, Mis en Bouteille au Chateau, Produit de France.  There's also the certification of the French agriculture department but my brain was too tired to type it out.
 

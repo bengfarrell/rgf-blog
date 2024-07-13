@@ -1,9 +1,9 @@
 ---
-title: "Cocktail Review--Bee's Knees, The Hive, Downtown Raleigh"
+title: "Bee's Knees @ The Hive"
 date: "2009-08-02"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags: 
   - "bees-knees-cocktail"
   - "bourbon-cocktails"
@@ -12,7 +12,9 @@ tags:
   - "the-hive-raleigh"
 ---
 
-**Bee's Knees** The Hive Downtown Raleigh [Website](http://www.busybeeraleigh.com/index.php?option=com_content&view=article&id=80&Itemid=67)
+**The Hive**\
+Downtown Raleigh, NC\
+[Website](http://www.busybeeraleigh.com/index.php?option=com_content&view=article&id=80&Itemid=67)
 
 I love a good bourbon cocktail so this drink called my name.  It's comprised of bourbon, muddled pineapple, honey, soda water and rosemary.    Sadly, the alluring components did little to jazz up the bourbon; it would have been better merely served on the rocks.  The pineapple was diluted by the soda and I couldn't detect the honey at all.  Rosemary only joined in the party when I caught a leaf in my teeth.
 

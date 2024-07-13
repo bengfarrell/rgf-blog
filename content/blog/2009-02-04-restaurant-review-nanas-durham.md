@@ -1,14 +1,17 @@
 ---
-title: "Restaurant Review--Nana's, Durham"
+title: "Nana's"
 date: "2009-02-04"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 ---
 
-**Nana's 2514 University Drive, Durham [www.nanasdurham.com](http://www.nanasdurham.com/) Entrees $15-30 Tasting Menu available**
+2514 University Drive\
+Durham, NC\
+[www.nanasdurham.com](http://www.nanasdurham.com/)\
+Entrees $15-30\
+Tasting Menu available
 
-On our second trip to Nana's**,** we decided to sit in the bar area as reservations had not been made. It was a great decision as the bar feels much less stuffy and more inviting than the isolated white-clothed tables of the main dining rooms. There was a lot more hustle and bustle and the the vibrant paintings on the mellow orange walls were welcome for the mood I was in.
+On our second trip to Nana's, we decided to sit in the bar area as reservations had not been made. It was a great decision as the bar feels much less stuffy and more inviting than the isolated white-clothed tables of the main dining rooms. There was a lot more hustle and bustle and the the vibrant paintings on the mellow orange walls were welcome for the mood I was in.
 
 We started with a corn and bacon risotto, which Mr. Gourmez declared to be, "Fabulous." I disagreed as the extra salty bacon dominated the dish but the very fresh, sweet corn was a nice contrast to it. The whole wheat focaccia was heavy yet airy so I did not feel bad for eating two slices. My tuna with goat cheese gnocchi entree was delightful, especially the delicate tomato and basil sauce. The zucchini in the dish was grilled and I must say, that cooking method enhances its flavor well.
 

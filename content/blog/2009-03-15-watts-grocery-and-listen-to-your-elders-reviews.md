@@ -2,7 +2,7 @@
 title: "Watts Grocery and Listen to Your Elders Reviews"
 date: "2009-03-15"
 categories:
-  - "durham-restaurant-reviews"
+  - "cocktails"
   - "restaurants"
 tags:
   - "cocktails-triangle"
@@ -13,13 +13,11 @@ tags:
   - "zukes-terrine"
 ---
 
-1116 Broad Street
-
-Watts Hillandale area, Durham
-
-[www.wattsgrocery.com](www.wattsgrocery.com%20%20)
-
-Entrees:  $13-20
+1116 Broad Street\
+Watts Hillandale area\
+Durham, NC\
+[www.wattsgrocery.com](www.wattsgrocery.com)\
+Entrees: $13-20
 
 Watts Grocery is a lovely restaurant (no, not a grocery) that offers, brunch, lunch, dinner, and late night until at least midnight.  With so few places offering food at the witching hour, I've come to quite appreciate this place.  It has upscale American food with a Southern bent and ingredients from nearby farms.
 

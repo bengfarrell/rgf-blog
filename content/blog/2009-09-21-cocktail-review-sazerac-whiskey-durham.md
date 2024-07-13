@@ -1,10 +1,9 @@
 ---
-title: "Cocktail Review--Sazerac @ Whiskey (Durham)"
+title: "Sazerac @ Whiskey"
 date: "2009-09-21"
 categories:
-  - "spirits"
+  - "cocktails"
   - "bars"
-  - "bars-in-durham-nc"
 tags:
   - "absinthe-rim"
   - "cocktail-review"
@@ -16,7 +15,10 @@ tags:
   - "whiskey-durham"
 ---
 
-**Sazerac** @ Whiskey Five Points, Durham $12
+**Whiskey**
+Five Points\
+Durham, NC\
+$12
 
 Whiskey's Sazerac is made with Jim Beam Rye, Peychaud's bitters, and simple syrup.  The key to the drink, though, is the absinthe rim the glass is given before the rest is poured in.  Its licorice notes dominate the smell and initial taste; as I love absinthe, this is great for me.  It mellows out the whiskey's fire and the bitters refine the overall blend of ingredients.  I'd call this expert bartending.
 

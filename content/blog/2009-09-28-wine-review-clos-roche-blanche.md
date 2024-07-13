@@ -1,9 +1,8 @@
 ---
-title: "Wine Review--Clos Roche Blanche"
+title: "Clos Roche Blanche"
 date: "2009-09-28"
 categories:
-  - "other-rose-blends"
-  - "rose-review"
+  - "wine"
 tags:
   - "clos-roche-blanche"
   - "fresca"
@@ -12,7 +11,7 @@ tags:
   - "wine-review"
 ---
 
-Wine:  **Clos Roche Blanche 2008** Region:  Touraine, Loire Valley, France
+**Region:** Touraine, Loire Valley, France
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/closrocheblanche.jpg)
 

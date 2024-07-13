@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Fins, Downtown Raleigh"
+title: "Fins"
 date: "2009-10-09"
 categories:
-  - "raleigh-restaurant-reviews"
   - "restaurants"
 tags:
   - "asian-fusion"
@@ -17,9 +16,11 @@ tags:
   - "unfiltered-sake"
 ---
 
-**Fins** 110 East Davie Street Downtown Raleigh Entrees:  $20-30
+110 East Davie Street\
+Downtown Raleigh, NC\
+Entrees: $20–30
 
-Fins is a modern, upscale restaurant featuring American dining with a bit of Asian inspiration.  The decor was gorgeous, from the wall of water behind the bar to the beautiful gold bars across the ceiling.
+Fins is a modern, upscale restaurant featuring American dining with a bit of Asian inspiration. The decor was gorgeous, from the wall of water behind the bar to the beautiful gold bars across the ceiling.
 
 ![](http://www.thegourmez.com/gourmez/photos/Fins 002.jpg)
 
@@ -29,7 +30,7 @@ I ordered a lycheetini to start my meal.
 
 ![](http://www.thegourmez.com/gourmez/photos/Fins 001.jpg)
 
-It was bright rose in color.  Unfortunately, it tasted far too much like a jolly rancher to be good.   So I changed my drinking tack and ordered a bottle of unfiltered sake to share with Mr. Gourmez instead.  It was very, very good.  I didn't realize unfiltered sake was so creamy in taste and texture.
+It was bright rose in color. Unfortunately, it tasted far too much like a jolly rancher to be good.  So I changed my drinking tack and ordered a bottle of unfiltered sake to share with Mr. Gourmez instead. It was very, very good. I didn't realize unfiltered sake was so creamy in taste and texture.
 
 Two types of bread were served before our appetizer.  The wheat bread was boring but for a hint of molasses but the sourdough cheese bread was delightful.  The scallion-specked butter was nearly impossible to spread, however.
 

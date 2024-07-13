@@ -2,7 +2,7 @@
 title: "Back in Business"
 date: "2009-05-05"
 categories: 
-  - "events"
+  - "announcements"
 tags: 
   - "blog-frequency"
   - "out-of-town-guests"

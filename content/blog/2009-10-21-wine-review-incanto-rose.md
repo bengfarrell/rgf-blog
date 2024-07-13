@@ -1,9 +1,8 @@
 ---
-title: "Wine Review--Incanto Rose"
+title: "Incanto Rose"
 date: "2009-10-21"
 categories:
-  - "robaso"
-  - "rose-review"
+  - "wine"
 tags:
   - "bubbly-wine"
   - "incanto-rose"
@@ -14,7 +13,7 @@ tags:
   - "wine-review"
 ---
 
-Wine:  **Incanto Rose** Region:  Italy
+**Region:**  Italy
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/incanto1.jpg)
 

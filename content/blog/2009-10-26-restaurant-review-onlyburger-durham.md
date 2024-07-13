@@ -1,9 +1,9 @@
 ---
-title: "Restaurant Review--OnlyBurger (Durham)"
+title: "OnlyBurger (Durham)"
 date: "2009-10-26"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
+  - "food-trucks"
 tags: 
   - "butter-toasted-buns"
   - "cheap-eats-durham"
@@ -13,7 +13,10 @@ tags:
   - "the-gourmez-review"
 ---
 
-**OnlyBurger** Constantly Shifting Location, Durham http://www.durhamcatering.com/onlyburger/ Burgers: $4.25-6.75  Bacon: $1 Cheese: $0.50  Fries/Chips: $1.50
+Constantly Shifting Location\
+Durham, NC\
+[Website](http://www.durhamcatering.com/onlyburger/)\
+Burgers: $4.25-6.75  Bacon: $1  Cheese: $0.50   Fries/Chips: $1.50
 
 OnlyBurger, a hamburger truck that moves from spot to spot in the Durham area, had become something of a legend to me by the time I finally tracked it down.  It is very often ranked as one of the best burgers in the area and yet, I never managed to be at the right place at the right time to give it a try.  Until this day. Per their twitter status, I knew they'd be nearby in the Research Triangle Park.
 

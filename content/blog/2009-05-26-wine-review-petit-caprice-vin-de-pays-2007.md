@@ -1,16 +1,15 @@
 ---
-title: "Wine Review--Petit Caprice Vin de Pays 2007"
+title: "Petit Caprice Vin de Pays 2007"
 date: "2009-05-26"
 categories:
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "petit-caprice-review"
   - "petite-caprice-vin-de-pays-2007"
   - "the-gourmez-wine-review"
 ---
 
-**Petit Caprice Vin de Pays 2007** _Other words on the label:_ Mis en bouteille a la propriete, Vin de pays de vaucluse, Red table wine, Product of France.
+**Other words on the label:** Mis en bouteille a la propriete, Vin de pays de vaucluse, Red table wine, Product of France
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/petitcaprice.jpg)
 

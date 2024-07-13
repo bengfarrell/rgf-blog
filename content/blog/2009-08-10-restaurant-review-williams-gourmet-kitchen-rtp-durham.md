@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--William's Gourmet Kitchen, RTP, Durham"
+title: "William's Gourmet Kitchen"
 date: "2009-08-10"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "durham-fast-food"
@@ -14,7 +13,12 @@ tags:
   - "williams-gourmet-kitchen"
 ---
 
-**William's Gourmet Kitchen** 2114 East Highway 54 Research Triangle Park, Durham [http://www.williamsgk.com/](http://www.williamsgk.com/) Sandwiches:  $4.29–$6.49 Sides:  $0.99–$2.49
+2114 East Highway 54\
+Research Triangle Park\
+Durham, NC\
+[http://www.williamsgk.com/](http://www.williamsgk.com/)\
+Sandwiches: $4.29–$6.49\
+Sides: $0.99–$2.49
 
 William's Gourmet Kitchen is a popular spot for breakfast and lunch right where Highways 54 and 55 intersect.
 

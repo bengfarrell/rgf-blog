@@ -2,9 +2,9 @@
 title: "Dykki @ Whiskey (Durham)"
 date: "2009-10-06"
 categories:
-  - "spirits"
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
+
 tags:
   - "cocktail-review"
   - "cocktails-durham"
@@ -16,7 +16,8 @@ tags:
   - "whiskey-durham"
 ---
 
-Dykki Whiskey Five Points, Durham
+**Whiskey**\
+Five Points, Durham, NC
 
 ![](http://www.thegourmez.com/gourmez/photos/dykki.jpg)
 

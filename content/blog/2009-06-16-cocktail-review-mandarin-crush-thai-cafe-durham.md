@@ -1,9 +1,9 @@
 ---
-title: "Cocktail Review--Mandarin Crush, Thai Cafe, Durham"
+title: "Mandarin Crush @ Thai Cafe"
 date: "2009-06-16"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "cherry-brandy-cocktail"
   - "durham-cocktails"
@@ -12,7 +12,10 @@ tags:
   - "triangle-cocktails"
 ---
 
-Mandarin Crush Thai Cafe 2501 University Drive Durham [http://www.thaicafenc.com](http://www.thaicafenc.com/)
+**Thai Cafe**\
+2501 University Drive\
+Durham, NC\
+[http://www.thaicafenc.com](http://www.thaicafenc.com/)
 
 The Mandarin Crush is a cherry brandy cocktail served in a martini glass with two cherries at the bottom.  It resembles a golden and pink-tinged sunset, which certainly set me up to enjoy its flavors.
 

@@ -1,9 +1,7 @@
 ---
-title: "Wine Review--Abrazo Syrah 2007"
+title: "Abrazo Syrah 2007"
 date: "2009-08-05"
 categories:
-  - "red-wine-review"
-  - "shiraz"
   - "wine"
 tags:
   - "abrazo-del-toro"
@@ -12,7 +10,7 @@ tags:
   - "the-gourmez-wine-review"
 ---
 
-**Abrazo Syrah 2007** Other words on the label:  Del Toro
+**Other words on the label:** Del Toro
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/Abrazosyrah.jpg)
 

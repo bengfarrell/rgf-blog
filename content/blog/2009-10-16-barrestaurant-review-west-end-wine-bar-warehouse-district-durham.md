@@ -1,9 +1,10 @@
 ---
-title: "Bar/Restaurant Review--West End Wine Bar, Warehouse District (Durham)"
+title: "West End Wine Bar"
 date: "2009-10-16"
 categories:
   - "wine-bars"
-  - "tasting-rooms-in-durham-nc"
+  - "wine"
+  - "tasting-rooms"
 tags:
   - "add-new-tag"
   - "durham-nightlife"
@@ -15,7 +16,9 @@ tags:
   - "west-end-wine-bar"
 ---
 
-**West End Wine Bar** 601 Main Street Warehouse District, Durham [http://www.westendwinebar.com](http://www.westendwinebar.com)
+601 Main Street Warehouse District\
+Durham, NC\
+[http://www.westendwinebar.com](http://www.westendwinebar.com)
 
 West End Wine Bar opened up a Durham location a few months ago.  Being a fan of the Chapel Hill flagship bar, I was excited to do so.  This one is around the corner from the Amtrak station and, unfortunately, in the middle of the Main Street construction for the present. But you can still make your way into their plentiful parking lot and join the other West End Wine bar goers who have done the same.  There were a healthy number of patrons for early on a Thursday night.
 

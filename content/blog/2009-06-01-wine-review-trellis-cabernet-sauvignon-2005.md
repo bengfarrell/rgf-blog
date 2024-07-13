@@ -1,9 +1,8 @@
 ---
-title: "Wine Review--Trellis Cabernet Sauvignon 2005"
+title: "Trellis Cabernet Sauvignon 2005"
 date: "2009-06-01"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "cabernet-sauvignon-2005"
   - "mesquite-wine"
@@ -12,9 +11,7 @@ tags:
   - "trellis-cabernet-sauvignon"
 ---
 
-**Trellis Cabernet Sauvignon 2005**
-
-_Other words on the label:_ Sonoma County
+**Other words on the label:** Sonoma County, CA
 
 ![](http://www.rebeccagomezfarrell.com/photos/trellis.jpg "Trellis Cabernet Sauvignon")
 

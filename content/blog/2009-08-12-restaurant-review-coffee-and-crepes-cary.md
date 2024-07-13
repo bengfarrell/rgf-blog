@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Coffee and Crepes, Cary"
+title: "Coffee and Crepes"
 date: "2009-08-12"
 categories:
-  - "cary-restaurant-reviews"
   - "restaurants"
 tags:
   - "cary-coffee-shops"
@@ -15,7 +14,10 @@ tags:
   - "triangle-restaurants"
 ---
 
-**Coffee and Crepes** 315 Crossroads Blvd Cary [www.coffeeandcrepes.com](http://www.coffeeandcrepes.com/) Crepes:  $3-7
+315 Crossroads Blvd\
+Cary, NC\
+[www.coffeeandcrepes.com](http://www.coffeeandcrepes.com/)\
+Crepes: $3-7
 
 Crepes are one of my favorite vehicles for enjoying both sweet and savory treats.  Coffee and Crepes offers both at quite affordable prices.  They are located in the food court section of the Crossroads Plaza and have indoor and outdoor seating.  It's an order-at-the-counter spot with free wireless available.  You can also get whole wheat or gluten-free crepes if you ask.
 

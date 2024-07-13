@@ -1,9 +1,8 @@
 ---
-title: "Wine Review--Pancake Cellars 2007 Big Day White"
+title: "Pancake Cellars 2007 Big Day White"
 date: "2009-05-23"
 categories:
-  - "sauvignon-blanc"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "big-day-white"
   - "giant-flapjack"
@@ -13,7 +12,7 @@ tags:
   - "white-wine-review"
 ---
 
-**Pancake Cellars 2007 Big Day White** Other Words on the Label:  Paso Robles, California
+**Other Words on the Label:**  Paso Robles, California
 
 ![](http://www.rebeccagomezfarrell.com/photos/Picture049forblog.jpg)
 

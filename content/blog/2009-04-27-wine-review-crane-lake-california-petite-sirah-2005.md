@@ -1,9 +1,8 @@
 ---
-title: "Wine Review--Crane Lake California Petite Sirah 2005"
+title: "Crane Lake California Petite Sirah 2005"
 date: "2009-04-27"
 categories:
-  - "petite-sirah"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "blueberry-wine"
   - "crane-lake"

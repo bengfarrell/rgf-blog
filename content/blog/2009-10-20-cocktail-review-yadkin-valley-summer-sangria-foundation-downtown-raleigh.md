@@ -1,9 +1,9 @@
 ---
-title: "Cocktail Review--Yadkin Valley Summer Sangria @ Foundation (Downtown Raleigh)"
+title: "Yadkin Valley Summer Sangria @ Foundation"
 date: "2009-10-20"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags: 
   - "38-vines-muscadine"
   - "8-shelton-bin-17-chardonnay"
@@ -16,17 +16,19 @@ tags:
   - "yadkin-valley-summer-sangria"
 ---
 
-**Yadkin Valley Summer Sangria** Foundation Downtown Raleigh [Website](http://www.foundationnc.com/)
+**Foundation**\
+Downtown Raleigh, NC\
+[Website](http://www.foundationnc.com/)
 
 As I've had my heat on for three weeks now, I'm sure Foundation no longer has this on their drink list, but figured I'd go ahead and post it anyway to give you a taste of what they mix up.
 
 This riff on white sangria was made with 8 Shelton Bin 17 chardonnay, 38 Vines muscadine, Junior Johnson moonshine, orange liquor, and summer fruits.
 
-As you can see-
+As you can see—
 
 ![](http://www.thegourmez.com/gourmez/photos/yvsummersangria.jpg)
 
-\-they went a bit overboard with the mint garnish.
+—they went a bit overboard with the mint garnish.
 
 It had a smoother taste than sangria normally does, but with a mineral finish that sangria normally does not.  The fruit presence was minimal; if forced to guess, I'd say there was some fig.  It was mildly sweet, mildy sour, and also light and refreshing for a warm summer day.
 

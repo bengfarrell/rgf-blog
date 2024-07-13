@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Asuka, Morrisville *Renovated*"
+title: "Asuka *Renovated*"
 date: "2009-05-07"
 categories:
-  - "morrisville-restaurant-reviews"
   - "restaurants"
 tags:
   - "asuka"
@@ -13,9 +12,12 @@ tags:
   - "the-gourmez-restaurant-review"
 ---
 
-[Asuka](http://www.asukajapan.com/Pages/Default.aspx) \*Now Haru Japanese Cuisine\* 101 Keybridge Drive Morrisville
-
-Sushi rolls:  $5-14 Entrees:  $14-18
+[Asuka](http://www.asukajapan.com/Pages/Default.aspx)\
+_Now Haru Japanese Cuisine_\
+101 Keybridge Drive\
+Morrisville, NC\
+Sushi rolls: $5-14\
+Entrees: $14-18
 
 This Japanese sushi and fusion restaurant is decorated with copper-toned walls and the occasional splash of Japanese décor, such as a bamboo-patterned panels and vases of pottery sprays that mimic cherry blossoms.  The booths and tables are inviting and the straight-backed black chairs are elegant.  Light jazz plays in the background.
 

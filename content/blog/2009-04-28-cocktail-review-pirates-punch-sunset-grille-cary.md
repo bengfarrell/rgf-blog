@@ -1,9 +1,9 @@
 ---
-title: "Cocktail Review--Pirate's Punch, Sunset Grille, Cary"
+title: "Pirate's Punch @ Sunset Grille"
 date: "2009-04-28"
 categories:
   - "bars"
-  - "bars-in-cary-nc"
+  - "cocktails"
 tags:
   - "amaretto"
   - "captain-morgan"
@@ -13,7 +13,9 @@ tags:
   - "triangle-cocktails"
 ---
 
-**Pirate's Punch [Sunset Grille-Cary](http://www.sunsetgrillecary.com/) Harrison Pointe Shopping Center Cary**
+**[Sunset Grille-Cary](http://www.sunsetgrillecary.com/)**\
+Harrison Pointe Shopping Center\
+Cary, NC
 
 The Pirate's Punch is, of course, a rum drink.  With pirate in the name, you wouldn't expect any other base, would you?  This was good old Captain Morgan, mixing it up with some amaretto and pineapple juice.  The flavors were disparate but that was fine; it still tasted great.  Would drink again at drink special prices.
 

@@ -1,8 +1,9 @@
 ---
-title: "Cocktail Review--Big Fat Man, Nantucket Cafe, Durham"
+title: "Big Fat Man @ Nantucket Cafe"
 date: "2009-08-24"
 categories:
-  - "bars-in-durham-nc"
+  - "bars"
+  - "cocktails"
 tags:
   - "big-fat-man-cocktail"
   - "bourbon-manhattan"
@@ -12,7 +13,10 @@ tags:
   - "woodford-reserve"
 ---
 
-**Big Fat Man** Nantucket Café Sutton Station Durham [www.nantucketcafeandgrill.com](http://www.nantucketcafeandgrill.com/)
+**Nantucket Café**\
+Sutton Station\
+Durham, NC\
+[www.nantucketcafeandgrill.com](http://www.nantucketcafeandgrill.com/)
 
 ![](http://www.thegourmez.com/gourmez/photos/bigfatman.jpg)
 

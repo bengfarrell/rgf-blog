@@ -2,7 +2,8 @@
 title: "At the Doughman Finish Line"
 date: "2009-05-27"
 categories: 
-  - "travel-guide"
+  - "travel-guides"
+  - "events"
 tags: 
   - "blu-seafood"
   - "competitive-food"

@@ -2,7 +2,7 @@
 title: "Jamaica Travelogue:  3/4-3/8/09"
 date: "2009-03-12"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 tags:
   - "all-inclusive-resort"
   - "chukka-canopy-tour"
@@ -18,11 +18,11 @@ Suitcases were claimed next and then we breezed through the Customs line as they
 
 And waited.  And waited.  In the meantime, the rows of aging frat boys and their excited wives decided that more alcohol was in order.  Three of them left and came back triumphantly holding a flat of about 20 Red Stripes.  The price?  $105.  I guess the sky's the limit when you're a white boy in need of a drink in Jamaica, though I was a little jealous as I was still dreaming of that margarita.  By the time we hit the road, the beers were already consumed.  This was not a good omen.
 
-My camera started snapping the moment I could see anything more than concrete and fences.  The first part of the drive goes through Montego Bay and the driver was quick to point out all the resorts, though he was hard to hear over the din of the now drunken passengers.  On my side--the ocean, palm trees, and lots of greenery.
+My camera started snapping the moment I could see anything more than concrete and fences.  The first part of the drive goes through Montego Bay and the driver was quick to point out all the resorts, though he was hard to hear over the din of the now drunken passengers.  On my side—the ocean, palm trees, and lots of greenery.
 
 ![img_1896-for-blog](http://s3.amazonaws.com/thegourmez-wpmedia/2009/03/img_1896-for-blog-300x200.jpg "img_1896-for-blog")
 
-On the other side--rundown roadside stands, shacks, and a few suburban dwellings.
+On the other side—rundown roadside stands, shacks, and a few suburban dwellings.
 
 ![img_1903-for-blog](http://s3.amazonaws.com/thegourmez-wpmedia/2009/03/img_1903-for-blog-300x200.jpg "img_1903-for-blog")
 
@@ -34,7 +34,7 @@ We stopped about an hour from Ocho Rios at a bar and jerk shop for a quick break
 
 ![img_1897-for-blog](http://s3.amazonaws.com/thegourmez-wpmedia/2009/03/img_1897-for-blog-300x200.jpg "img_1897-for-blog")
 
-Half an hour later, Ben and I exchanged annoyed glances as chants of "Are we there yet?" started up with the drunken passengers.  Apparently, they had forgotten that liquid in=liquid out.  I breathed a sigh of relief as we reached Sandals Dunn River and the majority of the passengers got out and ran for the bathrooms.  Luckily, this was the destination for most of them.  Our resort, Sandals Grande Ocho Rios, was next and the registration procedure was quite confusing.  If you go, do not try to get your bag first, just head inside, refresh yourself with a proffered hand towel, and relax until the registrar comes up.  They registered about five couples in a large group and I busied myself with drinking the yummy rum punch as we listened.   When ready, a bellboy will take you and your bag to your room by golf cart.  Be prepared to tip him, even though tips are not required for Sandals employees.
+Half an hour later, Ben and I exchanged annoyed glances as chants of "Are we there yet?" started up with the drunken passengers.  Apparently, they had forgotten that liquid in = liquid out.  I breathed a sigh of relief as we reached Sandals Dunn River and the majority of the passengers got out and ran for the bathrooms.  Luckily, this was the destination for most of them.  Our resort, Sandals Grande Ocho Rios, was next and the registration procedure was quite confusing.  If you go, do not try to get your bag first, just head inside, refresh yourself with a proffered hand towel, and relax until the registrar comes up.  They registered about five couples in a large group and I busied myself with drinking the yummy rum punch as we listened.   When ready, a bellboy will take you and your bag to your room by golf cart.  Be prepared to tip him, even though tips are not required for Sandals employees.
 
 We found we'd been upgraded from a manor deluxe room to a plantation villa, which was lovely.  These buildings are divided into three rooms and the pool is shared by all of them.  Don't go in it, though!  It was freezing and probably doesn't warm up well for another month or so.
 

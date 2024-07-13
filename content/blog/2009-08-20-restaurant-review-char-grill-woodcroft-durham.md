@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Char-Grill, Woodcroft, Durham"
+title: "Char-Grill"
 date: "2009-08-20"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "american-cheese"
@@ -15,7 +14,10 @@ tags:
   - "triangle-hamburgers"
 ---
 
-**Char-Grill** 1125 West NC Highway 54 Woodcroft Durham [http://www.chargrillfranchise.com](http://www.chargrillfranchise.com/) Burgers and Sandwiches:  $2–$4.80.
+1125 West NC Highway 54\
+Woodcroft, Durham, NC\
+[http://www.chargrillfranchise.com](http://www.chargrillfranchise.com/)\
+Burgers and Sandwiches: $2–$4.80
 
 ![](http://www.thegourmez.com/gourmez/photos/chargrill2.jpg)
 

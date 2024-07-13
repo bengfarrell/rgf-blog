@@ -1,8 +1,8 @@
 ---
-title: "Wine Review--Elkin Creek Vineyard Dessert Wine"
+title: "Elkin Creek Vineyard Dessert Wine"
 date: "2009-10-14"
 categories:
-  - "dessert-wine-reviews"
+  - "wine"
 tags:
   - "boysenberry-syrup"
   - "elkin-creek-vineyard-dessert-wine"
@@ -11,7 +11,7 @@ tags:
   - "yadkin-valley-wines"
 ---
 
-Wine: **Elkin Creek Vineyard Dessert Wine** Region: Yadkin Valley, NC
+**Region:** Yadkin Valley, NC
 
 This dessert wine smells of boysenberries and blueberries. It tastes like boysenberry syrup- rich, thick, and in need of pancakes.
 

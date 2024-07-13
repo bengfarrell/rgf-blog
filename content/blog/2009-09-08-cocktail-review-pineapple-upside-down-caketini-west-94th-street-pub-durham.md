@@ -1,9 +1,9 @@
 ---
-title: "Cocktail Review--Pineapple Upside-Down Caketini, West 94th Street Pub, Durham"
+title: "Pineapple Upside-Down Caketini @ West 94th Street Pub"
 date: "2009-09-08"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "durham-cocktails"
   - "pineapple-cocktails"
@@ -14,7 +14,9 @@ tags:
   - "west-94th-street-pub"
 ---
 
-**Pineapple Upside-Down Caketini** West 94th Street Pub Woodcroft Durham [www.west94stpub.com](http://www.west94stpub.com/)
+**West 94th Street Pub**\
+Woodcroft, Durham, NC\
+[www.west94stpub.com](http://www.west94stpub.com/)
 
 ![](http://www.thegourmez.com/gourmez/photos/caketini.jpg)
 

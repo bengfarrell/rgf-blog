@@ -2,7 +2,7 @@
 title: "4/14/09 Recession Wine Dinner at Jujube"
 date: "2009-04-16"
 categories: 
-  - "dining-chapel-hill-nc"
+  - "events"
   - "restaurants"
 tags: 
   - "chapel-hill-wine-dinners"
@@ -13,8 +13,8 @@ tags:
   - "sticky-toffee-pudding"
 ---
 
-Glen Lennox Shopping Center, Chapel Hill
-
+Glen Lennox Shopping Center\
+Chapel Hill, NC\
 [www.jujuberestaurant.com](http://www.jujuberestaurant.com/)
 
 I went to my fourth wine dinner at Jujube in Chapel Hill last night.  I am a big fan of these recession dinners, so dubbed because they partner up with Hope Valley Bottle Shop to pair less expensive wines with the meal, resulting in a dinner that costs only $40 per person.  Not bad for a five course meal!  I've managed to fill a table with friends for the last three of them and we've had lovely evenings, gabbing away and discussing everything that passes through our lips.

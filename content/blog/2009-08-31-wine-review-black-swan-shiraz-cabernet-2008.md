@@ -1,17 +1,15 @@
 ---
-title: "Wine Review--Black Swan Shiraz Cabernet 2008"
+title: "Black Swan Shiraz Cabernet 2008"
 date: "2009-08-31"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
 tags:
   - "australian-wines"
   - "mulberry-nose"
   - "shiraz-cabernet-review"
 ---
 
-Wine: **Black Swan Shiraz Cabernet 2008** Region: Southeastern Australia
+**Region:** Southeastern Australia
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/blackswanshirazcab.jpg)
 

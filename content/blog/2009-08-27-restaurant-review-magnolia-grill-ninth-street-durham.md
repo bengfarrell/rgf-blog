@@ -1,8 +1,7 @@
 ---
-title: "Restaurant Review--Magnolia Grill, Ninth Street, Durham"
+title: "Magnolia Grill"
 date: "2009-08-27"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "durham-restaurants"
@@ -15,7 +14,10 @@ tags:
   - "the-gourmez-restaurant-review"
 ---
 
-**Magnolia Grill** 1002 Ninth Street Ninth Street, Durham [http://www.magnoliagrill.net](http://www.magnoliagrill.net/) Entrees:  $25–$28
+1002 Ninth Street\
+Ninth Street, Durham, NC\
+[http://www.magnoliagrill.net](http://www.magnoliagrill.net/)\
+Entrees:  $25–$28
 
 Magnolia Grill is known as one of the finest dining establishments in Durham.  Being as I've lived here four years now, I figured I should get around to trying it.  Its menu is what I dub New American cuisine, otherwise known as fresh, local ingredients combined in inventive ways to create spins on the basic meat, starch, veggie, and sauce concept.  It's housed in a grey-painted brick building at the far end of Ninth street and is divided into a bar dining area, where reservations are not needed...
 
@@ -39,7 +41,7 @@ For my main course, I had herb-grilled salmon nicoise with a brown butter tapena
 
 ![](http://www.thegourmez.com/gourmez/photos/magnoliasalmon.jpg)
 
-I have no idea what the pickled items were on top-they weren't the sultanas because those were the raisins mixed with the other veggies.  Whatever they were, The caper berries\* were delicious--I enjoyed eating something pickled that was neither too bitter nor too sweet.  The arugula pesto drizzles didn't add much to the dish but the brown butter sauce, which managed to not taste all that buttery, was great.  The salmon tasted good and the vegetables, often my favorite part of a meal, were delicious.  With the tapenade mixed in, though, my taste buds were tired by the time I'd finished eating-too much flavor, if that can be a fault!
+I have no idea what the pickled items were on top-they weren't the sultanas because those were the raisins mixed with the other veggies.  Whatever they were, The caper berries\* were delicious—I enjoyed eating something pickled that was neither too bitter nor too sweet.  The arugula pesto drizzles didn't add much to the dish but the brown butter sauce, which managed to not taste all that buttery, was great.  The salmon tasted good and the vegetables, often my favorite part of a meal, were delicious.  With the tapenade mixed in, though, my taste buds were tired by the time I'd finished eating-too much flavor, if that can be a fault!
 
 To end, we shared a hazelnut tart with figs, vanilla brown butter and a white chocolate and fig cream.
 

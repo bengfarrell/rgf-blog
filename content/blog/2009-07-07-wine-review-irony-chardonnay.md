@@ -1,9 +1,7 @@
 ---
-title: "Wine Review--Irony Chardonnay"
+title: "Irony Chardonnay"
 date: "2009-07-07"
 categories:
-  - "chardonnay"
-  - "white-wine-reviews"
   - "wine"
 tags:
   - "chardonnay-review"
@@ -12,7 +10,7 @@ tags:
   - "the-gourmez-wine-review"
 ---
 
-**Irony Chardonnay** Other words on the label:  Napa Valley 2005, The finest traditions in winemaking since 1935, 14.5% alcohol
+**Other words on the label:** Napa Valley 2005, The finest traditions in winemaking since 1935, 14.5% alcohol
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/ironychard.jpg)
 
