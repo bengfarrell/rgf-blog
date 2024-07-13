@@ -2,7 +2,6 @@
 title: "Cafe Capistrano (Cary) *CLOSED*"
 date: "2009-12-10"
 categories: 
-  - "cary-restaurant-reviews"
   - "restaurants"
 tags: 
   - "black-beans"
@@ -17,7 +16,10 @@ tags:
   - "tres-leches-cake"
 ---
 
-**Café Capistrano** \*CLOSED\* 2250 Gathering Park Circle Carpenter Village, Cary [Website](http://www.cafecapistrano.com) Entrees: $10-16
+2250 Gathering Park Circle\
+Carpenter Village, Cary, NC
+[Website](http://www.cafecapistrano.com)\
+Entrees: $10-16
 
 I'd heard good reviews from some friends who live in Cary and Morrisville about Café Capistrano and one of those friends took me out to dinner there to thank me for editing her dissertation. It's hidden away in the Carpenter Village development, in their central square of shops and schools.   The inside is pinkish-orange with thick brown curtains, not the most appealing combination. It's very low key from service to atmosphere to food, and reminded me of spending an evening in your family's kitchen.
 

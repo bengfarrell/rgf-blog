@@ -3,6 +3,7 @@ title: "Saint Mazu and the Fountain—A Photo Essay"
 date: "2009-12-18"
 categories:
   - "announcements"
+  - "travel-guides"
 tags:
   - "kitten"
   - "mazu"

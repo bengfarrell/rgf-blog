@@ -2,7 +2,6 @@
 title: "Guglhupf Cafe (Durham)"
 date: "2009-12-04"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "cider-cocktail"
@@ -22,7 +21,12 @@ tags:
 
 Hello everyone!  I just got back from Costa Rica last night—the reason why there haven't been any posts in a week! I will have a travelogue up for the trip in a few days but in the meantime, let's get back on track. Here's a restaurant review of one of my favorite spots in Durham.
 
-**Guglhupf Café** 2706 Durham-Chapel Hill Blvd. Durham [Website](http://www.guglhupf.com/cafe/) Sharing/Small Plates: $8-12 Entrees: $16-20
+**Guglhupf Café**
+2706 Durham-Chapel Hill Blvd.\
+Durham, NC\
+[Website](http://www.guglhupf.com/cafe/)\
+Sharing/Small Plates: $8-12\
+Entrees: $16-20
 
 **Full Disclaimer:** I am already a huge fan of Guglhupf for brunch, afternoon coffee and writing, lunch, dessert, whatever.  So, I was very excited to try it for their new dinner menu, which they've been serving for two months and I was probably predisposed to love it.  That said, it wasn't perfect but my review is probably a bit rose-colored.
 

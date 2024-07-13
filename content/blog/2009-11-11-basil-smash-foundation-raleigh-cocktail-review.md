@@ -1,9 +1,9 @@
 ---
-title: "Basil Smash @ Foundation (Raleigh)"
+title: "Basil Smash @ Foundation"
 date: "2009-11-11"
 categories:
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags:
   - "basil-cocktail"
   - "basil-smash"
@@ -14,7 +14,9 @@ tags:
   - "the-gourmez-cocktail-review"
 ---
 
-**Basil Smash** Foundation Downtown Raleigh [http://www.foundationnc.com/](http://www.foundationnc.com/)
+**Foundation**\
+Downtown Raleigh, NC\
+[http://www.foundationnc.com/](http://www.foundationnc.com/)
 
 ![](http://www.thegourmez.com/gourmez/photos/basilsmash.jpg)
 

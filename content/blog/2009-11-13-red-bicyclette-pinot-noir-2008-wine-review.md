@@ -2,8 +2,7 @@
 title: "Red Bicyclette Pinot Noir 2008"
 date: "2009-11-13"
 categories:
-  - "pinot-noir"
-  - "restaurants"
+  - "wine"
 tags:
   - "cherry-danish-wine"
   - "chocolate-glaze"
@@ -12,7 +11,7 @@ tags:
   - "the-gourmez-wine-review"
 ---
 
-Wine: **Red Bicyclette Pinot Noir 2008** Region: Languedoc-Roussillon, France
+**Region:** Languedoc-Roussillon, France
 
 ![](http://www.thegourmez.com/gourmez/photos/redbicyclette002.jpg)
 

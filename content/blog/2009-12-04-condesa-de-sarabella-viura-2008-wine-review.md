@@ -12,7 +12,7 @@ tags:
   - "trader-joes-wine"
 ---
 
-Wine: **Condesa de Sarabella Viura 2008** Region:  Spain
+**Region:**  Spain
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/condesa 004.jpg)
 

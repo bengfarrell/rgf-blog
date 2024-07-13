@@ -2,8 +2,7 @@
 title: "Sterling Vintner's Collection Zinfandel 2006"
 date: "2009-12-30"
 categories:
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "chocolate-notes"
   - "orange-notes"
@@ -13,7 +12,7 @@ tags:
   - "tobacco-notes"
 ---
 
-**Wine:** Sterling Vintner's Collection Zinfandel 2006 **Region:** Central Coast, CA
+**Region:** Central Coast, CA
 
 My apologies for the lack of a picture. Oops. Guess I was too busy drinking!
 

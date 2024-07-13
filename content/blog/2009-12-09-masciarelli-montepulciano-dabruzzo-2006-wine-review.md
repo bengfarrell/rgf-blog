@@ -2,8 +2,6 @@
 title: "Masciarelli Montepulciano d'Abruzzo 2006"
 date: "2009-12-09"
 categories:
-  - "montepulciano-dabruzza"
-  - "red-wine-review"
   - "wine"
 tags:
   - "bald-wine-geek"
@@ -15,7 +13,7 @@ tags:
   - "wine-is-life"
 ---
 
-Wine: **Masciarelli Montepulciano d'Abruzzo 2006** Region: Italy
+**Region:** Italy
 
 Leather says hello as I take a whiff of this wine. There's a dark, rich cherry smell as well.   It tastes strongly of leather and leaves me with an impression of a smoke-filled car. It's very dry and somewhat sour, sucking away the moisture in my mouth and leaving me with a sharp tang of dried cherries.
 

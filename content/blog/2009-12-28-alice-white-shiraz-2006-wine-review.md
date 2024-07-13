@@ -2,8 +2,7 @@
 title: "Alice White Shiraz 2006"
 date: "2009-12-28"
 categories:
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
 tags:
   - "alice-white-shiraz-2006"
   - "cherry-notes"
@@ -13,7 +12,7 @@ tags:
   - "the-wine-cask-blog"
 ---
 
-**Wine:** Alice White Shiraz 2006 **Region:** Southeastern Australia
+**Region:** Southeastern Australia
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/alicewhiteshiraz.jpg)
 
@@ -27,7 +26,7 @@ _Nose:_ Candied cherry and chocolates. _Taste:_ Bright, ripe cherries and semisw
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")</div>
 
 
-_**Other Bloggers' Thoughts:**_
+**Other Bloggers' Thoughts:**
 
 PB @ [The Wine Cask Blog](http://winecask.blogspot.com/2006/05/alice-white-shiraz-2005-wine-review-by.html) on the 2005 vintage
 

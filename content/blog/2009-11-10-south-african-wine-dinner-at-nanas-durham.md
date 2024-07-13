@@ -1,8 +1,8 @@
 ---
-title: "South African Wine Dinner at Nana's (Durham)"
+title: "South African Wine Dinner at Nana's"
 date: "2009-11-10"
 categories:
-  - "durham-restaurant-reviews"
+  - "wine"
   - "restaurants"
 tags:
   - "buitenverwachting-rhine-riesling-2008"
@@ -42,7 +42,9 @@ This dish was an interesting experiment in texture, though lacking in flavor. Di
 
 For the fourth wine, red finally entered the equation. The Rustenberg John X Merriman 2006 is a bordeaux blend with a huge nose of warmed potpourri.  It was medium-bodied and medium dry, with plenty of spice including clove, cinnamon, and allspice. Persimmon was our best guess at the fruit though Drew of HVBS offered black currant. There was a burnt flavor also in play. This was a big wine.  To pair with it, we were served a big, rich dish: Soft Polenta over Mascarpone with Wild Mushrooms.
 
-![](http://www.thegourmez.com/gourmez/photos/nanas007.jpg)" alt="" /> I'm a sucker for seemingly messy presentations like this dish's.   The mascarpone was ridiculously good and combined nicely with the broth. The polenta, strangely enough, seemed MIA, though I'm sure that's only because it was overpowered by the mascarpone.  The walnuts were essential to the dish and I would have liked more, in smaller pieces.  The big news, though, is that I actually ate a few of the mushrooms.  I could only handle about four but they didn't disgust me! Hold the presses!
+![](http://www.thegourmez.com/gourmez/photos/nanas007.jpg)" alt="" /> 
+
+I'm a sucker for seemingly messy presentations like this dish's.   The mascarpone was ridiculously good and combined nicely with the broth. The polenta, strangely enough, seemed MIA, though I'm sure that's only because it was overpowered by the mascarpone.  The walnuts were essential to the dish and I would have liked more, in smaller pieces.  The big news, though, is that I actually ate a few of the mushrooms.  I could only handle about four but they didn't disgust me! Hold the presses!
 
 The next wine, Rudi Schultz Syrah 2006, was just as big as the one before it, though perhaps more dry. It was vibrant and pungent with tobacco, juicy apricot, tamarind, and a hint of chocolate. Lemon seeds floated to the back of my mouth. The Roasted Wild Boar Shoulder over Flageolets and Organic Carrots simply couldn't compare.
 

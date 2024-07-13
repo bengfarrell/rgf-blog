@@ -3,7 +3,7 @@ title: "Passion Fruit Sunrise @ Nantucket Cafe (Durham)"
 date: "2009-11-25"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "absolut-peach"
   - "durham-cocktails"
@@ -13,7 +13,9 @@ tags:
   - "pomegranate-juice"
 ---
 
-**Passion Fruit Sunrise** Nantucket Café, Durham [Website](http://www.nantucketgrill.com/fayetteville.htm)
+**Nantucket Café**\
+Durham, NC\
+[Website](http://www.nantucketgrill.com/fayetteville.htm)
 
 ![](http://www.thegourmez.com/gourmez/photos/passionfruitsunset 003.jpg)
 

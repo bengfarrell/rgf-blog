@@ -1,8 +1,7 @@
 ---
-title: "Los Portales, Southpoint (Durham)"
+title: "Los Portales"
 date: "2009-11-19"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "durham-mexican-food"
@@ -15,7 +14,9 @@ tags:
   - "the-gourmez-restaurant-review"
 ---
 
-**Los Portales** 6905 Fayetteville Road Southpoint, Durham $4.50–$11.50
+6905 Fayetteville Road\
+Southpoint, Durham, NC\
+$4.50–$11.50
 
 ![](http://www.thegourmez.com/gourmez/photos/PIC-0145.jpg)
 

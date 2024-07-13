@@ -1,9 +1,9 @@
 ---
-title: "Moscow Mule @ City Beverage (Durham)"
+title: "Moscow Mule @ City Beverage"
 date: "2009-11-20"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "city-beverage-durham"
   - "durham-cocktails"
@@ -13,7 +13,10 @@ tags:
   - "vodka-cocktail"
 ---
 
-**Moscow Mule** City Beverage Woodcroft, Durham [http://www.citybeverage-durham.com/](http://www.citybeverage-durham.com/)
+**City Beverage**
+Woodcroft\
+Durham, NC\
+[http://www.citybeverage-durham.com/](http://www.citybeverage-durham.com/)
 
 ![](http://www.thegourmez.com/gourmez/photos/PIC-0161.jpg)
 

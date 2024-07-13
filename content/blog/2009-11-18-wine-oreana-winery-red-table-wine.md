@@ -2,7 +2,6 @@
 title: "? Wine (Oreana Winery Red Table Wine)"
 date: "2009-11-18"
 categories:
-  - "other-red-blends"
   - "wine"
 tags:
   - "grass-notes"
@@ -17,7 +16,7 @@ tags:
   - "to-die-for-yum-sugar"
 ---
 
-Wine: **? Wine** (Oreana Winery's Red Table Wine) Region: Central Coast, CA
+**Region:** Central Coast, CA
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/question002.jpg)
 

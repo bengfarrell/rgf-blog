@@ -1,9 +1,9 @@
 ---
-title: "Margarita @ Torero's (Durham)"
+title: "Margarita @ Torero's"
 date: "2009-12-19"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "cocktail-review"
   - "house-sour-mix"
@@ -13,7 +13,10 @@ tags:
   - "toreros-durham"
 ---
 
-**Margarita** Torero's 15-501 and Garrett Road, Durham [Website](http://www.torerosmexicanrestaurants.com/index.php)
+**Torero's**\
+15-501 and Garrett Road\
+Durham, NC\
+[Website](http://www.torerosmexicanrestaurants.com/index.php)
 
 Torero's house margarita comes in four sizes: regular, macho, grande, and gigante.  This is a regular size glass:
 

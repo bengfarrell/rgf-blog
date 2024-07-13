@@ -2,8 +2,7 @@
 title: "Dancing Bull Chardonnay 2004"
 date: "2009-11-25"
 categories:
-  - "chardonnay"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "citrus-notes"
   - "commercial-wine"
@@ -13,7 +12,7 @@ tags:
   - "vanilla-notes"
 ---
 
-Wine: **Dancing Bull Chardonnay 2004** Region: Monterey County, California
+**Region:** Monterey County, California
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/dancingbear.jpg)
 

@@ -2,7 +2,6 @@
 title: "Nasher Museum Cafe (Durham)"
 date: "2009-11-12"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "blue-cheese-slaw"
@@ -15,7 +14,12 @@ tags:
   - "the-gourmez-restaurant-review"
 ---
 
-**Nasher Museum Cafe** 2001 Campus Drive Duke University Campus, Durham http://nasher.duke.edu/museum\_cafe.php Sandwiches and Salads: $9-13 Open for lunch Tues-Sun and early dinners on Thursday
+2001 Campus Drive\
+Duke University Campus\
+Durham, NC\
+http://nasher.duke.edu/museum\_cafe.php\
+Sandwiches and Salads: $9-13\
+Open for lunch Tues–Sun and early dinners on Thursday
 
 The Nasher Museum Cafe is not your average museum restaurant.  First off, it's a sit down and be served restaurant, rather than a cafeteria, where you must hope to god that the carrot cake more closely resembles baked good than a brick. Secondly, both the indoor and outdoor seating areas offer great views.
 

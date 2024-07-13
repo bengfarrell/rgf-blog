@@ -2,7 +2,6 @@
 title: "Dillard's Bar-B-Q (Durham)"
 date: "2009-12-17"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "candied-yams"
@@ -15,7 +14,12 @@ tags:
   - "the-gourmez-restaurant-review"
 ---
 
-**Dillard's Bar-B-Q** 3921 Fayetteville Street Durham [Website](http://dillardsbarbq.com/) Open Tuesday through Saturday From $3.75 for a bar-b-q sandwich to $10.99 for seafood gumbo. My entrée with two sides and hush puppies was $4.99 at lunch.
+3921 Fayetteville Street\
+Durham, NC\
+[Website](http://dillardsbarbq.com/)\
+Open Tuesday through Saturday\
+From $3.75 for a bar-b-q sandwich to $10.99 for seafood gumbo\
+My entrée with two sides and hush puppies was $4.99 at lunch
 
 I finally stopped in at the bright yellow and red restaurant that always catches my eye while driving down Fayetteville. You know the one, with the claim that "We Feed Durham," on one side of the sign and "Deuteronomy CH8V3" on the other.
 

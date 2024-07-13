@@ -2,8 +2,7 @@
 title: "Schloss Biebrech Sekt"
 date: "2009-11-06"
 categories:
-  - "schloss-biebrech-sekt"
-  - "sparkling-wine-review"
+  - "wine"
 tags:
   - "floral-notes"
   - "german-sparkling-wine"
@@ -14,7 +13,7 @@ tags:
   - "the-gourmez-wine-review"
 ---
 
-Wine: **Schloss Biebrich Sekt** Region: Germany
+**Region:** Germany
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/schloss.jpg)
 

@@ -3,7 +3,7 @@ title: "Cider Cocktails at The Umstead Bar and Lounge (Cary)"
 date: "2009-11-06"
 categories: 
   - "bars"
-  - "bars-in-cary-nc"
+  - "cocktails"
 tags: 
   - "apple-cider-cocktails"
   - "bulleit-bourbon"
@@ -17,7 +17,10 @@ tags:
   - "woodford-reserve-bourbon"
 ---
 
-**Cider Cocktails at Herons' Bar and Lounge** 100 Woodland Pond The Umstead Hotel, Cary [Website](http://www.heronsrestaurant.com/the_bar/) $7 each
+100 Woodland Pond\
+The Umstead Hotel, Cary, NC\
+[Website](http://www.heronsrestaurant.com/the_bar/)\
+$7 each
 
 My foodie friends, Eric and Leandra, invited us out for an evening of cider cocktails at The Umstead Hotel's Bar and Lounge.  It is an absolutely gorgeous location on the SAS campus, with a huge patio that overlooks lots of trees and a beautiful lake. We sat by a stone fireplace and spent a pleasant evening lounging on their couches and intermittently ordering appetizers and sandwiches.  I know that I need to get myself to Heron's for a proper restaurant review at some point, as both [Eric & Leandra](http://www.ericandleandra.com/wp/2009/09/29/a-very-relaxing-morning/) and [VarmintBites](http://varmintbites.com/2009/10/18/a-stage-in-herons-part-1/) have made my mouth water with their recent descriptions of the establishment.
 
@@ -25,7 +28,7 @@ This night, though, was about the cocktails. Every Thursday, the bar offers eith
 
 ![](http://www.thegourmez.com/gourmez/photos/umstead001.jpg)
 
-Both of the warm drinks could have been bumped up a few notches in temperature, and I say that as someone who hates burning her tongue when she sips her coffee. The ingredients were apple cider, Tuaca, and orange-flavored rock candy. The Tuaca was a great match for the apple cider - I can sometimes find it too cloying in other drinks.  Rock candy is an old-time favorite, so it was fun to bite some off before it melted into the drink.  It imparted a very light orange flavor to the cider.
+Both of the warm drinks could have been bumped up a few notches in temperature, and I say that as someone who hates burning her tongue when she sips her coffee. The ingredients were apple cider, Tuaca, and orange-flavored rock candy. The Tuaca was a great match for the apple cider—I can sometimes find it too cloying in other drinks. Rock candy is an old-time favorite, so it was fun to bite some off before it melted into the drink.  It imparted a very light orange flavor to the cider.
 
 ![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")
 

@@ -2,7 +2,6 @@
 title: "Southern Fast Food Series #1: Bojangles'"
 date: "2009-12-22"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "bojangles"
@@ -17,17 +16,14 @@ tags:
 
 Thus begins my Southern Fast Food series. I was convinced by my friends, Iris and Laura, or perhaps by the fruity rum cocktails I'd been drinking, that I needed to give the chains located in my present state of residence a shot. This was after I had proclaimed loudly and proudly to have never stepped foot inside a Bojangles', Biscuitville, or Bob Evans in my life. Iris and Laura concentrated their efforts on my need to try a Cajun chicken biscuit and any of Sonic's multiple crazy drinks. I was worn down. This series is the results of their efforts. I hope to make it out alive.
 
-**Bojangles'**
-
-Locations throughout the Southeast, creeping to Pennsylvania and . . . Honduras? Huh.
-
-_Location where I ate:_ 4600 Garret Road, Durham
-
+**Bojangles'**\
+Locations throughout the Southeast, creeping to Pennsylvania and . . . Honduras? Huh.\
+_Location where I ate:_ 4600 Garret Road, Durham\
 [Website](http://www.bojangles.com/aboutus_history.html)
 
 ![](http://www.thegourmez.com/gourmez/photos/bojangles 001.jpg)
 
-Laura accompanied me for this meal and her guidance was needed - I barely made it through the ordering process with her help. Bojangles' has a menu that includes fried chicken, fried chicken sandwiches on biscuits or bread, sides including seasoned french fries, dirty rice, mac and cheese, potatoes and gravy, and coleslaw, and your standard drink selection with an emphasis on sweet tea. There are also mysterious items like botatos and BoBerry sweet biscuits. I learned, as I placed my order, that a chicken biscuit combo with seasoned fries and sweet tea is the standard request as the waitress streamed the words together with just a hint of a question in her voice the moment I said, "Combo." I faltered under the strength of her conviction to ask for coleslaw instead of the fries but did manage to order Mountain Dew instead of sweet tea. I think I threw her a curveball when I added a sweet potato pie to the meal.  While Laura informed me that Bojangles's recipe is the epitome of properly made sweet tea, I still couldn't convince myself to try it out. All previous attempts have ended in my dumping the stuff out about three sips in. Unsweet tea, my preferred fast food drink, was definitely not an option here.
+Laura accompanied me for this meal and her guidance was needed—I barely made it through the ordering process with her help. Bojangles' has a menu that includes fried chicken, fried chicken sandwiches on biscuits or bread, sides including seasoned french fries, dirty rice, mac and cheese, potatoes and gravy, and coleslaw, and your standard drink selection with an emphasis on sweet tea. There are also mysterious items like botatos and BoBerry sweet biscuits. I learned, as I placed my order, that a chicken biscuit combo with seasoned fries and sweet tea is the standard request as the waitress streamed the words together with just a hint of a question in her voice the moment I said, "Combo." I faltered under the strength of her conviction to ask for coleslaw instead of the fries but did manage to order Mountain Dew instead of sweet tea. I think I threw her a curveball when I added a sweet potato pie to the meal.  While Laura informed me that Bojangles's recipe is the epitome of properly made sweet tea, I still couldn't convince myself to try it out. All previous attempts have ended in my dumping the stuff out about three sips in. Unsweet tea, my preferred fast food drink, was definitely not an option here.
 
 I glanced at the side offerings in the case as we waited for our food. The dirty rice looked appealing and I regretted not ordering it instead of the fries, as I'd avoided it since I assumed there'd be beans. This rice looked mostly bean-free so I would have been okay.  As it turned out, the fries were my favorite part of the meal, so I'd made the right choice by letting the cashier chose for me.
 

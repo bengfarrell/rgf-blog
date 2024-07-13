@@ -2,8 +2,7 @@
 title: "Il Valore Sangiovese 2008"
 date: "2009-11-16"
 categories:
-  - "red-wine-review"
-  - "sangiovese"
+  - "wine"
 tags:
   - "black-raspberry-note"
   - "clove-note"
@@ -13,7 +12,7 @@ tags:
   - "wine-for-the-cheap"
 ---
 
-Wine: **Il Valore Sangiovese 2008** Region:  Puglia, Italy
+**Region:**  Puglia, Italy
 
 ![](http://www.rebeccagomezfarrell.com/gourmez/photos/ilvalore004.jpg)
 

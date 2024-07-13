@@ -1,8 +1,7 @@
 ---
-title: "Cuban Revolution, American Tobacco District (Durham)"
+title: "Cuban Revolution, American Tobacco District"
 date: "2009-11-04"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "american-tobacco-district-restaurant"
@@ -15,7 +14,13 @@ tags:
   - "tres-leches"
 ---
 
-**Cuban Revolution** 318 Blackwell Street American Tobacco Campus, Durham http://www.thecubanrevolution.com/ Tapas:  $4-8  Sandwiches/Wraps: $6-7.50 Entrees: $10-16.25
+318 Blackwell Street\
+American Tobacco Campus\
+Durham, NC\
+[Website](http://www.thecubanrevolution.com/)\
+Tapas:  $4-8\
+Sandwiches/Wraps: $6-7.50\
+Entrees: $10-16.25
 
 Cuban Revolution is a restaurant that loves to spark discussion - heated ones are preferable. They proclaim themselves Durham's most discussed restaurant on the top of their menu, and they might be right, at least based on this summer's online discussion of their opening.  With a bemused expression, I've followed the reactions to their inflammatory decor and philosophy, which includes graffiti-styled portraits of Fidel Castro, Che Guevera, Marilyn Monroe, and John F. Kennedy.
 

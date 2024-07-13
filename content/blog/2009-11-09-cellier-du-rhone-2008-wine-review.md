@@ -2,8 +2,7 @@
 title: "Cellier du Rhone 2008-- Wine Review"
 date: "2009-11-09"
 categories:
-  - "rhone"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "cellier-du-rhone-2008"
   - "cotes-du-rhone"
@@ -15,7 +14,7 @@ tags:
   - "vanilla-notes"
 ---
 
-Wine: **Cellier du Rhone** Region: Cotes du Rhone, France ![](http://www.rebeccagomezfarrell.com/gourmez/photos/cellierdurhone.jpg)
+**Region:** Cotes du Rhone, France ![](http://www.rebeccagomezfarrell.com/gourmez/photos/cellierdurhone.jpg)
 
 The nose of this French white table wine reminds me of kiwi and vanilla. It is mildly sweet and does taste of kiwi and vanilla, though with a mineral finish. Lending it some additional depth are green apple and lime flavors.  It's nice to drink a wine with this many layers but it's not as delicious as it could be going down.
 
