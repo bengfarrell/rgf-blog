@@ -1,8 +1,8 @@
 ---
 title: "Horizon 2004 Carolina Comfort"
-date: "2007-04-27"
+date: "2007-01-07"
 categories:
-  - "dessert-wine-reviews"
+  - "wine"
 tags:
   - "2004"
   - "carolina-comfort"
@@ -12,7 +12,7 @@ tags:
   - "white-table-wine"
 ---
 
-**Horizon 2004 Carolina Comfort** Other words on the label: Sweet Blanc, White Table Wine
+**Other words on the label:** Sweet Blanc, White Table Wine
 
 That's an awful lot of names for a simple white wine. This is sweet enough to use as a dessert wine. It tastes of caramelized sugar with a tinge of casaba melon. There is peach in the nose but none in the taste. It reminds me of a pastry that's so heavy on glaze, you can hardly taste the bread.
 

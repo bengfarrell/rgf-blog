@@ -1,9 +1,9 @@
 ---
-title: "Mexican Breeze (Jibarra, Raleigh)"
-date: "2007-04-27"
+title: "Mexican Breeze @ Jibarra"
+date: "2007-05-13"
 categories:
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags:
   - "agave-tequila"
   - "champagne"
@@ -14,7 +14,8 @@ tags:
   - "white-peach-puree"
 ---
 
-**Mexican Breeze** Jibarra Raleigh, NC
+**Jibarra**\
+Raleigh, NC
 
 This is an excellent champagne cocktail. Miraculously, it manages to not be too sweet with its white peach puree, orange liquor, agave tequila and citrus juice. You can taste each element individually and still wonder at how smooth the blend is.
 

@@ -2,15 +2,14 @@
 title: "Arena Loca Red Ringmaster 2004"
 date: "2006-07-16"
 categories:
-  - "red-wine-review"
-  - "tempranillo"
+  - "wine"
 tags:
   - "arena-loca"
   - "ringmaster-2004"
   - "spanish-wine"
 ---
 
-**Arena Loca Red Ringmaster 2004** Spain
+**Other words on the label:** Spain
 
 Color: Thick, deeply dark, almost brown. Smell: Very subtle fruit & tobacco. Sip: Light flavor, tobacco, leafy. No acidity. A little chocolate aftertaste. Gulp: Very mellow, yet dense. Cherry fruit comes out first, with the chocolate finish. If there was only some spice, I could drink this all night and day, and the next one.
 

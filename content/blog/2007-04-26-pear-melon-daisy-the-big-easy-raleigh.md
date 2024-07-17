@@ -1,18 +1,19 @@
 ---
-title: "Pear Melon Daisy (The Big Easy, Raleigh)"
-date: "2007-04-26"
+title: "Pear Melon Daisy @ The Big Easy"
+date: "2007-11-11"
 categories:
   - "bars"
-  - "bars-chapel-hill-nc"
+  - "cocktails"
 tags:
   - "pear-melon-daisy"
   - "raleigh-cocktails"
   - "the-big-easy"
 ---
 
-**Pear Melon Daisy** The Big Easy Raleigh, NC
+**The Big Easy**\
+Raleigh, NC
 
-I ordered this drink merely because I hadn't had Midori in a long time. It was delightful---the reason I hadn't had Midori is because it's often overpowering but here, the pear vodka mellowed it out nicely. Sweet and lovely.
+I ordered this drink merely because I hadn't had Midori in a long time. It was delightful—the reason I hadn't had Midori is because it's often overpowering but here, the pear vodka mellowed it out nicely. Sweet and lovely.
 
 
 

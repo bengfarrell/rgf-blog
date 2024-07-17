@@ -1,15 +1,14 @@
 ---
 title: "Twin Fin 2004 Pinot Grigio"
-date: "2007-04-26"
+date: "2006-30-07"
 categories:
-  - "pinot-grigio-gris"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2004"
   - "twin-fin"
 ---
 
-**Twin Fin** Other words on the label: 2004 Pinot Grigio, California
+**Other words on the label:** 2004 Pinot Grigio, California
 
 Taste: Overall, the taste is a bit watery thin with a sharp undertone. There's definitely a presence of slightly browned green apples. You can taste it in the texture of a sip as well. I also taste underlying grapefruit, not to too tart, with a tinge of basil to accent.
 

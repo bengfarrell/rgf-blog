@@ -1,8 +1,7 @@
 ---
-title: "Enoteca Vin (Glenwood South, Raleigh) *CLOSED*"
-date: "2007-04-27"
+title: "Enoteca Vin *CLOSED*"
+date: "2007-09-03"
 categories:
-  - "raleigh-restaurant-reviews"
   - "restaurants"
 tags:
   - "enoteca-vin"
@@ -10,7 +9,10 @@ tags:
   - "raleigh-restaurants"
 ---
 
-**Enoteca Vin** \*CLOSED\* Glenwood South 410 Glenwood Avenue, Suite 350 Raleigh, NC www.enotecavin.com Entrees $14--20
+410 Glenwood Avenue, Suite 350\
+Raleigh, NC\
+www.enotecavin.com\
+Entrees $14–20
 
 Being as I'd looked forward to trying out this restaurant for some time, my expectations were high and ended up unmet. If you decide to come here, beware that the sign on the door just says “Vin.” I had to check to make sure I was in the right restaurant.
 

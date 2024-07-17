@@ -1,16 +1,17 @@
 ---
-title: "Jibarra Margarita (Jibarra, Raleigh)"
-date: "2007-04-26"
+title: "Jibarra Margarita @ Jibarra"
+date: "2007-05-13"
 categories:
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags:
   - "jibarra"
   - "jibarra-margarita"
   - "raleigh-cocktails"
 ---
 
-**Jibarra Margarita** Jibarra Raleigh, NC
+**Jibarra**\
+Raleigh, NC
 
 This margarita is Jibarra's signature drink, with 100% agave tequila. There's no margarita mix here; all the juice is freshly squeezed on site. Crowned with a hibiscus flower, this margarita is smooth, simple, and flawless.
 

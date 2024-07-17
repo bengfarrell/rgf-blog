@@ -1,16 +1,15 @@
 ---
 title: "Casillero del Diablo Reserve Chardonnay 2005"
-date: "2007-04-27"
+date: "2007-05-27"
 categories:
-  - "chardonnay"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2005"
   - "casillero-del-diablo"
   - "reserve-chardonnay"
 ---
 
-**Casillero del Diablo Reserve Chardonnay** Other words on the label: 2005 East Coast
+**Other words on the label:** 2005 East Coast
 
 Casillero del Diablo's labels tell a story of their vintner keeping a reserve stash in the devil's cellar. More sugary than an average chardonnay, it makes me wonder if the devil doesn't have a sweet tooth.
 

@@ -1,16 +1,18 @@
 ---
-title: "Mint Sidecar (Elaine's on Franklin, Chapel Hill)"
-date: "2007-04-27"
+title: "Mint Sidecar @ Elaine's on Franklin"
+date: "2006-11-04"
 categories:
   - "bars"
-  - "bars-chapel-hill-nc"
+  - "cocktails"
 tags:
   - "chapel-hill-cocktails"
   - "elaines-on-franklin"
   - "mint-sidecar"
 ---
 
-**Mint Sidecar** Elaine's on Franklin 454 West Franklin Chapel Hill, NC
+**Elaine's on Franklin**\
+454 West Franklin St\
+Chapel Hill, NC
 
 The mint leaf was an excellent garnish to a well-blended drink. The cognac wasn't too noxious, as it sometimes can be. One of these will be plenty to get you through a meal. Tasty but not delicious.
 

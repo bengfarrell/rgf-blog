@@ -1,15 +1,15 @@
 ---
-title: "Tandoor (East Franklin, Chapel Hill)"
-date: "2007-04-27"
+title: "Tandoor"
+date: "2007-03-11"
 categories:
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags:
   - "chapel-hill-restaurant"
   - "tandoor"
 ---
 
-**Tandoor Restaurant** 1301 East Franklin Street Chapel Hill, NC
+1301 East Franklin Street\
+Chapel Hill, NC
 
 When Mr. Gourmez and I eat Indian food out, I'm always drawn to the onion chutney on the table. Tandoor's onion chutney boldly varied in flavor and color from the average offering. It was tulip red and somewhat sweet, which was a pleasant counterpoint to the bitterness of raw onion. The green sauce (no, I don't know it's proper name) was also refreshingly different from its peers-smooth and bursting with flavor.
 

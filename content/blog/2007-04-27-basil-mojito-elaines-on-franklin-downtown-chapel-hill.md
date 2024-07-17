@@ -1,16 +1,18 @@
 ---
-title: "Basil Mojito (Elaine's on Franklin, Downtown Chapel Hill)"
-date: "2007-04-27"
+title: "Basil Mojito @ Elaine's on Franklin"
+date: "2006-11-04"
 categories:
   - "bars"
-  - "bars-chapel-hill-nc"
+  - "cocktails"
 tags:
   - "basil-mojito"
   - "chapel-hill-cocktails"
   - "elaines-on-franklin"
 ---
 
-**Basil Mojito** Elaine's on Franklin 454 West Franklin Street Chapel Hill, NC
+**Elaine's on Franklin**\
+454 West Franklin Street\
+Chapel Hill, NC
 
 This drink was very strong with an excellent rum chosen as the base. The basil was an exciting flavor change. Surprisingly, the drink had a bit of lemon to it, which made the whole thing taste off. Interesting, but didn't quite succeed.
 

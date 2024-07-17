@@ -1,16 +1,17 @@
 ---
-title: "Margarita de Jamaica (Jibarra, Raleigh)"
-date: "2007-04-26"
+title: "Margarita de Jamaica @ Jibarra"
+date: "2007-05-13"
 categories:
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "cocktails"
 tags:
   - "jibarra"
   - "margarita-de-jamaica"
   - "raleigh-cocktails"
 ---
 
-**Margarita de Jamaica** Jibarra Raleigh, NC
+**Jibarra**\
+Raleigh, NC
 
 For the same price as Jibarra's standard margarita, you can get this version, simmered with sugar cane. The addition of hibiscus nectar makes the drink an appealing lavender and more sweet than sour.
 

@@ -1,15 +1,12 @@
 ---
 title: "Duplin Carolina Scuppernoag Blush"
-date: "2007-04-27"
+date: "2006-07-30"
 categories:
-  - "rose-review"
-  - "scuppernoag-blush"
+  - "wine"
 tags:
   - "carolina-scuppernoag-blush"
   - "duplin"
 ---
-
-**Duplin Carolina Scuppernoag Blush**
 
 Smell: Standard white wine dish soap smell.
 

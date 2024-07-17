@@ -1,16 +1,17 @@
 ---
-title: "The Alex Martini (George's Garage, Durham) *CLOSED*"
-date: "2007-04-26"
+title: "The Alex Martini @ George's Garage *CLOSED*"
+date: "2007-11-11"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "durham-cocktails"
   - "georges-garage"
   - "the-alex-martini"
 ---
 
-**The Alex Martini** George's Garage \*CLOSED\* Durham, NC
+**George's Garage \*CLOSED\***\
+Durham, NC
 
 This drink proves that apple martinis don't have to hit you over the head with sugar. It came garnished with an orange slice and topped with foam, which I love. It was the color of sparkling cider but a bit murky so that I wondered if it was fresh pressed juice. Frangelico was the most prominent flavor. The drink could have benefited from a bit more apple in the mix.
 

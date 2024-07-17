@@ -1,8 +1,7 @@
 ---
 title: "Jibarra (Downtown Raleigh)"
-date: "2007-04-27"
+date: "2007-05-13"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "downtown-raleigh"
@@ -10,11 +9,14 @@ tags:
   - "restaurant"
 ---
 
-**Jibarra** 7420 Six Forks Road Raleigh, NC www.jibarra.net Entrees $17–$40
-
 \*Restaurant relocated to 327 West Davie Street, Downtown Raleigh, since this post\*
 
-We went to Jibarra with a large group on my birthday. I had been fixated on trying the restaurant ever since I read a review from The News & Observer, a whole year earlier. While I am a California Girl, I haven't ever tried upscale Mexican food. After a year of anticipation, Jibarra expertly fulfilled my expectations.
+7420 Six Forks Road\
+Raleigh, NC\
+[Website](www.jibarra.net)\
+Entrees $17–$40
+
+We went to Jibarra with a large group on my birthday. I had been fixated on trying the restaurant ever since I read a review from _The News & Observer_, a whole year earlier. While I am a California Girl, I haven't ever tried upscale Mexican food. After a year of anticipation, Jibarra expertly fulfilled my expectations.
 
 Nearly everything we bit into was delicious. Appetizers consisted of flautas filled with BBQ rabbit and topped with fresh-made cheese, and tequila-tinged queso served with roasted poblanos, chorizo, and mushrooms. We easily finished off double orders of both plates.
 

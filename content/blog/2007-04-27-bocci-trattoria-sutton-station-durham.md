@@ -1,8 +1,7 @@
 ---
-title: "Bocci Trattoria (Sutton Station, Durham)"
-date: "2007-04-27"
+title: "Bocci Trattoria (Durham)"
+date: "2007-08-23"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "bocci-trattoria"
@@ -10,7 +9,11 @@ tags:
   - "sutton-station"
 ---
 
-**Bocci Trattoria** 5850 Fayetteville Road Sutton Station Durham, NC www.bocciitalian.com Entrees $10–$21
+5850 Fayetteville Road\
+Sutton Station\
+Durham, NC\
+[Website](www.bocciitalian.com)\
+Entrees $10–$21
 
 Bocci is a popular restaurant in the Woodcroft area of Durham and I must admit, I've already been back twice since this meal. I think that's a good sign.
 

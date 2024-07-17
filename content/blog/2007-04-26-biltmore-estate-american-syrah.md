@@ -1,15 +1,13 @@
 ---
 title: "Biltmore Estate American Syrah"
-date: "2007-04-26"
+date: "2007-09-03"
 categories:
-  - "red-wine-review"
-  - "shiraz"
   - "wine"
 tags:
   - "biltmore-estate-american-syrah"
 ---
 
-**Biltmore Estate** Other words on the label: American Syrah
+**Other words on the label:** American Syrah
 
 The nose is peppery, floral, and tart. Upon sipping, "is peppery" is revealed to be an understatement-no need to add any to your food! It's adventurous to drink and tickles your tongue. I think there's some sweetness to the wine, but I'm too overwhelmed by the pepper to really pick it out.
 

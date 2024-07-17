@@ -1,15 +1,15 @@
 ---
-title: "Elaine's on Franklin (Downtown Chapel Hill)"
-date: "2007-04-27"
+title: "Elaine's on Franklin"
+date: "2006-11-04"
 categories:
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags:
   - "chapel-hill"
   - "elaines-on-franklin"
 ---
 
-**Elaine's on Franklin** 454 West Franklin Street Chapel Hill, NC
+454 West Franklin Street\
+Chapel Hill, NC
 
 Elaine's offers an awesome 3-course tasting for only $30 on Thursdays and Fridays before 7pm. It's hard to beat that price, so take advantage, even though my review isn't glowing.
 

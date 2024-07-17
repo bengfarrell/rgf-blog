@@ -1,16 +1,14 @@
 ---
 title: "Wyndham Estate Cabernet Merlot"
-date: "2007-04-26"
+date: "2008-01-05"
 categories:
-  - "cabernet-sauvignon"
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "cabernet-merlot"
   - "wyndham-estate"
 ---
 
-**Wyndham Estate Cabernet Merlot** Other words on the label: Bin 888
+** Other words on the label:** Bin 888
 
 This medium to full-bodied wine smells richly of bing cherries and black pepper. The taste is a combination of plum and tobacco. Altogether, it is a full and near-perfect blend.
 

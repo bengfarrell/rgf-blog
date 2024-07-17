@@ -2,14 +2,13 @@
 title: "Beaujolais-Villages Red Burgundy Table Wine 2006"
 date: "2007-04-26"
 categories:
-  - "red-burgundy"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2006"
   - "beaujolais-villages"
 ---
 
-**Beaujolais-Villages Red Burgundy Table Wine** Other words on the label: Louis Jadot 2006
+**Other words on the label:** Louis Jadot 2006
 
 This was my first burgundy ever. Just thought you'd like to know.
 

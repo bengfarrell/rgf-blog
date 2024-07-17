@@ -1,11 +1,9 @@
 ---
 title: "Yo La Mango (Lantern, Chapel Hill)"
-date: "2007-04-27"
+date: "2009-01-05"
 categories:
   - "bars"
-  - "bars-chapel-hill-nc"
-  - "sake"
-  - "vodka"
+  - "cocktails"
 tags:
   - "chapel-hill-cocktails"
   - "lantern"
@@ -14,7 +12,8 @@ tags:
   - "yo-la-mango"
 ---
 
-**Yo La Mango** Lantern's Lounge Chapel Hill, NC
+**Lantern's Lounge**\
+Chapel Hill, NC
 
 Made with mango puree, lemongrass, sake, and vodka, Yo La Mango was tasty and packed lots of flavor.
 

@@ -1,16 +1,14 @@
 ---
 title: "Echelion Shiraz 2003"
-date: "2007-04-26"
+date: "2007-08-23"
 categories:
-  - "red-wine-review"
-  - "shiraz"
   - "wine"
 tags:
   - "2003"
   - "echelion-shiraz"
 ---
 
-**Echelion Shiraz** Other words on the label: Central Coast 2003
+**Other words on the label:** Central Coast 2003
 
 This wine is alive with tart blackberries. There's a bit of hippy to it, with an earthy undertone most reminiscent of patchouli.
 

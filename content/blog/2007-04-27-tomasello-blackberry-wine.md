@@ -1,14 +1,13 @@
 ---
 title: "Tomasello Blackberry Wine"
-date: "2007-04-27"
+date: "2006-12-06"
 categories:
-  - "dessert-wine-reviews"
+  - "wine"
 tags:
-  - "blackberry-wine"
-  - "tomasello"
+  - "wine"
 ---
 
-**Blackberry Wine** Other stuff on the label: Tomasello Winery
+**Other stuff on the label**: Tomasello Winery
 
 This wine is packed full of flavor. It has a syrupy smell of molasses and, strangely enough, blackberry. It's very translucent and tastes mainly like cranberry juice that's been mulled with allspice and nutmeg for a long time. There's a fleeting glimpse of amaretto before the vivid ginger aftertaste takes over. Cherry and blueberry also make an appearance. You can feel it trickle all the way into your stomach.
 

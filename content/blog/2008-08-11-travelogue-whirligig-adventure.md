@@ -2,14 +2,14 @@
 title: "Travelogue:  Whirligig Adventure"
 date: "2008-08-11"
 categories: 
-  - "travel-guide"
+  - "travel-guides"
 ---
 
 Ben and I had been cooped up in the house for way too long this past July so we decided it was high time for an adventure. Occasionally, we go off for an afternoon and hunt for whatever random sights strike my fancy with the aid of a guidebook and trusty MapQuest directions.
 
-A quick visit to [Roadside America](http://www.roadsideamerica.com) revealed that a farm in Lucama, about an hour away, exhibited the creations of folk artist, Vollis Simpson. What might these be, you ask? Whirligigs! For those of you who have never heard of such things, my completely un-researched definition is that a whirligig is a bunch of metal crafted into artwork and hung on the top of large poles to blow and chime in the wind.Two more curiosities were located within ten miles of the whirligigs and so our route was mapped.
+A quick visit to [Roadside America](http://www.roadsideamerica.com) revealed that a farm in Lucama, about an hour away, exhibited the creations of folk artist, Vollis Simpson. What might these be, you ask? Whirligigs! For those of you who have never heard of such things, my completely un-researched definition is that a whirligig is a bunch of metal crafted into artwork and hung on the top of large poles to blow and chime in the wind. Two more curiosities were located within ten miles of the whirligigs and so our route was mapped.
 
-We drove first to downtown Wilson to seek out the largest reproduction of the Cape Hatteras lighthouse that exists.Having seen the actual lighthouse on the Outer Banks, I can tell you that it’s definitely a pretty tower and worthy of reproduction with its barber pole stripes. The model is located in the parking lot of Worrell’s Seafood Restaurant on Goldsboro Street.You can’t miss it as you drive into the main strip of town.
+We drove first to downtown Wilson to seek out the largest reproduction of the Cape Hatteras lighthouse that exists.Having seen the actual lighthouse on the Outer Banks, I can tell you that it’s definitely a pretty tower and worthy of reproduction with its barber pole stripes. The model is located in the parking lot of Worrell’s Seafood Restaurant on Goldsboro Street. You can’t miss it as you drive into the main strip of town.
 
 ![Cape Hatteras Lighthouse model](http://s3.amazonaws.com/thegourmez-wpmedia/2008/08/whirligig-adventure-007.jpg "Cape Hatteras Lighthouse model")
 
@@ -25,7 +25,7 @@ I’d planned that we would get lunch in Wilson but as often seems the case on a
 
 ![Putt Putt of Wilson](http://s3.amazonaws.com/thegourmez-wpmedia/2008/08/whirligig-adventure-012.jpg "Putt Putt of Wilson")
 
-Putt Putt of Wilson is about twice the size of our basement, but I’ve yet to come across a course I haven’t enjoyed playing.Ben won by a stroke. Someday, I will reclaim the crown.
+Putt Putt of Wilson is about twice the size of our basement, but I’ve yet to come across a course I haven’t enjoyed playing. Ben won by a stroke. Someday, I will reclaim the crown.
 
 To find the whirligigs, we drove down the long country road, Wiggins Mill. You know you’ve reached them once you see giant metal structures loom over the side of the road.We turned onto the next street after sighting them and parked by the gate on the right. As long as the gate is open, visitors are welcome to come in and admire the whirligigs. This is the first view once in the park area.
 

@@ -1,17 +1,15 @@
 ---
 title: "Dellatorri Chianti 2004 Red Wine"
-date: "2007-04-26"
+date: "2007-05-13"
 categories:
-  - "chianti"
-  - "red-wine-review"
-  - "wine"
+  - ""wine"
 tags:
   - "2004-red-wine"
   - "dellatorri-chianti"
   - "italy"
 ---
 
-**Dellatorri Chianti** Other words on the label: denomi nazaione de Origine controllate e geratita 2004 Red Wine Product of Italy
+**Other words on the label:** denomi nazaione de Origine controllate e geratita 2004 Red Wine Product of Italy
 
 The label of this wines tries to convince me that the winery has been around forever. It features a gold foil crest of a sea horse overlooking a picturesque Italian seaside cliff and words that speak to generations of tradition if I interpret correctly.
 

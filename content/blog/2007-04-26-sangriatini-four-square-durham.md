@@ -1,16 +1,17 @@
 ---
 title: "Sangriatini (Four Square, Durham)"
-date: "2007-04-26"
+date: "2008-01-05"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "durham-cocktails"
   - "four-square"
   - "sangriatini"
 ---
 
-**Sangriatini** Four Square Durham, NC
+**Four Square**\
+Durham, NC
 
 This drink was an interesting idea but did not come across well in the execution. A sweeter red wine as the base would have been better as well as premixing the ingredients to allow the flavors to mix.
 

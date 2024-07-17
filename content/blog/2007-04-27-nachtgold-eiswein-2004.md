@@ -1,16 +1,15 @@
 ---
 title: "Nachtgold Eiswein 2004"
-date: "2007-04-27"
+date: "2006-12-06"
 categories:
-  - "dessert-wine-reviews"
-  - "ice-wine"
+  - "wine"
 tags:
   - "2004"
   - "eiswein"
   - "nachtgold"
 ---
 
-Eiswein, Nachtgold Other stuff on the label: 2004 Germany, Rheinhessen
+**Other stuff on the label:** 2004 Germany, Rheinhessen
 
 We bought this wine on impulse at our local World Market. Ice wine is the toast of the vintner world this year and I was intrigued. I knew that ice wines are made from grapes that remain on the vine until the freeze but had no clue that meant it would be ridiculously sweet. This is most definitely a dessert wine.
 

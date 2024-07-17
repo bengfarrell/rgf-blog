@@ -1,20 +1,18 @@
 ---
 title: "Paso Robles Estancia Zinfandel 2003"
-date: "2007-04-26"
+date: "2006-09-03"
 categories:
-  - "zinfandel"
-  - "red-wine-review"
   - "wine"
 tags:
   - "2003"
   - "paso-robles-estancia-zinfandel"
 ---
 
-**Paso Robles Estancia Zinfandel** Other stuff on the label: Keyes Canyon Ranches, 2003
+**Other stuff on the label:** Keyes Canyon Ranches, 2003
 
 Paso Robles. My memories of it are that of a dry, dusty gas stop on the commute from lush Santa Cruz to Santa Maria (a slightly less dry, dusty Inn & Out stop on the way to LA). Yet, through the magic of Sideways, the Hollywood indie film from a few years back, I've discovered that the Central Coast is one of the best wine regions in California. Sorry, Mom, I'm still not visiting.
 
-Back to the wine at hand. The label design is very understated, which I like. The background is beige with their sophisticated E drawn in mulberry and black. The text is all mulberry, which makes it a pleasant, not glaring contrast--they aren't jumping at my dollar but they are wooing me with refinement.
+Back to the wine at hand. The label design is very understated, which I like. The background is beige with their sophisticated E drawn in mulberry and black. The text is all mulberry, which makes it a pleasant, not glaring contrast—they aren't jumping at my dollar but they are wooing me with refinement.
 
 The smell has a muted scent of tobacco and pepper. The dense cough syrup red of the wine is crowned with a golden horizon.
 

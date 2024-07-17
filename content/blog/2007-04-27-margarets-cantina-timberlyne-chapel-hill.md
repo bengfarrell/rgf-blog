@@ -1,8 +1,7 @@
 ---
-title: "Margaret's Cantina (Timberlyne, Chapel Hill)"
-date: "2007-04-27"
+title: "Margaret's Cantina"
+date: "2008-03-01"
 categories:
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags:
   - "chapel-hill-dining"
@@ -10,7 +9,11 @@ tags:
   - "timberlyne"
 ---
 
-**Margaret's Cantina** Timberlyne 1129 Weaver Dairy Road Chapel Hill, NC http://www.margaretscantina.com/ Entrees $8--20, easy to stay on the cheap side.
+1129 Weaver Dairy Road\
+Timberlyne\
+Chapel Hill, NC\
+[Website](http://www.margaretscantina.com/)\
+Entrees $8–20, easy to stay on the cheap side
 
 Margaret's Cantina bills itself as healthy Southwestern cuisine, inspired by the owner's childhood in Arizona and the plentiful produce of North Carolina. Inside, the walls are either sponged on orange or green in a fern pattern. The present art display is a collection of modern portraits with a bit of a Mexican folk art bent. There is a large wire neon cactus in the center of the restaurant.
 

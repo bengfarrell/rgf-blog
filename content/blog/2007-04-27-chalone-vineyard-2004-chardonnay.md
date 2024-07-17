@@ -1,14 +1,13 @@
 ---
 title: "Chalone Vineyard 2004 Chardonnay"
-date: "2007-04-27"
+date: "2007-09-03"
 categories:
-  - "chardonnay"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "chalone-vineyard-2004-chardonnay"
 ---
 
-**Chalone Vineyard** Other words on the label: Monterey County 2004 Chardonnay
+**Other words on the label:** Monterey County 2004 Chardonnay
 
 This review may be skewed because everything tastes like grapefruit lately. Which means that grapefruit, of course, is the most prominent flavor in this wine. Extracting that acidity, here are the rest:
 

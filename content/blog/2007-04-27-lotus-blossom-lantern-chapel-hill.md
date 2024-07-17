@@ -1,9 +1,9 @@
 ---
-title: "Lotus Blossom (Lantern, Chapel Hill)"
-date: "2007-04-27"
+title: "Lotus Blossom @ Lantern"
+date: "2008-01-05"
 categories:
   - "bars"
-  - "bars-chapel-hill-nc"
+  - "cocktails"
 tags:
   - "chapel-hill-cocktails"
   - "lantern"
@@ -14,7 +14,8 @@ tags:
   - "orange-flower-water"
 ---
 
-**Lotus Blossom** Lantern's Lounge Chapel Hill, NC
+**Lantern's Lounge**\
+Chapel Hill, NC
 
 This sophisticated drink was made with Luksana vodka, lillet blanc, orange flower water, and lychee juice. Combined, the drink was lightly sweet and wonderfully smooth.
 

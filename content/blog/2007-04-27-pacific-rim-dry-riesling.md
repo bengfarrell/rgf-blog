@@ -1,15 +1,14 @@
 ---
 title: "Pacific Rim Dry Riesling"
-date: "2007-04-27"
+date: "2006-09-03"
 categories:
-  - "riesling"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "dry-riesling"
   - "pacific-rim"
 ---
 
-**Pacific Rim Dry Riesling** Other stuff on the label: Bonny Doon Vineyard
+**Other stuff on the label:** Bonny Doon Vineyard
 
 I don't often comment on labels but this one deserves special attention. The artwork is quite perplexing and I can't hazard a guess as to its meaning. Just let it be said that the Santa Cruz area, where Bonny Doon Winery is housed, is a very liberal community. Knowing that really makes my head hurt when I try to comprehend the label. There is a little cleavage exposed on the chest of a slanted eyed woman. She is strangely contorted into some sort of laying down position, while reading a book. Did I mention this was in a clamshell? Floating in the wine, meaning that they are imprinted on the back of the bottle, are chili peppers, cilantro, star anise, ginger, and a head of garlic. Draw your own conclusions and email them to me. I'd really like to know.
 

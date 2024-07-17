@@ -1,16 +1,18 @@
 ---
-title: "The Primo Margarita (Chili's, Durham)"
-date: "2007-04-27"
+title: "The Primo Margarita @ Chili's"
+date: "2006-09-03"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "chilis"
   - "durham-cocktails"
   - "the-primo-margarita"
 ---
 
-**The Primo Margarita** Chili's 6917 Fayetteville Road Durham, NC
+**Chili's**\
+6917 Fayetteville Road\
+Durham, NC
 
 This one is perfect for those of us who like the flavor of margaritas but can't drink it fast enough to beat the melting ice. It has a strong alcohol presence, which delights my taste buds. The tequila is well-blended with the participating liquors. I always have to have more than one of these. My one word of caution, ask for light salt. You don't want it mixing in and destroying the tasty canvas before you.
 

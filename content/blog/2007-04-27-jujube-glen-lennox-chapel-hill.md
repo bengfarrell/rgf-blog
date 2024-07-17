@@ -1,8 +1,7 @@
 ---
-title: "Jujube (Glen Lennox, Chapel Hill)"
-date: "2007-04-27"
+title: "Jujube (Chapel Hill)"
+date: "2007-01-01"
 categories:
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags:
   - "chapel-hill-restaurant"
@@ -10,7 +9,9 @@ tags:
   - "jujube"
 ---
 
-**Jujube** 1201-L Raleigh Road Glen Lennox Shopping Center Chapel Hill, NC
+1201-L Raleigh Road\
+Glen Lennox Shopping Center\
+Chapel Hill, NC
 
 Jujube is an Asian fusion restaurant that is divided into a sushi bar and a dining room. The sushi bar is bright green and lively. The kitchen staff is very talkative and appreciates a good compliment. The dining room is chic but very open; it would be perfect as a lounge to enjoy a few drinks with your friends. The burnished red walls are dotted with photos of everyday Asia, which is unexpected and enchanting. Jujube invites you to come chill with your friends and share a few small but entertaining platters.
 

@@ -1,15 +1,17 @@
 ---
-title: "Spanky's (Downtown Chapel Hill)"
-date: "2007-04-27"
+title: "Spanky's"
+date: "2008-01-05"
 categories:
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags:
   - "downtown-chapel-hill-dining"
   - "spankys-bar-and-restaurant"
 ---
 
-**Spanky's Bar and Restaurant** Franklin Street 101 E. Franklin Street Chapel Hill, NC www.spankysrestaurant.com Entrees $8--11
+101 E. Franklin Street\
+Chapel Hill, NC\
+[Website](www.spankysrestaurant.com)\
+Entrees $8–11
 
 Spanky's has a cozy pub feel; it's a place to chill with your friends at the end of the night. However, it's likely transformed by that time into a swirling mass of Greeks from UNC Chapel Hill, so you'd best stop by after work for some drinks instead if you are not one of those swirling masses. The only detractions from the pub feel were some rather ugly caricatures of past UNC coaches and players.
 

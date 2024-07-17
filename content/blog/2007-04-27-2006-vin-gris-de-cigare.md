@@ -1,15 +1,14 @@
 ---
 title: "2006 Vin Gris de Cigare"
-date: "2007-04-27"
+date: "2007-09-03"
 categories:
-  - "rose-review"
-  - "vin-gris-de-cigare"
+  - "wine"
 tags:
   - "2006"
   - "bonny-doon-vineyard"
 ---
 
-2006 Vin Gris de Cigare Other stuff on the label: Bonny Doon Vineyards
+**Other stuff on the label:** Bonny Doon Vineyards
 
 This wine is from Bonny Doon Vineyards newly acquired vines in France. There's something innately appealing about this label-probably because of their tongue in cheek use of an old French ordinance. Look it up.
 

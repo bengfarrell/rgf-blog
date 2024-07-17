@@ -1,15 +1,14 @@
 ---
 title: "Kingfish Cabernet Sauvignon 2005"
-date: "2007-04-26"
+date: "2007-03-11"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2005"
   - "kingfish"
 ---
 
-**Kingfish Cabernet Sauvignon** Other words on the label: California 2005
+**Other words on the label:** California 2005
 
 This wine was a delight to drink. It is one of those rare light-bodied cabernets that drinking doesn't feel like swimming upstream against the current.
 

@@ -1,8 +1,7 @@
 ---
-title: "Thai China Buffet (Highways 55 & 54 Crossroads, Durham)"
-date: "2007-04-27"
+title: "Thai China Buffet"
+date: "2006-09-24"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "durham"
@@ -10,7 +9,8 @@ tags:
   - "thai-china-buffet"
 ---
 
-**Thai China Buffet** 4900 NC 55, Ste 200 Durham, NC
+4900 NC 55, Ste 200\
+Durham, NC
 
 This is a very casual spot that's great for a cheap Asian eat. Its atmosphere would be greatly improved if the pair of upside down umbrellas on the ceiling was duplicated across the whole place. As it is, it's a beige, cheap poster decor, but again, if you're hungry and broke . . .
 

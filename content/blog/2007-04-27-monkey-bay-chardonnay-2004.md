@@ -1,15 +1,14 @@
 ---
 title: "Monkey Bay Chardonnay 2004"
-date: "2007-04-27"
+date: "2007-01-27"
 categories:
-  - "chardonnay"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2004"
   - "monkey-bay"
 ---
 
-**Monkey Bay Chardonnay** Other words on the label: New Zealand Vintage 2004 East Coast
+**Other words on the label:** New Zealand Vintage 2004 East Coast
 
 I was excited the moment I read the back of the label and learned that "the legendary monkey, once believed to inhabit this secluded spot, has truly been brought to life through this exciting range of wines." Wow, I thought. If I drink this wine, I will bring the zombie monkey to life.
 

@@ -1,18 +1,20 @@
 ---
-title: "French Kiss Martini (City Beverage, Durham)"
-date: "2007-04-27"
+title: "French Kiss Martini @ City Beverage"
+date: "2006-11-04"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "city-beverage"
   - "durham-cocktails"
   - "french-kiss-martini"
 ---
 
-**French Kiss Martini** City Beverage 4810 Hope Valley Road Durham, NC
+**City Beverage *CLOSED***\
+4810 Hope Valley Road\
+Durham, NC
 
-This libation is a mix of vodka, chambord, pineapple, and lemon peel. It's a slightly different recipe than the classic French Kiss but tastes just like that standard---a favorable level of sweetness, but overall, somewhat dull. Brightly deep red in color but the taste did not linger.
+This libation is a mix of vodka, chambord, pineapple, and lemon peel. It's a slightly different recipe than the classic French Kiss but tastes just like that standard—a favorable level of sweetness, but overall, somewhat dull. Brightly deep red in color but the taste did not linger.
 
 
 

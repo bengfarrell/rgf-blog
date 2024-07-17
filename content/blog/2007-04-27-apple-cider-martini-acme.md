@@ -1,6 +1,6 @@
 ---
-title: "Apple Cider Martini (Acme)"
-date: "2007-04-27"
+title: "Apple Cider Martini @ Acme"
+date: "2006-09-03"
 categories:
   - "bars"
   - "bars"
@@ -10,7 +10,9 @@ tags:
   - "carrboro-cocktail"
 ---
 
-**Apple Cider Martini** Acme 110 East Main Street Carrboro
+**Acme**\
+110 East Main Street\
+Carrboro, NC
 
 This one did not live up to my expectations. I was anticipating the same level of spice as a mug of apple cider, but Acme seems to have been aiming more for sparkling cider, which is really nothing more than extra fizzy apple juice. At least it wasn't of the sour apple vein that's so popular right now.
 

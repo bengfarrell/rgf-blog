@@ -2,10 +2,10 @@
 title: "Travelogue:  Tieton, WA"
 date: "2008-05-25"
 categories:
-  - "travel-guide"
+  - "travel-guides"
 ---
 
-Written 5/12/2008
+_Written 5/12/2008_
 
 As I type, I am flying back towards the East Coast from spending the weekend at my mother’s home in Tieton, Washington. I was quite impressed with the beauty of the area this time round—likely because Mom and Tim have moved away from Yakima, the largest town in the vicinity, and higher into the valleys of their mountain range. It’s quite gorgeous as you can see:
 

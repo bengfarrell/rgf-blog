@@ -1,15 +1,14 @@
 ---
 title: "Xpression Red Wine 2003"
-date: "2007-04-26"
+date: "2006-08-21"
 categories:
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2003"
   - "xpression-red-wine"
 ---
 
-**Xpression Red Wine** Other stuff on the label: Ironstone Vineyards, 2003 California
+**Other stuff on the label:** Ironstone Vineyards, 2003, California
 
 On a beige speckled background, two pink blossoms hang out in a gold frame with matching lettering. For this wine, I followed the manufacturer's suggestion to drink it slightly chilled. If you try it colder or at room temperature, let me know if the flavors change!
 

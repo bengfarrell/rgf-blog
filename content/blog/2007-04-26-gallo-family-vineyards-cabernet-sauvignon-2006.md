@@ -1,15 +1,14 @@
 ---
 title: "Gallo Family Vineyards Cabernet Sauvignon 2006"
-date: "2007-04-26"
+date: "2009-02-06"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2006"
   - "gallo-family-vineyards"
 ---
 
-**Gallo Family Vineyards Cabernet Sauvignon** Other words on the label: Sonoma 2006
+**Other words on the label:** Sonoma 2006
 
 This wine has a full aroma of black raspberries. It is mellow when sipped. The flavor of pluots rises to the top.
 

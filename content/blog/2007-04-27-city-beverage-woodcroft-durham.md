@@ -1,15 +1,15 @@
 ---
-title: "City Beverage (Woodcroft, Durham) *CLOSED*"
-date: "2007-04-27"
+title: "City Beverage *CLOSED*"
+date: "2006-09-03
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "city-beverage"
   - "durham"
 ---
 
-**City Beverage** 4810 Hope Valley Road Durham, NC
+4810 Hope Valley Road\
+Durham, NC
 
 City Beverage is a gem hidden within a strip mall geode shell. The incredibly unimaginative moniker of "City Beverage;" does not inspire exploration, but don't let that stop you. Come in despite the nondescript exterior; you will be richly rewarded. City Beverage is one of the most fun eateries I've come across in the Triangle. In addition to well-considered mixers, they do have an intriguing menu of gourmet pub food.
 

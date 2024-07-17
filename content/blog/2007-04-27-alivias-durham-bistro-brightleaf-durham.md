@@ -1,8 +1,7 @@
 ---
-title: "Alivia's Durham Bistro (Brightleaf, Durham)"
-date: "2007-04-27"
+title: "Alivia's Durham Bistro"
+date: "2007-05-13"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags: 
   - "alivias-durham-bistro"
@@ -10,7 +9,11 @@ tags:
   - "durham-restaurants"
 ---
 
-**Alivia's Durham Bistro** Brightleaf District 900 West Main Street Durham, NC www.aliviasdurhambistro.com Entrees $16--19
+Brightleaf District\
+900 West Main Street\
+Durham, NC\
+[Website](www.aliviasdurhambistro.com)\
+Entrees $16–19
 
 I've wanted to check out the Brightleaf Square dining scene for a long time. It's one of many revamped tobacco warehouse districts in Durham and seems to contain a good variety of restaurants. Alivia's is the first I've made it to and I'll be impressed if we come across another one that beats it. It helps that most of the other nearby establishments close around 9 pm. On the weekend.
 

@@ -1,16 +1,17 @@
 ---
-title: "Sidecar (Rockwood Filling Station, Durham) *CLOSED*"
-date: "2007-04-27"
+title: "Sidecar @ Rockwood Filling Station *CLOSED*"
+date: "2008-08-10"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "cocktails"
 tags:
   - "durham"
   - "rockwood-filling-station"
   - "sidecar"
 ---
 
-**Sidecar** Rockwood Filling Station \*CLOSED\* Durham, NC
+**Rockwood Filling Station** *CLOSED*\
+ Durham, NC
 
 I was delighted to see sidecars on the drink list for Rockwood Filling Station as I feel it's an often overlooked cocktail. The drink itself did not live up to my expectations. It was served in a sugar-rimmed martini glass. I thought the sugar was a good touch to counter the usually strong drink but this one was on the bland side, so the sugar didn't add anything. There was no punch to this sidecar but it wasn't quite weak enough to stop me from drinking it.
 

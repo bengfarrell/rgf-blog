@@ -1,9 +1,7 @@
 ---
 title: "Casa La Joya Reserve Cabernet Sauvignon 2002"
-date: "2007-04-26"
+date: "2006-11-04"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
   - "wine"
 tags:
   - "2002"
@@ -11,7 +9,7 @@ tags:
   - "chilean-wines"
 ---
 
-**Casa La Joya Reserve** Other stuff on the label: Cabernet Sauvignon 2002, Colchagua Valley, Chile
+**Other stuff on the label:** Cabernet Sauvignon 2002, Colchagua Valley, Chile
 
  
 

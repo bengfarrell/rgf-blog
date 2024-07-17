@@ -1,16 +1,18 @@
 ---
-title: "Oranj Cocktail (Elaine's on Frankin, Downtown Chapel Hill)"
-date: "2007-04-27"
+title: "Oranj Cocktail @ Elaine's on Frankin"
+date: "2006-11-04"
 categories:
   - "bars"
-  - "bars-chapel-hill-nc"
+  - "cocktails"
 tags:
   - "chapel-hill-cocktails"
   - "elaines-on-franklin"
   - "oranj-cocktail"
 ---
 
-**Oranj Cocktail** Elaine's on Franklin 454 West Franklin Chapel Hill, NC
+**Elaine's on Franklin**\
+454 West Franklin\
+Chapel Hill, NC
 
 The sweet rim worked very well because of the strong alcohol taste; they tempered each other. The orange is sweet and not overpowering at all. It tastes golden.
 

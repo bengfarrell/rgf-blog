@@ -1,15 +1,14 @@
 ---
 title: "Two Tone Farm Cabernet Sauvignon 2003"
-date: "2007-04-26"
+date: "2006-09-25"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2003"
   - "two-tone-farm-cabernet-sauvignon"
 ---
 
-**Two Tone Farm Cabernet Sauvignon** Other stuff on the label: 2003, California
+**Other stuff on the label:** 2003, California
 
 The label looks like a frame out of a bad horror film. It's an old two door car, pulling out and heading into the unknown. Drinking the wine is a similar experience.
 

@@ -1,15 +1,14 @@
 ---
 title: "Geyser Peak Sauvignon Blanc 2003"
-date: "2007-04-27"
+date: "2006-11-04"
 categories:
-  - "sauvignon-blanc"
-  - "white-wine-reviews"
+  - "wine"
 tags:
   - "2003"
   - "geyser-peak"
 ---
 
-**Geyser Peak Sauvignon Blanc** Other stuff on the label: 2003 California
+**Other stuff on the label:** 2003 California
 
 This white wine tastes like a lemon tart, complete with the crust intact. After you drink a slice, though, you are left wondering where the pears and cinnamon came in. It's tasty.
 

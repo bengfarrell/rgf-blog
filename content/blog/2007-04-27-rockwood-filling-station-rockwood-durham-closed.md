@@ -1,8 +1,7 @@
 ---
-title: "Rockwood Filling Station (Rockwood, Durham) *CLOSED*"
-date: "2007-04-27"
+title: "Rockwood Filling Station *CLOSED*"
+date: "2008-08-10"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "durham-dining"
@@ -10,7 +9,9 @@ tags:
   - "rockwood-filling-station"
 ---
 
-**Rockwood Filling Station** \*CLOSED\* 2512 University Drive Durham, NC Pizzas ranged from $9--12 if my memory serves me well.
+2512 University Drive\
+Durham, NC\
+Pizzas ranged from $9–12 if my memory serves me well
 
 There can never be enough places selling gourmet pizza, right? I'm not a purist; you won't find me expounding on the glories of a New York slice or the goopiness that is Chicago Deep Dish. No, wave a few artichoke hearts and slices of prosciutto my direction and I'll come running. And so, after the Durham food blogs exploded with reviews of Rockwood Filling Station, my next place to review was destined.
 

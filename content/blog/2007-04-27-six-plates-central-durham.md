@@ -1,8 +1,7 @@
 ---
-title: "six plates (Central Durham) *REOPENED as Black Twig Cider*"
-date: "2007-04-27"
+title: "six plates *REOPENED as Black Twig Cider*"
+date: "2008-07-12"
 categories:
-  - "bars-in-durham-nc"
   - "restaurants"
 tags:
   - "central-durham-dining"
@@ -10,7 +9,11 @@ tags:
   - "wine-bar"
 ---
 
-**six plates** Erwin Terrace 2812 Erwin Road Durham, NC http://sixplates.blogspot.com Small Plates $9--11
+2812 Erwin Road\
+Erwin Terrance\
+Durham, NC\
+[Website](http://sixplates.blogspot.com)\
+Small Plates $9–11
 
 We ended up at six plates late on a Saturday night after having waited too long for service at another lounge. six plates was advertised in our American Dance Festival brochure along with its service hours, which are until 2 am on the weekends, midnight during the week. It's always very exciting to find somewhere, anywhere, in the triangle where you can eat past 10:00 pm, chain restaurant or otherwise.
 

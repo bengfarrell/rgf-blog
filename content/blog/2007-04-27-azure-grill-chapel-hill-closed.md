@@ -1,6 +1,6 @@
 ---
 title: "Azure Grill (Chapel Hill) *Closed*"
-date: "2007-04-27"
+date: "2006-09-03"
 categories: 
   - "chapel-hill"
   - "restaurants"
@@ -9,7 +9,8 @@ tags:
   - "chapel-hill"
 ---
 
-**Azure Grille** \*Closed\* 407 Meadowmont Village Circle Chapel Hill, NC
+407 Meadowmont Village Circle\
+Chapel Hill, NC
 
 This sunny bistro is one of the newest restaurants in Chapel Hill, a land of many yummy feasts. The decor struck me as bland at first glance, but I quickly discarded my disdain. It's not trying to be the next trendy hot spot; it's succeeding at being a welcoming European cafe. Somehow, I was convinced I was outside, enjoying a nice day, when in fact, I was inside, safely out of the pouring rain. The art also deserves accolades. I was enchanted with the piece right above our table. It was a decoupage of wine bottle labels crafted by unseen forces into the courtyard of Carmen, creating a never before seen 3D production. Don't ask me how it happened. I think it was gnomes.
 

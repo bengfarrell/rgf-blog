@@ -1,8 +1,7 @@
 ---
-title: "Toast (Five Points, Durham)"
-date: "2007-04-27"
+title: "Toast"
+date: "2008-08-10"
 categories:
-  - "durham-restaurant-reviews"
   - "restaurants"
 tags:
   - "durham-dining"
@@ -10,7 +9,10 @@ tags:
   - "toast"
 ---
 
-**Toast** Five Points 345 West Main Street Durham, NC http://www.toast-fivepoints.com Sandwiches ranged from $1.50 for Crostini to $6 for Panini
+345 West Main Street\
+Five Points, Durham, NC\
+[Website](http://www.toast-fivepoints.com)
+Sandwiches ranged from $1.50 for Crostini to $6 for Panini
 
 Walking through downtown Durham on the way to Toast is a testament to the fine remodeling job that has been done since we moved to Durham three years ago. It is slowly revitalizing itself as a center for the community and I hope that more new businesses will soon see fit to call the Five Points area home.
 

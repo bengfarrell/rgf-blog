@@ -1,15 +1,18 @@
 ---
 title: "Vespa Ristorante (Downtown Chapel Hill)"
-date: "2007-04-27"
+date: "2008-03-01"
 categories:
-  - "dining-chapel-hill-nc"
   - "restaurants"
 tags:
   - "downtown-chapel-hill-dining"
   - "vespa-ristorante"
 ---
 
-**Vespa Ristorante** Franklin Street 306-D West Franklin Street Chapel Hill, NC http://chapel.hill.vespasta.com/ Entrees $11--18
+Franklin Street 306-D\
+West Franklin Street\
+Chapel Hill, NC\
+http://chapel.hill.vespasta.com/\
+Entrees $11–18
 
 This Italian restaurant is distinguished by the Vespa motorbike sitting on permanent display outside the patio. It's got a nice brick walkway into the small, appealing dining room. The walls are the color of salmon, which is attractive as long as the restaurant is dimly lit. Italian versions of American classic film posters adorn them but not too many to make it seem cluttered. The corner bar is an elegant dark wood that's often occupied by on and off duty employees on a slow night.
 

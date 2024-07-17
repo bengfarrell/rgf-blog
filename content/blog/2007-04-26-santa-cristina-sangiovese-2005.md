@@ -1,15 +1,14 @@
 ---
 title: "Santa Cristina Sangiovese 2005"
-date: "2007-04-26"
+date: "2008-03-01"
 categories:
-  - "red-wine-review"
-  - "sangiovese"
+  - "wine"
 tags:
   - "2005"
   - "santa-cristina"
 ---
 
-**Santa Cristina Sangiovese 2005** Other words on the label: Antinori and Toscana
+**Other words on the label:** Antinori and Toscana
 
 This wine is actually a sangiovese and merlot blend, though it's very light on the merlot side. Just thought I'd be honest since their front label isn't quite!
 

@@ -1,16 +1,16 @@
 ---
 title: "Monte Antico Red Wine 2003"
-date: "2007-04-26"
+date: "2007-01-27"
 categories:
-  - "red-wine-review"
-  - "sangiovese"
+  - "wine"
 tags:
   - "2003"
   - "monte-antico-red-wine"
   - "toscany"
 ---
 
-**Monte Antico** Other words on the label: Toscano Indicazione Geografica Tipica Red Wine 2003 Sangiovese
+**Other words on the label:**\
+Toscano Indicazione Geografica Tipica, Red Wine 2003, Sangiovese
 
 The first sip was overwhelming earthy, by which I mean it tasted like dirt. After a few more swirls, I attributed the earthiness to mushrooms, leavened with the pith of a grapefruit.
 
