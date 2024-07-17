@@ -4,7 +4,6 @@ date: "2011-08-31"
 categories:
   - "cocktails"
   - "restaurants"
-  - "spirits"
 tags:
   - "bars"
   - "butternut-squash"

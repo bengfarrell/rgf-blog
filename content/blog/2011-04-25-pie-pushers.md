@@ -22,7 +22,7 @@ $6–$18 per pie
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/piepusher021.jpg "piepusher02")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/piepusher021.jpg)
 
-My thoughts on Pie Pushers, a mobile pizza restaurant, went up at [Carpe Durham](http://carpedurham.com/2011/03/30/pie-pushers/) a couple of weeks ago, but I haven’t had a chance to publish them here yet. I tried them out during [the Cookery’s open house](../../../../../?p=2514), waiting in line for at least half an hour—-I was not alone in wanting to sample their food.  It almost goes without saying these days that they get as many of their ingredients as they can from NC farmers, ensuring fresh toppings whenever possible. They offer pizza by the slice or by the whole pie with a range of intriguing ingredient combinations.
+My thoughts on Pie Pushers, a mobile pizza restaurant, went up at [Carpe Durham](http://carpedurham.com/2011/03/30/pie-pushers/) a couple of weeks ago, but I haven’t had a chance to publish them here yet. I tried them out during [the Cookery’s open house](https://thegourmez.com/blog/2011/04/25/pie-pushers/), waiting in line for at least half an hour—-I was not alone in wanting to sample their food.  It almost goes without saying these days that they get as many of their ingredients as they can from NC farmers, ensuring fresh toppings whenever possible. They offer pizza by the slice or by the whole pie with a range of intriguing ingredient combinations.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/piepusher01.jpg "piepusher01")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/piepusher01.jpg)
 

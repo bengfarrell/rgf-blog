@@ -4,7 +4,6 @@ date: "2011-06-06"
 categories: 
   - "bars"
   - "cocktails"
-  - "spirits"
 tags: 
   - "absolut-citron"
   - "aye-nako"

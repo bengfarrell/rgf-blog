@@ -2,7 +2,7 @@
 title: "Contempo Cocktail Company and Its Kickstarter Campaign"
 date: "2016-08-11"
 categories: 
-  - "spirits"
+  
   - "cocktails"
   - "product-reviews"
   - "other-businesses"

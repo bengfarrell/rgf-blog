@@ -26,7 +26,7 @@ Dinner: $6–$18
 
 Folks, I have been back to Market, and I can unequivocally bump up my rating for them to an
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) If you’re interested in my first blog on them, [head here](../../../../../?p=1992). Would you like to know why I’ve given them extra points? Well, it all boils down to my sweet tooth.
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) If you’re interested in my first blog on them, [head here](https://thegourmez.com/blog/2010/12/17/market-restaurant/). Would you like to know why I’ve given them extra points? Well, it all boils down to my sweet tooth.
 
  
 
@@ -42,7 +42,7 @@ That, dear readers, is something you should be heading toward your cars for righ
 
  
 
-This was a vegan chocolate cake made with husks from Market’s neighbor, [Escazu,](../../../../../?p=1975) and with an unhealthy dose of chocolate sauce to wash down the chocolate. Now that was one dense dessert. I could only eat half, and it was a struggle to get that far just because it was such a concentration of chocolate in every bite. Without the avocado-coconut gelato, there’s no way I could have eaten even that much. Which isn’t to say I didn’t like it — it was great! It's worth mentioning that my companion for the evening also enjoyed her rockfish dinner with an asparagus risotto cake and saffron sauce. It was a lovely presentation, which is something Market excels at.
+This was a vegan chocolate cake made with husks from Market’s neighbor, [Escazu,](https://thegourmez.com/blog/2011/05/31/taste-carolina-tours-trifoodie-tweetup/) and with an unhealthy dose of chocolate sauce to wash down the chocolate. Now that was one dense dessert. I could only eat half, and it was a struggle to get that far just because it was such a concentration of chocolate in every bite. Without the avocado-coconut gelato, there’s no way I could have eaten even that much. Which isn’t to say I didn’t like it — it was great! It's worth mentioning that my companion for the evening also enjoyed her rockfish dinner with an asparagus risotto cake and saffron sauce. It was a lovely presentation, which is something Market excels at.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/market02.jpg "market02")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/market02.jpg)
 

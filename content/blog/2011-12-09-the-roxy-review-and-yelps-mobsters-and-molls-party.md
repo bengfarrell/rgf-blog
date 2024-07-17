@@ -5,7 +5,6 @@ categories:
   - "bars"
   - "cocktails"
   - "events"
-  - "spirits"
 tags:
   - "bar"
   - "bars"

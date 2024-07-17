@@ -4,7 +4,6 @@ date: "2012-01-06"
 categories: 
   - "bars"
   - "cocktails"
-  - "spirits"
   - "cider"
 tags: 
   - "apple-cider"

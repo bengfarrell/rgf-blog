@@ -56,7 +56,7 @@ Because this is the Triangle, the Cookery invited a number of food trucks and a 
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/piepusher02.jpg "piepusher02")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/piepusher02.jpg)
 
-[Farmhand Foods Sausage Wagon,](../../../../../?p=2224)
+[Farmhand Foods Sausage Wagon,](https://thegourmez.com/blog/2011/02/15/farmhand-foods-sausage-wagon/)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/cookery02.jpg "cookery02")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/04/cookery02.jpg)
 

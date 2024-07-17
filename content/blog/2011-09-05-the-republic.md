@@ -4,7 +4,6 @@ date: "2011-09-05"
 categories: 
   - "bars"
   - "cocktails"
-  - "spirits"
 tags: 
   - "bars"
   - "berry-diddy-martini"

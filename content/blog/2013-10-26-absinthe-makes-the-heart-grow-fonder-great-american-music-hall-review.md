@@ -2,7 +2,6 @@
 title: "Absinthe Makes the Heart Grow Fonder at the Great American Music Hall"
 date: "2013-10-26"
 categories: 
-  - "spirits"
   - "bars"
   - "cocktails"
 tags: 

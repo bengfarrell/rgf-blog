@@ -3,10 +3,8 @@ title: "The Lunchpad in San Francisco"
 date: "2016-12-05"
 categories:
   - "bars"
-  - "bars-in-san-francisco"
-  - "san-francisco-restaurant-review"
   - "restaurants"
-  - "spirits"
+  - "cocktails"
   - "vodka"
 tags:
   - "brunch"

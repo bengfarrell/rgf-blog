@@ -4,7 +4,6 @@ date: "2014-01-14"
 categories: 
   - "bars"
   - "cocktails"
-  - "spirits"
 tags: 
   - "bar"
   - "bars"
