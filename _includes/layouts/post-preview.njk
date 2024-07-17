@@ -1,0 +1,91 @@
+---
+layout: layouts/base.njk
+---
+
+<style>
+	#file-input {
+		position: absolute;
+		background-color: #99E2F2;
+		width: 50px;
+		height: 50px;
+		top: 5px;
+		left: 5px;
+		border: 1px solid black;
+	}
+</style>
+<div id="file-input"
+		 ondrop="dropHandler(event);"
+		 ondragover="dragOverHandler(event);">
+</div>
+<script src="/js/marked.min.js"></script>
+
+<div id="page-container">
+	<div id="page-content">
+		<h1>{{ title }}</h1>
+
+		<ul class="post-metadata">
+			<li style="display:none" data-pagefind-sort="date">{{ page.date | htmlDateString }}</li>
+			<li><time data-pagefind-meta="date:{{ page.date | htmlDateString }}" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
+		</ul>
+
+		<article data-pagefind-body id="preview">
+		{{ content | safe }}
+		</article>
+
+		{%- if collections.posts %}
+		{%- set previousPost = collections.posts | getPreviousCollectionItem %}
+		{%- set nextPost = collections.posts | getNextCollectionItem %}
+		{%- if nextPost or previousPost %}
+		<ul class="links-nextprev">
+			{%- if previousPost %}<li class="prev-post">&lt&lt;&nbsp;<a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+			{%- if nextPost %}<li class="next-post"><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>&nbsp;&gt;&gt</li>{% endif %}
+		</ul>
+		{%- endif %}
+		{%- endif %}
+	</div>
+	<div id="sidebar">
+		<div class="sidebar-content">
+			{%- set sideBarToRender = categories | sidebarSelector %}
+			{% renderFile "./content/sidebars/" + sideBarToRender + ".md" %}
+		</div>
+	</div>
+</div>
+
+<script>
+	function dragOverHandler(ev) {
+		// Prevent default behavior (Prevent file from being opened)
+		ev.preventDefault();
+	}
+
+	function dropHandler(ev) {
+		console.log("File(s) dropped");
+
+		// Prevent default behavior (Prevent file from being opened)
+		ev.preventDefault();
+
+		if (ev.dataTransfer.items) {
+			// Use DataTransferItemList interface to access the file(s)
+			[...ev.dataTransfer.items].forEach((item, i) => {
+				// If dropped items aren't files, reject them
+				if (item.kind === "file") {
+					const file = item.getAsFile();
+					console.log(`… file[${i}].name = ${file.name}`);
+					file.text().then((text) => {
+						const content = text.split("---");
+						const frontMatter = content[1].split("\n");
+						frontMatter.forEach((line) => {
+							const [key, value] = line.split(": ");
+							if (key === "title")
+								document.getElementById("page-content").getElementsByTagName("h1")[0].innerText = value.substring(1, value.length - 1);
+							if (key === "date") {
+								const date = value.substring(1, value.length - 1);
+								document.getElementById("page-content").getElementsByTagName("time")[0].innerText = new Date(date).toDateString();
+							}
+						});
+						document.getElementById("preview").innerHTML = marked.parse(content[2]);
+					});
+				}
+			});
+		}
+	}
+</script>
