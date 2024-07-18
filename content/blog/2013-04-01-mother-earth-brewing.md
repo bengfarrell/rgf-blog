@@ -29,7 +29,7 @@ In [my first blog](http://www.thegourmez.com/?p=6071) on this day trip to Kinsto
 
 <div class="caption">
 
-[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Mother-Earth-Brewing-01-1024x270.jpg)](http://www.thegourmez.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/mother-earth-brewing-01/) Click twice for the largest view!</div>
+[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Mother-Earth-Brewing-01-1024x270.jpg)]</div>
 
 
 My husband is a fan of their Weeping Willow Wit, a Belgian-style beer that is often his choice when picking a local draft from a restaurant, so stumbling upon their brewery was especially exciting for us. Stopping in to relax at their taproom for a while was perfect after a day spent traipsing around the riverfront.  The brewery is located at 311 N. Heritage St.

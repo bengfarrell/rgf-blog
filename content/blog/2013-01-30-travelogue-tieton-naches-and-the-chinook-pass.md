@@ -43,7 +43,7 @@ tags:
 
 <div class="caption">
 
-[![IMG_7674small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7674small.jpg)](http://www.rebeccagomezfarrell.com/2013/01/travelogue-tieton-naches-and-the-chinook-pass/img_7674small/) Sunset over the mountains.</div>
+[![IMG_7674small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7674small.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7674small.jpg) Sunset over the mountains.</div>
 
 
 This is the last of my travelogues from my October visit with my mom and stepfather in Central Washington. The first was on [a day in Yakima](index.php?p=5412) and the second was on [a day in Ellensburg](index.php?p=5538). This entry covers the beautiful scenery to be found in the tiny towns of Tieton and Naches nestled in the Cascades and driving along State Route 410 West toward the edge of the Snoqualmie National Forest, also known as the Chinook Pass. There is no food in this post—shocker, I know!—but we did stop for pictures at a few restaurants and wineries along the way that are known for good eats or tastings.
@@ -55,7 +55,7 @@ The Naches Valley is gorgeous all on its own, as you can see in both of these pa
 
 <div class="caption">
 
-[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7301small.jpg)](https://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7301small.jpg) Click twice for the largest view!</div>
+[![Click for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7301small.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7301small.jpg) Click for the largest view!</div>
 
 
 
@@ -63,14 +63,14 @@ The Naches Valley is gorgeous all on its own, as you can see in both of these pa
 
 <div class="caption">
 
-[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7288small.jpg)](https://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7288small.jpg/) Click twice for the largest view!</div>
+[![Click for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7288small.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7288small.jpg) Click for the largest view!</div>
 
 
 The town of Naches has a number of pretty nooks and crannies, including their welcome building.
 
-[![IMG_7311small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7311small.jpg)](http://www.rebeccagomezfarrell.com/2013/01/travelogue-tieton-naches-and-the-chinook-pass/img_7311small/)
+[![IMG_7311small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7311small.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7311small.jpg)
 
-[![IMG_7312small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7312small.jpg)](http://www.rebeccagomezfarrell.com/2013/01/travelogue-tieton-naches-and-the-chinook-pass/img_7312small/)
+[![IMG_7312small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7312small.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7312small.jpg)
 
 Make sure you visit the fruit stands in season on the side of road leading toward Yakima.
 
@@ -226,7 +226,7 @@ It's impossible to complain about the views from either the back or the front of
 
 <div class="caption">
 
-[![Click twice for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7366small-1024x99.jpg)](http://www.rebeccagomezfarrell.com/2013/01/travelogue-tieton-naches-and-the-chinook-pass/img_7366small/) Click twice for the biggest view!</div>
+[![Click for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7366small-1024x99.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7366small.jpg) Click for the biggest view!</div>
 
 
 
@@ -234,7 +234,7 @@ It's impossible to complain about the views from either the back or the front of
 
 <div class="caption">
 
-[![Click twice for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7376small-1024x228.jpg)](http://www.rebeccagomezfarrell.com/2013/01/travelogue-tieton-naches-and-the-chinook-pass/img_7376small/) Click twice for the biggest view!</div>
+[![Click for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7376small-1024x228.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7376small.jpg) Click twice for the biggest view!</div>
 
 
 The second winery we hit, just down the road, was [Naches Heights Vineyards](http://www.nachesheights.com/tasting-room.html) (2410 Naches Heights Rd, Yakima).
@@ -292,7 +292,7 @@ We took two pit stops along the way, the first at [Gold Creek Station](https://w
 
 <div class="caption">
 
-[![ View from the restaurant. Click twice for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7907small-1024x117.jpg)](http://www.rebeccagomezfarrell.com/2013/01/travelogue-tieton-naches-and-the-chinook-pass/img_7907small/) View from the restaurant. Click twice for the biggest view!</div>
+[![ View from the restaurant. Click for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7907small-1024x117.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7907small.jpg) View from the restaurant. Click for the biggest view!</div>
 
 
 Drive a little bit farther and you can find [Whistlin' Jack Lodge and Restaurant](http://www.whistlinjacklodge.com/) (20800 State Route 410, Naches), a favorite of locals for a fancy night out. I can vouch for how inviting their bar is on a chill day.

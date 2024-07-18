@@ -137,4 +137,3 @@ And then, my camera crapped out. For some reason, they continued the race anyhow
 
 I arrived about an hour before the race and that was the perfect amount of time for a childless adult to look at the exhibits, eat a locopop, and get a spot to watch the race. If you come with children, you should definitely come earlier and make a day of it. Frankly, I had a lot of fun and would totally go back next year, on 10.1.11. Want to come?
 
-If you want more pictures of hot duck action, click [here](http://www.blastanova.com/photoalbum/index.html?path=Events/Duck%20Race%202010).

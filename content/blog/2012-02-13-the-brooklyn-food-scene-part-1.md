@@ -117,7 +117,7 @@ After that meal, it was time for a stroll toward the water to see the view of Ma
 
 <div class="caption">
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/htstrip01-1024x100.jpg "htstrip01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/htstrip01.jpg)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/htstrip01-1024x100.jpg "htstrip01")](https://thegourmez-wpmedia.s3.amazonaws.com/2012/02/htstrip01.jpg)</div>
 
 
 This was a wonderful view. Click on the photo for the full-size view. The Statue of Liberty is on the left and the right side takes you across the Brooklyn Bridge.

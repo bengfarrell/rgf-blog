@@ -182,7 +182,7 @@ And now, here are the views from the London Bridge.
 
 ![](http://www.blastanova.com/photoalbum/Adventures/London%20Oct%202010/london185.JPG)
 
-And here’s Ben’s 360 degree view from the bridge. Make sure you right-click to view the whole image.
+And here’s Ben’s 360 degree view from the bridge. Make sure you click on it to view the whole image.
 
 ![](http://www.blastanova.com/photoalbum/Adventures/London%20Oct%202010/london186a.jpg)
 
