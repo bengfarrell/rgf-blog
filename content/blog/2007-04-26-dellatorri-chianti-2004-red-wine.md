@@ -2,7 +2,7 @@
 title: "Dellatorri Chianti 2004 Red Wine"
 date: "2007-05-13"
 categories:
-  - ""wine"
+  - "wine"
 tags:
   - "2004-red-wine"
   - "dellatorri-chianti"
