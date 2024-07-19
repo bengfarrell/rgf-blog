@@ -2,7 +2,7 @@
 title: "Four Square *CLOSED*"
 date: "2008-01-05"
 categories:
-  - ""restaurants"
+  - "restaurants"
 tags:
   - "durham-dining"
   - "four-square-restaurant"

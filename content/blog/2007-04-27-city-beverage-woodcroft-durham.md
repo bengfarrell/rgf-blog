@@ -1,6 +1,6 @@
 ---
 title: "City Beverage *CLOSED*"
-date: "2006-09-03
+date: "2006-09-03"
 categories:
   - "restaurants"
 tags:
