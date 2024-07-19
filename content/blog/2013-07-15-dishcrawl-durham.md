@@ -65,9 +65,6 @@ We walked down to the American Tobacco district next and ended up at the Durham 
 
 <div class="caption">
 
-![](http://www.thegourmez.com/gourmez/photos/cubanrev4.jpg) Cuban Revolution on a [previous visit](http://www.thegourmez.com/2009/11/cuban-revolution-american-tobacco-district-durham/).</div>
-
-
 They offered their most popular item, which is the iconic cubano sandwich, of course.
 
 [![2013_Dishcrawl_Durham_06](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_Dishcrawl_Durham_06-500x375.jpg)](http://www.thegourmez.com/2013/07/dishcrawl-durham/2013_dishcrawl_durham_06/)

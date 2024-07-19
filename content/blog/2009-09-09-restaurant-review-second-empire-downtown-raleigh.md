@@ -1,5 +1,5 @@
 ---
-title: "Second Empire, Downtown Raleigh"
+title: "Second Empire"
 date: "2009-09-09"
 categories:
   - "restaurants"

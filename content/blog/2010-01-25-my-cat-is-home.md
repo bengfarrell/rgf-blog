@@ -35,7 +35,7 @@ Loki was a mess. He was acting every bit the wounded cat—drowsy, in pain, smel
 
 He stayed at VSH over the weekend and had two jaw surgeries performed, his abscess drained, and his blind eye removed.  Amazingly, one of the cats I grew up with, Princess, was also hit by a car when she was young and went through the rest of her life with one blind eye and a slightly off jaw. Ben also dreamed of Loki a few weeks before he was found, and in the dream, he wore a patch. Coincidences are crazy things, folks. We are currently trying to teach him to say, "Meo-argh!" and looking into wooden parrots to attach to his shoulder.
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/lokireturns 001 blog.JPG)
+![](http://www.rebeccagomezfarrell.com/gourmez/photos/cats159.JPG)
 
 The first attempt at setting his jaw with dental cement did not take, so I had to take him back three days later to have the right side of his jaw wired instead. He also has a feeding tube in place in case he was unable to eat on his own, but he's been doing okay with that, so I'm hopeful we can have it removed when he returns to VSH next week to have the stitches over his missing eye taken out. The jaw will remain wired for four to six weeks, total.
 
@@ -43,4 +43,4 @@ Other than being calmer (at least until he starts considering the outdoors again
 
 Loki is home. And now the adventure of owning three cats begins.
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/lokireturns 003 blog.JPG)
+![](http://www.rebeccagomezfarrell.com/gourmez/photos/cats161.JPG)

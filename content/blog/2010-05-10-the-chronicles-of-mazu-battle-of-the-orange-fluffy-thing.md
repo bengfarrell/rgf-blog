@@ -20,7 +20,7 @@ But back to the battle. Please enjoy these pictures of Mazu engaged in a fierce 
 
 <div class="caption">
 
-![Mazu preparing for battle with great enthusiasm. ](http://www.blastanova.com/photoalbum/Other/Kittens/cats16.JPG) Mazu preparing for battle with great enthusiasm.</div>
+![Mazu preparing for battle with great enthusiasm. ](http://www.blastanova.com/photoalbum/Other/Kittens/cats176.JPG) Mazu preparing for battle with great enthusiasm.</div>
 
 
 
@@ -28,7 +28,7 @@ But back to the battle. Please enjoy these pictures of Mazu engaged in a fierce 
 
 <div class="caption">
 
-![The first catch—she's fascinated, really.](http://www.blastanova.com/photoalbum/Other/Kittens/cats17.JPG) The first catch—she's fascinated, really.</div>
+![The first catch—she's fascinated, really.](http://www.blastanova.com/photoalbum/Other/Kittens/cats177.JPG) The first catch—she's fascinated, really.</div>
 
 
 
@@ -36,7 +36,7 @@ But back to the battle. Please enjoy these pictures of Mazu engaged in a fierce 
 
 <div class="caption">
 
-![See, I told you! Its a kitten versus orange puffy thing war!](http://www.blastanova.com/photoalbum/Other/Kittens/cats18.JPG) See, I told you! It's a kitten versus orange puffy thing war!</div>
+![See, I told you! Its a kitten versus orange puffy thing war!](http://www.blastanova.com/photoalbum/Other/Kittens/cats178.JPG) See, I told you! It's a kitten versus orange puffy thing war!</div>
 
 
 
@@ -44,7 +44,7 @@ But back to the battle. Please enjoy these pictures of Mazu engaged in a fierce 
 
 <div class="caption">
 
-![Epic tossing of orange fluffy thing!](http://www.blastanova.com/photoalbum/Other/Kittens/cats19.JPG) Epic tossing of orange fluffy thing!</div>
+![Epic tossing of orange fluffy thing!](http://www.blastanova.com/photoalbum/Other/Kittens/cats179.JPG) Epic tossing of orange fluffy thing!</div>
 
 
 
@@ -52,7 +52,7 @@ But back to the battle. Please enjoy these pictures of Mazu engaged in a fierce 
 
 <div class="caption">
 
-![Interest in the epic battle is fading . . . fading . . .](http://www.blastanova.com/photoalbum/Other/Kittens/cats20.JPG) Interest in the epic battle is fading . . . fading . . .</div>
+![Interest in the epic battle is fading . . . fading . . .](http://www.blastanova.com/photoalbum/Other/Kittens/cats178.JPG) Interest in the epic battle is fading . . . fading . . .</div>
 
 
 
@@ -60,7 +60,7 @@ But back to the battle. Please enjoy these pictures of Mazu engaged in a fierce 
 
 <div class="caption">
 
-![What? Its a fluffy orange thing. Ive killed bugs. This is nothing.](http://www.blastanova.com/photoalbum/Other/Kittens/cats21.JPG) What? It's a fluffy orange thing. I've killed bugs. This is nothing.</div>
+![What? Its a fluffy orange thing. Ive killed bugs. This is nothing.](http://www.blastanova.com/photoalbum/Other/Kittens/cats181.JPG) What? It's a fluffy orange thing. I've killed bugs. This is nothing.</div>
 
 
 
@@ -68,5 +68,5 @@ But back to the battle. Please enjoy these pictures of Mazu engaged in a fierce 
 
 <div class="caption">
 
-![Victory Nap](http://www.blastanova.com/photoalbum/Other/Kittens/cats23.JPG) Victory Nap</div>
+![Victory Nap](http://www.blastanova.com/photoalbum/Other/Kittens/cats183.JPG) Victory Nap</div>
 

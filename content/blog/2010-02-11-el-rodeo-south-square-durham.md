@@ -24,7 +24,7 @@ South Square, Durham, NC\
 Lunch: $4.75–$7.00\
 Dinner: $6.50–$12.25
 
-El Rodeo is a two three\-restaurant chain in Durham;  their other restaurants are in Brightleaf Square and on North Duke Street. This one is located in what I can only assume used to be a national chain restaurant, as evidenced by the booths' upholstery—an atrocious, sports-themed pattern. The rest of the large space is decorated with the sombreros that denote a Mexican American restaurant, salmon and sea green walls, and interesting carved wood art pieces.
+El Rodeo is a three-restaurant chain in Durham;  their other restaurants are in Brightleaf Square and on North Duke Street. This one is located in what I can only assume used to be a national chain restaurant, as evidenced by the booths' upholstery—an atrocious, sports-themed pattern. The rest of the large space is decorated with the sombreros that denote a Mexican American restaurant, salmon and sea green walls, and interesting carved wood art pieces.
 
 Their menu is huge and it's worth noting that the lunch portions of their entrees are plenty large and include rice and beans, though still come in a few bucks cheaper than dinner. Chips and salsa roja come with every meal. The salsa had a good kick, a welcome change from most salsa rojas I've tasted (¡viva la pico de gallo!). I would wager that the chips are not made in-house as they were not especially fresh or warm, but really, they were fine. Fresh is nice but not necessary.
 

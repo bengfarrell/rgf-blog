@@ -103,13 +103,6 @@ After dinner, we transitioned to the Secret Santa/Blessing Tree portion of the d
 
 
 
-<div class="caption">
-
-![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-097.jpg) Aunt Penny reads the first card.</div>
-
-
-![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-101.jpg)
-
 ![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-103.jpg)
 
 ![](http://www.blastanova.com/photoalbum/Adventures/Christmas%20in%20LA%202009/christmasinla-107.jpg)

@@ -17,9 +17,7 @@ More specifically, one of the websites I blog for is in _Durham Magazine_, a loc
 
 > Our website has been profiled in the new issue of _Durham Magazine_, the Foodie issue!
 > 
-> [![](http://carpedurham.com/wp-content/uploads/2010/08/eatbloglove-214x300.jpg)](http://carpedurham.com/wp-content/uploads/2010/08/eatbloglove.jpg)
-> 
-> Pick up a copy, and you will learn the history of how **RPP** and **YAR** started Carpe Durham (including their and some of our real names–ooh, ahh!), the basic premise behind how a restaurant gets written up (it’s not complicated, folks), and how you—the active, opinionated, and fantastic readers and commentators here—have made this site a success.
+>Pick up a copy, and you will learn the history of how **RPP** and **YAR** started Carpe Durham (including their and some of our real names–ooh, ahh!), the basic premise behind how a restaurant gets written up (it’s not complicated, folks), and how you—the active, opinionated, and fantastic readers and commentators here—have made this site a success.
 > 
 > In addition to some of our regular bloggers’ thoughts, comments by **Lysistrata, 9/9,** and **burgeoningfoodie** on past posts have also been printed to showcase those lively debates we have.
 > 

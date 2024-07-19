@@ -24,7 +24,7 @@ I learned once I searched for a website link that it's actually a chain that has
 
 I ordered a medium-sized trout dinner, with green beans and coleslaw that I ended up taking to go. Hush puppies were automatically included.
 
-![](http://www.thegourmez.com/gourmez/photos/jjschickenseafood2.jpg)  The trout was pretty good with a simple, crunchy batter. Watch out for bones, though. The green beans were horrible, steamed to death with no flavor whatsoever and cooked to death. The hush puppies were fine and of the tubular, chewy variety (Who knew when I first tried hush puppies in my college cafeteria that they came in so many varieties?). The coleslaw was pretty good. It was very finely diced except for the carrots and had a good flavor with only a mild sweetness.
+The trout was pretty good with a simple, crunchy batter. Watch out for bones, though. The green beans were horrible, steamed to death with no flavor whatsoever and cooked to death. The hush puppies were fine and of the tubular, chewy variety (Who knew when I first tried hush puppies in my college cafeteria that they came in so many varieties?). The coleslaw was pretty good. It was very finely diced except for the carrots and had a good flavor with only a mild sweetness.
 
 Sides are very important to me, so I probably wouldn't go back with green beans like those, even though the fish was fine. Has anyone tried the chicken?
 

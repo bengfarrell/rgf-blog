@@ -21,20 +21,20 @@ I'm going to be migrating all of my posts done previously to using Wordpress sof
 
 To make up for this hardship, please be calmed by these new photos of the kitty gods of Woodcroft. Loki has discovered a new way to demand his tribute.
 
-![Loki and the foodbag](http://www.blastanova.com/photoalbum/Other/Kittens/cats09.JPG)
+![Loki and the foodbag](http://www.blastanova.com/photoalbum/Other/Kittens/cats169.JPG)
 
 He's quite pleased with himself about it.
 
-![Loki Pleased](http://www.blastanova.com/photoalbum/Other/Kittens/cats12.JPG)
+![Loki Pleased](http://www.blastanova.com/photoalbum/Other/Kittens/cats172.JPG)
 
 And now, you can see all three cats in their natural atmosphere.
 
-![Mazu on chair. Dandi on the floor.](http://www.blastanova.com/photoalbum/Other/Kittens/cats13.jpg)
+![Mazu on chair. Dandi on the floor.](http://www.blastanova.com/photoalbum/Other/Kittens/cats175.jpg)
 
-![One-eyed wonder](http://www.blastanova.com/photoalbum/Other/Kittens/cats14.jpg)
+![One-eyed wonder](http://www.blastanova.com/photoalbum/Other/Kittens/cats174.jpg)
 
 Kittens on the march, err, lie down.
 
-![](http://www.blastanova.com/photoalbum/Other/Kittens/cats15.jpg)
+![](http://www.blastanova.com/photoalbum/Other/Kittens/cats173.jpg)
 
 
