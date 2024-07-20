@@ -181,7 +181,7 @@ They urged me to run and get a glass, and again I have no notes, but I can’t i
 
 <div class="caption">
 
-[![Click twice to get the full view.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_106-1024x142.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc-14-best-wines/wbc_14_106/) Click twice to get the full view.</div>
+[![Click twice to get the full view.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_106-1024x142.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc-14-best-wines/wbc_14_106/)</div>
 
 
 I’m back to pictures of sunsets, aren’t I? That means it’s time to wrap it up. What’s most surprising to me about this list is how many white wines ranked high.

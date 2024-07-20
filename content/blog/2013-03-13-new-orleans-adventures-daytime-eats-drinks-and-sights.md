@@ -34,7 +34,7 @@ tags:
 
 <div class="caption">
 
-[![The Mississippi riverfront. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_409small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_409small/) The Mississippi riverfront. Click twice for the largest view.</div>
+[![The Mississippi riverfront. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/2012_Dec_Nola_409small.jpg)](http://www.thegourmez.com/2013/03/new-orleans-adventures-daytime-eats-drinks-and-sights/2012_dec_nola_409small/) The Mississippi riverfront.</div>
 
 
 I bet you never thought I’d finish my New Orleans series! This is the fifth and final installment. [Blog #1](http://www.thegourmez.com/2013/02/travelogue-abita-springs-and-covington-la/) was on sights to the north of Lake Pontchartrain, [Blog #2](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/) was on dining at night, and [Blog #3](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/) was on drinking at night. [Blog #4](http://www.thegourmez.com/2013/02/new-orleans-adventures-honey-island-swamp-touring/) took us through the Honey Island Swamp. This time around, we’ll walk through the Garden district, stop for meals, beers, and streetcar rides, and finish the visit up with bourbon, breakfast, and one last Jackson Square view. Let’s go!

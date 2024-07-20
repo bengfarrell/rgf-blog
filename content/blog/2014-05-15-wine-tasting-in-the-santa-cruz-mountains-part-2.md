@@ -53,7 +53,7 @@ Stop #2 was Silvertip Vineyards (16644 Zayante Road, Los Gatos), whose tasting w
 
 <div class="caption">
 
-[![Santa_Cruz_Wine_20](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/Santa_Cruz_Wine_20-1024x175.jpg)](http://www.thegourmez.com/2014/05/wine-tasting-in-the-santa-cruz-mountains-part-2/santa_cruz_wine_20/) Click on me twice for the full view!</div>
+[![Santa_Cruz_Wine_20](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/Santa_Cruz_Wine_20-1024x175.jpg)](http://www.thegourmez.com/2014/05/wine-tasting-in-the-santa-cruz-mountains-part-2/santa_cruz_wine_20/)</div>
 
 
 [![Santa_Cruz_Wine_22](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/Santa_Cruz_Wine_22-333x500.jpg)](http://www.thegourmez.com/2014/05/wine-tasting-in-the-santa-cruz-mountains-part-2/santa_cruz_wine_22/)
@@ -97,7 +97,7 @@ The wedding trellis is also a beautiful spot for celebrations—
 
 <div class="caption">
 
-[![Click me twice for the full view!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/Santa_Cruz_Wine_29-1024x217.jpg)](http://www.thegourmez.com/2014/05/wine-tasting-in-the-santa-cruz-mountains-part-2/santa_cruz_wine_29/) Click me twice for the full view!</div>
+[![Click me twice for the full view!](http://s3.amazonaws.com/thegourmez-wpmedia/2014/05/Santa_Cruz_Wine_29-1024x217.jpg)](http://www.thegourmez.com/2014/05/wine-tasting-in-the-santa-cruz-mountains-part-2/santa_cruz_wine_29/)</div>
 
 
 \--and not one but two of Byington’s employees insisted I take pictures of the baby grapes on the vine.

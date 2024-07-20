@@ -196,7 +196,7 @@ On the way out of town, stop at the scenic viewpoint on I-82  and take in as mu
 
 <div class="caption">
 
-[![Click on the panorama for a larger view](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7640-1024x68.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7640/) Click on the panorama for a larger view</div>
+[![Click on the panorama for a larger view](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7640-1024x68.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7640/)</div>
 
 
 There’s plenty of gorgeous coming to and going from Ellensburg, and plenty of shopping and gawking to do in town in-between. Hope you enjoyed this day trip with me!

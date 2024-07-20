@@ -38,7 +38,7 @@ tags:
 
 <div class="caption">
 
-[![Click twice for a view of the hotel and cabanas.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_81-1024x106.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_81/) Click twice for a view of the hotel and cabanas.</div>
+[![Click twice for a view of the hotel and cabanas.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_81-1024x106.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_81/)</div>
 
 
 This is Part 2 of my blog posts on our Amelia Island vacation last May. [In Part 1,](http://www.thegourmez.com/2013/09/pajama-daves-amelia-river-cruise/) we cruised down the Amelia River, but we'll stay closer to the hotel this time, the [Omni Amelia Island Plantation Resort](http://www.omnihotels.com/FindAHotel/AmeliaIsland.aspx). Spacious rooms, a welcoming lobby and bar, and this each morning:
@@ -52,7 +52,7 @@ Sunrise is not something I normally do, but I didn't mind when _that_ was what d
 
 <div class="caption">
 
-[![Conference center grounds. Click twice for the large view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_07-1024x370.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_07/) Conference center grounds. Click twice for the large view.</div>
+[![Conference center grounds. Click twice for the large view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_07-1024x370.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_07/) Conference center grounds./div>
 
 
 I was living the life of someone who gets a free hotel room because her husband is speaking at JS Conf. It's a good life. Even if I never left the hotel grounds, it would have been enough. The grounds are so huge, I'm giving you only the top 5 areas of it to visit.
@@ -64,7 +64,7 @@ I was living the life of someone who gets a free hotel room because her husband 
 
 <div class="caption">
 
-[![View from the top. Click twice for the largest image.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_61-1024x161.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_61/) View from the top. Click twice for the largest image.</div>
+[![View from the top. Click twice for the largest image.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_61-1024x161.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_61/) View from the top.</div>
 
 
 These pathways may or may not have been closed for renovations when I explored the Sunken Forest, (closed, shh!), but it would have been a short, sweet adventure regardless. I'm not going to lie; rickety old stairs added to the appeal.
@@ -180,7 +180,7 @@ Of course the pool is one of the biggest draws here, and I loved its design with
 
 <div class="caption">
 
-[![Kid pool. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_79-1024x313.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_79/) Kid pool. Click twice for the largest view.</div>
+[![Kid pool. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_79-1024x313.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_79/) Kid pool.</div>
 
 
 Poolside service is available at any of the chaise lounges with prompt attention and delicious drinks by the pitcher. But the Oceanside restaurant has a great view of both the pool and the ocean and surprisingly good food for a resort. Get there at sunset for the prettiest meal.
@@ -210,7 +210,7 @@ Now that I've thoroughly fed you, it's time to hit the beach.
 
 <div class="caption">
 
-[![Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_82-1024x169.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_82/) Click twice for the largest view.</div>
+[![Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_82-1024x169.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_82/) </div>
 
 
 The resort has an appealing row of cabanas for rent, but you can always save some dough and plop your towel anywhere on the private beach. And don't forget to get in your strolls at sunset.

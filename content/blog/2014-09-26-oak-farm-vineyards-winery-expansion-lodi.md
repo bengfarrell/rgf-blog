@@ -28,7 +28,7 @@ tags:
 
 <div class="caption">
 
-[![Oak_Farms_Media_014](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Oak_Farms_Media_014-1024x175.jpg)](http://www.thegourmez.com/2014/09/oak-farm-vineyards-winery-expansion-lodi/oak_farms_media_014/) The fishing lake at Oak Farm Vineyard. Click twice for the full view.</div>
+[![Oak_Farms_Media_014](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Oak_Farms_Media_014-1024x175.jpg)](http://www.thegourmez.com/2014/09/oak-farm-vineyards-winery-expansion-lodi/oak_farms_media_014/) The fishing lake at Oak Farm Vineyard.</div>
 
 
 [Oak Farm Vineyards](http://www.oakfarmvineyards.com/) Winery (23627 Devries Road) is on its way to becoming the first of its kind in the Lodi, CA, appellation: a family-owned estate that offers the full experience of a large-scale destination winery, minus the glitzy hotel and pretension. I took part in a media preview of their new expansion, which will help them achieve that goal. The Wine and Hospitality Facility is scheduled for a public grand opening on October 25 and 26 of this year, and if you’re a local wine lover, it’s an event you shouldn’t miss.

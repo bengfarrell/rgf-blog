@@ -166,7 +166,7 @@ And then we headed back out into the glorious sunshine. The peach beauty of the 
 
 <div class="caption">
 
-[![Click through 3x for the full panorama.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_1061-500x69.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc14-sta-rita-hills-wine-santa-barbara/wbc_14_106-2/) Click through 3x for the full panorama.</div>
+[![Click through 3x for the full panorama.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_1061-500x69.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc14-sta-rita-hills-wine-santa-barbara/wbc_14_106-2/)</div>
 
 
 [![WBC_14_102](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_1021-500x332.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc14-sta-rita-hills-wine-santa-barbara/wbc_14_102-2/)
@@ -194,7 +194,7 @@ All good things must come to an end, and so too, did our evening out at the Sanf
 
 <div class="caption">
 
-[![Click through 3x to get the full panoramic view.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_070-500x109.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc14-sta-rita-hills-wine-santa-barbara/wbc_14_070/) Click through 3x to get the full panoramic view.</div>
+[![Click through 3x to get the full panoramic view.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_070-500x109.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc14-sta-rita-hills-wine-santa-barbara/wbc_14_070/)</div>
 
 
 [![WBC_14_068](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_068-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/07/wbc14-sta-rita-hills-wine-santa-barbara/wbc_14_068/)

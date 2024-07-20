@@ -105,7 +105,7 @@ After that amazing meal, it was off to the Lake of Isles. I was unsatisfied with
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis226small-1024x124.jpg "2012minneapolis226small")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis226small.jpg)
 
-Click on the panoramas if you want a larger view. The islands of the Lake of Isles are located in the middle of the images, and I found myself reminded of Tom Sawyer’s Island at Disneyland, wondering if these are nearly as fun. There is also a lovely waterway between the Lake of Isles and Lake Calhoun.
+The islands of the Lake of Isles are located in the middle of the images, and I found myself reminded of Tom Sawyer’s Island at Disneyland, wondering if these are nearly as fun. There is also a lovely waterway between the Lake of Isles and Lake Calhoun.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis230.jpg "2012minneapolis230")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis230.jpg)
 

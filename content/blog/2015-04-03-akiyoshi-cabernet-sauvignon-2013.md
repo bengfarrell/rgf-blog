@@ -36,6 +36,6 @@ Here is my full Quini profile:
 
 I think it's safe to say I like David Akiyoshi's wines despite wanting more balance in this one. If you're intrigued, you can purchase his 2013 Cabernet Sauvignon through NakedWines.Com.
 
-It's selling for $18.99 if you aren't an Angel with NakedWines.Com, which is a fair deal. If you are an Angel, it's an amazing deal at $10.99! To find out more about the NakedWines.Com Angels program, click here.
+It's selling for $18.99 if you aren't an Angel with NakedWines.Com, which is a fair deal. If you are an Angel, it's an amazing deal at $10.99!.
 
 _Reviewed 10 March 2015._

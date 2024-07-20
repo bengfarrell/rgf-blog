@@ -173,7 +173,7 @@ And as the sun set, we made our way to Mother Earth Brewing to pass some time be
 
 <div class="caption">
 
-[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Mother-Earth-Brewing-01-1024x270.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/mother-earth-brewing-01/) Click twice for the largest view!</div>
+[![Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/Mother-Earth-Brewing-01-1024x270.jpg)](http://www.rebeccagomezfarrell.com/2013/03/kinston-nc-blogging-an-afternoon-by-the-neuse-river/mother-earth-brewing-01/)</div>
 
 
 It was a pleasant surprise to realize Mother Earth is located in Kinston, too! But more on that in the next Kinston blog…if you'd like more pictures from our afternoon stroll, [click here.](https://www.facebook.com/media/set/?set=a.10151360033944607.1073741826.567409606&type=1&l=d5b20f9adc "Kinston NC Photos on Facebook")

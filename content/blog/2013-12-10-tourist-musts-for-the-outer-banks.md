@@ -42,7 +42,7 @@ tags:
 
 <div class="caption">
 
-[![View of Kill Devil Hills from our hotel's beach. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_001-1024x214.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_001-2/) View of Kill Devil Hills from our hotel's beach. Click twice for the largest view.</div>
+[![View of Kill Devil Hills from our hotel's beach. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_001-1024x214.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_001-2/) View of Kill Devil Hills from our hotel's beach. </div>
 
 
 Last July, I spent the weekend in the Outer Banks for only the second time in the eight years I lived in North Carolina. My first trip was camping on Ocracoke, the most remote of the islands, so I had never done the typical tourist activities in the more accessible areas, and I wanted to hit them up before we moved. Luckily, friends Laura and Ellen came to the rescue! In one whirlwind weekend, we covered each of these must-sees of the Outer Banks.
@@ -54,7 +54,7 @@ Last July, I spent the weekend in the Outer Banks for only the second time in th
 
 <div class="caption">
 
-[![Climbing the dunes. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_028-1024x164.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_028-2/) Climbing the dunes. Click twice for the largest view.</div>
+[![Climbing the dunes. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_028-1024x164.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_028-2/) Climbing the dunes. </div>
 
 
 Jockey's Ridge is the largest sand dune formation on the East Coast. Not to brag, or anything, but the West Coast has it beat easily for height. That doesn't take away from the beauty of these dunes or of the multitudes of people who come to fly a kite in the open air. We visited at sunset and conquered the short, but calf-burning, hike from the parking lot to be rewarded with gorgeous views and kites of all shapes and sizes.
@@ -76,7 +76,7 @@ Jockey's Ridge is the largest sand dune formation on the East Coast. Not to brag
 
 <div class="caption">
 
-[![360-view from the Ridge, featuring Laura. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_038-1024x62.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_038-2/) 360-view from the Ridge, featuring Laura. Click twice for the largest view.</div>
+[![360-view from the Ridge, featuring Laura. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_038-1024x62.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_038-2/) 360-view from the Ridge, featuring Laura.</div>
 
 
 
@@ -116,7 +116,7 @@ You can climb up all 208 feet of the tower for a fee, but we passed on that oppo
 
 <div class="caption">
 
-[![360-view from the Memorial's base. Click twice for the largest image and find Laura and Ellen!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_156-1024x116.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_156-2/) 360-view from the Memorial's base. Click twice for the largest image and find Laura and Ellen!</div>
+[![360-view from the Memorial's base. Click twice for the largest image and find Laura and Ellen!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_156-1024x116.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_156-2/) 360-view from the Memorial's base. </div>
 
 
 From a photographer's perspective, this tourist destination is one of the most beautiful I've shot at. It helps that we had gorgeous skies, but I think the design of the [Wright Brothers National Monument](http://www.nps.gov/wrbr/index.htm) is simply gorgeous. Ascending one of the several hillside paths is worth the view times a million.
@@ -172,7 +172,7 @@ Roanoke Island is where the first English colony was founded in the United State
 
 <div class="caption">
 
-[![Spiritual totems at the American Indian village. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_204-1024x141.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_204-2/) Spiritual totems at the American Indian village. Click twice for the largest view and to see Ellen!</div>
+[![Spiritual totems at the American Indian village. Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_204-1024x141.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_204-2/) Spiritual totems at the American Indian village. </div>
 
 
 
@@ -254,7 +254,7 @@ Finally, spending some time at the Manteo waterfront and its cute shopping villa
 
 <div class="caption">
 
-[![Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_182-500x207.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_182-2/) Click twice for the largest view.</div>
+[![Click twice for the largest view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Outer_Banks_182-500x207.jpg)](http://www.rebeccagomezfarrell.com/2013/12/tourist-musts-for-the-outer-banks/2013_outer_banks_182-2/)</div>
 
 
 \--and across the marina to the Elizabeth II reproduction in the distance.

@@ -197,7 +197,7 @@ But in late fall, when I was there, a safer bet would be taking a quick stroll a
 
 <div class="caption">
 
-[![View from behind the Visitor’s Center.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7804small-1024x191.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7804small/) View from behind the Visitor’s Center. Click for a larger view.</div>
+[![View from behind the Visitor’s Center.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7804small-1024x191.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7804small/) View from behind the Visitor’s Center.</div>
 
 
 [![IMG_7805smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7805smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7805smallfb/)
@@ -241,7 +241,7 @@ The sunset may be best enjoyed by driving around the very pretty Terrace Heights
 
 <div class="caption">
 
-[![IMG_7507small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7507small-1024x421.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7507small/) Click for a larger view.</div>
+[![IMG_7507small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7507small-1024x421.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7507small/)</div>
 
 
 [![IMG_7512smallFB](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7512smallFB.jpg)](http://www.thegourmez.com/2013/01/photoblog-a-day-in-yakima/img_7512smallfb/)

@@ -41,9 +41,11 @@ Also common are the sea lions that live under the pier. You can hear them barkin
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/catrip225.jpg "catrip225")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/catrip225.jpg)
 
-And here’s the view of the boardwalk from the pier. [Click here](http://www.blastanova.com/photoalbum/Adventures/CA%20Trip%202011/catrip223.jpg) for the full panorama.
+And here’s the view of the boardwalk from the pier.
 
-![](http://www.blastanova.com/photoalbum/Adventures/CA%20Trip%202011/catrip223.jpg "Santa Cruz Panorama")
+[![](http://www.blastanova.com/photoalbum/Adventures/CA%20Trip%202011/catrip223.jpg)
+
+[![](http://www.blastanova.com/photoalbum/Adventures/CA%20Trip%202011/catrip223.jpg "Santa Cruz Panorama")
 
 You probably don’t want to know how many times I’ve had a moment of realization that the sidewalk leading to the pier is covered in seahorse, clamshell, and starfish imprints.
 
