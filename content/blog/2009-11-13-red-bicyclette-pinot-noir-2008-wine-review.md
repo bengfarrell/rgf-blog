@@ -13,8 +13,6 @@ tags:
 
 **Region:** Languedoc-Roussillon, France
 
-![](http://www.thegourmez.com/gourmez/photos/redbicyclette002.jpg)
-
 The nose smells of chocolate and berry. It tastes like biting into a packaged cherry danish that has been dipped in chocolate donut glaze. Both the spice and the texture are rather thin. I don't like the chocolate aftertaste (shocking, I know). It's an adequate wine that lacks substance.
 
 

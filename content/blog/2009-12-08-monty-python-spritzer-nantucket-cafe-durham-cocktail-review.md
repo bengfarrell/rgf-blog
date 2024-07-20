@@ -17,8 +17,6 @@ tags:
 Durham, NC\
 [Website](http://www.nantucketgrill.com/fayetteville.htm)
 
-![](http://www.thegourmez.com/gourmez/photos/elderflower 002.jpg)
-
 This was a simple bubbly cocktail, served with lots of ice. Prosecco, St. Germain elderflower liquor, and a dash of club soda united to create a drink with a mild beige color near the bottom. The sweet, floral flavor of elderflower was the most present component—perhaps a bit too present. The prosecco lent a nice dryness and between it and the club soda, the carbonation was at a good level to accentuate the flavors rather than overwhelm them.
 
 

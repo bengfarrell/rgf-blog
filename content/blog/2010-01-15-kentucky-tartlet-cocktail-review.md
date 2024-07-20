@@ -20,8 +20,6 @@ One of my New Year's Resolutions this year was to spend less money on alcohol. W
 
 Let it also be known that I generally only have about 3-4 base liquors at a time and 6 or so mixers. Right now, those are leaning towards coffee or cream-based drinks, so what did I chose to make last night? A fruity drink!
 
-![](http://www.thegourmez.com/gourmez/photos/kentuckytartlet 001.jpg)
-
 **Kentucky Tartlet**
 
 1.5 shots of Ancient Age Bourbon Whiskey\

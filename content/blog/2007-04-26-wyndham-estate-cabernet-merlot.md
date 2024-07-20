@@ -8,7 +8,7 @@ tags:
   - "wyndham-estate"
 ---
 
-** Other words on the label:** Bin 888
+**Other words on the label:** Bin 888
 
 This medium to full-bodied wine smells richly of bing cherries and black pepper. The taste is a combination of plum and tobacco. Altogether, it is a full and near-perfect blend.
 

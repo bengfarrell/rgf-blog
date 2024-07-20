@@ -22,15 +22,9 @@ Durham, NC\
 
 West End Wine Bar opened up a Durham location a few months ago.  Being a fan of the Chapel Hill flagship bar, I was excited to do so.  This one is around the corner from the Amtrak station and, unfortunately, in the middle of the Main Street construction for the present. But you can still make your way into their plentiful parking lot and join the other West End Wine bar goers who have done the same.  There were a healthy number of patrons for early on a Thursday night.
 
-![](http://www.thegourmez.com/gourmez/photos/westend1.jpg)
-
 Durham's WEWB has a similar setup to its Chapel Hill counterpart, though the lighting is somewhat lighter.  There is a long, welcoming, wood-topped bar on the mezzanine floor with new black couches in the back of the room and plenty of small tables and chairs of the ubiquitous sparkling silver variety scattered around.
 
-![](http://www.thegourmez.com/gourmez/photos/westend2.jpg)
-
 There is also a charming loft area with plenty more couches and a stairwell that is much less narrow and steep than the original location's, which makes it both more accessible and less fun at the same time.  Yes, I get excited by dark, narrow stairwells.
-
-![](http://www.thegourmez.com/gourmez/photos/westend3.jpg)
 
 Patio seating is also available. The walls, of course, are brick, as are those of many places located in renovated downtown properties, though there are also some dijon-mustard colored splashes.  Geometric artwork is hung here and there as well.
 

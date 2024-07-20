@@ -14,8 +14,6 @@ tags:
 
 **Region:** Dollo Venizie, Italy
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/bellasera.jpg)
-
 This pinot grigio smells of sweet and crisp honeydew. It tastes minerally with some undertones of green pear and a dash of vanilla thrown in for good measure.  There's also an aftertaste like you've just eaten a tart lemon cream cookie.  I'd like another, please.
 
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")

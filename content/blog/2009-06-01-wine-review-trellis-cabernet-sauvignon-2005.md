@@ -13,8 +13,6 @@ tags:
 
 **Other words on the label:** Sonoma County, CA
 
-![](http://www.rebeccagomezfarrell.com/photos/trellis.jpg "Trellis Cabernet Sauvignon")
-
 The wine is almost brown in color.  It smells delicious, like fruit being grilled over a mesquite flame.  The taste is a combination of molasses, peach, and a rich cherry undertone.  With smokiness in every sip, it's definitely a wine worth drinking.
 
 

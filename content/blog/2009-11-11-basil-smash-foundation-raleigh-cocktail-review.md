@@ -18,8 +18,6 @@ tags:
 Downtown Raleigh, NC\
 [http://www.foundationnc.com/](http://www.foundationnc.com/)
 
-![](http://www.thegourmez.com/gourmez/photos/basilsmash.jpg)
-
 The Basil Smash was a mix of Old Charter No. 8 bourbon, lemon juice, and basil syrup.  The basil was spicy, which means it was probably locally sourced as both my homegrown carrots and basil plants are extra spicy in NC. The basil gave way to sugar and mellow citrus finished things off.  It was too sweet but was a flavorful drink.
 
 

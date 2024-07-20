@@ -14,8 +14,6 @@ tags:
 
 **Other words on the label:** Virginia Sweet Red Table Wine
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/Rockbridge.jpg "Rockbridge Sweet Table Wine")
-
 The label on this wine, featuring sketches of impressive buildings and people who I am sure are fine patriots, leads me to believe that drinking it will cause me to rise up and fight for the right to duck taxes.
 
 It smells strongly of grape juice with a hint of musty leather.  The concord grapes figure most prominently on tasting as well, though overall, the wine is a mix of their sweetness and a tartness that tastes of lime.  There's something tickling my tongue as I drink but I can't place it.

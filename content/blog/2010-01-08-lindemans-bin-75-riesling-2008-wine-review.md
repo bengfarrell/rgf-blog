@@ -15,8 +15,6 @@ tags:
 
 **Region:** Australia
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/lindemansbin.jpg)
-
 On first sip, I like it. A lot. There's a mild sweetness that contrasts with its acidity. Fresh honeydew and tangerine notes linger. There's some flower in the party, too—perhaps lavender, but I'm no expert at guessing floral notes.
 
 

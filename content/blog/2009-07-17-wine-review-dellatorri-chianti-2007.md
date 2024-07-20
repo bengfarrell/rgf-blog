@@ -12,8 +12,6 @@ tags:
   - "the-gourmez-wine-review"
 ---
 
-![](http://www.rebeccagomezfarrell.com/photos/dellatorrichianti07.jpg)
-
 I didn't pick up much from the smell of this wine, so if I had to offer something, I'd say it smelled of unripened pluot.  The taste was more striking, with the first sip making me wonder if I'd bit into a lemon seed.  That taste lingers for awhile but mellows after half a glass.  For some, I'm sure that'd be a turnoff but as I can eat lemon seeds without wincing and never even bother to fish them out of my cooking, I found it intriguing.  There's also some cherry and clove in the mix.
 
 Cherry, lemon seed, and clove.  They don't combine that well but the wine was still drinkable for me.  It may not be for you.

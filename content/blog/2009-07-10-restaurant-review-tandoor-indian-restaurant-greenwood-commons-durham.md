@@ -25,25 +25,17 @@ My mango lassi was almost neon orange and one of the thinnest I've had, but the 
 
 **Appetizer Course:**
 
-![](http://www.thegourmez.com/photos/tandoor2.jpg)
-
 The samosas were pretty good, though almost all potato.  I think I might have had two peas in mine.  I did like the small size and taste of the fritters. They were mainly potato as well, and I couldn't really determine what the other veggies were when dipped in the accompanying sweet tamarind chutney, but they were good.
 
 **Accompaniments:**
-
-![](http://www.thegourmez.com/photos/tandoor3.jpg)
 
 Strangely, we were never served the pappadam, which I use as a vehicle for tasting all the condiments.  The mango chutney was exceptionally sticky and tasted more like apples.  I should have known better than to try the pickled vegetables as I don't like most pickled foods, but I tried it anyway and nearly choked on the overwhelming bitterness and saltiness.  That's probably how it's supposed to taste but it was absolutely disgusting for me.  My bad.  The naan was greasy and much less fluffy than I prefer; Mr. Gourmez agreed with me on that count.  The basmati rice was excellent, though, and second only to dessert for my favorite part of the meal.
 
 **Curries, Tandoori, Kebab:**
 
-![](http://www.thegourmez.com/photos/tandoor5.jpg)
-
 I didn't eat the lamb but the chicken was very tender.  The tomato curry used in both dishes was really nothing special but also not bad, just kind of there.  The vegetable curry turned out to be saag paneer, which is one of my favorite Indian dishes.  This version was rather salty and tasted somewhat smoky and earthy making it perfectly edible but not delightful.  I've had better chicken tandoori though I quite liked the chicken tikka.  The sauce served with the barbequed items was tart and intriguing, but I wouldn't say I liked it.  The seekh kabob was not for me, too dry and made of ground meats that weren't tasty.
 
 **Dessert:**
-
-![](http://www.thegourmez.com/photos/tandoor7.jpg)
 
 For dessert, we both received a large saucer of kheer, which is essentially rice pudding though it can be made with other grains.  It was yummy!  I would have liked some cinnamon or cardamom but the texture of smaller, broken up bits of rice in an extra sweet, creamy sauce, made for a great end to an okay meal.
 

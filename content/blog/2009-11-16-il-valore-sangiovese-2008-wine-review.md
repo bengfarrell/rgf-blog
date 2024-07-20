@@ -14,8 +14,6 @@ tags:
 
 **Region:**  Puglia, Italy
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/ilvalore004.jpg)
-
 I smell clove and nectarines. The nectarine is replaced by black raspberry as I drink it but neither fruit is the star.  Rather, they are encased by a clove shell that dominates the glass.  I think it's a fabulous combination of spice and fruit, in just the right proportion. The wine seems medium-bodied at first but it's thick as it goes down the throat.
 
 

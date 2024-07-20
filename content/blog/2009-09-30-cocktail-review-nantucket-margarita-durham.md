@@ -18,8 +18,6 @@ tags:
 Sutton Station, Durham, NC\
 [www.nantucketcafeandgrill.com](http://www.nantucketcafeandgrill.com/)
 
-![](http://www.thegourmez.com/gourmez/photos/nantucketmargarita.jpg)
-
 Wow, the Sauza tequila comes out strong in this margarita.  So does the house sweet and sour blend.  It's really, really sour.  I can't pick out the Grand Marnier but that's probably because my mouth is too busy puckering due to the lemon juice.  If you try this one out, don't get a salt rim: it just intensifies the citrus.
 
 

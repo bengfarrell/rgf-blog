@@ -15,8 +15,6 @@ tags:
 
 **Region:** Germany
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/schloss.jpg)
-
 This sparkling wine is light gold, nearing opaqueness.  It has a smooth feel going down.  The bubbles tease more than assault (I'm not a big carbonation fan). It tastes pleasant, with a floral note beneath its mild orange flavor.  It is sweet, simple, and appealing.
 
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")

@@ -11,8 +11,6 @@ tags:
 
 **Region:** Southeastern Australia
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/blackswanshirazcab.jpg)
-
 This wine's nose is like a warmed mulberry potpourri. It tastes of bright blackberries that have been spiced with cardamom and cinnamon.  Other than the slight kick at the end, I thought it was intriguing, enjoyable, and paired very well with monterey jack.
 
 

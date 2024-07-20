@@ -18,8 +18,6 @@ tags:
 
 **Region:** Central Coast, CA
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/question002.jpg)
-
 This blend of unknown wine varietals was thrown together by a winemaker who apparently got some barrels mixed up.  It is definitely a flavorful wine. Spice is the dominant presence with a good amount of plum, orange, and leather. There's also a lingering undertone of grass. The tannins are moderate.  Overall, I found ? to be more pleasant and drinkable than many wines with known origins.
 
 

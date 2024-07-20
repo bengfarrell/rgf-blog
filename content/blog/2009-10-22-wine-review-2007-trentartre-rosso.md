@@ -15,8 +15,6 @@ tags:
 
 **Region:** Salento, Italy
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/thirtyone.jpg)
-
 This wine, emblazoned with the #33 on the label, is a blend of 33.3% each of cabernet, merlot, and montepulciano. It smells of dark maple syrup and tastes like you've bit into a bushel of dates.  There is also a hint of tobacco.  It's a bit bracing but also quite good.
 
 

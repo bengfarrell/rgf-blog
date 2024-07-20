@@ -10,8 +10,6 @@ tags:
   - "the-gourmez-wine-review"
 ---
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/Picture051forblog.jpg)**
-
 The nose is musty but in a good, inviting way.  It smells closest to sweet tobacco from a pipe.
 
 The taste is complex and not obnoxiously so, like some wines that pack in too many flavors.  Extra ripe fig is the main player.  It is medium-bodied and has a nice weight in my mouth.  There is a subtle presence of blueberry but I even welcome that, which is a near miracle for me.

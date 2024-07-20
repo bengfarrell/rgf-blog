@@ -15,8 +15,6 @@ tags:
 
 **Region:**  Italy
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/incanto1.jpg)
-
 This sparkling rose has no nose to speak of.  It is moderately fizzy and paltry in personality.  I would liken it to a sparkling water with lemon-lime flavoring and a dash of berry.  It would work as a very light accompaniment for a meal but definitely not for drinking on its own.
 
 

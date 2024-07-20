@@ -19,8 +19,6 @@ tags:
 **Whiskey**\
 Five Points, Durham, NC
 
-![](http://www.thegourmez.com/gourmez/photos/dykki.jpg)
-
 This colorless cocktail was made with Plymouth gin, St. Germain elderflower liquor, Lillet Blanc, and an absinthe rinse.  It smelled of both licorice and pine trees.  The elderflower liquor gave a hint of sweetness to the drink and the Lillet Blanc provided smoothness.  These two elements combined made the gin very drinkable.  It was well-chilled, well-mixed, and delightful.
 
 

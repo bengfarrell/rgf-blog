@@ -12,9 +12,7 @@ tags:
   - "trader-joes-wine"
 ---
 
-**Region:**  Spain
-
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/condesa 004.jpg)
+**Region:** Spain
 
 This pleasant wine starts with a faint nose of apples.  A mild sweetness rolls over your tongue until it fades to minerality, with a twist of lime. Sweet cream, kiwi, and fresh green grapes usher it to the back of your throat.
 

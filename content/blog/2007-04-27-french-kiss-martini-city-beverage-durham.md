@@ -10,7 +10,7 @@ tags:
   - "french-kiss-martini"
 ---
 
-**City Beverage *CLOSED***\
+**City Beverage (CLOSED)**\
 4810 Hope Valley Road\
 Durham, NC
 

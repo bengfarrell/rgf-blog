@@ -14,8 +14,6 @@ tags:
   - "the-gourmez-cocktail-review"
 ---
 
-![](http://www.thegourmez.com/gourmez/photos/mexicancreamsicle 004.jpg)
-
 2 shots Two Fingers Gold Tequila\
 0.5 shot Feeney's Irish Cream Liquor\
 4-second pour of Hershey's Nonfat Chocolate Syrup\

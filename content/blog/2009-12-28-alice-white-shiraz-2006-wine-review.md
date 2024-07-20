@@ -14,8 +14,6 @@ tags:
 
 **Region:** Southeastern Australia
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/alicewhiteshiraz.jpg)
-
 _Nose:_ Candied cherry and chocolates. _Taste:_ Bright, ripe cherries and semisweet chocolate, which surprises me as a lot of the wines I've tried lately have had noses that vastly diverge from their tastes. This is a medium-bodied wine, mildly tannic, and overly pleasant. It's easy to enjoy on its own, so why not do just that?
 
 

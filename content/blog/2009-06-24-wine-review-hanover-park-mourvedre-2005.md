@@ -12,8 +12,6 @@ tags:
 
 **Other words on the label:** Yadkin Valley, Alcohol Content 13%
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/Hanover_Park_Mouvedre.jpg)
-
 This is another wine from our recent trip to the Yadkin Valley wine region and fortunately, this one lived up to the tasting room sample!  We have not been so lucky with some of our other choices from the trip.
 
 It smells like raspberry bottle caps, including the chalkiness of the candy.  There's a strong hot cocoa smell that also rises up.
