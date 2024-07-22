@@ -11,8 +11,6 @@ tags:
 
 **Other words on the label:** Mis en bouteille a la propriete, Vin de pays de vaucluse, Red table wine, Product of France
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/petitcaprice.jpg)
-
 The nose of this wine is light and plummy, yet the first mouthful is very juicy and tannic. I honestly taste zucchini once the initial punch of fruit fades, as well as something grassy.  There is green olive and some pepper rolling about.  It comes back to the nose at the end, ending on a note of prune.
 
 I'm learning that I don't like petite wines.  They burst with flavor and this one is no exception.  I think I like my wines to be more down to earth and subtle.  Of course, this is based off of trying about three of them, so I'm not writing them off yet.

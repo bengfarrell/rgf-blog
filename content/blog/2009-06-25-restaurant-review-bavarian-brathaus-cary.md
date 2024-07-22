@@ -23,11 +23,7 @@ _Disclaimer:  I went to Bavarian Brathaus with a German friend who thinks it is
 
 This traditional German restaurant, complete with servers in traditional dress and beer steins and flags decorating the indoors, is a very welcoming environment.  The owners and several workers are actually German, which delighted my companion as she could speak her language freely.  The outdoor seating area is gorgeous.
 
-![](http://www.thegourmez.com/gourmez/photos/outsidebrat.jpg)
-
 Inside, there is plentiful seating with an interior that feels both like a castle and a pub.  We also lucked out and went on a day when they had a German band and dance troupe performing out front.
-
-![](http://www.thegourmez.com/gourmez/photos/dancebrat.jpg)
 
 Nothing can put you in the mood better than that!  I believe they aim to have musicians play at least once a month.
 

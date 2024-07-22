@@ -14,8 +14,6 @@ tags:
 
 **Region:** Monterey County, California
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/dancingbear.jpg)
-
 This chardonnay is very yellow. It has a nose of peaches and soup broth. When drinking, the peaches are fleeting then give way to citrus.  There's light oak, vanilla, and a bit of cream. I'm not decrier of mass-produced wines but this is really the epitome of commercial chardonnay.  It's a tad sweet, a tad dry, and unobtrusive.
 
 

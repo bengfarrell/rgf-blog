@@ -131,7 +131,7 @@ Finishing our sandwiches and the setting sun signaled that it was time to go hom
 
 <div class="caption">
 
-[![Click twice for a magnified view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Sonoma_39.jpg)](http://www.rebeccagomezfarrell.com/2014/01/a-foodie-day-trip-to-sonoma/2013_sonoma_39/) Click twice for a magnified view.</div>
+[![Click twice for a magnified view.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Sonoma_39.jpg)](http://www.rebeccagomezfarrell.com/2014/01/a-foodie-day-trip-to-sonoma/2013_sonoma_39/) </div>
 
 
 I think we managed to pack a lot of foodie fun into just a few hours' worth of escape from the city! I can easily see Ben and myself spending a weekend in downtown Sonoma, exploring the courtyards and the various breweries and wineries hiding in the hills. Now to give Napa a try!

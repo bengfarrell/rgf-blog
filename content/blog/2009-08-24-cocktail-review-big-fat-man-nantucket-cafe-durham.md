@@ -18,8 +18,6 @@ Sutton Station\
 Durham, NC\
 [www.nantucketcafeandgrill.com](http://www.nantucketcafeandgrill.com/)
 
-![](http://www.thegourmez.com/gourmez/photos/bigfatman.jpg)
-
 This is a manhattan made with Woodford Reserve Bourbon and served with 4 cherries.  The Woodford Reserve came through loud and clear with just a touch of vermouth.  As I like the hard stuff but find drinking it straight to be a challenge, the cherries made it all go down perfectly.
 
 

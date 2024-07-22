@@ -170,7 +170,7 @@ Passing orchards.</div>
 
 <div class="caption">
 
-[![Panorama of a hops farm. Click twice for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7756small-1024x105.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7756small-1024x105.jpg) Panorama of a hops farm. Click for the biggest view!</div>
+[![Panorama of a hops farm. Click twice for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7756small-1024x105.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7756small-1024x105.jpg) Panorama of a hops farm.</div>
 
 
 
@@ -226,7 +226,7 @@ It's impossible to complain about the views from either the back or the front of
 
 <div class="caption">
 
-[![Click for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7366small-1024x99.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7366small.jpg) Click for the biggest view!</div>
+[![Click for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7366small-1024x99.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7366small.jpg) </div>
 
 
 
@@ -234,7 +234,7 @@ It's impossible to complain about the views from either the back or the front of
 
 <div class="caption">
 
-[![Click for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7376small-1024x228.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7376small.jpg) Click twice for the biggest view!</div>
+[![Click for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7376small-1024x228.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7376small.jpg)</div>
 
 
 The second winery we hit, just down the road, was [Naches Heights Vineyards](http://www.nachesheights.com/tasting-room.html) (2410 Naches Heights Rd, Yakima).
@@ -292,7 +292,7 @@ We took two pit stops along the way, the first at [Gold Creek Station](https://w
 
 <div class="caption">
 
-[![ View from the restaurant. Click for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7907small-1024x117.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7907small.jpg) View from the restaurant. Click for the biggest view!</div>
+[![ View from the restaurant. Click for the biggest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7907small-1024x117.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7907small.jpg) View from the restaurant.</div>
 
 
 Drive a little bit farther and you can find [Whistlin' Jack Lodge and Restaurant](http://www.whistlinjacklodge.com/) (20800 State Route 410, Naches), a favorite of locals for a fancy night out. I can vouch for how inviting their bar is on a chill day.

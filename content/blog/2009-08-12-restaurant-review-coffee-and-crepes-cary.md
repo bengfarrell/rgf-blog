@@ -21,11 +21,7 @@ Crepes: $3-7
 
 Crepes are one of my favorite vehicles for enjoying both sweet and savory treats.  Coffee and Crepes offers both at quite affordable prices.  They are located in the food court section of the Crossroads Plaza and have indoor and outdoor seating.  It's an order-at-the-counter spot with free wireless available.  You can also get whole wheat or gluten-free crepes if you ask.
 
-![](http://www.thegourmez.com/gourmez/photos/coffeeandcrepes.jpg)
-
 My double cappuccino had the perfect ratio of skim milk to espresso, resulting in a mildly bitter drink.  I wish it were served in a mug rather than a to go cup, but alas, I can't have everything I want in life.  My raspberry chicken crepe was attractively presented and served with a side of plain couscous.  You can choose couscous or green salad as the side item.
-
-![](http://www.thegourmez.com/gourmez/photos/crepe.jpg)
 
 It was filled with chicken, ricotta, spinach, tomato and cheddar then topped with raspberry preserves and walnuts. This was just the right amount of fillings for me and the ingredients combined well, though the chicken was a bit too seasoned and I would have liked some walnuts inside the crepe.  With the preserves, the crepe straddled the line between savory and sweet, ultimately coming out a bit too strongly on the sweet side.  Since extra sugar rarely gets in the way of my enjoyment of food, I cannot complain.
 

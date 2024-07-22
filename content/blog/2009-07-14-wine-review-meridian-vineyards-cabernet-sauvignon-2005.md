@@ -11,8 +11,6 @@ tags:
 
 **Other words on the label:** California
 
- ![](http://www.rebeccagomezfarrell.com/photos/meridiancab.jpg)
-
 This wine has a spicy nose of cumin and rich cinnamon.  Figs are the central fruit though there is also a small bit of pipe tobacco on the finish.  It is tart and spicy.  For people like me who love a spicy wine, it is highly drinkable if a bit rough around the edges.
 
 

@@ -25,7 +25,7 @@ tags:
   - "z"
 ---
 
-After a great [brunch](http://www.rebeccagomezfarrell.com/2013/05/charlottesville-blogging-brunch-downtown-at-rapture/), Ben and I decided to take a stroll around the University of Virginia, founded by Thomas Jefferson. President Jefferson also designed most of the notable architecture on the main campus, which is where we took that stroll. No official tour; we went where the pretty buildings and Ben's [Ingress portals](http://www.ingress.com/) called.
+After a great [brunch](https://www.thegourmez.com/blog/2013/05/charlottesville-blogging-brunch-downtown-at-rapture/), Ben and I decided to take a stroll around the University of Virginia, founded by Thomas Jefferson. President Jefferson also designed most of the notable architecture on the main campus, which is where we took that stroll. No official tour; we went where the pretty buildings and Ben's [Ingress portals](http://www.ingress.com/) called.
 
 We parked in the Corner, which is a typical college town strip of affordable eateries and retail that I'm sure UVA's students keep busy.
 

@@ -26,15 +26,11 @@ My foodie friends, Eric and Leandra, invited us out for an evening of cider cock
 
 This night, though, was about the cocktails. Every Thursday, the bar offers either flights of wine for $18 or themed cocktails for $7. There were three cider options available this evening and, well, I had one of each. The first was the Hot Apple Pie, served in a mug.
 
-![](http://www.thegourmez.com/gourmez/photos/umstead001.jpg)
-
 Both of the warm drinks could have been bumped up a few notches in temperature, and I say that as someone who hates burning her tongue when she sips her coffee. The ingredients were apple cider, Tuaca, and orange-flavored rock candy. The Tuaca was a great match for the apple cider—I can sometimes find it too cloying in other drinks. Rock candy is an old-time favorite, so it was fun to bite some off before it melted into the drink.  It imparted a very light orange flavor to the cider.
 
 ![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")
 
 Next, I had the Bulleit Cider, which was made with Bulleit bourbon, cider, and Grand Marnier, then topped with a slice of orange.
-
-![](http://www.thegourmez.com/gourmez/photos/umstead002.jpg)
 
 Most of us agreed that this was the best choice of the three cocktails.  The bourbon's potency was smoothed out by the cider and Grand Marnier. The taste of the apple was subtler here than in the Hot Apple Pie and there was a hint of spice in the aftertaste, which must have come from the cider but I didn't notice it in the other drinks.
 

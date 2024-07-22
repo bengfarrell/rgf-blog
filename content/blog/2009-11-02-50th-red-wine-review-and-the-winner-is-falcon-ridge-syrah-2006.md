@@ -20,8 +20,6 @@ Without further adieu . . .
 **Falcon Ridge Syrah 2006**\
 Region: Central Coast, CA
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/frsyrah.jpg)
-
 There is some sort of fruit trying to wave at my nose hairs in this wine. It’s impossible to tell what it is over the domineering tobacco presence. On tasting, the picture gets a little clearer and I’m fairly certain that it’s a tart blackberry jam trying not to drown in the sea of tobacco. My tongue feels stripped by the acidity after two glasses but they were pretty good glasses, nonetheless.
 
 [![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.rebeccagomezfarrell.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)

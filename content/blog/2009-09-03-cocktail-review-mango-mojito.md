@@ -17,8 +17,6 @@ tags:
 Southpoint, Durham, NC\
 [http://www.firebirdsrockymountaingrill.com/](http://www.firebirdsrockymountaingrill.com/)
 
-![](http://www.thegourmez.com/gourmez/photos/mangomojito.jpg)
-
 The Mango Mojito is made with 10 Cane rum, mango and lime juices, mint, and club soda.  It tasted like sugar syrup with a tease of mango that I couldn't catch up to until I was halfway through the drink.  At that point, a bit of mint and lime also joined the party but the rum was mostly a no show.  It's not a party if I can't taste the rum.
 
 

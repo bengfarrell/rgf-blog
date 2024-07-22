@@ -30,7 +30,7 @@ I stayed over in San Luis Obispo for a day after the end of the 2014 Wine Blogge
 
 <div class="caption">
 
-[![Click twice for the panorama.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/08/2014_San_Luis_Obispo_059-1024x229.jpg)](http://www.rebeccagomezfarrell.com/2014/09/a-tour-of-mission-san-luis-obispo/2014_san_luis_obispo_059/) Click twice for the panorama.</div>
+[![Click twice for the panorama.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/08/2014_San_Luis_Obispo_059-1024x229.jpg)](http://www.rebeccagomezfarrell.com/2014/09/a-tour-of-mission-san-luis-obispo/2014_san_luis_obispo_059/)</div>
 
 
 I love discovering treasures in the everyday, and as someone who grew up on the Central Coast, I’d seen plenty of this mission. But I’d never gone inside, and as I walked by, I happened to notice a crowd gathering for the next free docent tour. Why not join, I thought. So I did.

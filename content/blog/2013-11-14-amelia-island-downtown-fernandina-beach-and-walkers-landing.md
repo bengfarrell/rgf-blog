@@ -123,7 +123,7 @@ Downtown Fernandina Beach was certainly idyllic, but the best part of our trip w
 
 [![Amelia_Island_Marshland34](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/Amelia_Island_Marshland34-500x332.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/amelia_island_marshland34/)
 
-This is the best of my panoramas, which will be appearing on my wall soon. Click on it twice to get the largest view.
+This is the best of my panoramas, which will be appearing on my wall soon. 
 
 [![Amelia_Island_Marshland37](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/Amelia_Island_Marshland37-1024x280.jpg)](http://www.rebeccagomezfarrell.com/2013/11/amelia-island-downtown-fernandina-beach-and-walkers-landing/amelia_island_marshland37/)
 

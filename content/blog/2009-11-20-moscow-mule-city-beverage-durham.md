@@ -13,12 +13,10 @@ tags:
   - "vodka-cocktail"
 ---
 
-**City Beverage**
+**City Beverage**\
 Woodcroft\
 Durham, NC\
 [http://www.citybeverage-durham.com/](http://www.citybeverage-durham.com/)
-
-![](http://www.thegourmez.com/gourmez/photos/PIC-0161.jpg)
 
 This drink was a mix of vodka, ginger ale, and lime served on the rocks in a short glass. The ginger ale and lime combined well with each other and with food. The vodka was undetectable, which is fine since vodka isn’t supposed to have much of a flavor (but secretly, I prefer that it does). This was my first Moscow Mule and I can’t say I found it particularly interesting but it was certainly drinkable.
 

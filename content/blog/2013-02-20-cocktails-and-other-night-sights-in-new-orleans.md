@@ -199,7 +199,7 @@ We walked back to CBD and the hotel that evening by way of Woldenberg Riverfront
 
 <div class="caption">
 
-[![Decatur St. from the river. Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_219small-1024x267.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_219small/) Decatur St. from the river. Click twice for the largest view!</div>
+[![Decatur St. from the river. Click twice for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_219small-1024x267.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/2012_dec_nola_219small/) Decatur St. from the river.</div>
 
 
  

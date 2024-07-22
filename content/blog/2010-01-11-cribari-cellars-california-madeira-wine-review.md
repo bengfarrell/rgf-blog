@@ -16,8 +16,6 @@ tags:
 
 **Region:** California
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/cribarimadeira.JPG)
-
 This is my first madeira, which I accidentally bought instead of marsala for a recipe. My quick googling informs me that Madeira is a fortified sherry wine with some Muscatel thrown in and is used as a dessert and cooking wine. It's heated up to reproduce oxidation that it would receive from a long voyage overseas. Crazy.
 
 It smells like sherry, but has a reddish sheen as compared to the more typical amber of sherries. This gives me hope I might like it as I'm rather sick of sherry at present. It also smells like a warmed fruit and brandy sauce, maybe peach.

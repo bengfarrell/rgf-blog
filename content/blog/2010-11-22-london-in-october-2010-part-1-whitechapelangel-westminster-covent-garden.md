@@ -36,12 +36,9 @@ As most of you know, Ben and I headed to London for vacation last month. It was 
 
 <div class="caption">
 
-[![Click on Me for a better view](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/london039a.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/london039a.jpg)
+![Click on Me for a better view](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/london039a.jpg) View from St. James's Park Bridge</div>
 
-View from St. James's Park Bridge--Click for a better view!</div>
-
-
-Okay, for me, it was fabulous. For Ben, who is not as interested in Western history and sights, it was a good city that would be greatly improved with better beer. Since I’m the one blogging, though, we are sticking with fabulous! For most of the trip, my high school friend, Scott, played culinary tour guide and provided us with great companions by way of his entourage of visiting friends from various locales. This was much appreciated, especially since a good part of British culture is hanging in pubs for most of the evening---Ben and I have been together seven years, folks. Other people’s conversation is always welcome.
+Okay, for me, it was fabulous. For Ben, who is not as interested in Western history and sights, it was a good city that would be greatly improved with better beer. Since I’m the one blogging, though, we are sticking with fabulous! For most of the trip, my high school friend, Scott, played culinary tour guide and provided us with great companions by way of his entourage of visiting friends from various locales. This was much appreciated, especially since a good part of British culture is hanging in pubs for most of the evening—Ben and I have been together seven years, folks. Other people’s conversation is always welcome.
 
 So the flights went fine, and British Airways actually has pretty good food, in case you were wondering. Not to mention how hilarious it was to me that the flight attendants wore dour expressions but spoke in very pleasant tones and genuinely seemed to want to make sure we had a good flight. It was an odd combination. Anyhow, we got in to London at about 11 am then took the Underground to the Euston Station stop, about two blocks from our hotel, the Thistle Euston (a little less than an hour trip). Thistle is an English hotel chain, and it was a great hotel, especially for Europe. There was plenty of room to walk around the room! Amazing. The lobby was nice, and we did have the complimentary breakfast one morning—and that was plenty. The food was good, especially the scrambled eggs, but do not try the fried toast. Toast does not need to be deep fried, trust me.
 
@@ -52,8 +49,7 @@ We caught up on sleep for our first few hours in London, then we headed out to m
 
 <div class="caption">
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/london004.jpg "london004")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/london004.jpg)
-Pakora</div>
+![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/london004.jpg "london004")Pakora</div>
 
 
 

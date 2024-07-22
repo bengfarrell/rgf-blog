@@ -46,7 +46,7 @@ tags:
 
 <div class="caption">
 
-[![Click twice on the panorama for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_217small-1024x306.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_217small/) Click twice on the panorama for the largest view!</div>
+[![Click twice on the panorama for the largest view!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/2012_Dec_Nola_217small-1024x306.jpg)](http://www.thegourmez.com/2013/02/eats-and-night-sights-in-new-orleans/2012_dec_nola_217small/)</div>
 
 
 Why, you might ask, are you focusing on dining at night in New Orleans? Isn't the food there good anytime? Of course it is! But one must make distinctions between their blog posts somehow, and with the massive amount of eating we did in New Orleans, I figured divvying up the meals by time of day made as much sense as any other reasoning. So yes, you can expect an Eats in the Day post in a few weeks. There will also be Drinks at Night coming up, and in all my New Orleans travelogues, sights found while walking through the streets will be interspersed. But I know you, you know me, and we all know that food and drink is our priority. So let's dig in!

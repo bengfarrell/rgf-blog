@@ -16,8 +16,6 @@ tags:
 
 **Region:** Germany
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/tlpinotnoir.jpg)
-
 This pinot noir has a vibrant nose of Saint Anne's cherry.  Until this glass, it had been a long time since I'd had a bright, light-bodied wine that didn't make me pucker.  It's very tasty, with plenty of mildly tart cherries to plop in your mouth.  Have I mentioned that I love cherries? This wine makes me feel like I'm drinking cherry cordial straight out of Anne of Green Gables.  That can only be a good thing, presuming I'm of age and not returning home to my prude of a mother who banishes me from my best friend.
 
 Turning Leaf Pinot Noir is not very layered but I don't think it needs to be.

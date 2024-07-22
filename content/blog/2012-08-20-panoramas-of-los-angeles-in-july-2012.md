@@ -24,7 +24,7 @@ tags:
   - "tourism"
 ---
 
-In July, I spent two weeks in California, my home state and heart state but a place I haven't lived since college, almost a decade ago now. I was in Los Angeles for the first and last few days of the trip, and so I thought I'd share with you the few panoramas I took while there.  They simply can't be appreciated in smaller form, so please click on each for a new tab to open, then click again for a larger version of the images that you can scroll through.
+In July, I spent two weeks in California, my home state and heart state but a place I haven't lived since college, almost a decade ago now. I was in Los Angeles for the first and last few days of the trip, and so I thought I'd share with you the few panoramas I took while there. 
 
 The first panoramas are from hiking in the Hollywood Hills. My friend and I were in search of a close view of the Hollywood sign, not realizing that the specific hike we'd chosen would actually have taken us a couple of hours in the bright, hot, summer sun to get there. So we didn't achieve that view, but taking off on the trails across from the Greek Theater still lent itself to lovely shots of downtown LA and the surrounding areas.
 
@@ -44,7 +44,7 @@ Finally, because it was our original goal, here's a regular-sized photo of the H
 
 For more pictures of hiking in the Hollywood hills, click [here](https://www.facebook.com/media/set/?set=a.10150987013929607.421993.567409606&type=3 "Facebook Photos of Hollywood Hills Hiking").
 
-On our return to LA, my sister and I decided to go to [the Getty Center](http://www.getty.edu/ "The Getty Center") for the first time. She's an LA native and had never actually gone. Both of us were surprised by how absolutely gorgeous the view is from their hilltop location. Of course, I had to take a few more panoramic shots. Again, click on these pictures for the larger view. The first one is from the Exhibitions Tower of the Central Garden, with Los Angeles sprawling beyond it.
+On our return to LA, my sister and I decided to go to [the Getty Center](http://www.getty.edu/ "The Getty Center") for the first time. She's an LA native and had never actually gone. Both of us were surprised by how absolutely gorgeous the view is from their hilltop location. Of course, I had to take a few more panoramic shots. The first one is from the Exhibitions Tower of the Central Garden, with Los Angeles sprawling beyond it.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/08/thegetty004-1024x480.jpg "thegetty004")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/08/thegetty004.jpg)
 

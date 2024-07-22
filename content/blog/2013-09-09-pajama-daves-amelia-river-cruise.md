@@ -86,7 +86,7 @@ They like to congregate near the abandoned Dungeness mansion, home to Lucy Carne
 
 <div class="caption">
 
-[![Amelia_River_Cruise_35](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Amelia_River_Cruise_351-1024x324.jpg)](http://www.rebeccagomezfarrell.com/2013/09/pajama-daves-amelia-river-cruise/amelia_river_cruise_35-2/) Click on the photo twice for a better view, including more wild horses!</div>
+[![Amelia_River_Cruise_35](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Amelia_River_Cruise_351-1024x324.jpg)](http://www.rebeccagomezfarrell.com/2013/09/pajama-daves-amelia-river-cruise/amelia_river_cruise_35-2/) </div>
 
 
 I would love to explore the mansion, but then again, I love all abandoned buildings. Yes, I'm an abandoned-building-photographer junkie. We all have our vices. Mine also include taking photos of Spanish-moss-drenched trees and wildlife, which this tour also supplied in plenty.

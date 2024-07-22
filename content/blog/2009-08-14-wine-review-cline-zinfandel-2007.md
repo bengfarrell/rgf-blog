@@ -12,8 +12,6 @@ tags:
 
 **Region:**  California
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/clinezin.jpg)
-
 The nose is bright and fruity.  Raspberry comes to mind.
 
 Upon drinking, I get a full mouth of fruit.  It's leafy, zippy, and tastes closer to currants than raspberries.

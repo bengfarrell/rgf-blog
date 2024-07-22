@@ -19,19 +19,13 @@ Dinner: Prix Fixe $30, a la carte $9-17
 
 Rue Cler is a French restaurant and bakery café located on a cozy corner of downtown Durham.
 
-![](http://www.thegourmez.com/photos/ruecler.jpg "Rue Cler")
-
 The bakery opens up at 7:30 for orders at the counter and continues until mid-afternoon.
 
 It gets a bit crowded but that's understandable.
 
-![](http://www.thegourmez.com/photos/ruecler2.jpg "Rue Cler 2")
-
 With beignets on the menu, this place should always be crammed full.  We started out our meal with a half dozen of these delicious love children of a croissant and a doughnut.  With the dusting of powdered and white sugar, the very hot and fresh aromas and the tang of sourdough, I may have a new favorite pastry.  Sorry, chocolate croissants.
 
 We ate at the bar in the main dining room and I was struck with the distressed ambience of the place. By distressed, I mean the urban design style of stripped down walls, not the mood as it actually felt quite welcoming and open.
-
-![](http://www.thegourmez.com/photos/ruecler3.jpg "Rue Cler 3")
 
 Rue Cler has the feel of an incomplete loft redesign, with its open wooden slats and exposed concrete walls.  I might just have to paint my basement the same cappuccino brown of their one painted wall in the dining room.
 

@@ -17,8 +17,6 @@ tags:
 Durham, NC\
 [Website](http://www.nantucketgrill.com/fayetteville.htm)
 
-![](http://www.thegourmez.com/gourmez/photos/passionfruitsunset 003.jpg)
-
 This attractive swirled drink was made with mango juice, pomegranate juice, and Absolut Peach. There was much more of an alcohol punch than I expected, but I suspect that's because I'd just told the bartender that I liked strong drinks before ordering it. It was sweet, but also pretty sour. While Passion Fruit Sunrise is a strange name for a drink with no passion fruit, the mango and pomegranate did combine to make rather convincing approximation of its taste, or at least I've convinced myself that's the case. I liked it a lot.
 
 

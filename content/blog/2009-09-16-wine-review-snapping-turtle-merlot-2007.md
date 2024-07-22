@@ -13,8 +13,6 @@ tags:
 
 **Region:** Monterey, CA
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/snappingturtlemerlot.jpg)
-
 This smooth, full wine smelled of pipe tobacco and curry leaves.  It tasted of plum with a bite.  The tobacco was also present while sipping.  Strange, but surprisingly appealing as there was also a note of Dijon mustard.  Overall, a pleasant wine.
 
 

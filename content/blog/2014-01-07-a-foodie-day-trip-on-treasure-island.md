@@ -52,7 +52,7 @@ So combine the flea market experience with some afternoon wine tasting, and you 
 
 <div class="caption">
 
-[![Click twice for the largest pic!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_19-1024x80.jpg)](http://www.thegourmez.com/2014/01/a-foodie-day-trip-on-treasure-island/2013_treasure_island_19/) Click twice for the largest pic!</div>
+[![Click twice for the largest pic!](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_19-1024x80.jpg)](http://www.thegourmez.com/2014/01/a-foodie-day-trip-on-treasure-island/2013_treasure_island_19/) </div>
 
 
 [![2013_Treasure_Island_24](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_24-500x332.jpg)](http://www.thegourmez.com/2014/01/a-foodie-day-trip-on-treasure-island/2013_treasure_island_24/)
@@ -130,7 +130,7 @@ Around the corner is [Fat Grape Winery](http://www.fatgrapewinery.com/), a sulfi
 
 <div class="caption">
 
-[![Wine tasting on Treasure Island.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_36-500x91.jpg)](http://www.thegourmez.com/2013/12/holiday-blog-break/2013_treasure_island_36/) Click twice for the largest view!</div>
+[![Wine tasting on Treasure Island.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/2013_Treasure_Island_36-500x91.jpg)](http://www.thegourmez.com/2013/12/holiday-blog-break/2013_treasure_island_36/) </div>
 
 
 They have a hefty list of wines to taste, and what’s more, you can taste them _all_ for free.

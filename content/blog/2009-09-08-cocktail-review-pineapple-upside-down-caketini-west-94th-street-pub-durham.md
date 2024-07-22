@@ -18,8 +18,6 @@ tags:
 Woodcroft, Durham, NC\
 [www.west94stpub.com](http://www.west94stpub.com/)
 
-![](http://www.thegourmez.com/gourmez/photos/caketini.jpg)
-
 This cantaloupe-colored martini is made with Stoli vanilla vodka, Malibu rum, pineapple juice, and cream.  It is absolutely delicious and tastes exactly like you are eating a slice of pineapple upside-down cake, complete with the caramelized pineapple wedges.
 
 Sometimes, there is truth in advertising.

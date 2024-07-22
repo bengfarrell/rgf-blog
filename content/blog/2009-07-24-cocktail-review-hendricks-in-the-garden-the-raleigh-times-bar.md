@@ -17,8 +17,6 @@ tags:
 **The Raleigh Times Bar**\
 [http://www.raleightimesbar.com/](http://www.raleightimesbar.com/)
 
-![](http://www.thegourmez.com/gourmez/photos/hendricksgarden.jpg)
-
 This cocktail was a mix of cucumber chunks, lavender syrup, gin, and club soda on the rocks.  The strong, yet bland gin quickly took control from the cucumber and sweet lavender.  It's rare that I want the gin in a drink to be more flavorful but this is an exception.  A more herbal, vibrant gin would have made a big difference.
 
 _Reviewed 7.17.09._

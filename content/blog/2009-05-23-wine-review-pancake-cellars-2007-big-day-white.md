@@ -14,8 +14,6 @@ tags:
 
 **Other Words on the Label:**  Paso Robles, California
 
-![](http://www.rebeccagomezfarrell.com/photos/Picture049forblog.jpg)
-
 This wine is worth buying for the novelty of the label art alone.  A giant flapjack grape terrorizes a city block and a quick turn to the back reveals that it is all the dream of a young pancake grape, safely tucked into bed.  There is a highly entertaining description of some out of control grapes on the back label as well.  Fun!
 
 The Big Day White is mainly sauvignon blanc but also blends in chardonnay, gewürztraminer and pinot blanc.  Kiwi and pear dominate the nose but do not play a part in the taste.  Honeydew is the only flavor I detected while sipping.  It starts out sweet but ends by making me think I'd bitten into a lemon seed, which is quite the wine-sipping adventure.

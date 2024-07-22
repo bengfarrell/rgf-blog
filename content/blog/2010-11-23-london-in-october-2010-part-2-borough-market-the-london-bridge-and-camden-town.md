@@ -182,7 +182,7 @@ And now, here are the views from the London Bridge.
 
 ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/london185.jpg)
 
-And here’s Ben’s 360 degree view from the bridge. Make sure you click on it to view the whole image.
+And here’s Ben’s 360 degree view from the bridge. 
 
 ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/london186a.jpg)
 

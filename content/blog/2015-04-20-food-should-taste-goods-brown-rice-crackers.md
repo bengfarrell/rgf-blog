@@ -21,7 +21,7 @@ tags:
   - "tomato-and-basil"
 ---
 
-You read all about the Cavalier brunch I attended in March, hosted by [Food Should Taste Good](http://www.foodshouldtastegood.com/) (FSTG) and [Tablehopper](http://tablehopper.com/) Marcia Gagliardi, i[n my last post.](http://www.rebeccagomezfarrell.com/?p=9865) Now, I'm sharpening my focus and delving into the world of FSTG's cracker products. **Obligatory disclaimer!** They were provided for free as samples from FSTG. Swag bags from the brunch had also included a couple bags of FSTG's tortilla chips and the not-yet-released Real Good Bars.
+You read all about the Cavalier brunch I attended in March, hosted by [Food Should Taste Good](http://www.foodshouldtastegood.com/) (FSTG) and [Tablehopper](http://tablehopper.com/) Marcia Gagliardi, i[n my last post.](https://www.thegourmez.com/blog/?p=9865) Now, I'm sharpening my focus and delving into the world of FSTG's cracker products. **Obligatory disclaimer!** They were provided for free as samples from FSTG. Swag bags from the brunch had also included a couple bags of FSTG's tortilla chips and the not-yet-released Real Good Bars.
 
 
 

@@ -14,7 +14,7 @@ Taste: Overall, the taste is a bit watery thin with a sharp undertone. There's d
 
 Color: The wine is a light gold, probably as close to white gold as you can get without thinking its silver. It's similar to the understated gold in a pear's meat; it looks white but there's a definite presence of melanin. It also sparkles pleasantly in the light.
 
-Smell-Nothing stands out here. I can barely smell a thing.
+Smell—Nothing stands out here. I can barely smell a thing.
 
 This is a pleasant wine, palate cleansing, but doesn't leave a mark.
 

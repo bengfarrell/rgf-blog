@@ -24,13 +24,7 @@ As I've had my heat on for three weeks now, I'm sure Foundation no longer has th
 
 This riff on white sangria was made with 8 Shelton Bin 17 chardonnay, 38 Vines muscadine, Junior Johnson moonshine, orange liquor, and summer fruits.
 
-As you can see—
-
-![](http://www.thegourmez.com/gourmez/photos/yvsummersangria.jpg)
-
-—they went a bit overboard with the mint garnish.
-
-It had a smoother taste than sangria normally does, but with a mineral finish that sangria normally does not.  The fruit presence was minimal; if forced to guess, I'd say there was some fig.  It was mildly sweet, mildy sour, and also light and refreshing for a warm summer day.
+They went a bit overboard with the mint garnish. It had a smoother taste than sangria normally does, but with a mineral finish that sangria normally does not.  The fruit presence was minimal; if forced to guess, I'd say there was some fig.  It was mildly sweet, mildy sour, and also light and refreshing for a warm summer day.
 
 ![3 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")
 
