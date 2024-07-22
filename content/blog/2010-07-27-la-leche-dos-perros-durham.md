@@ -21,7 +21,7 @@ Downtown Durham\
 [Website](http://dosperrosrestaurant.com/)\
 $9
 
-![](http://www.thegourmez.com/gourmez/photos/dosperros06.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/dosperros06.jpg)
 
 This drink is nothing but horchata and dark rum. I love both of those ingredients, but I have to say, for $9, it wasn't tasty enough. It's a classic milk punch, like the New Orlean's Milk Punch at Papa Mojo's with bourbon and nutmeg, but that one succeeded better because there was less ice. The ice definitely watered down the horchata in this drink, and thus the horchata flavor and spices were hardly noticeable.
 
