@@ -1,9 +1,9 @@
 ---
 title: "Pollos La Carbonera (Hayti District, Durham) *CLOSED*"
 date: "2010-08-10"
-categories: 
+categories:
   - "restaurants"
-tags: 
+tags:
   - "barbacoa"
   - "carne-azada"
   - "charbroiled-chicken"
@@ -21,7 +21,7 @@ $2–$8 per item
 
 ![](http://www.thegourmez.com/gourmez/photos/polloslacarbonara01.JPG)
 
-Pollos La Carbonera is that bright orange and yellow building you pass right near the Fayetteville exit of I-147. Bull City Wings was its last incarnation, but now it's a Mexican stand with a drive-through window around the side and another window up front to order from on foot. There are a few picnic tables to sit at that provide a nice view of downtown and a breeze. Carpe Durham had some good [comments](http://carpedurham.com/2010/02/09/restaurant-openings-report-13/) on the food soon after they opened.
+Pollos La Carbonera is that bright orange and yellow building you pass right near the Fayetteville exit of I-147. Bull City Wings was its last incarnation, but now it's a Mexican stand with a drive-through window around the side and another window up front to order from on foot. There are a few picnic tables to sit at that provide a nice view of downtown and a breeze. Carpe Durham had some good [comments](https://thegourmez-wpmedia.s3.amazonaws.com/2010/02/09/restaurant-openings-report-13/) on the food soon after they opened.
 
 You can only get there by car if you are heading south on Fayetteville on the overpass. There are two drive-thru lanes but use the one on the right--the car on the left side is parked there by one of the employees. Don't be fooled by the handwritten menu posted by the drive-thru window-they have a larger menu that the cashier will hand over of tacos, tortas, hamburgers with torta-like toppings, quesadillas and sincronizada (the "cheese-covered" section!), gorditas, huaraches, and  . . . charbroiled chicken platters! You didn't notice that "Best Charbroiled Chicken in NC" slogan on the sign, did you? After trying their chicken taco (in the background), I'm inclined to agree.
 

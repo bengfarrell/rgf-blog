@@ -49,4 +49,4 @@ Magnolia Grill lived up to my expectations.  Other than perhaps trying to do to
 
 _Reviewed 8.19.09._
 
-_\*Thanks to poster **walrus1** on my review hosted at [carpe durham](http://carpedurham.com/2009/08/27/magnolia-grill/), I now know these were caper berries, which makes a lot of sense for the nicoise theme to the dish._
+_\*Thanks to poster **walrus1** on my review hosted at [carpe durham](https://thegourmez-wpmedia.s3.amazonaws.com/2009/08/27/magnolia-grill/), I now know these were caper berries, which makes a lot of sense for the nicoise theme to the dish._

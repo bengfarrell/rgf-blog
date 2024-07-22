@@ -19,7 +19,7 @@ Southpoint, Durham, NC\
 $4.50–$11.50
 
 
-Los Portales is a new Mexican restaurant in the shopping center across Fayetteville from the Streets at Southpoint. It replaced Bakehouse Bistro, which could never get their service up to par with their tasty sandwiches.  I asked my waiter if this Los Portales was related to the former [taqueria](http://carpedurham.com/2008/09/25/los-portales/) of the same name and he said no, it was its own restaurant, but he didn't seem to be familiar with the taqueria, so the jury's still out on a connection. I never tried the old Los Portales, so I can't compare.
+Los Portales is a new Mexican restaurant in the shopping center across Fayetteville from the Streets at Southpoint. It replaced Bakehouse Bistro, which could never get their service up to par with their tasty sandwiches.  I asked my waiter if this Los Portales was related to the former [taqueria](https://thegourmez-wpmedia.s3.amazonaws.com/2008/09/25/los-portales/) of the same name and he said no, it was its own restaurant, but he didn't seem to be familiar with the taqueria, so the jury's still out on a connection. I never tried the old Los Portales, so I can't compare.
 
 This spot is kitschy galore, with wooden booths, tables, and chairs that have been carved with the standard Mexican sombrero-wearing men, cacti, and tropical birds in bright, primary colors. The bar resembles a beach hut with a straw overhang.
 

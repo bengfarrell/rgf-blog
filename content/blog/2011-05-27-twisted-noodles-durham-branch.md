@@ -1,9 +1,9 @@
 ---
 title: "Twisted Noodles--Durham Branch"
 date: "2011-05-27"
-categories: 
+categories:
   - "restaurants"
-tags: 
+tags:
   - "chile-sauce"
   - "chili-sauce"
   - "duck-curry"
@@ -29,7 +29,7 @@ $8.95–$15.95\
 
  
 
-I’m a huge fan of Thai food, yet it’s taken me forever to try Twisted Noodles because I’ve been pretty happy with [Thai Cafe](http://carpedurham.com/2009/12/24/thai-cafe/) in Rockwood and Thai Palace on Highway 54 in Chapel Hill. I finally made a point of it, and armed with a coupon for free spring rolls from Durham’s annual calendar, we went! The interior is a few large steps up from your average Asian strip mall restaurant with rich brown walls, cream-toned booths, and dark tables. I especially liked the bamboo screens on the way in, and the lighting was moderately dim and inviting. It was two-thirds full on a Friday night with plenty of take-out business coming in and out as well. Service was fast, and the food was definitely speedy. Options include noodle dishes, noodle soups, fried rice dishes, classic Thai stir fries and curries, and some house specialties that lean toward duck and seafood options. All dishes but noodles and soups come with a hearty portion of white rice.
+I’m a huge fan of Thai food, yet it’s taken me forever to try Twisted Noodles because I’ve been pretty happy with [Thai Cafe](https://thegourmez-wpmedia.s3.amazonaws.com/2009/12/24/thai-cafe/) in Rockwood and Thai Palace on Highway 54 in Chapel Hill. I finally made a point of it, and armed with a coupon for free spring rolls from Durham’s annual calendar, we went! The interior is a few large steps up from your average Asian strip mall restaurant with rich brown walls, cream-toned booths, and dark tables. I especially liked the bamboo screens on the way in, and the lighting was moderately dim and inviting. It was two-thirds full on a Friday night with plenty of take-out business coming in and out as well. Service was fast, and the food was definitely speedy. Options include noodle dishes, noodle soups, fried rice dishes, classic Thai stir fries and curries, and some house specialties that lean toward duck and seafood options. All dishes but noodles and soups come with a hearty portion of white rice.
 
 My Thai iced coffee—a favorite, creamy splurge of mine when at a Thai restaurant—was plenty tasty.
 

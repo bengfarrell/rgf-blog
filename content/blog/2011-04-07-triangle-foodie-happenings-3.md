@@ -1,10 +1,10 @@
 ---
 title: "Triangle Foodie Happenings"
 date: "2011-04-07"
-categories: 
+categories:
   - "events"
   - "announcements"
-tags: 
+tags:
   - "brunch"
   - "bull-spec"
   - "dos-perros"
@@ -23,7 +23,7 @@ Also tonight, [the Cookery](http://www.durhamcookery.com/), a unique, Durham-bas
 
 Yet another event for tonight is Yelp Drinks Week. This is a weeklong event in Raleigh, where several bars are featuring specials or standard libations at half off. It started on Sunday and is running through this Saturday, 4/9. For the full list of participating bars and restaurants, [check here](http://www.yelp.com/events/raleigh-yelp-drinks). I'm planning on checking out [Market's](http://www.thegourmez.com/?p=1992) drinks on Friday, 4/8, at 8 pm if anyone's interested in joining me!
 
-This Sunday, 4/10, from 2 to 6 pm, head out to the SEED garden's annual pie social. [Carpe Durham](http://carpedurham.com/2011/03/29/seeds-pie-social/) has the details.
+This Sunday, 4/10, from 2 to 6 pm, head out to the SEED garden's annual pie social. [Carpe Durham](https://thegourmez-wpmedia.s3.amazonaws.com/2011/03/29/seeds-pie-social/) has the details.
 
 Now next weekend, 4/15-4/17, has a plethora of foodie happenings--it's impossible to make all of these events! Here they are by the day:
 

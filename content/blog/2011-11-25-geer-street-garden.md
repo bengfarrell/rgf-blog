@@ -1,11 +1,11 @@
 ---
 title: "Geer Street Garden"
 date: "2011-11-25"
-categories: 
+categories:
   - "restaurants"
   - "sake"
   - "wine"
-tags: 
+tags:
   - "beer"
   - "beer-garden"
   - "central-market"
@@ -27,7 +27,7 @@ tags:
   - "the-pile"
 ---
 
-644 Foster Street\ 
+644 Foster Street\
 Central Park District\
 Durham, NC\
 [Website](http://geerstreetgarden.com/)\
@@ -59,7 +59,7 @@ My friend had the rueben sandwich on that occasion, and she was pleased with it.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/geerstgarden05.jpg "geerstgarden05")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/geerstgarden05.jpg)
 
-[Lots](http://carpedurham.com/2011/05/06/geer-st-garden/) [of](http://girlswithguts.blogspot.com/2011/06/guilty-pleasure-at-geer-street-garden.html) [locals](http://thepracticalcook.wordpress.com/2011/07/28/adventures-in-eating-geer-street-garden-the-pile/) [have](http://www.thevegetariandurhamite.com/2011/08/review-of-geer-street-garden.html) [expressed](http://bullcityfood.blogspot.com/2011/06/geer-street-garden-another-durham-gem.html) great love for Geer St. Garden and their relaxed atmosphere so far. I would call best suited for a late night end to the evening or after-work dinner and drinks. I wouldn’t necessarily go there for a dinner destination spot; it’s lacking a little oomph to me to be a draw beyond a casual place to stop when you’re out.
+[Lots](https://thegourmez-wpmedia.s3.amazonaws.com/2011/05/06/geer-st-garden/) [of](http://girlswithguts.blogspot.com/2011/06/guilty-pleasure-at-geer-street-garden.html) [locals](http://thepracticalcook.wordpress.com/2011/07/28/adventures-in-eating-geer-street-garden-the-pile/) [have](http://www.thevegetariandurhamite.com/2011/08/review-of-geer-street-garden.html) [expressed](http://bullcityfood.blogspot.com/2011/06/geer-street-garden-another-durham-gem.html) great love for Geer St. Garden and their relaxed atmosphere so far. I would call best suited for a late night end to the evening or after-work dinner and drinks. I wouldn’t necessarily go there for a dinner destination spot; it’s lacking a little oomph to me to be a draw beyond a casual place to stop when you’re out.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 

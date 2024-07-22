@@ -1,9 +1,9 @@
 ---
 title: "Old Havana Sandwich Shop"
 date: "2011-12-16"
-categories: 
+categories:
   - "restaurants"
-tags: 
+tags:
   - "black-beans"
   - "cafe-con-leche"
   - "coffee"
@@ -63,7 +63,7 @@ On my first trip, my friend Rosie ordered the vegetarian platter that came with 
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/oldhavana1.jpg "oldhavana1")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/oldhavana1.jpg)
 
-To me, it didn’t look at all appetizing, but I happen to hate beans. She liked the beans fine, but she agreed, as many bloggers have already mentioned, that fresh, rather than bagged, plantain chips would be better. It appears from [Carpe Durham comments](http://carpedurham.com/2011/02/22/old-havana/) that the owners don’t want to invest in a deep fryer, and I can’t blame them for opting to forgo that expense and the necessary fans to disperse the smell. Frankly, I’d rather have the maduras portion that comes with the sandwiches anyway.
+To me, it didn’t look at all appetizing, but I happen to hate beans. She liked the beans fine, but she agreed, as many bloggers have already mentioned, that fresh, rather than bagged, plantain chips would be better. It appears from [Carpe Durham comments](https://thegourmez-wpmedia.s3.amazonaws.com/2011/02/22/old-havana/) that the owners don’t want to invest in a deep fryer, and I can’t blame them for opting to forgo that expense and the necessary fans to disperse the smell. Frankly, I’d rather have the maduras portion that comes with the sandwiches anyway.
 
 Friend Rosie also ordered one of their side salads, which varies according to the produce available. This was a butternut squash salad.
 
