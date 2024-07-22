@@ -38,7 +38,7 @@ tags:
 
 Occasionally (often), I get a craving to head out of town and end up somewhere I've never been before. Some may say that relates to the cabin fever of working at home, but as I've always been this way, I attribute it to my wanderlust. I should put together a wanderlusters support group at some point. The only problem is that I don't want a cure—we'd just travel together.
 
-My most recent day trip was to Kinston, NC, two hours away from Durham, my present hometown. Part of the reason I picked it was because the [Chef & the Farmer](http://chefandthefarmer.com/) is located there. It's garnered some of the best acclaim I've heard in NC over the past couple years, and their owner and chef, Vivian Howard, created some of the most memorable dishes from the [East Meets West dinner](http://www.rebeccagomezfarrell.com/2012/12/the-carolina-table-east-meets-west-dinner/) at TerraVITA last fall. But the restaurant will get its own post.
+My most recent day trip was to Kinston, NC, two hours away from Durham, my present hometown. Part of the reason I picked it was because the [Chef & the Farmer](http://chefandthefarmer.com/) is located there. It's garnered some of the best acclaim I've heard in NC over the past couple years, and their owner and chef, Vivian Howard, created some of the most memorable dishes from the [East Meets West dinner](https://www.thegourmez.com/blog/2012/12/the-carolina-table-east-meets-west-dinner/) at TerraVITA last fall. But the restaurant will get its own post.
 
 The second reason I chose Kinston was because it has a lot of Ingress portals by the Neuse riverfront, Ingress being a Google game my husband is obsessed with.
 

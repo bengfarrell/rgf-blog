@@ -22,7 +22,7 @@ tags:
   - "yosemite-valley"
 ---
 
-As promised in last week's [Los Angeles panoramas pos](http://www.rebeccagomezfarrell.com/2012/08/panoramas-of-los-angeles-in-july-2012/?utm_source=rss&utm_medium=rss&utm_campaign=panoramas-of-los-angeles-in-july-2012 "Panoramas of Los Angeles")t, here are the first panoramas from my Yosemite trip in July. My sister and I and my aunts' and uncles' families spent 4 days in the valley at Camp Curry, and it's such a breathtaking experience. I had been in Yosemite before, but not since I was little, so it was mostly brand new for me. And our family got along amazingly well! That's always a miracle. 😉 
+As promised in last week's [Los Angeles panoramas pos](https://www.thegourmez.com/blog/2012/08/panoramas-of-los-angeles-in-july-2012/?utm_source=rss&utm_medium=rss&utm_campaign=panoramas-of-los-angeles-in-july-2012 "Panoramas of Los Angeles")t, here are the first panoramas from my Yosemite trip in July. My sister and I and my aunts' and uncles' families spent 4 days in the valley at Camp Curry, and it's such a breathtaking experience. I had been in Yosemite before, but not since I was little, so it was mostly brand new for me. And our family got along amazingly well! That's always a miracle. 😉 
 
 This first one is the view coming right out of the tunnel and into Yosemite Valley. It's one of my few early memories of the area--everyone stops to take a picture here. You are forced to by the sheer majesty of the viewpoint. Special bonus for this panorama is catching how many things are wrong with it (a lot).
 

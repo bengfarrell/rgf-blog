@@ -44,7 +44,7 @@ Hello fellow food and travel lovers, I’m back! It’s been a few weeks without
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/logo-terravita.jpg "logo terravita")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/09/logo-terravita.jpg)
 
-I’ve [introduced](http://www.rebeccagomezfarrell.com/2010/10/terravita-the-first-biodynamic-and-sustainable-food-and-drink-fair-of-the-southeast/) you to TerraVITA [before](http://www.rebeccagomezfarrell.com/2012/09/triangle-foodie-happenings-terravita-coming-soon/). It’s a food and beverage event in Chapel Hill that’s focused on biodynamic, organic, and local products and all of that important discussion about just what _biodynamic_, _organic_, and _local_ even mean. I was a media participant this year, and I have so much material just recapping my adventures that you may be sick of hearing the name TerraVITA by the time I’m through. First up is the Media Farm Tour that took place last Thursday, November 1. Several other members of the food media and I hit up five different stops, driven around by the fearless Keith Minton, husband of Colleen who’s the amazing organizer of TerraVITA.
+I’ve [introduced](https://www.thegourmez.com/blog/2010/10/terravita-the-first-biodynamic-and-sustainable-food-and-drink-fair-of-the-southeast/) you to TerraVITA [before](https://www.thegourmez.com/blog/2012/09/triangle-foodie-happenings-terravita-coming-soon/). It’s a food and beverage event in Chapel Hill that’s focused on biodynamic, organic, and local products and all of that important discussion about just what _biodynamic_, _organic_, and _local_ even mean. I was a media participant this year, and I have so much material just recapping my adventures that you may be sick of hearing the name TerraVITA by the time I’m through. First up is the Media Farm Tour that took place last Thursday, November 1. Several other members of the food media and I hit up five different stops, driven around by the fearless Keith Minton, husband of Colleen who’s the amazing organizer of TerraVITA.
 
 The day began bright and early at 8:30 am on the morning after Halloween. This is what I was doing the night before on Franklin Street—
 
@@ -146,7 +146,7 @@ The ice cream parlor:
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/TerraVita2012012.jpg "TerraVita2012012")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/TerraVita2012012.jpg)</div>
 
 
-It features Lumpy’s ice cream, which I've had the good fortune of [sampling](http://www.rebeccagomezfarrell.com/2012/03/lumpys-wake-forest/) before.
+It features Lumpy’s ice cream, which I've had the good fortune of [sampling](https://www.thegourmez.com/blog/2012/03/lumpys-wake-forest/) before.
 
 The wine and beer section has been expanded and is quite attractively laid out. That’s more important than you’d think when it comes to wine buying, at least for me. More important than pretty labels!
 

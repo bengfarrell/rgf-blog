@@ -41,7 +41,7 @@ tags:
 ![Everything that goes into a David Rio Chai.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/2015_Coffee_Fest_097-359x500.jpg) Everything that goes into a David Rio Chai.</div>
 
 
-You can find fast-paced, ongoing [barista competitions](http://www.rebeccagomezfarrell.com/2015/02/coffee-fest-atlanta-2015-best-coffee-shop-competition/) in any corner of a Coffee Fest show, but at their heart, these events are trade shows. And I had far more fun than expected discovering up-and-coming products among the many established brands. This isn't a list featuring my favorite coffee beans from the weekend—that would be expected. Rather, it's a list of my favorite unexpected finds, all products I hope may be appearing at a coffee shop near me soon.
+You can find fast-paced, ongoing [barista competitions](https://www.thegourmez.com/blog/2015/02/coffee-fest-atlanta-2015-best-coffee-shop-competition/) in any corner of a Coffee Fest show, but at their heart, these events are trade shows. And I had far more fun than expected discovering up-and-coming products among the many established brands. This isn't a list featuring my favorite coffee beans from the weekend—that would be expected. Rather, it's a list of my favorite unexpected finds, all products I hope may be appearing at a coffee shop near me soon.
 
 ## 1\. The Airflow Cooling Lid
 

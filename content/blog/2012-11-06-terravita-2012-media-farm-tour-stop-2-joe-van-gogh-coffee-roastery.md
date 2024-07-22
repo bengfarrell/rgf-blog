@@ -23,7 +23,7 @@ tags:
   - "washed-process"
 ---
 
-Time for more on the TerraVITA 2012 Media Farm Tour! After taking a [fast, furious, and intriguing tour](http://www.rebeccagomezfarrell.com/2012/11/terravita-2012-media-farm-tour-stop-1-southern-season/) of the redesigned Southern Season, our group of food-loving media members hustled into our complimentary shuttle, provided by Performance Subaru, to make the journey out into the wilderness for our next stop. Okay, the wilderness was a warehouse in Hillsborough—that qualifies for this city girl.
+Time for more on the TerraVITA 2012 Media Farm Tour! After taking a [fast, furious, and intriguing tour](https://www.thegourmez.com/blog/2012/11/terravita-2012-media-farm-tour-stop-1-southern-season/) of the redesigned Southern Season, our group of food-loving media members hustled into our complimentary shuttle, provided by Performance Subaru, to make the journey out into the wilderness for our next stop. Okay, the wilderness was a warehouse in Hillsborough—that qualifies for this city girl.
 
 
 

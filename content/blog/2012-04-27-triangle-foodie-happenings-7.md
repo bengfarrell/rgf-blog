@@ -33,7 +33,7 @@ Anyhow, I've got a list of fun events to share with you all, in order of which i
 
 **[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/cropped-Header4.jpg "cropped-Header4")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/cropped-Header4.jpg)South Durham Farmer's Market, 4/28 and all Saturdays thereafter, 8 am to 12 pm, Durham**
 
-South Durham is getting a [Farmer's Market!](http://www.southdurhamfarmersmarket.org/ "South Durham Farmer's Market") The chosen location is the Greenwood Commons Shopping Center in Parkwood, home to [Papa Mojo's,](http://www.rebeccagomezfarrell.com/2009/08/restaurant-and-cocktail-review-papa-mojos-roadhouse-brunch/ "The Gourmez Papa Mojo's Review") Thai Lanna, and Sarah's Empanadas among other restaurants and stores. It opens this Saturday, and they've got a long list of producers signed on to sell their wares. But for this night owl, the hours are still way too short.
+South Durham is getting a [Farmer's Market!](http://www.southdurhamfarmersmarket.org/ "South Durham Farmer's Market") The chosen location is the Greenwood Commons Shopping Center in Parkwood, home to [Papa Mojo's,](http://www.https://www.thegourmez.com/blog.com/2009/08/restaurant-and-cocktail-review-papa-mojos-roadhouse-brunch/ "The Gourmez Papa Mojo's Review") Thai Lanna, and Sarah's Empanadas among other restaurants and stores. It opens this Saturday, and they've got a long list of producers signed on to sell their wares. But for this night owl, the hours are still way too short.
 
  
 
@@ -83,7 +83,7 @@ My Carpe Durham compatriot, DID, posted [a description](http://carpedurham.com/2
 
  **[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/compressedposter.jpg "compressedposter")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/compressedposter.jpg)** FOODIE screening at Motorco, 5/17, 7 pm, Durham, $5
 
-Written and produced by Eryk Pruitt, formerly of [blu seafood](http://www.rebeccagomezfarrell.com/2010/06/blu-seafood-and-bar-durham/ "The Gourmez Blu Seafood Review") in Durham and currently of [Sitti](http://www.rebeccagomezfarrell.com/2011/02/sitti/ "The Gourmez Sitti Review") in Raleigh, [FOODIE](http://foodie-themovie.com/ "Foodie the Movie") is
+Written and produced by Eryk Pruitt, formerly of [blu seafood](https://www.thegourmez.com/blog/2010/06/blu-seafood-and-bar-durham/ "The Gourmez Blu Seafood Review") in Durham and currently of [Sitti](http://www.rebeccagomezfarrell.com/2011/02/sitti/ "The Gourmez Sitti Review") in Raleigh, [FOODIE](http://foodie-themovie.com/ "Foodie the Movie") is
 
 > a dark comedy about a food-service industry professional who is invited to an exclusive, underground dinner party and discovers there's much more on the menu than he bargained for.  It premieres in Wilmington this Saturday (28th) at the Cape Fear International Film Festival where it is nominated for Best Horror of 2012 and we were lucky enough to get a screening at Motorco on May 17.  Flip from KoKyu BBQ Food Truck has offered to create menu items that reflect the "menu" in the movie, which will be insane!  We're asking for a suggested donation of five dollars at the door to help us with our film festival entry fees (we've applied to Cannes and Sundance... cross your fingers!) and we're planning on having a great time.
 

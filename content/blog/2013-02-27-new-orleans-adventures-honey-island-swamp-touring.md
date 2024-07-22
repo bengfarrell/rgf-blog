@@ -37,7 +37,7 @@ tags:
 [![The Gourmez happy in the swamp.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/2012_Dec_Nola_283small.jpg)](http://www.rebeccagomezfarrell.com/2013/02/new-orleans-adventures-honey-island-swamp-touring/2012_dec_nola_283small/) The Gourmez happy in the swamp.</div>
 
 
-This is the fourth entry in a series on my December New Orleans vacation. Lest you think this many entries is a few too many, just know New Orleans has always been high on my list of cities to visit, so I was pretty excited to finally do so! [Blog #1](http://www.rebeccagomezfarrell.com/2013/02/travelogue-abita-springs-and-covington-la/) was on the north side of Lake Pontchartrain, [Blog #2](http://www.rebeccagomezfarrell.com/2013/02/eats-and-night-sights-in-new-orleans/) was on dining at night in New Orleans, and [Blog #3](http://www.rebeccagomezfarrell.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/) was on drinking at night in New Orleans—and no, drinking need not be limited to the dark hours in this town.
+This is the fourth entry in a series on my December New Orleans vacation. Lest you think this many entries is a few too many, just know New Orleans has always been high on my list of cities to visit, so I was pretty excited to finally do so! [Blog #1](https://www.thegourmez.com/blog/2013/02/travelogue-abita-springs-and-covington-la/) was on the north side of Lake Pontchartrain, [Blog #2](https://www.thegourmez.com/blog/2013/02/eats-and-night-sights-in-new-orleans/) was on dining at night in New Orleans, and [Blog #3](https://www.thegourmez.com/blog/2013/02/cocktails-and-other-night-sights-in-new-orleans/) was on drinking at night in New Orleans—and no, drinking need not be limited to the dark hours in this town.
 
 
 

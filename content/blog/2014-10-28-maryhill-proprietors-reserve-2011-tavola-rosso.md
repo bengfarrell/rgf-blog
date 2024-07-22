@@ -55,7 +55,7 @@ Of course, my friend Cassie, who works at Maryhill, also ups the pretty factor.
 [![Cassie and I looking adorable, if I do so say myself.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/10/Dulles_California_Drive_006.jpg)](http://www.rebeccagomezfarrell.com/2014/10/maryhill-proprietors-reserve-2011-tavola-rosso/dulles_california_drive_006/) Cassie and I looking adorable, if I do so say myself.</div>
 
 
-We met at the 2014 Wine Bloggers Conference, and she graciously guided my husband and I through the tasting then strong-armed me into buying a few of Maryhill’s wines reserved for wine club members, the first of which [I reviewed last month](http://www.rebeccagomezfarrell.com/2014/10/maryhill-mourvedre-2011/) for you.
+We met at the 2014 Wine Bloggers Conference, and she graciously guided my husband and I through the tasting then strong-armed me into buying a few of Maryhill’s wines reserved for wine club members, the first of which [I reviewed last month](https://www.thegourmez.com/blog/2014/10/maryhill-mourvedre-2011/) for you.
 
 The second, this Tuscan-style red wine blend, also lived up to the expectations she gave me. An absolutely fun wine to drink, although the balance of its intense flavors wasn’t perfect. Pleasing jam notes beckon you into a game of cat-and mouse, only to lose you in a maze of rose bushes and pine trees. Can such a hopeless chase be satisfying? Yes, yes it can.
 

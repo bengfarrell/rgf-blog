@@ -50,7 +50,7 @@ In addition to the nose, I loved the artwork on the 2012 3CV Cilla’s Blend.
 
 [![WBC_14_214](http://s3.amazonaws.com/thegourmez-wpmedia/2014/08/WBC_14_214-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/09/cimarone-winery-los-olivos-wine/wbc_14_214/)
 
-Named after Priscilla, of course, I found it to be an easy-drinking red that was a little too much on the blueberry side for my preferences. Someday, I’ll learn to like blueberry. If you do, you’ll probably love it. What I loved more was the 2009 Reserve Syrah, which I named one of [my favorite wines of the conference](http://www.rebeccagomezfarrell.com/2014/07/wbc-14-best-wines/).
+Named after Priscilla, of course, I found it to be an easy-drinking red that was a little too much on the blueberry side for my preferences. Someday, I’ll learn to like blueberry. If you do, you’ll probably love it. What I loved more was the 2009 Reserve Syrah, which I named one of [my favorite wines of the conference](https://www.thegourmez.com/blog/2014/07/wbc-14-best-wines/).
 
 
 
@@ -60,7 +60,7 @@ Named after Priscilla, of course, I found it to be an easy-drinking red that was
 [![Shelley pouring me a glass.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/08/WBC_14_215-332x500.jpg)](http://www.rebeccagomezfarrell.com/2014/09/cimarone-winery-los-olivos-wine/wbc_14_215-2/) Shelley pouring me a glass.</div>
 
 
-I can’t forget that nose and how it made me a believer in barnyard descriptors when I’d never considered that an appealing concept before. But the straw and moss I got from sniffing made me yearn to lead a horse out for a countryside picnic—and I’ve only ever been horseback riding once. I think it helped that the [Ballard Canyon Syrah course](http://www.rebeccagomezfarrell.com/2014/08/wbc14-syrahs-of-the-ballard-canyon-ava/) was still fresh in my mind from the day before, as I was prepared to appreciate the wildness of a good syrah more than I had been before. Bright cranberry and cigar rounded out the glass.
+I can’t forget that nose and how it made me a believer in barnyard descriptors when I’d never considered that an appealing concept before. But the straw and moss I got from sniffing made me yearn to lead a horse out for a countryside picnic—and I’ve only ever been horseback riding once. I think it helped that the [Ballard Canyon Syrah course](https://www.thegourmez.com/blog/2014/08/wbc14-syrahs-of-the-ballard-canyon-ava/) was still fresh in my mind from the day before, as I was prepared to appreciate the wildness of a good syrah more than I had been before. Bright cranberry and cigar rounded out the glass.
 
 I also loved the 2010 Cimarone Le Clos Secret, a blend of cabernet sauvignon, petit verdot, cabernet franc, malbec, and merlot. Whereas the Reserve Syrah swung the door wide open, Le Clos Secret tiptoed up behind me.
 
