@@ -19,7 +19,7 @@ We started out with the Louisiana Pretzel, their biggest seller. It's a fresh ta
 
 I went for the Taste of Louisiana meal, which offers gumbo, jambalaya, red beans & rice, and fried oysters. The smell of the dish was salivating but opinions were mixed from the half of us who ordered it. The presentation was definitely lacking, just three small white bowls with the oysters on the side. Our consensus was that it was served a bit lukewarm and the dishes weren't spicy enough. I did love the oysters, though.
 
-From other guests, I learned that the shrimp was overcooked and if you're going to serve fried spinach, it should really be labeled as such on the menu. My [drinks](http://www.thegourmez.com/gourmez/cocktails/) were pretty good; I heard rave reviews of their bloody marys, but the food just failed to deliver.
+From other guests, I learned that the shrimp was overcooked and if you're going to serve fried spinach, it should really be labeled as such on the menu. My drinks were pretty good; I heard rave reviews of their bloody marys, but the food just failed to deliver.
 
 
 
