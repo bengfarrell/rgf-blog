@@ -33,7 +33,7 @@ I’m moving to California.
 
 <div class="caption">
 
-![](http://www.blastanova.com/photoalbum/Adventures/CA%20Trip%202011/catrip120.JPG) Me in 2011 with Los Angeles at my back.</div>
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/catrip120.jpg) Me in 2011 with Los Angeles at my back.</div>
 
 
 There is no set “when” yet, but if all goes well after listing our house next week, it will be sometime in August.  There is no set “where” yet, but if all goes well with Ben’s employment options, it will be in the Bay Area, with LA as a second choice.
@@ -88,6 +88,6 @@ I have plenty of fears that my friends in California and the state itself have c
 
 So you may get more Becca than the Gourmez in the coming months, but you should still get plenty of good eats and drinks, too. Regardless, thank you, dear readers, for joining me on this “quest toward becoming the elusive ‘gourmet’ without bothering about things like tannins and foie gras” as I wrote in my original _[About the Gourmez](http://www.rebeccagomezfarrell.com/gourmez/about/)_ page in 2007. There has been some tannins and foie gras talk since then, but I hope learning about them together has been fun, and I have no doubt I have plenty more to learn. California’s restaurants will be my next classroom.
 
-[![](http://www.blastanova.com/photoalbum/Adventures/CA%20Trip%202011/catrip223.jpg)](http://www.blastanova.com/photoalbum/Adventures/CA%20Trip%202011/catrip223.jpg)
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/catrip223.jpg)
 
  And what a view it has.

@@ -1,10 +1,10 @@
 ---
 title: "Spring in Cross Timbers—Photo Blog"
 date: "2010-03-27"
-categories: 
+categories:
   - "announcements"
   - "travel-guides"
-tags: 
+tags:
   - "bradford-pear"
   - "cat"
   - "cross-timbers"
@@ -21,34 +21,34 @@ tags:
 
 Just a quick blog with photos of the flowers up and blooming, and of Loki taking his proper place as lord of the manor. His throne, of course, is the top of the car.
 
-![](http://www.blastanova.com/photoalbum/Other/Kittens/cats164.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cats164.jpg)
 
 Mazu, of the pretty, pretty coat.
 
-![](http://www.blastanova.com/photoalbum/Other/Kittens/cats165.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cats165.jpg)
 
 Verdandi, checking out the mulch I put beneath the Bradford Pear.
 
-![](http://www.blastanova.com/photoalbum/Other/Kittens/cats168.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cats168.jpg)
 
 The flower garden waiting on the tulips to come play.
 
-![](http://www.blastanova.com/photoalbum/Other/garden/garden18.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/garden18.jpg)
 
 Daffodils:
 
-![](http://www.blastanova.com/photoalbum/Other/garden/garden13.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/garden13.jpg)
 
 Hyacinths:
 
-![](http://www.blastanova.com/photoalbum/Other/garden/garden15.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/garden15.jpg)
 
-![](http://www.blastanova.com/photoalbum/Other/garden/garden03.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/garden03.jpg)
 
 And that pear tree:
 
-![](http://www.blastanova.com/photoalbum/Other/garden/garden09.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/garden09.jpg)
 
-![](http://www.blastanova.com/photoalbum/Other/garden/garden19.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/garden19.jpg)
 
 Hope those tulips come soon!

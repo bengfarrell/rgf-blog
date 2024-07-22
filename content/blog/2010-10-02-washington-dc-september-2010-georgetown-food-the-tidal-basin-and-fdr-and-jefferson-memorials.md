@@ -1,10 +1,10 @@
 ---
 title: "Washington DC September 2010: Georgetown food, the Tidal Basin, and FDR and Jefferson Memorials"
 date: "2010-10-02"
-categories: 
+categories:
   - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "aditi"
   - "cherry-blossom-grove"
   - "crepe-amour"
@@ -27,9 +27,9 @@ These travelogues tend to get a little long, so I’m going to break this editio
 
 We spent that first night in Georgetown, dining at [Aditi](http://www.google.com/url?sa=t&source=web&cd=2&ved=0CBkQFDAB&url=http%3A%2F%2Fwww.dineaditi.com%2F&rct=j&q=adita%20indian%20dc&ei=Ga-jTMzjHMSBlAfTy-HSBA&usg=AFQjCNG-yrjOuFtRFNHAkvbVr37annHaSg&sig2=OUWvu5FNFi8iz5Yq_lDmjQ&cad=rja), an Indian restaurant on the main strip on M Street. We had a bread basket full of great stuffed and puffed breads, of which the aloo paratha was especially good. Those chutneys were fantastic!
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/awdc003.jpg)  For entrees, I had pepper chicken, which was in a tomato, coconut, ginger, garlic, and onion sauce that had a great level of heat. Ben had the lamb in pickling spices, braised with yogurt and cooked in a special spice blend.
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/awdc003.jpg)  For entrees, I had pepper chicken, which was in a tomato, coconut, ginger, garlic, and onion sauce that had a great level of heat. Ben had the lamb in pickling spices, braised with yogurt and cooked in a special spice blend.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/awdc004.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/awdc004.jpg)
 
 Of course, I liked his sauce better and Ben liked mine better. That’s how it always goes with couples.
 
@@ -41,42 +41,42 @@ Day 2: Tidal Basin Sights
 
 On our last trip to DC, we walked around and saw the monuments on the National Mall, so this time, I decided I needed to head across the way to the Tidal Basin and the monuments around its banks instead.  But of course, you can’t come out of the Metro without taking a shot of this.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc002.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc002.jpg)
 
 You just can’t. Once at the Basin, I immediately took a picture of the Jefferson Memorial clear on the other side, because it is an impressive site. It was the first of many times I was struck by how our national treasures might not be many centuries old, but they still have gravitas, even in restoration.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc018.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc018.jpg)
 
 I loved the cherry blossom tree grove, and the shrine given by Japan along with those trees. I can only imagine how awesome the Tidal Basin is in the spring when they bloom.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc020.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc020.jpg)
 
 Yet I loved the Franklin Delano Roosevelt memorial even more. He is, undoubtedly, one of my favorite presidents and walking around the large grounds, reading his inspiring words that ring so very true, all with water lapping in the background from various fountains, was lovely. It made my progressive self proud.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc034.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc034.jpg)
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc040.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc040.jpg)
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc045.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc045.jpg)
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc046.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc046.jpg)
 
 Back on the Tidal Basin trail, I discovered the one spot where you can get a picture of Thomas Jefferson’s status in profile through the columns of his memorial, which looked pretty cool.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc052.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc052.jpg)
 
 Just over a bridge adorned with super creepy gargoyles came the perfect view for a panorama.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc058a.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc058a.jpg)
 
 Once I arrived at the Jefferson Memorial, I encountered something quite moving for a history buff like myself, the cornerstone laid by FDR for the Jefferson memorial.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc067.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc067.jpg)
 
 Having just come from FDR’s memorial, it was delightful to see another impressive structure like this, made possible by Franklin’s New Deal programs. The marble stairs and columns were beautiful, and I especially liked the ceiling of the pavillion.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc066.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc066.jpg)
 
-![](http://www.blastanova.com/photoalbum/Adventures/Washington%20DC%202010/wdc072.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc072.jpg)
 
 From there, I moved on to Arlington National Cemetery, but you’ll have to wait for the next blog for that.

@@ -1,10 +1,10 @@
 ---
 title: "California Trip 2011, Day 3: Downtown LA and Bottega Louie"
 date: "2011-10-31"
-categories: 
+categories:
   - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "ardas-cafe"
   - "avocado"
   - "blt"
@@ -159,4 +159,4 @@ You can see their pyramids of macarons on the display case behind us. I tried th
 
 Donna, Angela, and I on our way out the door.
 
-The evening at Bottega Louie wrapped up Day 3 of our California trip, though Ben and I really ended it with a few drinks at that secret hotel bar I told you about earlier. On the next blog, I take you for lunch to the Tiara Café, then we’ll spend the afternoon investigating Little Tokyo and its plazas and temples. Dinner at Honda-Ya follows, along with my first taste of bitter melon, and then the evening ends with one of the best cocktails I’ve ever had. See you there! If you’d like to peruse more pictures of our trip in the meantime, head on over to our [photo blog](http://www.blastanova.com/photoalbum/index.html?path=Adventures/CA%20Trip%202011).
+The evening at Bottega Louie wrapped up Day 3 of our California trip, though Ben and I really ended it with a few drinks at that secret hotel bar I told you about earlier. On the next blog, I take you for lunch to the Tiara Café, then we’ll spend the afternoon investigating Little Tokyo and its plazas and temples. Dinner at Honda-Ya follows, along with my first taste of bitter melon, and then the evening ends with one of the best cocktails I’ve ever had. See you there! If you’d like to peruse more pictures of our trip in the meantime, head on over to our [photo blog](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/index.jpg).

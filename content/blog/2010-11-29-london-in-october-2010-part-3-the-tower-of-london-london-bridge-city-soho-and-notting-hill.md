@@ -244,7 +244,7 @@ Dinner was at Alounak, an Iranian restaurant in Notting Hill. It was probably th
 
 <div class="caption">
 
-![](http://www.blastanova.com/photoalbum/Adventures/London%20Oct%202010/london447.JPG) Cardamom tea and a tasty eggplant dish</div>
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/london447.jpg) Cardamom tea and a tasty eggplant dish</div>
 
 
 
@@ -252,11 +252,11 @@ Dinner was at Alounak, an Iranian restaurant in Notting Hill. It was probably th
 
 <div class="caption">
 
-![](http://www.blastanova.com/photoalbum/Adventures/London%20Oct%202010/london449.JPG) Chicken kebob sandwich</div>
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/london449.jpg) Chicken kebob sandwich</div>
 
 
 After dinner, we decided to hit up a couple more pubs for our last pints of the trip, and last chances to chat with Zahir and Scott.
 
-![](http://www.blastanova.com/photoalbum/Adventures/London%20Oct%202010/london451.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/london451.jpg)
 
 Scott was, of course, wonderful company, and it was great to have both a food guide and old friend on the trip. I’m lucky to be surrounded with lots of fellow world-travellers in North Carolina, but it’s rare that I manage to see high school friends with similar viewpoints on the world, politics, and good places for dinner.  In other words, London was awesome, and I could easily imagine myself jumping over for a weekend trip as easily as heading to DC or NYC if I’m in the mood for a big city escape. Unfortunately, it costs a bit more to fly 8 hours than to drive them. Sigh.

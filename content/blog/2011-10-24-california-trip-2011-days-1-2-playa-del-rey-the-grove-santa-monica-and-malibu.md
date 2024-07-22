@@ -1,10 +1,10 @@
 ---
 title: "California Trip 2011, Days 1 & 2: Playa del Rey, the Grove, Santa Monica, and Malibu"
 date: "2011-10-24"
-categories: 
+categories:
   - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "bar-chloe"
   - "barbecue-mac-and-cheese"
   - "beach"
@@ -33,7 +33,7 @@ tags:
   - "west-4th-and-jane"
 ---
 
-Ben and I spent the first two weeks of October in California, using the Adobe Max conference as an excuse for me to be back home, visiting friends and family in Los Angeles and Santa Cruz. First stop was my sister’s new pad on the beach at Playa del Rey. Let me tell you folks; it didn’t take me long to remember why I love CA when I saw her view. ![](http://www.blastanova.com/photoalbum/Adventures/CA%20Trip%202011/catrip002.jpg "Playa del Rey") [Head here](http://www.blastanova.com/photoalbum/Adventures/CA%20Trip%202011/catrip002.jpg) for the full panorama. In other words, my sister’s setup is sweet!
+Ben and I spent the first two weeks of October in California, using the Adobe Max conference as an excuse for me to be back home, visiting friends and family in Los Angeles and Santa Cruz. First stop was my sister’s new pad on the beach at Playa del Rey. Let me tell you folks; it didn’t take me long to remember why I love CA when I saw her view. ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/catrip002.jpg) for the full panorama. In other words, my sister’s setup is sweet!
 
 Having heard of so many impromptu performances at this mystical shopping land called the Grove, near downtown LA, I requested that we spend an afternoon there this trip. And so we did!
 
@@ -61,7 +61,7 @@ Turns out that the Grove segues right into the Los Angeles Farmer’s Market, wh
 
 Afterward, we headed back to Christa’s home to walk along the beach before the sunset. Turns out Christa had no idea there were tidal pools nearby with lots of crabs, urchins, and starfish. She pocketed several complete sand dollars as well—I consider myself a lucky charm. Luckier was being able to stay with them, because again, this---
 
-![](http://www.blastanova.com/photoalbum/Adventures/CA%20Trip%202011/catrip033.jpg "Playa at Sunset") --is just awesome. Again, [Head here](http://www.blastanova.com/photoalbum/Adventures/CA%20Trip%202011/catrip033.jpg) for the full panorama. Here are a few single shots of especially scenic sections of the beach and mountains.
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/catrip033.jpg) for the full panorama. Here are a few single shots of especially scenic sections of the beach and mountains.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/catrip036.jpg "catrip036")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/catrip036.jpg) [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/catrip037.jpg "catrip037")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/catrip037.jpg) [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/catrip039.jpg "catrip039")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/catrip039.jpg) Santa Monica called for the evening, and my cousin, Daniel, and Christa’s boyfriend, Joe, joined us for dinner and drinks at a few hotspots. Dinner was at [West 94th and Jane](http://west4thjane.com/), a relaxed pub with fun, experimental versions of pub fare. Ben and I shared the sliders with tater tots. They included a Kobe beef burger, one beef brisket, and one beer bratwurst. They were all fine, but none of them caught my fancy, and my confusion at the sliders fad continues. What did taste fantastic, however, was a menu item everyone at the table ordered: the Waygu beef burger that comes with barbecue mac and cheese (huge elbow noodles with chunks of ham and barbecue sauce). I don’t have good pictures, but believe me when I say you should try it. Mac and cheese is thrown into all sorts of dishes these days, but in this case, it really did make a burger better.
 

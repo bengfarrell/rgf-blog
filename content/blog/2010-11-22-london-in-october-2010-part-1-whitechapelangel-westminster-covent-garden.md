@@ -36,7 +36,7 @@ As most of you know, Ben and I headed to London for vacation last month. It was 
 
 <div class="caption">
 
-[![Click on Me for a better view](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/london039a.jpg)](http://www.blastanova.com/photoalbum/Adventures/London%20Oct%202010/london039a.jpg)
+[![Click on Me for a better view](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/london039a.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/london039a.jpg)
 
 View from St. James's Park Bridge--Click for a better view!</div>
 
@@ -404,4 +404,4 @@ Mussels Florentine and french fries</div>
 Waterzooi</div>
 
 
-And thus ended Day 2, well fed and ready for more on the morrow—seriously, we spent all day at food markets. 
+And thus ended Day 2, well fed and ready for more on the morrow—seriously, we spent all day at food markets.

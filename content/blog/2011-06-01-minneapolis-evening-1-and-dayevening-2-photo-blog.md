@@ -1,12 +1,12 @@
 ---
 title: "Minneapolis Evening 1 and Day/Evening 2--Photo Blog"
 date: "2011-06-01"
-categories: 
+categories:
   - "bars"
   - "cocktails"
   - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "2-gingers-whiskey"
   - "brain-splurge"
   - "cardamom"
@@ -134,4 +134,4 @@ _[![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/minneapolis135.jpg "min
 
 Oh my word, that was perfection. It was made with the same 2 Gingers whiskey, but it was infused with cardamom. I drank three, people, three. I couldn’t help myself. You absolutely must try it if you like your liquor strong and filled with spicy, delicious flavor. So smooth, so satisfying.
 
-The next Minneapolis blog will be on Day 3, including some lovely views of North Minneapolis, the St. Anthony Falls, and a tour of the Mill City Museum. Hope you’ll join me! In the meantime, [here’s the whole set](http://blastanova.com/photoalbum/index.html?path=Adventures/Minneapolis%202011) of photos.
+The next Minneapolis blog will be on Day 3, including some lovely views of North Minneapolis, the St. Anthony Falls, and a tour of the Mill City Museum. Hope you’ll join me! In the meantime, [here’s the whole set](https://thegourmez-wpmedia.s3.amazonaws.com/photoalbum/index.html?path=Adventures/Minneapolis%202011) of photos.
