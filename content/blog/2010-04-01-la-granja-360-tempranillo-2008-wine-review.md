@@ -19,7 +19,7 @@ tags:
 
 **Region:** Carinena, Spain
 
- ![](http://www.rebeccagomezfarrell.com/gourmez/photos/lagranja.jpg)
+ ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/lagranja.jpg)
 
 My first impression on drinking: This is not a great wine. Both the nose and first sip were of wet cigarettes. But other flavors worked their way in slowly, some tart raspberry, earth, leaves, and then clove, lots of clove. By the end, a layer of dark chocolate had also appeared.  The flavors, and my impression of the wine, mellowed from that first sip.
 

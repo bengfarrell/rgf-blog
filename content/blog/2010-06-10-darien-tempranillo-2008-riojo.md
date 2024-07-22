@@ -18,7 +18,7 @@ tags:
 
 **Region:** Logrono, Spain
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/darienrioja.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/darienrioja.jpg)
 
 This Spanish red rises to the roof of my mouth right away. There's some pucker for sure, too much for me. I taste orange, currant, and leafy bitter greens. I don't like drinking it; it's not full enough or balanced enough for me. No nose to speak of.
 

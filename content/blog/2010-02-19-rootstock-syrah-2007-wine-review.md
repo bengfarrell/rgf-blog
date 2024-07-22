@@ -17,7 +17,7 @@ tags:
 
 **Region:** North Coast, CA
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/rootstocksyrah.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/rootstocksyrah.jpg)
 
 Smell: Oak, touch of cinnamon, dash of plum.
 

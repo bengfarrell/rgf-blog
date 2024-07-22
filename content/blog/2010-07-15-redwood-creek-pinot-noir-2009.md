@@ -18,7 +18,7 @@ tags:
 **Other Words on the Label**\
 Modesto, California, bottling of French grapes
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/redwoodcreekpinot.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/redwoodcreekpinot.jpg)
 
 This pinot has a nose of blueberry, teriyaki, vanilla, and cardamom, and even though I don't like blueberries, it smells like it'd be a great sauce for duck or a thick steak.
 

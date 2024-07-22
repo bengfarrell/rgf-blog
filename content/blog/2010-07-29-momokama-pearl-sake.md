@@ -25,7 +25,7 @@ tags:
 Junmai Ginjo Nigori Genshu\
 Oregon
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/pearlsake.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/pearlsake.jpg)
 
 This sake is nigori, so it's unfiltered, and I'm happy to report that it doesn't taste like sour milk like the Snow Maiden nigori sake did. Instead, it's got a delicious creamy flavor of banana, breadfruit, and a bit of kiwi. There's a strong floral element also, which I'll dub lavender. Definitely enjoyable and I will drink it again, with pleasure.
 

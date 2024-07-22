@@ -18,7 +18,7 @@ tags:
 
 **Region:** Napa, California
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/bluefinchard.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/bluefinchard.jpg)
 
 This wine is bland on first sip, but then a note of eucalyptus chimes in. It's just a fleeting note, though, so bland still wins the day for me. It might be a stretch, but I think I taste pineapple and light brown sugar. It's quite sweet for a chardonnay and close to syrupy in texture.
 

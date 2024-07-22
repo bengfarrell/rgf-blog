@@ -15,7 +15,7 @@ tags:
 
 **Region:** Paso Robles, CA
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/novellasynergy.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/novellasynergy.jpg)
 
 This is a very smooth blend of bunches of varietals. The nose smells richly of ripe strawberries and blueberries. There's a hint of spice.
 

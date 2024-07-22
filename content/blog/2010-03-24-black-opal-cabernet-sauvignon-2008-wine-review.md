@@ -17,7 +17,7 @@ tags:
 
 **Region:** Southeastern Australia
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/blackopal.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/blackopal.jpg)
 
 Nose: Plum and spice—most notably, paprika.
 

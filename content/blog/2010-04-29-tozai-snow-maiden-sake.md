@@ -17,7 +17,7 @@ tags:
 
 **Region:** Kyoto, Japan
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/tozaisnowmaiden.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/tozaisnowmaiden.jpg)
 
 Snow Maiden is a junmai nigori sake; in other words, it's sake made with no added alcohol, only pure rice water with yeast, and is unfiltered. I've enjoyed unfiltered sake before, so figured why not try a more creamy one?  I think that was a mistake for me. You, of course, may like it as I think my opinion is mainly based on a bad mental image, which is entirely not the sake's fault.
 

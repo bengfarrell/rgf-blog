@@ -15,7 +15,7 @@ tags:
 
 **Region:** Southeastern Australia
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/mcwilliamsshiraz.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/mcwilliamsshiraz.jpg)
 
 Curry leaves and pepper come forward in the nose. The taste is interesting: cherry, not fully ripe, is foremost on the palate, but with a spicy tone that actually reminds me a lot of Trader Joe's Cherry Cider. I can down a jug of that beverage in no time at all, so this is a good sign for this wine. The spice is mellower here than in the cider, more like a hint or undercurrent of cinnamon and cardamom that mellows out the cherry. It is medium-bodied and I really dig it.
 

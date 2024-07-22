@@ -14,7 +14,7 @@ tags:
 
 **Region:** South Africa
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/rhineriesling.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/rhineriesling.jpg)
 
 Even after much swishing, the nose is elusive. Some grass, some lime, maybe.
 

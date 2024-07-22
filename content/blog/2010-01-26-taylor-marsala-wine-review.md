@@ -18,7 +18,7 @@ tags:
 
 **Region:** Finger Lakes, New York
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/taylormarsala.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/taylormarsala.jpg)
 
 The color of this dessert wine is fantastic. It's like looking at a blood red rose, with a copper hue around its edges.  It smells like port, with rich, dense, scents of overripe peach and tamarind.
 

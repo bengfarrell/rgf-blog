@@ -1,9 +1,9 @@
 ---
 title: "Kiuchi Yuzu Wine"
 date: "2010-04-21"
-categories: 
+categories:
   - "wine"
-tags: 
+tags:
   - "dessert-wines"
   - "japanese-wine"
   - "kiuchi-yuzu-wine"
@@ -16,7 +16,7 @@ tags:
 
 **Region:** Japan
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/yuzuwine.jpg) Yuzu is a citrus fruit native to Japan. I've never tried yuzu wine before, or even yuzu for that matter, so this glass will be my first impressions of both.
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/yuzuwine.jpg) Yuzu is a citrus fruit native to Japan. I've never tried yuzu wine before, or even yuzu for that matter, so this glass will be my first impressions of both.
 
 The color is a pleasant gold with some peach highlights. The nose is strong, sweet, and reminds me of peach again. Or perhaps the smell is of yuzu? Imagine that.
 

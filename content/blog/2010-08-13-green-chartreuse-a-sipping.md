@@ -1,9 +1,9 @@
 ---
 title: "Green Chartreuse, a sipping."
 date: "2010-08-13"
-categories: 
+categories:
   - "spirits"
-tags: 
+tags:
   - "bars"
   - "bitters"
   - "chartreuse"
@@ -17,7 +17,7 @@ tags:
 
 My lovely friend, Laura, paid close attention to my status updates and decided to buy me a bottle of green chartreuse, a liqueur I’ve been intrigued about for years but never had the chance to purchase. She found it in NYC and voila! A long-time wish is fulfilled.
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/chartreuse.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/chartreuse.jpg)
 
 Green chartreuse is a blend of 130 herbs from an 18th century recipe that monks from the Grand Chartreuse monastery are still making in France. The nose was full of horehound, licorice, and pine needles. Held up to the light, chartreuse has legs, and lots of little particles floating about as though they were sea monkeys. The beguiling green color beckoned me (the shade chartreuse comes from this liqueur), but those smells made me fear that it would be too close to gin for my liking—and it is on its own, but like gin, I think it’ll be great for cocktails. Personally, both alcohols are a bit too strong in flavor for me to drink on their own.
 
