@@ -21,17 +21,17 @@ Durham, NC\
 Sandwiches/Gyros: $6–$8\
 Platters: $7–$10
 
-![](http://www.thegourmez.com/gourmez/photos/idelights01.JPG)
+![](http://www.thegourmez.com/gourmez/photos/idelights01.jpg)
 
 International Delights is a staple of the Ninth Street dining scene, an order-at -the-counter spot that serves up lots of Middle Eastern fare but also some American subs for variety. If you are interested, they also have hookahs for sharing and selling.
 
-![](http://www.thegourmez.com/gourmez/photos/idelights04.JPG)  Their décor is rather odd, going for an international flair to support their name, I suppose, with paintings of Stonehenge, the Eiffel Tower, the Statue of Liberty, and American Indians on the walls in addition to framed displays of what I think are Arabic words and images done in . . . sequins!
+![](http://www.thegourmez.com/gourmez/photos/idelights04.jpg)  Their décor is rather odd, going for an international flair to support their name, I suppose, with paintings of Stonehenge, the Eiffel Tower, the Statue of Liberty, and American Indians on the walls in addition to framed displays of what I think are Arabic words and images done in . . . sequins!
 
-![](http://www.thegourmez.com/gourmez/photos/idelights03.JPG)
+![](http://www.thegourmez.com/gourmez/photos/idelights03.jpg)
 
 The tables are topped with little pots of fake flowers. Booth fabrics were brown and made of vinyl. The man at the register (owner?) was full of smiles and offered me and the man behind me a free drink for being first-time customers.  Having heard good things about it, I went for a falafel sandwich.
 
-![](http://www.thegourmez.com/gourmez/photos/idelights02.JPG)
+![](http://www.thegourmez.com/gourmez/photos/idelights02.jpg)
 
 I thought it made a really attractive, open-faced sandwich. The falafel were smashed, exposing their very green, and illusively spicy, innards. Their flavor was great, but they were overfried. The pita bread was lovely and warm. Toppings included iceberg lettuce, tomatoes, the occasional bite of diced cucumber, and not nearly enough parsley. I liked the tahini-it was light and creamy, making me wonder if it was actually a blend of tahini and tzatziki rather than straight tahini.
 

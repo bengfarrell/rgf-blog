@@ -29,15 +29,15 @@ Stalwart readers, I’ve been very social lately! My inner, introverted writer i
 
 Last Thursday was the third Tri Foodie Tweetup, this time held at [Lucky 32](http://www.lucky32.com/cary.htm) in Cary, and still hosted by Andrea Weigl (@andreaweigl) of the N&O and Johanna Kramer of local foodie renown (@durhamfoodie).
 
-![](http://www.thegourmez.com/gourmez/photos/lucky3201.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/lucky3201.jpg)
 
 For the low entrance fee of $6.11, Chef Jay Pierce kept the appetizers and samples of Southern-inspired dishes flowing. All the offerings were from the regular menu, so you can count on getting them if the photos inspire you. This was a casual affair, with a table us diners swirled about like vultures as each new platter came up, hoping to fill up and try them all as we mingled in the bar and on the patio.
 
-![](http://www.thegourmez.com/gourmez/photos/lucky3202.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/lucky3202.jpg)
 
-The restaurant is huge, and wonderfully attired for an atmosphere whore like myself. Rich, dark colors with lily lamps and a large patio are feasts for the Gourmez’s eyes. As for my lips, I was excited to try Chef Pierce’s offerings as I’ve heard mixed reviews of Lucky 32, mostly quite positive, but a few that made me wonder if the raves weren’t a bit exaggerated. The first bite I tried was a sweet potato hush puppy with creamy country gravy. The gravy was great: without it the sweet potato would have been too much, and to the chef’s credit, he insisted that the hushpuppies not be eaten without it. I would still have liked half as much hush puppy, but it was a fun combination regardless. After that, I loaded my plate up with the next items to hit the table, and enjoyed them while talking with Christie (@mrestaurantguru) of the [My Restaurant Guru](http://www.myrestaurantguru.com/index.html) site. Thanks for the London tips, Christie! I hope to put them to good use, soon. 
+The restaurant is huge, and wonderfully attired for an atmosphere whore like myself. Rich, dark colors with lily lamps and a large patio are feasts for the Gourmez’s eyes. As for my lips, I was excited to try Chef Pierce’s offerings as I’ve heard mixed reviews of Lucky 32, mostly quite positive, but a few that made me wonder if the raves weren’t a bit exaggerated. The first bite I tried was a sweet potato hush puppy with creamy country gravy. The gravy was great: without it the sweet potato would have been too much, and to the chef’s credit, he insisted that the hushpuppies not be eaten without it. I would still have liked half as much hush puppy, but it was a fun combination regardless. After that, I loaded my plate up with the next items to hit the table, and enjoyed them while talking with Christie (@mrestaurantguru) of the [My Restaurant Guru](http://www.myrestaurantguru.com/index.html) site. Thanks for the London tips, Christie! I hope to put them to good use, soon.
 
-![](http://www.thegourmez.com/gourmez/photos/lucky3203.JPG)  ![](http://www.thegourmez.com/gourmez/photos/lucky3204.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/lucky3203.jpg)  ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/lucky3204.jpg)
 
 In the foreground of the first shot are Voodoo Pig Bread---pulled pork with voodoo glaze, Goat Lady chèvre, red onion, and fresh cilantro on ciabatta---and Jazz Fest Shrimp Bread---also, I think, on ciabatta with a creamy alfredo type of sauce. Christie and I both enjoyed the toppings and the bread separately, but thought the vibrant, spicy sauces weren’t that suited to being served on bread, if that makes sense. I could easily see the shrimp in a delicious pasta dish and the wonderful, sweet and spicy pork as a lump meat offering perhaps on a warm salad.
 
@@ -45,19 +45,19 @@ In the second picture, a teeny bite of fried chicken liver with corn maque choux
 
 Next, I made friends with a couple made of one local and one transplant, and I was introduced to Shana of [Anna Mae Breads](http://www.annamaebreads.com/) (@annamaebreads) by [Debbie Moose](http://www.debbiemoose.com/index.cfm) (@DebbieMoose), one of the N&O’s wonderful food writers, a deviled egg enthusiast (I want to see that costume, Debbie!,) and a highly entertaining conversationalist. Shana is just as entertaining, and made a great many jokes about her buns . . . Southern sourdough buns, that is! They are the star of Lucky 32’s pork belly sliders, the Whistle Bite Sliders with green tomato chow chow. If you’re a Californian like me, don’t expect them to taste sour! The South doesn’t have the same bacteria in the air to work its way into sourdough starter like we do on our coast, so it’s a product unique to the region. Sourdough merely connotes the method used to create the bread.
 
-![](http://www.thegourmez.com/gourmez/photos/lucky3206.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/lucky3206.jpg)
 
 I’m not usually a fan of pork belly, finding the fat marbling a bit too much for my taste buds in most cases, but in combination with Shana’s sweet, chewy rolls, it was perfect. Some of my other foodie friends weren’t that impressed, but I could not have been happier with this combination.
 
 Next, I plated up an offering of Southern sides and a bit of pork.
 
-![](http://www.thegourmez.com/gourmez/photos/lucky3205.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/lucky3205.jpg)
 
 I think that plate had whipped sweet potatoes, creamy grits topped with a luscious spicy sauce, collards, fried grit cakes, and more pulled pork. They were nicely done versions of standard Southern offerings, especially the creamy grits and grit cake.
 
 Now the dessert offerings needed some more work. I can hear Eric and Leandra (@tlkativ) gasping now that I’m going to give the restaurant horrible marks because of that last comment. ,)
 
-![](http://www.thegourmez.com/gourmez/photos/lucky3207.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/lucky3207.jpg)
 
 On this plate, you see persimmon bread pudding with Southern Comfort sauce, buttermilk pie, and chocolate chess pie. The bread pudding was too chewy, perhaps overcooked. The buttermilk pie was okay, but definitely grainier than I like, though I enjoyed the lemon in it. The chocolate chess pie was closer to a success as it was very rich and lush, but it also suffered from that grainy texture.
 

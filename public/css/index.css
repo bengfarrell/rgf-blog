@@ -92,7 +92,7 @@ section .more-posts {
 
 #page-content p video,
 #page-content p img {
-	max-width: 100%;
+	max-width: 500px;
 	text-align: center;
 	display: block;
 	margin: 0 auto;

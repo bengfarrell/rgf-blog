@@ -14,7 +14,7 @@ tags:
   - "white-chocolate"
 ---
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/fuerzablancos.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/fuerzablancos.jpg)
 
 **Region:** Mendoza, Argentina
 

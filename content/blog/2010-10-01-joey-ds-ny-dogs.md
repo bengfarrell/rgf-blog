@@ -1,9 +1,9 @@
 ---
 title: "Joey D's NY Dogs *CLOSED*"
 date: "2010-10-01"
-categories: 
+categories:
   - "food-trucks"
-tags: 
+tags:
   - "buffalo-hot-dogs"
   - "durham"
   - "hot-dog-cart"
@@ -24,13 +24,13 @@ Joey D’s NY Dogs is a new food cart offering freshly grilled, Sahleen brand ho
 
 Joey hopes to expand to more carts and a food truck in the future, but for now, the operation is limited to a portable grill cart and lots of coolers.
 
-![](http://www.thegourmez.com/gourmez/photos/joeyds01.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/joeyds01.jpg)
 
 Those umbrellas in the back are where Joey D's NY Dogs are for now. There’s one bench to sit on in the Rock Shop lot, but otherwise, no seating. So unless you are one of those impressive people who can eat a hot dog in two bites, you’re probably best off taking your dogs to go. The options are regular dogs, foot-long dogs, bratwursts, or sausages in the flavors of chicken, spicy kabanosi, italian, and polish. Toppings available are relish, Joey D’s hot dog sauce, ketchup, onions, and yellow, horseradish, or spicy brown mustards. For an extra 50 cents, you can get meat chili, sauerkraut, coleslaw or a combo of green peppers and onions. I ordered a regular dog and a spicy kabanosi sausage both with onions and the hot dog sauce.
 
-![](http://www.thegourmez.com/gourmez/photos/joeyds02.JPG) The worker grilled both of the dogs as I waited. The hot dog was a light pink color, and it tasted plenty good, obviously better than a boiled one, but that goes without saying. The hot dog sauce is relished-based, mixed up with some mildly spicy red sauce, and I thought it was excellent—the perfect condiment for a hot dog for someone like me who doesn’t like mustard or ketchup.
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/joeyds02.jpg) The worker grilled both of the dogs as I waited. The hot dog was a light pink color, and it tasted plenty good, obviously better than a boiled one, but that goes without saying. The hot dog sauce is relished-based, mixed up with some mildly spicy red sauce, and I thought it was excellent—the perfect condiment for a hot dog for someone like me who doesn’t like mustard or ketchup.
 
-![](http://www.thegourmez.com/gourmez/photos/joeyds03.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/joeyds03.jpg)
 
 The grilled flavor was more noticeable, and very welcome, in eating the spicy kabanosi sausage. The charred, slightly crunchy skin was perfect, but I wouldn’t say it was a spicy dog—I’m a heat fiend, so my palate doesn’t recognize something as hot until it’s really hot. Regardless, the meat was great.
 

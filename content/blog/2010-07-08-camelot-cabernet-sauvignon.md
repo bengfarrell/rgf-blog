@@ -14,7 +14,7 @@ tags:
 
 **Region:** California
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/camelotcabsav.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/camelotcabsav.jpg)
 
 What's that, you say? Where's the year? No vintage for you who are so conditioned to expect silly information such as dates with your wine. No, Camelot Cabernet Sauvignon does not wish for you to predispose your tastes with preconceptions of what years might make a good wine. You must drink their wine blindly. Since I always drink blindly, because I don't have any clue what years were good years (that would take research!), it isn't a problem for me.
 

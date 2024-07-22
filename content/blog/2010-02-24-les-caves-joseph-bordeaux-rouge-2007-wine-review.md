@@ -18,7 +18,7 @@ tags:
 
 **Region:** France
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/lescavesjosephbordeaux.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/lescavesjosephbordeaux.jpg)
 
 This Bordeaux smells peppery and tingles my nose. It is dry and tart, with a berry flavor of deep, dark cherries. There's an extra layer to it that's like molasses but not sweet  . . . rum notes?
 

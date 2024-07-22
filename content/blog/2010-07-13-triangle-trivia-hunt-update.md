@@ -33,6 +33,6 @@ It gets crowded, but I don't think we've needed a reservation as yet. Each round
 
 - [West 94th Street Pub](http://www.west94stpub.com/), right down the road from Ben and me, are holding weekly trivia nights now. Think I can convince the Swim Team to come our way to try them out? Any blog readers gone to their trivia night yet?
 
-I think this post now qualifies for the greatest amount of links I've ever had in one post. Oh wait, no; that was the [outdoor seating list](http://carpedurham.com/2010/03/23/outdoor-dining-spots/) I compiled for [Carpe Durham](http://carpedurham.com/2010/03/23/outdoor-dining-spots/) from bloggers' and readers' suggestions. Sorry if the links are obnoxious! I suppose if they were too bad, you'd have stopped reading by now, anyhow.
+I think this post now qualifies for the greatest amount of links I've ever had in one post. Oh wait, no; that was the [outdoor seating list](https://thegourmez-wpmedia.s3.amazonaws.com/2010/03/23/outdoor-dining-spots/) I compiled for [Carpe Durham](https://thegourmez-wpmedia.s3.amazonaws.com/2010/03/23/outdoor-dining-spots/) from bloggers' and readers' suggestions. Sorry if the links are obnoxious! I suppose if they were too bad, you'd have stopped reading by now, anyhow.
 
 If you have a favorite trivia location, please let us know! The hunt for the perfect spot for us continues, mainly because I get bored with drink lists too often. Yes, I'm the hard-to-please member of the team!

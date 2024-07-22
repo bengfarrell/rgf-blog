@@ -18,7 +18,7 @@ tags:
 
 **Region:** Napa Valley, CA
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/screwkappanappa.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/screwkappanappa.jpg)
 
 First, I just have to say that I love the brand name _Screw Kappa Napa_. It's so much fun to say and seems wittier than it is, really, kind of like my nom de plume. Plus, the label has a pretty raised pattern that you might not be able to see in the picture, and I dig the fresh, clean design of their initials with slashes. Seriously, the little things do count. Or at least entertain.
 

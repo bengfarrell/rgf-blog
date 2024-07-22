@@ -17,7 +17,7 @@ I'm really low on alcohol right now, so don't judge me. It strikes me that nearl
 
 **Rum Bang Bang**
 
-![](http://www.thegourmez.com/gourmez/photos/rumbangbang.JPG)
+![](http://www.thegourmez.com/2024/07/rumbangbang.jpg)
 
 2 shots Bacardi Gold Rum\
 0.5 shot Galliano\

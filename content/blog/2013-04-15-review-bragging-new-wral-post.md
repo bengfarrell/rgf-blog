@@ -1,10 +1,10 @@
 ---
 title: "Review Bragging - New WRAL Post"
 date: "2013-04-15"
-categories: 
+categories:
   - "announcements"
   - "restaurants"
-tags: 
+tags:
   - "beans"
   - "carpe-durham"
   - "durham"
@@ -25,11 +25,11 @@ I'm a little (a lot) behind on the times in that I'm just now posting this tease
 But enough of my behind-the-scenes issues. Here's a teaser of my review of Sarah's Empanadas:
 
 > Durham, N.C. — Sarah’s Empanadas is one of those lunch locations the RTP crowd keeps close to their vests. I’ve spied it many times when heading to dinner at Papa Mojo’s or Thai Lanna, but it’s only open at midday, so getting there during operating hours was a challenge—a challenge now conquered!
-> 
+>
 > **The Company:** A pair of women whom I meet up with every month to try a new-to-us lunch location, which was quite convenient for this purpose.
-> 
+>
 > **The Location:** A nondescript strip mall exterior hides a cozy restaurant. Inside, Sarah’s Empanadas is adorned with tropical bird decorations, creamy mint walls, and a giant, colorful mural. It’s also likely to be packed with diners and a long line of patrons paying at the register. Never fear, the cashier is speedy and has amazing credit-card-sliding reflexes....
 
-Want to know more about the Bolivian empanada wonderland? Read on [here](http://www.wral.com/restaurant-review-sarah-s-empanadas/12226626/ "WRAL Sarah's Empanadas") or head to _Carpe Durham_ for a [slightly different version](http://carpedurham.com/2013/03/31/sarahs-empanadas/ "Carpe Durham").  And I wouldn't leave you without some food porn. Here's the chicken and cheese empanada.
+Want to know more about the Bolivian empanada wonderland? Read on [here](http://www.wral.com/restaurant-review-sarah-s-empanadas/12226626/ "WRAL Sarah's Empanadas") or head to _Carpe Durham_ for a [slightly different version](https://thegourmez-wpmedia.s3.amazonaws.com/2013/03/31/sarahs-empanadas/ "Carpe Durham").  And I wouldn't leave you without some food porn. Here's the chicken and cheese empanada.
 
 [![Sarahs Empanadas 06](http://s3.amazonaws.com/thegourmez-wpmedia/2013/04/Sarahs-Empanadas-06.jpg)](http://www.thegourmez.com/2013/04/review-bragging-new-wral-post/sarahs-empanadas-06/)

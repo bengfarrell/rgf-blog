@@ -22,25 +22,25 @@ Sandwiches: $5.99\
 Double Cappuccino: $3.29\
 Hours: 7 am–3 pm, Monday through Friday
 
-![](http://www.thegourmez.com/gourmez/photos/jumpnjava1.JPG)
+![](http://www.thegourmez.com/2024/07/jumpnjava1.jpg)
 
 Jump'n Java Café is a coffee house/sandwich shop in RTP with brightly colored yellow, red, and green walls. They have old wooden booths, a few small tables, one large table, and conference room space in the back. I found the space inviting, and the clientele seemed to be mainly people grabbing lunch during their workday. A lot of them seemed to be regulars.
 
-![](http://www.thegourmez.com/gourmez/photos/jumpnjava2.JPG)
+![](http://www.thegourmez.com/2024/07/jumpnjava2.jpg)
 
 Free wireless is available. I think food is actually more the focus than coffee, as the espresso in my cappuccino was nice and bitter, but the foam was too airy with large bubbles, usually a sign that the milk was heated too hot. I prefer my foam either dry and stiff or wet and luscious. They also have macha, rooibas (red espresso), and green tea drink options.
 
-![](http://www.thegourmez.com/gourmez/photos/jumpnjava6.JPG)  Breakfast options include quiches and croissants or toast with meat, egg, and cheese.
+![](http://www.thegourmez.com/2024/07/jumpnjava6.jpg)  Breakfast options include quiches and croissants or toast with meat, egg, and cheese.
 
-![](http://www.thegourmez.com/gourmez/photos/jumpnjava5.JPG)
+![](http://www.thegourmez.com/2024/07/jumpnjava5.jpg)
 
 Lunch offerings are sandwiches, teriyaki and curry bowls, and quiche, again. At least half the sandwiches have artichoke hearts as a filling, and that is a-ok with me. I have a love affair with artichoke hearts, and Jump'n Java Café does too, apparently.
 
-![](http://www.thegourmez.com/gourmez/photos/jumpnjava4.JPG)
+![](http://www.thegourmez.com/2024/07/jumpnjava4.jpg)
 
 I went with the Giardini sandwich, which has those artichoke hearts, tomato, broccoli, cheddar, and provolone all served on a ciabetta roll.
 
-![](http://www.thegourmez.com/gourmez/photos/jumpnjava3.JPG)
+![](http://www.thegourmez.com/2024/07/jumpnjava3.jpg)
 
 While the broccoli was skimped on, the artichoke and cheeses gave the sandwich great flavor, and the ciabetta was really good.
 

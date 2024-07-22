@@ -1,10 +1,10 @@
 ---
 title: "Corn Maze Adventure 2010!"
 date: "2010-10-14"
-categories: 
+categories:
   - "events"
   - "travel-guides"
-tags: 
+tags:
   - "corn-maze"
   - "corn-maze-adventure"
   - "corn-rows"
@@ -19,35 +19,35 @@ tags:
 
 This year’s Corn Maze Adventure came courtesy of [Mckee’s Farm](http://www.mckeecornfieldmaze.com/), in Rougement, NC, about forty minutes away from us. In addition to a few farm animals and Mapleview Farm ice cream, they’ve got the largest maze we’ve tried yet: 12 acres!
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201001.JPG) The Welcome Sign
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201001.jpg) The Welcome Sign
 
 Before we headed in, we spent some time taking pictures of the farm animals, which included a donkey, a couple of goats, a rabbit, and some roosters.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201006.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201006.jpg)
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201008.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201008.jpg)
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201009.JPG)  Also, they had the rare and dangerous wild corn cob.
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201009.jpg)  Also, they had the rare and dangerous wild corn cob.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201004.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201004.jpg)
 
 Melissa obliges my photo-op request
 
 And of course, I made Ben pose inside the tractor cut-out.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201012.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201012.jpg)
 
 A Jack O’Hay Bale losing his straw. So sad.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201022.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201022.jpg)
 
 This friendly scarecrow pointed us in the right direction, lest we got lost—and more embarrassed—in the children’s maze instead. We broke into groups by whoever happened to be closest together and headed off in separate directions, and on a leisurely pace for our group of Ben, Brian, Dawn, Erika, and myself.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201013.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201013.jpg)
 
 Dawn is pretending that her cell phone cut out for the camera here, as being in a cornfield demands it.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201015.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201015.jpg)
 
 And here she is, being stalked by my hands!
 
@@ -63,19 +63,19 @@ Erika used a system of corncobs, arrows in the dirt, and chapstick that made a l
 
 ![](http://farm5.static.flickr.com/4133/5072512374_d6d28c7167_z.jpg) Brian’s photo of Erika’s technique
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201014.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201014.jpg)
 
 Rows of corn
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201018.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201018.jpg)
 
 Corn stalk growing skyward . . . like they always do. I'm so profound.
 
 After an hour and a half or so, Dawn, Brian, and Erika threw in the towel with only half our stations found. Ben and I continued on stalwartly, occasionally glimpsing Laura C., Jordan, and Melissa C. through the corn field haze—or were they mirages? Another half an hour later and only one more station down, Ben and I admitted defeat also.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201019.JPG) Me very sad at failure
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201019.jpg) Me very sad at failure
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201021.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201021.jpg)
 
 The damning evidence
 
@@ -83,6 +83,6 @@ Only about ten minutes later, the final three emerged victorious! Okay, they rea
 
 The group, minus Melissa B. who had a date with a farmer’s market, relaxed in the shade with more ice cream before ending our adventure. I also picked up an $8 pumpkin from the farm’s selection and promptly carved him into a charming, happy, cyclops jack o’lantern.
 
-![](http://www.blastanova.com/photoalbum/Adventures/Corn%20Maze%202010/cornmaze201024.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cornmaze201024.jpg)
 
 Any afternoon that ends with a face like that is a good afternoon, even with failing at the corn maze.

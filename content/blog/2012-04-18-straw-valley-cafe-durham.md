@@ -1,11 +1,11 @@
 ---
 title: "Straw Valley Café *CLOSED*"
 date: "2012-04-18"
-categories: 
+categories:
   - "coffee-shops"
   - "sake"
   - "wine"
-tags: 
+tags:
   - "15-501"
   - "art-studio"
   - "bar"
@@ -32,7 +32,7 @@ New Hope Commons, Durham, NC\
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/strawvalleycafe01.jpg "strawvalleycafe01")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/strawvalleycafe01.jpg)
 
-You may not have heard about Straw Valley Café from the [Independent Weekly](http://www.indyweek.com/indyweek/straw-valley-cafe-an-oasis-near-the-interstate/Content?oid=2711836), [Herald-Sun](http://www.heraldsun.com/view/full_story/16006313/article-Straw-Valley-Caf%C3%A9---Wine-Shop-opens?instance=homefourthleft), or [Carpe Durham](http://carpedurham.com/2011/12/10/straw-valley-cafe/) articles on this coffeehouse, bar, and art gallery, but that shouldn’t stop you from visiting it. What might is its difficult-to-access location. It’s right off of Business 15-501; you can see it on the side of the road, but you can’t access it without turning onto the surface road right behind New Hope Commons. Take that first road past the Barnes and Nobles and Jason’s Deli, then follow it until you see the sign pointing toward the café’s gravel driveway. Then park and follow the signs to reach the coffee shop proper.
+You may not have heard about Straw Valley Café from the [Independent Weekly](http://www.indyweek.com/indyweek/straw-valley-cafe-an-oasis-near-the-interstate/Content?oid=2711836), [Herald-Sun](http://www.heraldsun.com/view/full_story/16006313/article-Straw-Valley-Caf%C3%A9---Wine-Shop-opens?instance=homefourthleft), or [Carpe Durham](https://thegourmez-wpmedia.s3.amazonaws.com/2011/12/10/straw-valley-cafe/) articles on this coffeehouse, bar, and art gallery, but that shouldn’t stop you from visiting it. What might is its difficult-to-access location. It’s right off of Business 15-501; you can see it on the side of the road, but you can’t access it without turning onto the surface road right behind New Hope Commons. Take that first road past the Barnes and Nobles and Jason’s Deli, then follow it until you see the sign pointing toward the café’s gravel driveway. Then park and follow the signs to reach the coffee shop proper.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/strawvalleycafe18.jpg "strawvalleycafe18")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/strawvalleycafe18.jpg)
 

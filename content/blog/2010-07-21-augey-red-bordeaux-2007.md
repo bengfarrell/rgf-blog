@@ -17,7 +17,7 @@ tags:
 
 **Region:** France
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/auguybordeaux.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/auguybordeaux.jpg)
 
 This is a subtle wine with a lot of flavor, which may be a contradiction of sorts. It's full of fruit--the fruitiest wine I've had in a while, truth be told. It's also pretty thick. I like the simple berry goodness; there's a smorgasbord of blackberry, raspberry, and strawberry all begging for your attention. The amount of oak is just right for me; it's enough that you have to consider if a toothpick may have fallen in the wine but not too much that I actually consider wood to be a flavor component. There's also a hint of vanilla.
 

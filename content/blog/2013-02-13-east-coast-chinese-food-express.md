@@ -1,9 +1,9 @@
 ---
 title: "East Coast Chinese Food Express"
 date: "2013-02-13"
-categories: 
+categories:
   - "restaurants"
-tags: 
+tags:
   - "beef"
   - "boneless-spareribs"
   - "chicken"
@@ -23,35 +23,35 @@ tags:
 
 202 NC Hwy 54\
 Inside the Kroger, South Durham, NC\
-[Website](http://www.eastcoastchinesefoodexpress.com/)\ 
+[Website](http://www.eastcoastchinesefoodexpress.com/)\
 Open Mondays–Saturdays 11 am to 3 pm, 4 pm to 10 pm\
 $7–$12\
 
-[![](http://carpedurham.com/wp-content/uploads/2013/02/East-Coast-Express-00.jpg)](http://carpedurham.com/?attachment_id=23094)
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/East-Coast-Express-00.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/?attachment_id=23094)
 
 I've heard many good things about East Coast Chinese Food Express. They’ve been located inside the Kroger by the Highway 54 and Fayetteville intersection for quite some time. It’s a small café, mainly for to-go orders, but there are a few tables if you want to sit and eat in the grocery store. Everyone else ordering was a regular and on friendly terms with the owner at the register. Food is cooked to order, so it’ll take 10 to 20 minutes depending on how crowded it is. There are menus everywhere, so figuring out your options can seem a tad overwhelming. Make sure you take a look at them in addition to the printed English menu.
 
-[![](http://carpedurham.com/wp-content/uploads/2013/02/East-Coast-Express-02.jpg)](http://carpedurham.com/?attachment_id=23100)
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/East-Coast-Express-02.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/?attachment_id=23100)
 
-[![](http://carpedurham.com/wp-content/uploads/2013/02/East-Coast-Express-01.jpg)](http://carpedurham.com/?attachment_id=23099)
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/East-Coast-Express-01.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/?attachment_id=23099)
 
 Slushies and bubble teas are available. Additionally, there is a Chinese menu with traditional Chinese dishes versus Americanized ones, and that’s what our readers have highly recommended—ask the woman at the register for it. I don’t speak or read Chinese, however, so I stuck with the regular menu full of Hunan, Szechuan, Cantonese, and Japanese preparations. And I can tell you that it blew my other options in South Durham out of the water.
 
-[![](http://carpedurham.com/wp-content/uploads/2013/02/East-Coast-Express-03.jpg)](http://carpedurham.com/?attachment_id=23098)
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/East-Coast-Express-03.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/?attachment_id=23098)
 
 The boneless spare ribs are definitely the best I’ve had. It’s a generous portion, and the pork is cut in thick slices. The sauce’s flavor is fantastic, and there’s plenty of it, so spoon that goodness over extra rice.
 
-[![](http://carpedurham.com/wp-content/uploads/2013/02/East-Coast-Express-04.jpg)](http://carpedurham.com/?attachment_id=23096)
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/East-Coast-Express-04.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/?attachment_id=23096)
 
 The rice itself was cooked well with no stickiness or clumping. It was great with the sha cha chicken, which we ordered at 3x spicy.
 
-[![](http://carpedurham.com/wp-content/uploads/2013/02/East-Coast-Express-06.jpg)](http://carpedurham.com/?attachment_id=23095)
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/East-Coast-Express-06.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/?attachment_id=23095)
 
 Was it that spicy? I’d call it medium, but that’s more heat than you can get at a lot of places. The chicken was tender and moist. There were crisp vegetables all over the place, the standard stir-fry mix of broccoli, carrots, mushrooms, bell peppers, baby corn, and water chestnuts. The sauce itself avoided oiliness and lent a light flavor to the stir-fry.
 
 Our last dish was the beef mei fun.
 
-[![](http://carpedurham.com/wp-content/uploads/2013/02/East-Coast-Express-05.jpg)](http://carpedurham.com/?attachment_id=23097)
+[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/East-Coast-Express-05.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/?attachment_id=23097)
 
 The rice vermicelli was cooked perfectly, and the beef was good. Shredded cabbage and carrots were the main accompaniments, and they were also good, but the dish was a bit dry overall.
 

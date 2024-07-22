@@ -15,7 +15,7 @@ tags:
 
 **Region:** Langeoudoc, France
 
-![](http://www.thegourmez.com/gourmez/photos/arrogantfrog.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/arrogantfrog.jpg)
 
 The Lily Pad Red is a mix of cabernet sauvignon and merlot, both perfectly good wines for blending but I appreciate best on their own. It smells of beef jerky and cherries. The cherries are more prominent than expected when sipping.
 

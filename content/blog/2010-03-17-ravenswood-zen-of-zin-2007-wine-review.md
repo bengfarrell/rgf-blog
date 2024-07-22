@@ -19,7 +19,7 @@ tags:
 
 **Region:** Sonoma County, CA
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/zenofzin.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/zenofzin.jpg)
 
 The nose of this old vine Zinfandel is really nice and earthy. I could sit and smell it for a while. Of course, I wouldn't get much drinking done then, would I?
 

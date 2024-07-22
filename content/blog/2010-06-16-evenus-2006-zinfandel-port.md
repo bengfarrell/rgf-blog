@@ -17,7 +17,7 @@ tags:
 
 **Region:** Paso Robles, CA
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/evenuszinport.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/evenuszinport.jpg)
 
 The nose of this lovely dessert wine is mainly black raspberry, but there's also a hint of licorice, making this a combo that my black-raspberry-gumdrop and black-licorice-loving father would have loved. If he drank. Which he didn't, really. Okay . . . back on track. The first flavor that comes to mind on sipping is mocha, followed by both the black raspberry and licorice. There are a lot of wonderful flavors in this port. It's dense and very, very good in my port-loving opinion. It would be perfect for any rich, chocolate dessert you could think of. Or, you know, to drink alone, because that's how I roll.
 

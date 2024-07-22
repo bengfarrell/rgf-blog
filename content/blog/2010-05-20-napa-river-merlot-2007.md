@@ -16,7 +16,7 @@ tags:
 
 **Region:** Napa County, CA
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/naparivermerlot.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/naparivermerlot.jpg)
 
 Nose: Clove, tobacco, and prune in that order.
 

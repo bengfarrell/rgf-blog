@@ -15,7 +15,7 @@ tags:
 
 **Region:** Paso Robles, CA
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/novellazin.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/novellazin.jpg)
 
 This wine has everything I love in a zinfandel, especially that dense layer of tobacco beneath the rest of its flavors. There are thick, juicy berries along with some dried currant texture. Honestly, the Novella Zinfandel seems really well done for a zinfandel at this price range, but that might be my new aerator talking. There's a mild sweetness to it that enhances all the flavors, and a lovely cinnamon aftertaste washes it all down.
 

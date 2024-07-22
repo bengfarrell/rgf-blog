@@ -1,13 +1,13 @@
 ---
 title: "California Trip 2011, Day 4: Tiara Café, Little Tokyo, and the Barbacoa"
 date: "2011-11-07"
-categories: 
+categories:
   - "restaurants"
   - "sake"
   - "spirits"
   - "cocktails"
   - "travel-guides"
-tags: 
+tags:
   - "barbacoa"
   - "beef-jerky"
   - "centenary-united-methodist"
@@ -170,4 +170,4 @@ then Christa dropped me off at the Rivera, a restaurant and bar that her friend 
 
 That beautiful drink was made with mezcal (tequila is also an option), lemon juice, agave nectar, ginger syrup, chipotle in adobe, lime, red bell pepper, and beef jerky, those last two items being garnishes that give much more flavor than garnishes typically do. It’s a spicy drink with all the right proportions for a tasty, tingly treat. Let me tell you, the bartenders at the Rivera know their stuff. Watching them move is a treat of its own, and the talkative locals I encountered were also a plus. If you don’t mind paying for a great drink and the décor to go with it, then definitely try out Rivera.
 
-Once Ben joined me and had finished his own Barbacoa, our hotel room was calling. Day 4 in LA was at an end. Never fear, there were more food and sightseeing adventures on the morrow, including Chinatown in the pouring rain and an extra special dinner at Bouchon in Beverly Hills, complete with celebrity sightings. Until then, if you’d like to peruse more pictures of our trip, head on over to our [photo blog](http://www.blastanova.com/photoalbum/index.html?path=Adventures/CA%20Trip%202011).
+Once Ben joined me and had finished his own Barbacoa, our hotel room was calling. Day 4 in LA was at an end. Never fear, there were more food and sightseeing adventures on the morrow, including Chinatown in the pouring rain and an extra special dinner at Bouchon in Beverly Hills, complete with celebrity sightings. Until then, if you’d like to peruse more pictures of our trip, head on over to our [photo blog](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/index.jpg).

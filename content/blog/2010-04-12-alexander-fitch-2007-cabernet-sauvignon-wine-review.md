@@ -18,7 +18,7 @@ tags:
 
 **Region:** Alexander Valley, CA
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/alexanderfitchcabsav.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/alexanderfitchcabsav.jpg)
 
 This red was really dense on first sip, with lots of chocolate, spice, and fruit. Those are all things that are good. The nose had the same qualities, except there was a light element of menthol as well. It was tart but in that great, jam-like way that tantalizes the taste buds. It's medium-bodied with a sweetness that creeps up on you after a few sips. An intriguing, lively wine.
 

@@ -26,7 +26,7 @@ tags:
 2 shots blackberry juice\
 A few champagne grapes
 
-![](http://www.thegourmez.com/gourmez/photos/spicedblackberryjam.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/spicedblackberryjam.jpg)
 
 Shake everything together but the grapes. Place a few grapes in each cocktail glass, then pour the cocktail on top. Of course, using blackberries would make a lot more sense, but I didn't have them, and the champagne grapes worked very well.
 

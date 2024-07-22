@@ -1,9 +1,9 @@
 ---
 title: "Travelogue—Wilmington, NC"
 date: "2010-08-17"
-categories: 
+categories:
   - "travel-guides"
-tags: 
+tags:
   - "cape-fear-memorial-bridge"
   - "cape-fear-river"
   - "market-street"
@@ -20,30 +20,30 @@ That doesn't mean I have pictures of the hotel, or the beach for that matter. No
 
 Cape Fear Memorial Bridge:
 
-![](http://www.blastanova.com/photoalbum/Adventures/Wilmington/wilmington14.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wilmington14.jpg)
 
 An interesting storeback on the right:
 
-![](http://www.blastanova.com/photoalbum/Adventures/Wilmington/wilmington01.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wilmington01.jpg)
 
 Racy Miss Piggy (isn't she always such a tramp?):
 
-![](http://www.blastanova.com/photoalbum/Adventures/Wilmington/wilmington02.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wilmington02.jpg)
 
 Slowly sinking ship across the river:
 
-![](http://www.blastanova.com/photoalbum/Adventures/Wilmington/wilmington10.JPG)Riverboat heading downriver:
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wilmington10.jpg)Riverboat heading downriver:
 
-![](http://www.blastanova.com/photoalbum/Adventures/Wilmington/wilmington08.JPG)Storefront without a back or middle:
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wilmington08.jpg)Storefront without a back or middle:
 
-![](http://www.blastanova.com/photoalbum/Adventures/Wilmington/wilmington28.JPG)The Riverwalk:
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wilmington28.jpg)The Riverwalk:
 
-![](http://www.blastanova.com/photoalbum/Adventures/Wilmington/wilmington15.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wilmington15.jpg)
 
 USS North Carolina:
 
-![](http://www.blastanova.com/photoalbum/Adventures/Wilmington/wilmington27.JPG)Walking toward the bridge:
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wilmington27.jpg)Walking toward the bridge:
 
-![](http://www.blastanova.com/photoalbum/Adventures/Wilmington/wilmington20.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wilmington20.jpg)
 
 

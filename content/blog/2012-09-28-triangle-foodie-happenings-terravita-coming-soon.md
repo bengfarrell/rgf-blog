@@ -38,7 +38,7 @@ A couple of years ago, I attended the first **Grand Tasting on the Green**, and 
 
 <div class="caption">
 
-![](http://www.blastanova.com/photoalbum/Events/Terra%20Vita/terravita23.JPG "TerraVITA 23")</div>
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/terravita23.jpg)</div>
 
 
 
@@ -46,7 +46,7 @@ A couple of years ago, I attended the first **Grand Tasting on the Green**, and 
 
 <div class="caption">
 
-![](http://www.blastanova.com/photoalbum/Events/Terra%20Vita/terravita15.JPG "TerraVITA 15")</div>
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/terravita15.jpg)</div>
 
 
 
@@ -54,7 +54,7 @@ A couple of years ago, I attended the first **Grand Tasting on the Green**, and 
 
 <div class="caption">
 
-![](http://www.blastanova.com/photoalbum/Events/Terra%20Vita/terravita07.JPG "TerraVITA 07")</div>
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/terravita07.jpg)</div>
 
 
 You can read my full post on that year's Grand Tasting [here](https://www.thegourmez.com/blog/2010/10/terravita-the-first-biodynamic-and-sustainable-food-and-drink-fair-of-the-southeast/ "TerraVITA 2010"). Advance tickets are $65 or $55 without alcohol. Tickets can be purchased [here](http://www.terravitaevent.com/TerraVITA/BuyTKTS.html "TerraVITA tickets"). The full list of participating restaurants/beverage vendors can be seen [here](http://www.terravitaevent.com/TerraVITA/2012Participants.html "TerraVITA participants"), and it includes local favorites like Herons, Acme, Crumb, Market, and Escazu.

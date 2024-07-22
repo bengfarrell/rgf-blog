@@ -49,7 +49,7 @@ Our second stop was a block up the road at [Revolution](http://www.revolutionres
 
 <div class="caption">
 
-![](http://www.thegourmez.com/gourmez/photos/revolution12.JPG) Inside Revolution on a previous visit.</div>
+![](http://www.thegourmez.com/2024/07/revolution12.jpg) Inside Revolution on a previous visit.</div>
 
 
 We were seated at the family table by the closed caption views of the kitchen, which excited several members of the group. The cocktail list was a big hit, but the appetizers were on the small side—I was grateful for the delicious peasant bread also served.  The platters held ahi "poke" tuna with cucumber, greens, and wasabi caviar; housemade potato chip with steak tartare; and a crostini with whipped goat-cheese mousse, local arugula, heirloom cherry tomatoes, and vin cotto.

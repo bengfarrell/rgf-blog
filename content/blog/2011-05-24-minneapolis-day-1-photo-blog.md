@@ -1,11 +1,11 @@
 ---
 title: "Minneapolis Day 1—Photo Blog"
 date: "2011-05-24"
-categories: 
+categories:
   - "sake"
   - "travel-guides"
   - "wine"
-tags: 
+tags:
   - "architecture"
   - "beer"
   - "depot-hotel"
@@ -128,7 +128,7 @@ Now this eagle and its brother across the way stand at the southern edge of the 
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/minneapolis053.jpg "minneapolis053")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/minneapolis053.jpg)
 
-That was a lovely champagne spritzer, which was the only notable thing about dinner at Ichiban steakhouse. Afterward, I went off in search of Loring Park and the Walker Art Center (amazing!) . . . but those will wait for the next blog. All my photos of Minneapolis [are up here,](http://blastanova.com/photoalbum/index.html?path=Adventures/Minneapolis%202011) if you’d like to peruse them in the meantime.
+That was a lovely champagne spritzer, which was the only notable thing about dinner at Ichiban steakhouse. Afterward, I went off in search of Loring Park and the Walker Art Center (amazing!) . . . but those will wait for the next blog. All my photos of Minneapolis [are up here,](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/index.jpg) if you’d like to peruse them in the meantime.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/minneapolis042.jpg "minneapolis042")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/05/minneapolis042.jpg)
 

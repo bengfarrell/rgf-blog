@@ -15,7 +15,7 @@ tags:
 
 **Region:** California
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/traderjoespetitesyrah.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/traderjoespetitesyrah.jpg)
 
 Nice raspberry and leather nose with plenty of clove. The wine is surprisingly thin before the spices fill in the gaps. Clove is indeed one of those spices, and anise is, too. The fruit is there, but it's second fiddle to the spice. In addition to the raspberry, there is a smoother fruit flavor, perhaps persimmon, but maybe even mango. The wine is plenty good for your daily glass.
 

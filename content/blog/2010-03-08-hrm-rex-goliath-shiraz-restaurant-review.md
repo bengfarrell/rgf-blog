@@ -16,7 +16,7 @@ tags:
 
 **Region:** Woodbridge, CA
 
- ![](http://www.rebeccagomezfarrell.com/gourmez/photos/rexgoliathshiraz.jpg)
+ ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/rexgoliathshiraz.jpg)
 
 This wine has a lot of pepper on the nose, with some rhubarb and caramel coming through also. On drinking, my mouth fills with that pepper, which is not something I ever mind. It is tart. Raspberry is the primary fruit, but there's some rhubarb, too. It's a thick, dense wine that probably would have benefited from decanting first, but still leaves you with a lighter presence on your palate than you'd expect. I thought it was enjoyable.
 

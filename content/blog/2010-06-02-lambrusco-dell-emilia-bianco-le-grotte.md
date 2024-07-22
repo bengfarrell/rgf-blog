@@ -16,7 +16,7 @@ tags:
 
 Lambrusco Dell 'Emilia Bianco Le Grotte Emilia-Romagne, Italy
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/lambruscosparklingwhite.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/lambruscosparklingwhite.jpg)
 
 This sparkling white wine, with a very pretty label if I do so say myself, smells of kiwi, guava, and ume fruit. That nose promises more fruit than it delivers on. What it does have in plenty is sugar; I would call it a dessert wine though it's not marketed as such. The bubbles seem quite large as they burst on my tongue, which is fun. The fruit on drinking it is closer to an overly ripe pear with a light suggestion of lime and peach.
 

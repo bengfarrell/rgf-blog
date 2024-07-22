@@ -1,11 +1,11 @@
 ---
 title: "All is Fair @ Revolution"
 date: "2010-04-14"
-categories: 
+categories:
   - "bars"
   - "cocktails"
   - "events"
-tags: 
+tags:
   - "all-is-fair"
   - "anoop-desai"
   - "basil"
@@ -24,7 +24,7 @@ Downtown Durham\
 
 Now this cocktail isn't one you are going to see again.
 
-![](http://www.thegourmez.com/gourmez/photos/allisfair.JPG)
+![](http://www.thegourmez.com/gourmez/photos/allisfair.jpg)
 
 Of course, it's pretty to look at, and it sounds great: Jim Beam bourbon, lemon bitters, muddled strawberries, and basil are shaken together and poured over ice.  I liked the foam on top when it was served to me, but the drink needed a bit more refinement. The bourbon and strawberries definitely dominated, to the point that I wasn't sure I could taste the other ingredients-I like to taste them all. If the basil and bitter amounts were increased and maybe a smoother bourbon added, I would love it.
 

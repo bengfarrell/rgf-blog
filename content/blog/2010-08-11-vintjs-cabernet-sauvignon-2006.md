@@ -17,7 +17,7 @@ tags:
 
 **Region:** Napa Valley, CA
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/vintjscabsav.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/vintjscabsav.jpg)
 
 A pleasant wine with a good amount of flavors mingling together--the spices are in one corner and the fruits in another. Boysenberry, lots of boysenberry, with a little currant to give it a kick. The spice flavors swirl through it like a cinnamon roll, consisting of cinnamon (who have thunk?) and some allspice and nutmeg. I enjoy it much more than a cinnamon roll---for some reason, those always make me sick. It's medium-bodied, not too dry, and fun!
 

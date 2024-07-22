@@ -17,7 +17,7 @@ tags:
 
 **Region:** Mendoza, Argentina
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/vidaorganicatorrontes.JPG)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/vidaorganicatorrontes.jpg)
 
 This organic, white wine smells floral, with a hint of lime and vanilla. The taste is also very floral, which I enjoy in a white wine a lot. A fleeting sweetness greats you along with that strong, floral scent, and lime and grapefruit always chime in. The sweetness quickly gives way to a drier body, much to my delight. It ends quite tartly, with some pine needle notes. Why yes, I do know what pine needles taste like, and they contribute well to the end product here.
 

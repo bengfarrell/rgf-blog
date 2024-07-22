@@ -1,9 +1,9 @@
 ---
 title: "Loki's New Favorite Thing and RSS Updates"
 date: "2010-04-26"
-categories: 
+categories:
   - "announcements"
-tags: 
+tags:
   - "cat-and-food"
   - "cats"
   - "kittens"
@@ -21,20 +21,20 @@ I'm going to be migrating all of my posts done previously to using Wordpress sof
 
 To make up for this hardship, please be calmed by these new photos of the kitty gods of Woodcroft. Loki has discovered a new way to demand his tribute.
 
-![Loki and the foodbag](http://www.blastanova.com/photoalbum/Other/Kittens/cats169.JPG)
+![Loki and the foodbag](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cats169.jpg)
 
 He's quite pleased with himself about it.
 
-![Loki Pleased](http://www.blastanova.com/photoalbum/Other/Kittens/cats172.JPG)
+![Loki Pleased](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cats172.jpg)
 
 And now, you can see all three cats in their natural atmosphere.
 
-![Mazu on chair. Dandi on the floor.](http://www.blastanova.com/photoalbum/Other/Kittens/cats175.jpg)
+![Mazu on chair. Dandi on the floor.](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cats175.jpg)
 
-![One-eyed wonder](http://www.blastanova.com/photoalbum/Other/Kittens/cats174.jpg)
+![One-eyed wonder](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cats174.jpg)
 
 Kittens on the march, err, lie down.
 
-![](http://www.blastanova.com/photoalbum/Other/Kittens/cats173.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cats173.jpg)
 
 

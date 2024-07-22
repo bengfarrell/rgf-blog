@@ -22,15 +22,15 @@ A year ago, I posted my [first review](http://www.thegourmez.com/?p=464) of Will
 
 They've added a lovely covered porch on the side of the building now.
 
-![](http://www.thegourmez.com/gourmez/photos/williams5.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/williams5.jpg)
 
 I had a really great cheeseburger, opting for swiss out of the options (cheddar and American were the other two).
 
-![](http://www.thegourmez.com/gourmez/photos/williams7.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/williams7.jpg)
 
 It came loaded up with onion, tomato, lettuce, special sauce (thousand island in flavor but much thinner than the gloppy stuff), and pickles. The burger was delicious, especially with the drippy sauce. I'm all about toppings and a bun that can withstand burger juices and William's passed the test there. I also decided it was time to give in to the red velvet cupcakes.
 
-![](http://www.thegourmez.com/gourmez/photos/williams6.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/williams6.jpg)
 
 This was no gigantic cupcake, but the size of the ones that used to be considered normal, making it perfect for an afternoon dessert. My expectations were a little high based on many commenters' raves about this treat, so perhaps I wanted my mind blown . . . and it wasn't. But it was moist, airy even, and had a good amount of cream cheese on top. So many cupcakes overwhelm with frosting amounts. I'd say this one had a better frosting to cake ratio per bite than most do.
 

@@ -18,7 +18,7 @@ tags:
 
 **Region:** Veneto, Italy
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/proseccoveneto.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/proseccoveneto.jpg)
 
 First of all, this was like no other sparkling wine I've tried before-I had to pull it out, not pop it off. With a corkscrew. I'm still confused as to how I couldn't pop it or knife it out. I don't think it's a prosecco thing; I've had prosecco before. Perhaps not knowing sparkling wine came with standard corks is just an example of my still incomplete gourmet knowledge? Or is it weird? Let me know if you do.
 

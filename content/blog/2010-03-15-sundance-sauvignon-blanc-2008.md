@@ -16,7 +16,7 @@ tags:
 
 **Region:** Maule Valley, Chile
 
-![](http://www.rebeccagomezfarrell.com/gourmez/photos/sundancesauvblanc.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/sundancesauvblanc.jpg)
 
 This white smells very sweet, with orange and vanilla notes. The taste does a complete 180 from the nose. It's very acidic, has a lot of stoniness, and no suggestion of that smelled sweetness at all. That's usually fine with me—I prefer a drier white—but this one fails to keep my interest. Multiple flavors are there, most notably papaya and leaf, but none of them linger for long, making the wine mediocre, at best, for me.
 

@@ -19,7 +19,7 @@ Durham, NC\
 [Website](http://www.beyucaffe.com/)\
 $6.50
 
-![](http://www.thegourmez.com/gourmez/photos/beyucaffe12.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/beyucaffe12.jpg)
 
 This hot coffee drink came with butterscotch, coffee liqueur, Irish cream, and whipped cream on top. I didn't realize it was a hot drink when I ordered it (the whipped cream should have tipped me off there), but I ended up enjoying the warmth despite our hot summer air-I must be ready for fall because air conditioning's been making me feel chilled the past couple of weeks!
 
