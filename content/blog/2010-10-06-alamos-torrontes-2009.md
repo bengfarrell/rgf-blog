@@ -18,7 +18,7 @@ tags:
 
 **Region:** Catana, Argentina
 
-![](http://www.thegourmez.com/gourmez/photos/alamostorrontes.jpg)
+![](http://www.thegourmez.com/2024/07/alamostorrontes.jpg)
 
 This is the perfect white wine for me. It’s very tart with plentiful grapefruit and acidity at first, but that gets bathed and soothed with a vegetal greenness: leek? celery? Vanilla pops in with a slight tang of eucalyptus to help wash things down.
 

@@ -17,7 +17,7 @@ tags:
 
 **Region:**Tuscany, Italy
 
-![](http://www.thegourmez.com/gourmez/photos/placidochianti.JPG)
+![](http://www.thegourmez.com/2024/07/placidochianti.JPG)
 
 This chianti tastes pungent, and not in a good way. Unripened blackberries, nectarines, apples, mild chocolate, and herbs---dried thyme, mostly---are the notes I taste. Those don’t make for a great combination. I’m not spitting it out, but it’s not really worth drinking, either.
 

@@ -1,9 +1,9 @@
 ---
 title: "Redemption Rye"
 date: "2013-01-07"
-categories: 
+categories:
   - "spirits"
-tags: 
+tags:
   - "chemistry-of-the-cocktail"
   - "corn"
   - "girl-and-her-barstool"
@@ -19,7 +19,7 @@ tags:
 
 **Region:** Bardstown, Kentucky
 
-[](http://www.thegourmez.com/2013/01/redemption-rye/redemption_-rye/)[![RedemptionRye](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/RedemptionRye.jpg)](http://www.thegourmez.com/2013/01/redemption-rye/redemptionrye/)
+[](http://www.thegourmez.com/2013/01/redemption-rye/redemption_-rye/)[![RedemptionRye](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/RedemptionRye.jpg)](http://www.thegourmez.com/2013/01/redemption-rye/redemptionrye/)
 
 Seriously, that label is like porn to this foodie. The color, the slightly askew bold font with cursive writing and the handwritten lot #—I don’t know how to describe it. It does things to me. Things like make me buy the bottle. And I have not been disappointed since I did.
 

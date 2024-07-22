@@ -14,7 +14,7 @@ tags:
   - "worse-than-a-tequila-hangover"
 ---
 
-![](http://www.thegourmez.com/gourmez/photos/worsethanmexicanhangover.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com//gourmez/photos/worsethanmexicanhangover.jpg)
 
 2 shots Two Fingers gold tequila\
 0.5 shot Starbucks coffee liquor\

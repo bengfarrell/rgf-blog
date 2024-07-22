@@ -1,9 +1,9 @@
 ---
 title: "The Fearrington House Restaurant (Pittsboro)"
 date: "2010-05-19"
-categories: 
+categories:
   - "restaurants"
-tags: 
+tags:
   - "banana-pudding"
   - "chapel-hill-dining"
   - "fearrington-house"
@@ -27,41 +27,41 @@ The restaurant is in a house that is very successfully divided into smaller, int
 
 On to the food! First was that small bite of something scrumptious, in this case a parmesan and rosemary gougère.
 
-![](http://www.thegourmez.com/gourmez/photos/fearrington1.JPG)
+![](http://www.thegourmez.com/gourmez/photos/fearrington1.jpg)
 
 It provided a burst of cheesy flavor and just enough rosemary to complement it. Yum. Next up, after we'd placed our orders, was an amuse-bouche of a salt cod cake over green tomato chutney.
 
-![](http://www.thegourmez.com/gourmez/photos/fearrington2.JPG)
+![](http://www.thegourmez.com/gourmez/photos/fearrington2.jpg)
 
 It had a delightfully creamy texture, and the chutney was quite sweet and appealing though I didn't notice a tomato flavor, per se.  I'd have scaled back the amount of breading a tad, but otherwise it served its purpose beautifully.
 
 My next course was house-smoked North Carolina trout with compressed melon, fennel, asparagus, pine nuts, and dill.
 
-![](http://www.thegourmez.com/gourmez/photos/fearrington3.JPG)
+![](http://www.thegourmez.com/gourmez/photos/fearrington3.jpg)
 
 It was so, so good. My only complaint would be that the slate platter it was served on wasn't the most appealing dish to scrape silverware against. The blending of textures and flavors were perfect, especially the smoked trout in combination with the sweet, yet light melon that I think was cantaloupe. Both were cubed, which encouraged comparing their flavors. The richness of the pine nut added another lovely layer, and the other ingredients just made it all the more appealing. It was the dish of the night for me.
 
 My next course was the Goat Lady Dairy panna cotta with elderflower jelly, goat cheese, shallot, sherry, and beets.
 
-![](http://www.thegourmez.com/gourmez/photos/fearrington4.JPG)
+![](http://www.thegourmez.com/gourmez/photos/fearrington4.jpg)
 
 The presentation was beautiful. The dish itself was somewhat strange, especially the goat cheese panna cotta that tasted as though it had been infused with dill and shallot. Combined with the waffle-cut potato wedges, it ended up most reminding me of chips and dip. I think I liked it but I'm still not sure about that.
 
 My main entrée was soft shell crab with potato gnocchi, pickled apple and rock shrimp dressing, white asparagus, fava beans, parsley, and cornichons.
 
-![](http://www.thegourmez.com/gourmez/photos/fearrington5.JPG)
+![](http://www.thegourmez.com/gourmez/photos/fearrington5.jpg)
 
 The fava beans were the stars of this dish; they were just so perfectly cooked. The gnocchi were light in texture, almost like the potato dough used rice flour, and they were great. I would have liked more of them, honestly, and less of the crab, which was far too salty for my taste buds. Otherwise, though, the dish was vibrant, citrusy, and a great springtime combination.
 
 My dessert, a warm, white chocolate and banana bread pudding with honeycomb, peanut butter, caramel ice cream, Maldon sea salt, and shortbread was next, and it continued the trend of intriguing dishes I'd had already.
 
-![](http://www.thegourmez.com/gourmez/photos/fearrington6.JPG)
+![](http://www.thegourmez.com/gourmez/photos/fearrington6.jpg)
 
 I'd been craving caramel ice cream since I'd had some at SNOB in Charleston, and this did not disappoint. I especially loved how well it worked with the salt. The banana pudding was good, but a smaller player that I thought it would be. The shortbread and honeycomb were actually the dominant flavors for me, and I thought the honeycomb could probably have been eliminated entirely: its chewy texture and sugary nature were just more sweetness than needed for the otherwise well-thought out dish. I loved the underlying peanut butter flavor from the thin spread underneath all the rest of the dessert's elements. I couldn't taste the white chocolate, but that's a good thing-white chocolate is only good in small doses in my opinion.
 
 Sure, I say that the extra sweetness of the honeycomb was unnecessary, but that sure didn't stop me from trying one of each of the treats from the sweet tray.
 
-![](http://www.thegourmez.com/gourmez/photos/fearrington7.JPG)
+![](http://www.thegourmez.com/gourmez/photos/fearrington7.jpg)
 
 All good, all fun to pop in your mouth and still try to fight off a sugar coma afterward.
 
