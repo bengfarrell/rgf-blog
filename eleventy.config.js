@@ -237,7 +237,7 @@ function extractFirstImage(doc) {
 		return imgTag.substring(uriBegin+5, uriEnd);
 	}
 
-	return '';
+	return '/img/logo-no-imagefound.svg';
 }
 
 const haveCommonItems = (arr1, arr2) => {
