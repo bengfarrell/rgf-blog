@@ -64,7 +64,7 @@ In light of that, I’m going to share with you what would have been perfect mat
 
 The reception is intended to be nibbles and samples, but we got plates overflowing with food from the vendors! Tucked in the back was also the wine raffle display.
 
-\[wds id="2"\]
+[![2015-Sustainable-Contra--Costa-007](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/2015-Sustainable-Contra--Costa-007.jpg)
 
 That’s a lot of great wine to take home from Californian winemakers! I’m a bit jealous of the winners. But honestly, I had a great time just perusing the vendors’ wares. My culinary circuit began at [Plate & Vine’s](http://plateandvinerestaurant.com/) table, the hotel’s restaurant led by executive chef Dwayne Griffiths.
 
@@ -72,7 +72,7 @@ That’s a lot of great wine to take home from Californian winemakers! I’m a b
 
 Griffiths and a fellow employee seared Calabrese sausage and sweet potato gnocchi then dressed up plates like the pros they are.
 
-\[wds id="3"\]
+[![2015-Sustainable-Contra--Costa-014](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/2015-Sustainable-Contra--Costa-014.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/2015-Sustainable-Contra--Costa-014.jpg)
 
  
 
