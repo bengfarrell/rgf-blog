@@ -152,6 +152,10 @@ module.exports = function(eleventyConfig) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
+	eleventyConfig.addFilter("filterCategoryList", function filterCategoryList(cats) {
+		return (cats || []).filter(cat => ["categories"].indexOf(cat) === -1);
+	});
+
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
@@ -233,7 +237,7 @@ function extractFirstImage(doc) {
 		return imgTag.substring(uriBegin+5, uriEnd);
 	}
 
-	return '';
+	return '/img/logo-no-imagefound.svg';
 }
 
 const haveCommonItems = (arr1, arr2) => {
