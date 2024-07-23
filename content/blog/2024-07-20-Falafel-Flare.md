@@ -4,19 +4,19 @@ date: "2024-07-01"
 categories:
   - "restaurants"
 tags:
-  - "hayward”
+  - "hayward"
   - "middle-eastern"
   - "falafel"
   - "lunch"
   - "review"
 ---
 
-*Address:*  
-22648 Mission Blvd  
-Downtown Hayward, CA  
+*Address:*\
+22648 Mission Blvd\
+Downtown Hayward, CA\
 *Website:* <https://falafelflare.com/>
 
-[![falafel wrap](https://thegourmez-wpmedia/2024/07/falafel-flare-sized-1.jpg)](https://thegourmez-wpmedia/2024/07/falafel-flare-sized-1.jpg)
+[![falafel wrap](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/falafel-flare-sized-1.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/falafel-flare-sized-1.jpg)
 
 # The Falafel Flare Basics
 
