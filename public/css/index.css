@@ -51,7 +51,7 @@ body {
 	color: var(--text-color);
 	background-color: var(--background-color);
 
-	font-family: "Playfair Display", serif;
+	font-family: "Jost", sans-serif;
 	font-optical-sizing: auto;
 	font-style: normal;
 }
