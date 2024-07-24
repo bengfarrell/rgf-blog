@@ -1,6 +1,6 @@
 ---
 title: "Hahns Fahden Vineyards"
-date: "2024-07-013"
+date: "2024-07-13"
 categories:
   - "tasting-rooms"
   - "wine"
