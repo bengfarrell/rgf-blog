@@ -44,7 +44,7 @@ _Disclaimer: Everything I’m writing about in this downtown Prosser blog post w
 [![downtown Prosser mural](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-070-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-070.jpg) A mural in downtown Prosser</div>
 
 
-Last time I wrote about Prosser, I wrote about [the best wines in the region](http://thegourmez.com/2016/12/29/prosser-wine-part-2-best-wines-in-the-area/), many of which can be found in the [Vintner’s Village](http://prosservintnersvillage.com/) in town or at tasting rooms surrounding the Prosser Wine & Food Park, a short few miles up Wine Country Road. But there are few tasting rooms in the downtown proper, which is surprising for a city so tied to the grape.
+Last time I wrote about Prosser, I wrote about [the best wines in the region](https://thegourmez.com/blog/2016/12/29/prosser-wine-part-2-best-wines-in-the-area/), many of which can be found in the [Vintner’s Village](http://prosservintnersvillage.com/) in town or at tasting rooms surrounding the Prosser Wine & Food Park, a short few miles up Wine Country Road. But there are few tasting rooms in the downtown proper, which is surprising for a city so tied to the grape.
 
 
 

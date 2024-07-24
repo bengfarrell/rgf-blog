@@ -61,7 +61,7 @@ There’s also a lot for the weekend adventurer to do in Lodi to supplement a wi
 
 The set tours cost $115 per person and includes all the transportation, tasting fees for four wineries, a picnic lunch, and discounts on buying wine from the participating wineries. Plus, they’ll entertain you and your friends with wine trivia between stops!
 
-You can see most of the wineries we hit up on our media Sip Shuttle tour in [my last Visit Lodi post](http://thegourmez.com/2017/10/04/visit-lodi-wines-winemakers-personality/).
+You can see most of the wineries we hit up on our media Sip Shuttle tour in [my last Visit Lodi post](https://thegourmez.com/blog/2017/10/04/visit-lodi-wines-winemakers-personality/).
 
 ## Stop 4: A Walldog Murals Walk
 
@@ -85,7 +85,7 @@ Stop 5: Downtown Dinner and Drinks
 [![the dancing fox, downtown lodi, visit lodi, dinner pizza](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Visit-Lodi-017-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Visit-Lodi-017.jpg) The Dancing Fox</div>
 
 
-There are plenty of options in downtown Lodi for dinner, and I’ve recommended the Dancing Fox for its extensive pizza and salad menu [already](http://thegourmez.com/2017/07/16/visit-lodi-food/). After you decide where to get your vittles, just walk around the block to [Scotto’s Wine and Cider](https://www.scottoswineandcider.com/) at 14 S. School St. – I guarantee it’s only around the block pretty much anywhere you end up downtown.
+There are plenty of options in downtown Lodi for dinner, and I’ve recommended the Dancing Fox for its extensive pizza and salad menu [already](https://thegourmez.com/blog/2017/07/16/visit-lodi-food/). After you decide where to get your vittles, just walk around the block to [Scotto’s Wine and Cider](https://www.scottoswineandcider.com/) at 14 S. School St. – I guarantee it’s only around the block pretty much anywhere you end up downtown.
 
 Go for a glass of their **“Father’s Fave” Soul Series Estate Old Vine Zinfandel,** if you aren’t tired of wine yet. But if you are, the Scotto family has you covered with a great line of draft cider, too, available by the glass or flight.
 

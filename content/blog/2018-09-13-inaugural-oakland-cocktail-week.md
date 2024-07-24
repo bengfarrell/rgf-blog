@@ -21,7 +21,7 @@ It's rare that a press release results in a post on _the Gourmez_, but I'll make
 [![oakland cocktail week, cocktails, oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/OCW_SocialStatic_Square-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/OCW_SocialStatic_Square.jpg) Photo courtesy of Oakland Cocktail Week</div>
 
 
-[I've taken a tour before](http://thegourmez.com/2017/02/06/the-oakland-urban-wine-tour/) with Raquel Navarro of [See.Eat.Love](http://www.seeeatlove.com/), a founding company behind the Cocktail Week, so I'm confident it'll be well organized, and wow, does the early info seem to indicate just that! The first Oakland Cocktail Week will primarily consist of $10 unique, inventive cocktails available at over 40 Oakland, Alameda, and Emeryville venues throughout the week.
+[I've taken a tour before](https://thegourmez.com/blog/2017/02/06/the-oakland-urban-wine-tour/) with Raquel Navarro of [See.Eat.Love](http://www.seeeatlove.com/), a founding company behind the Cocktail Week, so I'm confident it'll be well organized, and wow, does the early info seem to indicate just that! The first Oakland Cocktail Week will primarily consist of $10 unique, inventive cocktails available at over 40 Oakland, Alameda, and Emeryville venues throughout the week.
 
 
 

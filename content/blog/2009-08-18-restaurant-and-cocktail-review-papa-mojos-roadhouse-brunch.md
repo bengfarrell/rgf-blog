@@ -27,7 +27,7 @@ Brunch:  $7–$13
 
 Papa Mojo's is a lively restaurant full of good Cajun cooking, live music during Sunday brunch and most evenings, and a bar with a nice drink list.  They do not shy away from a New Orleans vibe but rather embrace it fully with Mardi Gras décor mixing it up with their wooden tables and benches, faux fireplace, and broken mirrors.
 
-I'd been here before for dinner but Papa Mojo's has since revamped the menu and added Sunday brunch. Having recently discovered beignets at [Rue Cler](index.php?p=restaurant-review-rue-cler-downtown-durham), I definitely wanted to try another restaurant's offering of these treats.
+I'd been here before for dinner but Papa Mojo's has since revamped the menu and added Sunday brunch. Having recently discovered beignets at [Rue Cler](https://thegourmez.com/blog/2009/05/28/restaurant-review-rue-cler-downtown-durham/), I definitely wanted to try another restaurant's offering of these treats.
 
 These ones were moderately sweet with a dusting of powdered sugar.  One was enough for me.  I also started the meal with a New Orleans Milk Punch, which was essentially bourbon served with a lot of milk.
 

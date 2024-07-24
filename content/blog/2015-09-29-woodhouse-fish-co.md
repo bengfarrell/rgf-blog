@@ -28,7 +28,7 @@ The Mission, San Francisco\
 [Website](http://www.woodhousefish.com/)\
 $12–$29
 
-On the northeastern border of the Mission and the Castro, after having spent [an afternoon tasting wines from Bliss Imports](http://thegourmez.com/2015/07/20/bliss-wine-imports-tasting/), I came across what looked like an oasis for my crustacean-loving heart.
+On the northeastern border of the Mission and the Castro, after having spent [an afternoon tasting wines from Bliss Imports](https://thegourmez.com/blog/2015/07/20/bliss-wine-imports-tasting/), I came across what looked like an oasis for my crustacean-loving heart.
 
 [![Woodhouse_Fish_006](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Woodhouse_Fish_006-309x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/Woodhouse_Fish_006.jpg)
 

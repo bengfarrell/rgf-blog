@@ -93,7 +93,7 @@ Alas, one must move forward, though that is not such a bad prospect on a wine to
 
 [![urban legend oakland urban wine tour tasting](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_20-500x436.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_20.jpg)
 
-[I have sampled Urban Legend’s wine before](http://thegourmez.com/2015/07/28/urban-legend-cellars-tasting/), but this was my first time in their new slate-filled space that calls out for a lively group of friends to inhabit it….which may be what our tour group was fast turning into it. They experiment with blending many grapes in unexpected ways, which makes each mouthful a surprise even for stalwart bloggers such as ourselves. Yet it wasn’t a blend but the **2013 Cooper Ranch Syrah** of Amador County that captured me most.
+[I have sampled Urban Legend’s wine before](https://thegourmez.com/blog/2015/07/28/urban-legend-cellars-tasting/), but this was my first time in their new slate-filled space that calls out for a lively group of friends to inhabit it….which may be what our tour group was fast turning into it. They experiment with blending many grapes in unexpected ways, which makes each mouthful a surprise even for stalwart bloggers such as ourselves. Yet it wasn’t a blend but the **2013 Cooper Ranch Syrah** of Amador County that captured me most.
 
 [![urband legend oakland urban wine tour](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_28-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_28.jpg)
 
@@ -109,7 +109,7 @@ Stop #3 was even closer than Urban Legend had been to Dashe Cellars. That’s li
 
 [![jeff cohn cellars oakland urban wine tour](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_33-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_33.jpg)
 
-Jeff Cohn Cellars *MOVED TO WINE COUNTRY*, [which I’ve also previously visited](http://thegourmez.com/2015/07/16/jeff-cohn-cellars/), is known especially for the winemaker’s excellent zinfandel line that masterfully showcases the differences between vineyards that grow the grape. This time around, his **Shake Ridge 2012 Zinfandel** most enchanted me. Or most made me wish for another empanada. You decide: "A zin that can handle any meat, from turkey to peppered beef to meat pies! And perhaps even a dark berry tart. It won't knock you out in a glass, which is also a plus.” 4/5
+Jeff Cohn Cellars *MOVED TO WINE COUNTRY*, [which I’ve also previously visited](https://thegourmez.com/blog/2015/07/16/jeff-cohn-cellars/), is known especially for the winemaker’s excellent zinfandel line that masterfully showcases the differences between vineyards that grow the grape. This time around, his **Shake Ridge 2012 Zinfandel** most enchanted me. Or most made me wish for another empanada. You decide: "A zin that can handle any meat, from turkey to peppered beef to meat pies! And perhaps even a dark berry tart. It won't knock you out in a glass, which is also a plus.” 4/5
 
 [![jeff cohn cellars shake ridge zinfandel](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_37-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/UrbanWineTrail_37.jpg)
 

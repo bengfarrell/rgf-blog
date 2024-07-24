@@ -23,7 +23,7 @@ Durham, NC\
 [Website](http://www.beyucaffe.com/)\
 $8
 
-![](http://www.thegourmez.com/gourmez/photos/beyucaffe11.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/beyucaffe11.jpg)
 
 This creamy cocktail is made from Stoli vodka, crème de banane, creme de cacao, and cream. The consistency of the drink wasn't pretty, but it's the nature of drinks mixed with cream to quickly divide up based on thicknesses of the fluids. The alcohol flavor was pretty strong. It tasted like a banana split, but with a rum floater on top and too much chocolate syrup. I'd suggest leaving off the decorative squirt of chocolate on the glass and sticking with the subtle chocolate of crème de cacao.
 

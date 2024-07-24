@@ -21,7 +21,7 @@ tags:
 
 **Region:** Rioja, Spain
 
- ![](http://www.thegourmez.com/gourmez/photos/marquedecaceres.jpg)
+ ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/marquedecaceres.jpg)
 
 Everything I like about Spanish wine is in this glass---spicy, leathery, fruit that is ripe to bursting, cayenne, maybe even a mild curry. The first notes, though, were of chocolate and raspberry.  The chocolate's mostly from the nose, but it helps mellow the wine, almost giving it a slight film like milk chocolate occasionally has.
 

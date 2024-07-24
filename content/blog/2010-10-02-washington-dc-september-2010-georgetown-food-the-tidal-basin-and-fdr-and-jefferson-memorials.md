@@ -27,9 +27,9 @@ These travelogues tend to get a little long, so I’m going to break this editio
 
 We spent that first night in Georgetown, dining at [Aditi](http://www.google.com/url?sa=t&source=web&cd=2&ved=0CBkQFDAB&url=http%3A%2F%2Fwww.dineaditi.com%2F&rct=j&q=adita%20indian%20dc&ei=Ga-jTMzjHMSBlAfTy-HSBA&usg=AFQjCNG-yrjOuFtRFNHAkvbVr37annHaSg&sig2=OUWvu5FNFi8iz5Yq_lDmjQ&cad=rja), an Indian restaurant on the main strip on M Street. We had a bread basket full of great stuffed and puffed breads, of which the aloo paratha was especially good. Those chutneys were fantastic!
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/awdc003.jpg)  For entrees, I had pepper chicken, which was in a tomato, coconut, ginger, garlic, and onion sauce that had a great level of heat. Ben had the lamb in pickling spices, braised with yogurt and cooked in a special spice blend.
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc003.jpg)  For entrees, I had pepper chicken, which was in a tomato, coconut, ginger, garlic, and onion sauce that had a great level of heat. Ben had the lamb in pickling spices, braised with yogurt and cooked in a special spice blend.
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/awdc004.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wdc004.jpg)
 
 Of course, I liked his sauce better and Ben liked mine better. That’s how it always goes with couples.
 

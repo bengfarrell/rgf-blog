@@ -36,7 +36,7 @@ $11–$38
 
 [![Weathervane 11](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/Weathervane-11.jpg)](http://www.thegourmez.com/2013/01/weathervane/weathervane-11/)
 
-Weathervane is the restaurant portion of Southern Season, and hearty southern dishes have a definite home here. Chef Ryan Payne has had a fantastic year, winning pretty much every local cooking contest he has entered. I had previously tried his food at [Fire in the Triangle](http://johannakramer.com/2012/07/12/competition-dining-quarterfinal-2-ryan-payne-vs-scott-james/) and at the [NC Chef's Academy throwdown](index.php?p=4992), but never at Weathervane itself. The restaurant is done in creams and browns, and there's a swooping feel to the inviting bar on the right as you enter and the main dining room that manages to feel intimate. That may just have been because we had the back booth.
+Weathervane is the restaurant portion of Southern Season, and hearty southern dishes have a definite home here. Chef Ryan Payne has had a fantastic year, winning pretty much every local cooking contest he has entered. I had previously tried his food at [Fire in the Triangle](http://johannakramer.com/2012/07/12/competition-dining-quarterfinal-2-ryan-payne-vs-scott-james/) and at the [NC Chef's Academy throwdown](https://thegourmez.com//blog/2012/10/10/2nd-annual-triangle-chef-showdown/), but never at Weathervane itself. The restaurant is done in creams and browns, and there's a swooping feel to the inviting bar on the right as you enter and the main dining room that manages to feel intimate. That may just have been because we had the back booth.
 
 [![Weathervane 10](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/Weathervane-10.jpg)](http://www.thegourmez.com/2013/01/weathervane/weathervane-10/)
 

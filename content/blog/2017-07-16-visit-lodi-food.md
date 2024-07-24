@@ -28,7 +28,7 @@ tags:
   - "wineries"
 ---
 
-In late May, the [Visit Lodi tourism bureau](http://www.visitlodi.com/) invited me and a few other bloggers out for a press trip introducing us to all Lodi has to offer for a weekend trip. [The word has spread](http://thegourmez.com/2016/09/02/most-memorable-wines-from-the-2016-wine-bloggers-conference-part-1/) about Lodi’s quality grapes and up-and-coming wine estates, but there’s not a lot out there yet on what else a trip to Lodi might entail to supplement the wine tasting experience.
+In late May, the [Visit Lodi tourism bureau](http://www.visitlodi.com/) invited me and a few other bloggers out for a press trip introducing us to all Lodi has to offer for a weekend trip. [The word has spread](https://thegourmez.com/blog/2016/09/02/most-memorable-wines-from-the-2016-wine-bloggers-conference-part-1/) about Lodi’s quality grapes and up-and-coming wine estates, but there’s not a lot out there yet on what else a trip to Lodi might entail to supplement the wine tasting experience.
 
 
 

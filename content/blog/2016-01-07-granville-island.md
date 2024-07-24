@@ -32,7 +32,7 @@ tags:
 
 [![2015-Vancouver-128](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-128.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-128.jpg)
 
-Last month, I posted about [the experience of using Nightswapping](http://thegourmez.com/2015/12/07/product-review-nightswapping-a-new-travel-lodging-exchange-site/), a travel website and application, to make my first trip to Vancouver, Canada. This month, I’m blogging about my whirlwind tour of the city and giving you the chance to try Nightswapping with a code for a free night’s stay!
+Last month, I posted about [the experience of using Nightswapping](https://thegourmez.com/blog/2015/12/07/product-review-nightswapping-a-new-travel-lodging-exchange-site/), a travel website and application, to make my first trip to Vancouver, Canada. This month, I’m blogging about my whirlwind tour of the city and giving you the chance to try Nightswapping with a code for a free night’s stay!
 
 Let’s start this series at [Granville Island.](http://www.granvilleisland.com/) Most of my friends know my interests well, so Granville Island was the first name off their virtual lips for places I must visit in the two days I had.
 
@@ -60,7 +60,7 @@ Most of the retail district is remodeled industrial warehouses that have kept th
 
 If I lived in Vancouver, Edible Canada’s [dinner series](http://www.ediblecanada.com/tours-and-events/canadian-table-dinners/), which starts next month, would be a must.
 
-The primary draw at Granville Island is the [Public Market](http://granvilleisland.com/public-market) (2, 1661 Duranleau St.) , an overflowing extravaganza in the grand tradition of London’s [Borough Market,](http://thegourmez.com/2010/11/23/london-in-october-2010-part-2-borough-market-the-london-bridge-and-camden-town/) Philadelphia’s Terminal Market, San Francisco’s Ferry Building and all great gatherings of produce, prepared goods, and crafts. If I hadn’t already eaten brunch, I’m sure I’d have devoured more of the market’s delicacies. Luckily, it was just as much a feast for the eyes.
+The primary draw at Granville Island is the [Public Market](http://granvilleisland.com/public-market) (2, 1661 Duranleau St.) , an overflowing extravaganza in the grand tradition of London’s [Borough Market,](https://thegourmez.com/blog/2010/11/23/london-in-october-2010-part-2-borough-market-the-london-bridge-and-camden-town/) Philadelphia’s Terminal Market, San Francisco’s Ferry Building and all great gatherings of produce, prepared goods, and crafts. If I hadn’t already eaten brunch, I’m sure I’d have devoured more of the market’s delicacies. Luckily, it was just as much a feast for the eyes.
 
 [![2015-Vancouver-156](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-156-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-156.jpg)[![2015-Vancouver-139](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-139-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2015-Vancouver-139.jpg)
 

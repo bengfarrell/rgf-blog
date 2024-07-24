@@ -17,7 +17,7 @@ tags:
 
 **Region:** Napa Valley, CA
 
-![](http://www.thegourmez.com/gourmez/photos/beringercabsav.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/beringercabsav.jpg)
 
 Full disclosure: I've been drinking some cheap merlot all night, now to be supplanted by a cheap something else. That something else smells like . . . laundry bleach? It smells like dried strawberries rolled in Clorox. I'm not averse to the smell of bleach, but it's a strange aroma for a wine, nonetheless.
 

@@ -46,7 +46,7 @@ tags:
 [![IMG_7674small](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7674small.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/IMG_7674small.jpg) Sunset over the mountains.</div>
 
 
-This is the last of my travelogues from my October visit with my mom and stepfather in Central Washington. The first was on [a day in Yakima](index.php?p=5412) and the second was on [a day in Ellensburg](index.php?p=5538). This entry covers the beautiful scenery to be found in the tiny towns of Tieton and Naches nestled in the Cascades and driving along State Route 410 West toward the edge of the Snoqualmie National Forest, also known as the Chinook Pass. There is no food in this post—shocker, I know!—but we did stop for pictures at a few restaurants and wineries along the way that are known for good eats or tastings.
+This is the last of my travelogues from my October visit with my mom and stepfather in Central Washington. The first was on [a day in Yakima](https://thegourmez.com/blog/2013/01/04/photoblog-a-day-in-yakima/) and the second was on [a day in Ellensburg](https://thegourmez.com/blog/2013/01/16/travelogue-a-day-in-ellensburg/). This entry covers the beautiful scenery to be found in the tiny towns of Tieton and Naches nestled in the Cascades and driving along State Route 410 West toward the edge of the Snoqualmie National Forest, also known as the Chinook Pass. There is no food in this post—shocker, I know!—but we did stop for pictures at a few restaurants and wineries along the way that are known for good eats or tastings.
 
 The Naches Valley is gorgeous all on its own, as you can see in both of these panoramas taken off the side of Summitview Rd. that runs between Naches and Tieton.
 

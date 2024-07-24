@@ -23,7 +23,7 @@ tags:
   - "wine-walk"
 ---
 
-My second post for _Localwise's_ blog went up last week. This one draws a fair bit from my recent visits to urban wineries [Urban Legend](http://thegourmez.com/2015/07/28/urban-legend-cellars-tasting/) and [Jeff Cohn Cellars](http://thegourmez.com/2015/07/16/jeff-cohn-cellars/), with fellow wine writer Peter Nowack of [Bung R. Cooper.](http://www.bungrcooper.com/) Knowing there were a few other urban wineries in easy walking distance of the Jack London Square neighborhood of Oakland, I came up with this suggested tour.
+My second post for _Localwise's_ blog went up last week. This one draws a fair bit from my recent visits to urban wineries [Urban Legend](https://thegourmez.com/blog/2015/07/28/urban-legend-cellars-tasting/) and [Jeff Cohn Cellars](https://thegourmez.com/blog/2015/07/16/jeff-cohn-cellars/), with fellow wine writer Peter Nowack of [Bung R. Cooper.](http://www.bungrcooper.com/) Knowing there were a few other urban wineries in easy walking distance of the Jack London Square neighborhood of Oakland, I came up with this suggested tour.
 
 It begins,
 

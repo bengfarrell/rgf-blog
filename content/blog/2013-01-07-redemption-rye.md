@@ -19,11 +19,11 @@ tags:
 
 **Region:** Bardstown, Kentucky
 
-[](http://www.thegourmez.com/2013/01/redemption-rye/redemption_-rye/)[![RedemptionRye](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/RedemptionRye.jpg)](http://www.thegourmez.com/2013/01/redemption-rye/redemptionrye/)
+![RedemptionRye](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/RedemptionRye.jpg)
 
 Seriously, that label is like porn to this foodie. The color, the slightly askew bold font with cursive writing and the handwritten lot #—I don’t know how to describe it. It does things to me. Things like make me buy the bottle. And I have not been disappointed since I did.
 
-  [![redemption_ rye](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/redemption_-rye.jpg)](http://www.thegourmez.com/2013/01/redemption-rye/redemption_-rye/)
+  ![redemption_ rye](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/redemption_-rye.jpg)
 
 The whiskey’s color is yellow-brown, like light corn syrup. It smells sweet for whiskey, bringing corn to mind. The alcohol burn hits first on sipping, but it passes fast. I would call it medium bodied with vanilla, bacon, and butter notes that are really pleasant rolling over your tongue.
 

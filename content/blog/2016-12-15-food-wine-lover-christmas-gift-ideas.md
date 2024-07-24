@@ -64,11 +64,11 @@ I am strictly forbidden from posting the photo we took together, so you'll just 
 
 The International Wine of the Month Club is also offering discount codes for purchases made in December! [Click here](https://www.winemonthclub.com/wine-club-promo-codes/) to learn how to save from $5 to $25 on gifting one of their subscriptions.
 
-Picking a wine club is difficult! If either of the two I mentioned don't seem quite right, but the gift idea does, you may benefit from digging into the extensive research done to select [the best wine clubs](http://www.reviews.com/wine-clubs/) over at Reviews.Com. Bonus: One of their top picks is **Uncorked Ventures,** which [I featured last fall](http://thegourmez.com/2015/11/09/uncorked-ventures-wine-club/) on the blog after meeting founder Mark Aselstine and enjoying some truly amazing wines he selected.
+Picking a wine club is difficult! If either of the two I mentioned don't seem quite right, but the gift idea does, you may benefit from digging into the extensive research done to select [the best wine clubs](http://www.reviews.com/wine-clubs/) over at Reviews.Com. Bonus: One of their top picks is **Uncorked Ventures,** which [I featured last fall](https://thegourmez.com/blog/2015/11/09/uncorked-ventures-wine-club/) on the blog after meeting founder Mark Aselstine and enjoying some truly amazing wines he selected.
 
 ## **RawSpiceBar Gift Boxes**
 
-Don't drink wine? I'm not leaving you out in the dark with this post! **RawSpiceBar**, which [I reviewed last year](http://thegourmez.com/2015/12/18/foodie-gift-idea-raw-spice-bar-subscription/) and will be reviewing again early next year, is also offering great deals for the holidays.
+Don't drink wine? I'm not leaving you out in the dark with this post! **RawSpiceBar**, which [I reviewed last year](https://thegourmez.com/blog/2015/12/18/foodie-gift-idea-raw-spice-bar-subscription/) and will be reviewing again early next year, is also offering great deals for the holidays.
 
 [![rawspicebar raw spice bar](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/rawspicebarlogo5.png)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/12/rawspicebarlogo5.png)
 
@@ -94,7 +94,7 @@ The gift boxes also include recipes from talented, and well-known, chefs and can
 [![Wente Winemakers Studio](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/WBC16-Livermore-118-500x228.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/11/WBC16-Livermore-118.jpg) Winemakers Studio</div>
 
 
-Yes, we're back to wine! You may have read my recent post on the Livermore Valley Wine Country—the Wente founding family and their Winemakers Studio were special highlights of that experience. If you haven't, [go read it now](http://thegourmez.com/2016/11/21/highlights-of-the-livermore-valley-wine-country/)! I'll wait....done? Great! In addition to all the fun and informative classes already offered at the Winemakers Studio, Wente has added "Tiny Bubbles!" a course that goes over sparkling wine pairings for appetizers, entrees, and desserts. If you're planning a trip to northern California or already live in the area, a visit to the studio would make for a great break from all the holiday crowds.
+Yes, we're back to wine! You may have read my recent post on the Livermore Valley Wine Country—the Wente founding family and their Winemakers Studio were special highlights of that experience. If you haven't, [go read it now](https://thegourmez.com/blog/2016/11/21/highlights-of-the-livermore-valley-wine-country/)! I'll wait....done? Great! In addition to all the fun and informative classes already offered at the Winemakers Studio, Wente has added "Tiny Bubbles!" a course that goes over sparkling wine pairings for appetizers, entrees, and desserts. If you're planning a trip to northern California or already live in the area, a visit to the studio would make for a great break from all the holiday crowds.
 
 
 

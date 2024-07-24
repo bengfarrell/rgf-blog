@@ -25,7 +25,4 @@ If you have both a sweet and spicy tooth, as I do, this cocktail is fantastic. 
 
 ![4 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_truffle1.gif "rating_truffle1")</div>
 
-
-[](http://www.busybeeraleigh.com/index.php?option=com_content&view=article&id=80&Itemid=67)
-
 _Reviewed 7.24.09._

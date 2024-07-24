@@ -62,7 +62,7 @@ If you live in the Sacramento area, lucky you because the Classy Hippie Tea Comp
 
 I’d picked up a tiny sample bottle of Naples Drizzle, a chili oil condiment, from the swag table the night before the liveblogging session, but as I wasn’t planning to try it until I got home. So I was excited to see them come around to our table! Co-founders Davey Parker and Cheryl Coleman started the company after being introduced to the custom of serving chili oil with pizza at Italian restaurants in Costa Rica. Talk about a fortuitous confluence of influences!
 
-Davey and Cheryl make three varieties, each using only oils, peppers, and salt: Szechuan, chipotle, and the original red pepper. We were served a drizzle of the original over tiny pizza slices, and I have to say, I was a little reticent not having tried the combination before, but I loved it! Much like the secret pizza dust at [Pinky's Pizza Parlor](http://thegourmez.com/2016/03/08/pinkys-pizza-parlor-review/), the Naples Drizzle added zing to the pie, elevating the flavor profile a notch.
+Davey and Cheryl make three varieties, each using only oils, peppers, and salt: Szechuan, chipotle, and the original red pepper. We were served a drizzle of the original over tiny pizza slices, and I have to say, I was a little reticent not having tried the combination before, but I loved it! Much like the secret pizza dust at [Pinky's Pizza Parlor](https://thegourmez.com/blog/2016/03/08/pinkys-pizza-parlor-review/), the Naples Drizzle added zing to the pie, elevating the flavor profile a notch.
 
 Naples Drizzle bottles are $10 each for 8.1 ounces and available [at their web store.](https://naplesdrizzle.com/collections/all)
 
@@ -94,7 +94,7 @@ Order at [their online store](https://shop.breadsrsly.com/) or find in select ma
 
 Those are my three top picks from the Liveblogging Session at the International Food Bloggers Conference!
 
-I should note that I disqualified the wines sampled during the session from consideration, as I’ve already shared my thoughts on the awesome products coming from [Bella Grace Vineyards](http://thegourmez.com/2016/10/10/a-visit-to-bella-grace-vineyards/) and the [Ironstone Vineyard’s Obsession line](http://thegourmez.com/2016/09/04/most-memorable-wines-from-the-2016-wine-bloggers-conference-part-2/) before. So please do not think I ranked them lower on the totem pole for quality! I only did due to my previous familiarity with those brands.
+I should note that I disqualified the wines sampled during the session from consideration, as I’ve already shared my thoughts on the awesome products coming from [Bella Grace Vineyards](https://thegourmez.com/blog/2016/10/10/a-visit-to-bella-grace-vineyards/) and the [Ironstone Vineyard’s Obsession line](https://thegourmez.com/blog/2016/09/04/most-memorable-wines-from-the-2016-wine-bloggers-conference-part-2/) before. So please do not think I ranked them lower on the totem pole for quality! I only did due to my previous familiarity with those brands.
 
 I have two most posts coming from the IFBC, so you can look forward to more of my thoughts on the conference soon. Have a fantastic Christmas!
 

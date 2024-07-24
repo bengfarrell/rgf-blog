@@ -29,7 +29,7 @@ We slept at Christa's house in Culver City that night and the next. Christa took
 
 <div class="caption">
 
-![View from the end of Olvera Street](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-011.jpg) View from the end of Olvera Street</div>
+![View from the end of Olvera Street](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+011.jpg) View from the end of Olvera Street</div>
 
 
 We ate at [Cielito Lindo](http://www.cielitolindo.org/), a spot that specializes in taquitos covered in a thin avocado sauce. They were okay. I liked the sopa and taco we stopped for later a bit better but I still haven't found anywhere as good as Taqueria Vallarta in Santa Cruz. [La Vaquita](http://lavaquitanc.com/) in Durham is a close second, though I've only been twice.
@@ -41,7 +41,7 @@ We explored the Avila Adobe next, the oldest house in LA, which is decorated to 
 
 <div class="caption">
 
-![Front of the Avila Adobe](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-017.jpg) Main room in the Avila Adobe</div>
+![Front of the Avila Adobe](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+017.jpg) Main room in the Avila Adobe</div>
 
 
 
@@ -49,44 +49,44 @@ We explored the Avila Adobe next, the oldest house in LA, which is decorated to 
 
 <div class="caption">
 
-![Courtyard View](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-021.jpg) Courtyard View</div>
+![Courtyard View](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+021.jpg) Courtyard View</div>
 
 
 It was worth taking the few minutes to explore it if only to say I've been there.  Further down the marketplace, we saw wrestling masks for sale.
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-023.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+023.jpg)
 
 We didn't buy one but I kind of think we should have. I did get two pretty bracelets and Ben bought a shirt that proclaims "El Cucuy \[Spanish for a bogeyman-type monster\] doesn't scare me."  I also tried some pumpkin candy that was basically a conversion of pumpkin mush to sugar crystals. Yum.
 
 Ben took our picture in front of a large nativity scene at the Olvera Street plaza.
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-026.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+026.jpg)
 
 We said goodbye to Daniel for now and Christa drove us around downtown LA, with me snapping pictures galore. I must say, downtown LA is looking good, especially the performing arts area, where my cousin Mike works. Walt Disney Hall is gorgeous, as are many other spots in this area.
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-041.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+041.jpg)
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-051.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+051.jpg)
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-055.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+055.jpg)
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-065.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+065.jpg)
 
 
 
 
 <div class="caption">
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-063.jpg) Me attempting to drink from a huge wine vat outside of San Antonio Winery.</div>
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+063.jpg) Me attempting to drink from a huge wine vat outside of San Antonio Winery.</div>
 
 
 That night, we went to C & O Cucina in Marina del Rey, where I met up with some of my fave college friends, Donna and Angela, and their boyfriends, in addition to my sister's boyfriend, Joe, and my cousin, Kelly. Thus began the overeating!
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-079.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+079.jpg)
 
 We finished off the evening in Santa Monica, strolling along the deserted boardwalk and promenade.
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-087.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+087.jpg)
 
 We had frozen yogurt at Pinkberry's, which my sister informed me used to be the happening place to get yogurt since Paris Hilton was a customer there before she opted for some new chain. Yay, we ate formerly trendy desserts!
 
@@ -103,38 +103,38 @@ After dinner, we transitioned to the Secret Santa/Blessing Tree portion of the d
 
 
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-103.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+103.jpg)
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-107.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+107.jpg)
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-108.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+108.jpg)
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-114.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+114.jpg)
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-125.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+125.jpg)
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-131.jpg)
-
-
-
-
-<div class="caption">
-
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-132.jpg) Uncle Mike's annual tradition.</div>
-
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+131.jpg)
 
 
 
 
 <div class="caption">
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-134.jpg) I have no idea why we look this guilty.</div>
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+132.jpg) Uncle Mike's annual tradition.</div>
+
+
+
+
+
+<div class="caption">
+
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+134.jpg) I have no idea why we look this guilty.</div>
 
 
 We then decided to try for a cousins' picture and managed to succeed getting a few good shots!
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-147.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+147.jpg)
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla-150.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/christmasinla+150.jpg)
 
 We headed back home the next morning but didn't make it until Sunday, due to O'Hare flight problems once again. No matter, it was a great Christmas and I was happy to see the family again! Thanks for having us, Gomezes!

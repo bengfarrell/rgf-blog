@@ -16,7 +16,7 @@ tags:
 
 **Region:** Sonoma, CA
 
-![](http://www.thegourmez.com/gourmez/photos/dynamitechard.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/dynamitechard.jpg)
 
 This chardonnay is light-bodied. The nose is of hard caramel candy with extra vanilla mixed in. The fruit hits you first on sipping: starfruit and apple. Then a bit of cream kicks in like a low-calorie, french vanilla ice cream, just enough to guide the fruit home to your belly. It’s more sweet than dry but closer to the middle of that range than any one side.
 

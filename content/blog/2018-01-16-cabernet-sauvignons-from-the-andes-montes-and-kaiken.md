@@ -27,7 +27,7 @@ My first experience with Montes and Kaiken wines came from the 2015 Wine Blogger
 [![aurelio montes jr kaiken cabernet sauvignon](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/2015_WBC_161-500x373.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/01/2015_WBC_161.jpg) Aurelio Montes, Jr., at the 2015 WBC.</div>
 
 
-I was so impressed, I named the **Montes 2015 Sauvignon Blanc** one of [my most memorable wines from that trip](http://thegourmez.com/2015/08/27/most-memorable-wines-from-the-2015-finger-lakes-wine-bloggers-conference/), and in a weekend where I tasted near a hundred wines, that’s no easy feat. From the Casablanca Valley, it had conjured up images of cacti and tumbleweeds on the high desert, though compared with the Kaiken wines of Mendoza, it’s not very high up at all.
+I was so impressed, I named the **Montes 2015 Sauvignon Blanc** one of [my most memorable wines from that trip](https://thegourmez.com/blog/2015/08/27/most-memorable-wines-from-the-2015-finger-lakes-wine-bloggers-conference/), and in a weekend where I tasted near a hundred wines, that’s no easy feat. From the Casablanca Valley, it had conjured up images of cacti and tumbleweeds on the high desert, though compared with the Kaiken wines of Mendoza, it’s not very high up at all.
 
 With that pleasant memory in mind, I was delighted to take part in a Twitter tasting of Montes and Kaiken’s cabernet sauvignons last November. **_Obligatory disclaimer:_** These wines were provided free for my review.
 

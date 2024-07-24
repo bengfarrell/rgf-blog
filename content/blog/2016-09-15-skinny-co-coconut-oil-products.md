@@ -55,7 +55,7 @@ Now, that doesn’t mean you _want_ to eat them, as I found my sugar scrub too s
 
 ## Skinny & Co. in Cooking
 
-The final jar was pure, raw coconut oil, and I decided to use it to make a raw dessert, the pina colada pie from Heather Pace’s _Sweetly Raw Desserts_ cookbook, [which I reviewed here](http://thegourmez.com/2015/06/10/sweetly-raw-desserts-chocolate-gingerbread-brownies-and-almond-pear-cream-tart-recipes/). It…turned out well!
+The final jar was pure, raw coconut oil, and I decided to use it to make a raw dessert, the pina colada pie from Heather Pace’s _Sweetly Raw Desserts_ cookbook, [which I reviewed here](https://thegourmez.com/blog/2015/06/10/sweetly-raw-desserts-chocolate-gingerbread-brownies-and-almond-pear-cream-tart-recipes/). It…turned out well!
 
 [![Coconut Oil Pina Colada Pie](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/SkinnyCo-11-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/SkinnyCo-11.jpg) [![Coconut Oil Pina Colada Pie](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/SkinnyCo-14-500x331.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/09/SkinnyCo-14.jpg)
 

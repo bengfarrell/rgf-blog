@@ -21,7 +21,7 @@ tags:
 **Butter in the Forest**\
 Adapted from _Japanese Cocktails_ by Yuri Kato
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/gourmez/photos/butterforest.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/butterforest.jpg)
 
 1/4 avocado\
 1 tsp honey\

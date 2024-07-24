@@ -10,8 +10,6 @@ tags:
   - "the-gourmez-wine-review"
 ---
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/IMG_2135forblog.jpg "Crane Lake Petite Sirah 2005")
-
 This red wine is packed full of berry, with a touch of citrus.  Blueberry and unripened blackberry are the main elements and now I wonder if that citrus was really just the tartness of the blackberry.  There is an earthiness of soil as well.
 
 I couldn't make it through a glass.  I blame the blueberry.   By all means, try it if you like that round, cloying berry.  I do not.

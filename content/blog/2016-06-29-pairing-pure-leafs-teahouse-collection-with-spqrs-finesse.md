@@ -40,7 +40,7 @@ Last week, I had the pleasure of trying Chef Matthew Accarrino's cooking for the
 
 [![Teahouse Collection display](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-03-500x371.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-03.jpg)
 
-Even the product displays had a little wild in them. The three teas are Fuji Apple & Ginger, Sicilian Lemon & Honeysuckle, and Wild Blackberry & Sage. All the ingredients were arrayed for us to sniff and touch, and I admit, I don't think any of them are that adventurous of combinations (I even developed a [berry and sage cocktail](http://thegourmez.com/2016/02/26/the-bessie-coleman-gin-cocktail/) just a few months ago), but they are good ones.
+Even the product displays had a little wild in them. The three teas are Fuji Apple & Ginger, Sicilian Lemon & Honeysuckle, and Wild Blackberry & Sage. All the ingredients were arrayed for us to sniff and touch, and I admit, I don't think any of them are that adventurous of combinations (I even developed a [berry and sage cocktail](https://thegourmez.com/blog/2016/02/26/the-bessie-coleman-gin-cocktail/) just a few months ago), but they are good ones.
 
 [![Pure Leaf Tea House Collection](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-13-500x220.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-13.jpg)
 
@@ -70,7 +70,7 @@ While sweet from natural fruit sugars, this strawberry dish is not dessert but a
 [![accarrino tea spritzer pure leaf](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-11-416x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/06/Pure-Leaf-SPQR-11.jpg) Tea "Spritz"</div>
 
 
-This gentle cocktail reminded me a lot of the [Bon Affair Sauvignon Blanc](http://thegourmez.com/2015/09/21/bon-affair-sauvignon-blanc/) wine spritzer I reviewed last fall. Both are slight, with fleeting impressions of minerality. The Wild Blackberry & Sage tea was featured, though it didn't have a strong presence--you'll be fine with this drink even if you don't like black tea. This is a cocktail for thirst-quenching, one that won't weigh you down.
+This gentle cocktail reminded me a lot of the [Bon Affair Sauvignon Blanc](https://thegourmez.com/blog/2015/09/21/bon-affair-sauvignon-blanc/) wine spritzer I reviewed last fall. Both are slight, with fleeting impressions of minerality. The Wild Blackberry & Sage tea was featured, though it didn't have a strong presence--you'll be fine with this drink even if you don't like black tea. This is a cocktail for thirst-quenching, one that won't weigh you down.
 
 To accompany Chef Accarrino's tea-based creations, he prepared an Israeli couscous pesto salad, polenta with an extra punch of parmesan, meatless meatballs, and my favorite: slow-roasted Wagyu beef sliced thin.
 

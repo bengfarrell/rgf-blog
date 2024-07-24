@@ -48,7 +48,7 @@ Why Indaba? Well...
 
 “Like a braai, Indaba embodies community. The name itself is Zulu for ‘a meeting of the minds’,” explained Molly Choi, Cape Classics’ EVP of Sales and Marketing. “To expand that sense of togetherness and to support one of our core South African brands, we’re inviting consumers to take to Instagram, enjoy the celebration, and share what braai means to them.”
 
-Sample bottles of Indaba are on their way to me, and I'll try to get reviews of them up ASAP to help you decide what to pair with your braai selections. Do you [follow me on Vivino](http://www.vivino.com/users/becca.gom) yet? That's where my on-the-fly reviews appear first. Update 9/23/15! You can now get my [pairing suggestions for these Indaba Wines](http://thegourmez.com/2015/09/22/pairing-suggestions-for-indaba-wines/) here.
+Sample bottles of Indaba are on their way to me, and I'll try to get reviews of them up ASAP to help you decide what to pair with your braai selections. Do you [follow me on Vivino](http://www.vivino.com/users/becca.gom) yet? That's where my on-the-fly reviews appear first. Update 9/23/15! You can now get my [pairing suggestions for these Indaba Wines](https://thegourmez.com/blog/2015/09/22/pairing-suggestions-for-indaba-wines/) here.
 
 **Here are the rules:**
 

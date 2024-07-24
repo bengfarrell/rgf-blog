@@ -23,7 +23,7 @@ Early this year, I attended the San Francisco leg of the [Association for the Pr
 [![AVPSA, wine, tasting, european](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180205_133511_1-500x370.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180205_133511_1.jpg) A few of the wines available for tasting.</div>
 
 
-Attending wine shows like these as media is a chance to try wines I've never come across before and hunt for ones that strike me as unique or extraordinary—sometimes both at the same time! This was my second time attending an APVSA event ([my thoughts on the first one here](http://thegourmez.com/2017/08/02/best-wines-on-the-apvsa-wine-not-tour/)). _Obligatory disclaimer:_ All that explanation means the products mentioned in this post were free to me to taste as a media member.
+Attending wine shows like these as media is a chance to try wines I've never come across before and hunt for ones that strike me as unique or extraordinary—sometimes both at the same time! This was my second time attending an APVSA event ([my thoughts on the first one here](https://thegourmez.com/blog/2017/08/02/best-wines-on-the-apvsa-wine-not-tour/)). _Obligatory disclaimer:_ All that explanation means the products mentioned in this post were free to me to taste as a media member.
 
 And taste I did! Here are my notable finds:
 

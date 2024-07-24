@@ -12,8 +12,6 @@ tags:
 
 **Other words on the label:** Del Toro
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Abrazosyrah.jpg)
-
 At last I have found it: a Spanish wine that I despise.  I could not finish half a glass of this very puckery and bitter syrah.  I honestly thought it smelled of kitty litter and the taste was not much better.  There was a slight hint of raisin but that's all the fruit I could make out.  Don't drink it unless you like a challenge.
 
 [![rating_mushroom1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_mushroom1.gif)](http://www.rebeccagomezfarrell.com/2009/04/restaurant-review-dickeys-barbecue-pit-durham/rating_mushroom1/)

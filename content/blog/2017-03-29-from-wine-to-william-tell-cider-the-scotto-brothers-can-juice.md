@@ -57,7 +57,7 @@ Flavor combinations? That … that sounds like a gimmick, doesn’t it? Rest ass
 
 [![William Tell Cider Pinot Grigio](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-03-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-03.jpg)
 
-What? Wine \*in\* the cider? I was dubious too, but I declared this cider one of [the highlights of my Wine Bloggers Conference](http://thegourmez.com/2016/09/02/most-memorable-wines-from-the-2016-wine-bloggers-conference-part-1/) last August, and it still impresses through sheer creativity. Pinot grigio is blended in with fermented apple juice before a final ferment together. A musty nose adds depth to what I’d call a wine-forward cider that ends as sparkling as a lime spritzer. It went great with a grilled calamari starter at [Fish & Farm](http://www.fishandfarmsf.com/) in San Francisco.
+What? Wine \*in\* the cider? I was dubious too, but I declared this cider one of [the highlights of my Wine Bloggers Conference](https://thegourmez.com/blog/2016/09/02/most-memorable-wines-from-the-2016-wine-bloggers-conference-part-1/) last August, and it still impresses through sheer creativity. Pinot grigio is blended in with fermented apple juice before a final ferment together. A musty nose adds depth to what I’d call a wine-forward cider that ends as sparkling as a lime spritzer. It went great with a grilled calamari starter at [Fish & Farm](http://www.fishandfarmsf.com/) in San Francisco.
 
 [![Grilled calamari Fish and Farm San Francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-10-500x458.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Scotto-Ciders-10.jpg)
 

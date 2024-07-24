@@ -11,8 +11,6 @@ tags:
 
 **Other words on the label:** Grand Vin de Bordeaux, appellation Bordeaux controlee, EARL Vignobles LABONNE, proprietaire a F33790 MASSUGAS, Mis en Bouteille au Chateau, Produit de France.  There's also the certification of the French agriculture department but my brain was too tired to type it out.
 
-![](http:/thegourmez.com/photos/IMG_2239.JPG "chateau bordeaux")
-
 This Bordeaux, which is the first bottle of Bordeaux that I've bought, is delightful on first sip with velvety, smooth fruit that reminds me of when I used to love raspberry-flavored anything above all other fruits.  I didn't get much off the nose but that's okay.  There were also some light elements of tobacco and dirt.  Overall?  Lovely.
 
 

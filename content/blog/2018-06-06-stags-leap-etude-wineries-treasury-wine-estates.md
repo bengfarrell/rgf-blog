@@ -35,7 +35,7 @@ On a pre-excursion to the 2017 Wine Bloggers Conference (WBC), I had the pleasur
 [![Stags' Leap Winery, Treasury Wine Estates, Wine Bloggers Conference](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/twe-01-500x375.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/twe-01.jpg) Bloggers bussing to Stags' Leap! Photo via Tamara Stanfill.</div>
 
 
-You can read about the cheese and wine pairing tasting at Chateau St. Jean in [my previous post here](http://thegourmez.com/2018/01/28/cheese-and-wine-pairings-at-chateau-st-jean/). Suffice it to say that the **2014 Chateau St. Jean Chardonnay (4.5/5)** blew me away on both occasions with its savory notes and spritely acidity of lime and pomelo.
+You can read about the cheese and wine pairing tasting at Chateau St. Jean in [my previous post here](https://thegourmez.com/blog/2018/01/28/cheese-and-wine-pairings-at-chateau-st-jean/). Suffice it to say that the **2014 Chateau St. Jean Chardonnay (4.5/5)** blew me away on both occasions with its savory notes and spritely acidity of lime and pomelo.
 
 [Stags' Leap Winery](https://www.stagsleap.com/), our first destination on the pre-excursion, is even more historic than Chateau St. Jean. On an overcast afternoon, it's more ethereal as well.
 
