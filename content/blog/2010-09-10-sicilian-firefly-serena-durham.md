@@ -21,7 +21,7 @@ tags:
 Durham, NC\
 [Website](http://www.serena-rtp.com/)
 
-![](http://www.thegourmez.com/gourmez/photos/sicilianfirefly.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/sicilianfirefly.jpg)
 
 This pretty, and nicely sized drink, is made with banana schnapps, coconut vodka, and melon liqueur. I admit, the menu description sold me with its poetic waxings about the sweet hues of dancing Sicilian fireflies. The flavors dance as well as their namesakes, with the coconut and melon pairing smoothly. The melon liqueur, definitely not Midori, brought out some nice floral notes too. It was sweet but in a small enough portion that it never became cloying.
 

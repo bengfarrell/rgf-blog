@@ -18,7 +18,7 @@ Raleigh, NC\
 [Website](http://www.angusbarn.com/turkey.htm)\
 $8.25 (I think)
 
-![](http://www.thegourmez.com/gourmez/photos/tlcmartini.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/tlcmartini.jpg)
 
 The Wild Turkey Lounge is the upstairs bar at the Angus Barn. It used to be the cigar lounge, but I imagine it’s actually doing much better business without the cigar smoking. It’s definitely got that barn feeling, and with a huge array of wild turkey figurines, it’s plenty full of whimsy. I liked the atmosphere of the place and their comfy, leather chairs and many appealing nooks and crannies, even if the other standard barn decorations can be trite.
 

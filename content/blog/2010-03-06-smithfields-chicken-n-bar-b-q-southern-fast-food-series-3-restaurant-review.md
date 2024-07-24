@@ -23,15 +23,15 @@ Boxes of Chicken: $6.99–$22.99\
 Platters (2 sides and hushpuppies): $5.89–$6.99\
 Snacks (Fries): $4.49-5.29
 
-![](http://www.thegourmez.com/gourmez/photos/smithfield_0001.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/smithfield_0001.jpg)
 
 Smithfield's, obviously getting their start in Smithfield, NC, is a North Carolina chain that focuses on fried chicken and Eastern NC-style barbecue (read: vinegary). They sell their barbecue sauce and hush puppy batter in bulk at the counter. Strangely, the sides were not listed on their posted menu, which would have been helpful when I was asked if I wanted the standard ones or not (brunswick stew, coleslaw, potato salad, fries, and baked beans are the options for your reference). In addition to fried chicken and pork barbecue, they have a seafood section that consists of . . . shrimp. Not sure why it wasn't called the shrimp section but who am I to question such things? Banana pudding and pecan pie are also available if you have a sweet tooth.
 
-![](http://www.thegourmez.com/gourmez/photos/smithfield_0003.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/smithfield_0003.jpg)
 
 The dining area is very large and very clean, with a staff member always at hand to take your trash, bring you a refill, or anything else you need. There's also a sink to the right of the counter to encourage you to wash your hands before and after you finish your meal. Speaking of the meal, I ordered a white chicken platter, which came with a breast, thigh, coleslaw, potato salad, and hush puppies.
 
-![](http://www.thegourmez.com/gourmez/photos/smithfield_0002.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/smithfield_0002.jpg)
 
 First things first, the fried chicken is GOOD. Really good. There were loads of crispy, crunchy coating and the breast was huge, moist, and yummy. The thigh had no meat to speak of, but the breast was plenty by itself.
 

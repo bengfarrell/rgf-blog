@@ -36,17 +36,17 @@ At first, we mingled some in Bar Posta, where I ordered an [Absente Minded cockt
 
 For the main portion of the evening, we were led into the restaurant itself. Their space is much larger than any of us expected, I think. We filled up a whole room with foodies, at a mix of large and small tables. That led to the one downside of the evening for me; mingling is difficult when you are seated at a table, but I'm not sure how that could have been fixed for a sit-down affair. Regardless, the restaurant is nicely decorated, with huge Mediterranean-style shutters of turquoise on one wall and warm, yellow paint throughout the rest of the sunny, airy room. The table settings were gorgeous.
 
-![](http://www.thegourmez.com/gourmez/photos/foodietweetup01.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/foodietweetup01.jpg)
 
 I'm always amazed how simple glasses full of water can add so much to a table setting. Of course, I'm not talented in that area in the slightest, so I admit to being easily pleased. My main dining companions were @gwgdurham, @TheMasalaWala, and @YelpNCTriangle. Our first course was a stuffed tomato with basil reduction and a salad with arugula, Parmigiano-Reggiano, and Posta Tuscan's extra virgin olive oil.
 
-![](http://www.thegourmez.com/gourmez/photos/foodietweetup02.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/foodietweetup02.jpg)
 
 It was a great and simple dish. Pairing the stuffed tomato's richness with the fresh, bitter arugula was an inspired move, and who can resist a pile of delicious cheese to go along with that? The slice of raw tomato seemed extraneous, and I think the use of evoo could have been more generous, but I was impressed with how such a simple dish turned out so well.
 
 Next on the list was spinach and ricotta ravioli with pancetta and zucchini.
 
-![](http://www.thegourmez.com/gourmez/photos/foodietweetup03.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/foodietweetup03.jpg)
 
 Now this dish was a mixed bag. The pasta seemed too chewy at the edges, and the pancetta was also chewy, which I wasn't sure what to make of—perhaps I just haven't had chewy pancetta before, thus coloring my expectations for it? I really liked the filling and loved that it just filled the pasta rather than stuffed them to the gills. No need for ravioli to erupt with cheese and spinach at each bite, in my opinion. The sauce was lighter than it looked and had a nice flavor.
 
@@ -54,7 +54,7 @@ After that came an oven-baked filet of sea bass served with what I think were br
 
 Then came dessert, a dish that I ranked best of the evening but a lot of my fellow foodies found off-putting: rice fritters with an orange zest and cinnamon zabaglione.
 
-![](http://www.thegourmez.com/gourmez/photos/foodietweetup05.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/foodietweetup05.jpg)
 
 The fritter was a chewy texture, which was a fun change from standard rice-for-dessert offerings. I loved the orange and cinnamon custard sauce. It was bitter and strong, which was what turned many of the others off, but I thought it worked really well to provide an intriguing counterpoint to the subtle taste of the rice. It was not a very sweet dessert, but I had fun eating it!
 

@@ -26,33 +26,33 @@ Sandwhich is a lunch spot in downtown Chapel Hill that is known for their high q
 
 On to their present location, for the next week at least:
 
-![](http://www.thegourmez.com/gourmez/photos/sandwich1.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/sandwich1.jpg)
 
-![](http://www.thegourmez.com/gourmez/photos/sandwich2.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/sandwich2.jpg)
 
-![](http://www.thegourmez.com/gourmez/photos/sandwich3.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/sandwich3.jpg)
 
 If you can get to Sandwhich before they move, you should, because their outdoor seating area, shared with a new crepe place next door, is really lovely for a weekday lunch. I went with two friends, and we all ordered something different from the menu. I chose the meatloaf sandwich that is made with Moroccan spices, roasted tomatoes, bacon, and cheddar on sourdough.
 
-![](http://www.thegourmez.com/gourmez/photos/sandwich7.jpg)  First, I will say that this was really, really good. The thick meatloaf slice was exceptionally moist and the fresh, sometimes whole, spices were a great blend. The cheese and warm roasted tomatoes were perfect. However, the bread was very buttery, making the whole sandwich, along with the meat's oils, rather greasy. The bacon was superfluous—I don't remember tasting it at all.
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/sandwich7.jpg)  First, I will say that this was really, really good. The thick meatloaf slice was exceptionally moist and the fresh, sometimes whole, spices were a great blend. The cheese and warm roasted tomatoes were perfect. However, the bread was very buttery, making the whole sandwich, along with the meat's oils, rather greasy. The bacon was superfluous—I don't remember tasting it at all.
 
 The Moroccan carrot salad, their staple side item, is a cold salad with carrot slices roasted longer than I like and yummy parsley mixed in. I think I liked it, but it was about three tablespoons' worth of food, so it's hard to know for sure.
 
 I also had their Moroccan-style iced tea.
 
-![](http://www.thegourmez.com/gourmez/photos/sandwich4.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/sandwich4.jpg)
 
 It's green tea steeped with mint and sage and not a hint of sugar, just how I like it. Definitely a refreshing beverage.
 
 My friend Erika ordered the daily special: half a chicken salad sandwich with a cookie, soup, and chips for the same price as a whole sandwich. That was definitely a steal.
 
-![](http://www.thegourmez.com/gourmez/photos/sandwich5.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/sandwich5.jpg)
 
 She was very happy with all of her choices. I tried the chips, freshly cut and fried of course. They were fried in peanut oil, which gave them a great flavor that I'll admit I thought was olive oil, and were tossed with parsley and kosher salt. They were a bit too greasy for me, also, but I'd definitely have munched a few more.
 
 My friend Laura went for the BAM sandwich, which has cheddar cheese, apples, cremini mushrooms, and smoked bacon on sourdough.
 
-![](http://www.thegourmez.com/gourmez/photos/sandwich6.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/sandwich6.jpg)
 
 She was not that impressed. The ingredients didn't meld well together, and for the price, she thought that more than one type of cheese would have been better.
 

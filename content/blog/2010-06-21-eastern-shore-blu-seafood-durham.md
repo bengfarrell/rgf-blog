@@ -19,7 +19,7 @@ tags:
 [Website](http://bluseafoodandbar.com/)\
 [My restaurant review](https://thegourmez.com/blog/2010/06/14/blu-seafood-and-bar-durham/)
 
-![](http://www.thegourmez.com/gourmez/photos/blu07.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/blu07.jpg)
 
 Eastern Shore is made from Pimm's, lemon juice, cucumber slices, ginger-lemongrass syrup, and a splash of ginger ale. All of those flavors come together to create a vibrant cocktail that's worth your money. Interestingly, the cucumbers seemed to be only a garnish, but their flavor came through strongly in the drink, and I think they mellowed out some of the bolder flavors. Those other flavors melded very well together and made a tasty concoction that I'd definitely drink again.
 

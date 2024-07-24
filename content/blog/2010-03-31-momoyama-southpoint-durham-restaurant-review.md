@@ -44,7 +44,7 @@ The Spicy Momoyama was ridiculously good for a chicken stir-fry. Honestly, I won
 
 My husband had a sushi and sashimi combo dinner. I didn't try it, but he thought it was great. It was definitely pretty.
 
-![](http://www.thegourmez.com/gourmez/photos/momoyama6.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/momoyama6.jpg)
 
 Momoyama, while a little lacking in atmosphere, does provide a great dinner. I enjoyed every morsel of mine. I cannot say how much the gorgeous weather that day gets the credit for that.
 

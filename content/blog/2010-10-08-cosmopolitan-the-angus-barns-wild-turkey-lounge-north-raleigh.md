@@ -22,7 +22,7 @@ Raleigh, NC\
 [Website](http://www.angusbarn.com/turkey.htm)\
 $10
 
-![](http://www.thegourmez.com/gourmez/photos/anguscosmo.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/anguscosmo.jpg)
 
 The Cosmopolitan is my favorite drink, for its high level of alcohol that comes with cranberry and citrus splashes to help it go down. There are many varieties of the drink, mainly tweaks on the amount of cranberry used and types of citrus juice, vodka, and orange liqueur involved. The Wild Turkey Loft opts for Stoli, Cointreau, a splash of cranberry, and a lemon twist.
 
