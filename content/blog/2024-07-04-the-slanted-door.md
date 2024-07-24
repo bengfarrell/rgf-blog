@@ -13,11 +13,10 @@ tags:
 
 ---
 
-*Address:*
-City Center Bishop Ranch
-6000 Bollinger Canyon Rd
-San Ramon, CA
-*Website:* <https://slanteddoor.com/sanramon>
+*Address:* 6000 Bollinger Canyon Rd\
+City Center Bishop Ranch\
+San Ramon, CA\
+[*Website*](https://slanteddoor.com/sanramon)
 
 ![slanted door bok choy](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/slanted-door-8.jpg)
 

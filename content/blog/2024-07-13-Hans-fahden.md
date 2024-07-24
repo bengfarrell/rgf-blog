@@ -1,5 +1,5 @@
 ---
-title: "Hahns Fahden Vineyards"
+title: "Hans Fahden Vineyards"
 date: "2024-07-13"
 categories:
   - "tasting-rooms"
@@ -14,14 +14,14 @@ tags:
 ---
 *Region:* Hans Fahden Vineyards is right on the border of Sonoma and Napa counties, close to Calistoga in the Mayacama Mountains range.
 
-[*Website:*](https://www.hansfahden.com/)\
-*Phone:* 7078-942-6760
+[*Website*](https://www.hansfahden.com/)\
+*Phone:* 707-942-6760
 
 ![hans fahden 11](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/hans-fayden+(11).jpg)
 
 # The 411 on Hans Fahden Vineyards
 
-This beautiful winery is nestled between some of the most fun tourist landmarks in California’s wine country: the Petrified Forest and Old Faithful. As fun as those are to explore, so is the beautifully tended garden of this winery and their exceptional wines. Tastings are available on the patio and in their wine caves—one in the tasting room and one located elsewhere on the grounds.
+This beautiful winery is nestled between some of the most fun tourist landmarks in California’s wine country: the Petrified Forest and Old Faithful. As neat as those are to explore, so is the beautifully tended garden of this winery and their exceptional wines. Tastings are available on the patio and in their wine caves—one in the tasting room and one located elsewhere on the grounds.
 
 ![hans fahden 18](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/hans-fayden+(18).jpg)
 

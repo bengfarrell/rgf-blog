@@ -11,8 +11,6 @@ tags:
 
 ---
 
-# Intro
-
 *Obligatory Disclaimer:* This wine was provided to me as a free sample to review for this blog.
 
 The Dow’s 2016 Late Bottled Vintage Port is one of many Dow ports that I have tried and enjoyed—I do honestly wonder what it would take for me to *dislike* a Port. This one is an exceptionally good deal for a wine that would make a lovely end to a full day. It will only get better with time.
@@ -21,10 +19,14 @@ The Dow’s 2016 Late Bottled Vintage Port is one of many Dow ports that I have 
 
 # Dow’s 2016 Late Bottled Vintage Port Details
 
-*Winery:* Dow’s\
-*Vineyard:* Quinta do Bomfim and Quinta da Senhora\
-*Region:* Duoro, Portugal\
-*Grapes:* Touriga Franca, Touriga Nacional, Sousão, Tinta Barroca, Tinta Roriz\
+*Winery:* Dow’s
+
+*Vineyard:* Quinta do Bomfim and Quinta da Senhora
+
+*Region:* Duoro, Portugal
+
+*Grapes:* Touriga Franca, Touriga Nacional, Sousão, Tinta Barroca, Tinta Roriz
+
 *Age at Review?* 6 years
 
 # Thoughts on Tasting Dow’s 2016 Late Bottled Vintage Port

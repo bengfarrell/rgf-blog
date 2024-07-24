@@ -13,17 +13,18 @@ tags:
 
 ---
 
-# Intro
-
 *Obligatory Disclaimer:* This wine was given to me as a free sample to review for this blog. 
 
 The 2019 Prats + Symington Post Scriptum is a pleasingly light red wine blend of grapes typically used for Port wine. It’s born out of a partnership between winemaker Bruno Prats of Bordeaux and the legendary Symington Family Estates of the Douro Valley.
 
 # Details on the 2019 Prats + Symington Post Scriptum
 
-*Vineyard:* Quinta de Roriz\
-*Region:* Douro, Portugal\
-*Grapes:* Touriga Nacional, Touriga Franca, likely also Tinta Roriz, Tinta Barroca, and Tinto Cão.\
+*Vineyard:* Quinta de Roriz
+
+*Region:* Douro, Portugal
+
+*Grapes:* Touriga Nacional, Touriga Franca, likely also Tinta Roriz, Tinta Barroca, and Tinto Cão.
+
 *Age at Review:* 3 years
 
 ![post-scriptum](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/post-scriptum.jpg)

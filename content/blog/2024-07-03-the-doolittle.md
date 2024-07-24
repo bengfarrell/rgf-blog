@@ -11,8 +11,7 @@ tags:
 
 ---
 
-*Address:*\
-20394 Lake Chabot Rd\
+*Address:* 20394 Lake Chabot Rd\
 Castro Valley, CA\
 *Website:* <https://www.thedoolittlebar.com/>\
 *Phone*: 510-581-2405

@@ -11,6 +11,8 @@ tags:
   - "de montal"
 ---
 
+![bas armagnac](https://thegourmez.netlify.app/img/sections/spirits.jpg)
+
 *Region:* Gascony, France\
 *Alcohol Content:* 40%
 
@@ -23,8 +25,6 @@ _Cognac_ is the other brandy produced in France, from a neighboring region. Arma
 That these are “vintage” Bas-Armagnacs means they are made of grapes all from the same harvest year. This is not typical of most brandies, and it implies that they are a higher quality than any V.S., V.S.O.P., or X.O. designation for ones that are made from multiple vintages.
 
 I’ve wanted to try Armagnac for a long-time, and I was thrilled my husband remembered, presenting me with this pretty trio of vintages from de Montal. Nothing is better than a flight for exploring the differences that age can bring to eau-de-vie produced from the same fields.
-
-![bas armagnac](https://thegourmez.netlify.app/img/sections/spirits.jpg)
 
 # My Take on Bas-Armagnac de Montal
 

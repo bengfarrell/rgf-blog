@@ -1,5 +1,5 @@
 ---
-title: "Coffe Cultures"
+title: "Coffee Cultures"
 date: "2024-07-08"
 categories:
   - "coffee-shops"

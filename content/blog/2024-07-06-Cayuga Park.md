@@ -11,10 +11,10 @@ tags:
   - "demetrio braceros"
 
 ---
-Cayuga Park lower entrance\
+_Lower Entrance_\
 301 Naglee Ave
 
-Upper entrance\
+_Upper Entrance\
 Roughly 2720 Alemany Blvd\
 San Francisco, CA
 
@@ -26,11 +26,9 @@ I love exploring offbeat tourist attractions, so I decided to check out [Cayuga 
 
 Demetrio Braceros, who worked as a gardener for the San Francisco Parks & Recreation department for 24 years, is the artist. The park appears fairly run-of-the-mill at first; there is a community center, basketball and tennis courts, a playground, and walkways. But the wooden figurines peak out from the gardens right away.
 
-![cayuga-park-2](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/Cayuga+Park+(2).jpg)
-
 ![cayuga-park-6](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/Cayuga+Park+(6).jpg)
 
-The ones closest to the lower entrance are possible the most detoriated, and many more lively wonders await once you continue up the path and reach the grand lawn.
+The ones closest to the lower entrance are the most detoriated, and many more lively wonders await once you continue up the path and reach the grand lawn.
 
 ![cayuga-park-9](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/Cayuga+Park+(9).jpg)
 
@@ -46,7 +44,7 @@ By the end of the loop, animals and even a dinosaur have joined the menagerie.
 
 ![cayuga-park-19](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/Cayuga+Park+(19).jpg)
 
-![cayuga-park-29](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/Cayuga+Park+(29).jpg)
+![cayuga-park-29](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/Cayuga+Park-(29).jpg)
 
 Be sure to follow the little trails to find more works hidden within the greenery.
 

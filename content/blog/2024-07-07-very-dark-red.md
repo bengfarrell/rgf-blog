@@ -9,7 +9,6 @@ tags:
   - "shield family wines"
 
 ---
-# Intro
 
 *Obligatory disclaimer:* This wine was provided to me as a free sample for review on this blog. It’s designed to be a high alcohol (15%), high sugar wine with soft tannins, rich flavors, and a deep, dark color. In other words, the [Very Dark Red Wine](https://verydarkredwines.com/products/vdr-red-blend) is meant to be appealing to the average consumer on the grocery store shelf.
 
