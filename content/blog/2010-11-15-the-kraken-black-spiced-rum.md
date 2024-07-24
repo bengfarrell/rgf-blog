@@ -18,7 +18,7 @@ tags:
 **Other Words on the Label**\
 94 proof
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/thekraken.jpg "thekraken")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/thekraken.jpg)
+![kraken rum](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/thekraken.jpg)
 
 I’m always interested in trying spiced rum; okay, I’m interested in trying any spirit or mixer I haven’t before. I needed some dark rum for a recipe, and this bottle caught my eye. How could it not? The bottle is awesome! A fantastic, old-school kraken on the label? Two little loop handles at the top? Rock on, the Kraken Black Spiced Rum, rock on! Now that you know I’m won over by bottling (this was no secret), you’re ready for my thoughts on the spirit.
 
