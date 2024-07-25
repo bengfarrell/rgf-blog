@@ -22,7 +22,7 @@ Downtown Chapel Hill, NC\
 [Website](http://www.talullas.com/)\
 $9
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/gourmez/photos/tallulas05.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/tallulas05.jpg)
 
 This nearly perfect cocktail was made from Absolut Kurant, visne cherry juice, sour mix, and mint. There was a great tartness to it that came from the sharp cherry juice and the sour mix. It was a smooth drink that made me dream of cherry desserts and reminded me that not all flavored vodkas are bad. Kurant is one I'm quite fond of actually, and I'd forgotten about it. The cocktail would only have been improved if the mint was increased--it was practically nonexistent and could have contributed an intriguing layer to the drink.
 

@@ -20,7 +20,7 @@ tags:
 Greenwood Commons, Durham, NC\
 [Restaurant Review](https://thegourmez.com/blog/2009/08/18/restaurant-and-cocktail-review-papa-mojos-roadhouse-brunch/)
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/gourmez/photos/frenchquartercosmo.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/frenchquartercosmo.jpg)
 
 This riff on a cosmo is made with citrus vodka, grand marnier, cranberry juice, sour mix, lime juice, and grenadine.  Grenadine totally stands out when you are used to standard cosmos. It makes the French Quarter Cosmopolitan a nice option for people who want a sweeter drink than cosmos normally are; the grenadine, while definitely noticeable, doesn't overwhelm the rest of the ingredients. The sour mix should be left out entirely, though, especially when there's already lime in the drink.
 

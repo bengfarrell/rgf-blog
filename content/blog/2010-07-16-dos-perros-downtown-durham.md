@@ -31,7 +31,9 @@ Dos Perros is an upscale, yet relaxed, Mexican restaurant that's been open for a
 
 In addition to Dos Perros's dinner and pricier menu, they offer a late night menu of tacos after 10 PM at $2-3.50 a pop, which also replaces their dinner menu for Monday Taco Night. I'd be very interested in hearing if any of you have tried their tacos! Vegetarians can also rejoice, because Dos Perros' offers a prix fixe vegetarian meal on Sunday nights and always has some vegetarian options on the menu.  Beer dinners are also common occurrences, and brunch, which sounds delicious, is served on Sundays.
 
-This was our first time at Dos Perros, so we went for their regular dinner offerings to get the normal experience. I thought the friendly yellow walls, and of course, the cute logo on the exterior, were very inviting, and the inside nearly as appealing as sitting outside on a nice day. The main dining room had a lovely white-tiled ceiling, a peek-a-boo kitchen, a mix of brick and orange walls, and hung blankets and paintings of Mexican tourist posters. The bar is to the left of their main dining room, but I didn't sneak a peek at it. ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/dosperros04.jpg)
+This was our first time at Dos Perros, so we went for their regular dinner offerings to get the normal experience. I thought the friendly yellow walls, and of course, the cute logo on the exterior, were very inviting, and the inside nearly as appealing as sitting outside on a nice day. The main dining room had a lovely white-tiled ceiling, a peek-a-boo kitchen, a mix of brick and orange walls, and hung blankets and paintings of Mexican tourist posters. The bar is to the left of their main dining room, but I didn't sneak a peek at it.
+
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/dosperros04.jpg)
 
 Thick corn chips are served with a thick verde sauce. Both were fine, but I like bolder flavors in my salsas.
 

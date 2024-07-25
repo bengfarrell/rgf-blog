@@ -21,7 +21,7 @@ tags:
 Raleigh, NC\
 [Website](http://www.bahamabreeze.com/)\
 
-![](http://wwww.rebeccagomezfarrell.com/gourmez/photos/whitesatin.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/whitesatin.jpg)
 
 This drink started out very, very well. It's a delicious combination of coconut rum, Cointreau, coconut milk, and just a hint of ginger. Served in a large martini glass, the first half of the drink was a heavenly blend of those elements, with the orange and ginger flavors highlighting the lusciousness of coconut, though a little more Cointreau would have been nice.
 

@@ -17,7 +17,7 @@ tags:
 Raleigh, NC\
 [Website](http://www.bahamabreeze.com/)
 
-![](http://wwww.rebeccagomezfarrell.com/gourmez/photos/caipirosca.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/caipirosca.jpg)
 
 A caipirosca is the Russian version (read: vodka) of a caipirinha, a Brazilian cocktail made with cachaça, lime, and sugar. Bahama Breeze takes the change in base liquors a step further by subbing in mango vodka. The sugar is replaced by a mango puree, but the lime stays the same.
 

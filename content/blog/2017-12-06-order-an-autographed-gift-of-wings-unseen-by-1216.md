@@ -22,7 +22,7 @@ Apologies for a brief diversion from food and drink for an announcement for my d
 
 <div class="caption">
 
-![wings unseen, book, epic fantasy](http://s3.amazonaws.com/thegourmez-wpmedia/2017/12/Octopus-Launch-15.jpg) My friends, Paul and Ann, whom I kind of like, I guess, getting their signed copies at my book launch.</div>
+![wings unseen, book, epic fantasy](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Octopus-Launch-15.jpg) My friends, Paul and Ann, whom I kind of like, I guess, getting their signed copies at my book launch.</div>
 
 
 $15 includes the book, and my signature and a personal message, filled out from your instructions on whom I should address that message too. It also includes shipping costs! What is _Wings Unseen_? [Here's my full page on it and a close-up of the cover.](http://www.rebeccagomezfarrell.com/creative-works/wings-unseen/)

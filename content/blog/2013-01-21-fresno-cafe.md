@@ -27,7 +27,7 @@ Th–Sat: 10 am–2:30 pm, 4:30 pm–8 pm
 
 Fresno Café opened late summer in the strip mall spot that last housed Bear Rock Café. The last time I was there, it was Rick's Diner and the look has completely changed since then.
 
-[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno-Cafe-01.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/21/fresno-cafe/fresno-cafe-01/)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno+Cafe+01.jpg)
 
 Brick-red walls with an assortment of photographs framed in black provide a relaxed, pleasant atmosphere. According to their wait staff, business has been building for lunch, which focuses on sandwiches, soups, and salads. I was there in the evening when entrees are the focus. It was pretty empty, but as they close by 8, I do think lunch is the primary focus. Evening was wait service, but I think lunch time is counter service. There are about 10 booths and tables in all.
 
@@ -35,33 +35,32 @@ Alcohol is available, although it's a limited selection with about three each of
 
 A pair of friends had the pecan-crusted chicken entrée, which comes with mashed maple sweet potatoes, sautéed squashes, and an apricot sauce.
 
-[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno-Cafe-04.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/21/fresno-cafe/fresno-cafe-04/)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno+Cafe+04.jpg)
 
 One friend thought the potatoes tasted odd with the maple at first, but it grew on her. The other friend thought they were great. Both found the chicken good and enjoyed the vegetables a lot. One of those friends also had a cup of the roasted butternut squash soup.
 
-[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno-Cafe-07.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/21/fresno-cafe/fresno-cafe-07/)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno+Cafe+07.jpg)
 
 Similar to apple sauce in consistency, the cinnamon seasoning was strong. It came out very hot, so I'd blow before you slurp if you order that one. I also had soup, opting for the roasted corn chowder with red peppers and bacon.
 
-[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno-Cafe-02.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/21/fresno-cafe/fresno-cafe-02/)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno+Cafe+02.jpg)
 
 The soup's flavor was fabulous, but I was disappointed the vegetables were overcooked and the consistency was closer to slightly thick broth than chowder.
 
 Another friend had the half-pound burger with cheddar, homemade dill pickles, and chipotle mayo.
 
-[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno-Cafe-06.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/21/fresno-cafe/fresno-cafe-06/)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno+Cafe+06.jpg)
 
 She thought the burger was average, but the citrus slaw it came with was definitely unique and quite strong in the citrus department. The sweet potato fries didn't have a lot of flavor.
 
 My husband had the steak and cheese salad with candied walnuts, cranberries, bleu cheese, and apricot vinaigrette. It came with two thin slices of baguette like the soups do as well.
 
-[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno-Cafe-05.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/21/fresno-cafe/fresno-cafe-05/)
-
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno+Cafe+05.jpg)
 He thought the salad was excellent and was close to waxing poetic about the vinaigrette.
 
 I also had the fried pierogies, an appetizer.
 
-[![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno-Cafe-03.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2013/01/21/fresno-cafe/fresno-cafe-03/)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Fresno+Cafe+03.jpg)
 
 The filling is a blend of Idaho and sweet potatoes with gouda and scallions. They are served with spinach, caramelized onions, and a ramekin of sour cream with chives. The pierogie dough was really good and made me excited to try their pizzas on the menu another time, but the filling was flavorless and the sour cream side would be a lot better if made into a dip with more herbs. The caramelized onions were amazing, though, and the spinach was also cooked well.
 
