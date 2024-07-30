@@ -17,17 +17,17 @@ I just posted my [dinner review](https://thegourmez.com/blog/2010/04/02/revoluti
 
 I started with the squash tamales.
 
-![](http://www.thegourmez.com/gourmez/photos/revolutionbrunch01.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/revolutionbrunch01.jpg)
 
 Obviously large enough to be a whole meal itself, I enjoyed every bite. The flavor of squash wasn't strong, but the tamale tasted so great with the salsa verde, radish, pico de gallo, and sour cream. Delicious. Next up was the fried chicken and sweet potato waffles with wild flower honey, apple-smoked bacon.
 
-![](http://www.thegourmez.com/gourmez/photos/revolutionbrunch03.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/revolutionbrunch03.jpg)
 
 Man, portions were huge for this brunch! The chicken was nicely fried and the potatoes intriguing, with mashed clumps of sweet potato poking out here and there. The bacon was almost overwhelming in flavor—never fear, I managed to eat both slices over two days. The helping of scallions did a lot to bring this dish together. It was good, but not as good as the tamales.
 
 I chose the apple crisp with rum-raisin caramel sauce for dessert.
 
-![](http://www.thegourmez.com/gourmez/photos/revolutionbrunch04.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/revolutionbrunch04.jpg)
 
 The sugar garnish was rather terrifying to behold, but that didn't stop me from eating it all. The rum-raisin sauce was good, though almost redundant with the sugar garnish. I didn't particularly like the crisp. There was hardly any apple contained within; it seemed to mostly be a puff pastry shell that was too much work to try and eat. Probably better for my stomach that way, anyhow.
 

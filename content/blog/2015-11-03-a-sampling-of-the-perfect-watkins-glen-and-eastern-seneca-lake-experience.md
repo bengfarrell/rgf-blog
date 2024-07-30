@@ -66,7 +66,7 @@ This geologic wonder first opened in 1863 and became part of the New York State 
 
 [![2015_WBC_077](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_077-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_077.jpg)
 
-Ranger Teeter gave us a short history of the park, we took in as much of its splendor as we could, and then we were off to our eastern Seneca Lake destination for the rest of the evening. A WBC wine excursion ([here’s mine from last year, too](http://thegourmez.com/2014/07/31/wbc14-sta-rita-hills-wine-santa-barbara/)) is more like a microcosm of what a day trip to a region might entail, so if I had had more time, and plenty of water for a very humid August, I would have loved to explore the two-mile Gorge Trail and the 19 waterfalls it encompasses at my leisure.
+Ranger Teeter gave us a short history of the park, we took in as much of its splendor as we could, and then we were off to our eastern Seneca Lake destination for the rest of the evening. A WBC wine excursion ([here’s mine from last year, too](https://thegourmez.com/blog/2014/07/31/wbc14-sta-rita-hills-wine-santa-barbara/)) is more like a microcosm of what a day trip to a region might entail, so if I had had more time, and plenty of water for a very humid August, I would have loved to explore the two-mile Gorge Trail and the 19 waterfalls it encompasses at my leisure.
 
 ![](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_090-334x500.jpg)
 
@@ -106,7 +106,7 @@ This was also when I discovered the great wines from [Atwater Estate Vineyards](
 
 [![2015_WBC_118](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_118-446x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_118.jpg)
 
-\--but for me, the 2007 Dry Riesling was their star. I already exclaimed over it in my [most memorable wines of WBC15](http://thegourmez.com/2015/08/27/most-memorable-wines-from-the-2015-finger-lakes-wine-bloggers-conference/) post, but suffice it to say I can still remember the image of French toast custard it conjured for me.
+\--but for me, the 2007 Dry Riesling was their star. I already exclaimed over it in my [most memorable wines of WBC15](https://thegourmez.com/blog/2015/08/27/most-memorable-wines-from-the-2015-finger-lakes-wine-bloggers-conference/) post, but suffice it to say I can still remember the image of French toast custard it conjured for me.
 
 I didn’t try the wines from the three other vineyards until dinner because the sunset off the lake was too enticing—sometimes my photog side wins out over the wine blogger.
 
@@ -134,7 +134,7 @@ Those storm clouds contributed to some great shots, even if the short showers sc
 
 [![2015_WBC_107](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_107-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/2015_WBC_107.jpg)
 
-I’ve written about [master sommelier, winemaker, and grillmaster extraordinaire Christopher Bates](http://thegourmez.com/2015/09/10/the-hospitality-of-the-finger-lakes-and-other-reasons-to-visit/) of [Element Winery](http://elementwinery.com/) already, but this time, we got to experience the equal gifts of his wife, [Isabel Bogadtke,](http://elementwinery.com/who/isabel-bogadtke/) a hospitality maven, winemaker, and chef.
+I’ve written about [master sommelier, winemaker, and grillmaster extraordinaire Christopher Bates](https://thegourmez.com/blog/2015/09/10/the-hospitality-of-the-finger-lakes-and-other-reasons-to-visit/) of [Element Winery](http://elementwinery.com/) already, but this time, we got to experience the equal gifts of his wife, [Isabel Bogadtke,](http://elementwinery.com/who/isabel-bogadtke/) a hospitality maven, winemaker, and chef.
 
 
 

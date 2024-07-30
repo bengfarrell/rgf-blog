@@ -15,7 +15,7 @@ tags:
 
 **Region:** Burgundy, France
 
-![](http://www.thegourmez.com/gourmez/photos/yellowjerseysavblanc.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/yellowjerseysavblanc.jpg)
 
 A plastic bottle of wine!? What is this world coming to? Eh, I'm trying to work up wino rage, but I just don't care that this is in a plastic bottle. The fact that it's quite good probably helps with that.
 

@@ -106,7 +106,7 @@ But if that feels too far afield for your wine-filled legs, our next destination
 
 ## Food O’Clock at Wine O’Clock
 
-I mentioned a meal, remember? If your appetite is on the lighter side, sidle up to [Milbrandt’s](http://milbrandtvineyards.com/) tasting room for their Flights and Bites pairings, which I covered in [my Best Wines of Prosser post](http://thegourmez.com/2016/12/29/prosser-wine-part-2-best-wines-in-the-area/). Their tasting room is right across the road from Gamache’s. But after a good afternoon of wine tasting, you’ll likely be ready for something of more substance. Luckily, [the Bunnell Family’s Wine O’Clock](http://www.bunnellfamilycellar.com/Page.aspx?PageID=1003) tasting room and wine bar is also just a skip and a hop away. No jumping required.
+I mentioned a meal, remember? If your appetite is on the lighter side, sidle up to [Milbrandt’s](http://milbrandtvineyards.com/) tasting room for their Flights and Bites pairings, which I covered in [my Best Wines of Prosser post](https://thegourmez.com/blog/2016/12/29/prosser-wine-part-2-best-wines-in-the-area/). Their tasting room is right across the road from Gamache’s. But after a good afternoon of wine tasting, you’ll likely be ready for something of more substance. Luckily, [the Bunnell Family’s Wine O’Clock](http://www.bunnellfamilycellar.com/Page.aspx?PageID=1003) tasting room and wine bar is also just a skip and a hop away. No jumping required.
 
 [![vintner's village wine o'clock](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-359-500x164.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/05/ProsserWA-359.jpg)
 

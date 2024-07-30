@@ -74,7 +74,7 @@ Finally, the coffee liqueur.
 
 [![Coastal-Spirits-011](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-011-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Coastal-Spirits-011.jpg)
 
-That one will bring a pure and simple coffee essence to your cocktails without going overboard on the sweetness. Personally, I’d like more of a roasted quality, but I have a bias toward chicory coffee liqueurs—yes[, I love St. Georges’ NOLA;](http://thegourmez.com/2015/08/05/st-george-spirits-tasting-room/) why do you ask?
+That one will bring a pure and simple coffee essence to your cocktails without going overboard on the sweetness. Personally, I’d like more of a roasted quality, but I have a bias toward chicory coffee liqueurs—yes[, I love St. Georges’ NOLA;](https://thegourmez.com/blog/2015/08/05/st-george-spirits-tasting-room/) why do you ask?
 
 In addition to all those amazing concoctions Brad’s distilling, he’s also developed a game that brings the gin distillation process to life—Gin Tumble!
 

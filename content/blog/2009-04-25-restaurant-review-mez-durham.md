@@ -18,7 +18,7 @@ Durham, NC\
 [http://www.mezdurham.com/](http://www.mezdurham.com/)\
 Entrees: $11-19
 
-Mez is the newest offering of the Chapel Hill Restaurant Group, with sister restaurants of 411 West, 518 West, Squid’s and Spanky’s. It bills itself as contemporary Mexican, which I would describe as the missing link between your local taqueria and the upscale fare of a place such as [Jibarra.](http://www.thegourmez.com/gourmez/restaurants/review.php?id=10&type=) Man, I need to go back to Jibarra now that they’ve reopened.
+Mez is the newest offering of the Chapel Hill Restaurant Group, with sister restaurants of 411 West, 518 West, Squid’s and Spanky’s. It bills itself as contemporary Mexican, which I would describe as the missing link between your local taqueria and the upscale fare of a place such as [Jibarra.](https://thegourmez.com/blog/2007/04/26/jibarra-downtown-raleigh/) Man, I need to go back to Jibarra now that they’ve reopened.
 
 Mez has expansive seating areas with lots of light. It is nicely apportioned with muted yellow and orange walls and comfy green and brown-patterned booths and tables. One of my friends aptly described it as a mission style tram station. We sat in the dining area closest to the front and quickly discovered that the acoustics were not conducive for a large party’s conversations.We were a group of eight and I could barely hear anyone further away than my elbow.The balcony and smaller alcoves may not have this problem.
 

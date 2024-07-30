@@ -27,7 +27,7 @@ This beautiful winery is nestled between some of the most fun tourist landmarks 
 
 Hans Fahden Vineyards was bought by German immigrants, the Fahden family, in 1912. There are three vineyards on the property, benefiting from the great volcanic soil to yield small quantities of delicious wine.
 
-![hans fahden 2](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/hans-fayden+(2).mp4)
+<video src="http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/hans-fayden+(2).mp4" controls></video>
 
 # My Take on a Hans Fahden Vineyards Tasting
 

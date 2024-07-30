@@ -22,7 +22,7 @@ tags:
 
 ![The Lodge at Tiburon](http://s3.amazonaws.com/thegourmez-wpmedia/2016/08/Tiburon-Lodge-31-copy-500x333.jpg)
 
-Last month, [the Lodge at Tiburon](https://huzza.io/wineantics/live-stream/wine-antics-wbc16-livestream-3) invited me out to try their new brunch menu at the attached Tiburon Tavern, [which I loved](http://thegourmez.com/2016/07/06/new-brunch-and-chef-at-tiburon-tavern/). Because Ben's birthday fell on the same day, I thought, why not make it an overnight trip and stay at the hotel as well? They offered me a discounted media rate, which we jumped on for such an ideal location just two blocks from the shorefront.
+Last month, [the Lodge at Tiburon](https://huzza.io/wineantics/live-stream/wine-antics-wbc16-livestream-3) invited me out to try their new brunch menu at the attached Tiburon Tavern, [which I loved](https://thegourmez.com/blog/2016/07/06/new-brunch-and-chef-at-tiburon-tavern/). Because Ben's birthday fell on the same day, I thought, why not make it an overnight trip and stay at the hotel as well? They offered me a discounted media rate, which we jumped on for such an ideal location just two blocks from the shorefront.
 
 
 

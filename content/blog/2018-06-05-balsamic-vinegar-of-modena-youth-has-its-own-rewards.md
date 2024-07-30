@@ -31,7 +31,7 @@ One of the highlights of last year's [International Food Bloggers Conference](ht
 [![the gourmez, vinegar tasting](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/vinegar-sniff-367x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/vinegar-sniff.jpg) Me taking in the aroma.</div>
 
 
-It's common for consumers, like myself, to assume that _aged_ automatically means better, but that's not the cased for the balsamic vinegars of Modena. Rather, Desimoni advised, select the vinegar with the flavor profile that will most complement your food. He also suggested swapping tomatoes with strawberries in salads when using balsamic vinegar to enjoy the unexpected balance of sweetness and acidity. I think it'd go great in this Chilled Summer Soup, made with strawberries. Try substituting the balsamic vinegar for the basil oil drizzle on the last stage of [this recipe](http://thegourmez.com/2016/06/29/pairing-pure-leafs-teahouse-collection-with-spqrs-finesse/) from SPQR Chef Matthew Accarrino.
+It's common for consumers, like myself, to assume that _aged_ automatically means better, but that's not the cased for the balsamic vinegars of Modena. Rather, Desimoni advised, select the vinegar with the flavor profile that will most complement your food. He also suggested swapping tomatoes with strawberries in salads when using balsamic vinegar to enjoy the unexpected balance of sweetness and acidity. I think it'd go great in this Chilled Summer Soup, made with strawberries. Try substituting the balsamic vinegar for the basil oil drizzle on the last stage of [this recipe](https://thegourmez.com/blog/2016/06/29/pairing-pure-leafs-teahouse-collection-with-spqrs-finesse/) from SPQR Chef Matthew Accarrino.
 
 
 

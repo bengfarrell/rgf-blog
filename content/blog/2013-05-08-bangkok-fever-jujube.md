@@ -19,7 +19,7 @@ tags:
 
 **Jujube**\
 Glen Lennox, Chapel Hill\
-[My Restaurant Review](http://www.thegourmez.com/restaurants/review.php?id=6\
+[My Restaurant Review](https://thegourmez.com/blog/2007/04/26/jujube-glen-lennox-chapel-hill/)
 $10
 
 [![bangkok fever](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/bangkok-fever.jpg)](http://www.thegourmez.com/2013/05/bangkok-fever-jujube/bangkok-fever/)

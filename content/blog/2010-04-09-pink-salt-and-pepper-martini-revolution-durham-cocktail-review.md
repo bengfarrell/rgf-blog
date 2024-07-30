@@ -19,7 +19,7 @@ Downtown Durham, NC\
 [Website](http://www.revolutionrestaurant.com/Revolution_Durham/Revolution_Enter.html)\
 $11
 
-![](http://www.thegourmez.com/gourmez/photos/revolution07.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/revolution07.jpg)
 
 This attractive gin martini was made with pink peppercorn-infused gin, sake, cucumbers, and volcanic salt on the rim. I'm pretty sure there was a lemon rind down at the bottom also.
 

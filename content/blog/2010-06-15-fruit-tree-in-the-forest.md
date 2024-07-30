@@ -15,7 +15,7 @@ tags:
 
 **Fruit Tree in the Forest**
 
- ![](http://www.thegourmez.com/2024/07/fruittree.jpg)
+ ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/fruittree.jpg)
 
 2 shots New Amsterdam Gin\
 0.5 shot St. Germaine Elderflower Liquor\

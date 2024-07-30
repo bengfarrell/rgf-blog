@@ -26,7 +26,7 @@ Since this was my first time at the W XYZ Lounge, I thought I'd share a little a
 
 Back to the drinks. My first drink was the LA Kiwi, which is very similar to a caipirinha but with the addition of muddled kiwi.
 
-![](http://www.thegourmez.com/gourmez/photos/wxyz1.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wxyz1.jpg)
 
 The cachaça taste came through nicely, and the lime was surprisingly strong, by which I mean it was at the right level. A lot of places pull back on strong lime in a drink, because a lot of our palates aren't used to it. W XYZ's bartender did well with it. The kiwi pulp and juice made for a pretty drink, though I think I might have liked a little more kiwi flavor, ultimately.
 
@@ -42,11 +42,11 @@ I've also got pictures of my friend's drinks, with their brief thoughts on them.
 
 The NY Spritzer, a white wine cocktail, was found to be very tasty but not very special
 
-![](http://www.thegourmez.com/gourmez/photos/wxyz3.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wxyz3.jpg)
 
 And the Watermelon Martini tasted just like its Jolly Rancher cousin. My friend thought it light, refreshing, and not too sweet.
 
-![](http://www.thegourmez.com/gourmez/photos/wxyz2.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wxyz2.jpg)
 
 I'll be posting the review of my second drink at the W XYZ Lounge next week.
 

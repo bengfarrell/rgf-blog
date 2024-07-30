@@ -19,7 +19,7 @@ tags:
 
 Two weeks ago, the Busy Bee invited me out to a promotional event for Cruzan 9, a new spiced rum. Appetizers and drinks were provided for free and highlighted a range of Cruzan's offerings, in both cocktails and cooking explorations.
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07//cruzan02.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/cruzan02.jpg)
 
 The Busy Bee cleared their liquor shelves of all but Cruzan's several flavored rums, and a great Caribbean band provided background music. I tried two of the cocktails the Busy Bee was offering and most of the appetizers. But first, Cruzan 9 itself.
 

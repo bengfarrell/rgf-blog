@@ -53,7 +53,7 @@ It’s been two weeks since the 2015 Wine Bloggers Conference (WBC), my second W
 
 ## Experimentation is Bliss
 
-You may have read my [Pre-Con Preconceptions](http://thegourmez.com/2015/08/11/pre-con-preconceptions-of-the-finger-lakes/) post about the Finger Lakes, and #3 on my list was _that the Finger Lakes produce all riesling all the time._ They do produce a lot of riesling, 22,000,000 cases of it a year according to the [Finger Lakes Wine Alliance](http://www.fingerlakeswinealliance.com/finger-lakes-ava.html). But the vastly differing microclimates of the region and its variable weather patterns, as described by [Alan Lakso](http://hort.cals.cornell.edu/people/alan-lakso) of Cornell University in a great introductory session, force Finger Lakes winemakers to experiment with new grapes every year.
+You may have read my [Pre-Con Preconceptions](https://thegourmez.com/blog/2015/08/11/pre-con-preconceptions-of-the-finger-lakes/) post about the Finger Lakes, and #3 on my list was _that the Finger Lakes produce all riesling all the time._ They do produce a lot of riesling, 22,000,000 cases of it a year according to the [Finger Lakes Wine Alliance](http://www.fingerlakeswinealliance.com/finger-lakes-ava.html). But the vastly differing microclimates of the region and its variable weather patterns, as described by [Alan Lakso](http://hort.cals.cornell.edu/people/alan-lakso) of Cornell University in a great introductory session, force Finger Lakes winemakers to experiment with new grapes every year.
 
 
 

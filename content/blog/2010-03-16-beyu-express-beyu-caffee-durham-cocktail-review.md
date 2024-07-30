@@ -20,7 +20,7 @@ Downtown Durham\
 [Website](http://www.beyucaffe.com/)\
 $6.75
 
-![](http://www.thegourmez.com/gourmez/photos/beyu1.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/beyu1.jpg)
 
 My picture does not do this drink justice. It's a martini made with chilled espresso, butterscotch, coffee and chocolate liquors, and milk. Fantastic, a perfect blend of flavors. The butterscotch was used sparingly, providing only an occasional hint of its presence, while the espresso was top notch, and the liquors complemented its bitterness perfectly. It also avoided being too creamy of a drink-milk was the right choice of fatness for the dairy.
 

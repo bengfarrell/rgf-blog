@@ -19,19 +19,19 @@ Heavily concentrated in the Southeast, but with plenty of restaurants north to P
 Sandwiches: $3.40–$4, add about $2 to make it a combo\
 [Website](http://www.hardees.com/)
 
-![](http://www.thegourmez.com/gourmez/photos/hardees02.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/hardees02.jpg)
 
 Oh, Hardee's, how often I've wondered about you as I drive by and notice that your star is the same star as Carl Jr.'s, one of the fast food options of my native California. Turns out you really are the same chain, except that Carl's experiments a lot more with burger toppings, and you stick to your Thick-and Six-Dollar-Angus burgers. You offer fried chicken baskets whereas Carl's offers many chicken sandwiches, and egg biscuit sandwiches whereas Carl's opts for breakfast burritos, but "Charbroiled Burgers" rests beneath both of your logos.
 
 This was my second time at a Hardee's.  My first was on a road trip to Myrtle Beach six years ago, and nearly everyone else on the trip felt sick after our stop at Hardee's for lunch. I was fine, but that didn't make me go running back to try it again anytime soon. Yet there comes a time in all southern fast food series when Hardee's must be tried. It really wasn't that bad. As is Carl Jr.'s, Hardee's is a middle-of-the-road fast food offering, but this one's definitely of the southern variety. In addition to the burgers and fried chicken, they offer a $1 ham and cheese sandwich and have quarts of sweet tea available to purchase at the registers. The restaurant wasn't the cleanest I'd ever seen, but it was about as standard fast food as you can get.
 
-![](http://www.thegourmez.com/gourmez/photos/hardees03.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/hardees03.jpg)
 
 That is to say, it's a place to stuff your face when you don't have time to seek out better options.
 
 I decided to go for the Original 1/3 lb. Thickburger (no mustard or ketchup, please) to get the authentic Hardee's experience, of course. For my side, I chose a small order of crispy curls, a fanciful name for curly fries that made me wonder if potatoes weren't involved.
 
-![](http://www.thegourmez.com/gourmez/photos/hardees01.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/hardees01.jpg)
 
 I was happy to see that the burger comes with all the fixins' aplenty, a rarity in the fast food world. There was lettuce, tomato, red onion, pickles, mayo, and cheese. The meat had that strange gloss on the outside like it's been glazed with some preservative mess, but it tasted all right. The mayo was slopped together with the lettuce, creating a gloopy experience that is appealing to me. The one definite downside was the American cheese that barely seemed warmed at all and nowhere near melted.
 

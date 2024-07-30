@@ -42,7 +42,7 @@ tags:
 
 **Disclaimer:** I have only been in Barcelona for five days of my life. There is no way I can determine the best bites in the city. None. But “Best Bites in Barcelona While I Was There” is not a catchy title. That said, these are guaranteed by the Gourmez to be good bites, some of them exceptional!
 
-For my breakfast choices, [click here,](http://thegourmez.com/2015/01/29/breakfast-highlights-of-the-eixample/) where I started my Barcelona travelogues a whole year ago. For the rest of a day’s gastronomy needs, read on for my final installment!
+For my breakfast choices, [click here,](https://thegourmez.com/blog/2015/01/29/breakfast-highlights-of-the-eixample/) where I started my Barcelona travelogues a whole year ago. For the rest of a day’s gastronomy needs, read on for my final installment!
 
 ## Best Post-Airport Binge
 

@@ -37,7 +37,7 @@ This will be my third WBC. So far, it's been a great place to make new friends, 
 
 <div class="caption">
 
-[![Dinner in the Sta. Rita Hills at WBC14.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_102-300x200.jpg)](http://thegourmez.com/2014/07/31/wbc14-sta-rita-hills-wine-santa-barbara/) Dinner in the Sta. Rita Hills at WBC14.</div>
+[![Dinner in the Sta. Rita Hills at WBC14.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/07/WBC_14_102-300x200.jpg)](https://thegourmez.com/blog/2014/07/31/wbc14-sta-rita-hills-wine-santa-barbara/) Dinner in the Sta. Rita Hills at WBC14.</div>
 
 
 
@@ -63,10 +63,10 @@ I am thrilled to be sharing the stage with Marisa Indelicato of Fox Run Vineyard
 
 <div class="caption">
 
-[![extremely rare rare red 2012 black blend wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Scotto-Black-01-334x500.jpg)](http://thegourmez.com/2016/07/15/extremely-rare-rare-red-2012-black-blend/) My most recent sample-wine review of Scotto Cellars' Black Blend.</div>
+[![extremely rare rare red 2012 black blend wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Scotto-Black-01-334x500.jpg)](https://thegourmez.com/blog/2016/07/15/extremely-rare-rare-red-2012-black-blend/) My most recent sample-wine review of Scotto Cellars' Black Blend.</div>
 
 
-This year's WBC is in Lodi, which is an hour and a half from where I live yet a wine-saturated region that I've only visited once before for a preview of the now fully functional [Oak Farm Vineyards.](http://thegourmez.com/2014/09/26/oak-farm-vineyards-winery-expansion-lodi/)  As far as I'm concerned, Lodi is brand-new to me and I'm excited to find out how the area, which provides 20% of the state's wine grapes, a huge share, is challenging the perception of itself as the red-headed stepchild of California's destination wine regions.
+This year's WBC is in Lodi, which is an hour and a half from where I live yet a wine-saturated region that I've only visited once before for a preview of the now fully functional [Oak Farm Vineyards.](https://thegourmez.com/blog/2014/09/26/oak-farm-vineyards-winery-expansion-lodi/)  As far as I'm concerned, Lodi is brand-new to me and I'm excited to find out how the area, which provides 20% of the state's wine grapes, a huge share, is challenging the perception of itself as the red-headed stepchild of California's destination wine regions.
 
 
 

@@ -77,7 +77,7 @@ I believe they are cypress trees. Am I right? Here are a few more shots, if you 
 
 [![2014_Barcelona_537](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_537-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_537.jpg) [![2014_Barcelona_538](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_538-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_538.jpg) [![2014_Barcelona_544](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_544-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_544.jpg)
 
-The park’s 70 acres are filled with outdoor sculptures—_Desconsuelo,_ by Josep Llimona, [whose work I fell with love with at the MEAM](http://thegourmez.com/2015/08/24/barcelona-museums-worth-exploring/), is in the midst of that last panorama. I also enjoyed this massive sheet of….of…something?
+The park’s 70 acres are filled with outdoor sculptures—_Desconsuelo,_ by Josep Llimona, [whose work I fell with love with at the MEAM](https://thegourmez.com/blog/2015/08/24/barcelona-museums-worth-exploring/), is in the midst of that last panorama. I also enjoyed this massive sheet of….of…something?
 
 [![2014_Barcelona_503](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_503-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_503.jpg)
 
@@ -85,7 +85,7 @@ And who could resist watching a mammoth watch yet more bubbles? Not I! That mamm
 
 [![2014_Barcelona_512](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_512-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_512.jpg) [![2014_Barcelona_514](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_514-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_514.jpg) [![2014_Barcelona_513](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_513-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_513.jpg)
 
-Once we reached the front, we knew we’d found a national treasure: the _Cascada_, a conglomeration of work from various Catalan artists, led by Josep Fontsére with the insight of young student, Antonin Gaudi. [You may have heard of some of his later work](http://thegourmez.com/2015/03/11/barcelona-la-sagrada-familia/)?
+Once we reached the front, we knew we’d found a national treasure: the _Cascada_, a conglomeration of work from various Catalan artists, led by Josep Fontsére with the insight of young student, Antonin Gaudi. [You may have heard of some of his later work](https://thegourmez.com/blog/2015/03/11/barcelona-la-sagrada-familia/)?
 
 [![2014_Barcelona_517](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_517-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/01/2014_Barcelona_517.jpg)
 

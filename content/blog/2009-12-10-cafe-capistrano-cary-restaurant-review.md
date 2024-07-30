@@ -37,7 +37,7 @@ We both decided to try their Mexican Wedding Cake (tres leches cake) for dessert
 
 Other than the unnecessary Reddi-Whip topping, it was great and so much better than the one I had at [Cuban Revolution](http://www.thegourmez.com/?p=612) recently. I especially enjoyed mixing it with the berry and kiwi sauces that adorned the plate. The soaking milk was heavy on the condensed side but the sweetness didn't weigh down my fork until the last few bites.
 
-Café Capistrano's menu seems to focus on a healthy style of Mexican-American cuisine that they bill as Californian. The dishes definitely adhered to that concept, though I think they sacrificed a lot of flavor in the process. I had the same opinion of [Margaret's Cantina](http://www.thegourmez.com/gourmez/restaurants/review.php?id=22&type=) in Chapel Hill, so perhaps this take on Mexican cuisine just isn't for me. There was nothing to complain about but I'm still not inclined to go back. I am too much in love with spiciness.
+Café Capistrano's menu seems to focus on a healthy style of Mexican-American cuisine that they bill as Californian. The dishes definitely adhered to that concept, though I think they sacrificed a lot of flavor in the process. I had the same opinion of [Margaret's Cantina](https://thegourmez.com/photos/2007/04/26/margarets-cantina-timberlyne-chapel-hill/) in Chapel Hill, so perhaps this take on Mexican cuisine just isn't for me. There was nothing to complain about but I'm still not inclined to go back. I am too much in love with spiciness.
 
 ![2 stars](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")
 

@@ -20,7 +20,7 @@ tags:
   - "winery"
 ---
 
-Occasionally, as a blogger who does reviews, I can get a little behind. Especially as I’m also just a month and a half out from [the release of my first book,](http://thegourmez.com/2017/05/16/pre-order-my-first-book-wings-unseen-flying-your-way-in-august/) and a wee bit harried making sure everything’s in place for that. So with a backlog of wines to sample and review—to the point that they overflowed my alcohol cabinet, refusing to let me shut the doors properly, the jerks—I decided hey, why not do them all at once and then invite friends over to finish them off? **Obligatory disclaimer:** That means the pile of wines pictured below were provided as free samples for my review.
+Occasionally, as a blogger who does reviews, I can get a little behind. Especially as I’m also just a month and a half out from [the release of my first book,](https://thegourmez.com/blog/2017/05/16/pre-order-my-first-book-wings-unseen-flying-your-way-in-august/) and a wee bit harried making sure everything’s in place for that. So with a backlog of wines to sample and review—to the point that they overflowed my alcohol cabinet, refusing to let me shut the doors properly, the jerks—I decided hey, why not do them all at once and then invite friends over to finish them off? **Obligatory disclaimer:** That means the pile of wines pictured below were provided as free samples for my review.
 
 [![wine samples party](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Samples-Party-023-500x463.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/07/Samples-Party-023.jpg)
 

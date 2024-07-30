@@ -34,7 +34,7 @@ I just finished _Mixed Up: Cocktail Recipes (and Flash Fiction) for the Discerni
 
 <div class="caption">
 
-[![serpent's bite apple cider whisky](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Serpents-Biite--383x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Serpents-Biite-.jpg) [This was not as advertised...](http://thegourmez.com/2016/03/25/serpents-bite-apple-cider-flavored-whisky/)</div>
+[![serpent's bite apple cider whisky](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Serpents-Biite--383x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/03/Serpents-Biite-.jpg) [This was not as advertised...](https://thegourmez.com/blog/2016/03/25/serpents-bite-apple-cider-flavored-whisky/)</div>
 
 
 This book would make a thoughtful gift for the cocktail lovers in your life, as it is chockful of recipes and introductions to classic cocktails that every true drinker should already love and would appreciate learning more about. It’s also full of tales that really get why so many of us love cocktail culture: the camaraderie and tenuous connections that a truly well-made cocktail can engender.

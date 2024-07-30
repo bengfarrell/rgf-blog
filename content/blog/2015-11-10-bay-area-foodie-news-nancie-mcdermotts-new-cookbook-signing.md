@@ -23,7 +23,7 @@ Where will I be this Thursday night? [At Omnivore Books,](http://www.omnivorebo
 [![Nancie in her element.](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/nancie-headshot-500x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/11/nancie-headshot.jpg) Nancie in her element.</div>
 
 
-Nancie and I met about five years ago, at [a wine tasting event at the Angus Barn](http://thegourmez.com/2012/07/09/virginia-wine-tasting-at-the-angus-barn/) when I was blogging in the RTP area of North Carolina. She was a delight then, and together with our mutual friend Sharon, we began meeting up a couple of times a year to try out new restaurants/bakeries/cafes together.
+Nancie and I met about five years ago, at [a wine tasting event at the Angus Barn](https://thegourmez.com/blog/2012/07/09/virginia-wine-tasting-at-the-angus-barn/) when I was blogging in the RTP area of North Carolina. She was a delight then, and together with our mutual friend Sharon, we began meeting up a couple of times a year to try out new restaurants/bakeries/cafes together.
 
 
 

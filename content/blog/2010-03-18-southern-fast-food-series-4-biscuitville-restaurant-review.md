@@ -21,7 +21,7 @@ Sandwiches only: $1.89–$3.79
 
 Biscuitville was next on my southern fast food tour.
 
-![](http://www.thegourmez.com/gourmez/photos/biscuitville4.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/biscuitville4.jpg)
 
 This is mainly a breakfast spot with hours from 5:30 AM to 2:00 PM most days. The vast majority of the options are variations of the biscuit, egg, meat, and cheese sandwich, though fried bologna sandwiches, French toast sticks, pancakes, oatmeal, and cranberry-orange muffins are among the other menu options. You can also order a platter, which is the same as a sandwich, except that all the ingredients are separated out on your plate. If you get a meal deal, your side choices are grits, hash browns, fries, or gravy. Biscuits are made fresh daily.
 
@@ -29,7 +29,7 @@ The first thing that struck me about Biscuitville was the quaint, folksy picture
 
 More interesting than the actual sandwich, however.
 
-![](http://www.thegourmez.com/gourmez/photos/biscuitville3.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/biscuitville3.jpg)
 
 I ordered country ham as the meat in the sandwich on the recommendation of one of my tweeps, which made sense, of course, since country ham is a southern food staple (note, it just might be on every southern fast food menu-don't quote me on that). There was a LOT of ham on this sandwich and it was everything country ham should be: fairly thick and appreciably salty. Luckily, it wasn't overwhelmingly salty, which is good for someone like me who uses that flavor enhancer sparingly. It was also delightfully crisp. The egg and American cheese both had that plastic texture that reminds me of frozen egg and sausage sandwiches that have been microwaved. That's not necessarily a bad thing, but it depends on my mood and present level of nostalgia to appreciate it. The biscuit was thinner than I expected.
 
@@ -37,9 +37,9 @@ On another tweep's recommendation, I ordered orange juice to wash down the sandw
 
 I also ordered their peach turnover.
 
-![](http://www.thegourmez.com/gourmez/photos/biscuitville2.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/biscuitville2.jpg)
 
-![](http://www.thegourmez.com/gourmez/photos/biscuitville1.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/biscuitville1.jpg)
 
 This had a lot of potential but, other than the cinnamon and sugar sprinkles on top, it was mostly disappointing. The peach filling was at a great, extra warm temperature, but was too creamy and had a strong presence of vanilla. They tasted like fruit in a cup. The crust was far too chewy.
 

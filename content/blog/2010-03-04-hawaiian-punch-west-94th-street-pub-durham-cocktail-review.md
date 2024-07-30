@@ -18,7 +18,7 @@ tags:
  Woodcroft, Durham, NC\
  [Website](http://www.west94stpub.com/)
 
-![](http://www.thegourmez.com/gourmez/photos/hawaiianpunch.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/hawaiianpunch.jpg)
 
 This drink, with its bloody trail of maraschino juice, looks like it'd be great for a Halloween party. It's made with vodka, Malibu coconut rum, pineapple juice, and more than a splash of blue curacao.
 

@@ -42,7 +42,7 @@ On the sides’ side, we opted for collards and mac and cheese.
 
 You can see the bread and butter that comes with each meal in the back of that photo. Plain white sandwich bread accompanying a meat + three is very traditionally Southern, but this foodie sure wishes cornbread was the freebie instead! If you’re in the market for authenticity, however, that’s it.
 
-I did [a whole series on macaroni and cheese](http://thegourmez.com/2015/06/30/the-bay-areas-best-mac-cheese-my-verdict/) last year, and while I’ve had some great fancy mac and cheese, Phat Matt’s is what I think of when I think of bliss. Sharp cheddar provides excellent tang, and it comes in stringy form on top and saucy form throughout. The noodles, of course, are cooked past al dente as they should be.
+I did [a whole series on macaroni and cheese](https://thegourmez.com/blog/2015/06/30/the-bay-areas-best-mac-cheese-my-verdict/) last year, and while I’ve had some great fancy mac and cheese, Phat Matt’s is what I think of when I think of bliss. Sharp cheddar provides excellent tang, and it comes in stringy form on top and saucy form throughout. The noodles, of course, are cooked past al dente as they should be.
 
 The collards were also great, largely because I could actually taste them rather than the pork broth and vinegar so many collards are slaughtered in. Don’t hate me, traditionalists; I just like my veggies to actually resemble themselves. I should note that Friend #1 wasn’t as impressed with the sides, maybe for the very reasons that I was, but hey, I’m the food critic, so I win. ;)
 

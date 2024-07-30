@@ -14,7 +14,7 @@ tags:
   - "the-cricket-cocktail"
 ---
 
-![](http://www.thegourmez.com/gourmez/photos/thecricket.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/thecricket.jpg)
 
 Chocolate Syrup\
 ¼ shot Sambuca\

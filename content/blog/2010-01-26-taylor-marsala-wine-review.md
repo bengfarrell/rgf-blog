@@ -18,8 +18,6 @@ tags:
 
 **Region:** Finger Lakes, New York
 
-![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/taylormarsala.jpg)
-
 The color of this dessert wine is fantastic. It's like looking at a blood red rose, with a copper hue around its edges.  It smells like port, with rich, dense, scents of overripe peach and tamarind.
 
 The flavor is smooth and definitely has peach notes, but the tamarind I smelled is really closer to rhubarb, with sweet strawberry also. These fruits swim in the glass like they are in raw sugarcane or molasses syrup. It's much better than I expected for a staple of your grocery store's bottom shelf in the alcohol aisle.

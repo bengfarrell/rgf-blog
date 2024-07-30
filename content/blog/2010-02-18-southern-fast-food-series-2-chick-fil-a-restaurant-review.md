@@ -26,19 +26,19 @@ I'll admit it right now: this was not the first time I'd been to a Chick-fil-A. 
 
 There was also a much wider selection of menu options at this location. They were not limited to their signature chargrilled chicken sandwiches and chicken strips here, but also offered chicken wraps and salads. Oh, and breakfast and dessert options. I had no idea Chick-fil-A had more items at all. Since Chick-fil-A is known for their chargrilled sandwiches, though, I decided I had to order one to properly review it. As I've had the basic chicken sandwich before and been unimpressed (way too plain for me), I decided to opt for a Chargrilled Chicken Club instead. This sandwich came with a chicken breast, pickles, applewood smoked bacon, provolone cheese, tomato, and lettuce, all served up on a wheat bun.
 
-![](http://www.thegourmez.com/gourmez/photos/Chick-fil-A_0002.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Chick-fil-A_0002.jpg)
 
 Strangely, a packet of that honey roasted BBQ sauce was also included. So, how did the club fare compared to their basic sandwich, which I'm admittedly not a fan of? Not much better. First of all, the bacon, but for a rare flash of meaty flavor, added absolutely nothing to the sandwich and the provolone was similarly nondescript. Secondly, I liked that the bun was wheat by default but it almost seemed steamed to me, or perhaps the juices from the chicken just reduced the bottom half to a soggy pulp too fast for my liking. Yeah, that's right, I complained about my meat being too juicy. I never said I had the same tastes as your average meat eater. Thirdly, while I like that Chick-fil-A strives for simplicity with their salt and pepper seasoning for the chicken, I can't bring myself to like the breast. The grain seems unnaturally thick to me and likewise, unappetizing. Fourthly, I'm mystified by the honey roasted BBQ sauce. It was . . . interesting. The texture was much more like mayonnaise than any BBQ sauce I've seen and it was creamy, with more smoke per packet than I would have thought possible. I liked the taste fine but I have no idea what business it had mixing with a club. To sum up, Chick-fil-A sandwiches do not impress this blogger.
 
 The waffle fries, however, were perfectly good as fries go.
 
-![](http://www.thegourmez.com/gourmez/photos/Chick-fil-A_0003.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Chick-fil-A_0003.jpg)
 
 They were very lightly seasoned with salt and cut with the skin on, both qualities I like in my fries. The crispness level was just right.
 
 The lemon pie, or more accurately, lemon meringue pie, was really quite good.
 
-![](http://www.thegourmez.com/gourmez/photos/Chick-fil-A_0004.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/Chick-fil-A_0004.jpg)
 
 There was a thick layer of meringue that was a bit wetter than meringue should be but was still yummy. The lemon cream layer was very tart, the graham cracker crust perfect in texture, and somehow, the two vanilla wafers managed to not be soggy. I don't know whether to be scared of that or not, so I'm going with grateful. This was a nice slice of pie!
 

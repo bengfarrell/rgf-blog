@@ -18,7 +18,7 @@ tags:
 
 **Region:** Dobson, NC
 
-![](http://www.thegourmez.com/gourmez/photos/madisonlee.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/madisonlee.jpg)
 
 I like Shelton Vineyard's pinwheel logo---it has a bit of renaissance flair to it. This is the first time the filter on my wine aerator has come in handy; there's a lot of silt in the bottle. It smells of Dove dark chocolate (you know, that somehow still creamy dark chocolate), vanilla, and strawberries.
 

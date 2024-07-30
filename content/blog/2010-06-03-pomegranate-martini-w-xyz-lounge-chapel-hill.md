@@ -17,7 +17,7 @@ tags:
 Aloft Hotel\
 Chapel Hill, NC
 
-![](http://www.thegourmez.com/gourmez/photos/wxyz4.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/wxyz4.jpg)
 
 This cocktail is made with pomegranate juice, citrus vodka, and lemon juice. I find it too thin by far, and I think that would be fixed by using triple sec instead of the flavored vodka. The lemon juice tries to help balance the drink's flavors, but it just isn't enough on its own. Drinkable but could be so much better.
 

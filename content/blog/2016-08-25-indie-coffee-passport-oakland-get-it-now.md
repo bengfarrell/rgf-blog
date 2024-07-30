@@ -17,7 +17,7 @@ tags:
   - "support-local-businesses"
 ---
 
-Last year, the Indie Coffee Passport came to the East Bay, and [I had tons of fun](http://thegourmez.com/2015/03/13/the-indie-coffee-passport-east-bay/) using it for months to try out new-to-me coffee shops in the area. A few are now on my regular rotation of work cafes, including [Marana Cafe,](http://www.maranacafe.com/) [Alchemy Collective Cafe](http://www.alchemycollectivecafe.com/#intro-section), and [eko Coffee Bar.](http://eko-coffee.com/)
+Last year, the Indie Coffee Passport came to the East Bay, and [I had tons of fun](https://thegourmez.com/blog/2015/03/13/the-indie-coffee-passport-east-bay/) using it for months to try out new-to-me coffee shops in the area. A few are now on my regular rotation of work cafes, including [Marana Cafe,](http://www.maranacafe.com/) [Alchemy Collective Cafe](http://www.alchemycollectivecafe.com/#intro-section), and [eko Coffee Bar.](http://eko-coffee.com/)
 
 [![Indie Coffee Passport Oakland](http://s3.amazonaws.com/thegourmez-wpmedia/2016/08/icp-oakland.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/08/icp-oakland.jpg)
 

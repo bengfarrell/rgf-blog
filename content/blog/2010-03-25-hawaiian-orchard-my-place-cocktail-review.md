@@ -11,7 +11,7 @@ tags:
   - "triple-sec"
 ---
 
-![](http://www.thegourmez.com/gourmez/photos/hawaiianorchard.jpg)
+![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/hawaiianorchard.jpg)
 
 2 shots vodka\
 1 shot triple sec\

@@ -23,7 +23,7 @@ tags:
   - "wine-authorities"
 ---
 
-I've got another update on Triangle-area foodie happenings for you! First, the lovely Morgan Siem, whom I first met at last month's [Social Media Supper Club](http://www.thegourmez.com/?p=2299), is putting on a fundraising dinner at [Vespa Ristorante](http://www.thegourmez.com/gourmez/restaurants/review.php?id=21&type=) in Chapel Hill on Wednesday, 3/30, at 7 pm.  $15 from the $44 meal will go directly to St. Baldrick's Hospital to promote research on children's cancers. Here's the menu:
+I've got another update on Triangle-area foodie happenings for you! First, the lovely Morgan Siem, whom I first met at last month's [Social Media Supper Club](http://www.thegourmez.com/?p=2299), is putting on a fundraising dinner at [Vespa Ristorante](https://thegourmez.com/blog/2007/04/26/vespa-ristorante-downtown-chapel-hill/) in Chapel Hill on Wednesday, 3/30, at 7 pm.  $15 from the $44 meal will go directly to St. Baldrick's Hospital to promote research on children's cancers. Here's the menu:
 
 > First Course,  Family Style: Calamari Fritti, Fried Calamari served with Marinara and Fried Zucchini, and  Mediterranean Mezze Platter, a Mediterranean sampling of Hummus, Olive Tapenade, Acili Ezme, and Eggplant Caviar.
 > 

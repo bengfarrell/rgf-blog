@@ -19,7 +19,7 @@ tags:
   - "scotto-cellars"
 ---
 
-A few months back, I received a unique shipment of wine samples from the Scotto Cellars portfolio. **Disclaimer**: _Samples_ means these wines were free for me to review. This fifth-generation winemaking family based in Lodi, California, has impressed me with their range of offerings, from the Scotto Family Cellars’ delicious, soft [2013 Malbec](http://thegourmez.com/2017/07/07/best-wines-kent-scotto/) to the more commercial [Rare Red](http://thegourmez.com/2016/07/15/extremely-rare-rare-red-2012-black-blend/) wine label you’re ironically likely to find pretty easily. Well, Scotto Cellars is bringing more ease to the wine life in a new way – portable packaging.
+A few months back, I received a unique shipment of wine samples from the Scotto Cellars portfolio. **Disclaimer**: _Samples_ means these wines were free for me to review. This fifth-generation winemaking family based in Lodi, California, has impressed me with their range of offerings, from the Scotto Family Cellars’ delicious, soft [2013 Malbec](https://thegourmez.com/blog/2017/07/07/best-wines-kent-scotto/) to the more commercial [Rare Red](https://thegourmez.com/blog/2016/07/15/extremely-rare-rare-red-2012-black-blend/) wine label you’re ironically likely to find pretty easily. Well, Scotto Cellars is bringing more ease to the wine life in a new way – portable packaging.
 
 [![anywhere cellars red wine on the go](http://s3.amazonaws.com/thegourmez-wpmedia/2017/09/Samples-Party-003-406x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/09/Samples-Party-003.jpg)
 
@@ -27,7 +27,7 @@ These mobile wines came in two different packaging types, both intended for on-t
 
 [![heavyweight to go cabernet sauvignon portable ](http://s3.amazonaws.com/thegourmez-wpmedia/2017/09/Samples-Party-001-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/09/Samples-Party-001.jpg)
 
-I’ve reviewed a pair of [Scotto’s Heavyweight wines](http://thegourmez.com/2016/02/29/scotto-cellars-heavyweight-wine/) before, and if anything, the wines actually improved in this format. I was not expecting that! The cups are cute, durable enough for some gentle tumbling, and come with a lid that I much appreciated. The Heavyweight 2013 Cabernet Sauvignon tasted great! Brambleberry, pepper, not quite ripe blackberry, and sage made for a lively blend. 4/5
+I’ve reviewed a pair of [Scotto’s Heavyweight wines](https://thegourmez.com/blog/2016/02/29/scotto-cellars-heavyweight-wine/) before, and if anything, the wines actually improved in this format. I was not expecting that! The cups are cute, durable enough for some gentle tumbling, and come with a lid that I much appreciated. The Heavyweight 2013 Cabernet Sauvignon tasted great! Brambleberry, pepper, not quite ripe blackberry, and sage made for a lively blend. 4/5
 
 [![On the go heavyweight wine chardonnay](http://s3.amazonaws.com/thegourmez-wpmedia/2017/09/Samples-Party-015-396x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/09/Samples-Party-015.jpg)
 

@@ -145,7 +145,7 @@ It's the only wine under the Chateau St. Michelle label I tried on this trip, an
 
 [![Alexandria Nicole Shepherds mark 2013](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-192-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/12/ProsserWA-192.jpg)
 
-Folks, Alexandria Nicole wines actually earned three spots on this list – 3! – but I already covered the awesomeness that is their 2013 Member's Only and 2013 Sergeant Pepper Carménère in my profile piece on their [whole package wine experience](http://thegourmez.com/2016/12/19/prosser-wine-alexandria-nicole-cellars/) last week. The Shepherds Mark brings that same quality. It may sound weird, but it tasted like a homemade marshmallow rolled in fresh mint and tarragon. Okay, if you're reading this article, you're a wine lover—that probably doesn't sound that weird to you! And it tastes WONDERFUL. Roasted chicken may have met its match.
+Folks, Alexandria Nicole wines actually earned three spots on this list – 3! – but I already covered the awesomeness that is their 2013 Member's Only and 2013 Sergeant Pepper Carménère in my profile piece on their [whole package wine experience](https://thegourmez.com/blog/2016/12/19/prosser-wine-alexandria-nicole-cellars/) last week. The Shepherds Mark brings that same quality. It may sound weird, but it tasted like a homemade marshmallow rolled in fresh mint and tarragon. Okay, if you're reading this article, you're a wine lover—that probably doesn't sound that weird to you! And it tastes WONDERFUL. Roasted chicken may have met its match.
 
 [Milbrandt 2015 Traditions Sweet Katherine](http://shop.milbrandtvineyards.com/product?productid=4141E456-7B2E-41D8-B96A-E52CAEAEB58C) ($13)
 
