@@ -1,27 +1,27 @@
-\---
+---
 
 title: "Macs by Icky"
 date: "2024-07-26"
 categories:
-\- "ice-cream-parlors"
-\- "coffee-shops"
+- "ice-cream-parlors"
+- "coffee-shops"
 
 tags:
 
-\- "filipino dessert"
-\- "pinoy"
-\- "Choco taco"
-\- "coffee"
-\- "union city"
+- "filipino dessert"
+- "pinoy"
+- "Choco taco"
+- "coffee"
+- "union city"
 
-\---
+---
 
 *Address:* 3900 Smith Street\
 Union City, CA\
 *Website:* <https://www.instagram.com/macs.by.icky/>\
 Be sure to check the Instagram above for current hours
 
-[![macs by icky storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(2).jpg)]https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(2).jpg
+[![macs by icky storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(2).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(2).jpg)
 
 # The 411 on Macs by Icky
 
