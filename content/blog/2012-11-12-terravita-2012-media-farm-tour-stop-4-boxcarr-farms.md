@@ -50,7 +50,7 @@ tags:
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/TerraVita2012055.jpg "TerraVita2012055")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/TerraVita2012055.jpg)</div>
 
 
-[Boxcarr Farms](http://www.boxcarrfarms.com/) is both a farm and a food truck that uses ingredients from that farm. The farm can be found in Cedar Grove, NC, and the food truck visits [Fullsteam Brewery](http://www.fullsteam.ag/) every other Thursday night and [3 Cups](http://3cups.net/) every other Friday night. I’ve [reviewed the food truck](http://www.thegourmez.com/2012/02/boxcarr-farms-food-truck/) before, and I was thoroughly impressed — more than I expected to be, honestly, because I thought they might be a bit hyped up. So it was definitely a treat to see Boxcarr’s grounds in person and talk with its owners, Austin and Dani Genke, for the lunch stop on our [TerraVITA 2012](http://terravitaevent.com/) Media Farm tour.
+[Boxcarr Farms](http://www.boxcarrfarms.com/) is both a farm and a food truck that uses ingredients from that farm. The farm can be found in Cedar Grove, NC, and the food truck visits [Fullsteam Brewery](http://www.fullsteam.ag/) every other Thursday night and [3 Cups](http://3cups.net/) every other Friday night. I’ve [reviewed the food truck](https://thegourmez.com/blog/2012-02-24-boxcarr-farms-food-truck/) before, and I was thoroughly impressed — more than I expected to be, honestly, because I thought they might be a bit hyped up. So it was definitely a treat to see Boxcarr’s grounds in person and talk with its owners, Austin and Dani Genke, for the lunch stop on our [TerraVITA 2012](http://terravitaevent.com/) Media Farm tour.
 
 
 

@@ -16,7 +16,7 @@ tags:
   - "the-orchard-manhattan"
 ---
 
-**[Bijou](http://www.thegourmez.com/2013/11/bijou/)**\
+**[Bijou](https://thegourmez.com/blog/2013-11-05-bijou/)**\
 Hayward, CA\
 $11
 

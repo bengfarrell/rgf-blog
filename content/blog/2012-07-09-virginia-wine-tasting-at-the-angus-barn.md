@@ -56,7 +56,7 @@ It was a cozy setup with mostly winemakers and winery owners doing the pours. Th
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting02.jpg "VAwinetasting02")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting02.jpg)
 
-I slowly made my way through the group, starting with the enthusiastic owner of [Democracy Vineyards,](http://www.democracyvineyards.com/) Jim. They were one of the youngest wineries at the tasting, opening up about three years ago. Most of the wineries represented had been around for about 10 years, but some had much longer histories than that, bordering on 30 years or more of winemaking. I spent a good amount of time talking with the lovely women of Foggy Ridge Cider, watching the charismatic wine pourer for Barboursville with fascination, and telling the wine pourer from [Chateau Morrisette](http://www.thedogs.com/index.php?pr=Home_Page) how much I loved their [blushing dog rosé](http://www.thegourmez.com/2007/04/chateau-morrisette-blushing-dog-table-wine/) a few years back. Turns out all of Chateau Morrisette’s wines bear the image of the family’s black dogs.
+I slowly made my way through the group, starting with the enthusiastic owner of [Democracy Vineyards,](http://www.democracyvineyards.com/) Jim. They were one of the youngest wineries at the tasting, opening up about three years ago. Most of the wineries represented had been around for about 10 years, but some had much longer histories than that, bordering on 30 years or more of winemaking. I spent a good amount of time talking with the lovely women of Foggy Ridge Cider, watching the charismatic wine pourer for Barboursville with fascination, and telling the wine pourer from [Chateau Morrisette](http://www.thedogs.com/index.php?pr=Home_Page) how much I loved their [blushing dog rosé](https://thegourmez.com/blog/2007-04-27-chateau-morrisette-blushing-dog-table-wine/) a few years back. Turns out all of Chateau Morrisette’s wines bear the image of the family’s black dogs.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting07.jpg "VAwinetasting07")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting07.jpg)
 
@@ -76,7 +76,7 @@ At [Barboursville](http://www.barboursvillewine.net/winery/)’s table, the nebb
 
 What tasting all those wines taught me is that Virginian winemakers do a great job producing blends that are layered yet smooth, making for lovely table wines. I also learned that not all petit varietals have fruit that tastes too tight for me (I’m looking at you, petit syrah). The petit verdot proved that bottle after bottle.
 
-[Foggy Ridge](http://www.foggyridgecider.com/) was the only purveyor of alcohol that wasn’t wine at this event. You may have noticed them creep up in a few [cocktail](http://www.thegourmez.com/2012/01/graniwinkle-watts-grocery/) [reviews](http://www.thegourmez.com/2011/12/golden-era-foundation/) I’ve done this past year.
+[Foggy Ridge](http://www.foggyridgecider.com/) was the only purveyor of alcohol that wasn’t wine at this event. You may have noticed them creep up in a few [cocktail](https://thegourmez.com/blog/2012-01-06-graniwinkle-watts-grocery/) [reviews](https://thegourmez.com/blog/2011-12-30-golden-era-foundation/) I’ve done this past year.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting10.jpg "VAwinetasting10")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/VAwinetasting10.jpg)
 

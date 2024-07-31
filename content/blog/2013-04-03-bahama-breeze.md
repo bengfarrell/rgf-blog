@@ -37,7 +37,7 @@ With my husband and a friend in tow, we arrived at the 3309 Wake Forest Road loc
 
 [![bahama breeze01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/03/bahama-breeze01.jpg)](http://www.thegourmez.com/2013/04/bahama-breeze/bahama-breeze01/)
 
-This is the only Bahama Breeze I have been to, and this was only the second time I've visited, the first being nearly three years ago when [I checked out their White Satin](http://www.thegourmez.com/2010/08/white-satin-bahama-breeze-raleigh/) cocktail. The restaurant has been crowded on both occasions, obviously a popular dining spot for this area of Raleigh. I think they do a great job of capturing the atmosphere of large, open-air resorts in the Caribbean minus two important elements: mosquitoes and humidity. I won't complain about their absence.
+This is the only Bahama Breeze I have been to, and this was only the second time I've visited, the first being nearly three years ago when [I checked out their White Satin](http://thegourmez.com/blog/2010-08-20-white-satin-bahama-breeze-raleigh/) cocktail. The restaurant has been crowded on both occasions, obviously a popular dining spot for this area of Raleigh. I think they do a great job of capturing the atmosphere of large, open-air resorts in the Caribbean minus two important elements: mosquitoes and humidity. I won't complain about their absence.
 
 
 

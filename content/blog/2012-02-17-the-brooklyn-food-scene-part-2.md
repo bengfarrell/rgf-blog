@@ -31,7 +31,7 @@ tags:
   - "whiskey"
 ---
 
-[In Part 1](http://www.thegourmez.com/2012/02/the-brooklyn-food-scene-part-1/) of our journey through two days of Brooklyn’s food and drink wonders, we started out in DC with some bacon and toffee waffles, then went to dinner at Buttermilk Channel in Brooklyn, and had brunch at Colonie the next day. Brunch was walked off with a visit to the waterfront and lovely views of Manhattan across the way.  Next, it was time for an early dinner before hitting Broadway for a show. We decided on [Frankie’s](http://frankiesspuntino.com/457/457_menu.html), an Italian restaurant.
+[In Part 1](https://thegourmez.com/blog/2012-02-13-the-brooklyn-food-scene-part-1/) of our journey through two days of Brooklyn’s food and drink wonders, we started out in DC with some bacon and toffee waffles, then went to dinner at Buttermilk Channel in Brooklyn, and had brunch at Colonie the next day. Brunch was walked off with a visit to the waterfront and lovely views of Manhattan across the way.  Next, it was time for an early dinner before hitting Broadway for a show. We decided on [Frankie’s](http://frankiesspuntino.com/457/457_menu.html), an Italian restaurant.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/htstrip10.jpg "htstrip10")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/02/htstrip10.jpg)
 

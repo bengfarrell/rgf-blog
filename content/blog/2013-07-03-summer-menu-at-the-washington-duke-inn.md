@@ -69,7 +69,7 @@ Enough sentimentalism. It's time to eat! Our first course, titled "Lush," was a 
 
 The presentation was cute and inviting. On the left is pictured a brioche grilled cheese bite with Mahon cheese. That underwhelmed me (see, I'm not completely biased!) as the brioche swallowed up the slim cheese slice, though I heard praise from my fellow bloggers. But the rest of the appetizer course was delicious, especially the deviled egg. Its preparation was traditional, relying on nicely balanced mustard and vinegar, which served as reminder of how amazing the classic deviled egg can be. The gazpacho itself was strong on the garlic and heavy on the pepper, both qualities I never complain about. A stronger cucumber presence would have been appreciated, though, but the amazing Johnston County prosciutto more than distracted me from that deficit.
 
-"Ripe" was our second course, pairing American red snapper with a salad featuring the baby kale from Cottle Farms that I [raved about last time](http://www.thegourmez.com/2013/04/fairview-dining-room-spring-2013-media-lunch/).
+"Ripe" was our second course, pairing American red snapper with a salad featuring the baby kale from Cottle Farms that I [raved about last time](https://thegourmez.com/blog/2013-04-08-fairview-dining-room-spring-2013-media-lunch/).
 
 [![2013_WaDuke_Summer06](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/2013_WaDuke_Summer06-500x332.jpg)](http://www.thegourmez.com/2013/07/summer-menu-at-the-washington-duke-inn/2013_waduke_summer06/)
 

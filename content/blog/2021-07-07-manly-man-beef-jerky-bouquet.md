@@ -34,7 +34,7 @@ I deferred shipment for a few weeks, because it would have arrived right after l
 [![](https://thegourmez-wpmedia.s3.amazonaws.com/2021/07/Beef-Jerky-Bouquet-002-500x339.png)](https://thegourmez-wpmedia.s3.amazonaws.com/2021/07/Beef-Jerky-Bouquet-002.png) No editing, I swear. This was 8:45am in Oakland.</div>
 
 
-Thanks, Climate Change. 😐 Alas, when I finally told the company to go ahead, there was a mix-up—I received [the Best Jerky Gift Box](https://manlymanco.com/products/best-jerky-gift-basket) ($65) instead. I was deeply disappointed, though not at all by the jerky. The Best Jerky Gift Box yielded a fantastic array of The Manly Man Co’s many different jerky varieties. In [my review then](https://thegourmez.com/2020/12/17/manly-man-co-beef-jerky-gift-box/), you can see I was quite impressed by their flavors and textures, which ranged from machine-pressed teriyaki strips to pizza-topped pepperoni jerky to more old-fashioned dehydration with maple bacon and whiskey flavorings.
+Thanks, Climate Change. 😐 Alas, when I finally told the company to go ahead, there was a mix-up—I received [the Best Jerky Gift Box](https://manlymanco.com/products/best-jerky-gift-basket) ($65) instead. I was deeply disappointed, though not at all by the jerky. The Best Jerky Gift Box yielded a fantastic array of The Manly Man Co’s many different jerky varieties. In [my review then](https://thegourmez.com/blog/2020-12-17-manly-man-co-beef-jerky-gift-box/), you can see I was quite impressed by their flavors and textures, which ranged from machine-pressed teriyaki strips to pizza-topped pepperoni jerky to more old-fashioned dehydration with maple bacon and whiskey flavorings.
 
 
 

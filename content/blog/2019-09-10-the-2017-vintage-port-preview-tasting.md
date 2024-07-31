@@ -18,7 +18,9 @@ tags:
   - "wine-tasting"
 ---
 
-[![2017 Vintage Port, tasting notes, wine tasting, port, ](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-030-500x403.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-030.jpg)Little did I know that when we convened for the [2016 Vintage Port tasting,](https://thegourmez.com/2018/11/27/2016-vintage-port-a-sign-of-good-things-to-comeand-good-drinking-now/) another Vintage Port declaration would follow in 2017. I was surprised to find an invitation to attend this year's preview tasting in my inbox, and I can safely say that the pre-eminent Port producers represented — [Symington](https://www.symington.com/), [Fladgate](https://fladgatepartnership.com/en/), and [Quinta do Noval](http://www.quintadonoval.com/en/) — were just as surprised to extend it. _Obligatory disclaimer:_ Participation in this industry tasting was entirely free to me.
+[![2017 Vintage Port, tasting notes, wine tasting, port, ](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-030-500x403.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/09/2017-Vintage-Port-030.jpg)
+
+Little did I know that when we convened for the [2016 Vintage Port tasting,](https://thegourmez.com/blog/2018-11-28-2016-vintage-port-a-sign-of-good-things-to-comeand-good-drinking-now/) another Vintage Port declaration would follow in 2017. I was surprised to find an invitation to attend this year's preview tasting in my inbox, and I can safely say that the pre-eminent Port producers represented — [Symington](https://www.symington.com/), [Fladgate](https://fladgatepartnership.com/en/), and [Quinta do Noval](http://www.quintadonoval.com/en/) — were just as surprised to extend it. _Obligatory disclaimer:_ Participation in this industry tasting was entirely free to me.
 
 
 

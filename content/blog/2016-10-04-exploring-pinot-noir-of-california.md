@@ -74,7 +74,7 @@ Made with grapes grown just to the south in the Arroyo Seco AVA, the [2014 Scott
 
 [![Sanford Califonia Pinot Noir](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Pinot-Noir-Day-04-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Pinot-Noir-Day-04.jpg)
 
-Sanford Winery and Vineyards, which I’ve been following since [my first Wine Bloggers Conference](https://thegourmez.com/2014/07/31/wbc14-sta-rita-hills-wine-santa-barbara/), proved its deft winemaking skills once again with this exceptional 2014 Pinot Noir ($45) from the Santa Rita Hills [(Buy the 2012 here](http://www.sanfordwinery.com/product/sanford-pinot-noir-sta-rita-hills-2012?destination=node/3196)).  If my favorite childhood dessert, raspberry cream served in milk chocolate cups, was given more depth, this might be the result. The nose is attic and pencil shavings, and the glass is those strawberry cups mingling with cardamom and tree bark. Its fire engine red color intrigued. 4.5/5.
+Sanford Winery and Vineyards, which I’ve been following since [my first Wine Bloggers Conference](https://thegourmez.com/blog/2014-07-31-wbc14-sta-rita-hills-wine-santa-barbara/), proved its deft winemaking skills once again with this exceptional 2014 Pinot Noir ($45) from the Santa Rita Hills [(Buy the 2012 here](http://www.sanfordwinery.com/product/sanford-pinot-noir-sta-rita-hills-2012?destination=node/3196)).  If my favorite childhood dessert, raspberry cream served in milk chocolate cups, was given more depth, this might be the result. The nose is attic and pencil shavings, and the glass is those strawberry cups mingling with cardamom and tree bark. Its fire engine red color intrigued. 4.5/5.
 
 ## The California Melting Pot Pinot Noir
 

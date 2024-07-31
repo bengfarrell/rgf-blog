@@ -28,7 +28,7 @@ tags:
 ---
 
 **The Roxy**\ 
-([Bar Review](http://www.thegourmez.com/2011/12/the-roxy-review-and-yelps-mobsters-and-molls-party/))\ 
+([Bar Review](https://thegourmez.com/blog/2011-12-09-the-roxy-review-and-yelps-mobsters-and-molls-party/)\ 
 Brightleaf, Durham, NC\
 $20
 

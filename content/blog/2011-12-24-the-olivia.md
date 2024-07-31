@@ -17,7 +17,7 @@ tags:
   - "west-end-wine-bar"
 ---
 
-**[West End Wine Bar](http://www.thegourmez.com/2009/10/barrestaurant-review-west-end-wine-bar-warehouse-district-durham/)**\
+**[West End Wine Bar](https://thegourmez.com/blog/2009-10-16-barrestaurant-review-west-end-wine-bar-warehouse-district-durham/)**\
 West Village, Durham, NC\
 [Website](http://www.westendwinebar.com/durham/drink.html)\
 $9

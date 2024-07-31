@@ -34,7 +34,7 @@ Duke Campus, Durham, NC\
 Entrees: $19–$30\
 [Website](http://www.washingtondukeinn.com/Dining/fairview.asp)
 
-As you may recall, I was invited to try [the spring menu](http://www.thegourmez.com/2012/04/spring-menu-at-the-fairview-dining-room-durham/) at the Fairview Dining Room last March. Last Thursday, I previewed the fall menu along with several other local food bloggers and media members at a complimentary lunch. And it was amazing. Chef Jason Cunningham’s cuisine continues to prove to me time and time again that it’s one of the best in the area.
+As you may recall, I was invited to try [the spring menu](https://thegourmez.com/blog/2012-04-04-spring-menu-at-the-fairview-dining-room-durham/) at the Fairview Dining Room last March. Last Thursday, I previewed the fall menu along with several other local food bloggers and media members at a complimentary lunch. And it was amazing. Chef Jason Cunningham’s cuisine continues to prove to me time and time again that it’s one of the best in the area.
 
 
 

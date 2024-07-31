@@ -21,7 +21,7 @@ tags:
 
 **[Revolution](http://www.revolutionrestaurant.com/Revolution_Durham/Cocktails.html)**\
 Downtown Durham, NC\ 
-[Restaurant Review](http://www.thegourmez.com/2010/04/revolution-downtown-durham-restaurant-review/)\
+[Restaurant Review](https://thegourmez.com/blog/2010-04-02-revolution-downtown-durham-restaurant-review/)\
 $9
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/babc.jpg "babc")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/babc.jpg)

@@ -41,7 +41,7 @@ tags:
 [![Click twice for a view of the hotel and cabanas.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_81-1024x106.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_81/)</div>
 
 
-This is Part 2 of my blog posts on our Amelia Island vacation last May. [In Part 1,](http://www.thegourmez.com/2013/09/pajama-daves-amelia-river-cruise/) we cruised down the Amelia River, but we'll stay closer to the hotel this time, the [Omni Amelia Island Plantation Resort](http://www.omnihotels.com/FindAHotel/AmeliaIsland.aspx). Spacious rooms, a welcoming lobby and bar, and this each morning:
+This is Part 2 of my blog posts on our Amelia Island vacation last May. [In Part 1,](https://thegourmez.com/blog/2013-09-09-pajama-daves-amelia-river-cruise/) we cruised down the Amelia River, but we'll stay closer to the hotel this time, the [Omni Amelia Island Plantation Resort](http://www.omnihotels.com/FindAHotel/AmeliaIsland.aspx). Spacious rooms, a welcoming lobby and bar, and this each morning:
 
 [![Omni_Resort_01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/09/Omni_Resort_01-500x332.jpg)](http://www.thegourmez.com/2013/09/the-omni-amelia-island-plantation-resort/omni_resort_01/)
 

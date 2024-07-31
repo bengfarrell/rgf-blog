@@ -40,7 +40,7 @@ tags:
 
 [![71720_454245974632366_2108506717_a](http://s3.amazonaws.com/thegourmez-wpmedia/2013/07/71720_454245974632366_2108506717_a.jpg)](http://www.thegourmez.com/?attachment_id=6609)
 
-I was thrilled to again judge a Fire in the Triangle battle, having [judged my first](http://www.thegourmez.com/2012/06/fire-in-the-triangle-round-6/) last year when [NC Competition Dining](http://www.competitiondining.com/) premiered in the Research Triangle. If you love food and live in the area, then you simply must make next year's series—it's too late for this year's. All the battles have been sold out for weeks!
+I was thrilled to again judge a Fire in the Triangle battle, having [judged my first](https://thegourmez.com/blog/2012-06-21-fire-in-the-triangle-round-6/) last year when [NC Competition Dining](http://www.competitiondining.com/) premiered in the Research Triangle. If you love food and live in the area, then you simply must make next year's series—it's too late for this year's. All the battles have been sold out for weeks!
 
 WRAL is the local media sponsor for the competition, and they already have a [great summary up](http://www.wral.com/fire-in-the-triangle-heirloom-tomatoes-and-topo-distillery-/12691432/) of Monday's night's competition between [Market](https://www.facebook.com/pages/The-Market-Restaurant-Grocery-Catering/342469102537879) and [New Southern Kitchen](http://www.newsouthernkitchen.com/), but I just have to add my own spin.
 

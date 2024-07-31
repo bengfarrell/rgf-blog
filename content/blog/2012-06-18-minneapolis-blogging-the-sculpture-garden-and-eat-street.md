@@ -61,7 +61,7 @@ Right across the Friendship Bridge from Loring Park is the Sculpture Garden, par
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis122.jpg "2012minneapolis122")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis122.jpg)</div>
 
 
-If you missed [my blog](http://www.thegourmez.com/2011/06/minneapolis-evening-1-and-dayevening-2-photo-blog/) on the Walker Art Museum last year, then you don’t know how hard I fell for it. It’s an amazing museum with intriguing and moving exhibits, and you MUST visit it. When I did last year, it was nighttime, so touring the Sculpture Garden too wasn’t ideal. Thus I made sure to make it a priority this time, especially with all the recommendations for it I got from friends and Twitter tweeps.
+If you missed [my blog](https://thegourmez.com/blog/2011-06-01-minneapolis-evening-1-and-dayevening-2-photo-blog/) on the Walker Art Museum last year, then you don’t know how hard I fell for it. It’s an amazing museum with intriguing and moving exhibits, and you MUST visit it. When I did last year, it was nighttime, so touring the Sculpture Garden too wasn’t ideal. Thus I made sure to make it a priority this time, especially with all the recommendations for it I got from friends and Twitter tweeps.
 
 They weren’t wrong. The Sculpture Garden is a playground for photographers, and now we’ll walk through some of my favorite shots. We will enter from the southern end and walk mostly in a clockwise direction. Less commentary, more pretty!
 

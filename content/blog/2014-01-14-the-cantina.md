@@ -28,7 +28,7 @@ Union Square, San Francisco\
 [http://www.cantinasf.com/](http://www.cantinasf.com/)
 
 
-After a fun night out at [Kuleto's](http://www.thegourmez.com/2013/12/kuletos/) last November, our friends introduced us to one of their favorite drink spots, just a few blocks away.
+After a fun night out at [Kuleto's](https://thegourmez.com/blog/2013-12-12-kuletos/) last November, our friends introduced us to one of their favorite drink spots, just a few blocks away.
 
 [![Cantina_01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/12/Cantina_01-332x500.jpg)](http://www.thegourmez.com/2014/01/the-cantina/cantina_01/)
 

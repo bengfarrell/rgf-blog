@@ -26,7 +26,7 @@ The Manly Man Co. ([website](https://manlymanco.com/)) is a purveyor of gender s
 
 I took one look at that beautiful creation of beef jerky splendor and said yes, I would happily review a gift box from the company. **_Obligatory disclaimer:_** That means the jerky I am about to review was entirely free to me.
 
-I can hear some of you now. “Wow, the Gourmez, way to perpetuate gender stereotypes.” “That’s so progressive of you, buying into men = meat products marketing.” Look, friends. This is [not my first time](https://thegourmez.com/2019/12/09/brobasket-gift-basket-whiskey/) reviewing a gift box advertised for men. And my opinion remains the same now as it did then—there are some men who truly enjoy the warm embrace of stereotypical manhood, and some women who think it’s hilarious to receive a gift meant for that sort of man. I don’t see anything wrong with buying gifts geared toward such people. And c’mon, they offered me a MEAT BOUQUET.
+I can hear some of you now. “Wow, the Gourmez, way to perpetuate gender stereotypes.” “That’s so progressive of you, buying into men = meat products marketing.” Look, friends. This is [not my first time](https://thegourmez.com/blog/2019-12-09/brobasket-gift-basket-whiskey/) reviewing a gift box advertised for men. And my opinion remains the same now as it did then—there are some men who truly enjoy the warm embrace of stereotypical manhood, and some women who think it’s hilarious to receive a gift meant for that sort of man. I don’t see anything wrong with buying gifts geared toward such people. And c’mon, they offered me a MEAT BOUQUET.
 
 
 

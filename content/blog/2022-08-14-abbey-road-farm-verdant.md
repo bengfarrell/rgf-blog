@@ -21,7 +21,7 @@ tags:
   - "yamhill-carlton-2"
 ---
 
-[Abbey Road Farm](https://abbeyroadfarm.com/index.html) is a delightful gem in [the Yamhill-Carlton AVA](https://thegourmez.com/2021/12/13/yamhill-carlton-oregon-wine/) that I visited as part of the 2021 [Wine Media Conference](https://www.winemediaconference.org/) (WMC). I felt inspired to devote a whole blog post to it after that visit. Why? Because it offers more than just a winery, though being a winery is generally quite appealing! But Abbey Road Farm is also a farm, a bed & breakfast, and host to an amazing restaurant, wine incubator, and this amazing view:
+[Abbey Road Farm](https://abbeyroadfarm.com/index.html) is a delightful gem in [the Yamhill-Carlton AVA](https://thegourmez.com/blog/2021-12-13-yamhill-carlton-oregon-wine/) that I visited as part of the 2021 [Wine Media Conference](https://www.winemediaconference.org/) (WMC). I felt inspired to devote a whole blog post to it after that visit. Why? Because it offers more than just a winery, though being a winery is generally quite appealing! But Abbey Road Farm is also a farm, a bed & breakfast, and host to an amazing restaurant, wine incubator, and this amazing view:
 
 _Lavender and lush beauty at Abbey Farm Roads_
 
@@ -37,7 +37,7 @@ _The afternoon’s tastings._
 
 As Abbey Road Farms is a wine incubator, they help other wineries with small yields get a chance to shine as well. Their [wine club](https://shop.abbeyroadfarm.com/Wine-Club) offers a great variety of wines from each member of their collective for adventurous wine lovers to explore.
 
-[Verdant](https://abbeyroadfarm.com/verdant.html), Abbey Road Farm’s restaurant, is plenty adventurous on its own. Overnight guests feast on their sumptuous breakfast. We enjoyed a delicious lunch. You never quite know the caliber of dining you’ll get on a wine trip. Sometimes it’s decent food truck burgers. Other times? Heaven. I remember the [lovely autumnal feast](https://thegourmez.com/2015/11/02/a-sampling-of-the-perfect-watkins-glen-and-eastern-seneca-lake-experience/) I had at [Chateau LaFayette Renau](http://www.clrwine.com/) in the Finger Lakes, during WMC15, quite fondly, one of my favorite wine dining experiences with a bountiful table overflowing.
+[Verdant](https://abbeyroadfarm.com/verdant.html), Abbey Road Farm’s restaurant, is plenty adventurous on its own. Overnight guests feast on their sumptuous breakfast. We enjoyed a delicious lunch. You never quite know the caliber of dining you’ll get on a wine trip. Sometimes it’s decent food truck burgers. Other times? Heaven. I remember the [lovely autumnal feast](https://thegourmez.com/blog/2015-11-03-a-sampling-of-the-perfect-watkins-glen-and-eastern-seneca-lake-experience/) I had at [Chateau LaFayette Renau](http://www.clrwine.com/) in the Finger Lakes, during WMC15, quite fondly, one of my favorite wine dining experiences with a bountiful table overflowing.
 
 I knew the second that Abbey Road Farms’ escabeche hit the table, we were in for that heavenly type of experience at Verdant as well.
 

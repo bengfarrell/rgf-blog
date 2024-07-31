@@ -27,7 +27,7 @@ Entrees: $17–$24
 
 ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/one01.jpg)
 
-\[one\] (or one or \[ONE\] depending on what part of the website, building, or business card you look at) is a new restaurant from Shane Ingram, the chef and owner of [Four Square](http://www.foursquarerestaurant.com/) in Durham ([my review](http://www.thegourmez.com/2007/04/four-square-durham/)), one of the most acclaimed fine dining establishments in the area. Reportedly, \[one\] is meant to be a more relaxed version of Four Square, but I'm not sure I'd buy that based on the number of waitstaff milling about this modern restaurant. Perhaps a more updated Four Square would be more apt. The décor was mainly in a Swiss or German design palette, as our friends, the lovely couple at [Triangle Vino](http://trianglevino.com/), dubbed it.
+\[one\] (or one or \[ONE\] depending on what part of the website, building, or business card you look at) is a new restaurant from Shane Ingram, the chef and owner of [Four Square](http://www.foursquarerestaurant.com/) in Durham ([my review](https://thegourmez.com/blog/2007-04-27-four-square-durham/)), one of the most acclaimed fine dining establishments in the area. Reportedly, \[one\] is meant to be a more relaxed version of Four Square, but I'm not sure I'd buy that based on the number of waitstaff milling about this modern restaurant. Perhaps a more updated Four Square would be more apt. The décor was mainly in a Swiss or German design palette, as our friends, the lovely couple at [Triangle Vino](http://trianglevino.com/), dubbed it.
 
 ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/one02.jpg)
 

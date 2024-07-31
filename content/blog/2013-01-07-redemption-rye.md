@@ -29,7 +29,7 @@ The whiskey’s color is yellow-brown, like light corn syrup. It smells sweet fo
 
 That’s all I have to say. It’s delicious, and I’ll buy more.
 
-[![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
+[![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)]
 
 **Other Bloggers’ Thoughts**
 

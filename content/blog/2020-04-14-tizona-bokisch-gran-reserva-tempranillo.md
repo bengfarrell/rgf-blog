@@ -21,7 +21,7 @@ Bokisch Vineyards ([website](https://www.bokischvineyards.com/)) is one of my fa
 
 [![Tizona, tizona by bokisch, bokisch vineyards, gran reserva, tempranillo, tasting notes, lodi wine, spanish wine](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/Tizona-004-500x375.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/Tizona-004.jpg)
 
-I first became acquainted with Bokisch Vineyards at the 2016 Wine Bloggers Conference, where I named their **2015 Bokisch Vineyards Terra Alta Albarino** one of [my most memorable wines](https://thegourmez.com/2016/09/02/most-memorable-wines-from-the-2016-wine-bloggers-conference-part-1/) from the conference. Markus and Liz Bokisch have been devoted to mastering Spanish varietals in the Lodi AVA since the late 1990s.
+I first became acquainted with Bokisch Vineyards at the 2016 Wine Bloggers Conference, where I named their **2015 Bokisch Vineyards Terra Alta Albarino** one of [my most memorable wines](https://thegourmez.com/blog/2016-09-02-most-memorable-wines-from-the-2016-wine-bloggers-conference-part-1/) from the conference. Markus and Liz Bokisch have been devoted to mastering Spanish varietals in the Lodi AVA since the late 1990s.
 
 Their _Tizona by Bokisch_ line features “limited production wines done in unique styles” per their press release.
 
@@ -46,7 +46,7 @@ A great way to be introduced to this and other Bokisch wines would be to take pa
 
 <div class="caption">
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180210_152153_425.jpg)](https://thegourmez.com/2019/01/03/lodi-wine-and-chocolate-festival-february/) Me at the Bokisch Vineyards in 2018 for [the Lodi Wine & Chocolate Festival.](https://thegourmez.com/2019/01/03/lodi-wine-and-chocolate-festival-february/)</div>
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2018/09/IMG_20180210_152153_425.jpg)] Me at the Bokisch Vineyards in 2018 for [the Lodi Wine & Chocolate Festival.](https://thegourmez.com/blog/2019-01-03-lodi-wine-and-chocolate-festival-february/)</div>
 
 
 To participate in virtual tastings at Bokisch Vineyards, call their tasting room at (209) 642-8880 to be added to the list or respond via email at [salutclub@bokisch.wine](mailto:salutclub@bokisch.wine).

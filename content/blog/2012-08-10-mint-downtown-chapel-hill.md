@@ -50,7 +50,7 @@ For dessert, I was served the pistachio kulfi that comes with the thali option.
 
 It’s ice cream that is heavy on the milk fat, extra icy on the edges, and very good. Pistachios and a dash of cardamom were sprinkled on top.
 
-Mint serves up quality Indian food, but I’m not quite sure it matches up with the upscale ambience and pricing they reach for. It was a nice meal, but most the dishes were close to what I could get at a more casual location for half the price. If I want an inventive, top-notch, Indian meal out, I will stick with [Saffron](http://www.thegourmez.com/2009/02/saffron-morrisville-nc/ "Saffron review").
+Mint serves up quality Indian food, but I’m not quite sure it matches up with the upscale ambience and pricing they reach for. It was a nice meal, but most the dishes were close to what I could get at a more casual location for half the price. If I want an inventive, top-notch, Indian meal out, I will stick with [Saffron](https://thegourmez.com/blog/2009-02-19-saffron-morrisville-nc/).
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 

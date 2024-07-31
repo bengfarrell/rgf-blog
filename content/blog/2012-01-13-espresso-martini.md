@@ -21,7 +21,7 @@ tags:
 ---
 
 **Watts Grocery**\
-[Review](http://www.thegourmez.com/2009/03/watts-grocery-and-listen-to-your-elders-reviews/)\
+[Review](https://thegourmez.com/blog/2009-03-15-watts-grocery-and-listen-to-your-elders-reviews/\
 [Website](http://www.wattsgrocery.com/)\
 Watts Hillandale, Durham, NC\
 $7

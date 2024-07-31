@@ -18,7 +18,7 @@ tags:
   - "writing"
 ---
 
-A few weeks back, I did some cocktail experimentation for [the LoMo Market](http://www.thegourmez.com/2012/06/the-lomo-market/), and I didn’t have the chance until now to link you all to [the post on it.](http://lomomarket.com/2012/11/this-and-that-jam-cocktail-syrup/) It was a lot of fun, and I love when I get the chance to prove I’ve learned something from this little food and drink blog of mine.
+A few weeks back, I did some cocktail experimentation for [the LoMo Market](https://thegourmez.com/blog/2012-06-01-the-lomo-market/), and I didn’t have the chance until now to link you all to [the post on it.](http://lomomarket.com/2012/11/this-and-that-jam-cocktail-syrup/) It was a lot of fun, and I love when I get the chance to prove I’ve learned something from this little food and drink blog of mine.
 
 The mission was to craft some cocktails that featured [This and That Jam](http://lomomarket.com/producers/this-that-jam/)’s Muscadine grape and ginger cocktail syrup, and I came up with two combinations that I’m pretty proud of. Here’s your teaser:
 

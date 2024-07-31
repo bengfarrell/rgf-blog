@@ -82,7 +82,7 @@ My meal ended with one last drink — the Age of Exploration with Broadbent made
 
 [![Jaspers_09](http://s3.amazonaws.com/thegourmez-wpmedia/2013/11/Jaspers_09.jpg)](http://www.thegourmez.com/2013/11/jaspers-corner-tap-and-kitchen/jaspers_09/)
 
-The spices of the cardamaro were mellowed by both its cardoon flavor and the madeira's smoothness, creating a drink a tad livelier than mulled wine. It tickled my tongue and made me long for the perfection of the cardamom-infused [2 Gingers Whiskey at the Local](http://www.thegourmez.com/2011/06/minneapolis-evening-1-and-dayevening-2-photo-blog/) in Minneapolis. Anything that reminds me of that spirit is a good, good thing.
+The spices of the cardamaro were mellowed by both its cardoon flavor and the madeira's smoothness, creating a drink a tad livelier than mulled wine. It tickled my tongue and made me long for the perfection of the cardamom-infused [2 Gingers Whiskey at the Local](https://thegourmez.com/blog/2011-06-01-minneapolis-evening-1-and-dayevening-2-photo-blog/) in Minneapolis. Anything that reminds me of that spirit is a good, good thing.
 
 In case you can't tell, I will definitely visit Jasper's again. I recommend bypassing the fry menu to save every ounce of appetite you can for the rest of the options. Want comfort food? They've got it. Want high-brow deviled eggs? They've got it. Want a full meal of coffee-brined pork with veggie ragout on one plate? They've got that too. I look forward to trying more from all their menus.
 

@@ -29,7 +29,7 @@ tags:
 
 <div class="caption">
 
-[![Chuck's in Raleigh, NC](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/chucks05.jpg)](http://www.thegourmez.com/2012/01/chucks/chucks05/) Chuck's in Raleigh, NC</div>
+[![Chuck's in Raleigh, NC](http://s3.amazonaws.com/thegourmez-wpmedia/2011/12/chucks05.jpg)] Chuck's in Raleigh, NC</div>
 
 
 Driving through the streets of Hayward, many small burger joints entice me with their siren’s call. You know the one: “Try me! I’ll deliver all the drippy, cheesy, beefy goodness you remember from that shack down the block growing up.” For me, these tempters recall the Charlie’s King Falafel in Old Orcutt, just outside Santa Maria, CA. Barely big enough for one person to order at the register at a time, young Becca always had the queen size and it always satisfied. I have no idea if their falafel was any good. I had no idea what falafel was until well after I moved away to college.

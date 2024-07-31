@@ -28,7 +28,7 @@ Castro Valley, CA\
 [Website](http://www.cheesesteakshop.com/index.htm)\
 $4.20–$11.00
 
-The Cheese Steak Shop is a Bay Area chain that’s been in operation since the early 1980s. They’ve done so well, they even have a couple franchises in the Philippines! I love a good Philly cheese steak, to the point that it was probably more than half the reason [I visited Philly](http://www.thegourmez.com/2012/01/philadelphia-food-and-drink-day-2-cheesesteaks-indian-and-pretzels/) a few years back. The Cheese Steak Shop makes their sandwiches in that classic style, going so far as to ship in their ingredients from Philly-based vendors. I think that commitment has paid off.
+The Cheese Steak Shop is a Bay Area chain that’s been in operation since the early 1980s. They’ve done so well, they even have a couple franchises in the Philippines! I love a good Philly cheese steak, to the point that it was probably more than half the reason [I visited Philly](https://thegourmez.com/blog/2012-01-02-philadelphia-food-and-drink-day-2-cheesesteaks-indian-and-pretzels/) a few years back. The Cheese Steak Shop makes their sandwiches in that classic style, going so far as to ship in their ingredients from Philly-based vendors. I think that commitment has paid off.
 
 At the Castro Valley store, chopped sirloin beef or chicken are the meat options. White American cheese comes with the standard sandwich, which you can get in 7-, 10-, or 15-inch sizes. They have plenty of variations, however, including provolone, meat tossed in barbecue sauce, mushrooms, and spinach. I’m partial to the green chiles and provolone cheese sandwich myself.
 

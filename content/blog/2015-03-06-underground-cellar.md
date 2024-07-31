@@ -15,13 +15,13 @@ tags:
   - "wineries"
 ---
 
-As you already know, I'm an affiliate with [NakedWines.Com](http://us.nakedwines.com/), and I'll have more reviews of their wines up on the site soon, along with a six-month review of [my experience being an Angel user](http://www.thegourmez.com/2014/09/naked-wines-advertising/) with the company. But today, I want to introduce you to another online wine merchant that's offering great values for wines you won't find in the supermarket aisle: [Underground Cellar.](https://www.undergroundcellar.com/w/365343)
+As you already know, I'm an affiliate with [NakedWines.Com](http://us.nakedwines.com/), and I'll have more reviews of their wines up on the site soon, along with a six-month review of [my experience being an Angel user](https://thegourmez.com/blog/2014-09-18-naked-wines-advertising/) with the company. But today, I want to introduce you to another online wine merchant that's offering great values for wines you won't find in the supermarket aisle: [Underground Cellar.](https://www.undergroundcellar.com/w/365343)
 
 ![UGCellar Logo 2](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/UGCellar-Logo-2.jpg)
 
 ![UGCellar Logo](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/UGCellar-Logo-500x135.jpg)
 
-I first learned about Underground Cellar while attending last year's [Wine Bloggers Conference in Buellton.](http://www.thegourmez.com/2014/07/wbc14-thoughts-wine-bloggers-conference/) While there, I had the chance to meet Brandan Zaucha, one of the company's three co-founders. For an extensive history of Underground Cellars and how the company operates, check out _TechCrunch's_ [article on them here](http://techcrunch.com/2015/01/15/underground-cellar-is-a-wine-buying-site-that-rewards-you-with-better-bottles-for-free/).
+I first learned about Underground Cellar while attending last year's [Wine Bloggers Conference in Buellton.](https://thegourmez.com/blog/2014-07-22-wbc14-thoughts-wine-bloggers-conference/) While there, I had the chance to meet Brandan Zaucha, one of the company's three co-founders. For an extensive history of Underground Cellars and how the company operates, check out _TechCrunch's_ [article on them here](http://techcrunch.com/2015/01/15/underground-cellar-is-a-wine-buying-site-that-rewards-you-with-better-bottles-for-free/).
 
 But I'll give you the quick rundown.
 

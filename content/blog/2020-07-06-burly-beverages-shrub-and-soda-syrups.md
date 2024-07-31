@@ -94,7 +94,7 @@ I’m not going to give you a recipe for this creation – this isn’t a recipe
 
 Do I recommend Burly Beverages for your culinary adventuring and soda-making needs? Absolutely. Sure, some of the soda flavors were milder than I prefer, but that problem can always be solved by just plopping more syrup in. I wouldn’t mind more vinegar tang in the shrubs, either, but that could mask some of the delicate flavors in play. I especially like that none of the syrups are too sweet, so you can add a little more without feeling those calories of regret later.
 
-Will I be purchasing Burly Beverages myself? Yes. Especially now, as [my favorite shrub maker](https://thegourmez.com/2018/09/05/the-shrubbery-shrub-drinking-vinegar/), the Shrubbery out of Seattle, is no longer producing. Besides, have you looked at [the list of flavors](https://www.burlybeverages.com/retailshop) Burly Beverages makes?! Nine flavors in their standard rotation and an extra twenty or so offered seasonally. I just love adventurous flavor combinations!
+Will I be purchasing Burly Beverages myself? Yes. Especially now, as [my favorite shrub maker](https://thegourmez.com/blog/2018-09-05-the-shrubbery-shrub-drinking-vinegar/), the Shrubbery out of Seattle, is no longer producing. Besides, have you looked at [the list of flavors](https://www.burlybeverages.com/retailshop) Burly Beverages makes?! Nine flavors in their standard rotation and an extra twenty or so offered seasonally. I just love adventurous flavor combinations!
 
 Cranberry juniper, I’m coming for you...
 

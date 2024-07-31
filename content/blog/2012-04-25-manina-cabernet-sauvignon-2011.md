@@ -21,7 +21,7 @@ The Maniña Cabernet Sauvignon 2011 tastes prominently of cigarettes. Leather an
 
 The wine mellows some with airing, transforming the smokiness into more of a grassy or floral quality. It’s too big of a wine for me, honestly. But I’m drinking it anyway.
 
-[![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
+[![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)]
 
 **Other Bloggers’ Thoughts**
 

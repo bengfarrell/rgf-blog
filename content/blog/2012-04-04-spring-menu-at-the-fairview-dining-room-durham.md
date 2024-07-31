@@ -54,7 +54,7 @@ Last Thursday, I was invited with a bunch of other Durham food bloggers and love
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview04blog.jpg "fairview04blog")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/fairview04blog.jpg) Quite the lineup of food bloggers and Washington Duke Inn staff.</div>
 
 
-I’ve dined at the Fairview Dining Room once before [and I loved it](http://www.thegourmez.com/2010/12/fairview-dining-room/), but I hadn’t been outside. The grounds are incredible, especially on a warm spring day like this one was. And the food lived up to the setting in every way. Plus, they made my life easy and gave us printed menus.
+I’ve dined at the Fairview Dining Room once before [and I loved it](https://thegourmez.com/blog/2010-12-02-fairview-dining-room/), but I hadn’t been outside. The grounds are incredible, especially on a warm spring day like this one was. And the food lived up to the setting in every way. Plus, they made my life easy and gave us printed menus.
 
 
 
