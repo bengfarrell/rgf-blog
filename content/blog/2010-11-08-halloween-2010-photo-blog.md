@@ -24,7 +24,7 @@ tags:
   - "zombie"
 ---
 
-Last weekend, as you all know (unless you’re my reader from Uganda, then maybe you don’t) was Halloween. Since it was on a Sunday, I had two days’ worth of fun. Halloween is my favorite holiday, so the more merrymaking the better! I had my costume planned out since buying a hat at [Disneyworld](https://thegourmez.com/blog/2010/02/23/disneyworld-2510-2810-travelogue-and-new-photo-website/) last February, that of the Alien Plush Toy.
+Last weekend, as you all know (unless you’re my reader from Uganda, then maybe you don’t) was Halloween. Since it was on a Sunday, I had two days’ worth of fun. Halloween is my favorite holiday, so the more merrymaking the better! I had my costume planned out since buying a hat at [Disneyworld](https://thegourmez.com/blog/2010-02-23-disneyworld-2510-2810-travelogue-and-new-photo-website/) last February, that of the Alien Plush Toy.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010021.jpg "halloween201002")](http://s3.amazonaws.com/thegourmez-wpmedia/2010/11/halloween2010021.jpg)
 

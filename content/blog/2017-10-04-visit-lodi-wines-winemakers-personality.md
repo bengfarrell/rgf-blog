@@ -124,7 +124,7 @@ She regaled us throughout the multi-course meal with stories of former business 
 
 [![viaggio, sip of heaven, dessert wine, chocolate wine, lodi wine](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-162-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-162.jpg)
 
-I already talked about this delicious dessert wine in [my first post](https://thegourmez.com/blog/2017/07/16/visit-lodi-food/) on this Lodi press trip, but as it achieved my highest marks, it deserved to be featured again. It’s the rare chocolate wine that is absolutely worth the purchase. A nose of chocolate orange carries through into the glass with lots of stewed juice, cardamom, and rich, milk chocolate syrup. Notes of raspberry waft about like essence mixed into a chocolate bar. Pairs great with dessert or a sunset swing on Viaggio’s grounds.
+I already talked about this delicious dessert wine in [my first post](https://thegourmez.com/blog/2017-07-16-visit-lodi-food/) on this Lodi press trip, but as it achieved my highest marks, it deserved to be featured again. It’s the rare chocolate wine that is absolutely worth the purchase. A nose of chocolate orange carries through into the glass with lots of stewed juice, cardamom, and rich, milk chocolate syrup. Notes of raspberry waft about like essence mixed into a chocolate bar. Pairs great with dessert or a sunset swing on Viaggio’s grounds.
 
 [![viaggio, swing from bnhind, swingset, old fashioned swing, golden hour, sunset, viaggio estate, viaggio winery](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-171-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/10/Visit-Lodi-171.jpg)
 

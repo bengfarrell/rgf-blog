@@ -34,7 +34,7 @@ This visit was my first time at any of the Slanted Door restaurants. In addition
 
 ![slanted door daikon](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/slanted-door-6.jpg)
 
-The texture was impressive: somewhat creamy, somewhat spongy, with the light pepperiness of the daikon radish. 
+The texture was impressive: somewhat creamy, somewhat spongy, with the light pepperiness of the daikon radish.
 
 Another favorite for me was the wood-roasted, dry-aged duck.
 
@@ -44,7 +44,7 @@ The duck was cooked to perfection, offering a bit of crunch with each bite of sk
 
 ![slanted door shaking](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/slanted-door-9.jpg)
 
-Shaking beef has been a favorite of mine since I first tried it at [Golden Garlic](https://thegourmez.com/blog/2016/07/26/golden-garlic-review/) on the Peninsula years ago. I love how a good crust can seal in great prime rib flavor with every bite, and the Slanted Door’s was no exception.
+Shaking beef has been a favorite of mine since I first tried it at [Golden Garlic](https://thegourmez.com/blog/2016-07-26-golden-garlic-review/) on the Peninsula years ago. I love how a good crust can seal in great prime rib flavor with every bite, and the Slanted Door’s was no exception.
 
 We also shared the stir-fried bok choy, cellophane noodles with gulf shrimp and Dungeness crab, and the shrimp and pork imperial rolls. Those were all good, but not as notable as the dishes I started out describing.
 

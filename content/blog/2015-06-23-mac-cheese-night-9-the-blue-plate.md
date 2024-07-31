@@ -1,9 +1,9 @@
 ---
 title: "Mac & Cheese Night #9: The Blue Plate"
 date: "2015-06-23"
-categories: 
+categories:
   - "restaurants"
-tags: 
+tags:
   - "bernal-heights"
   - "comfort-food"
   - "corn-soup"
@@ -28,7 +28,7 @@ tags:
 
 [![IMG_4745](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/IMG_4745-500x359.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/IMG_4745.jpg)
 
-I began my mission to conquer [7x7’s list](http://www.7x7.com/eat-drink/10-best-mac-n-cheeses-bay-area) of the best Bay Area macaroni and cheeses just over a year ago [at Mission Cheese.](https://thegourmez.com/blog/2014/06/03/mac-cheese-night-at-mission-cheese/) This, right here, is my final review in this series, and I will soon crown my winner. Happily, our last mac & cheese night did not disappoint—[the Blue Plate’s](http://www.blueplatesf.com/) (3218 Mission Street, San Francisco) drunken Spanish goat cheese version is a true contender.
+I began my mission to conquer [7x7’s list](http://www.7x7.com/eat-drink/10-best-mac-n-cheeses-bay-area) of the best Bay Area macaroni and cheeses just over a year ago [at Mission Cheese.](https://thegourmez.com/blog/2014-06-03-mac-cheese-night-at-mission-cheese/) This, right here, is my final review in this series, and I will soon crown my winner. Happily, our last mac & cheese night did not disappoint—[the Blue Plate’s](http://www.blueplatesf.com/) (3218 Mission Street, San Francisco) drunken Spanish goat cheese version is a true contender.
 
 [![IMG_4734](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/IMG_4734-500x385.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/IMG_4734.jpg)
 

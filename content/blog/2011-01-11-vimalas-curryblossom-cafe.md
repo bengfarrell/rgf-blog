@@ -35,7 +35,7 @@ $7–$17
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/vimala11.jpg "vimala11")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/01/vimala11.jpg)</div>
 
 
-Vimala’s Curryblossom Cafe has been in [Sandwhich’s](https://thegourmez.com/blog/2010/03/29/sandwhich-downtown-chapel-hill-restaurant-review/) old space in the Chapel Hill Courtyard plaza since July. It is an Indian, order-at-the-counter restaurant, and we were excited to find a sitar player providing music on the evening we went. This is a very small space, so don’t be surprised if you don’t find a seat right away---that will be better once the weather warms up and the larger patio area can be used more comfortably.
+Vimala’s Curryblossom Cafe has been in [Sandwhich’s](https://thegourmez.com/blog/2010-03-29-sandwhich-downtown-chapel-hill-restaurant-review/) old space in the Chapel Hill Courtyard plaza since July. It is an Indian, order-at-the-counter restaurant, and we were excited to find a sitar player providing music on the evening we went. This is a very small space, so don’t be surprised if you don’t find a seat right away---that will be better once the weather warms up and the larger patio area can be used more comfortably.
 
 Vimala Rajendran, the owner and chef, is well-loved in Chapel Hill and Carrboro for her cooking that first took off in the form of catering for friends and large dinner parties. The restaurant was opened with the donations of many fans and friends in the area. She updated the Sandwhich decor with brighter colors, a rug on the wall, lime green curtains in the back, and a row of pretty flower lamps over the register.
 

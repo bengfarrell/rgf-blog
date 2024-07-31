@@ -17,7 +17,7 @@ tags:
 
 **Blu Seafood and Bar**\
 [Website](http://bluseafoodandbar.com/)\
-[My restaurant review](https://thegourmez.com/blog/2010/06/14/blu-seafood-and-bar-durham/)
+[My restaurant review](https://thegourmez.com/blog/2010-06-14-blu-seafood-and-bar-durham/)
 
 ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/blu07.jpg)
 

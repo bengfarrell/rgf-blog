@@ -32,7 +32,7 @@ _Obligatory disclaimer: My Urban Tavern meal, reviewed in this post, was entirel
 [![Urban Tavern horse Union Square Hilton](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_15-500x356.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_15.jpg) The restaurant’s central showpiece at Christmastime: a colorful, metallic horse.</div>
 
 
-When I visited [the Cityscape Lounge](https://thegourmez.com/blog/2016/11/15/cityscape-san-francisco/) last fall, high up on the 46th floor of the Union Square Hilton, Executive Chef Michael Vaughn was still working on the vision for remodeling the hotel’s ground floor restaurant, [Urban Tavern](http://www.urbantavernsf.com/). But he was full of excitement for the project, describing it as the next stage in the evolution of the gastro pub. As of December, and with Chef Michael Raub heading up this branch of the Hilton’s culinary program, that vision has been realized.
+When I visited [the Cityscape Lounge](https://thegourmez.com/blog/2016-11-15-cityscape-san-francisco/) last fall, high up on the 46th floor of the Union Square Hilton, Executive Chef Michael Vaughn was still working on the vision for remodeling the hotel’s ground floor restaurant, [Urban Tavern](http://www.urbantavernsf.com/). But he was full of excitement for the project, describing it as the next stage in the evolution of the gastro pub. As of December, and with Chef Michael Raub heading up this branch of the Hilton’s culinary program, that vision has been realized.
 
 [![Urban Tavern bar San Francisco](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_16-500x326.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/02/Urban_Tavern_16.jpg)
 

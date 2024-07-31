@@ -78,7 +78,7 @@ I wasn't as impressed with the chocolate and caramel crunch cake.
 
 I found the frosting too dry-it's a thick buttercream, I think-though the crunchy toffee bits were nice. I've also had a slice of lemon ginger cheesecake, which isn't a normal offering. The portion size was very small compared to the other desserts, but it was really good.
 
-Having lunch at [Toast](https://thegourmez.com/blog/2007/04/26/toast-five-points-durham/) and then strolling down the street to Beyu Caffé for coffee and dessert seems like a popular thing to do in downtown Durham. I can definitely recommend it for that, but I must say, I think I found the cocktails the most impressive of all Beyu's offerings. Whatever you're in the mood for, though, the relaxed, but modern atmosphere is inviting, as is the free wireless.
+Having lunch at [Toast](https://thegourmez.com/blog/2007-04-26-toast-five-points-durham/) and then strolling down the street to Beyu Caffé for coffee and dessert seems like a popular thing to do in downtown Durham. I can definitely recommend it for that, but I must say, I think I found the cocktails the most impressive of all Beyu's offerings. Whatever you're in the mood for, though, the relaxed, but modern atmosphere is inviting, as is the free wireless.
 
 
 

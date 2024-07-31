@@ -27,7 +27,7 @@ tags:
 Albany, CA\
 [Website](http://ivyroom.com/)
 
-Back in March, I visited the Ivy Room soon after its [redesign and re-opening](https://thegourmez.com/blog/2016/03/29/ivy-room-albany-review/). Since then, they have added specialty cocktails to their full bar, and whichever bartender has developed them deserves a raise!
+Back in March, I visited the Ivy Room soon after its [redesign and re-opening](https://thegourmez.com/blog/2016-03-29-ivy-room-albany-review/). Since then, they have added specialty cocktails to their full bar, and whichever bartender has developed them deserves a raise!
 
 [![Ivy Room Cocktails](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Ivy-Room-Drinks-01-333x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/10/Ivy-Room-Drinks-01.jpg)
 

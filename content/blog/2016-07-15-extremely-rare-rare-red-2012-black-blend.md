@@ -1,12 +1,12 @@
 ---
 title: "Extremely Rare Rare Red 2012 Black Blend"
 date: "2016-07-15"
-categories: 
+categories:
   - "other-red-blends"
   - "zinfandel"
   - "red-wine-review"
   - "wine"
-tags: 
+tags:
   - "2012"
   - "black-blend"
   - "extremely-rare-rare-red"
@@ -22,13 +22,13 @@ tags:
 
 [![extremely rare rare red 2012 black blend wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Scotto-Black-01-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Scotto-Black-01.jpg)
 
-I can't lie, I think the name of this wine is hilariously death metal. Throw a few more adjectives in there, and it'd also be its own thesaurus. Although [I've reviewed wines](https://thegourmez.com/blog/2016/02/29/scotto-cellars-heavyweight-wine/) from the Scotto Cellars portfolio before, I have to admit to apprehension at that word-soup marketing.
+I can't lie, I think the name of this wine is hilariously death metal. Throw a few more adjectives in there, and it'd also be its own thesaurus. Although [I've reviewed wines](https://thegourmez.com/blog/2016-02-29-scotto-cellars-heavyweight-wine/) from the Scotto Cellars portfolio before, I have to admit to apprehension at that word-soup marketing.
 
 However, it certainly lives up to its claims.
 
 [![extremely rare rare red 2012 black blend wine](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Scotto-Black-02-462x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/07/Scotto-Black-02.jpg)
 
-I honestly can't believe how deeply dark this wine is. Octopus ink is the only thing that comes to mind, and I wonder if I've been slipped [Kraken rum](https://thegourmez.com/blog/2010/11/15/the-kraken-black-spiced-rum/) instead somehow. The Black Blend is an extension of Scotto's [RARE label,](http://scottocellars.com/focus-wine/rare-red/winemaking/) and this one is a blend of old vine zinfandel, petite sirah, and syrah from Lodi, Lake County, and Amador County--a true blend of Central Californian varietals and regions! After separate aging in steel oak barrels, the blend's grapes spent close to a year together in French oak.
+I honestly can't believe how deeply dark this wine is. Octopus ink is the only thing that comes to mind, and I wonder if I've been slipped [Kraken rum](https://thegourmez.com/blog/2010-11-15-the-kraken-black-spiced-rum/) instead somehow. The Black Blend is an extension of Scotto's [RARE label,](http://scottocellars.com/focus-wine/rare-red/winemaking/) and this one is a blend of old vine zinfandel, petite sirah, and syrah from Lodi, Lake County, and Amador County--a true blend of Central Californian varietals and regions! After separate aging in steel oak barrels, the blend's grapes spent close to a year together in French oak.
 
 So how does this headbanger fare? It has a restrained nose that's well-layered if pondered. I recommend plunging in head first instead. This swimming hole's murky depths instill just enough fear to bring maximum fun. Float in an inner tube of overripe cherries and plums. Splash your feet at friends and floating logs...just to make sure that's all they really are.
 

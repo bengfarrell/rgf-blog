@@ -25,7 +25,7 @@ I don’t review the same thing often, but when [Raw Spice Bar](https://rawspice
 
  
 
-For those of you who didn’t read [my review last year](https://thegourmez.com/blog/2015/12/18/foodie-gift-idea-raw-spice-bar-subscription/), Raw Spice Bar is a monthly spice delivery service. Odd concept? Not at all with how many people now have meal kits delivered on the regular at $8 or more per entrée. Raw Spice Bar costs the same amount for a monthly package of freshly roasted, toasted, and/or ground spices — three spice blends suitable for one or more meals, dependable on how large your family is. This spice delivery is for the chef who wants a little inspiration to get their creativity flowing, the one who enjoys the mystery of not knowing what the next shipment will bring, the one who smiles when opening the seal on a packet of fragrant spices that beat anything in a bottle or tin sold at the grocery store.
+For those of you who didn’t read [my review last year](https://thegourmez.com/blog/2015-12-18-foodie-gift-idea-raw-spice-bar-subscription/), Raw Spice Bar is a monthly spice delivery service. Odd concept? Not at all with how many people now have meal kits delivered on the regular at $8 or more per entrée. Raw Spice Bar costs the same amount for a monthly package of freshly roasted, toasted, and/or ground spices — three spice blends suitable for one or more meals, dependable on how large your family is. This spice delivery is for the chef who wants a little inspiration to get their creativity flowing, the one who enjoys the mystery of not knowing what the next shipment will bring, the one who smiles when opening the seal on a packet of fragrant spices that beat anything in a bottle or tin sold at the grocery store.
 
 [![Raw Spice Bar Spice Delivery Oktoberfest](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/RSB-Oktoberfest-04-500x380.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/RSB-Oktoberfest-04.jpg)
 
@@ -49,7 +49,7 @@ So, don’t tell Raw Spice Bar, but I don’t like mustard _or_ horseradish, and
 
 I considered skipping the cabbage dish entirely, but I decided to be brave and dip a fingertip in the beautiful mix— [![Raw Spice Bar Spice Delivery Oktoberfest Mustard Blend](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/RSB-Oktoberfest-07-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/RSB-Oktoberfest-07.jpg)
 
-— and discovered it was potentially mild enough for me to try out. Yet rather than make the included recipe for mustard cabbage, I opted for a creamed brussels sprouts dish instead from _[the Quick Six Cookbook](https://thegourmez.com/blog/2016/06/09/the-quick-six-fix-cookbook-review/),_ thinking the cream would further dilute ingredients that I often find overpowering_._ And it worked!
+— and discovered it was potentially mild enough for me to try out. Yet rather than make the included recipe for mustard cabbage, I opted for a creamed brussels sprouts dish instead from _[the Quick Six Cookbook](https://thegourmez.com/blog/2016-06-09-the-quick-six-fix-cookbook-review/),_ thinking the cream would further dilute ingredients that I often find overpowering_._ And it worked!
 
 [![Raw Spice Bar Spice Delivery Oktoberfest Creamed Brussel Sprout Quick Six Fix](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/RSB-Oktoberfest-09-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/RSB-Oktoberfest-09.jpg)
 

@@ -1,10 +1,10 @@
 ---
 title: "The R & R Coffee Cocktail at Neighborhood"
 date: "2016-03-18"
-categories: 
+categories:
   - "bars"
   - "cocktails"
-tags: 
+tags:
   - "ballz-deep"
   - "beer-cocktail"
   - "cocktail"
@@ -23,7 +23,7 @@ It can be difficult to create a new—and successful—coffee cocktail. Recently
 
 The challenge in making coffee cocktails is twofold. By far, the hardest part is balancing the acidity of the coffee against the heat of the alcohol. Secondly, attempts to move beyond dessert cocktails, by which I mean relying on sweetness and cream, are rare. Of course, I love dessert cocktails, but for coffee drinks, it’s a box they are so often pushed into even when alcohol is not involved. C’mon folks, you _know_ 90% of the drinks offered at any coffee shop are full of more sugar and fat than a morning danish.  And danishes have a LOT.
 
-Thus, I applaud any bar that ventures beyond the white russian and the espresso martini in their coffee cocktail experimentation. Neighborhood’s R & R Coffee Cocktail is one such example, and as I saw it on the menu while in need of caffeine…but also on vacation, so alcohol was on the agenda. The drink’s made with cold brew coffee, stout beer, a little cream, and a splash of Ballz Deep, a charmingly named cocktail on tap at the restaurant. I’m not yet sold on the benefits of tap cocktails, [having enjoyed one and loathed another](https://thegourmez.com/blog/2015/10/05/mason-bar/) at Mason Bar in Arroyo Grande, but Neighorhood’s draft wine on tap, the Hahn GSM, was pretty great.
+Thus, I applaud any bar that ventures beyond the white russian and the espresso martini in their coffee cocktail experimentation. Neighborhood’s R & R Coffee Cocktail is one such example, and as I saw it on the menu while in need of caffeine…but also on vacation, so alcohol was on the agenda. The drink’s made with cold brew coffee, stout beer, a little cream, and a splash of Ballz Deep, a charmingly named cocktail on tap at the restaurant. I’m not yet sold on the benefits of tap cocktails, [having enjoyed one and loathed another](https://thegourmez.com/blog/2015-10-05-mason-bar/) at Mason Bar in Arroyo Grande, but Neighorhood’s draft wine on tap, the Hahn GSM, was pretty great.
 
  
 

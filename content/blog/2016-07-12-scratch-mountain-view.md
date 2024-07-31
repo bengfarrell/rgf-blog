@@ -1,9 +1,9 @@
 ---
 title: "Scratch"
 date: "2016-07-12"
-categories: 
+categories:
   - "restaurants"
-tags: 
+tags:
   - "bay-area"
   - "comfort-food"
   - "dinner"
@@ -26,7 +26,7 @@ tags:
 [Website](http://www.scratchmtnview.com/#about)\
 Lunch: $15–$30
 
-Scratch, not to be confused with [the Scratch I reviewed in Durham](https://thegourmez.com/blog/2012/02/27/scratch/) a few years back, bills itself as a purveyor of American comfort food in an elegant style, a common trend among restaurants these days--_upscale comfort food_ is the new _American bistro_. And who can blame them, as restaurants dare much if they don't have a version of mac and cheese, fried chicken, or flatbreads on the menu. We do always need to please our less adventurous friends! And who am I to talk when I did a whole series on [mac and cheese in the Bay Area](https://thegourmez.com/blog/?s=mac+and+cheese)?
+Scratch, not to be confused with [the Scratch I reviewed in Durham](https://thegourmez.com/blog/2012-02-27-scratch/) a few years back, bills itself as a purveyor of American comfort food in an elegant style, a common trend among restaurants these days--_upscale comfort food_ is the new _American bistro_. And who can blame them, as restaurants dare much if they don't have a version of mac and cheese, fried chicken, or flatbreads on the menu. We do always need to please our less adventurous friends! And who am I to talk when I did a whole series on [mac and cheese in the Bay Area](https://thegourmez.com/blog/?s=mac+and+cheese)?
 
 What I find interesting, though, is that their description fails to highlight Scratch's extensive seafood focus as seafood and American comfort food don't always go hand in hand. Scratch has an impressive raw bar menu and a preference for seafood reflected in their appetizers, salads, and entrees. Indeed, both my friend and I opted for menu items that included it.
 

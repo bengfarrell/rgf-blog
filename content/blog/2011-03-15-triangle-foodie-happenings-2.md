@@ -1,10 +1,10 @@
 ---
 title: "Triangle Foodie Happenings"
 date: "2011-03-15"
-categories: 
+categories:
   - "events"
   - "announcements"
-tags: 
+tags:
   - "andrea-lekberg"
   - "artist-baker"
   - "cookbook"
@@ -23,12 +23,12 @@ tags:
   - "wine-authorities"
 ---
 
-I've got another update on Triangle-area foodie happenings for you! First, the lovely Morgan Siem, whom I first met at last month's [Social Media Supper Club](http://www.thegourmez.com/?p=2299), is putting on a fundraising dinner at [Vespa Ristorante](https://thegourmez.com/blog/2007/04/26/vespa-ristorante-downtown-chapel-hill/) in Chapel Hill on Wednesday, 3/30, at 7 pm.  $15 from the $44 meal will go directly to St. Baldrick's Hospital to promote research on children's cancers. Here's the menu:
+I've got another update on Triangle-area foodie happenings for you! First, the lovely Morgan Siem, whom I first met at last month's [Social Media Supper Club](http://www.thegourmez.com/?p=2299), is putting on a fundraising dinner at [Vespa Ristorante](https://thegourmez.com/blog/2007-04-26-vespa-ristorante-downtown-chapel-hill/) in Chapel Hill on Wednesday, 3/30, at 7 pm.  $15 from the $44 meal will go directly to St. Baldrick's Hospital to promote research on children's cancers. Here's the menu:
 
 > First Course,  Family Style: Calamari Fritti, Fried Calamari served with Marinara and Fried Zucchini, and  Mediterranean Mezze Platter, a Mediterranean sampling of Hummus, Olive Tapenade, Acili Ezme, and Eggplant Caviar.
-> 
+>
 > Second Course, choice of  Fettuccini Primavera, homemade fettuccini served with seasonal vegetables in a light tomato sauce;  Agnello, lamb shank stewed in a red wine sauce and served over turmeric risotto; or Salmon en Crosta, salmon baked in a philo dough shell stuffed with feta and caramelized onions and served on a bed of wilted spinach in a light tomato broth and topped with carp roe aioli.
-> 
+>
 > Dolce, a family style dolce platter.
 
 Various prizes will also be raffled off. Reserve your tickets through Eventbrite [here](http://vespa-st-baldricks-zvents.eventbrite.com/).
@@ -36,11 +36,11 @@ Various prizes will also be raffled off. Reserve your tickets through Eventbrite
 [West 94th Street Pub](http://www.west94stpub.com/) is also doing a week's worth of events to raise funds for St. Baldrick's. Here's their line-up for next week:
 
 > WEDNESDAY, MARCH 23, 7:30pm-8:30pm GUEST BARTENDER: STUDIO K HAIR SALON
-> 
+>
 > THURSDAY, MARCH 24, 2011, 7:30pm-8:30pm GUEST BARTENDER: BELLA TRIO SALON
-> 
+>
 > FRIDAY, MARCH 25, 2011, 9:00pm-12:00am KARAOKE TO KICK KIDS’ CANCER, HOSTED BY: ARIES ENTERTAINMENT
-> 
+>
 > SATURDAY, MARCH 26, 2011, 12:00pm-6:00pm ST BALDRICK’S HEAD SHAVING EVENT to honor Caroline Daniels, Graham Henry, and the memory of Macie Ann McCloud. Festivities include OPENING CEREMONIES, 12:10pm HEAD SHAVING, 12:45pm by Bella Trio and Studio K Salons KIDS ACTIVITIES: Karaoke, Face Painting, Basketball Shootout, Corn Hole, Durham Fire Department on site. ST. BALDRICK’S AFTER PARTY, 8:00pm-11:00pm, featuring live music by the 751 BAND
 
 Guests for West 94ths' Saturday events will also include Mike Wheelis of 94.7 FM, Ken Nichols, and Wool-E Bull.

@@ -40,10 +40,10 @@ And what's better? Those coffeehouses are easily accessible. As Marc wrote, "The
 
 <div class="caption">
 
-![A pourover from Eko in Hayward, which I reviewed last year and is participating in the Passport.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/02/eko_03-402x500.jpg) A pourover from Eko in Hayward, [which I reviewed last year](https://www.thegourmez.com/blog/2014/02/eko-coffee-bar-and-tea-house/) and is participating in the Passport.</div>
+![A pourover from Eko in Hayward, which I reviewed last year and is participating in the Passport.](http://s3.amazonaws.com/thegourmez-wpmedia/2014/02/eko_03-402x500.jpg) A pourover from Eko in Hayward, [which I reviewed last year](https://www.thegourmez.com/blog/2014-02-eko-coffee-bar-and-tea-house/) and is participating in the Passport.</div>
 
 
-Walking distance from BART?! This promotion couldn't smell better to me if they dipped it in tri-tip seasonings and set it on the grill. As I can attest from using the [Santa Cruz Winegrowers' Association Passport](https://www.thegourmez.com/blog/2014/03/wine-tasting-in-the-santa-cruz-mountains/), simply getting stamps on my passport will keep me entertained. (Yes, it's that easy.)
+Walking distance from BART?! This promotion couldn't smell better to me if they dipped it in tri-tip seasonings and set it on the grill. As I can attest from using the [Santa Cruz Winegrowers' Association Passport](https://www.thegourmez.com/blog/2014-03-wine-tasting-in-the-santa-cruz-mountains/), simply getting stamps on my passport will keep me entertained. (Yes, it's that easy.)
 
 ![Coffee Passport](http://s3.amazonaws.com/thegourmez-wpmedia/2015/03/Coffee-Passport-425x1024.jpg)
 

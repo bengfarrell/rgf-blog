@@ -15,7 +15,7 @@ tags:
 
 **Blu Seafood and Bar**\
 [Website](http://bluseafoodandbar.com/)\
-[My restaurant review](https://thegourmez.com/blog/2010/06/14/blu-seafood-and-bar-durham/)
+[My restaurant review](https://thegourmez.com/blog/2010-06-14-blu-seafood-and-bar-durham/)
 
 Sorry, no pictures of this one. I really need to stop ordering iced tea cocktails as I've yet to be impressed by one, other than ye olde Long Island Iced Tea of course. I'm impressed by Firefly sweet tea vodka, mind you, but it's better as a shot than as part of a cocktail thus far in my experience.
 

@@ -36,7 +36,7 @@ Sun, 10:00 am to 9:00 pm\
 Sandwiches/Appetizers: $8–$13\
 Entrees: $15–$28
 
-For this month’s [Social Media Supper Club](http://www.amiando.com/smsc.html), we settled on Lucky 32 Southern Kitchen, in large part because I’d enjoyed their appetizers at the [Tri Foodie Tweetup](https://thegourmez.com/blog/2010/10/12/tri-foodie-tweetup-at-lucky-32/) last fall and had a hankering to try some more. We were very happy to be joined by first timers Valentina (@ValenGarcia43), Chelsea (@chelsea\_alyssa), and Morgan (@morgansiem) in addition to our stalwart regulars including Rocio (@apiciusapprenti), Brian (@BCwritr), Mandy (@demandycom), and me (@thegourmez).
+For this month’s [Social Media Supper Club](http://www.amiando.com/smsc.html), we settled on Lucky 32 Southern Kitchen, in large part because I’d enjoyed their appetizers at the [Tri Foodie Tweetup](https://thegourmez.com/blog/2010-10-12-tri-foodie-tweetup-at-lucky-32/) last fall and had a hankering to try some more. We were very happy to be joined by first timers Valentina (@ValenGarcia43), Chelsea (@chelsea\_alyssa), and Morgan (@morgansiem) in addition to our stalwart regulars including Rocio (@apiciusapprenti), Brian (@BCwritr), Mandy (@demandycom), and me (@thegourmez).
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/lucky3201.jpg "lucky3201")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/02/lucky3201.jpg)
 

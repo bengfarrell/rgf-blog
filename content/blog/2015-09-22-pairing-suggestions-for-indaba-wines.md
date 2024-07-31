@@ -1,11 +1,11 @@
 ---
 title: "Pairing Suggestions for Indaba Wines"
 date: "2015-09-22"
-categories: 
+categories:
   - "announcements"
   - "product-reviews"
   - "wine"
-tags: 
+tags:
   - "cape-classics"
   - "contest"
   - "indaba"
@@ -17,7 +17,7 @@ tags:
   - "tasting-notes"
 ---
 
-Last week, I posted about [the Cape Classics National Braai Day contest](https://thegourmez.com/blog/2015/09/18/cape-classics-national-braai-day-contest/) running through September 28, 2015. As promised in that post, here are my reviews of two affordable, and food-ready, Indaba Wines to help you on your quests to compose a winning entry, and most importantly, have a tasty, tasty, fire-cooked braai meal. **Obligatory disclaimer**: Both of these wines were provided for free from Cape Classics as part of a media braai kit.
+Last week, I posted about [the Cape Classics National Braai Day contest](https://thegourmez.com/blog/2015-09-18-cape-classics-national-braai-day-contest/) running through September 28, 2015. As promised in that post, here are my reviews of two affordable, and food-ready, Indaba Wines to help you on your quests to compose a winning entry, and most importantly, have a tasty, tasty, fire-cooked braai meal. **Obligatory disclaimer**: Both of these wines were provided for free from Cape Classics as part of a media braai kit.
 
 [![Indaba-001](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Indaba-001-268x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/Indaba-001.jpg)
 

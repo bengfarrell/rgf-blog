@@ -34,7 +34,7 @@ I was first introduced to Harney Lane wines at the [2016 Wine Bloggers Conferenc
 
 ## The Wines:
 
-The past two years since becoming acquainted with Harney Lane, I've tried their unique and earthy [2014 "Lizzy James" Old Vine Zinfandel](https://thegourmez.com/blog/2018/01/04/old-vine-zinfandel-2017-releases-from-lodi-ca/) and their beautifully acidic, seafood-loving [2015 Albariño](https://www.vivino.com/harney-lane-lodi-albarino/w/1651491?year=2015). So I was happy to sample their **2017 Harney Lane Chardonnay,** though chardonnay is generally not my favorite wine grape.
+The past two years since becoming acquainted with Harney Lane, I've tried their unique and earthy [2014 "Lizzy James" Old Vine Zinfandel](https://thegourmez.com/blog/2018-01-04-old-vine-zinfandel-2017-releases-from-lodi-ca/) and their beautifully acidic, seafood-loving [2015 Albariño](https://www.vivino.com/harney-lane-lodi-albarino/w/1651491?year=2015). So I was happy to sample their **2017 Harney Lane Chardonnay,** though chardonnay is generally not my favorite wine grape.
 
 [![harney lane, wines, vineyards, lodi wine, chardonnay, tasting notes, wine reivew, 2017](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_154558-375x500.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/02/IMG_20181214_154558.jpg)
 

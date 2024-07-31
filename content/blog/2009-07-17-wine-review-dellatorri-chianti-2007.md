@@ -16,7 +16,7 @@ I didn't pick up much from the smell of this wine, so if I had to offer somethin
 
 Cherry, lemon seed, and clove.  They don't combine that well but the wine was still drinkable for me.  It may not be for you.
 
-Interesting to note that I found the 2004 vintage to be quite delicious, as you can read in my [review](https://thegourmez.com/blog/2007/04/26/dellatorri-chianti-2004-red-wine/).  Perhaps with a few years of aging, this wine would mature quite well, hopefully dulling the bitterness and deepening the cherry.
+Interesting to note that I found the 2004 vintage to be quite delicious, as you can read in my [review](https://thegourmez.com/blog/2007-04-26-dellatorri-chianti-2004-red-wine/).  Perhaps with a few years of aging, this wine would mature quite well, hopefully dulling the bitterness and deepening the cherry.
 
 
 

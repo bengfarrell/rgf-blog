@@ -24,7 +24,7 @@ _Obligatory disclaimer: These wines from [Bravante Vineyards](http://www.bravant
 
 ## The Winery
 
-[Bravante Vineyards](http://www.bravantevineyards.com/) has been producing wine for nearing twenty years on Howell Mountain, in the eastern Napa Valley. Their small selection of wines is all estate-grown, from either the Stone Ridge or Black Oak vineyards. Duane Dappen, who owns [D-Cubed Cellars](https://thegourmez.com/blog/2018/10/09/d-cubed-cellars-zinfandel/) and has been making wines since his 4-H club days, is their winemaker.
+[Bravante Vineyards](http://www.bravantevineyards.com/) has been producing wine for nearing twenty years on Howell Mountain, in the eastern Napa Valley. Their small selection of wines is all estate-grown, from either the Stone Ridge or Black Oak vineyards. Duane Dappen, who owns [D-Cubed Cellars](https://thegourmez.com/blog/2018-10-09-d-cubed-cellars-zinfandel/) and has been making wines since his 4-H club days, is their winemaker.
 
 Shall we drink?
 

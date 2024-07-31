@@ -1,9 +1,9 @@
 ---
 title: "Jacqueline Bahue Cabernet Franc 2013"
 date: "2015-07-30"
-categories: 
+categories:
   - "wine"
-tags: 
+tags:
   - "2013"
   - "cabernet-franc"
   - "jacqueline-bahue"
@@ -36,7 +36,7 @@ My Rating:
 
 [![rating_truffle1.gif](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/rating_truffle1.gif)
 
-This is a [NakedWines.Com](https://thegourmez.com/blog/2014/09/18/naked-wines-advertising/) wine, and it’s currently in stock after having been out of stock for the last few months! I just added a few bottles to my cart, and you really should too. If you so desire, click on this link, and we’ll both benefit from the referral. $29.99 for the general public, $15.49 for Angels.
+This is a [NakedWines.Com](https://thegourmez.com/blog/2014-09-18-naked-wines-advertising/) wine, and it’s currently in stock after having been out of stock for the last few months! I just added a few bottles to my cart, and you really should too. If you so desire, click on this link, and we’ll both benefit from the referral. $29.99 for the general public, $15.49 for Angels.
 
 [Click me!](http://www.anrdoezrs.net/click-7868009-11748092?url=https://us.nakedwines.com/wines/ jacqueline-bahue-cabernet-franc-sonoma-county-2013.htm)
 

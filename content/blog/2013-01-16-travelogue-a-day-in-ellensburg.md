@@ -41,7 +41,7 @@ tags:
 [![Art at Dick and Jane’s Spot in Ellensburg](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7574.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7574/) Art at Dick and Jane’s Spot in Ellensburg</div>
 
 
-This is the second travelogue on my adventures in Washington State in October 2012. The first covered my suggestions for a great [day trip in Yakima](https://thegourmez.com/blog/2013/01/04/photoblog-a-day-in-yakima/), and this one is in the same vein. So spend a day with me in Ellensburg, located smack dab in the middle of the state. But first, we must get to its central valley location through some gorgeous mountain passes on Canyon Road.
+This is the second travelogue on my adventures in Washington State in October 2012. The first covered my suggestions for a great [day trip in Yakima](https://thegourmez.com/blog/2013-01-04-photoblog-a-day-in-yakima/), and this one is in the same vein. So spend a day with me in Ellensburg, located smack dab in the middle of the state. But first, we must get to its central valley location through some gorgeous mountain passes on Canyon Road.
 
 [![IMG_7528](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/IMG_7528.jpg)](http://www.thegourmez.com/2013/01/travelogue-a-day-in-ellensburg/img_7528/)
 
