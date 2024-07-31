@@ -19,14 +19,14 @@ tags:
 
 **[Dos Perros](http://dosperrosrestaurant.com/)**\
 Downtown Durham, NC\
-<a href="https://thegourmez.com/blog/2010/07/16/dos-perros-downtown-durham/">Restaurant Review"</a>
+<a href="https://thegourmez.com/blog/2010-07-16-dos-perros-downtown-durham/">Restaurant Review"</a>
 $8
 
 ![](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/dosperros02.jpg)
 
 The Hot Guava is a margarita made from guava juice, jalapenos, tequila, and lime. The jalapeno was bright and powerful from the first sip, but I think that was the problem---all you could taste was that sweet heat and a little bit of sourness. It cancelled out the guava flavor entirely for me.
 
-Now, I love spice, so I drank this happily, but it's definitely not the best jalapeno cocktail I've had. [The Sting](https://thegourmez.com/blog/2009/08/17/cocktail-review-the-sting-at-the-hive-raleigh/) at the Hive gets that honor.
+Now, I love spice, so I drank this happily, but it's definitely not the best jalapeno cocktail I've had. [The Sting](https://thegourmez.com/blog/2009-08-17-cocktail-review-the-sting-at-the-hive-raleigh/) at the Hive gets that honor.
 
 
 

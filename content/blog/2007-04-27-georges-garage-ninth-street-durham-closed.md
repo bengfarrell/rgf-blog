@@ -18,7 +18,7 @@ George's Garage is one of the many Giorgio's Hospitality Group restaurants. This
 
 Mr. Gourmez' sashimi platter was very pretty but as I'm not a big fan of raw food, I didn't sample it. I had the coldwater swordfish with linguini in a spicy clam sauce and I loved it. The steak was perfectly peppered. The sauce was very light yet full of rich flavor. I wasn't hungry but couldn't help cleaning the plate.
 
-My meal was accompanied by an [Alex Martini](https://thegourmez.com/blog/2007/04/26/the-alex-martini-georges-garage-durham/), which got high marks. Overall, the bland atmosphere was overshadowed by dishes that definitely exceeded expectations. I'll just sit by the bar next time.
+My meal was accompanied by an [Alex Martini](https://thegourmez.com/blog/2007-04-26-the-alex-martini-georges-garage-durham/), which got high marks. Overall, the bland atmosphere was overshadowed by dishes that definitely exceeded expectations. I'll just sit by the bar next time.
 
 
 

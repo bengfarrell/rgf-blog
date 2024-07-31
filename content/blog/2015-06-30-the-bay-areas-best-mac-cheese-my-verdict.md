@@ -1,9 +1,9 @@
 ---
 title: "The Bay Area's Best Mac & Cheese: My Verdict"
 date: "2015-06-30"
-categories: 
+categories:
   - "restaurants"
-tags: 
+tags:
   - "american-grilled-cheese-kitchen"
   - "bay-area"
   - "best"
@@ -37,31 +37,31 @@ Additionally, two of the competitors have closed since I began my journey throu
 
 Without further adieu, here is my current list of best Bay Area Mac & Cheeses, from bottom to top.
 
-## 9. [Paragon (701 Second St., SoMa, San Francisco; there is also a Berkeley location)](https://thegourmez.com/blog/2014/11/24/mac-and-cheese-night-6-paragon/)
+## 9. [Paragon (701 Second St., SoMa, San Francisco; there is also a Berkeley location)](https://thegourmez.com/blog/2014-11-24-mac-and-cheese-night-6-paragon/)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2014/11/Paragon_004-500x332.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2014/11/Paragon_004-500x332.jpg)
 
 The biggest ball in this mac & cheese's court is its reasonable size at an also reasonable price point of $7. Pleasing grit from fine breadcrumbs and grated parmesan were also plusses, as was the rare stringy cheese element. Rosemary would have been a nice added layer of flavor if enough of it were used. As it was, the mild-tasting white cheddar and parmesan couldn't stand up to the iron flavor given off by the skillet.
 
-## 8. [Farmer Brown (25 Mason Street, the Tenderloin, San Francisco)](https://thegourmez.com/blog/2015/02/05/mac-cheese-night-7-farmerbrown-review/)
+## 8. [Farmer Brown (25 Mason Street, the Tenderloin, San Francisco)](https://thegourmez.com/blog/2015-02-05-mac-cheese-night-7-farmerbrown-review/)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/Farmer_Browns_005-500x333.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/Farmer_Browns_005-500x333.jpg)
 
 While I was in large part turned off from Paragon's mac & cheese due to the unwelcome intrusion of metal, Farmer Brown's simply failed to impress. It's a straightforward creamy cheddar offering. Although I support honoring the classics, the ingredients didn't stand out. And using shells instead of macaroni doomed its placement on this list; the shells' flaps often stuck together, making it difficult for the cream sauce to swim inside. Not enough sauce in the noodles? A faux pas for this dish! The flour was also not fully incorporated into the cream, giving it grit in all the wrong places. That job function should be performed by the breadcrumbs.
 
-## 7. [Q (Now Closed)](https://thegourmez.com/blog/2014/06/24/mac-cheese-night-2-q-restaurant/)
+## 7. [Q (Now Closed)](https://thegourmez.com/blog/2014-06-24-mac-cheese-night-2-q-restaurant/)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/q_mac_n_cheese_009-500x332.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2014/06/q_mac_n_cheese_009-500x332.jpg)
 
 Despite its attempts to add whimsy to a conventional mac & cheese sauce (tator tots instead of bread crumbs! Spiral pasta!), Q's dish was ultimately too expensive for too small of a serving at $13. The bacon we tossed on for an extra $2 didn't add much but crunch that the tator tots already had under control. Points for a sauce that tasted close to boxed mac & cheese—we all admitted to being fans of that cabinet staple—but it wasn't enough to set Q apart.
 
-## 6. [The Blue Plate (3218 Mission Street, the Mission, San Francisco)](https://thegourmez.com/blog/2015/06/23/mac-cheese-night-9-the-blue-plate/)
+## 6. [The Blue Plate (3218 Mission Street, the Mission, San Francisco)](https://thegourmez.com/blog/2015-06-23-mac-cheese-night-9-the-blue-plate/)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/IMG_4734.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/06/IMG_4734.jpg)
 
 Rankings are getting difficult now, the competitors set apart only by tenths of a point...if I had used points. I'm way too lazy for that. What I mean is that it's really a matter of subjectivity when I can rank a mac & cheese like the Blue Plate's this low. It was great! The primary use of drunken Spanish goat cheese gave it a memorable tanginess that built with each bite. It's a simple dish that highlights the quality of the ingredients...but in this cutthroat competition, simple isn't quite enough.
 
-## 5. [Homeroom (400th 40th Street, Piedmont, Oakland)](https://thegourmez.com/blog/2014/09/09/mac-cheese-night-4-homeroom-oakland-review/)
+## 5. [Homeroom (400th 40th Street, Piedmont, Oakland)](https://thegourmez.com/blog/2014-09-09-mac-cheese-night-4-homeroom-oakland-review/)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Homeroom_009-500x332.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Homeroom_009-500x332.jpg)
 

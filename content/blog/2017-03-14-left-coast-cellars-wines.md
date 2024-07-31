@@ -32,7 +32,7 @@ My experience with Left Coast Cellars ([website here](http://leftcoastcellars.co
 
 Ivy Hover is Left Coast’s marketing director, an A+ person, and my fellow panelist at the 2016 Wine Bloggers Conference. The picture above is of our group immediately after the Wine Samples panel, which was a discussion among folks in the industry and bloggers like myself on the winery–blogger relationship.
 
-That conference was my first introduction to Left Coast Cellars, by way of one of m[y absolutely favorite wines](https://thegourmez.com/blog/2016/09/02/most-memorable-wines-from-the-2016-wine-bloggers-conference-part-1/) from the four-day experience: their Queen Bee Bubbly.
+That conference was my first introduction to Left Coast Cellars, by way of one of m[y absolutely favorite wines](https://thegourmez.com/blog/2016-09-02-most-memorable-wines-from-the-2016-wine-bloggers-conference-part-1/) from the four-day experience: their Queen Bee Bubbly.
 
 [![Queen Bee Bubbly Left Coast Cellars](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Left-Coast_04-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2017/03/Left-Coast_04.jpg)
 

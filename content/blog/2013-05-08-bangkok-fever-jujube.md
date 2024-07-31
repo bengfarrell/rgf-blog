@@ -1,10 +1,10 @@
 ---
 title: "Bangkok Fever @ Jujube"
 date: "2013-05-08"
-categories: 
+categories:
   - "bars"
   - "cocktails"
-tags: 
+tags:
   - "alcohol"
   - "chapel-hill"
   - "cinnamon-salt"
@@ -19,7 +19,7 @@ tags:
 
 **Jujube**\
 Glen Lennox, Chapel Hill\
-[My Restaurant Review](https://thegourmez.com/blog/2007/04/26/jujube-glen-lennox-chapel-hill/)
+[My Restaurant Review](https://thegourmez.com/blog/2007-04-26-jujube-glen-lennox-chapel-hill/)
 $10
 
 [![bangkok fever](http://s3.amazonaws.com/thegourmez-wpmedia/2013/05/bangkok-fever.jpg)](http://www.thegourmez.com/2013/05/bangkok-fever-jujube/bangkok-fever/)

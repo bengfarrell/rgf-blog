@@ -1,10 +1,10 @@
 ---
 title: "Brews & Brats *CLOSED*"
 date: "2016-05-12"
-categories: 
+categories:
   - "beer"
   - "restaurants"
-tags: 
+tags:
   - "affordable"
   - "amarillo-pillow"
   - "bar"
@@ -51,7 +51,7 @@ That’s my husband's cheddar and jalapeno dog made “shroom” style, which is
 
 [![Bracho dog Brews & Brats](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BrewsBrats05-500x329.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2016/04/BrewsBrats05.jpg)
 
-We’ll just pretend that picture can double as my own sausage as well, as I forgot to take a picture before diving in. I, too, chose to add on nacho cheese, and for a time, Friend #1 and I were lost in memories of Orange Julius’s majestic nacho cheese dog. [I’ve waxed poetic about that before](https://thegourmez.com/blog/2015/01/22/pinks-hot-dogs/), so I’ll spare you the details here. I did think the complimentary onions and bell pepper were plenty of toppings on their own, as long as you add something to moisten the bun. My jerk chicken dog was impressively spicy, and I too found the meat moist and flavorful.
+We’ll just pretend that picture can double as my own sausage as well, as I forgot to take a picture before diving in. I, too, chose to add on nacho cheese, and for a time, Friend #1 and I were lost in memories of Orange Julius’s majestic nacho cheese dog. [I’ve waxed poetic about that before](https://thegourmez.com/blog/2015-01-22-pinks-hot-dogs/), so I’ll spare you the details here. I did think the complimentary onions and bell pepper were plenty of toppings on their own, as long as you add something to moisten the bun. My jerk chicken dog was impressively spicy, and I too found the meat moist and flavorful.
 
 We were surprised that the much milder swedish potato dog still conveyed a little kick of its own. That was Friend #1’s, and her dog tasted dry at first, so she dove for the ketchup and thought it went very well with the potato-laced sausage. Potatoes and ketchup? Who’d have imagined such an amazing combination?
 

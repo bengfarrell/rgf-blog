@@ -16,7 +16,7 @@ tags:
   - "wagyu"
 ---
 
-Consider this post bonus material from the [Pure Leaf Travelling Teahouse](http://pureleaf.com/) event I went to in June. In case you missed it ([write-up here](https://thegourmez.com/blog/2016/06/29/pairing-pure-leafs-teahouse-collection-with-spqrs-finesse/)),  Pure Leaf is touring the country to promote their new Teahouse Collection, and for the Bay Area, they partnered with Matthew Accarrino, the acclaimed, Italian-leaning chef at Michelin-starred [SPQR](http://spqrsf.com/) in the Fillmore.
+Consider this post bonus material from the [Pure Leaf Travelling Teahouse](http://pureleaf.com/) event I went to in June. In case you missed it ([write-up here](https://thegourmez.com/blog/2016-06-29-pairing-pure-leafs-teahouse-collection-with-spqrs-finesse/)),  Pure Leaf is touring the country to promote their new Teahouse Collection, and for the Bay Area, they partnered with Matthew Accarrino, the acclaimed, Italian-leaning chef at Michelin-starred [SPQR](http://spqrsf.com/) in the Fillmore.
 
 
 

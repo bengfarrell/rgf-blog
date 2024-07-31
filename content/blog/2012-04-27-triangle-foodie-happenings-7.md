@@ -83,7 +83,7 @@ My Carpe Durham compatriot, DID, posted [a description](https://thegourmez-wpmed
 
  **[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/compressedposter.jpg "compressedposter")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/04/compressedposter.jpg)** FOODIE screening at Motorco, 5/17, 7 pm, Durham, $5
 
-Written and produced by Eryk Pruitt, formerly of [blu seafood](https://www.thegourmez.com/blog/2010/06/blu-seafood-and-bar-durham/ "The Gourmez Blu Seafood Review") in Durham and currently of [Sitti](http://www.rebeccagomezfarrell.com/2011/02/sitti/ "The Gourmez Sitti Review") in Raleigh, [FOODIE](http://foodie-themovie.com/ "Foodie the Movie") is
+Written and produced by Eryk Pruitt, formerly of [blu seafood](https://www.thegourmez.com/blog/2010-06-blu-seafood-and-bar-durham/ "The Gourmez Blu Seafood Review") in Durham and currently of [Sitti](http://www.rebeccagomezfarrell.com/2011/02/sitti/ "The Gourmez Sitti Review") in Raleigh, [FOODIE](http://foodie-themovie.com/ "Foodie the Movie") is
 
 > a dark comedy about a food-service industry professional who is invited to an exclusive, underground dinner party and discovers there's much more on the menu than he bargained for.  It premieres in Wilmington this Saturday (28th) at the Cape Fear International Film Festival where it is nominated for Best Horror of 2012 and we were lucky enough to get a screening at Motorco on May 17.  Flip from KoKyu BBQ Food Truck has offered to create menu items that reflect the "menu" in the movie, which will be insane!  We're asking for a suggested donation of five dollars at the door to help us with our film festival entry fees (we've applied to Cannes and Sundance... cross your fingers!) and we're planning on having a great time.
 

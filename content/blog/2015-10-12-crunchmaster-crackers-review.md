@@ -24,7 +24,7 @@ tags:
   - "wine-bloggers-conference"
 ---
 
-You’ve likely seen my first couple of posts on the [Wine Bloggers Conference](https://thegourmez.com/blog/2015/08/27/most-memorable-wines-from-the-2015-finger-lakes-wine-bloggers-conference/) held in [the Finger Lakes](https://thegourmez.com/blog/2015/09/10/the-hospitality-of-the-finger-lakes-and-other-reasons-to-visit/) last month. But you probably don’t know how essential palate cleansers are to the wine tasting drill! When you are sampling upwards of twenty wines a day—and likely many, many more—having something that can break up the relentless onslaught of tannins is a taste bud savior, and for WBC15, [Crunchmaster Crackers](https://www.crunchmaster.com/home.aspx) served that role.
+You’ve likely seen my first couple of posts on the [Wine Bloggers Conference](https://thegourmez.com/blog/2015-08-27-most-memorable-wines-from-the-2015-finger-lakes-wine-bloggers-conference/) held in [the Finger Lakes](https://thegourmez.com/blog/2015-09-10-the-hospitality-of-the-finger-lakes-and-other-reasons-to-visit/) last month. But you probably don’t know how essential palate cleansers are to the wine tasting drill! When you are sampling upwards of twenty wines a day—and likely many, many more—having something that can break up the relentless onslaught of tannins is a taste bud savior, and for WBC15, [Crunchmaster Crackers](https://www.crunchmaster.com/home.aspx) served that role.
 
 [![2015_WBC_059](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_059-334x500.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/09/2015_WBC_059.jpg)
 
