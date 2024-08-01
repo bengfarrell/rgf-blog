@@ -16,11 +16,11 @@ tags:
   - "review"
 ---
 
-ABV: 12.5%
-
 [![milk & honey, liqueur, date honey, dates, cream, review](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-001-500x495.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2018/06/milkhoney-001.jpg)
 
 ## The Liqueur
+
+ABV: 12.5%
 
 I first heard about Milk & Honey in 2015, when Justin Lubin, who developed the liqueur, contacted me to taste test it. **Obligatory disclaimer:** The bottle I'm reviewing was sent as a thank you gift from Lubin for my participation in that early stage of its development. It was good then, and it's good now, after its release to the public.
 
@@ -52,7 +52,10 @@ I wanted to dial up the overall alcohol content a bit, as I like bite in my crea
 
 **Medjool Alexander**
 
-2 shots Milk & Honey 1 shot Western Grace Brandy ½ shot St. George Nola Coffee Liqueur Shaved or crushed ice
+2 shots Milk & Honey\
+1 shot Western Grace Brandy\
+½ shot St. George Nola Coffee Liqueur\
+Shaved or crushed ice
 
 Shake or stir all three ingredients together, then pour over ice. If you have it, finely grated orange peel would make a lovely garnish. You need not use the same alcohol brands I did, but St. George's NOLA Coffee Liqueur does add an extra layer of flavor with its chicory notes. I'd also recommend picking a brandy with nutty qualities that can help amplify the same in Milk & Honey's profile.
 
