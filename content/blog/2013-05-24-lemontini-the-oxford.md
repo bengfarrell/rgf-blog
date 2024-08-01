@@ -20,7 +20,7 @@ tags:
   - "the-oxford"
 ---
 
-**The Oxford** ([My Bar Review](http://www.thegourmez.com/2009/09/restaurant-review-the-oxford-downtown-raleigh/))\
+**The Oxford** ([My Bar Review](https://thegourmez.com/blog/2009-09-29-restaurant-review-the-oxford-downtown-raleigh/\
 Downtown Raleigh, NC\
 $9
 

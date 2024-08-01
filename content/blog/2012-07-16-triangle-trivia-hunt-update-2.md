@@ -17,13 +17,13 @@ tags:
   - "west-94th-street-pub"
 ---
 
-It’s been two years since [my last update](http://www.thegourmez.com/2010/07/triangle-trivia-hunt-update/) on hunting for the perfect trivia spot in our corner of the Triangle, and that’s because we thought we had found a winner at the [West 94th Street Pub](http://www.west94stpub.com/), conveniently located just down the road from my house. Their trivia was on Wednesday nights.
+It’s been two years since [my last update](https://thegourmez.com/blog/2010-07-13-triangle-trivia-hunt-update/) on hunting for the perfect trivia spot in our corner of the Triangle, and that’s because we thought we had found a winner at the [West 94th Street Pub](http://www.west94stpub.com/), conveniently located just down the road from my house. Their trivia was on Wednesday nights.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/west94th-226x300.jpg "west94th")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/west94th.jpg)
 
 It had the right vibe with a funny, playful host and teams perfectly willing to take their wins and losses all in stride. The current events round was always great, and the random round that was often on an old television show was fun. But after around a year and a half of playing there, we decided that the concentration on sports and the name that tune round weren’t up our alley. We do have a great sports trivia player, but she can’t make it every week, and the rest of us are hopeless. The music round is certainly fun, but the music was often a bit too old to be in our memory ranges. Plus, there was a long wait between rounds, which is fun with friends and drinks, but not when people have early jobs the next morning as some of our teammates do.
 
-So we moved on, deciding that [Fullsteam](http://www.thegourmez.com/2010/11/fullsteam-brewery/) would be our next try.
+So we moved on, deciding that [Fullsteam](https://thegourmez.com/blog/2010-11-09-fullsteam-brewery/) would be our next try.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/fullsteam.jpg "fullsteam")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/fullsteam.jpg)
 
@@ -31,7 +31,7 @@ Fullsteam’s trivia is on Thursday nights at 9 pm. Now Fullsteam is a very popu
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/doolins.jpg "doolins")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/07/doolins.jpg)
 
-[Doolin’s](http://www.thegourmez.com/2012/04/doolins-irish-pub/) is a new edition to Durham, located in South Square in the same building as G2B. They host trivia on Tuesday nights at 9 pm. Their food is great, and it’s hard to beat the pint night prices during trivia–$3 for all local drafts. We only went once, so it’s hard to judge the trivia fairly. The host seemed to really enjoy the gig, but the trivia was so random that one of our regulars was annoyed she didn’t know a single question all night—she _may_ be somewhat overcompetitive. But like at Fullsteam, the sound system meant you were straining to hear the questions, and that makes the trivia experience less pleasant in general, plus it starts pretty late. I would be willing to try it out again, though.
+[Doolin’s](https://thegourmez.com/blog/2012-04-20-doolins-irish-pub/) is a new edition to Durham, located in South Square in the same building as G2B. They host trivia on Tuesday nights at 9 pm. Their food is great, and it’s hard to beat the pint night prices during trivia–$3 for all local drafts. We only went once, so it’s hard to judge the trivia fairly. The host seemed to really enjoy the gig, but the trivia was so random that one of our regulars was annoyed she didn’t know a single question all night—she _may_ be somewhat overcompetitive. But like at Fullsteam, the sound system meant you were straining to hear the questions, and that makes the trivia experience less pleasant in general, plus it starts pretty late. I would be willing to try it out again, though.
 
 We found our current spot at the [Carolina Alehouse](http://www.carolinaalehouse.com/) off of 15-501 on Wednesdays at 8 pm.
 

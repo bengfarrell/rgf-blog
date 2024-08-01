@@ -31,7 +31,7 @@ ABV 46%
 
 [![topo gin02](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/topo-gin02.jpg)](http://www.thegourmez.com/2013/10/topo-piedmont-gin/topo-gin02/)
 
-I have mentioned this gin before on this blog, when I took [a tour of the distillery](http://www.thegourmez.com/2013/06/bloggers-night-at-topo-distillery/). But this is the first TOPO spirit I've had my hands on a bottle of and thanks go to Esteban, TOPO's spirit guide, for the parting gift at my farewell from North Carolina. At that tour, I was impressed by how soft the Piedmont Gin's notes were in comparison with other gins that I often find overwhelming. So you can bet I'm excited to give it a thorough tasting.
+I have mentioned this gin before on this blog, when I took [a tour of the distillery](https://thegourmez.com/blog/2013-06-26-bloggers-night-at-topo-distillery/). But this is the first TOPO spirit I've had my hands on a bottle of and thanks go to Esteban, TOPO's spirit guide, for the parting gift at my farewell from North Carolina. At that tour, I was impressed by how soft the Piedmont Gin's notes were in comparison with other gins that I often find overwhelming. So you can bet I'm excited to give it a thorough tasting.
 
 [![topo gin01](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/topo-gin01.jpg)](http://www.thegourmez.com/2013/10/topo-piedmont-gin/topo-gin01/)
 

@@ -18,7 +18,7 @@ tags:
   - "winery-chateau"
 ---
 
-This past summer, Jordan Winery added a new slate of activities for guests to enjoy at their estate in Healdsburg, CA. And why not? They just remodeled the estate's formal dining room, and winery chef, Todd Knoll, has been perfecting his culinary artistry at Jordan for over a decade and a half. My first taste of his work, which I loved at first bite, came at [an autumn feast and tasting](https://thegourmez.com/2018/08/27/caviar-cabernet-sauvignon-jordan-winery-pairing/) at Jordan Winery's estate a few years back.
+This past summer, Jordan Winery added a new slate of activities for guests to enjoy at their estate in Healdsburg, CA. And why not? They just remodeled the estate's formal dining room, and winery chef, Todd Knoll, has been perfecting his culinary artistry at Jordan for over a decade and a half. My first taste of his work, which I loved at first bite, came at [an autumn feast and tasting](https://thegourmez.com/blog/2018-08-27-caviar-cabernet-sauvignon-jordan-winery-pairing/) at Jordan Winery's estate a few years back.
 
 In August, I was delighted to accept an invitation to try one of those activities and enjoy Chef Knoll's food again. The Jordan Winery [picnic lunch](https://www.jordanwinery.com/events/picnic-lunch-jordan-winery-2) features exquisite cuisine, the estate's beautiful grounds, and of course, Jordan wine.
 

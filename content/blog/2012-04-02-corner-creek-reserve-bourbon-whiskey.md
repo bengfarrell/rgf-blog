@@ -28,7 +28,7 @@ tags:
 
 But back to the bourbon. The nose has a mellow heat. It smells of light molasses and orange blossom. It tastes thin, smooth, and a bit oily. Nutmeg and black pepper dominate the first sip. There is sweetness, but it’s closer to agave in flavor than molasses. The orange remains, but it’s less dominant than it was in the nose.
 
-I find it very similar in principle to a light-bodied rum I reviewed a few months ago, the [Bacardi Ron Solera 1873](http://www.thegourmez.com/2012/01/bacardi-ron-solera-1873/). Both are thin but full of layers that make them more interesting than their base spirits generally are with that sort of body. Enjoy experimenting!
+I find it very similar in principle to a light-bodied rum I reviewed a few months ago, the [Bacardi Ron Solera 1873](https://thegourmez.com/blog/2012-01-11-bacardi-ron-solera-1873/). Both are thin but full of layers that make them more interesting than their base spirits generally are with that sort of body. Enjoy experimenting!
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 
 

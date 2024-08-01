@@ -22,4 +22,4 @@ I'm a little slow this time in letting you all know I have another review up at 
 
 You can read the rest of that review at [WRAL here](http://www.wral.com/restaurant-review-village-burgers/12028976/ "Village Burgers Review"). And because a photo makes everything more exciting, here you go.
 
-[![Village_Burgers03](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Village_Burgers03.jpg)](http://www.thegourmez.com/2013/02/nonfiction-bragging-wral-village-burgers-review/village_burgers03/)
+[![Village_Burgers03](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/Village_Burgers03.jpg)]

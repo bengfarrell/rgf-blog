@@ -42,7 +42,7 @@ We were served a trio of small bites.
 
 From left to right is a bacon croquette, a smoked salmon crostini with goat cheese and a stuffed olive, and an avocado and Spanish chorizo crostini with shallots. The croquette was well executed, its texture wavering between creamy and toasty with a paprika-infused crust. The salmon tasted nice and smoky, and I still dislike olives, but the saltiness of this one contrasted nicely with the richness of the cheese. The best offering was the simple avocado and chorizo crostini. It's my ideal comfort food, something I could whip up in my kitchen that gives me the rich avocado I love and the spice of chorizo with it.
 
-Our second stop was a block up the road at [Revolution](http://www.revolutionrestaurant.com/), which [I've enjoyed](http://www.thegourmez.com/2010/04/revolution-downtown-durham-restaurant-review/) a number [of times](http://www.thegourmez.com/2010/04/easter-brunch-at-revolution-restaurant-review/).
+Our second stop was a block up the road at [Revolution](http://www.revolutionrestaurant.com/), which [I've enjoyed](https://thegourmez.com/blog/2010-04-02-revolution-downtown-durham-restaurant-review/) a number [of times](https://thegourmez.com/blog/2010-04-06-easter-brunch-at-revolution-restaurant-review/).
 
 
 

@@ -22,7 +22,7 @@ tags:
 ---
 
 Alivia’s Durham Bistro\
-([Restaurant Review](http://www.thegourmez.com/2007/04/alivias-durham-bistro-brightleaf-durham/))\
+([Restaurant Review](https://thegourmez.com/blog/2007-04-27-alivias-durham-bistro-brightleaf-durham/))\
 Brightleaf, Durham, NC
 
  [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/fireflymango.jpg "fireflymango")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/fireflymango.jpg)

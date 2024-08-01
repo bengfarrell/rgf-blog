@@ -21,7 +21,7 @@ Tenderloin, San Francisco\
 
 I was delighted to dine in this festive space evocative of a garden party, and I look forward to doing so again when it’s safe. The décor is a range of floral patterns in bold pastels (is that an oxymoron?), from the ceiling bouquet down to the central marble tables that belong on a grand patio in some mansion in the hills somewhere.
 
-[![son and garden, san francisco, the gourmez, review, brunch, restaurant review](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-001.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-001.jpg)Why was I so delighted to dine there? As I explained to co-owner Arty Larpnampha, I love the celebratory feel at Farmhouse Kitchen Thai in Oakland ([my review](https://thegourmez.com/2018/08/02/farmhouse-kitchen-thai-cuisine-now-open-in-oakland/)), one of his and chef/owner Kasem “Pop” Saengsawang’s other establishments. Song and Garden carries forth that ambience through its décor, plating, and most of all, the welcoming spirit of its employees.
+[![son and garden, san francisco, the gourmez, review, brunch, restaurant review](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-001.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2020/04/SonGarden-001.jpg)Why was I so delighted to dine there? As I explained to co-owner Arty Larpnampha, I love the celebratory feel at Farmhouse Kitchen Thai in Oakland ([my review](https://thegourmez.com/blog/2018-08-02-farmhouse-kitchen-thai-cuisine-now-open-in-oakland/)), one of his and chef/owner Kasem “Pop” Saengsawang’s other establishments. Song and Garden carries forth that ambience through its décor, plating, and most of all, the welcoming spirit of its employees.
 
 
 

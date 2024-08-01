@@ -55,7 +55,7 @@ We decided dessert was on the agenda and chose a scoop of the pistachio gelato (
 
 I was torn between loving the flavor of the pistachio—it is so good in dessert form—and finding the gelato rather too icy and almost a little pasty in texture.
 
-I hope to be back to try their pastas, and I’m sure I’ll manage it sometime before a DPAC show or meeting the husband for lunch again. It was also nice to see familiar faces from [Revolution’s](http://www.thegourmez.com/2010/04/revolution-downtown-durham-restaurant-review/) wait staff. They are sister restaurants, after all, and there were definite similarities in cooking style and atmosphere, even though they have entirely different focuses. I don’t think L’Uva is up to Revolution’s standards quite yet, but I’m confident it can get there.
+I hope to be back to try their pastas, and I’m sure I’ll manage it sometime before a DPAC show or meeting the husband for lunch again. It was also nice to see familiar faces from [Revolution’s](https://thegourmez.com/blog/2010-04-02-revolution-downtown-durham-restaurant-review/) wait staff. They are sister restaurants, after all, and there were definite similarities in cooking style and atmosphere, even though they have entirely different focuses. I don’t think L’Uva is up to Revolution’s standards quite yet, but I’m confident it can get there.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 

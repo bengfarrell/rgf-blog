@@ -32,7 +32,7 @@ La Bedaine is a tiny French bakery on the outside, but on the inside, it special
 
 [![IMG_4103](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4103-500x269.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4103.jpg) [![IMG_4100](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4100-500x291.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4100.jpg) [![IMG_4105](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4105-500x407.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4105.jpg)
 
-My friend showed me around this neighborhood where Berkeley and Albany intermingle, and she was most excited to share La Bedaine. [We’d had lunch earlier in the day,](/thegourmez.com/2015/07/13/four-corners-cafe/) so dessert was about all we could handle. And handle it we did! My friend had the apple and almond tart, which came on a beautiful plate.
+My friend showed me around this neighborhood where Berkeley and Albany intermingle, and she was most excited to share La Bedaine. [We’d had lunch earlier in the day,](https://thegourmez.com/blog/2015-07-13-four-corners-cafe/) so dessert was about all we could handle. And handle it we did! My friend had the apple and almond tart, which came on a beautiful plate.
 
 [![IMG_4108](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4108-500x334.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2015/07/IMG_4108.jpg)
 

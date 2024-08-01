@@ -36,7 +36,7 @@ Kahlua Midnight appears a lot darker in the bottle than outside of it. I'd call 
 
 I am tasting it at room temperature, although the bottle says it's best as a chilled shot. It's pretty darn good like this, smooth and sugary enough to go down easily. The rum and coffee flavors are nicely balanced. Those nutty notes show up again in the aftertaste.
 
-I think this liqueur is pleasing on its own, but I couldn't help but imagine it over ice with the [RumChata](http://www.thegourmez.com/2012/11/rumchata/) in my alcohol cabinet (_Note, in the interests of honesty, it's an alcohol stand. But no image would have come to mind if I said_ stand_, right?_). RumChata is also rum based, and it has cream and spices in the mix. In other words, while I take my coffee black, I do not take my cocktails the same way. So I present a coffee cocktail for you …
+I think this liqueur is pleasing on its own, but I couldn't help but imagine it over ice with the [RumChata](https://thegourmez.com/blog/2012-11-14-rumchata/) in my alcohol cabinet (_Note, in the interests of honesty, it's an alcohol stand. But no image would have come to mind if I said_ stand_, right?_). RumChata is also rum based, and it has cream and spices in the mix. In other words, while I take my coffee black, I do not take my cocktails the same way. So I present a coffee cocktail for you …
 
 
 

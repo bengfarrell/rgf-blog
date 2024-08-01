@@ -42,6 +42,6 @@ As you can see, it was skimpily filled, and the shredded iceberg lettuce and hot
 
 I’m wary of a place that offers chicken wings as their daily special, and the sandwich was not up to snuff. But the salad exceeded expectations, and the speed of service was awesome. I think Plaza Café is probably best suited to those quick grabs for breakfast and lunch when easing hunger is your most important concern. I think most folks would likely find a favorite one or two menu items and stick with them.
 
-[![rating_olive1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)](http://www.thegourmez.com/2009/04/cocktail-review-the-shiki-tini/rating_olive1/)
+[![rating_olive1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)]
 
 _Reviewed 16 Nov 12._

@@ -23,7 +23,7 @@ tags:
 
 [![Vita_Frute03](http://s3.amazonaws.com/thegourmez-wpmedia/2014/04/Vita_Frute03-159x500.jpg)](http://www.thegourmez.com/2014/04/vita-frute-cocktails/vita_frute03/)
 
-A few years ago, [I reviewed a few drinks](http://www.thegourmez.com/2011/08/veev/ "Veev review") made with Veev aḉai liqueur at Ruby Tuesday’s back when the brand first launched. I enjoyed those drinks and how clean the spirit tasted. It imparted a crisp and mild berry flavor to the cocktails that I found quite appealing.
+A few years ago, [I reviewed a few drinks](https://thegourmez.com/blog/2011-08-09-veev/) made with Veev aḉai liqueur at Ruby Tuesday’s back when the brand first launched. I enjoyed those drinks and how clean the spirit tasted. It imparted a crisp and mild berry flavor to the cocktails that I found quite appealing.
 
 Fast forward to this last winter, and Veev has done well enough to introduce Vita Frute, a line of pre-mixed cocktails that all feature Veev and a simple list of ingredients. Klout Perks and Veev offered free bottles to a few cocktail reviewers, and I was happy to participate. And thus you have been served my obligatory disclaimer that I did not pay for these cocktails.
 

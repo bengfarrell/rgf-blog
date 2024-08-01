@@ -33,7 +33,7 @@ Dinner: $10 to $25
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/carmens06.jpg "carmens06")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/05/carmens06.jpg)
 
-I have wanted to check out Carmen’s for a very long time, because it was the only Cuban option (at least, the only one I know about) in the Triangle for years. In the past three, both the [Old Havana Sandwich Shop](http://www.thegourmez.com/2011/12/old-havana-sandwich-shop/) and [Cuban Revolution](http://www.thegourmez.com/2009/11/cuban-revolution-american-tobacco-district-durham/) have come to the area as well, and they both have their plusses and minuses, so I wanted a third option to rank. Or rather, I just hadn’t made it to Carmen’s yet and finally got around to it.
+I have wanted to check out Carmen’s for a very long time, because it was the only Cuban option (at least, the only one I know about) in the Triangle for years. In the past three, both the [Old Havana Sandwich Shop](https://thegourmez.com/blog/2011-12-16-old-havana-sandwich-shop/) and [Cuban Revolution](https://thegourmez.com/blog/2009-11-04-cuban-revolution-american-tobacco-district-durham/) have come to the area as well, and they both have their plusses and minuses, so I wanted a third option to rank. Or rather, I just hadn’t made it to Carmen’s yet and finally got around to it.
 
 It’s located in a strip mall right off of I-40 and across the way from the nearly abandoned Morrisville Outlet Mall — though I hear there are [plans to make that into a Chinatown complex?](http://www.wral.com/news/local/story/10694415/) The location is assuredly nondescript, but inside, Carmen’s has a rich gold palette.
 

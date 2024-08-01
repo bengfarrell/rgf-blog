@@ -31,7 +31,7 @@ tags:
   - "workhorse-rye"
 ---
 
-I'm doing two reviews in one today! My friends over at [TOPO Distillery](http://www.thegourmez.com/2013/06/bloggers-night-at-topo-distillery/) have debuted their organic Eight Oak Whiskey, and they were kind enough to send me a bottle for review. This fortuitous gift also provided me with the perfect opportunity to test out a set of [Sipping Stones](http://sippingstones.com/), soapstone cubes designed to provide a slight chill for drinks on the rocks that you don't want to dilute. And yes, I also received them free to review (obligatory disclaimer alerts!).
+I'm doing two reviews in one today! My friends over at [TOPO Distillery](https://thegourmez.com/blog/2013-06-26-bloggers-night-at-topo-distillery/) have debuted their organic Eight Oak Whiskey, and they were kind enough to send me a bottle for review. This fortuitous gift also provided me with the perfect opportunity to test out a set of [Sipping Stones](http://sippingstones.com/), soapstone cubes designed to provide a slight chill for drinks on the rocks that you don't want to dilute. And yes, I also received them free to review (obligatory disclaimer alerts!).
 
 ![Sipping_Stones_001](http://s3.amazonaws.com/thegourmez-wpmedia/2015/02/Sipping_Stones_001-500x333.jpg)
 
@@ -43,7 +43,7 @@ Now, those stones are an obvious conversation piece on their own, providing a lo
 
 ![TOPO_8OAK_001](http://s3.amazonaws.com/thegourmez-wpmedia/2015/02/TOPO_8OAK_001-333x500.jpg)
 
-But I'm getting ahead of myself. Let's start with the savoring, not the gluttonous sucking, yes? I've come to expect quality from [TOPO Distillery](http://www.topodistillery.com/), which is based in Chapel Hill, North Carolina. They make spirits with sophisticated character including their unique vodka, a clear liquor that is often utterly forgettable but smooth and pleasantly sweet in this case, and their subdued [Piedmont Gin](http://www.thegourmez.com/2013/10/topo-piedmont-gin/), one of the few gins I genuinely enjoy in a cocktail. Eight Oak is aged in eight distinctly different oak barrels during its maturation process. Each barrel has its own profile of toasting and charring, and one of them also involves vanilla chips.  _2/20 Correction:_ _Oops! I got that process wrong. Esteban McMahan, TOPO's Spirit Guide, informs me of what it really is:_ 
+But I'm getting ahead of myself. Let's start with the savoring, not the gluttonous sucking, yes? I've come to expect quality from [TOPO Distillery](http://www.topodistillery.com/), which is based in Chapel Hill, North Carolina. They make spirits with sophisticated character including their unique vodka, a clear liquor that is often utterly forgettable but smooth and pleasantly sweet in this case, and their subdued [Piedmont Gin](https://thegourmez.com/blog/2013-10-17-topo-piedmont-gin/), one of the few gins I genuinely enjoy in a cocktail. Eight Oak is aged in eight distinctly different oak barrels during its maturation process. Each barrel has its own profile of toasting and charring, and one of them also involves vanilla chips.  _2/20 Correction:_ _Oops! I got that process wrong. Esteban McMahan, TOPO's Spirit Guide, informs me of what it really is:_ 
 
 > The Eight Oak refers to the eight combinations of three oaks (one American and two French oaks) and toasts that we use (one has a high vanillin content). We’re using techniques that have been used in the wine industry for over 100 years and it enables us to get a flavor that is simply unattainable using a single American oak barrel.
 

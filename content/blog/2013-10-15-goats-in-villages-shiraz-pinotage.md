@@ -20,7 +20,7 @@ tags:
 
 **Region:** South Africa\
 Nonvintage\
-<a href="http://www.thegourmez.com/2013/10/goats-in-villages-shiraz-pinotage/goats-in-villages">Website</a>
+<a href="https://thegourmez.com/blog/2013-10-15-goats-in-villages-shiraz-pinotage/">Website</a>
 
 [![goats in villages](http://s3.amazonaws.com/thegourmez-wpmedia/2013/10/goats-in-villages.jpg)](http://www.thegourmez.com/2013/10/goats-in-villages-shiraz-pinotage/goats-in-villages/)
 

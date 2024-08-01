@@ -81,7 +81,7 @@ After I had gorged myself on my two fantastic dishes, I swore off dessert, knowi
 
 That’s a gorgeous baked Alaska, no? I thought the dessert, especially the meringue and coffee combination, was wonderful. The pears and sauce were dandy but unnecessary in my opinion—the baked Alaska was delicious all on its own.
 
-We were shocked and delighted to be given a second dessert compliments of the chef, Carrie Schleiffer. I’d met Carrie once before, at a dinner thrown by [Chef Sean McCarthy at \[ONE\],](http://www.thegourmez.com/2011/07/a-taste-of-tabla-at-one-restaurant/) and it was so sweet to have her remember me and give us the chance to try G2B’s dark chocolate mousse bombe. It comes with a cranberry-red wine sorbet, orange chutney, and chocolate toast.
+We were shocked and delighted to be given a second dessert compliments of the chef, Carrie Schleiffer. I’d met Carrie once before, at a dinner thrown by [Chef Sean McCarthy at \[ONE\],](https://thegourmez.com/blog/2011-07-15-a-taste-of-tabla-at-one-restaurant/) and it was so sweet to have her remember me and give us the chance to try G2B’s dark chocolate mousse bombe. It comes with a cranberry-red wine sorbet, orange chutney, and chocolate toast.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/10/g2b11.jpg "g2b11")](http://www.thegourmez.com/2011/11/g2b-gastropub/g2b01/)
 

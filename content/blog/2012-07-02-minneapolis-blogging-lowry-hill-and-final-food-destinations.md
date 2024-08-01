@@ -53,7 +53,7 @@ tags:
 
  
 
-In the [last Minneapolis Blogging post](http://www.thegourmez.com/2012/06/minneapolis-blogging-the-sculpture-garden-and-eat-street/), we had some tasty treats on Eat Street after an afternoon spent at the Sculpture Garden. What could possibly be left to do in Minneapolis on this five-day trip? A stroll through Lowry Hill and around the Lake of Isles and a few more memorable meals, that’s what. Lowry Hill is an upscale and midscale residential district directly south of downtown, and I discovered quite a lot of lovely houses with gardens as I walked through it.
+In the [last Minneapolis Blogging post](https://thegourmez.com/blog/2012-06-18-minneapolis-blogging-the-sculpture-garden-and-eat-street/), we had some tasty treats on Eat Street after an afternoon spent at the Sculpture Garden. What could possibly be left to do in Minneapolis on this five-day trip? A stroll through Lowry Hill and around the Lake of Isles and a few more memorable meals, that’s what. Lowry Hill is an upscale and midscale residential district directly south of downtown, and I discovered quite a lot of lovely houses with gardens as I walked through it.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis204.jpg "2012minneapolis204")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis204.jpg)
 
@@ -99,7 +99,7 @@ My food was just as good.
 
 That was a spinach frittata, and it was full of surprises. The first was that all the mixings were piled artfully on top of, rather than cooked with, the egg. It was an unusual, but highly successful, frittata arrangement. The spinach and basil were shredded, which made them excellent for forkfuls, and you know you all like the texture of shredded iceberg lettuce. This was like that but with, you know, taste. Then there was the unexpected oven-roasted tomatoes full of warm, bursting flavor. The brie and parmesan added nutty, bold tastes that complimented each bite. I cannot recommend this dish enough. Even the hash browns were unique. The outer crust was perfectly browned, but the inside was almost creamy, and the seasonings were pulled off well, which is a harder feat for hash browns than you’d think. Only complaint? The sourdough bread had very little sour to it.
 
-After that amazing meal, it was off to the Lake of Isles. I was unsatisfied with [my earlier excursion](http://www.thegourmez.com/2012/06/minneapolis-blogging-chain-of-lakes-and-the-skyways/) to the Chain of Lakes, so I wanted to get to the waterfront again, and it’s only a few miles from downtown Minneapolis. I love walking.
+After that amazing meal, it was off to the Lake of Isles. I was unsatisfied with [my earlier excursion](https://thegourmez.com/blog/2012-06-04-minneapolis-blogging-chain-of-lakes-and-the-skyways/) to the Chain of Lakes, so I wanted to get to the waterfront again, and it’s only a few miles from downtown Minneapolis. I love walking.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis224small-1024x74.jpg "2012minneapolis224small")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis224small.jpg)
 
@@ -211,7 +211,7 @@ Of course, I had to try their bloody mary. Some things are just required.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis269.jpg "2012minneapolis269")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis269.jpg)
 
-Props to Minneapolis for unusual bloody mary toppings (remember [the Big Pickle](http://www.thegourmez.com/2011/06/minneapolis-day-3-riverfront-mill-city-museum-and-nick-and-eddie%E2%80%99s/) last year?), but the drink itself was just okay. Nice seasoning-salt rim, though. Ben went healthy for his breakfast, choosing granola, fruit, and yogurt.
+Props to Minneapolis for unusual bloody mary toppings (remember [the Big Pickle](https://thegourmez.com/blog/2011-06-10-minneapolis-day-3-riverfront-mill-city-museum-and-nick-and-eddies/) last year?), but the drink itself was just okay. Nice seasoning-salt rim, though. Ben went healthy for his breakfast, choosing granola, fruit, and yogurt.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis270.jpg "2012minneapolis270")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis270.jpg)
 
@@ -225,7 +225,7 @@ Don’t worry, that’s strawberry preserves, not ketchup served with it. I esch
 
 It comes with sautéed broccoli, onions, moist pulled turkey, and thick, melted swiss cheese stuffed inside the thin egg layer. This is no reinvention of the wheel, but it is absolutely a satisfying breakfast that manages not to venture toward greasy—unless you count the wonderfully gooey cheese of course. Overall, Keys is a great destination for simple American breakfast fare, and I wish I had room for pie.
 
-The reason I didn’t have room, though, was because I knew I wanted to hit the newly opened [Angel’s Food Bakery and Coffee Bar](http://www.angelfoodmn.com/) (86 South 9th St.) before we had to set out for the plane. It’s located right above and connected to Hell’s Kitchen, which had some amazing lemon ricotta pancakes, if you remember from [my previous post](http://www.thegourmez.com/2011/06/minneapolis-day-3-riverfront-mill-city-museum-and-nick-and-eddie%E2%80%99s/). Angel Food did not disappoint.
+The reason I didn’t have room, though, was because I knew I wanted to hit the newly opened [Angel’s Food Bakery and Coffee Bar](http://www.angelfoodmn.com/) (86 South 9th St.) before we had to set out for the plane. It’s located right above and connected to Hell’s Kitchen, which had some amazing lemon ricotta pancakes, if you remember from [my previous post](https://thegourmez.com/blog/2011-06-10-minneapolis-day-3-riverfront-mill-city-museum-and-nick-and-eddies/). Angel Food did not disappoint.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis274.jpg "2012minneapolis274")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis274.jpg)
 

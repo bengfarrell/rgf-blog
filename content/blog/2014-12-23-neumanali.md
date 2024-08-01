@@ -33,7 +33,7 @@ Downtown Hayward\
 [Website](http://www.neumanali.com/)\
 Entrees: $24–$34
 
-Neumanali is one of Hayward's few fine dining restaurants. [Bijou](http://www.thegourmez.com/2013/11/bijou/), just a few blocks up B Street, is the only other one that immediately comes to mind. Neumanali is tucked away by the downtown Hayward BART station in a beautiful Victorian that most people don't even realize is a restaurant as they walk past.
+Neumanali is one of Hayward's few fine dining restaurants. [Bijou](https://thegourmez.com/blog/2013-11-05-bijou/), just a few blocks up B Street, is the only other one that immediately comes to mind. Neumanali is tucked away by the downtown Hayward BART station in a beautiful Victorian that most people don't even realize is a restaurant as they walk past.
 
 ![Neumanali_01](http://s3.amazonaws.com/thegourmez-wpmedia/2014/12/Neumanali_01.jpg)
 

@@ -25,13 +25,13 @@ tags:
   - "winery"
 ---
 
-Back in July, I attended a [wine tasting event](http://www.thegourmez.com/2012/07/virginia-wine-tasting-at-the-angus-barn/) at the Angus Barn promoting wineries from Virginia. It was very informative and a great preparation for [my trip to Charlottesville](http://www.thegourmez.com/2012/07/charlottesville-blogging-downtown-food-and-the-downtown-mall/) a few weeks later. Well, the VA Wine Board was back in town a week and a half ago, and this time they set up in Fox’s Liquor Bar in downtown Raleigh.
+Back in July, I attended a [wine tasting event](https://thegourmez.com/blog/2012-07-09-virginia-wine-tasting-at-the-angus-barn/) at the Angus Barn promoting wineries from Virginia. It was very informative and a great preparation for [my trip to Charlottesville](https://thegourmez.com/blog/2012-07-20-charlottesville-blogging-downtown-food-and-the-downtown-mall/) a few weeks later. Well, the VA Wine Board was back in town a week and a half ago, and this time they set up in Fox’s Liquor Bar in downtown Raleigh.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox021.jpg "VA Wine at Fox02")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox021.jpg)
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox091.jpg "VA Wine at Fox09")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox091.jpg)
 
-Fox is located beneath [Beasley’s Chicken + Honey](http://www.thegourmez.com/2011/09/beasley%E2%80%99s-chicken-honey/), and it’s one of the three new spots opened by Ashley Christiansen last summer. This event was again complimentary and was hosted by Barbara Ensrud of [Be Wine Wise](http://www.bewinewise.com/). I arrived almost at the end of it, so I had to rush my way through those wine tastings, but I was still happy to see a few familiar faces and meet new wine purveyors from Virginia. First, I went to the [Barboursville Vineyards](http://www.barboursvillewine.net/winery/) table, where Brad Beavers of Country Vintner wine consulting was doing the honors.
+Fox is located beneath [Beasley’s Chicken + Honey](https://thegourmez.com/blog/2011-09-26-beasleys-chicken-honey/), and it’s one of the three new spots opened by Ashley Christiansen last summer. This event was again complimentary and was hosted by Barbara Ensrud of [Be Wine Wise](http://www.bewinewise.com/). I arrived almost at the end of it, so I had to rush my way through those wine tastings, but I was still happy to see a few familiar faces and meet new wine purveyors from Virginia. First, I went to the [Barboursville Vineyards](http://www.barboursvillewine.net/winery/) table, where Brad Beavers of Country Vintner wine consulting was doing the honors.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox031.jpg "VA Wine at Fox03")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/VA-Wine-at-Fox031.jpg)
 

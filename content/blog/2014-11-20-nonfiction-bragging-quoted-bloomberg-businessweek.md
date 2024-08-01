@@ -19,7 +19,7 @@ tags:
 
 It's been a while since I've shared a bragging post. This one is courtesy of my being quoted in a [recent _Bloomberg Businessweek_ article](http://www.businessweek.com/articles/2014-10-09/rumchatas-success-is-game-changer-among-cream-liqueurs "RumChata's Success") on the origins and staying power of RumChata.  You may recall that I reviewed RumChata back in 2012, and you can read that review by clicking on the picture.
 
-[![RumChata01](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/RumChata01-200x300.jpg)](http://www.thegourmez.com/2012/11/rumchata/)
+[![RumChata01](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/RumChata01-200x300.jpg)]
 
 What did I have to say about RumChata for _Bloomberg Businessweek_? It's just a quick quote on its versatility:
 

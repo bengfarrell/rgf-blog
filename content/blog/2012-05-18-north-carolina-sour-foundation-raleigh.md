@@ -19,7 +19,7 @@ tags:
 ---
 
 **Foundation**\
-([Past](http://www.thegourmez.com/2011/12/golden-era-foundation/) [Reviews](http://www.thegourmez.com/2011/09/root-beer-flip/))\
+[Past](https://thegourmez.com/blog/2011-12-30-golden-era-foundation/) [Reviews](https://thegourmez.com/blog/2011-09-02-root-beer-flip/)\
 Downtown Raleigh, NC\
 $10
 

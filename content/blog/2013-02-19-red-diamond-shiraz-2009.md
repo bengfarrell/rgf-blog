@@ -21,7 +21,7 @@ tags:
 
 **Region:** Washington State
 
-[![red diamond shiraz](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/red-diamond-shiraz.jpg)](http://www.thegourmez.com/2013/02/red-diamond-shiraz-2009/red-diamond-shiraz/)
+[![red diamond shiraz](http://s3.amazonaws.com/thegourmez-wpmedia/2013/02/red-diamond-shiraz.jpg)]
 
 This Shiraz has the most interesting nose I’ve smelled in a while. It’s full of leather and juicy blackberry. The wine itself is much thinner than expected for a Shiraz, but it’s nicely matured. Blackberry swoops up then is replaced with whipped cream and spices. Pink peppercorn, a hint of anise. It goes down easily, leaving something sweet on your tongue. That leathery nose is absent while sipping.
 

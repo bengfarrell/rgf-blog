@@ -45,7 +45,7 @@ $35 + tax & tip
 [![Parizade’s interior, as whimsical as ever.](http://s3.amazonaws.com/thegourmez-wpmedia/2013/06/Parizade_Medit_Dinenrs14.jpg)](http://www.thegourmez.com/2013/06/prix-fixe-fridays-at-parizade/parizade_medit_dinenrs14/) Parizade’s interior, as whimsical as ever.</div>
 
 
-[The last time I blogged](http://www.thegourmez.com/2007/04/parizade-erwin-square-durham/) about Parizade, a Giorgios Group restaurant, was all the way back in 2007, so I was due for a revisit even if they had not approached me to try out their new prix fixe menu. It’s an insanely good deal for $35 a head. It’s an even better deal if you get to try it for free, so thank you, Parizade, for the opportunity! (Obligatory disclaimer? Check.).
+[The last time I blogged](https://thegourmez.com/blog/2007-04-27-parizade-erwin-square-durham/) about Parizade, a Giorgios Group restaurant, was all the way back in 2007, so I was due for a revisit even if they had not approached me to try out their new prix fixe menu. It’s an insanely good deal for $35 a head. It’s an even better deal if you get to try it for free, so thank you, Parizade, for the opportunity! (Obligatory disclaimer? Check.).
 
 The Prix Fixe special is offered only on Friday nights and only for the summer.  It focuses on one of the Mediterranean countries from which Parizade takes it inspiration at a time. Spain and Morocco have already been highlighted, and June and July entertain Italy’s cuisine. August will focus on Greece in time to celebrate Parizade’s annual Greek festival at the end of the month. Didn’t know Parizade had an annual Greek festival? Neither did I!
 

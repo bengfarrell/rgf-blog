@@ -108,7 +108,7 @@ and eventually reached the Central Avenue Bridge. The view of downtown from it i
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis071.jpg "2012minneapolis071")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/06/2012minneapolis071.jpg)</div>
 
 
-The rest of that day was spent at the amazing Guthrie Theater watching the equally amazing _Amen Corner_ on the Wurtele Thrust Stage. You can catch my blog dedicated to that experience [here](http://www.thegourmez.com/2012/05/minneapolis-blogging-the-guthrie-theater-and-the-amen-corner/). But we are moving on to Day #3 and lunch at [Masa](http://www.masa-restaurant.com/) (1070 Nicollet Avenue), about two blocks from our hotel.
+The rest of that day was spent at the amazing Guthrie Theater watching the equally amazing _Amen Corner_ on the Wurtele Thrust Stage. You can catch my blog dedicated to that experience [here](https://thegourmez.com/blog/2012-05-29-minneapolis-blogging-the-guthrie-theater-and-the-amen-corner/). But we are moving on to Day #3 and lunch at [Masa](http://www.masa-restaurant.com/) (1070 Nicollet Avenue), about two blocks from our hotel.
 
 
 

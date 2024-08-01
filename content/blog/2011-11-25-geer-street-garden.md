@@ -43,7 +43,7 @@ The lack of inside seating is a bit of a pain if you’re looking for a table on
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/geerstgarden01.jpg "geerstgarden01")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/geerstgarden01.jpg)
 
-It hits the spot if you’re looking for a greasy snack late at night, no question. Also good is the Corn ‘N Oil cocktail, [which I reviewed](http://www.thegourmez.com/2011/08/corn-n-oil/) a while back.
+It hits the spot if you’re looking for a greasy snack late at night, no question. Also good is the Corn ‘N Oil cocktail, [which I reviewed](https://thegourmez.com/blog/2011-08-05-corn-n-oil/) a while back.
 
 [![](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/geerstgarden02.jpg "geerstgarden02")](http://s3.amazonaws.com/thegourmez-wpmedia/2011/11/geerstgarden02.jpg)
 

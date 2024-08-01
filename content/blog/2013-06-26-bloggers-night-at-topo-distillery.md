@@ -52,7 +52,7 @@ tags:
 ![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/11/TerraVita2012134.jpg) Entrance to the distillery.</div>
 
 
-Back in the fall, I spent a few days at [TOPO Distillery's](http://topodistillery.com/) facilities as part of the [Terra VITA Sustainable Classroom](http://www.thegourmez.com/2012/12/the-sustainable-classroom-3-the-cultivation-and-culinary-possibilities-of-figs/). It was a strange sort of torture being so close to their organic, 99.6% local (more on that later) array of spirits that includes white whiskey, vodka, and gin. So I asked Esteban McMahan, TOPO's spirit guide, if he wouldn't mind hosting a tour and tasting for food bloggers in the Triangle. And he said yes!
+Back in the fall, I spent a few days at [TOPO Distillery's](http://topodistillery.com/) facilities as part of the [Terra VITA Sustainable Classroom](https://thegourmez.com/blog/2012-12-14-the-sustainable-classroom-3-the-cultivation-and-culinary-possibilities-of-figs/). It was a strange sort of torture being so close to their organic, 99.6% local (more on that later) array of spirits that includes white whiskey, vodka, and gin. So I asked Esteban McMahan, TOPO's spirit guide, if he wouldn't mind hosting a tour and tasting for food bloggers in the Triangle. And he said yes!
 
 [![TOPO_tour_03](http://s3.amazonaws.com/thegourmez-wpmedia/2013/06/TOPO_tour_03-500x332.jpg)](http://www.thegourmez.com/2013/06/bloggers-night-at-topo-distillery/topo_tour_03/)
 

@@ -23,7 +23,7 @@ tags:
 [![jordan winery, picnic, charcuterie](https://thegourmez-wpmedia.s3.amazonaws.com/2019/04/2017-6-13-Jordan-Winery-Summer-Picnic-Charcuterie-Chardonnay-FULL-SIZE-0540-500x334.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2019/04/2017-6-13-Jordan-Winery-Summer-Picnic-Charcuterie-Chardonnay-FULL-SIZE-0540.jpg) Photo via Jordan Winery</div>
 
 
-Jordan Vineyard & Winery has an impressive array of events lined up for the spring and summer of 2019. I've only visited the Healdsburg-based estate once, for their [caviar and cabernet sauvignon tasting seminar](https://thegourmez.com/2018/08/27/caviar-cabernet-sauvignon-jordan-winery-pairing/) during the 2017 Wine Bloggers Conference. But I've visited their chardonnays, cabernets, and sparkling wines many times in the glass.
+Jordan Vineyard & Winery has an impressive array of events lined up for the spring and summer of 2019. I've only visited the Healdsburg-based estate once, for their [caviar and cabernet sauvignon tasting seminar](https://thegourmez.com/blog/2018-08-27-caviar-cabernet-sauvignon-jordan-winery-pairing/) during the 2017 Wine Bloggers Conference. But I've visited their chardonnays, cabernets, and sparkling wines many times in the glass.
 
 
 

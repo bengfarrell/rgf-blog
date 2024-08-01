@@ -30,7 +30,7 @@ This qualifies as the second echelon of burger joints, the ones classed up enoug
 
 [![Red_Rockeet_Char_Grill_004](http://s3.amazonaws.com/thegourmez-wpmedia/2014/09/Red_Rockeet_Char_Grill_004-500x378.jpg)](http://www.thegourmez.com/2014/10/burger-joints-of-hayward-3-red-rocket-char-grill/red_rockeet_char_grill_004/)
 
-Red Rocket’s red-and-black checker design, complete with a tiled mosaic wall in back, is assuredly more inviting than my [first](http://www.thegourmez.com/2014/07/burger-joints-of-hayward-1-14-lb-giant-burger/#more-8435) [two](http://www.thegourmez.com/2014/07/burger-joints-of-hayward-2-best-burger/) stops. But it comes with a black mark from my husband; he swears it takes far too long for a fast food restaurant. So I’m counting the minutes from order placed to order up.
+Red Rocket’s red-and-black checker design, complete with a tiled mosaic wall in back, is assuredly more inviting than my [first](https://thegourmez.com/blog/2014-07-25-burger-joints-of-hayward-1-14-lb-giant-burger/) [two](https://thegourmez.com/blog/2014-07-29-burger-joints-of-hayward-2-best-burger/) stops. But it comes with a black mark from my husband; he swears it takes far too long for a fast food restaurant. So I’m counting the minutes from order placed to order up.
 
 14.
 

@@ -25,7 +25,7 @@ tags:
 
 ![crowdpleazin_1](http://s3.amazonaws.com/thegourmez-wpmedia/2015/01/crowdpleazin_1-333x500.jpg)
 
-Crowdpleazin is a fantastic, affordable option from celebrated winemakers Ken Deis and Derek Rohlffs. It's manufactured under the NakedWines.Com label, which I've talked about in the past, although it's been a bit since [my last review](http://www.thegourmez.com/2014/12/intertwine-merlot-2013/). I'm also an [affiliate with NakedWines.Com](http://www.thegourmez.com/2014/09/naked-wines-advertising/) for full disclosure purposes.
+Crowdpleazin is a fantastic, affordable option from celebrated winemakers Ken Deis and Derek Rohlffs. It's manufactured under the NakedWines.Com label, which I've talked about in the past, although it's been a bit since my last review). I'm also an [affiliate with NakedWines.Com](https://thegourmez.com/blog/2014-09-18-naked-wines-advertising/) for full disclosure purposes.
 
 Being an affiliate doesn't mean I've enjoyed every NakedWines.Com bottle I've tried. That said, Crowdpleazin is my favorite find thus far from the site.
 

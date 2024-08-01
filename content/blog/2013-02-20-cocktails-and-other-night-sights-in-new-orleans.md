@@ -44,7 +44,7 @@ tags:
 
 [![becca_bourbon](http://s3.amazonaws.com/thegourmez-wpmedia/2013/01/becca_bourbon.jpg)](http://www.thegourmez.com/2013/02/cocktails-and-other-night-sights-in-new-orleans/becca_bourbon/)
 
-[Last time,](http://www.thegourmez.com/2013/02/eats-and-night%E2%80%A6in-new-orleans) we covered the bevy of food I ate after dark in New Orleans. In this post, we'll take a look at all the tantalizing libations Ben and I imbibed in the Big Easy in early December. You may question this claim by the end, but I swear we weren't drinking at all times. Sometimes, we were walking. Walking off-kilter, but walking nonetheless.
+[Last time,](https://thegourmez.com/blog/2013-02-08-eats-and-night-sights-in-new-orleans/) we covered the bevy of food I ate after dark in New Orleans. In this post, we'll take a look at all the tantalizing libations Ben and I imbibed in the Big Easy in early December. You may question this claim by the end, but I swear we weren't drinking at all times. Sometimes, we were walking. Walking off-kilter, but walking nonetheless.
 
 It was Saturday evening when we arrived in New Orleans, and there were surprisingly few people around. We began our journey in the Central Business District.
 

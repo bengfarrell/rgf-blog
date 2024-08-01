@@ -25,7 +25,7 @@ tags:
   - "tang"
 ---
 
-Last winter [I tried Noodles & Company’s seasonal additions](http://www.thegourmez.com/2012/04/mac-and-cheese-at-noodles-company/) to their macaroni and cheese menu, a task that I took up with gusto. Their seasonal items are lighter fare for the summer: a trio of salads. I was again invited to try them for free and share with you, my lovely readership, my thoughts on the new items. Let’s go from worst to best, shall we?
+Last winter [I tried Noodles & Company’s seasonal additions](https://thegourmez.com/blog/2012-04-30-mac-and-cheese-at-noodles-company/) to their macaroni and cheese menu, a task that I took up with gusto. Their seasonal items are lighter fare for the summer: a trio of salads. I was again invited to try them for free and share with you, my lovely readership, my thoughts on the new items. Let’s go from worst to best, shall we?
 
 Salad #1 is the Chili-Lime Ginger Salad.
 
