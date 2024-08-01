@@ -12,15 +12,15 @@ tags:
 
 ---
 
+# The 411 on Blue Crown Bistro
+
 *Address:*\
 1061 B Street\
 Hayward, CA\
 *Website:* <https://www.blue-crown-bistro.com/>\
 *Phone:* 510-274-5585
 
-# The 411 on Blue Crown Bistro
-
-Blue Crown Bistro is the third business I’ve seen in this downtown Hayward location, the most recent one prior being a beer bar that served up very dry sausages—Blue Crown Bistro has them beat there as my husband enjoyed his sausage dog at BCB more than at the last restaurant in this space!
+Blue Crown Bistro is the third business I’ve seen in this downtown Hayward location. [The previous one](https://thegourmez.com/blog/2016-05-12-brews-brats-review-hayward/) served up very dry sausages—Blue Crown Bistro has improved on that dish! My husband enjoyed his sausage dog at BCB more than at the last restaurant in this space!
 
 ![blue crown sausage](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/Blue-Crown+(3).jpg)
 
