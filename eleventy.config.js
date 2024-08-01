@@ -22,20 +22,12 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter('sidebarSelector', categories => {
-		if (haveCommonItems(categories, ['restaurants', 'ice-cream-parlors', 'bakeries', 'food-trucks'])) {
-			return 'dining-out';
-		}
-
-		if (haveCommonItems(categories, ['coffee-shop', 'bakeries'])) {
+		if (haveCommonItems(categories, ['coffee-shops', 'bakeries'])) {
 			return 'cafe';
 		}
 
 		if (haveCommonItems(categories, ['spirits'])) {
 			return 'spirits';
-		}
-
-		if (haveCommonItems(categories, ['wine'])) {
-			return 'wine';
 		}
 
 		if (haveCommonItems(categories, ['tasting-rooms', 'breweries', 'distilleries' ])) {
@@ -46,8 +38,16 @@ module.exports = function(eleventyConfig) {
 			return 'nightlife-cocktails';
 		}
 
-		if (haveCommonItems(categories, ['travel-guide'])) {
+		if (haveCommonItems(categories, ['travel-guides'])) {
 			return 'travelogues';
+		}
+
+		if (haveCommonItems(categories, ['restaurants', 'ice-cream-parlors', 'bakeries', 'food-trucks'])) {
+			return 'dining-out';
+		}
+
+		if (haveCommonItems(categories, ['wine'])) {
+			return 'wine';
 		}
 
 		return 'default';
