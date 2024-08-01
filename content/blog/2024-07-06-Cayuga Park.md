@@ -14,7 +14,7 @@ tags:
 _Lower Entrance_\
 301 Naglee Ave
 
-_Upper Entrance\
+_Upper Entrance_\
 Roughly 2720 Alemany Blvd\
 San Francisco, CA
 
