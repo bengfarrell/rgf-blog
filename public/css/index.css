@@ -615,7 +615,7 @@ blockquote {
 	border-radius: 15px;
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-device-width: 490px) {
 	#page-container {
 		flex-direction: column;
 		padding: 0.5em;
