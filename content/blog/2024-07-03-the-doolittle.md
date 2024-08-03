@@ -11,12 +11,12 @@ tags:
 
 ---
 
+# The 411 on The Doolittle
+
 *Address:* 20394 Lake Chabot Rd\
 Castro Valley, CA\
 *Website:* <https://www.thedoolittlebar.com/>\
 *Phone*: 510-581-2405
-
-# The 411 on The Doolittle
 
 I didn’t realize how new this bar was when I lived in Hayward the first time! It opened in 2013, so has just reached a decade of service. 
 

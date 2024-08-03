@@ -16,14 +16,14 @@ tags:
 
 ---
 
+[![macs by icky storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(2).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(2).jpg)
+
+# The 411 on Macs by Icky
+
 *Address:* 3900 Smith Street\
 Union City, CA\
 *Website:* <https://www.instagram.com/macs.by.icky/>\
 Be sure to check the Instagram above for current hours
-
-[![macs by icky storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(2).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(2).jpg)
-
-# The 411 on Macs by Icky
 
 *The Vibe:* I've seen a couple other coffee shops in this space now, and Macs by Icky has made it their own!
 

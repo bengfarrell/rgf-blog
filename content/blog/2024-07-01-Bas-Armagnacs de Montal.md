@@ -13,10 +13,10 @@ tags:
 
 ![bas armagnac](https://thegourmez.netlify.app/img/sections/spirits.jpg)
 
+# The 411 on de Montal Armagnac
+
 *Region:* Gascony, France\
 *Alcohol Content:* 40%
-
-# The 411 on de Montal Armagnac
 
 For my birthday last year, my husband bought me a flight of vintage Bas-Armagnac de Montal. _Armagnac_ is a brandy, better understood as a grape-based spirit, made from the Armagnac region. Bas-Armagnac is the most westerly subregion of Armagnac. The de Montal vineyards reside on the subregion’s borderlands.
 

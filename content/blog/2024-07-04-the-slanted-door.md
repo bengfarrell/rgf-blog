@@ -12,15 +12,15 @@ tags:
   - "review"
 
 ---
+![slanted door bok choy](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/slanted-door-8.jpg)
+
+# The 411 on The Slanted Door
+
 
 *Address:* 6000 Bollinger Canyon Rd\
 City Center Bishop Ranch\
 San Ramon, CA\
 [*Website*](https://slanteddoor.com/sanramon)
-
-![slanted door bok choy](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/slanted-door-8.jpg)
-
-# The 411 on The Slanted Door
 
 The Slanted Door is a chain of upscale modern Vietnamese restaurants that offers re-imagined tiki cocktails for their drinks menu. They’ve been much acclaimed since the first restaurant opened in 1994. In 2014, they won Outstanding Restaurant from the James Beard Awards.
 
