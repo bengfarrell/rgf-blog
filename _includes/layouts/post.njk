@@ -2,29 +2,16 @@
 layout: layouts/base.njk
 ---
 
-<div id="page-container">
-	<div id="page-content">
-		<h1>{{ title }}</h1>
-
-		<ul class="post-metadata">
-			<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-		</ul>
-
-		<article data-pagefind-body>
-			<ul style="display:none">
-				<li data-pagefind-sort="date">{{ page.date | htmlDateString }}</li>
-				{%- for tag in tags | filterTagList %}
-				<li data-pagefind-meta="tag">{{ tag }}</li>
-				{%- endfor %}
-
-				{%- for category in categories | filterCategoryList %}
-				<li data-pagefind-meta="category">{{ category }}</li>
-				{%- endfor %}
-				<li data-pagefind-meta="title" style="display:none">{{ title }}</li>
-				<li><time data-pagefind-meta="date:{{ page.date | htmlDateString }}" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-			</ul>
-
-		{{ content | safe }}
+<div id="container" class="row">
+	<div id="primary" class="large-7 medium-9 small-11 small-centered columns">
+		<article class="articlebox post-1505 page type-page status-publish hentry">
+			<header class="entry-header entry-header-single">
+				<h1 class="entry-title">{{ title }}</h1>
+				<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+			</header>
+			<div class="entry-content">
+				{{ content | safe }}
+			</div><!-- .entry-content -->
 		</article>
 
 		{%- if collections.posts %}
@@ -37,11 +24,6 @@ layout: layouts/base.njk
 		</ul>
 		{%- endif %}
 		{%- endif %}
-	</div>
-	<div id="sidebar">
-		<div class="sidebar-content">
-			{%- set sideBarToRender = categories | sidebarSelector %}
-			{% renderFile "./content/sidebars/" + sideBarToRender + ".md" %}
-		</div>
-	</div>
+	</div><!-- #primary -->
+
 </div>
