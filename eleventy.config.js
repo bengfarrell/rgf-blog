@@ -21,69 +21,14 @@ module.exports = function(eleventyConfig) {
 		execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
 	});
 
-	eleventyConfig.addFilter('sidebarSelector', categories => {
-		if (haveCommonItems(categories, ['coffee-shops', 'bakeries'])) {
-			return 'cafe';
-		}
-
-		if (haveCommonItems(categories, ['spirits'])) {
-			return 'spirits';
-		}
-
-		if (haveCommonItems(categories, ['tasting-rooms', 'breweries', 'distilleries' ])) {
-			return 'tasting-rooms';
-		}
-
-		if (haveCommonItems(categories, ['bars', 'wine-bars'])) {
-			return 'nightlife-cocktails';
-		}
-
-		if (haveCommonItems(categories, ['travel-guides'])) {
-			return 'travelogues';
-		}
-
-		if (haveCommonItems(categories, ['restaurants', 'ice-cream-parlors', 'bakeries', 'food-trucks'])) {
-			return 'dining-out';
-		}
-
-		if (haveCommonItems(categories, ['wine'])) {
-			return 'wine';
-		}
-
-		return 'default';
-	});
-
-	eleventyConfig.addFilter("filterByTags", function(collection=[], ...requiredTags) {
-		return collection.filter(post => {
-		  return requiredTags.flat().every(tag => post.data.tags.includes(tag));
+	// Tags
+	eleventyConfig.addCollection('tagList', collection => {
+		const tagsSet = new Set();
+		collection.getAll().forEach(item => {
+			if (!item.data.tags) return;
+			item.data.tags.filter(tag => !['posts', 'all'].includes(tag)).forEach(tag => tagsSet.add(tag));
 		});
-	});
-
-	eleventyConfig.addFilter("filterByCommonCategories", function(collection = [], ...requiredCategories) {
-		const filtered = collection.filter(post => {
-			return haveCommonItems(post.data.categories, requiredCategories.flat());
-		});
-		return filtered;
-	});
-
-	eleventyConfig.addFilter("filterByAllRequiredCategories", function(collection = [], ...requiredCategories) {
-		const filtered = collection.filter(post => {
-			let hasAllCategories = true;
-			requiredCategories.flat().forEach(category => {
-				if (!post.data.categories.includes(category)) {
-					hasAllCategories = false;
-				}
-			});
-			return hasAllCategories;
-		});
-		return filtered;
-	});
-
-	eleventyConfig.addFilter("filterByCommonTags", function(collection = [], ...requiredTags) {
-		const filtered = collection.filter(post => {
-			return haveCommonItems(post.data.tags, requiredTags.flat());
-		});
-		return filtered;
+		return Array.from(tagsSet).sort();
 	});
 
 	// Copy the contents of the `public` folder to the output folder
@@ -146,14 +91,6 @@ module.exports = function(eleventyConfig) {
 			(item.data.tags || []).forEach(tag => tagSet.add(tag));
 		}
 		return Array.from(tagSet);
-	});
-
-	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
-		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
-	});
-
-	eleventyConfig.addFilter("filterCategoryList", function filterCategoryList(cats) {
-		return (cats || []).filter(cat => ["categories"].indexOf(cat) === -1);
 	});
 
 	// Customize Markdown library settings:
@@ -238,10 +175,4 @@ function extractFirstImage(doc) {
 	}
 
 	return '/img/logo-no-imagefound.svg';
-}
-
-const haveCommonItems = (arr1, arr2) => {
-	const set1 = new Set(arr1);
-	const commonItems = arr2.filter(item => set1.has(item));
-	return commonItems.length > 0;
 }

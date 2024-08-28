@@ -1,24 +1,59 @@
----
-layout: layouts/home.njk
+---js
+{
+	layout: "layouts/base.njk",
+	pagination: {
+		data: "collections.posts",
+		alias: "postslist",
+		reverse: true,
+		size: 10
+	},
+	permalink: "{{ page.fileSlug }}/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+}
 ---
 
-<div id="container" class="row">
-	<div id="primary" class="large-7 medium-9 small-11 small-centered columns">
-		<article class="articlebox post-1681 page type-page status-publish hentry">
-			<header class="entry-header entry-header-single">
-				<h1 class="entry-title">
-					<img width="150" height="150" src="/images/benvector.svg"/>				</h1>
-			</header>
-			<div class="entry-content">
-				<p><span class="big-text">I work as a Prototyper on the<a href="https://adobe.design" target="_blank" rel="noopener"><img class="alignnone" src="/images/ad.gif" alt="Adobe Design" width="58" height="53"/></a>Prototyping Team. I create stuff with a lot of different tools and languages, but the web is my favorite. I&#8217;m writing a<a href="https://www.manning.com/books/web-components-in-action" target="_blank" rel="noopener"><img loading="lazy" class="alignnone wp-image-1693" src="/images/book.gif" alt="book" width="68" height="60"/></a>on Web Components, due out in Summer 2019. Over the past 20 years, I&#8217;ve worked on some<a href="/awards/" target="_blank" rel="noopener"><img loading="lazy" class="alignnone wp-image-1693" src="/images/trophy.gif" alt="book" width="45" height="70"/></a>winning projects with Adobe, various startups, and creative agencies.</span></p>
-				<p><span class="big-text"><br/>
-I live in the East Bay of California with my sci-fi/fantasy<a href="https://rebeccagomezfarrell.com/" target="_blank" rel="noopener"><img loading="lazy" class="alignnone" src="/images/writing.gif" alt="Writing" width="59" height="50"/></a>wife and two cats.</span></p>
-				<p><span class="big-text"><br/>
-You can find me on YouTube with my <a href="https://www.youtube.com/channel/UCXY-odXhkpetvbK0GOEqZNw" target="_blank" rel="noopener">Web Components in Space</a> channel.<br/>
-</span></p>
-				<div class="otw-row"></div>				</div><!-- .entry-content -->
-		</article>
-	</div><!-- #primary -->
+{% for post in postslist %}
+<article class="post type-post status-publish format-standard hentry category-announcements category-events tag-foodie-picks tag-glasgow tag-worldcon">
+	<h1 class="entry-title">
+		<a href="{{ post.url }}" title="{{ post.data.title }}" rel="bookmark">{{ post.data.title }}</a>
+	</h1>
+	<h2 class="entry-meta"></h2>
 
-</div> <!-- #container -->
+	<div class="entry-content">
+		{{ post.templateContent | safe }}
+	</div>
+</article>
+{% endfor %}
+
+<div id="pagination"><div class="total-pages">Page {{pagination.pageNumber+1}} of {{pagination.pages.length}}</div>
+
+{% if pagination.pageNumber != 0 %}
+	<a class="previous page-numbers" href="{{ pagination.href.previous }}">&laquo;</a>
+{% endif %}
+
+{% if pagination.pageNumber > 2 %}
+	<a class="page-numbers" href="{{ pagination.hrefs[0] }}">1</a>
+	<span class="page-numbers dots">&hellip;</span>
+{% endif %}
+
+{%- for pageEntry in pagination.pages %}
+	{% if (loop.index0 - pagination.pageNumber)|abs < 2 %}
+		{% if page.url == pagination.hrefs[ loop.index0 ] %}
+			<span aria-current="page" class="page-numbers current">{{ loop.index }}</span>
+		{% else %}
+			<a class="page-numbers" href="{{ pagination.hrefs[ loop.index0 ] }}">{{ loop.index }}</a>
+		{% endif %}
+	{% endif %}
+{%- endfor %}
+
+{% if pagination.pages.length - pagination.pageNumber > 2 %}
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="{{ pagination.hrefs[pagination.pages.length -1] }}">{{ pagination.pages.length }}</a>
+{% endif %}
+
+{% if pagination.pageNumber != pagination.pages.length -1 %}
+	<a class="next page-numbers" href="{{ pagination.href.next }}">&raquo;</a>
+{% endif %}
+
+</div>
+
 
