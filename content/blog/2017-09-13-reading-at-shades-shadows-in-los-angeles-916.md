@@ -1,5 +1,5 @@
 ---
-title: "Reading at Shades &amp; Shadows in Los Angeles 9/16!"
+title: "Reading at Shades & Shadows in Los Angeles 9/16!"
 date: "2017-09-13"
 categories:
   - "appearances"

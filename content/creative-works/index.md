@@ -1,11 +1,12 @@
 ---
 title: "Creative"
 date: "2012-10-02"
+layout: layouts/post.njk
 ---
 
 This is my published creative oeuvre thus far. I'm a fantasy, horror, science fiction, and romance author, and I also publish the occasional personal essay and nonfiction piece. Some are online for free; some you must shell out a few bucks for. Click on the links below for details about each piece. The order of listing is reverse chronology by publication date.
 
-- [_Wings Unfurled_](/blog/2021/03/30/wings-unfurled-meerkat-press-2022/), the sequel to epic fantasy [_Wings Unseen_](/creative-works/wings-unseen/), from Meerkat Press. **COMING DECEMBER 2022.**
+- [_Wings Unfurled_](/blog/2021-03-30-wings-unfurled-meerkat-press-2022/), the sequel to epic fantasy [_Wings Unseen_](/creative-works/wings-unseen/), from Meerkat Press. **COMING DECEMBER 2022.**
 - [You Understand](/creative-works/you-understand/), a horror short story in Villains and Vengeance, an anthology to benefit Sirens Con. **[BUY HERE](https://www.amazon.com/Villains-Vengeance-Sirens-Benefit-Anthology-ebook/dp/B09FDYS3SD).**
 - [Fresh Catch of the Day](/creative-works/fresh-catch-day/), a flash fantasy short story in _A Quiet Afternoon 2_ anthology from Grace&Victory Publications. **[BUY HERE](https://payhip.com/b/LqAfQ).**
 - [She Could Be Me](/creative-works/she-could-be-me/), a flash horror short story to be reprinted by _Bards and Sages Quarterly_. **[BUY HERE](https://www.amazon.com/dp/B091DWHD2K).**

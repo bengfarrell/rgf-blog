@@ -11,7 +11,7 @@ layout: layouts/base.njk
 
 	<header class="entry-header entry-header-single">
 		<h1 class="entry-title">{{ title }}</h1>
-		<h2 class="entry-meta"></h2>
+		<h2 class="entry-meta"><time data-pagefind-meta="date:{{ page.date | htmlDateString }}" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></h2>
 	</header>
 	<div class="entry-content">
 		{{ content | safe }}
