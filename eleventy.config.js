@@ -165,6 +165,10 @@ function extractFirstImage(doc) {
 
 	const content = doc.templateContent;
 
+	if (doc.data.coverImage) {
+		return doc.data.coverImage;
+	}
+
 	if (content.includes('<img')) {
 		const imgTagBegin = content.indexOf('<img');
 		const imgTagEnd = content.indexOf('>', imgTagBegin);
