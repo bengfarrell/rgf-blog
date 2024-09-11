@@ -10,19 +10,19 @@
 	<link rel="pingback" href="https://rebeccagomezfarrell.com/xmlrpc.php"/>
 	<meta name='robots' content='max-image-preview:large'/>
 
-	<meta name="description" content="Writer of Fictions and Strong Leisure-Time Opinions"/>
-	<link rel="canonical" href="https://rebeccagomezfarrell.com/"/>
-	<link rel="next" href="https://rebeccagomezfarrell.com/page/2/"/>
+	<meta name="description" content="{{ description or metadata.description }}"/>
+	<link rel="canonical" href="https://rebeccagomezfarrell.com{{ page.url or metadata.url }}"/>
 	<meta property="og:locale" content="en_US"/>
 	<meta property="og:type" content="website"/>
-	<meta property="og:title" content="Rebecca Gomez Farrell - Writer of Fictions and Strong Leisure-Time Opinions"/>
-	<meta property="og:description" content="Writer of Fictions and Strong Leisure-Time Opinions"/>
-	<meta property="og:url" content="https://rebeccagomezfarrell.com/"/>
+	<meta property="og:title" content="{{ title or metadata.title }}"/>
+	<meta property="og:description" content="{{ description or metadata.description }}"/>
+	<meta property="og:url" content="https://rebeccagomezfarrell.com{{ page.url or metadata.url }}"/>
 	<meta property="og:site_name" content="Rebecca Gomez Farrell"/>
+	<meta property="og:image" content="{{ coverImage or metadata.image }}" />
 	<meta name="twitter:card" content="summary_large_image"/>
-	<meta name="twitter:description" content="Writer of Fictions and Strong Leisure-Time Opinions"/>
-	<meta name="twitter:title" content="Rebecca Gomez Farrell - Writer of Fictions and Strong Leisure-Time Opinions"/>
-	<script type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"https://rebeccagomezfarrell.com/#website","url":"https://rebeccagomezfarrell.com/","name":"Rebecca Gomez Farrell","potentialAction":{"@type":"SearchAction","target":"https://rebeccagomezfarrell.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+	<meta name="twitter:description" content="{{ description or metadata.description }}"/>
+	<meta name="twitter:title" content="{{ title or metadata.title }}"/>
+	<meta name="twitter:image" content="{{ coverImage or metadata.image }}" />
 
 	<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
 	<link rel='dns-prefetch' href='//s.w.org'/>
