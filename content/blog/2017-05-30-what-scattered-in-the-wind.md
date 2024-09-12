@@ -1,5 +1,5 @@
 ---
-title: "My Next Reading &amp; Story: \"What Scattered in the Wind\""
+title: "My Next Reading & Story: \"What Scattered in the Wind\""
 date: "2017-05-30"
 categories:
   - "appearances"

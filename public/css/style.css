@@ -1616,3 +1616,18 @@ a img.aligncenter {
 	#post-0 .entry-title{font-size:440%}
 	#post-0 .entry {font-size:150%}
 }
+
+a.header-anchor {
+	display: none;
+}
+
+article p video,
+article p img {
+	max-width: 500px;
+	max-height: 500px;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 15px;
+}
+

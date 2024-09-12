@@ -1,10 +1,10 @@
 ---
-title: "Food, Drink, &amp; Travel Blogging Has Moved!"
+title: "Food, Drink, & Travel Blogging Has Moved!"
 date: "2015-06-09"
-categories: 
+categories:
   - "announcements"
   - "writing"
-tags: 
+tags:
   - "blogging"
   - "drink"
   - "fiction"
