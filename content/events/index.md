@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "Events"
 layout: layouts/page.njk
 ---
 
 
-zdzddzdz
+sdfdfdsdsfsd

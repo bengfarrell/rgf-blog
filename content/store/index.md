@@ -1,7 +1,6 @@
 ---
-title: "About"
+title: "Store"
 layout: layouts/page.njk
 ---
 
-
-zdzddzdz
+xfxxfff
