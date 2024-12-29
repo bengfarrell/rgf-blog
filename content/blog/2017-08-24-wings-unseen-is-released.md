@@ -6,6 +6,7 @@ categories:
   - "appearances"
   - "publication-news"
   - "wings-unseen"
+  - "recorded"
 tags:
   - "book"
   - "epic-fantasy"

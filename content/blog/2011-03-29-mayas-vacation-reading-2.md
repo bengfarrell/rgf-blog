@@ -5,6 +5,7 @@ categories:
   - "appearances"
   - "events"
   - "writing"
+  - "recorded"
 tags:
   - "astraea-press"
   - "book-launch"

@@ -6,6 +6,7 @@ categories:
   - "appearances"
   - "events"
   - "writing"
+  - "recorded"
 tags: 
   - "750000-of-your-friends-like-this"
   - "alex-granados"

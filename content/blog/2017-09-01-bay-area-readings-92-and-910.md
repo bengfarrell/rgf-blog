@@ -4,6 +4,7 @@ date: "2017-09-01"
 categories:
   - "appearances"
   - "wings-unseen"
+  - "recorded"
 tags:
   - "american-bookbinders-museum"
   - "appearances"

@@ -6,6 +6,7 @@ categories:
   - "appearances"
   - "events"
   - "writing"
+  - "recorded"
 tags: 
   - "bother"
   - "bull-spec"

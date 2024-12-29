@@ -5,6 +5,7 @@ categories:
   - "announcements"
   - "appearances"
   - "writing"
+  - "recorded"
 tags:
   - "cannery-row"
   - "fourth-grade"

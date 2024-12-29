@@ -3,6 +3,7 @@ title: "Video: \"She Could Be Me\" and \"Fresh Catch of the Day\" at Story Hour!
 date: "2021-07-07"
 categories:
   - "appearances"
+  - "recorded"
 tags:
   - "fantasy"
   - "fresh-catch-of-the-day"
