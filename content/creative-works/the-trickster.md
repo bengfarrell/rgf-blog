@@ -1,6 +1,8 @@
 ---
 title: "The Trickster"
 date: "2012-10-01"
+categories:
+  - "essays"
 layout: layouts/post.njk
 ---
 

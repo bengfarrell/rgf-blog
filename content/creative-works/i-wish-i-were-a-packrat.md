@@ -1,6 +1,8 @@
 ---
 title: "I Wish I Were A Packrat"
 date: "2012-10-01"
+categories:
+  - "essays"
 layout: layouts/post.njk
 ---
 

@@ -5,6 +5,7 @@ categories:
   - "announcements"
   - "publication-news"
   - "writing"
+  - "essays"
 tags:
   - "cat-rage"
   - "computer-crash"

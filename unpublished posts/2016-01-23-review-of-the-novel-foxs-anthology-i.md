@@ -3,6 +3,7 @@ title: "Review of the Novel Fox's Anthology I"
 date: "2016-01-23"
 categories:
   - "book-reviews-writing"
+  - "reviews"
 tags:
   - "anthology"
   - "book-review"

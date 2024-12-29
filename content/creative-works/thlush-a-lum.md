@@ -1,6 +1,8 @@
 ---
 title: "Thlush-a-Lum"
 date: "2014-09-04"
+categories:
+  - "short-stories"
 layout: layouts/post.njk
 ---
 

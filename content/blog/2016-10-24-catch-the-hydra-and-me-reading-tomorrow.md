@@ -4,6 +4,7 @@ date: "2016-10-24"
 categories:
   - "announcements"
   - "writing"
+  - "events"
 tags:
   - "halloween"
   - "horror"
