@@ -21,6 +21,76 @@ module.exports = function(eleventyConfig) {
 		execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
 	});
 
+	eleventyConfig.addCollection('books', collection => {
+		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('books'));
+	});
+
+	eleventyConfig.addCollection('short-stories', collection => {
+		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('short-stories'));
+	});
+
+	eleventyConfig.addCollection('anthologies', collection => {
+		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('anthologies'));
+	});
+
+	eleventyConfig.addCollection('events', collection => {
+		return collection.getAll().filter(item => item.data.categories && (
+			item.data.categories.includes('reading') ||
+			item.data.categories.includes('readings') ||
+			item.data.categories.includes('appearances') ||
+			item.data.categories.includes('events')));
+	});
+
+	eleventyConfig.addCollection('events-recorded', collection => {
+		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('events') && item.data.categories.includes('recorded'));
+	});
+
+	eleventyConfig.addCollection('writing-thoughts', collection => {
+		return collection.getAll().filter(item =>
+			item.data.categories &&
+			item.data.categories.includes('writing-thoughts'));
+	});
+
+	eleventyConfig.addCollection('interviews', collection => {
+		return collection.getAll().filter(item =>
+			item.data.categories &&
+			(item.data.categories.includes('guest-post') ||
+			item.data.categories.includes('blog-tour') ||
+			item.data.categories.includes('interviews')));
+	});
+
+	eleventyConfig.addCollection('archive', collection => {
+		return collection.getAll().filter(item =>
+			item.data.categories &&
+			(item.data.categories.includes('announcements') ||
+			item.data.categories.includes('blog-tour') ||
+			item.data.categories.includes('publication-news')));
+	});
+
+	eleventyConfig.addCollection('misc', collection => {
+		return collection.getAll().filter(item =>
+			item.data.categories &&
+			item.data.categories.includes('misc'))
+	});
+
+	eleventyConfig.addCollection('reviews', collection => {
+		return collection.getAll().filter(item =>
+			item.data.categories &&
+			item.data.categories.includes('reviews'))
+	});
+
+	eleventyConfig.addCollection('essays', collection => {
+		return collection.getAll().filter(item =>
+			item.data.categories &&
+			item.data.categories.includes('essays') &&
+			item.data.categories.includes('television'))
+	});
+
+
+	eleventyConfig.addFilter("eventTime", (dateString) => {
+		return DateTime.fromJSDate(new Date(dateString), { zone: 'utc' }).toFormat('MM-dd-yyyy');
+	});
+
 	// Tags
 	eleventyConfig.addCollection('tagList', collection => {
 		const tagsSet = new Set();
@@ -68,15 +138,16 @@ module.exports = function(eleventyConfig) {
 	});
 
 	// Get the first `n` elements of a collection.
-	eleventyConfig.addFilter("head", (array, n) => {
+	eleventyConfig.addFilter("head", (array, n, reverse) => {
 		if(!Array.isArray(array) || array.length === 0) {
 			return [];
 		}
+
 		if( n < 0 ) {
-			return array.slice(n);
+			return reverse ? array.slice(n).reverse() : array.slice(n);
 		}
 
-		return array.slice(0, n);
+		return reverse ? array.slice(0, n).reverse() : array.slice(0, n);
 	});
 
 	// Return the smallest number argument

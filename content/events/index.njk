@@ -1,0 +1,80 @@
+---js
+{
+	layout: "layouts/home.njk"
+}
+---
+
+<p>
+	Design first two headings similar to boxes with details on https://ta-nehisicoates.com/events/
+</p>
+
+<p>Boxes will link to Event posts, all under the category of "events" "reading" "readings" or "appearances".</p>
+
+<p>Left-aligned photo at top:</p>
+
+<p>Shades crop</p>
+
+<p>Caption: Shades and Shadows Reading, 2017. Photo credit: One More Bites Blog</p>
+
+<h1 id="upcoming-header" style="display: none">Upcoming</h1>
+<ul id="upcoming-list" style="display: none"></ul>
+
+Note: this heading disappears when none are upcoming.
+
+Boxes should include the date as H2, the event title as H3, and the location as H4. Left-align featured images within each box. Clicking the box leads to the individual post.
+
+<h1 style="display: none" id="past-header">Past</h1>
+<ul style="display: none" id="past-list"></ul>
+
+Note: same format as above boxes. List events in reserve chronological order, including the ten most recent. Include a "See Older Events" link to a search that includes all Posts categorized as "events" "reading" "readings" or "appearances"
+
+<h1>Recorded Appearances</h1>
+<ul>
+
+{% for post in collections['events-recorded'] | head(-10, true) %}
+<li>
+	<h2>{{ post.date | eventTime }}</h2>
+	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+	<h4>{{ post.data.location }}</h4></li>
+	{% endfor %}
+</ul>
+
+<p><a href="./allevents/">See older events...</a></p>
+
+
+<script>
+
+const renderHTML = post => {
+	return `<li>
+		<h2>${post.date}</h2>
+		<h3><a href="${post.url}">${post.title}</a></h3>
+		<h4>${post.location}</h4></li>`;
+}
+
+fetch('./events.json')
+	.then(response => response.json())
+	.then(data => {
+		const upcoming = data.posts.filter(post => new Date(post.date) >= new Date());
+		const past = data.posts.filter(post => new Date(post.date) < new Date());
+
+		if (upcoming.length > 0) {
+			let upcomingHTML = '';
+			upcoming.sort( (a, b) => { return new Date(b.date) - new Date(a.date) }).slice(0,5).forEach(post => {
+				upcomingHTML += renderHTML(post);
+			});
+			document.getElementById('upcoming-list').innerHTML = upcomingHTML;
+			document.getElementById('upcoming-header').style.display = 'block';
+			document.getElementById('upcoming-list').style.display = 'block';
+		}
+
+		if (past.length > 0) {
+			let pastHTML = '';
+			past.sort( (a, b) => { return new Date(b.date) - new Date(a.date) }).slice(0,5).forEach(post => {
+				pastHTML += renderHTML(post);
+			});
+			document.getElementById('past-list').innerHTML = pastHTML;
+			document.getElementById('past-header').style.display = 'block';
+			document.getElementById('past-list').style.display = 'block';
+		}
+	});
+</script>
