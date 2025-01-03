@@ -5,7 +5,6 @@ categories:
   - "appearances"
   - "wings-unseen"
   - "writing"
-  - "recorded"
 tags:
   - "appearances"
   - "at-the-inkwell"

@@ -2,6 +2,8 @@
 title: "A Holiday Invasion Trilogy"
 date: "2018-01-17"
 coverImage: "BHM-Holiday-Hell.png"
+categories:
+  - "short-stories"
 layout: layouts/post.njk
 ---
 

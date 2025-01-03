@@ -3,6 +3,7 @@ title: "Attractive Unattractive Americans: How the World Sees America"
 date: "2015-08-25"
 categories:
   - "book-reviews-writing"
+  - "reviews"
 tags:
   - "americans"
   - "attractive-unattractive-americans"

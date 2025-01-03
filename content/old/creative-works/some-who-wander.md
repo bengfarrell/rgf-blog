@@ -1,6 +1,8 @@
 ---
 title: "Some Who Wander"
 date: "2020-06-30"
+categories:
+  - "essays"
 coverImage: "Ireland-2019-581.jpg"
 layout: layouts/post.njk
 ---

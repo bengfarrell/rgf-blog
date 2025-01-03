@@ -1,6 +1,8 @@
 ---
 title: "Ad Astra: The 50th Anniversary SFWA Cookbook"
 date: "2015-08-06"
+categories:
+  - "misc"
 layout: layouts/post.njk
 ---
 

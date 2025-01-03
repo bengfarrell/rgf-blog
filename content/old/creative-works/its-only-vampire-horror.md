@@ -1,6 +1,8 @@
 ---
 title: "It's Only Vampire"
 date: "2021-01-27"
+categories:
+  - "short-stories"
 coverImage: "Screenshot_2020-12-24-Fark-in-the-Time-of-Covid-The-2020-Fark-Fiction-Anthology-Kindle-edition-by-Community-Fark-Angel....jpg"
 layout: layouts/post.njk
 ---

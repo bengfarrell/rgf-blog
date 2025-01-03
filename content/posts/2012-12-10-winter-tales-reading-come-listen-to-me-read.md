@@ -5,6 +5,7 @@ categories:
   - "appearances"
   - "events"
   - "writing"
+  - "essays"
 tags:
   - "alex-granados"
   - "gray-rinehart"

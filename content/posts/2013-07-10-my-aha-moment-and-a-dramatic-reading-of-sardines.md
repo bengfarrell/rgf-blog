@@ -5,7 +5,6 @@ categories:
   - "announcements"
   - "appearances"
   - "writing"
-  - "recorded"
 tags:
   - "cannery-row"
   - "fourth-grade"
@@ -15,6 +14,7 @@ tags:
   - "my-aha-moment"
   - "overfishing"
   - "poem"
+  - "reading"
   - "raleigh"
   - "sardines"
   - "writing"

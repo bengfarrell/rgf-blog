@@ -5,7 +5,6 @@ categories:
   - "announcements"
   - "appearances"
   - "wings-unfurled"
-  - "recordings"
 tags:
   - "mia-tsai"
   - "reading"

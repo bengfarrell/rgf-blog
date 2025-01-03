@@ -4,7 +4,6 @@ date: "2020-07-20"
 categories: 
   - "announcements"
   - "appearances"
-  
 tags: 
   - "daniel-marcus"
   - "laura-blackwell"

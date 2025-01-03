@@ -5,6 +5,7 @@ categories:
   - "announcements"
   - "publication-news"
   - "writing"
+  - "short-stories"
 tags: 
   - "flash-fiction"
   - "flashes-in-the-dark"

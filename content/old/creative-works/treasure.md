@@ -1,6 +1,8 @@
 ---
 title: "Treasure"
 date: "2017-07-17"
+categories:
+  - "short-stories"
 coverImage: "dark-luminous-wings-e1538375632747.jpg"
 layout: layouts/post.njk
 ---

@@ -4,7 +4,6 @@ date: "2017-09-13"
 categories:
   - "appearances"
   - "wings-unseen"
-  - "recorded"
 tags:
   - "bearded-lady"
   - "dark-fiction-reading"

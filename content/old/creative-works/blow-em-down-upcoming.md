@@ -1,6 +1,8 @@
 ---
 title: "Blow 'Em Down"
 date: "2013-07-24"
+categories:
+  - "short-stories"
 layout: layouts/post.njk
 ---
 
