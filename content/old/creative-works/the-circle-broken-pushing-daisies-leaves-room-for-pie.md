@@ -4,6 +4,7 @@ date: "2023-01-25"
 layout: layouts/post.njk
 categories:
   - "publication-news"
+  - "essays"
 tags:
   - "cancelled-two-soon"
   - "essay"

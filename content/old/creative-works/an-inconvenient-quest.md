@@ -1,6 +1,8 @@
 ---
 title: "An Inconvenient Quest"
 date: "2020-06-30"
+categories:
+  - "short-stories"
 coverImage: "A-quiet-afternoon.jpg"
 layout: layouts/post.njk
 ---

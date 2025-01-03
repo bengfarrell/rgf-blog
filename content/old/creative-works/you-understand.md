@@ -1,6 +1,8 @@
 ---
 title: "You Understand"
 date: "2022-08-08"
+categories:
+  - "short-stories"
 coverImage: "Sirens-Villains-and-Vengence.jpg"
 layout: layouts/post.njk
 ---

@@ -5,6 +5,7 @@ categories:
   - "appearances"
   - "wings-unfurled"
   - "writing"
+  - "writing-thoughts"
 ---
 
 Today at WritingForums.com, I shared [questions that writers should consider when writing a series](https://www.writingforums.com/threads/rebecca-gomez-farrell-shares-questions-to-consider-when-writing-a-series.201362/).

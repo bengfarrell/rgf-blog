@@ -1,6 +1,8 @@
 ---
 title: "Mixed Signals, or, Learning How to Speak"
 date: "2016-06-02"
+categories:
+  - "short-stories"
 coverImage: "2013_San_Francisco_025.jpg"
 layout: layouts/post.njk
 ---

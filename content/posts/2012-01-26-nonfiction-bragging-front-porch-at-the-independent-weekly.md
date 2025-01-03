@@ -5,6 +5,7 @@ categories:
   - "announcements"
   - "publication-news"
   - "writing"
+  - "essays"
 tags: 
   - "cary"
   - "chapel-hill"

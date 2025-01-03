@@ -4,6 +4,7 @@ date: "2016-02-23"
 categories: 
   - "announcements"
   - "writing"
+  - "events"
 tags: 
   - "alley-cat-books"
   - "at-the-inkwell"

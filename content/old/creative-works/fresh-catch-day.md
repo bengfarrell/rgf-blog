@@ -1,6 +1,8 @@
 ---
 title: "Fresh Catch of the Day"
 date: "2021-07-21"
+categories:
+  - "short-stories"
 coverImage: "GV_AQA2_cover.jpg"
 layout: layouts/post.njk
 ---

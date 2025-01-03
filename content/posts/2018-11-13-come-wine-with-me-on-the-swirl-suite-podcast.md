@@ -3,7 +3,6 @@ title: "Come Wine with Me on the Swirl Suite Podcast!"
 date: "2018-11-13"
 categories:
   - "appearances"
-  - "recorded"
 tags:
   - "food-blogger"
   - "interview"

@@ -1,6 +1,8 @@
 ---
 title: "Submission Caws"
 date: "2020-01-28"
+categories:
+  - "short-stories"
 layout: layouts/post.njk
 ---
 

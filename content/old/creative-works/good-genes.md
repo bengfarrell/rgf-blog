@@ -1,6 +1,8 @@
 ---
 title: "Good Genes"
 date: "2017-07-17"
+categories:
+  - "short-stories"
 coverImage: "f38cover.jpg"
 layout: layouts/post.njk
 ---

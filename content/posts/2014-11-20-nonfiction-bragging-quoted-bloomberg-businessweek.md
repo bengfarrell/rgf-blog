@@ -4,6 +4,7 @@ date: "2014-11-20"
 categories:
   - "announcements"
   - "cocktails-spirits-bars-recipes-review"
+  - "interviews"
 tags:
   - "alcohol"
   - "bloomberg"

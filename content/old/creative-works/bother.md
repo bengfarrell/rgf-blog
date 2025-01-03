@@ -1,6 +1,8 @@
 ---
 title: "Bother"
 date: "2012-10-01"
+categories:
+  - "short-stories"
 layout: layouts/post.njk
 ---
 

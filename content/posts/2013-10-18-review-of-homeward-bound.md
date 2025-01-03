@@ -2,7 +2,7 @@
 title: "Review of Homeward Bound"
 date: "2013-10-18"
 categories: 
-  - "books"
+  - "reviews"
 tags: 
   - "author"
   - "book"

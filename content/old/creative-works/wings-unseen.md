@@ -1,6 +1,8 @@
 ---
 title: "Wings Unseen"
 date: "2017-07-17"
+categories:
+  - "books"
 coverImage: "9781946154002-WingsUnseen-CoverFINAL_03.jpg"
 layout: layouts/post.njk
 ---

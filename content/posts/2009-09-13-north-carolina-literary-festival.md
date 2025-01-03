@@ -4,6 +4,8 @@ date: "2009-09-13"
 categories: 
   - "restaurants"
   - "writing"
+  - "review"
+  - "writing-thoughts"
 tags: 
   - "ann-prospero"
   - "author-panels"

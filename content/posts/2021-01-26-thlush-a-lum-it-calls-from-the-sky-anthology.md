@@ -4,6 +4,7 @@ date: "2021-01-26"
 categories:
   - "publication-news"
   - "writing"
+  - "anthologies"
 tags:
   - "eerie-river-publishing"
   - "horror-anthology"

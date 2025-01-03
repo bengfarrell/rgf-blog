@@ -1,6 +1,8 @@
 ---
 title: "Wishing for More"
 date: "2020-04-07"
+categories:
+  - "short-stories"
 coverImage: "Helios.jpg"
 layout: layouts/post.njk
 ---

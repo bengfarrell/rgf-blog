@@ -3,6 +3,7 @@ title: "Review of Amélie: A New Musical"
 date: "2015-09-20"
 categories:
   - "theater"
+  - "reviews"
 tags:
   - "a-new-musical"
   - "adam-chanler-berat"

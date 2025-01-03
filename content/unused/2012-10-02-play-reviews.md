@@ -1,6 +1,8 @@
 ---
 title: "Play Reviews"
 date: "2012-10-02"
+categories:
+  - "reviews"
 ---
 
 I haven't done many play reviews since I started blogging actively in 2009, but there have been a few. I've seen a great number of plays and musicals, but I have to be truly inspired -- or just really excited to see a specific actor -- to take the time to give the play its due with a review. They have appeared in _the Gourmez_ and _All My Writers_.

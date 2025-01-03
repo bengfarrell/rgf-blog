@@ -1,6 +1,8 @@
 ---
 title: "What Scattered in the Wind"
 date: "2017-07-17"
+categories:
+  - "short-stories"
 coverImage: "little-letters-on-the-skin.jpg"
 layout: layouts/post.njk
 ---

@@ -3,6 +3,7 @@ title: "The Receptionist, Manbites Dog Theater Company"
 date: "2009-03-01"
 categories:
   - "theater"
+  - "reviews"
 tags:
   - "adam-bock"
   - "durham-theater"

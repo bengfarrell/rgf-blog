@@ -1,6 +1,8 @@
 ---
 title: "Garbage"
 date: "2017-07-17"
+categories:
+  - "short-stories"
 coverImage: "Blue_Chain_Chomp_Art.png"
 layout: layouts/post.njk
 ---

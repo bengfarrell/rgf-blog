@@ -5,7 +5,6 @@ categories:
   - "appearances"
   - "publication-news"
   - "wings-unfurled"
-  - "readings"
 tags:
   - "barbara-a-barnett"
   - "blog-tour"

@@ -1,6 +1,8 @@
 ---
 title: "Maya's Vacation"
 date: "2012-10-01"
+categories:
+  - "books"
 layout: layouts/post.njk
 ---
 

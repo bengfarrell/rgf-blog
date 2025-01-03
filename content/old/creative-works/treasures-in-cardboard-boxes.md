@@ -1,6 +1,8 @@
 ---
 title: "Treasures in Cardboard Boxes"
 date: "2013-07-24"
+categories:
+  - "essays"
 layout: layouts/post.njk
 ---
 
