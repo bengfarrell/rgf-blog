@@ -1,6 +1,13 @@
 ---
 title: "Wings Unseen"
 date: "2017-07-17"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/WingsUnseen.png"
+publication: "Meerkat Press"
+out of print: 
+amazon: "https://www.amazon.com/Wings-Unseen-Rising-Rebecca-Farrell/dp/1946154857/"
+barnes and noble: "https://www.barnesandnoble.com/w/wings-unseen-rebecca-gomez-farrell/1126061986?ean=9781946154019" 
+bookshop dot org: "https://bookshop.org/p/books/wings-unseen-rebecca-gomez-farrell/19431753?ean=9781946154859"
+pub store: "http://meerkatpress.com/books/wings-unseen/"
 categories:
   - "books"
 coverImage: "9781946154002-WingsUnseen-CoverFINAL_03.jpg"

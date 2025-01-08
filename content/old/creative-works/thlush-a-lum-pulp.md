@@ -1,34 +1,17 @@
 ---
-title: "Thlush-a-Lum: 3rd Reprint"
-date: "2014-09-04"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/It-Call-From.gif"
-publication: "It Calls From the Sky"
+title: "Thlush-a-Lum"
+date: "2015-01-01"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/Pulp-Literature-5.JPG"
+publication: "PULP Literature"
 out of print: 
-amazon: "https://www.amazon.com/Calls-Sky-Terrifying-Tales-Above/dp/1777275040/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr="
+amazon: 
 barnes and noble: 
 bookshop dot org:
-pub store: "https://www.eerieriverpublishing.com/store"
+pub store: "http://pulpliterature.com/product-category/pulp-literature/issue-5-winter-2015/"
 categories:
   - "short-stories"
-  - "anthologies"
 layout: layouts/post.njk
 ---
-
-"Thlush-A-Lum" has been reprinted for the third time in **_It Calls From the Sky_,** a horror anthology from Eerie River Publishing. Published by Eerie River and edited by A. Robertson-Webb and M. River, _It Calls From the Sky_ is available for purchase at 15% off the cover price if you request a quote from Eerie River directly at [the bottom of this page](https://www.eerieriverpublishing.com/store), Or you can purchase hardcover, paperback, or e-book versions [from Amazon here](https://www.amazon.com/Calls-Sky-Terrifying-Tales-Above/dp/1777275040/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=). Reviews have been great for the collection, and it includes 20+ short stories in all! I’m happy that “Thlush-A-Lum” has found such a great fourth home.
-
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/It-Call-From.gif)
-
-\* In September 2018, "Thlush-A-Lum" received its second reprinting! That makes this my most successful short story thus far. This time, "Thlush-A-Lum" formed part of the **_Fright into Flight_** anthology from Word Horde.
-
-![fright into flight, thlush a lum, rebecca gomez farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Fright-into-flight-663x1024.jpg)
-
-Links to purchasing can be found at Word Horde's [publication announcement here](https://wordhorde.com/take-wing-with-our-new-anthology-flight-into-fright-available-today/). Or head direct to Amazon.
-
-\* "Thlush-A-Lum" was first reprinted by **[the Centropic Oracle](http://www.centropicoracle.com/),** who produced an audio version of the story, released on December 8, 2017.
-
-![centropic oracle, thlush a lum, rebecca gomez farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/centropic-oracle.jpg)
-
-Unfortunately, the Centropic Oracle has since shut down. Sarah Houghton performed the audio narration.
 
 \* "Thlush-A-Lum" first appeared in **_PULP Literature_ Issue #5** in 2015.
 

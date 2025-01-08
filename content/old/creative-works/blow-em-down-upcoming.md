@@ -1,6 +1,14 @@
 ---
 title: "Blow 'Em Down"
 date: "2013-07-24"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/bcs-131.jpg"
+publication: "Beneath Ceaseless Skies"
+out of print: 
+amazon: "http://www.amazon.com/Beneath-Ceaseless-Anniversary-Double-Issue-ebook/dp/B00FDUE076/" 
+barnes and noble: 
+bookshop dot org:
+weightless books: "http://weightlessbooks.com/genre/fiction/beneath-ceaseless-skies-12-month-subscription"
+pub store: "http://www.beneath-ceaseless-skies.com/stories/blow-em-down/"
 categories:
   - "short-stories"
 layout: layouts/post.njk
@@ -8,7 +16,7 @@ layout: layouts/post.njk
 
 "Blow 'Em Down" is a fantasy, jazzy, steampunk retelling of the Biblical battle of Jericho. It is published in [Issue #131](http://www.beneath-ceaseless-skies.com/issues/issue-131-fifth-anniversary-double-issue/ "Issue 131") of _Beneath Ceaseless Skies,_ a special fifth anniversary double issue.
 
-[![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/36491-cover-200x266.jpg)](http://weightlessbooks.com/genre/fiction/beneath-ceaseless-skies-12-month-subscription/) *Issue #131*
+![beneath ceaseless skies issue 131](https://d602mxa74hbsi.cloudfront.net/bcs-131.jpg)*Issue #131*
 
 Here's a small teaser from the beginning:
 

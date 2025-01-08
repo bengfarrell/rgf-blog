@@ -1,15 +1,22 @@
 ---
 title: "Fresh Catch of the Day"
 date: "2021-07-21"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/07/21222521/GV_AQA2_cover.jpg"
+publication: "A Quiet Afternoon 2"
+out of print:
+amazon: 
+barnes and noble: 
+bookshop dot org:
+pub store: "https://payhip.com/b/LqAfQ"
 categories:
   - "short-stories"
-coverImage: "GV_AQA2_cover.jpg"
+  - "anthologies"
 layout: layouts/post.njk
 ---
 
 I'm quite proud of "Fresh Catch of the Day." This fantasy story appears in _A Quiet Afternoon 2_, the second volume of an anthology series of low-fi speculative fiction from Grace&Victory Publications.
 
-![a quiet afternoon 2, low fi speculative fiction, rebecca gomez farrell, fresh catch of the day](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/A-quiet-afternoon.jpg)
+![a quiet afternoon 2](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/07/21222521/GV_AQA2_cover.jpg)
 
 Low-fi spec fic aims "for a peaceful break from a stressful world." Volume 1 contained my "[An Inconvenient Quest,](/creative-works/an-inconvenient-quest/)" and I'm delighted that the G&V team thought "Fresh Catch of the Day" would make a great addition to Volume 2.
 

@@ -5,6 +5,7 @@ categories:
   - "announcements"
   - "publication-news"
   - "writing"
+  - "misc"
 tags:
   - "2014"
   - "behind-the-scenes"
@@ -20,7 +21,7 @@ tags:
 
 Another photography credit for me, another chance for the unabashed soap opera lovers among us to pick up a nifty photobook! Once again, Katrina Rasbold, my fearless leader at [All My Writers](http://allmywriters.net) for the last, oh, almost decade, has released a Yearbook of this year's _General Hospital_ Fan Club Weekend. She writes the reports; I take the photos.
 
-[![](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1500857513&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=media0477-20)
+![gh fan club weekend 2014 yearbook](https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend_2014.jpg)
 
 This 180-page book is jam-packed with full-color photos of _General Hospital_'s past and present-day stars from 4 days of events. There's plenty of behind-the-scenes gossip to boot. What'll you learn about in the Yearbook? As Katrina writes,
 
@@ -28,14 +29,10 @@ This 180-page book is jam-packed with full-color photos of _General Hospital_'s 
 
 Our print copies of](http://www.amazon.com/gp/product/1500857513/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1500857513&linkCode=as2&tag=media0477-20&linkId=Q32JNQ4HQ3PKZXZK) [last year's yearbook](the-general-hospital-fan-club-weekend-2013 "2013 GH Yearbook Info Page") sold out as soon as the doors to the main cast event opened, so you know these are beautiful keepsakes for the _GH_ fans among us. Both full-color and black and white paperback versions are available from Amazon.
 
-Color:                      Black and White:
+I couldn't leave you without sharing my favorite photos from the 2014 event, could I? I was so delighted to see Scott Clifton at the Past Cast Event. Him and Michael Sutton appearing made my weekend.
 
-         
+![GHFCW14_Past_Cast_085](https://d602mxa74hbsi.cloudfront.net/ghfcw14_past_cast_085/)
 
-I couldn't leave you without sharing my favorite photos from the event, could I? I was so delighted to see Scott Clifton at the Past Cast Event. Him and Michael Sutton appearing made my weekend.
-
-[![GHFCW14_Past_Cast_085](images/GHFCW14_Past_Cast_085-500x474.jpg)](/entertainment-writing/the-general-hospital-fan-club-weekend-yearbook-2014/ghfcw14_past_cast_085/)
-
-[![GHFCW14_Past_Cast_173](images/GHFCW14_Past_Cast_173-500x442.jpg)](/entertainment-writing/the-general-hospital-fan-club-weekend-yearbook-2014/ghfcw14_past_cast_173/)
+![GHFCW14_Past_Cast_173](https://d602mxa74hbsi.cloudfront.net/ghfcw14_past_cast_173/)
 
 I hope you enjoy the 2014 Yearbook!

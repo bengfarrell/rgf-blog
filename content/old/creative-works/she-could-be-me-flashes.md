@@ -1,8 +1,8 @@
 ---
-title: "She Could Be Me-Reprint"
-date: "2012-10-01"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/Bards-April-2021.jpg"
-publication: "Bards & Sages Quarterly"
+title: "She Could Be Me"
+date: "2010-05-01"
+coverImage: 
+publication: "Flashes in the Dark"
 out of print: "yes"
 amazon: 
 barnes and noble: 
@@ -13,9 +13,7 @@ categories:
 layout: layouts/post.njk
 ---
 
-"She Could Be Me" is a short story most recently published by _Bards & Sages Quarterly_ in April 2021. It's a flash horror story that's _Twilight Zone_ meets "The Ladies Who Lunch."
-
-"She Could Be Me" was first published in _Flashes in the Dark_ in May of 2010, but that publication is out of print. Find it now in the much more recent April 2021 issue of  _Bards & Sages Quarterly_ [here](https://www.amazon.com/dp/B091DWHD2K).
+"She Could Be Me" is a short story isa flash horror story that's _Twilight Zone_ meets "The Ladies Who Lunch." It was first published in _Flashes in the Dark_ in May of 2010, but that publication is out of print. 
 
 The first few lines to whet your appetite:
 

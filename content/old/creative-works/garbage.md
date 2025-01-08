@@ -1,9 +1,16 @@
 ---
 title: "Garbage"
 date: "2017-07-17"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/through-a-scanner-farkly.jpg"
+publication: "Through A Scanner Farkly: The 2017 FARK Fiction Anthology"
+out of print: 
+amazon: "https://www.amazon.com/Through-Scanner-Farkly-Fiction-Anthology/dp/1548617113/"
+barnes and noble: 
+bookshop dot org:
+pub store: 
 categories:
   - "short-stories"
-coverImage: "Blue_Chain_Chomp_Art.png"
+  - "anthologies"
 layout: layouts/post.njk
 ---
 

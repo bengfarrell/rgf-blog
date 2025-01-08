@@ -1,9 +1,16 @@
 ---
 title: "You Understand"
 date: "2022-08-08"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/d6ac498d-95c3-d058-44a6-5325fa4532a7.jpg"
+publication: "Villains and Vengence"
+out of print: 
+amazon: "https://www.amazon.com/Villains-Vengeance-Sirens-Benefit-Anthology-ebook/dp/B09FDYS3SD"
+barnes and noble: "https://www.barnesandnoble.com/w/villains-vengeance-natalie-j-case-editor/1140126793"
+bookshop dot org:
+pub store:
 categories:
   - "short-stories"
-coverImage: "Sirens-Villains-and-Vengence.jpg"
+  - "anthologies"
 layout: layouts/post.njk
 ---
 

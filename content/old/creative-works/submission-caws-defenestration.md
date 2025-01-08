@@ -1,25 +1,19 @@
 ---
-title: "Submission Caws-Reprint"
-date: "2020-01-28"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/centropic-oracle.jpg"
-publication: "The Centropic Oracle"
-out of print: "yes"
+title: "Submission Caws"
+date: "2019-08-01"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Screenshot_2020-01-28-Submission-Caws-by-Rebecca-Gomez-Farrell.png"
+publication: "Defenestration"
+out of print:
 amazon: 
 barnes and noble: 
 bookshop dot org:
-pub store:
+pub store: "http://www.defenestrationmag.net/2019/08/submission-caws-by-rebecca-gomez-farrell"
 categories:
   - "short-stories"
 layout: layouts/post.njk
 ---
 
-"Submission Caws" received an audio production by _the Centropic Oracle_ in January 2021!
-
-![centropic oracle, thlush a lum, rebecca gomez farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/centropic-oracle.jpg)
-
-Their website also reprinted the story, which first cawed its way into the world at _Defenestration_ humor magazine in August 2019. Jill Raymond performed the audio version, and I quite enjoy her take on the story -- the character of Betty, a bubbly and annoyingly successful composer of magical recipes, comes through loud and clear. To listen to or read "Submission Caws," head to _the Centropic Oracle's_ [website here](http://www.centropicoracle.com/library/F0112_SubmissionCaws.php).
-
-Or of course, you can read "Submission Caws" at its original home at _Defenestration_, [right here](http://www.defenestrationmag.net/2019/08/submission-caws-by-rebecca-gomez-farrell/).
+"Submission Caws" first cawed its way into the world at _Defenestration_ humor magazine in August 2019. You can read it [right here](http://www.defenestrationmag.net/2019/08/submission-caws-by-rebecca-gomez-farrell/).
 
 ![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Screenshot_2020-01-28-Submission-Caws-by-Rebecca-Gomez-Farrell.png)
 

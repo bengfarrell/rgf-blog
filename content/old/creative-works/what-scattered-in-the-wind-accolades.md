@@ -1,8 +1,8 @@
 ---
-title: "What Scattered in the Wind"
-date: "2017-07-17"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/little-letters-on-the-skin.jpg"
-publication: "Little Letters on the Skin"
+title: "What Scattered in the Wind: 1st Reprint"
+date: "2020-03-05"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/03/05070057/accolades-690x1024.jpg"
+publication: "ACCOLADES"
 out of print: 
 amazon: 
 barnes and noble: 
@@ -11,7 +11,7 @@ pub store: "https://www.indiebound.org/book/9781733241526"
 categories:
   - "short-stories"
   - "anthologies"
-coverImage: "little-letters-on-the-skin.jpg"
+  - "recorded"
 layout: layouts/post.njk
 ---
 

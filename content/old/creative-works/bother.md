@@ -1,6 +1,13 @@
 ---
 title: "Bother"
 date: "2012-10-01"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/bullspec-05-page001.jpg"
+publication: "Bull Spec"
+out of print: "yes"
+amazon: 
+barnes and noble: 
+bookshop dot org:
+pub store: 
 categories:
   - "short-stories"
 layout: layouts/post.njk

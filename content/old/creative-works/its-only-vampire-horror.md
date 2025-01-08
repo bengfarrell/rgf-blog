@@ -1,15 +1,22 @@
 ---
 title: "It's Only Vampire"
 date: "2021-01-27"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/fark-in-the-time-of-covid.jPg"
+publication: "Fark in the Time of COVID: The 2020 FARK Fiction Anthology"
+out of print: 
+amazon: 
+barnes and noble: 
+bookshop dot org:
+pub store:
 categories:
   - "short-stories"
-coverImage: "Screenshot_2020-12-24-Fark-in-the-Time-of-Covid-The-2020-Fark-Fiction-Anthology-Kindle-edition-by-Community-Fark-Angel....jpg"
+  - "anthologies"
 layout: layouts/post.njk
 ---
 
 "It's Only Vampire," a humorous horror short story, appears in _FARK in the Time of COVID: The 2020 Fark Fiction Anthology_! The anthology was released in December 2020.
 
-<iframe style="max-width: 100%;" src="https://read.amazon.com/kp/card?asin=B08QDRPW7M&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_TTjeGbKZBAYAV" width="250" height="418" frameborder="0" align="center" allowfullscreen="allowfullscreen" data-mce-fragment="1"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe>
+(https://www.amazon.com/Fark-Time-Covid-Fiction-Anthology-ebook/dp/B08QDRPW7M)
 
 I have a soft spot for the main characters in "It's Only Vampire." Vlad and Ji, a pair of old-timer vampires who live in a brave new world of vampire liberation, decades after vampires rose from the shadows to conquer the Earth. You see, vampires come into existence when humans write about them. After a fan fiction-based population boom, they finally had enough numbers to take their place as the dominant predator on the planet.
 

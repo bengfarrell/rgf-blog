@@ -1,13 +1,13 @@
 ---
-title: "Hobgoblin-Reprint"
-date: "2020-01-28"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/temp_pb_cover-1024x740.jpg"
-publication: "Whigmaleeries & Wives' Tales"
+title: "Hobgoblin"
+date: "2018-02-01"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wow-logo.jpg"
+publication: "WOW! Women on Writing!"
 out of print: 
-amazon: https://www.amazon.com/dp/B08HGL7LNY/ref=rdr_kindle_ext_tmb
+amazon: 
 barnes and noble: 
 bookshop dot org:
-pub store: 
+pub store: "https://www.wow-womenonwriting.com/downloads/printable/82-FE1-Rebecca-Gomez-Farrell.html"
 categories:
   - "short-stories"
   - "anthologies"

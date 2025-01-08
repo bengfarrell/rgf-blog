@@ -5,6 +5,7 @@ categories:
   - "announcements"
   - "publication-news"
   - "writing"
+  -"writing-thoughts"
 tags:
   - "horror"
   - "kickstarter"

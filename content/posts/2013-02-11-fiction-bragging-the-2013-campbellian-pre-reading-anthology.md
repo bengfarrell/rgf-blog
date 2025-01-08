@@ -1,10 +1,18 @@
 ---
-title: "Fiction Bragging: The 2013 Campbellian Pre-Reading Anthology"
+title: "Bother Reprint"
 date: "2013-02-11"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/04/Campbellian-Anthology-2013-cover-682x1024.jpg"
+publication: "The 2013 Campbellian Pre-Reading Anthology"
+out of print: "yes"
+amazon: 
+barnes and noble: 
+bookshop dot org:
+pub store: 
 categories:
   - "announcements"
   - "publication-news"
   - "writing"
+  - "anthologies"
 tags:
   - "2013"
   - "anthology"

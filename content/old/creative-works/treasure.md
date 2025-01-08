@@ -1,8 +1,16 @@
 ---
-title: "Treasure"
+title: "Treasure-1st Reprint"
 date: "2017-07-17"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Screenshot_2020-01-28-Bards-and-Sages-Publishing-.png"
+publication: "Best Indie Speculative Fiction 2019"
+out of print: "yes"
+amazon: 
+barnes and noble: 
+bookshop dot org:
+pub store:
 categories:
   - "short-stories"
+  - "anthologies"
 coverImage: "dark-luminous-wings-e1538375632747.jpg"
 layout: layouts/post.njk
 ---

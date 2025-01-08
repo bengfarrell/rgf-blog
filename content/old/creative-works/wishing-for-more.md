@@ -1,6 +1,13 @@
 ---
 title: "Wishing for More"
 date: "2020-04-07"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Helios-739x1024.jpg"
+publication: "Helios Quarterly"
+out of print: 
+amazon: "https://www.amazon.com/Helios-Quarterly-Magazine-Complete-Anthologies-ebook/dp/B09CJB84ZC/"
+barnes and noble: 
+bookshop dot org:
+pub store:
 categories:
   - "short-stories"
 coverImage: "Helios.jpg"
@@ -21,7 +28,7 @@ The first lines:
 >
 > She shuffled on her stomach over the rim, reaching with her free hand, but the alep’s hound darted left and right, avoiding her straining fingers. A wave crashed against the jagged boulders, sending up a high plume of seawater that drenched her. Brrr. She tried not to ponder those depths, focused on the plant, leaning farther—
 
-_Helios Quarterly_ 4.4 is available directly from the [publisher's webstore](https://aurelialeo.com/product/2572150x12152019/) in .mobi or .epub formats. You can also purchase from Amazon for $2.99 [for the Kindle here](https://www.amazon.com/Helios-Quarterly-Magazine-Zelda-Knight-ebook/dp/B082Z9DXMW/). It contains four other short stories in addition to "Wishing for More." Get your copy now!
+_Helios Quarterly_ 4.4 is currently available as part of _Helios Quarterly Magazine: The Complete Series_. This ebook containing all works published by _Helios Quarterly_ since 2016 and is available from Amazon.
 
 And here's a photo inspiration to set the story's mood:
 

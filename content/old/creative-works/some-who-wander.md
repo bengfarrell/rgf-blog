@@ -1,13 +1,19 @@
 ---
 title: "Some Who Wander"
 date: "2020-06-30"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/intrinsick.png"
+publication: "Instrinsick Magazine"
+out of print: 
+amazon: 
+barnes and noble: 
+bookshop dot org:
+pub store: "https://www.intrinsick.com/stories/some-who-wander"
 categories:
   - "essays"
-coverImage: "Ireland-2019-581.jpg"
 layout: layouts/post.njk
 ---
 
-"Some Who Wander" is a short, but not sweet, piece of micro-nonfiction that appears at _Instrinsick m_agazine_._
+"Some Who Wander" is a short, but not sweet, piece of micro-nonfiction that appears at _Instrinsick magazine_._
 
 ![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/intrinsick.png)
 
