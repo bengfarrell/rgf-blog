@@ -3,14 +3,13 @@ title: "Wishing for More"
 date: "2020-04-07"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Helios-739x1024.jpg"
 publication: "Helios Quarterly"
-out of print: 
+out of print:
 amazon: "https://www.amazon.com/Helios-Quarterly-Magazine-Complete-Anthologies-ebook/dp/B09CJB84ZC/"
-barnes and noble: 
+barnes and noble:
 bookshop dot org:
 pub store:
 categories:
   - "short-stories"
-coverImage: "Helios.jpg"
 layout: layouts/post.njk
 ---
 

@@ -1,15 +1,13 @@
 ---
 title: "Apocalypse"
 date: "2012-10-01"
-coverImage: 
+coverImage:
 publication: "Yesteryear Fiction"
 out of print: "yes"
-amazon: 
-barnes and noble: 
+amazon:
+barnes and noble:
 bookshop dot org:
-pub store: 
-categories:
-  - "short-stories"
+pub store:
 categories:
   - "short-stories"
 layout: layouts/post.njk
