@@ -10,6 +10,7 @@ bookshop dot org:
 pub store: "http://pulpliterature.com/product-category/pulp-literature/issue-5-winter-2015/"
 categories:
   - "short-stories"
+  - "info"
 layout: layouts/post.njk
 ---
 

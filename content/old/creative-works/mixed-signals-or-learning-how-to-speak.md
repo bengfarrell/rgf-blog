@@ -10,6 +10,7 @@ bookshop dot org:
 pub store: "https://typehousemagazine.com/product/issue-9/"
 categories:
   - "short-stories"
+  - "info"
 layout: layouts/post.njk
 ---
 

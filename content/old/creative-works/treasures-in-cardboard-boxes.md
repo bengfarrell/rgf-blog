@@ -11,6 +11,7 @@ pub store:
 categories:
   - "essays"
   - "recorded"
+  - "info"
 layout: layouts/post.njk
 ---
 

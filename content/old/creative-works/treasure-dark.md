@@ -11,6 +11,7 @@ pub store:
 categories:
   - "short-stories"
   - "anthologies"
+  - "info"
 layout: layouts/post.njk
 ---
 

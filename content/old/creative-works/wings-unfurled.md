@@ -11,6 +11,7 @@ pub store: "https://meerkatpress.com/books/wings-unfurled/"
 categories:
   - "publication-news"
   - "wings-unfurled"
+  - "info"
 tags:
   - "epic-fantasy"
   - "fantasy"

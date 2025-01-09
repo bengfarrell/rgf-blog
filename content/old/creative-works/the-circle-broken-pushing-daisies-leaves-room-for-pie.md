@@ -12,6 +12,7 @@ layout: layouts/post.njk
 categories:
   - "publication-news"
   - "essays"
+  - "info"
 tags:
   - "cancelled-two-soon"
   - "essay"

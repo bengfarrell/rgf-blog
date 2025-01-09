@@ -10,6 +10,7 @@ bookshop dot org: "https://bookshop.org/p/books/wings-unseen-rebecca-gomez-farre
 pub store: "http://meerkatpress.com/books/wings-unseen/"
 categories:
   - "books"
+  - "info"
 layout: layouts/post.njk
 ---
 

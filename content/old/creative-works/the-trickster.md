@@ -10,6 +10,7 @@ bookshop dot org:
 pub store:
 categories:
   - "essays"
+  - "info"
 layout: layouts/post.njk
 ---
 

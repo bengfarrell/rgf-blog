@@ -12,6 +12,7 @@ categories:
   - "short-stories"
   - "anthologies"
   - "recorded"
+  - "info"
 layout: layouts/post.njk
 ---
 

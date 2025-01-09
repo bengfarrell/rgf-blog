@@ -10,6 +10,7 @@ bookshop dot org:
 pub store: "https://www.wow-womenonwriting.com/34-FE1-Summer09Contest.html"
 categories:
   - "short-stories"
+  - "info"
 layout: layouts/post.njk
 ---
 

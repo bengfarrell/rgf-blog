@@ -10,6 +10,7 @@ bookshop dot org:
 pub store: "https://www.intrinsick.com/stories/some-who-wander"
 categories:
   - "essays"
+  - "info"
 layout: layouts/post.njk
 ---
 

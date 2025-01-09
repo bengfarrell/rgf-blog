@@ -11,6 +11,7 @@ pub store: "https://www.indiebound.org/book/9781733241526"
 categories:
   - "short-stories"
   - "anthologies"
+  - "info"
 layout: layouts/post.njk
 ---
 

@@ -10,6 +10,7 @@ bookshop dot org:
 pub store: "http://www.defenestrationmag.net/2019/08/submission-caws-by-rebecca-gomez-farrell"
 categories:
   - "short-stories"
+  - "info"
 layout: layouts/post.njk
 ---
 

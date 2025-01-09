@@ -11,6 +11,7 @@ pub store: "https://wordhorde.com/books/fright-into-flight/"
 categories:
   - "short-stories"
   - "anthologies"
+  - "info"
 layout: layouts/post.njk
 ---
 

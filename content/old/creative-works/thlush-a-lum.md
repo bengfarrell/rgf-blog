@@ -11,6 +11,7 @@ pub store: "https://www.eerieriverpublishing.com/store"
 categories:
   - "short-stories"
   - "anthologies"
+  - "info"
 layout: layouts/post.njk
 ---
 
