@@ -3,15 +3,14 @@ title: "What Scattered in the Wind"
 date: "2017-07-17"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/little-letters-on-the-skin.jpg"
 publication: "Little Letters on the Skin"
-out of print: 
-amazon: 
-barnes and noble: 
+out of print:
+amazon:
+barnes and noble:
 bookshop dot org:
 pub store: "https://www.indiebound.org/book/9781733241526"
 categories:
   - "short-stories"
   - "anthologies"
-coverImage: "little-letters-on-the-skin.jpg"
 layout: layouts/post.njk
 ---
 

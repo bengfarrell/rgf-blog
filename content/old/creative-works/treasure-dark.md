@@ -1,17 +1,16 @@
 ---
 title: "Treasure"
 date: "2017-10-20"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/dark-luminous-wings.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/dark-luminous-wings.jpg"
 publication: "Dark Luminous Wings"
-out of print: 
+out of print:
 amazon: "http://www.amazon.com/dp/B075PZP6QL?tag=kelaharmovont-20"
-barnes and noble: 
+barnes and noble:
 bookshop dot org:
 pub store:
 categories:
   - "short-stories"
   - "anthologies"
-coverImage: "dark-luminous-wings-e1538375632747.jpg"
 layout: layouts/post.njk
 ---
 
@@ -25,7 +24,7 @@ And, I think that's enough info on "Treasure" for now. If you've read an early A
 
 ![photo of a heron](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/07/2012_Dec_Nola_259-500x333.jpg)
 
-Before _Pole to Pole_'s acceptance of "Treasure," I submitted it out a total of 18 times, resulting in 1 author withdrawal, 7 form rejections, and 9 personal rejections, including 2 from pro-level speculative fiction markets that got THISCLOSE to publishing the story -- and I mean that! The editors of both mags told me they held onto it for so long because they'd been hoping to find a place for it but ultimately could not. I also significantly rewrote the story at least twice in the six years since I first sent it out. After all that, I think Dark Luminous Wings is truly where this story was destined to go 
+Before _Pole to Pole_'s acceptance of "Treasure," I submitted it out a total of 18 times, resulting in 1 author withdrawal, 7 form rejections, and 9 personal rejections, including 2 from pro-level speculative fiction markets that got THISCLOSE to publishing the story -- and I mean that! The editors of both mags told me they held onto it for so long because they'd been hoping to find a place for it but ultimately could not. I also significantly rewrote the story at least twice in the six years since I first sent it out. After all that, I think Dark Luminous Wings is truly where this story was destined to go
 
 “Treasure” is one of my oldest short stories. It features a female thief who's thrust into a culture very different from her own, so different, she has a difficult time believing such a culture is real. Can someone raised to distrust everyone around her accept grace and love when freely given it? Is it truly given freely? You’ll have to read “Treasure” to find out what Enkid, the story’s protoganist, makes of these questions…under threat of a flying sea monster called the Laklor and the lure of a rock pillar that manifests jewels and….here are the first few lines:
 
