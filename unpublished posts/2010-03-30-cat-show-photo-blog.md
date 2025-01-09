@@ -3,7 +3,7 @@ title: "Cat Show---Photo Blog"
 date: "2010-03-30"
 categories: 
   - "cats"
-  - "events"
+  - "event-writeups"
 tags: 
   - "cat-judging"
   - "cat-show"

@@ -4,6 +4,7 @@ date: "2009-05-15"
 categories: 
   - "events"
   - "writing"
+  - "event-writeups"
 tags: 
   - "michael-lux"
   - "progressive-politics"

@@ -3,6 +3,7 @@ title: "Def Leppard, Poison, and Cheap Trick in Raleigh"
 date: "2009-08-29"
 categories:
   - "music-2"
+  - "event-writeups"
 tags:
   - "angry-hippies"
   - "cheap-trick-show"

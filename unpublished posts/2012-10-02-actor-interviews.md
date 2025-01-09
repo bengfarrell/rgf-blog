@@ -1,6 +1,8 @@
 ---
 title: "Actor Interviews"
 date: "2012-10-02"
+categories:
+- "event-writeups"
 ---
 
 As part of my press duties at the General Hospital Fan Club Weekend 2012, I interviewed several of the actors from the show along with another All My Writers staff member, Dianna.  We definitely took a bubbly duo approach to the green room. Perhaps I'll get that professionalism down next time.

@@ -3,6 +3,8 @@ title: "American Idol Concert"
 date: "2009-08-07"
 categories:
   - "music-2"
+  - "event-writeups"
+  - "reviews"
 tags:
   - "adam-lambert"
   - "allison-iraheta"

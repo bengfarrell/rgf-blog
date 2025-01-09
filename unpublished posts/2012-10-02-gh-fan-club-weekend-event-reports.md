@@ -1,6 +1,8 @@
 ---
 title: "GH Fan Club Weekend Event Reports"
 date: "2012-10-02"
+categories:
+- "event-writeups"
 ---
 
 I've covered two _General Hospital_ Fan Club Weekends as press. All events took place at the Sportsmen's Lodge in Studio City, CA.

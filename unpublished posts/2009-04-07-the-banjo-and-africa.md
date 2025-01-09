@@ -4,6 +4,7 @@ date: "2009-04-07"
 categories: 
   - "early-discussion"
   - "music-2"
+  - "event-writeups"
 tags: 
   - "anania-ngoliga"
   - "banjo"
