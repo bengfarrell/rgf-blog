@@ -1,10 +1,12 @@
 ---
 title: "Watch me read from Bother!"
 date: "2011-04-21"
+time: 
+location: "Quail Ridge Books"
+city: "Raleigh, NC"
 categories: 
   - "announcements"
-  - "appearances"
-  - "events"
+  - "recorded"
   - "writing"
 tags: 
   - "bother"

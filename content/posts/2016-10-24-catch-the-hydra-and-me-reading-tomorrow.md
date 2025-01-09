@@ -1,6 +1,11 @@
 ---
-title: "Catch the Hydra (and me!) Reading on 10/25!"
-date: "2016-10-24"
+title: "The Hydra Reading"
+date: "2016-10-25"
+time:
+location: "Woods Bar & Brewery"
+city: "Oakland, CA"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/the-hydra-reading.jpg"
+
 categories:
   - "announcements"
   - "writing"

@@ -3,7 +3,6 @@ title: "Upcoming Publications!"
 date: "2011-02-28"
 categories:
   - "announcements"
-  - "events"
   - "publication-news"
   - "writing"
 tags:

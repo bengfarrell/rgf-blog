@@ -1,6 +1,11 @@
 ---
-title: "Hear me at the Inkwell's Leap Year Reading!"
-date: "2016-02-23"
+title: "At the Inkwell's Leap Year Reading"
+date: "2016-02-29"
+time:
+location: "Alley Cat Books"
+city: "San Francisco, CA"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/at-the-inkwell.jpg"
+
 categories: 
   - "announcements"
   - "writing"

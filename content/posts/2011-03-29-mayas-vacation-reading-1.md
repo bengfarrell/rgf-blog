@@ -2,8 +2,8 @@
 title: "Maya’s Vacation Reading #1"
 date: "2011-03-29"
 categories:
-  - "appearances"
-  - "events"
+  - "recorded"
+  - "interview"
   - "writing"
 tags:
   - "astraea-press"

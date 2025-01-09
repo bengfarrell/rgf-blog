@@ -1,10 +1,10 @@
 ---
-title: "Wings Unseen Release Events"
-date: "2017-08-24"
+title: "Wings Unseen Book Launch"
+date: "2017-08-26"
 time:
-location: "Multiple Venues"
-city: "Multiple Cities & States"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/WingsUnseen.png"
+location: "The Octopus Literary Salon"
+city: "Oakland, CA"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/wings-unseen-book-launch.png"
 
 categories:
   - "announcements"
@@ -12,6 +12,7 @@ categories:
   - "publication-news"
   - "wings-unseen"
   - "recorded"
+  - "events"
 tags:
   - "book"
   - "epic-fantasy"
@@ -44,21 +45,21 @@ Ah, elementary school storytelling. I was so precocious. You can also follow the
 
 **Upcoming Readings and Appearances** To promote and celebrate the publication of _Wings Unseen_, I'll be reading at or participating in several events over the next few months, and hopefully, one of those will be near you! Here's the list of where you can find me coming up, including 4 Bay Area appearances in the next two weeks:
 
-- 8/25, 8 pm, [Feminist Spec Fic night](https://www.facebook.com/events/349587845473101) at the Liminal Center, Oakland, CA
 - 8/26, 4 pm, [Wings Unseen Book Launch](https://www.facebook.com/events/845265645636939), the Octopus Literary Salon, Oakland, CA
-- 8/27, 3 pm, [A Trilogy of Shivers, Adventures, and Fantasy,](https://www.facebook.com/events/244188962767472) Borderlands Books, San Francisco, CA
-- 9/2, 1 pm, [A Reading from the East Bay Science Fiction and Fantasy Writers Meetup Group](https://www.facebook.com/events/1384209081676428/), Mad Monks Center for Anachronistic Media, Berkeley, CA
-- 9/10, TBD, SF in SF, Location TBD, San Francisco, CA
-- 9/16, TBD, Shades and Shadows Podcast, The Mystic Museum, Burbank, CA
-- 9/19, 7 pm, [An Evening of Speculative Fiction and Fantasy,](http://www.regulatorbookshop.com/event/evening-speculative-fiction-fantasy-becca-gomez-farrell-mur-lafferty-%C2%A0james-maxey) the Regulator, Durham, NC
-- 9/23, 2 pm, Barnes and Noble, Cary, NC
-- 10/20, 3 pm, interview with the Speculative Fiction Cantina
-- 10/20, 7 pm, At the Inkwell Short Fiction Night, Alley Cat Books, CA
-- 10/24, 7 pm, Liminal Series, Flywheel Press, San Mateo, CA
-- 10/26-10/29, SirensCon, Veil, CO
 
-Events with more information available online are linked - I'll be adding links as I get more details ironed out as well! I would love to see you in the crowd, and of course, to sign your book! I think I'll also be posting some musings about the process of book publication once I get the chance to breath...which may not be until October. 😅
+Come join us to celebrate the release of Rebecca Gomez Farrell's first book! Wings Unseen, an epic fantasy, will be out on 8/22 from Meerkat Press--read the full summary in the discussion! You can purchase it at the Octopus Literary Salon the day of the event or pre-order on Amazon now. A few words from other authors in the sci-fi genre:
 
-Thank you for your support, dear readers, and I hope to see you in the world of Lansera soon!
+"Wings Unseen is an enthralling female-driven fantasy debut. The world, magic system, and terrific characters – with two complex, multi-layered heroines along with the male protagonist – drew me in and kept me rapt... Compelling, entertaining, and enlightening, Wings Unseen is a fantastic read!"
+– Jeffe Kennedy, award-winning author of The Twelve Kingdoms series
 
-![wings unseen map terrain meerkat press](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/MAP-Final-500x316.jpg)
+"With a talon-like hook, Wings Unseen will grab you and not let you go."
+– Mur Lafferty, award-winning author of The Shambling Guide to New York City
+
+"Wings Unseen marries intrigue, unique worldbuilding, and political machination in a fast-paced story that will surely appeal to high fantasy and historical fantasy readers."
+– Jaym Gates, author of Shattered Queen
+
+Rebecca will be joined by authors Loren Rhoads and Dan Potter! Loren is the author of The Dangerous Type, Kill By Numbers, and No More Heroes, a space opera trilogy set in a galaxy where humans are a minority. Her newest book — 199 Cemeteries to See Before You Die — will be out in October.
+
+Dan Potter is the author of the Freelance Familiars series. Full bio coming...
+All three authors will be available for signing after reading selections from their work, and we will celebrate this milestone for Becca with the great food, drink, and community offered at the Octopus Literary Salon!
+Hope to see you there!

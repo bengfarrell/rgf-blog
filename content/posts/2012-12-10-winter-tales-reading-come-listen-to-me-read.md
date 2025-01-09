@@ -1,6 +1,10 @@
 ---
-title: "Winter Tales Reading: Come listen to me read!"
+title: "Winter Tales Reading"
 date: "2012-12-10"
+time:
+location: "Orange County Public Library"
+city: "Hillsborough, NC"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/10/WinterTales2.png" 
 categories:
   - "appearances"
   - "events"

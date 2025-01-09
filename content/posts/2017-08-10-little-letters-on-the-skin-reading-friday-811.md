@@ -1,6 +1,10 @@
 ---
-title: "Little Letters on the Skin Reading: Friday, 8/11!"
-date: "2017-08-10"
+title: "Little Letters on the Skin Reading"
+date: "2017-08-11"
+time:
+location: "The Octopus Literary Salon"
+city: "Oakland, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/little-letters-on-the-skin.jp"
 categories:
   - "appearances"
   - "publication-news"
@@ -17,7 +21,6 @@ tags:
   - "reading"
   - "the-liminal-center"
   - "what-scattered-in-the-wind"
-coverImage: "little-letters-on-the-skin.jpg"
 ---
 
 This is essentially a repost of info from when this reading was originally scheduled, but it was moved to do publication issues. Well...it's happening tomorrow! Time has flown by, and I am very excited to finally share "What Scattered in the Wind" tomorrow night in person and into posterity for anyone who orders this chapbook! Please come celebrate the launch for the anthology/chapbook it will appear in: _Little Letters on the Skin_.

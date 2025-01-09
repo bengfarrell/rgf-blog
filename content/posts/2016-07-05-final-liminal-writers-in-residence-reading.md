@@ -1,6 +1,10 @@
 ---
-title: "Final Liminal Writers in Residence Reading 7/8"
-date: "2016-07-05"
+title: "Final Liminal Writers in Residence Reading"
+date: "2016-07-08"
+time:
+location: "The Liminal Center"
+city: "Oakland, CA"
+coverImage" "https://d602mxa74hbsi.cloudfront.net/Liminal-Center.jpg"
 categories:
   - "announcements"
   - "events"

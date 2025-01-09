@@ -1,6 +1,10 @@
 ---
-title: "Reading tonight at Liminal!"
+title: "Liminal Center Reading"
 date: "2016-05-27"
+time:
+location: "The Liminal Center"
+city: "Oakland, CA"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/Liminal-Center.jpg"
 categories: 
   - "appearances"
   - "events"

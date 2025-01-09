@@ -3,8 +3,7 @@ title: "Winter Tales: The Readings"
 date: "2013-01-14"
 categories: 
   - "announcements"
-  - "appearances"
-  - "events"
+  - "recorded"
   - "writing"
 tags: 
   - "750000-of-your-friends-like-this"

@@ -1,6 +1,10 @@
 ---
-title: "My FogCon Friday Frenzy of Events!"
+title: "FogCon Appearances"
 date: "2017-03-09"
+time:
+location: "Walnut Creek Marriott"
+city: "Walnut Creek, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/03/FogCon-RFR-poster2-1024x791.jpg"
 categories:
   - "appearances"
   - "writing"
@@ -12,7 +16,6 @@ tags:
   - "reading"
   - "rebecca-gomez-farrell"
   - "walnut-creek"
-coverImage: "FogCon-RFR-poster2.jpg"
 ---
 
 This Friday is Day 1 of [FogCon](http://fogcon.org/)**,** a literary-themed, genre fiction convention that takes place in Walnut Creek every year. But for me, Friday is Day Everything! That's because I have three--3!--events going on that day, and I would love for you to join if you're attending the festivities.

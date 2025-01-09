@@ -1,6 +1,10 @@
 ---
-title: "Book Launch Party 3/29! City Beverage, 6:30-8:30"
+title: "Maya's Vacation Book Launch Party"
 date: "2011-03-22"
+time:
+location: "City Beverage"
+city: "Durham, NC"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg"
 categories:
   - "announcements"
   - "appearances"

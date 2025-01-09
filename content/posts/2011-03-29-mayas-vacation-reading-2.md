@@ -2,8 +2,7 @@
 title: "Maya's Vacation Reading #2"
 date: "2011-03-29"
 categories:
-  - "appearances"
-  - "events"
+  - "recorded"
   - "writing"
 tags:
   - "astraea-press"

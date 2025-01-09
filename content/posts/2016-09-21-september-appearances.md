@@ -1,6 +1,10 @@
 ---
-title: "September Appearances"
+title: "At the Inkwell & Literary Speakeasy Readings"
 date: "2016-09-21"
+time:
+location: "Alley Cat Books & Martuni's"
+city: "San Francisco & Oakland, CA"
+coverImage: https://d602mxa74hbsi.cloudfront.net/at-the-inkwell.jpg"
 categories:
   - "appearances"
   - "writing"

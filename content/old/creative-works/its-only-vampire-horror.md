@@ -1,7 +1,7 @@
 ---
 title: "It's Only Vampire"
 date: "2021-01-27"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/fark-in-the-time-of-covid.jPg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/fark-in-the-time-of-covid.jpg"
 publication: "Fark in the Time of COVID: The 2020 FARK Fiction Anthology"
 out of print: 
 amazon: 

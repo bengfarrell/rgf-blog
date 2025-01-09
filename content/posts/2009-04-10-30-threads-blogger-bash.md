@@ -3,9 +3,7 @@ title: "30 Threads Blogger Bash"
 date: "2009-04-10"
 categories: 
   - "announcements"
-  - "appearances"
-  - "events"
-  - "writing"
+  - "event writeup"
 tags: 
   - "30-threads-blogger-bash"
   - "dpac"

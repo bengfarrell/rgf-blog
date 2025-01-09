@@ -1,6 +1,10 @@
 ---
 title: "Bull Spec #5 Launch and NC Speculative Fiction Night"
 date: "2011-04-13"
+time: "7:30pm ET"
+location: "Quail Ridge Books"
+city: "Raleigh, NC"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/bullspec-05-page001.jpg"
 categories:
   - "announcements"
   - "appearances"

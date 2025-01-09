@@ -1,6 +1,10 @@
 ---
 title: "Reading at Shades & Shadows in Los Angeles 9/16!"
 date: "2017-09-13"
+time:
+location: "Mystic Museum"
+city: "Los Angeles, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/09/Shades-Shadows.jpg"
 categories:
   - "appearances"
   - "wings-unseen"
@@ -17,7 +21,6 @@ tags:
   - "sci-fi"
   - "shades-and-shadows"
   - "wings-unseen"
-coverImage: "Shades-Shadows.jpg"
 ---
 
 This coming Saturday evening, I am thrilled (or is it chilled?) to participate in [Shades & Shadows,](http://www.shadesandshadows.org/) Los Angeles's only dark fiction reading series:

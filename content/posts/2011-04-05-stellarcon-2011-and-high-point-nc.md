@@ -6,6 +6,7 @@ categories:
   - "living"
   - "travel"
   - "writing"
+  - "event writeup"
 tags:
   - "buildings"
   - "costumes"
