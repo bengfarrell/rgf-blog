@@ -1,6 +1,8 @@
 ---
 title: "Interview at The Muffin Blog and New Year's Blog Resolutions"
 date: "2009-12-29"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/"The-Muffin-Header.jpg"
+
 categories: 
   - "announcements"
   - "interviews"

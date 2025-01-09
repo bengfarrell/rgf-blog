@@ -1,6 +1,7 @@
 ---
 title: "Thesis Fiction"
 date: "2010-05-11"
+coverImage:
 categories: 
   - "writing-thoughts"
 tags: 
@@ -20,7 +21,7 @@ Don't get worried that I'm going to start doing this regularly (unless you'd rat
 
 > With a resignation more fierce than Kilgore Trout's, he opens his arms to the rain and yells, "Posterity!"  thus completing the ritual he's been trying to avoid ever since he first set foot in that Dionysian pit of a liquor store and released the hounds of Hades with the opening of a Fanta can; must all men come to this once their Arwens start losing the sheen of their immortality?
 
-Or in other words, like any episode of Lost. Okay, that's not fair; Lost, at least, treats these references as Easter eggs and doesn't force people to understand them to grasp the plotline. I'm not talking about merely throwing in the occasional reference to real people, brands, or places, either. That can help establish time and place effectively in modern or historical fiction. What I'm talking about is writing in a way that your narrative, plot, or characters' actions are obviously drawing on past books, theories, or people, so obviously that you directly reference what you are drawing on to create your own work.
+Or in other words, like any episode of _Lost_. Okay, that's not fair; _Lost_, at least, treats these references as Easter eggs and doesn't force people to understand them to grasp the plotline. I'm not talking about merely throwing in the occasional reference to real people, brands, or places, either. That can help establish time and place effectively in modern or historical fiction. What I'm talking about is writing in a way that your narrative, plot, or characters' actions are obviously drawing on past books, theories, or people, so obviously that you directly reference what you are drawing on to create your own work.
 
 Now, I'm not saying that everything we write needs to be an utterly pure, new work that does not draw on past thoughts and masterpieces---that would be impossible. I'm a firm believer that there is no new thing under the sun. What I'm saying is that it's possible to draw on other works without explicitly saying so in your own. Without treating your fictional narrative as if it were the culmination of twenty years of education, and you won't get your degree unless you show your superior grasp of the theoretical material in ways that will get you brownie points from the dissertation committee. Your readers are not a panel of professors looking to make sure you hit all the right notes. I guess what I'm calling for is more subtlety.
 

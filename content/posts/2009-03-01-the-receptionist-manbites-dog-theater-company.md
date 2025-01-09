@@ -1,6 +1,7 @@
 ---
-title: "The Receptionist, Manbites Dog Theater Company"
+title: "The Receptionist"
 date: "2009-03-01"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/manbitesdog.png"
 categories:
   - "theater"
   - "reviews"

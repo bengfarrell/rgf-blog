@@ -1,6 +1,7 @@
 ---
 title: "Six Sentence Sunday"
 date: "2011-06-12"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/bullspec-05-page001.jpg"
 categories:
   - "writing"
   - "writing-snippets"

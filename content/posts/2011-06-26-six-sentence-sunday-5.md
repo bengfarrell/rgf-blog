@@ -1,6 +1,8 @@
 ---
 title: "Six Sentence Sunday"
 date: "2011-06-26"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/WingsUnseen.png"
+
 categories:
   - "writing"
   - "writing-snippets"

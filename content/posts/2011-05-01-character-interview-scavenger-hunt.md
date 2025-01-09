@@ -1,9 +1,11 @@
 ---
 title: "Character Interview Scavenger Hunt!"
 date: "2011-05-01"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg"
 categories:
   - "interviews"
   - "writing"
+  - "blog-tours"
 tags:
   - "astraea-press"
   - "character-interview"

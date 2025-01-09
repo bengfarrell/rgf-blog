@@ -1,6 +1,7 @@
 ---
 title: "Six Sentence Sunday"
 date: "2011-09-25"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/dark-luminous-wings.jpg"
 categories: 
   - "writing"
   - "writing-snippets"

@@ -1,6 +1,7 @@
 ---
 title: "The Hunt for the Mantress"
 date: "2009-11-23"
+coverImage:
 categories: 
   - "writing"
   - "writing-thoughts"

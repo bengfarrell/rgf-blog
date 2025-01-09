@@ -1,12 +1,13 @@
 ---
 title: "Stellarcon 2011 and High Point, NC"
 date: "2011-04-05"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon22.jpg"
 categories:
   - "high-point-nc-travel"
   - "living"
   - "travel"
   - "writing"
-  - "event writeup"
+  - "event-writeups"
 tags:
   - "buildings"
   - "costumes"

@@ -1,6 +1,7 @@
 ---
 title: "I'm in Durham Magazine!"
 date: "2010-08-13"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/eatbloglove.jpg"
 categories: 
   - "announcements"
   - "interviews"
@@ -19,7 +20,7 @@ More specifically, one of the websites I blog for is in _Durham Magazine_, a loc
 
 > Our website has been profiled in the new issue of _Durham Magazine_, the Foodie issue!
 > 
-> [![](images/eatbloglove-214x300.jpg)](http://carpedurham.com/wp-content/uploads/2010/08/eatbloglove.jpg)
+>![cover of eat blog love issue](https://d602mxa74hbsi.cloudfront.net/eatbloglove.jpg)
 > 
 > Pick up a copy, and you will learn the history of how **RPP** and **YAR** started Carpe Durham (including their and some of our real names–ooh, ahh!), the basic premise behind how a restaurant gets written up (it’s not complicated, folks), and how you—the active, opinionated, and fantastic readers and commentators here—have made this site a success.
 > 

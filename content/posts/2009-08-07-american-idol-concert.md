@@ -1,6 +1,7 @@
 ---
 title: "American Idol Concert"
 date: "2009-08-07"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2009/08/julyaugust-137.jpg"
 categories:
   - "music-2"
   - "event-writeups"

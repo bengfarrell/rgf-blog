@@ -1,6 +1,7 @@
 ---
 title: "Maya's Vacation on sale for 99 cents!"
 date: "2011-12-27"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg"
 categories:
   - "announcements"
   - "publication-news"

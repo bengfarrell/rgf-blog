@@ -1,6 +1,8 @@
 ---
 title: "Strength of Character"
 date: "2009-02-16"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/battlestar.jpg"
+
 categories: 
   - "television"
   - "writing"
