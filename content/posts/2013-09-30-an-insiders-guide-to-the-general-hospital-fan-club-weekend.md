@@ -1,6 +1,28 @@
 ---
 title: "An Insider's Guide to the General Hospital Fan Club Weekend"
 date: "2013-09-30"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend_2013.jpg"
+publication: 
+out of print: "yes"
+amazon: 
+barnes and noble: 
+bookshop dot org:
+pub store: 
+categories:
+  - "announcements"
+  - "publication-news"
+  - "misc"
+  - "info"  
+tags:
+  - "2013"
+  - "behind-the-scenes"
+  - "general-hospital-fan-club-weekend"
+  - "katrina-rasbold"
+  - "john-j-york"
+  - "photography"
+  - "photos"
+  - "rebecca-gomez-farrell"
+  - "yearbook"
 ---
 
 I have photography credit on these treats for _General Hospital_ fans.

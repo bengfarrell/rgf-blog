@@ -1,6 +1,7 @@
 ---
 title: "Nonfiction Bragging: My Winning Cocktail, the Frosty's Chocolate Orange Martini at the Washington Duke Inn"
 date: "2012-12-17"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/12/Frosty-Martini-WDI-Final-682x1024.jpg"
 categories:
   - "announcements"
   - "cocktails-spirits-bars-recipes-review"
@@ -9,6 +10,7 @@ categories:
   - "recipes"
   - "north-carolina-bars"
   - "restaurants"
+  - "misc"
 tags:
   - "bull-durham-bar"
   - "cardamom"
@@ -48,7 +50,14 @@ But if that’s too much work for you, then here’s my recipe with the tweaks t
 
 **Frosty’s Chocolate Orange Martini**
 
-2 shots orange juice 1 shot Stoli Vanil 2/3 shot white crème de cacao 1/3 shot Grand Marnier 1 shot cardamom-infused simple syrup Finely grated Terry’s White Chocolate Orange Granulated sugar Slices of Terry’s Milk Chocolate Orange
+2 shots orange juice\
+1 shot Stoli Vanil\
+2/3 shot white crème de cacao\
+1/3 shot Grand Marnier\
+1 shot cardamom-infused simple syrup\
+Finely grated Terry’s White Chocolate Orange\
+Granulated sugar\
+Slices of Terry’s Milk Chocolate Orange
 
 Directions: Chill a martini glass. Rim the glass with extra cardamom syrup, then duck it in a mixture of the ground chocolate orange and sugar. Shake up the first 5 ingredients. Pour into the martini glass. Garnish with a slice of chocolate orange on the side.
 

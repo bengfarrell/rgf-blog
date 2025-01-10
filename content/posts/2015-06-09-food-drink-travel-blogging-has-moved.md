@@ -1,6 +1,7 @@
 ---
 title: "Food, Drink, & Travel Blogging Has Moved!"
 date: "2015-06-09"
+coverImage: "https://thegourmez.com/img/logo.svg"
 categories:
   - "announcements"
   - "writing"

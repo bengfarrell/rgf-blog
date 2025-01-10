@@ -1,8 +1,12 @@
 ---
 title: "Blog Hopping today!"
 date: "2014-05-12"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2014/05/1-FINALBookCoverPreviewLiterary-Suckers.jpg"
 categories:
   - "writing"
+  - "blog-tours"
+  - "interviews"
+  - "writing-thoughts"
 tags:
   - "astraea-press"
   - "blanca-florido"

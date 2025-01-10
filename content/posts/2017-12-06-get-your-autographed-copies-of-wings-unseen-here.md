@@ -1,6 +1,7 @@
 ---
 title: "Order Your Autographed Gifts of Wings Unseen by 12/16!"
 date: "2017-12-06"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/WingsUnseen.png"
 categories:
   - "announcements"
   - "wings-unseen"
@@ -16,7 +17,6 @@ tags:
   - "rebecca-gomez-farrell"
   - "wings-unseen"
   - "ya-fantasy"
-coverImage: "Octopus-Launch-15.jpg"
 ---
 
 We're only 20 days out from Christmas, and thus the time for gift giving is upon us! For $15, you can send a signed, personalized copy of my epic fantasy, _Wings Unseen_, to anyone you love - heck, it's cool if you send it to someone you only kind of like, too. ;)

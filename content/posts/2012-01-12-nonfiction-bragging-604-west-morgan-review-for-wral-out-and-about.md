@@ -1,12 +1,14 @@
 ---
 title: "Nonfiction Bragging: 604 West Morgan Review for WRAL Out and About"
 date: "2012-01-12"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/WhatsOnTap-header_609x100.jpg"
 categories: 
   - "durham-restaurant-reviews"
   - "publication-news"
   - "restaurants"
   - "wral-2"
   - "writing"
+  - "reviews"
 tags: 
   - "604-west-morgan"
   - "dining"

@@ -1,6 +1,7 @@
 ---
 title: "Good Genes published at the Future Fire!"
 date: "2016-10-31"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/10/f37cover.jpg"
 categories:
   - "publication-news"
   - "writing"

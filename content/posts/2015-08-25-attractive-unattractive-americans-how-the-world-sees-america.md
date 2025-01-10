@@ -1,6 +1,7 @@
 ---
 title: "Attractive Unattractive Americans: How the World Sees America"
 date: "2015-08-25"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/08/Aua_cover-313x500.jpg"
 categories:
   - "book-reviews-writing"
   - "reviews"

@@ -1,9 +1,9 @@
 ---
 title: "My Dublin Foodie Hit List"
-date: "2019-08-03"
+date: "2019-08-14"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2019/08/13172735/Dublin-2019-500x375.jpg"
 categories: 
-  - "appearances"
-  - "events"
+  - "announcements"
 tags: 
   - "dublin"
   - "foodie"

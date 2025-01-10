@@ -1,6 +1,7 @@
 ---
 title: "Fiction Bragging--Last Complaint"
 date: "2012-01-05"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/wow-logo.jpg"
 categories:
   - "announcements"
   - "publication-news"

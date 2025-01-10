@@ -1,6 +1,7 @@
 ---
 title: "Fall Workshops at Liminal"
 date: "2016-09-09"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/09/12800307_436089926598346_4619321248534335334_n.jpg"
 categories:
   - "announcements"
   - "writing"

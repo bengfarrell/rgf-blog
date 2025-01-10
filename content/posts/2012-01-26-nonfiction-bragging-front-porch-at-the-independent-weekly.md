@@ -1,6 +1,7 @@
 ---
 title: "Nonfiction Bragging - Front Porch at the Independent Weekly"
 date: "2012-01-26"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/cropped-IndyLogo.png"
 categories: 
   - "announcements"
   - "publication-news"

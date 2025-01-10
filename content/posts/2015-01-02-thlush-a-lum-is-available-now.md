@@ -1,6 +1,7 @@
 ---
 title: "\"Thlush-A-Lum\" is Available Now!"
 date: "2015-01-02"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/Pulp-Literature-5.JPG"
 categories:
   - "announcements"
   - "publication-news"

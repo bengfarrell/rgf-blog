@@ -1,6 +1,7 @@
 ---
 title: "Fiction Bragging - Win a copy of Maya's Vacation! Bonus: Listen to Me Read From It!"
 date: "2012-05-03"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg"
 categories:
   - "announcements"
   - "publication-news"

@@ -1,6 +1,7 @@
 ---
 title: "\"Mixed Signals, or, Learning How to Speak\" Now Available!"
 date: "2016-09-08"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/06/CoverIssue8-381x500.jpg"
 categories:
   - "publication-news"
   - "writing"

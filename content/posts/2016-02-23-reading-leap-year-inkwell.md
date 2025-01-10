@@ -5,7 +5,6 @@ time:
 location: "Alley Cat Books"
 city: "San Francisco, CA"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/at-the-inkwell.jpg"
-
 categories: 
   - "announcements"
   - "writing"

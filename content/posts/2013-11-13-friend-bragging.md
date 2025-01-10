@@ -1,6 +1,7 @@
 ---
 title: "Friend Bragging"
 date: "2013-11-13"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/11/candles-soap-312x500.jpg"
 categories:
   - "announcements"
   - "writing"

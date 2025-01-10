@@ -1,6 +1,10 @@
 ---
-title: "Come to the Alameda Author Series on 2/25!"
-date: "2019-01-27"
+title: "The Alameda Author Series"
+date: "2019-02-25"
+time:
+location: "The Alameda Free Library"
+city: "Alameda, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2019/01/27200952/aauw-snip.jpg"
 categories:
   - "appearances"
   - "events"
@@ -13,7 +17,6 @@ tags:
   - "literary-events"
   - "rebecca-gomez-farrell"
   - "wings-unseen"
-coverImage: "aauw-snip.jpg"
 ---
 
 I would love to have you join me in Alameda for this author event. As I'm the only author on the agenda, I am a bit nervous about having a turnout...this is why I usually invite more authors to read with me. ;)  RSVP through Eventbrite [right here](https://www.eventbrite.com/e/rebecca-gomez-farrell-at-alameda-authors-series-3-tickets-54511530455), and yes, it's free. I will have copies of _Wings Unsee_n available for sale.

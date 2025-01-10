@@ -1,6 +1,7 @@
 ---
 title: "Ad Astra: The 50th Anniversary SFWA Cookbook for Sale!"
 date: "2015-08-06"
+coverImage: "http://thegourmez.com/wp-content/uploads/2015/08/Ad-Astra-Cover.jpg"
 categories: 
   - "announcements"
   - "publication-news"

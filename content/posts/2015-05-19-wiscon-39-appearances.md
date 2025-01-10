@@ -1,10 +1,15 @@
 ---
 title: "WisCon 39 Appearances!"
 date: "2015-05-19"
+time:
+location: "Wiscon 39"
+city: "Madison, WA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/05/wiscon39.jpg"
 categories:
   - "announcements"
   - "appearances"
   - "writing"
+  - "events"
 tags:
   - "appearances"
   - "fantasy"

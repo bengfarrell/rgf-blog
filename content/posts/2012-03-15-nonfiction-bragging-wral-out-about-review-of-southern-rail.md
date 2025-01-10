@@ -1,6 +1,7 @@
 ---
 title: "Nonfiction Bragging: WRAL Out & About Review of Southern Rail"
 date: "2012-03-15"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/WhatsOnTap-header_609x100.jpg"
 categories:
   - "announcements"
   - "chapel-hill-restaurant-reviews"
@@ -10,6 +11,7 @@ categories:
   - "restaurants"
   - "wral-2"
   - "writing"
+  - "reviews"
 tags:
   - "drunk-food"
   - "nonfiction-bragging"

@@ -1,6 +1,7 @@
 ---
 title: "The Map for Wings Unseen is Released!"
 date: "2017-08-03"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/MAP-Final-1024x648.jpg"
 categories:
   - "wings-unseen"
 tags:

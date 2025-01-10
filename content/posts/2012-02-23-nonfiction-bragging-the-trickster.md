@@ -1,6 +1,7 @@
 ---
 title: "Nonfiction Bragging--The Trickster"
 date: "2012-02-23"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/cropped-IndyLogo.png"
 categories:
   - "announcements"
   - "publication-news"

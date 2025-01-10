@@ -1,12 +1,14 @@
 ---
 title: "Food Writing Bragging: New Post at WRAL"
 date: "2013-06-07"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/OAA-logo.gif"
 categories:
   - "announcements"
   - "coffee-shop"
   - "publication-news"
   - "restaurants"
   - "wral-2"
+  - "reviews"
 tags:
   - "bar-lusconi"
   - "bermuda-triangle"

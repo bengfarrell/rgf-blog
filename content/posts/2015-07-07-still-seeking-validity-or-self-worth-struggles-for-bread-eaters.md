@@ -1,6 +1,7 @@
 ---
 title: "Still Seeking Validity, or, Self-Worth Struggles for Bread-Eaters"
 date: "2015-07-07"
+coverImage:
 categories:
   - "living"
   - "writing-thoughts"

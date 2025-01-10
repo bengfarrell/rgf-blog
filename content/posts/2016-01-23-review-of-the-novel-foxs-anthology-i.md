@@ -1,6 +1,7 @@
 ---
 title: "Review of the Novel Fox's Anthology I"
 date: "2016-01-23"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/02/Logo-01-150x150.png"
 categories:
   - "book-reviews-writing"
   - "reviews"

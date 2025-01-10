@@ -1,6 +1,7 @@
 ---
 title: "Review Bragging and Winners of Maya's Vacation!"
 date: "2012-05-10"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg"
 categories:
   - "announcements"
   - "publication-news"

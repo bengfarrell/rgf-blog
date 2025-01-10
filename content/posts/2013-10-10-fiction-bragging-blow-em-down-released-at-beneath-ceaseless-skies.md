@@ -1,6 +1,7 @@
 ---
 title: "Fiction Bragging -- \"Blow 'Em Down\" released at Beneath Ceaseless Skies!"
 date: "2013-10-10"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/bcs-131.jpg"
 categories:
   - "publication-news"
   - "writing"

@@ -1,6 +1,10 @@
 ---
-title: "Join me for the Women Who Submit Lit Reading 8/11!"
-date: "2018-08-09"
+title: "Women Who Submit Lit Reading!"
+date: "2018-08-11"
+time:
+location: "The Octopus Literary Salon"
+city: "Oakland, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/08/wwsw-cover-500x281.jpg"
 categories:
   - "appearances"
   - "writing"

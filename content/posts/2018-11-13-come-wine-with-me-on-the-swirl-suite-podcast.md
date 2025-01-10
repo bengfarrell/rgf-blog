@@ -1,8 +1,13 @@
 ---
-title: "Come Wine with Me on the Swirl Suite Podcast!"
-date: "2018-11-13"
+title: "The Swirl Suite Podcast!"
+date: "2017-07-01"
+time:
+location: "Online"
+city: "The Swirl Suite Podcast"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/11/13225810/Swirl-Suite-1024x1021.jpg"
 categories:
   - "appearances"
+  - "recorded"
 tags:
   - "food-blogger"
   - "interview"

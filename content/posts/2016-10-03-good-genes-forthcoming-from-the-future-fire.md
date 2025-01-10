@@ -1,6 +1,7 @@
 ---
 title: "\"Good Genes\" Forthcoming from the Future Fire!"
 date: "2016-10-03"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/10/f37cover.jpg"
 categories:
   - "announcements"
   - "writing"
@@ -11,7 +12,6 @@ tags:
   - "rebecca-gomez-farrell"
   - "the-future-fire"
   - "weird-west-short-story"
-coverImage: "DCP_2034.jpg"
 ---
 
 Announcements of upcoming short story publications don't normally take me right up until they're available, but ... I've been busy, y'all. Busy in the greatest of ways, career-wise, which is a wonderful feeling but also means I don't keep my various websites as updated as I'd like with the most current information. So forgive me for posting this announcement just a couple of weeks before the story itself will be available...

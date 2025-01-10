@@ -1,6 +1,7 @@
 ---
 title: "Winter Tales: The Readings"
 date: "2013-01-14"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/10/WinterTales2.png" 
 categories: 
   - "announcements"
   - "recorded"

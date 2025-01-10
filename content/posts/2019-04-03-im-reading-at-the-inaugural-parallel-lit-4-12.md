@@ -1,6 +1,10 @@
 ---
-title: "I'm Reading at the Inaugural Parallel Lit 4/12!"
-date: "2019-04-03"
+title: "The Inaugural Parallel Lit"
+date: "2019-04-12"
+time:
+location: "Paulista Kitchen"
+city: "Oakland, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2019/04/03195649/Parallel-Lit.jpg"
 categories:
   - "appearances"
   - "events"
@@ -12,7 +16,6 @@ tags:
   - "paulista-kitchen"
   - "reading-series"
   - "speculative-fiction-readings"
-coverImage: "Parallel-Lit.jpg"
 ---
 
 Please join me at **Parallel Lit** on **Friday, 4/12** at **8:30 pm** at **Paulista Kitchen** in Oakland!

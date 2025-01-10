@@ -1,12 +1,14 @@
 ---
 title: "Nonfiction Bragging: WRAL Village Burgers Review"
 date: "2013-02-15"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/OAA-logo.gif"
 categories:
   - "announcements"
   - "chapel-hill-restaurant-reviews"
   - "publication-news"
   - "restaurants"
   - "wral-2"
+  - "reviews"
 tags:
   - "chapel-hill"
   - "hamburgers"

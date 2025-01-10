@@ -1,11 +1,13 @@
 ---
-title: "Last Day for the PULP Literature Kickstarter! And an interview with Thlush-A-Lum's Markella."
+title: "Last Day for the PULP Literature Kickstarter! And an interview with Thlush-A-Lum's Markella"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/Pulp-Literature-5.JPG"
 date: "2014-12-01"
 categories:
   - "announcements"
   - "publication-news"
   - "writing"
   - "writing-thoughts"
+  - "interviews"
 tags:
   - "horror"
   - "kickstarter"

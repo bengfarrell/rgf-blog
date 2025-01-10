@@ -1,10 +1,12 @@
 ---
 title: "Nonfiction Bragging: Guest Blogging for Localwise!"
 date: "2015-08-06"
+coverImage: "http://thegourmez.com/wp-content/uploads/2015/08/localwise-logo.png"
 categories: 
   - "announcements"
   - "publication-news"
   - "writing"
+  - "reviews"
 tags: 
   - "bay-area"
   - "blogging"

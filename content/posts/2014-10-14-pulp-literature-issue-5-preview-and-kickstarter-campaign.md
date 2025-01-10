@@ -1,6 +1,7 @@
 ---
 title: "PULP Literature Issue #5 Preview *and* Kickstarter Campaign"
 date: "2014-10-14"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/Pulp-Literature-5.JPG"
 categories:
   - "announcements"
   - "publication-news"

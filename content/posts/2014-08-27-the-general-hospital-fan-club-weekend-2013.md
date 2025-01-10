@@ -12,7 +12,6 @@ categories:
   - "announcements"
   - "publication-news"
   - "misc"  
-  - "info"
 tags:
   - "2013"
   - "behind-the-scenes"

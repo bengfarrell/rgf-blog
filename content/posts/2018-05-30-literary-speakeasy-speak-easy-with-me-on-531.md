@@ -1,6 +1,10 @@
 ---
-title: "Literary Speakeasy - Speak Easy with Me on 5/31!"
-date: "2018-05-30"
+title: "Literary Speakeasy"
+date: "2018-05-31"
+time:
+location: "Martuni's"
+city: "San Francisco, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/05/literary-speakeasy-1024x576.jpg"
 categories:
   - "appearances"
 tags:

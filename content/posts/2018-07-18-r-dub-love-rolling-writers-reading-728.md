@@ -1,6 +1,10 @@
 ---
-title: "R-Dub Love Rolling Writers Reading 7/28!"
-date: "2018-07-18"
+title: "R-Dub Love Rolling Writers Reading"
+date: "2018-07-28"
+time:
+location: "Rolling-Out Cafe"
+city: "San Francisco, CA"
+coverImage: "https://gallery.mailchimp.com/93d9e5c66fa0eb63dc1bfcee9/images/21987d00-6461-4fe3-8ef2-1d8b3f997044.jpg" 
 categories:
   - "appearances"
 ---

@@ -1,6 +1,10 @@
 ---
-title: "Join me on 4/14 for a Litquake panel on Debut Authors!"
-date: "2019-04-03"
+title: "Litquake Panel: Debut Authors--Fame and Fortune in Five Easy Steps"
+date: "2019-04-14"
+time:
+location: "Z Space"
+city: "San Francisco, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2019/04/03205226/litquake.jpg"
 categories:
   - "appearances"
   - "events"

@@ -1,6 +1,7 @@
 ---
 title: "Wings Unseen coming from Meerkat Press in August 2017!"
 date: "2017-01-20"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/02/wingsunseen.jpg"
 categories:
   - "books"
   - "publication-news"

@@ -1,6 +1,7 @@
 ---
 title: "Goodreads Giveaway of Wings Unseen through June 24!"
 date: "2017-05-31"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/02/wingsunseen.jpg"
 categories:
   - "publication-news"
   - "wings-unseen"

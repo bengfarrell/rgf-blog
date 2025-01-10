@@ -5,7 +5,6 @@ time:
 location: "Borderlands Books"
 city: "San Francisco, CA"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/trilogy-shivers.png"
-
 categories:
   - "announcements"
   - "appearances"
@@ -23,7 +22,6 @@ tags:
   - "rebecca-gomez-farrell"
   - "release-date"
   - "wings-unseen"
-
 ---
 
 _Wings Unseen,_ my debut epic fantasy novel, is now available at bookstores and libraries and everywhere online! Here's a perspective you don't see of the cover often, the full front and back:

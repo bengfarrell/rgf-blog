@@ -1,6 +1,7 @@
 ---
 title: "Fiction Bragging Reminder: Last Week to get \"Bother\" for Free!"
 date: "2013-04-24"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/bullspec-05-page001.jpg"
 categories:
   - "announcements"
   - "publication-news"

@@ -1,6 +1,7 @@
 ---
 title: "Nebula and Hugo Award Eligible Fiction for 2018"
 date: "2018-01-17"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/Nebula-Logo.png"
 categories:
   - "announcements"
 tags:
@@ -12,7 +13,6 @@ tags:
   - "nebulas"
   - "nominations"
   - "rebecca-gomez-farrell"
-coverImage: "9781946154002-WingsUnseen-CoverFINAL_03.jpg"
 ---
 
 It's award nomination season among science fiction and fantasy writers! As is the custom, I'm offering a list of my short stories and novel publications from 2017 that are eligible for nomination--yes, that includes nearly all my 2017 publications. Qualifying isn't that difficult. ;)

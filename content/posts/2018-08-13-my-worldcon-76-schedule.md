@@ -1,6 +1,10 @@
 ---
 title: "My Worldcon 76 Schedule!"
-date: "2018-08-13"
+date: "2018-08-17"
+time:
+location: "Worldcon 76"
+city: "San Jose, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/08/Screenshot_2018-08-08-Worldcon-76-500x149.png"
 categories:
   - "appearances"
 tags:

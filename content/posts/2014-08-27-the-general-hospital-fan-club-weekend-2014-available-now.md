@@ -1,11 +1,13 @@
 ---
 title: "The General Hospital Fan Club Weekend - 2014, Available now!"
 date: "2014-08-27"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend_2014.jpg"
 categories:
   - "announcements"
   - "publication-news"
   - "writing"
   - "misc"
+  - "info"
 tags:
   - "2014"
   - "behind-the-scenes"

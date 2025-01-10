@@ -1,6 +1,7 @@
 ---
 title: "My Last Day Without You"
 date: "2015-01-13"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/01/MLDWY_PosterNew-341x500.jpg"
 categories:
   - "film-2"
   - "reviews"

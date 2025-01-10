@@ -1,11 +1,14 @@
 ---
 title: "Destroy all Cling-Ons with me at Con-Volution 2017!"
-date: "2017-10-04"
+date: "2017-10-08"
+time:
+location: "Con-Volution 2017"
+city: "San Ramon, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/10/convolution3-500x190.png"
 categories:
   - "appearances"
   - "writing"
   - "writing-thoughts"
-coverImage: "convolution4.jpg"
 ---
 
 This coming weekend, I'm attending [Con-Volution 2017](http://www.con-volution.com/), a sci-fi and fantasy convention with a strong focus on all things crafty in the genre.

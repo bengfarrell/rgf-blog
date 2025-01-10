@@ -1,6 +1,7 @@
 ---
 title: "\"Thlush-a-lum\" to be published in PULP Literature!"
 date: "2014-09-05"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/Pulp-Literature-5.JPG"
 categories:
   - "announcements"
   - "publication-news"

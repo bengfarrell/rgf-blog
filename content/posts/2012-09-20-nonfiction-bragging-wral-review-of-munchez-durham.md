@@ -1,6 +1,7 @@
 ---
 title: "Nonfiction Bragging - WRAL Review of Munchez (Durham) *CLOSED*"
 date: "2012-09-20"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/OAA-logo.gif"
 categories:
   - "durham-restaurant-reviews"
   - "publication-news"

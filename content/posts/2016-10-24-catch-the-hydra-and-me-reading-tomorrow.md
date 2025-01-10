@@ -5,7 +5,6 @@ time:
 location: "Woods Bar & Brewery"
 city: "Oakland, CA"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/the-hydra-reading.jpg"
-
 categories:
   - "announcements"
   - "writing"

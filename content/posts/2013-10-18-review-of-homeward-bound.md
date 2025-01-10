@@ -1,6 +1,7 @@
 ---
 title: "Review of Homeward Bound"
 date: "2013-10-18"
+coverImage: "http://www.newrepublic.com/sites/default/files/u36883/homeward-bound-emily-matchar-041013-marg.jpg"
 categories: 
   - "reviews"
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "3 Days Left to Win Wings Unseen Through LibraryThing!"
 date: "2017-05-27"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/02/wingsunseen.jpg"
 categories:
   - "wings-unseen"
   - "writing"

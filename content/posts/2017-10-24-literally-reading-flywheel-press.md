@@ -1,6 +1,10 @@
 ---
-title: "I'm Literally Reading 10/24 at Flywheel Press's Literally Series!"
+title: "Flywheel Press's Literally Series"
 date: "2017-10-24"
+time:
+location: "Flywheel Press"
+city: "San Mateo, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/10/Literally-500x188.png"
 categories:
   - "appearances"
   - "wings-unseen"
@@ -13,7 +17,6 @@ tags:
   - "rebecca-gomez-farrell"
   - "san-mateo"
   - "wings-unseen"
-coverImage: "Literally.png"
 ---
 
 _Woosh!_ That was my schedule zooming by too fast for me to keep up with it. Thus, I haven't had time to give my next reading much promotion, but there's still time! Barely.

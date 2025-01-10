@@ -1,6 +1,7 @@
 ---
 title: "Review of Amélie: A New Musical"
 date: "2015-09-20"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/09/amelie.jpg"
 categories:
   - "theater"
   - "reviews"

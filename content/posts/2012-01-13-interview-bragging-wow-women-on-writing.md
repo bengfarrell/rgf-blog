@@ -1,6 +1,7 @@
 ---
 title: "Interview Bragging: WOW! Women on Writing!"
 date: "2012-01-13"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/wow-logo.jpg"
 categories:
   - "announcements"
   - "interviews"

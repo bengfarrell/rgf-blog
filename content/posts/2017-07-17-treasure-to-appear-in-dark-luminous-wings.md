@@ -1,6 +1,7 @@
 ---
 title: "\"Treasure\" to appear in Dark Luminous Wings"
 date: "2017-07-17"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/07/dark-luminous-wings-332x500.jpg"
 categories:
   - "publication-news"
   - "writing"
@@ -14,7 +15,6 @@ tags:
   - "treasure"
   - "vonnie-winslow-crist"
   - "writing-process"
-coverImage: "dark-luminous-wings-e1538375632747.jpg"
 ---
 
 For the first time ever, I will have a short story included in an anthology! In fact, I will have \*two\* stories in anthologies in the coming months, in addition, of course, to the publication and book tour for [Wings Unseen](/blog/2017/01/wings-unseen-coming-from-meerkat-press-in-august-2017/), my first novel. "Treasure," a fantasy fable appearing in _Dark Luminous Wings_ from [Pole to Pole Publishing](http://poletopolepublishing.com/), shares quite a lot in common with _Wings Unseen_, actually. Here's the early anthology cover art that co-editor Vonnie Winslow Crist revealed in May:

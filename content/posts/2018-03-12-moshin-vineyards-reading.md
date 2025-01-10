@@ -1,6 +1,10 @@
 ---
 title: "Moshin Vineyards Salon Series Reading!"
-date: "2018-03-12"
+date: "2018-03-19"
+time:
+location: "Moshin Vineyards"
+city: "Healdsburg, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/03/moshin.jpg"
 categories:
   - "appearances"
 tags:

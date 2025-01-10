@@ -1,10 +1,12 @@
 ---
 title: "\"Warm Your Heart\" Christmas Blog Tour from Astraea Press (and prizes!)"
 date: "2013-12-16"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/Astraea-Press-header.jpg"
 categories:
   - "announcements"
   - "publication-news"
   - "writing"
+  - "blog-tours"
 tags:
   - "amazon-giftcard"
   - "astraea-press"

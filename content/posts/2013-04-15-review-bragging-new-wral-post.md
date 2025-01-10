@@ -1,12 +1,14 @@
 ---
 title: "Review Bragging - New WRAL Post"
 date: "2013-04-15"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/OAA-logo.gif"
 categories:
   - "announcements"
   - "durham-restaurant-reviews"
   - "publication-news"
   - "restaurants"
   - "wral-2"
+  - "reviews"
 tags:
   - "beans"
   - "carpe-durham"

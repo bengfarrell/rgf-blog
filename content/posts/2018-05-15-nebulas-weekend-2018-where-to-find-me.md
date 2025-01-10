@@ -1,6 +1,10 @@
 ---
-title: "Nebulas Weekend 2018 - Where to Find Me!"
-date: "2018-05-15"
+title: "Nebulas Weekend 2018!"
+date: "2018-05-17"
+time:
+location: "Nebula Conference 2018"
+city: "Pittsburgh, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/05/SFWA-Autographing-flyer-8_5x11-2018-e1525368773107-807x1024-807x1024.jpg"
 categories:
   - "appearances"
 tags:

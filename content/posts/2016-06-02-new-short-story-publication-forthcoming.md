@@ -1,6 +1,7 @@
 ---
 title: "New Short Story Publication Forthcoming!"
 date: "2016-06-02"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/06/CoverIssue8-381x500.jpg"
 categories:
   - "publication-news"
   - "writing"

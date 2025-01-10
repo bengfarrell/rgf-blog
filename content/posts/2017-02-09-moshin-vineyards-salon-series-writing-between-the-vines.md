@@ -1,6 +1,7 @@
 ---
 title: "CANCELLED: Reading at Moshin Vineyard's Salon Series for Writing Between the Vines!"
 date: "2017-02-09"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/02/writing-between-the-vines.jpeg"
 categories:
   - "appearances"
 tags:

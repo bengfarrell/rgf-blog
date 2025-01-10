@@ -2,11 +2,11 @@
 title: "The NC Leg of the Wings Unseen Book Tour"
 date: "2017-09-18"
 time:
-location: "
+location: "Various North Carolina locations"
 city:
 coverImage:
 categories:
-  - "appearances"
+  - "announcements"
   - "wings-unseen"
 ---
 

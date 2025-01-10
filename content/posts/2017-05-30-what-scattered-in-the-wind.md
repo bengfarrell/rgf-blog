@@ -1,6 +1,7 @@
 ---
 title: "My Next Reading & Story: \"What Scattered in the Wind\""
 date: "2017-05-30"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/little-letters-on-the-skin.jpg"
 categories:
   - "appearances"
   - "publication-news"

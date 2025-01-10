@@ -1,6 +1,7 @@
 ---
 title: "Need Gift Ideas? Give the gift of (my) fiction!"
 date: "2015-12-15"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/12/stocks-500x500.jpg"
 categories:
   - "publication-news"
   - "writing"

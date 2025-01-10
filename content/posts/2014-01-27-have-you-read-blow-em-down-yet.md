@@ -1,6 +1,7 @@
 ---
 title: "Have you read \"Blow 'Em Down\" yet?"
 date: "2014-01-27"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/bullspec-05-page001.jpg"
 categories: 
   - "publication-news"
   - "writing"

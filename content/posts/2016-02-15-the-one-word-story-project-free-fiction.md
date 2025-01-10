@@ -1,6 +1,7 @@
 ---
 title: "The One Word Story Project: Free Fiction!"
 date: "2016-02-15"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/02/one-word-story-graphic-banner-500x73.jpg"
 categories:
   - "writing"
 tags:

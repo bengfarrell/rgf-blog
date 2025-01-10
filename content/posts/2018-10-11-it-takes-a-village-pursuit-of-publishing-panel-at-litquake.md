@@ -1,6 +1,10 @@
 ---
-title: "It Takes a Village - Pursuit of Publishing Panel at Litquake!"
-date: "2018-10-11"
+title: "It Takes a Village: Pursuit of Publishing Panel at Litquake!"
+date: "2018-10-14"
+time:
+location: "California College of the Arts"
+city: "San Francisco, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/10/LQ-2018-horiz.png"
 categories:
   - "appearances"
   - "writing"
@@ -11,7 +15,7 @@ tags:
   - "pursuit-of-publishing"
   - "rebecca-gomez-farrell"
   - "writer-support-networks"
-coverImage: "LQ-2018-horiz.png"
+
 ---
 
 This Sunday, **10/14,** at **3:30 pm**, I'll be on the [Pursuit of Publishing: It Takes a Village Pane](https://www.litquake.org/2018-litquake-festival.html)l at Litquake!

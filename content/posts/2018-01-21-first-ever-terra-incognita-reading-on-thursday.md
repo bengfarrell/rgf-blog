@@ -1,6 +1,10 @@
 ---
 title: "Catch me at the first ever Terra Incognita Reading on Thursday!"
-date: "2018-01-21"
+date: "2018-01-25"
+time:
+location: "Octopus Literary Salon"
+city: "Oakland, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/01/terra-incognita-500x432.jpg"
 categories:
   - "appearances"
   - "wings-unseen"
@@ -10,7 +14,6 @@ tags:
   - "readings"
   - "the-escapery"
   - "wings-unseen"
-coverImage: "terra-incognita.jpg"
 ---
 
 Join me on Thursday, **1/25/18** at **7 pm** at the **Octopus Literary Salon** for a brand-new Bay Area reading series: **Terra Incognita!** ![terra incognita reading series](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/01/terra-incognita-500x432.jpg)Sponsored by the Escapery, a Bay Area organization offering adventures for artists and writers of all levels, [Terra Incognita](https://www.theescapery.org/terra-incognita/) is a genre fiction-based reading series that showcases Bay Area authors. Each month, a different genre or hybrid genre will be represented, ideally including a range of authors of varying skills and publication history. And the first month's theme is Speculative Fiction!

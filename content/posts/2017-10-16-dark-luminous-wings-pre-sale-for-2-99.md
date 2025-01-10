@@ -1,6 +1,7 @@
 ---
 title: "Dark Luminous Wings Pre-sale for $2.99!"
 date: "2017-10-16"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/07/dark-luminous-wings-332x500.jpg"
 categories:
   - "publication-news"
   - "writing"
