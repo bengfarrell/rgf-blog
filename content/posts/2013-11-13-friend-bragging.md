@@ -41,7 +41,7 @@ Carolyn Ridder Aspenson is another writer from _All My Writers_, and I've read h
 
 [![unfinished business](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/11/unfinished-business.jpg)](/blog/2013/11/friend-bragging/unfinished-business/)
 
-Carolyn's been in a whirlwind of writing since that publication, and she has a Chrismas novella also available at Amazon called _Santa's Gift_ and a diet guide, which anyone who's ever known Carolyn can vouch for -- the woman knows her fitness.
+Carolyn's been in a whirlwind of writing since that publication, and she has a Chrismas novella also available at Amazon called _Santa's Gift_ and a diet guide, which anyone who's ever known Carolyn can vouch for—the woman knows her fitness.
 
 ![quick start guide](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/11/quick-start-guide-312x500.jpg)
 

@@ -25,7 +25,7 @@ What makes this reprint so special is that _Accolades_ is a celebration of the s
 
 ![women who submit, women who submit lit, submission, publishing](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/03/05073208/WWS-FINAL-LOGO-500x462.jpg)
 
-Every other month, I spend two hours submitting out my work for publication and encouraging other writers to do the same. _Accolades_ is proof of how effective that support and time investment is, as all the works featured within it are reprints of writing WWSL members have had published elsewhere -- all that perseverance pays off!
+Every other month, I spend two hours submitting out my work for publication and encouraging other writers to do the same. _Accolades_ is proof of how effective that support and time investment is, as all the works featured within it are reprints of writing WWSL members have had published elsewhere—all that perseverance pays off!
 
 _Accolades_ is available [in print from Amazon](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.amazon.com%2FAccolades-Women-Who-Submit-Anthology%2Fdp%2F1733241523&data=02%7C01%7C%7C1e03ea8664224baeee0708d7c0cd2d78%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637189859768505147&sdata=GJ6NFlwHjA8gJzImhjBLKWSiHJD4xYEAN%2BRtY5E1QZk%3D&reserved=0) for $15. Here are the leading lines into "What Scattered in the Wind":
 

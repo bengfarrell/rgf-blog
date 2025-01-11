@@ -21,7 +21,7 @@ My next reading will be in the midst of wine country! On February 20, from 5:30 
 
 ![writing between the vines](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/02/writing-between-the-vines.jpeg)
 
-What is Writing Between the Vines? It's a writing retreat that pairs writers with vineyards willing to host them with "a space to work, a place to create -- surrounded by the beauty and majesty of vineyards in locations around the world," per [the website](http://a space to work, a place to create-- surrounded by the beauty and majesty of vineyards in locations around the world.). Interested authors apply in the fall and the winning applicants spend 4 to 6 days at the wineries.....writing. Just writing. How lovely that sounds!
+What is Writing Between the Vines? It's a writing retreat that pairs writers with vineyards willing to host them with "a space to work, a place to create—surrounded by the beauty and majesty of vineyards in locations around the world," per [the website](http://a space to work, a place to create-- surrounded by the beauty and majesty of vineyards in locations around the world.). Interested authors apply in the fall and the winning applicants spend 4 to 6 days at the wineries.....writing. Just writing. How lovely that sounds!
 
 Why am I invited to read? Beyond the wine connection [from my food blog](http://thegourmez.com), of course, I came in as a runner-up for the retreat at [Moshin Vineyards](http://www.moshinvineyards.com/).
 

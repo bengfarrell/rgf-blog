@@ -1,5 +1,5 @@
 ---
-title: "Fiction Bragging -- Apocalypse"
+title: "Fiction Bragging—Apocalypse"
 date: "2012-04-19"
 categories:
   - "announcements"

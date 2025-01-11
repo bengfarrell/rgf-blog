@@ -34,7 +34,7 @@ May I recommend **Origin & LIMINALITY: Experimental Writing** with Gina Goldblat
 
 Liminal stalwarts Terrilynn Cantlon and Brenda Usher-Carpino are both at the helms of workshops as well. Terrilynn will be **Silencing the Critic Within**, an essential dragon to tame for anyone seriously venturing into the creative arts. Brenda will delve into **the Art of Dramatic Dialogue** for character development in the dramatic arts.
 
-The Liminal Fall Workshops are offered on a sliding scale of $200-$320 -- Pay what you can afford to support this awesome literary organization! Liminal also reserves two spots in its workshops for participants who can't pay at all. Contact Gina at gina@theliminalcenter.com if that's your situation.
+The Liminal Fall Workshops are offered on a sliding scale of $200-$320—Pay what you can afford to support this awesome literary organization! Liminal also reserves two spots in its workshops for participants who can't pay at all. Contact Gina at gina@theliminalcenter.com if that's your situation.
 
 #### One Day Intensive Workshops
 

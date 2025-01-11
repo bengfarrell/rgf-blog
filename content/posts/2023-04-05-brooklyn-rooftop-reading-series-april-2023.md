@@ -27,7 +27,7 @@ tags:
 
 ![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2023/04/01061626/rooftop-readings-logo-crop.png)
 
-I am super excited to be reading at [Barrow's Intense Tasting Room](https://barrowsintense.com/) in Brooklyn on **April 18 at 7pm**! The Rooftop Readings series -- renamed to Brooklyn Books & Booze in 2024 -- is the brainchild of the super awesome debut novelist and super-talented entertainment journalist Randee Dawn. This reading will also feature Nadia Uddin, Richie Narvaez, and Katharine Duckett!
+I am super excited to be reading at [Barrow's Intense Tasting Room](https://barrowsintense.com/) in Brooklyn on **April 18 at 7pm**! The Rooftop Readings series—renamed to Brooklyn Books & Booze in 2024—is the brainchild of the super awesome debut novelist and super-talented entertainment journalist Randee Dawn. This reading will also feature Nadia Uddin, Richie Narvaez, and Katharine Duckett!
 
 ![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2023/04/01062537/Rooftop-Readings-Authors-April-2023-2-3.jpg)
 

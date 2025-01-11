@@ -38,7 +38,7 @@ There should be a link to the PDF on that page, or you can [download it directly
 
  
 
-I borrowed that photo from Miami University -- surprisingly, even though I'm writing stories about them, I do not have a photo of a crosswalk signal on hand! The short story hinges on a speech from which I took inspiration from that television masterpiece, _Mork and Mindy._ I, indeed, was revising that particular scene around the time of Robin Williams' death, and that encouraged me to go all in, embracing the potentially cheesy, but ideally moving, moment. Here's the first paragraph:
+I borrowed that photo from Miami University—surprisingly, even though I'm writing stories about them, I do not have a photo of a crosswalk signal on hand! The short story hinges on a speech from which I took inspiration from that television masterpiece, _Mork and Mindy._ I, indeed, was revising that particular scene around the time of Robin Williams' death, and that encouraged me to go all in, embracing the potentially cheesy, but ideally moving, moment. Here's the first paragraph:
 
 > _Ka-kink. Ka-kink. Ka-kink._
 >

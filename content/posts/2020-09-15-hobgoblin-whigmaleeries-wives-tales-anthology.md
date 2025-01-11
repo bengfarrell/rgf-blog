@@ -24,7 +24,7 @@ I'm excited to announce that ["Hobgoblin,"](/creative-works/hobgoblin/) my flash
 
 ![whigmaleeries, wives' tales, old wives tale, anthology, jayhenge press, jayhenge publishing, jayhenge books, rebecca gomez farrell, hobgoblin, fairy tale collection](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/09/14234925/temp_pb_cover-1024x740.jpg)
 
-Its appearance in the _Whigmaleeries & Wives' Tales_ anthology is "Hobgoblin's" second printing -- the story was a runner-up for the Fall 2017 _WOW! Women on Writing_ Flash Fiction contest, and it was published by _WOW! Women on Writing_ in February 2018. Here are "Hobgoblin's" first few lines to entice you to make a purchase:
+Its appearance in the _Whigmaleeries & Wives' Tales_ anthology is "Hobgoblin's" second printing—the story was a runner-up for the Fall 2017 _WOW! Women on Writing_ Flash Fiction contest, and it was published by _WOW! Women on Writing_ in February 2018. Here are "Hobgoblin's" first few lines to entice you to make a purchase:
 
 > Hobgoblin, they name me. The word’s consonance fills me with venom. If squeezed together on the page, the letters would ooze disgust: hob. . . gob . . . lin. It’s a corruption of my time-honored service and an insult to my squat and sturdy frame. To call me that and wonder why I torment them? I feel the evidence is plain.
 

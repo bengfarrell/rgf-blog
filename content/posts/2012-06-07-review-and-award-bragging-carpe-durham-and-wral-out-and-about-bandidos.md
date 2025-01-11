@@ -1,5 +1,5 @@
 ---
-title: "Review of Bandido's and Award Bragging -- Carpe Durham and WRAL Out and About"
+title: "Review of Bandido's and Award Bragging—Carpe Durham and WRAL Out and About"
 date: "2012-06-07"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/OAA-logo.gif"
 categories:

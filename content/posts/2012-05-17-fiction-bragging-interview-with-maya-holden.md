@@ -1,5 +1,5 @@
 ---
-title: "Fiction Bragging -- Interview With Maya Holden"
+title: "Fiction Bragging—Interview With Maya Holden"
 date: "2012-05-17"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg"
 categories:
@@ -22,7 +22,7 @@ tags:
   - "tempranillo"
 ---
 
-We are still on my first published book, _Maya's Vacation_, in this week's fiction bragging post, and we will be for a few more weeks -- I did a number of interviews promoting it when it came out last March, so I plan to point you toward one each week. But this first one is not an interview with me. Instead, it's an interview I did with the main character in _Maya's Vacation_, Maya Holden. Perhaps she can interest you in her story.
+We are still on my first published book, _Maya's Vacation_, in this week's fiction bragging post, and we will be for a few more weeks—I did a number of interviews promoting it when it came out last March, so I plan to point you toward one each week. But this first one is not an interview with me. Instead, it's an interview I did with the main character in _Maya's Vacation_, Maya Holden. Perhaps she can interest you in her story.
 
 ![Maya's Vacation](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg)
 

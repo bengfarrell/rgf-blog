@@ -20,7 +20,7 @@ layout: layouts/post.njk
 
 I have a soft spot for the main characters in "It's Only Vampire." Vlad and Ji, a pair of old-timer vampires who live in a brave new world of vampire liberation, decades after vampires rose from the shadows to conquer the Earth. You see, vampires come into existence when humans write about them. After a fan fiction-based population boom, they finally had enough numbers to take their place as the dominant predator on the planet.
 
-But ancient, sophisticated vampires like Vlad and Ji, still have a few concerns. Avoiding sunlight and garlic cloves, certainly. But also getting along with the newer generations of bloodsuckers. Some disagreements are only human -- er, vampire -- in nature.
+But ancient, sophisticated vampires like Vlad and Ji, still have a few concerns. Avoiding sunlight and garlic cloves, certainly. But also getting along with the newer generations of bloodsuckers. Some disagreements are only human—er, vampire—in nature.
 
 Here are the first few lines of "It's Only Vampire" to entice your purchase:
 

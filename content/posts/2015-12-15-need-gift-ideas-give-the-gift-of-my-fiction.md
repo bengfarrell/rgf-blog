@@ -32,7 +32,7 @@ Hey, it's not a holiday season without an obligatory "Buy My Work!" post from an
 
 ![Oh, I think I remember how...](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/12/stocks-500x500.jpg) *Oh, I think I remember where...*
 
-In 2015, I added two new opportunities to purchase my work, which is one way of saying some very lovely people agreed to include me in their collections -- some even paid me for it! One is a short story in a magazine and one is a contribution to a cookbook...a cookbook with quite illustrious co-contributors from the Speculative Fiction galaxy. Being a member of a professional organization comes with some perks, just sayin'.
+In 2015, I added two new opportunities to purchase my work, which is one way of saying some very lovely people agreed to include me in their collections—some even paid me for it! One is a short story in a magazine and one is a contribution to a cookbook...a cookbook with quite illustrious co-contributors from the Speculative Fiction galaxy. Being a member of a professional organization comes with some perks, just sayin'.
 
 Consider this my purchasable compendium, reverse chronological order! Collect all five! And come this time next year, there will be a novel to add to this list, one way or another...
 
@@ -68,6 +68,6 @@ Purchase Issue #5 from [the _PULP Literature_ website](http://pulpliterature.com
 
 The contemporary romance novella I never expected write, _Maya's Vacation_ came to be in a dream about frying chicken, and I fleshed that dream out into the story of a woman in her fifties rediscovering herself after a divorce and relearning what she used to love through food, paint, and an old flame returned. _Maya's Vacation,_ published by Clean Reads, is available on [Amazon](http://www.amazon.com/Mayas-Vacation-ebook/dp/B004UB1REI/ref=sr_1_1?ie=UTF8&qid=1380500960&sr=8-1&keywords=maya%27s+vacation). Warning: No sex scenes in this romance! Just unrequited longing. Or is it requited? I'll never tell.
 
-I may also mention that anything you buy that features my work is a gift to me as well -- word of tongue can only spread after eyes on the page have done their business. Of course, I also have plenty of fiction free to read online as well -- just click over to [the Creative section](/creative-works/) to find it. Thank you for your support, and I hope to keep entertaining you in the future. I'm pretty sure I'll have some snippets to share by the end of next week as well...
+I may also mention that anything you buy that features my work is a gift to me as well—word of tongue can only spread after eyes on the page have done their business. Of course, I also have plenty of fiction free to read online as well—just click over to [the Creative section](/creative-works/) to find it. Thank you for your support, and I hope to keep entertaining you in the future. I'm pretty sure I'll have some snippets to share by the end of next week as well...
 
 ![Happy holidays, from me and Ben!](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/12/holiday-pic-333x500.jpg) *Happy holidays, from me and Ben!*

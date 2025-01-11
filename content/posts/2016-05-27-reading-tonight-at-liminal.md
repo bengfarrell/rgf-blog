@@ -25,7 +25,7 @@ Tonight at [Liminal](https://theliminalcenter.com/), a feminist and womanist spa
 
   
 
-As for tonight's reading, which yes, I should have posted about earlier, it's an evening of Liminal's Writers In Residence sharing works that we've been pecking at for the past few weeks. I wrote the first draft of the Salvation of Soup last spring, and I've been slowly gleaning out the filler -- I originally wrote it for a submission call that asked for 1,000 words more than I really thought this essay should be. So I think I'm getting closer to my original intention!
+As for tonight's reading, which yes, I should have posted about earlier, it's an evening of Liminal's Writers In Residence sharing works that we've been pecking at for the past few weeks. I wrote the first draft of the Salvation of Soup last spring, and I've been slowly gleaning out the filler—I originally wrote it for a submission call that asked for 1,000 words more than I really thought this essay should be. So I think I'm getting closer to my original intention!
 
   In addition to hearing our WIPs, tonight is also the closing for Sheri Park's art exhibition _Wear & Tear: Living Woman._ Art response pieces to her work and an art journaling station will be ongoing. Doors at 7, readings begin at 8! Come out and buy some art and lend me your ear!
 
