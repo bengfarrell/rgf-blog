@@ -1,9 +1,14 @@
 ---
-title: "Interview at the Speculative Fiction Showcase!"
-date: "2022-12-04"
+title: "The Speculative Fiction Showcase"
+date: "2022-11-25"
+time:
+location: "The Speculative Fiction Showcase Blog"
+city: "Online"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/sfs-banner.jpg"
 categories:
   - "announcements"
   - "wings-unfurled"
+  - "interviews"
 tags:
   - "interview"
   - "jessical-rydill"

@@ -1,6 +1,7 @@
 ---
 title: "Preorder Wings Unfurled!"
 date: "2022-11-03"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/07/25060236/image001.png"
 categories:
   - "publication-news"
   - "wings-unfurled"
@@ -13,7 +14,7 @@ tags:
   - "wings-rising"
   - "wings-unfurled"
   - "wings-unseen"
-coverImage: "WingsUnfurledPreOrderImage.jpg"
+
 ---
 
 I am delighted to share that [you can now pre-order](https://rebeccagomezfarrell.us9.list-manage.com/track/click?u=93d9e5c66fa0eb63dc1bfcee9&id=00e7b6f712&e=d65f29bce6) _Wings Unfurled._ Officially Book 2 of the Wings Rising series, _Wings Unfurled_ releases on December 6, just a little over a month from now. Just in time for those holiday gifts, right? \*wink wink nudge nudge\*

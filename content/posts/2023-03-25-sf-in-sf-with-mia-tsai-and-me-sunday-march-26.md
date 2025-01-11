@@ -1,6 +1,10 @@
 ---
 title: "SF in SF with Mia Tsai and Me! Sunday, March 26"
-date: "2023-03-25"
+date: "2023-03-26"
+time: "6:30pm PT"
+location: "American Bookbinders Museum"
+city: "San Francisco, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2023/03/25205438/SF-in-SF-March-26.png"
 categories:
   - "announcements"
   - "appearances"

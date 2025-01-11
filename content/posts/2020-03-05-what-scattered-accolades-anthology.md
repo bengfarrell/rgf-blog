@@ -1,6 +1,7 @@
 ---
 title: "\"What Scattered in the Wind\" appears in Accolades!"
 date: "2020-03-05"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/03/05070057/accolades-690x1024.jpg"
 categories:
   - "publication-news"
 tags:
@@ -12,7 +13,6 @@ tags:
   - "what-scattered-in-the-wind"
   - "women-who-submit"
   - "women-who-submit-lit"
-coverImage: "accolades.jpg"
 ---
 
 I'm so thrilled that "What Scattered in the Wind" is reprinted in the _Accolades_ anthology from Women Who Submit Lit. The anthology launches today at the AWP conference in San Antonio.

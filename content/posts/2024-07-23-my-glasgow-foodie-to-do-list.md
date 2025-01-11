@@ -1,9 +1,10 @@
 ---
 title: "My Glasgow Foodie To-Do List: Updated!"
 date: "2024-07-23"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/
+glasgow-2024.png""
 categories: 
   - "announcements"
-  - "events"
 tags: 
   - "foodie-picks"
   - "glasgow"

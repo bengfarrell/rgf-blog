@@ -1,11 +1,13 @@
 ---
 title: "Worst Writing Advice I've Ever Received"
 date: "2022-12-13"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/ali-lucia-blog.jpg"
 categories: 
   - "publication-news"
   - "wings-unfurled"
   - "writing"
   - "writing-snippets"
+  - "writing-thoughts"
 tags: 
   - "ali-lucia-skye"
   - "excerpt"

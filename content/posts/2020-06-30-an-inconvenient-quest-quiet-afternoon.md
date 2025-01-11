@@ -1,6 +1,7 @@
 ---
 title: "\"An Inconvenient Quest\" published in A Quiet Afternoon anthology!"
 date: "2020-06-30"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/06/30030601/A-quiet-afternoon.jpg"
 categories:
   - "publication-news"
   - "writing"
@@ -12,7 +13,6 @@ tags:
   - "rebecca-gomez-farrell"
   - "silly-fantasy"
   - "sprites"
-coverImage: "A-quiet-afternoon.jpg"
 ---
 
 My short story, "An Inconvenient Quest," appears in _A Quiet Afternoon,_ an anthology of Low-Fi speculative fiction from Grace&Victory Publications. The anthology is due out on July 1, 2020.

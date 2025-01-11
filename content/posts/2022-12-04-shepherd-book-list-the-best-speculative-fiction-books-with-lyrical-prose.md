@@ -1,8 +1,11 @@
 ---
 title: "Shepherd Book List: The Best Speculative Fiction Books with Lyrical Prose"
 date: "2022-12-04"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/12/04013707/ShepherdBookList.jpg"
 categories:
   - "writing"
+  - "writing-thoughts"
+  - "reviews"
 tags:
   - "book-lists"
   - "fantasy"

@@ -1,6 +1,10 @@
 ---
-title: "Appearing at the WWS Submission Conference on Saturday!"
-date: "2020-08-04"
+title: "Empowering your Community: A Talk with WWS Chapter Leads"
+date: "2020-08-08"
+time: 
+location: "The WWS Submission Conference"
+city: "Online"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/08/04030631/WWS-conference.jpg"
 categories:
   - "appearances"
 tags:
@@ -10,7 +14,6 @@ tags:
   - "women-who-submit"
   - "women-who-submit-lit"
   - "wws-conference"
-coverImage: "WWS-conference.jpg"
 ---
 
 The WWS Submission Conference is a one day, online event on **Saturday, August 8**, 2020, beginning at **10 am PT.** I'll be appearing on the panel entitled **"Empowering your Community: A Talk with WWS Chapter Leads"** at **2:15 pm**.

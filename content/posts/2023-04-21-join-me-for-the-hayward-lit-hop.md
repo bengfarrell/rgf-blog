@@ -1,6 +1,10 @@
 ---
-title: "Join me for the Hayward Lit Hop!"
-date: "2023-04-21"
+title: "Hayward Lit Hop!"
+date: "2023-04-22"
+time: "2:00pm PT"
+location: "Dirty Bird Lounge & The Bistro"
+city: "Hayward, CA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2023/04/21221529/HLH2023-Social-Wide.png"
 categories:
   - "appearances"
   - "events"

@@ -1,10 +1,12 @@
 ---
 title: "Listen to \"Submission Caws\" at the Centropic Oracle!"
 date: "2021-02-19"
+coverImage:"https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/01/28221958/centropic-oracle.jpg"
 categories:
   - "announcements"
   - "publication-news"
   - "writing"
+  - "recorded"
 tags:
   - "audio-recording"
   - "centropic-oracle"

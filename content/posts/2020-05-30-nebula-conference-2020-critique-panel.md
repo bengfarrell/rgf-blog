@@ -1,6 +1,10 @@
 ---
-title: "\"Forming and Sustaining a Successful Writing or Critique Group\" Panel at the 2020 SFWA Nebula Conference Online"
-date: "2020-05-30"
+title: "Forming and Sustaining a Successful Writing or Critique Group Panel"
+date: "2020-05-31"
+time:
+location: "The 2020 Nebula Conference Online"
+city: "SFWA"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/05/30212142/Nebulas-Twitter-2-1024x512.jpg"
 categories:
   - "appearances"
 tags:
@@ -11,7 +15,6 @@ tags:
   - "panel"
   - "rebecca-gomez-farrell"
   - "sfwa"
-coverImage: "Nebulas-Twitter-2.jpg"
 ---
 
 Tomorrow afternoon, at 3:30pm PDT, I'll be moderating and participating in the "Forming and Sustaining a Successful Writing or Critique Group" panel at [the 2020 SFWA Nebula Conference,](https://events.sfwa.org/) which of course, is taking place online.

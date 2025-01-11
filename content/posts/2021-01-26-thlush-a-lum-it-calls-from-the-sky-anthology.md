@@ -1,6 +1,7 @@
 ---
 title: "Thlush-A-Lum Reprinted in It Calls From the Sky!"
 date: "2021-01-26"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/01/26221707/It-Call-From.gif"
 categories:
   - "publication-news"
   - "writing"
@@ -12,7 +13,6 @@ tags:
   - "it-calls-from-the-sky"
   - "rebecca-gomez-farrell"
   - "thlush-a-lum"
-coverImage: "It-Call-From.gif"
 ---
 
 By far, my most successful short story to date has been "Thlush-A-Lum," a horror tale. It follows the coming of age of Markella, a young woman who's always been especially attuned to sound and to the way her parents keep her at a distance. Perhaps they've had good reason, she learns.

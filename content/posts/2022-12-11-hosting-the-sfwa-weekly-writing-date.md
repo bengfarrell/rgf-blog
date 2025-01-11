@@ -1,6 +1,10 @@
 ---
-title: "Hosting the SFWA Weekly Writing Date!"
+title: "The SFWA Weekly Writing Date"
 date: "2022-12-11"
+time:
+location: "SFWA Events"
+city: "Online"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/12/11211311/Rebecca-Gomez-Farrell-WWD-Dec-2022.png"
 categories:
   - "appearances"
   - "wings-unfurled"

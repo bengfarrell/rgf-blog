@@ -1,8 +1,13 @@
 ---
-title: "Video: \"She Could Be Me\" and \"Fresh Catch of the Day\" at Story Hour!"
-date: "2021-07-07"
+title: "Story Hour!"
+date: "2021-03-17"
+time:
+location: "Online"
+city: "The Story Hour and Facebook Live"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/story-hour-icon.jpg"
 categories:
   - "appearances"
+  - "recorded"
 tags:
   - "fantasy"
   - "fresh-catch-of-the-day"

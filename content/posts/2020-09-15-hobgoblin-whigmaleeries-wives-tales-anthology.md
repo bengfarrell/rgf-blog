@@ -1,6 +1,7 @@
 ---
 title: "\"Hobgoblin\" Now Available in the Whigmaleeries & Wives' Tales anthology!"
 date: "2020-09-15"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/09/14234925/temp_pb_cover-1024x740.jpg"
 categories:
   - "publication-news"
   - "writing"
@@ -13,7 +14,6 @@ tags:
   - "rebecca-gomez-farrell"
   - "whigmaleeries-wives-tales"
   - "wives-tales"
-coverImage: "temp_kindle_cover.jpg"
 ---
 
 I'm excited to announce that ["Hobgoblin,"](/creative-works/hobgoblin/) my flash fiction take on an old fairy tale trope, appears in _Whigmaleeries & Wives' Tales_ from Jayhenge Publishing! This anthology, which just released last week, is a collection of over 400 pages of new fairy tale takes - or retellings of lost knowledge, if you'd like. 😉 You can [purchase it here](https://www.amazon.com/dp/B08HGL7LNY/ref=rdr_kindle_ext_tmb) at Amazon, in ebook or paperback formats. Here's the backcover blurb, and a little bit of the introduction, which I quite like:

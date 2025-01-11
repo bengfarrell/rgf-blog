@@ -1,6 +1,10 @@
 ---
 title: "Wings Unseen Release Day & Launch Party Invite!"
 date: "2022-12-07"
+time:
+location: "Zoom Party"
+city: "Online"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/12/06042806/wu-blogtour-instagram-otheroption1.jpg"
 categories:
   - "appearances"
   - "wings-unfurled"

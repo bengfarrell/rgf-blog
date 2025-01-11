@@ -1,6 +1,7 @@
 ---
 title: "Wishing for More Now Available in Helios Quarterly!"
 date: "2020-04-07"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/03/05070059/Helios-739x1024.jpg"
 categories:
   - "publication-news"
 tags:
@@ -10,7 +11,6 @@ tags:
   - "short-story"
   - "urban-fantasy"
   - "wishing-for-more"
-coverImage: "Helios.jpg"
 ---
 
 I am thrilled that my romantic urban fantasy tale, ["Wishing for More,"](/creative-works/wishing-for-more/) appears in _Helios Quarterly Magazine_ 4.4, which came out in December 2019 (why yes, I _am_ behind on promo).

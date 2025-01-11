@@ -1,9 +1,15 @@
 ---
-title: "Pondering the Orb features Wings Unseen!"
+title: "Pondering the Orb"
 date: "2023-04-01"
+time:
+location: "YouTube"
+city: "Online"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/pondering-the-orb.jpg"
 categories:
   - "appearances"
   - "wings-unseen"
+  - "recorded"
+  - "readings"
 tags:
   - "bull-spec"
   - "jay-requard"

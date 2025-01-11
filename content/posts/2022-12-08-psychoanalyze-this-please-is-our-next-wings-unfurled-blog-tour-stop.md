@@ -1,10 +1,13 @@
 ---
-title: "Psychoanalyze This! Please? is our next Wings Unfurled Blog Tour Stop!"
+title: "Psychoanalyze This! Please?"
 date: "2022-12-08"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/11/03023406/WingsUnfurledPreOrderImage.jpg"
 categories:
   - "appearances"
   - "wings-unfurled"
   - "writing"
+  - "writing-thoughts"
+  - "blog-tours"
 tags:
   - "blog-tour"
   - "t-kent-writes"

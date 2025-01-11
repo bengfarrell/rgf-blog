@@ -1,6 +1,7 @@
 ---
 title: "\"Some Who Wander\" now published by Intrinsick!"
 date: "2020-06-30"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/06/30024139/intrinsick.png"
 categories:
   - "publication-news"
   - "writing"

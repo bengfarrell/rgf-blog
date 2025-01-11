@@ -1,10 +1,15 @@
 ---
-title: "Wings Unfurled Release Week - New Readings to Watch!"
-date: "2022-12-10"
+title: "Strong Women, Strange Worlds"
+date: "2022-11-04"
+time:
+location: "Facebook Live"
+city: "Online"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/12/10222202/StrongWomenNov4.jpg"
 categories:
   - "appearances"
   - "publication-news"
   - "wings-unfurled"
+  - "recorded"
 tags:
   - "barbara-a-barnett"
   - "blog-tour"

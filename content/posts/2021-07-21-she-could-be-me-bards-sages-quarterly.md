@@ -1,6 +1,7 @@
 ---
 title: "\"She Could Be Me\" Reappears at Bards And Sages Quarterly!"
 date: "2021-07-21"
+coverImage:"https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/07/21210941/Bards-April-2021-She-Could-Be-Me.jpg"
 categories:
   - "publication-news"
   - "writing"
@@ -10,7 +11,6 @@ tags:
   - "horror"
   - "rebecca-gomez-farrell"
   - "she-could-be-me"
-coverImage: "bemo-bards-3.jpg"
 ---
 
 ["She Could Be Me"](/creative-works/she-could-be-me/) was one of my very first short stories published, back in 2010. Sadly, its original publisher, the e-zine _Flashes in the Dark_, no longer exists. But I'm delighted to announce that _Bards And Sages Quarterly_ has rescued "She Could Be Me" from obscurity!

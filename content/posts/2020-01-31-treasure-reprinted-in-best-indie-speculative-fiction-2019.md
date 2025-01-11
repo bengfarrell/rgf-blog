@@ -1,6 +1,7 @@
 ---
 title: "\"Treasure\" Reprinted in Best Indie Speculative Fiction 2019!"
 date: "2020-01-31"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/01/28231107/Screenshot_2020-01-28-Best-Indie-Speculative-Fiction-November-2019-Darin-Hlavaz-Sarah-Gribble-Liam-Hogan-Henry-Gasko-Em....png"
 categories:
   - "publication-news"
 tags:
@@ -11,7 +12,6 @@ tags:
   - "rebecca-gomez-farrell"
   - "short-story"
   - "treasure"
-coverImage: "Screenshot_2020-01-28-Best-Indie-Speculative-Fiction-November-2019-Darin-Hlavaz-Sarah-Gribble-Liam-Hogan-Henry-Gasko-Em....png"
 ---
 
 Great news! "Treasure" has been reprinted in the _Best Indie Speculative Fiction 2019_ anthology from Bards & Sages! As Bards & Sages describes it, "This collection is our annual celebration of the small press and independent publishing community."

@@ -1,6 +1,7 @@
 ---
 title: "Wings Unfurled Flies in 2022!"
 date: "2021-03-30"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/Wings-Unfurled.png"
 categories:
   - "publication-news"
   - "wings-unfurled"

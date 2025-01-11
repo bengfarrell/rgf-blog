@@ -1,8 +1,11 @@
 ---
 title: "Wings Unfurled Review at Big Indie Books!"
 date: "2022-12-16"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/big-indie-books.jpg"
 categories:
   - "wings-unfurled"
+  - "fiction-reviews"
+  - "publication-news"
 tags:
   - "big-indie-books"
   - "meerkat-press"

@@ -1,9 +1,12 @@
 ---
 title: "Wings Unfurled Blog Tour & Prize!"
 date: "2022-12-06"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/12/06044016/Big-Indie-Books-listicle.jpg"
 categories:
   - "wings-unfurled"
   - "writing"
+  - "writing-thoughts"
+  - "blog-tours"
 tags:
   - "blog-tour"
   - "meerkat-press"

@@ -1,6 +1,7 @@
 ---
 title: "It's Only Vampire Published in FARK in the Time of COVID: The 2020 Fark Fiction Anthology!"
 date: "2021-01-27"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/01/26235304/Screenshot_2020-12-24-Fark-in-the-Time-of-Covid-The-2020-Fark-Fiction-Anthology-Kindle-edition-by-Community-Fark-Angel...-335x500.jpg"
 categories:
   - "publication-news"
   - "writing"
@@ -12,7 +13,6 @@ tags:
   - "funny-horror"
   - "horror"
   - "rebecca-gomez-farrell"
-coverImage: "Screenshot_2020-12-24-Fark-in-the-Time-of-Covid-The-2020-Fark-Fiction-Anthology-Kindle-edition-by-Community-Fark-Angel....jpg"
 ---
 
 I am pleased to announce that my humorous horror tale, "It's Only Vampire," appears in _FARK in the Time of COVID: The 2020 Fark Fiction Anthology_! The anthology was released in December 2020.

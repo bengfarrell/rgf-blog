@@ -1,6 +1,7 @@
 ---
 title: "\"Fresh Catch of the Day\" now available in A Quiet Afternoon 2!"
 date: "2021-07-21"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/07/21222521/GV_AQA2_cover.jpg"
 categories:
   - "publication-news"
   - "writing"

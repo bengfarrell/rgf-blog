@@ -1,6 +1,10 @@
 ---
-title: "Catch me at FOGcon 2020!"
-date: "2020-03-05"
+title: "FOGcon 2020!"
+date: "2020-03-06"
+time: 
+location: "Walnut Creek Marriott"
+city: "Walnut Creek, CA"
+coverImage: 
 categories:
   - "appearances"
   - "events"

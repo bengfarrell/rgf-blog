@@ -1,9 +1,13 @@
 ---
-title: "Join me for Story Hour on 7/22!"
-date: "2020-07-20"
+title: "Story Hour on 7/22!"
+date: "2020-07-22"
+location: "Online"
+city: "Zoom & Facebook Live"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/story-hour-icon.jpg"
 categories: 
   - "announcements"
   - "appearances"
+  - "recorded"
 tags: 
   - "daniel-marcus"
   - "laura-blackwell"

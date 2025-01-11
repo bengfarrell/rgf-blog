@@ -1,10 +1,13 @@
 ---
-title: "Wings Unfurled Book Review at Monty's Book Reviews!"
+title: "Monty's Book Reviews!"
 date: "2022-12-14"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/11/03023406/WingsUnfurledPreOrderImage.jpg"
 categories:
   - "publication-news"
   - "wings-unfurled"
   - "writing"
+  - "fiction-reviews"
+
 tags:
   - "montys-book-reviews"
   - "wings-unfurled"
