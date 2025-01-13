@@ -1,6 +1,7 @@
 ---
 title: "Interview Bragging - Durham Magazine"
 date: "2012-05-31"
+publisher: "Durham Magazine"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/eatbloglove.jpg"
 categories:
   - "interviews"

@@ -1,6 +1,7 @@
 ---
 title: "Blog Hopping today!"
 date: "2014-05-12"
+publisher: "This Website"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2014/05/1-FINALBookCoverPreviewLiterary-Suckers.jpg"
 categories:
   - "writing"

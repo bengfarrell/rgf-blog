@@ -1,6 +1,7 @@
 ---
 title: "I'm in Durham Magazine!"
 date: "2010-08-13"
+publisher: "Durham Magazine"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/eatbloglove.jpg"
 categories: 
   - "announcements"
