@@ -11,7 +11,6 @@ categories:
 tags:
   - "book-launch"
   - "wings-unfurled"
-coverImage: "wu-blogtour-instagram-otheroption1.jpg"
 ---
 
 Release Day is here! Or rather, release day has already come and is almost gone and I'm just now getting to a post on my own blog to mark it—it's been busy, y'all! Busy in a good way.

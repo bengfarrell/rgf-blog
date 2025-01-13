@@ -19,7 +19,6 @@ tags:
   - "typehouse"
   - "typehouse-literary-magazine"
   - "whistle"
-coverImage: "CoverSept2016Big.png"
 ---
 
 #### "Mixed Signals," or, "Learning How to Speak" Published!

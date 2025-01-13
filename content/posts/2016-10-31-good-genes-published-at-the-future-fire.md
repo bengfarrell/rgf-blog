@@ -19,7 +19,6 @@ tags:
   - "weird-west"
   - "wild-west"
   - "writer"
-coverImage: "pn-goodgenes1.jpg"
 ---
 
 "Good Genes," is now available to read at _the Future Fire_ as part of their 38th issue, or [Issue 2016.38](http://futurefire.net/2016.38/index.html) in the magazine's parlance.

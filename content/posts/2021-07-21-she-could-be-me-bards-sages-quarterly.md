@@ -1,7 +1,7 @@
 ---
 title: "\"She Could Be Me\" Reappears at Bards And Sages Quarterly!"
 date: "2021-07-21"
-coverImage:"https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/07/21210941/Bards-April-2021-She-Could-Be-Me.jpg"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/07/21210941/Bards-April-2021-She-Could-Be-Me.jpg"
 categories:
   - "publication-news"
   - "writing"

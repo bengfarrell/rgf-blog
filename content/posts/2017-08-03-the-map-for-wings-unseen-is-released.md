@@ -10,7 +10,6 @@ tags:
   - "map"
   - "meerkat-press"
   - "wings-unseen"
-coverImage: "MAP-Final.jpg"
 ---
 
 The first time _Wings Unseen_, my debut epic fantasy novel, got a map was out of desperation. I simply could not keep my own world-building straight without a visual to look at, and my artistic abilities are HORRIBLE, so I forced my husband to draw me one. Ben is a software developer and designer, so he can sneeze and create something pleasing to look at - the closest I can get is taking snapshots of artwork already in existence.

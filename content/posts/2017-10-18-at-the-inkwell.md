@@ -22,7 +22,6 @@ tags:
   - "short-fiction"
   - "speculative-fiction-cantina"
   - "wings-unseen"
-coverImage: "cropped-Speculative_Fiction_Cantina_2.png"
 ---
 
 I'm going to be busy this Friday promoting my fiction, through two different mediums! You, of course, are invited to join in.

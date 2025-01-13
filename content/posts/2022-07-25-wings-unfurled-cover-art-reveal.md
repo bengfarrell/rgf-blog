@@ -1,7 +1,7 @@
 ---
 title: "Cover Reveal for Wings Unfurled!"
 date: "2022-07-25"
-coverImage:"https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/07/25060236/image001.png"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/07/25060236/image001.png"
 categories:
   - "announcements"
   - "books"

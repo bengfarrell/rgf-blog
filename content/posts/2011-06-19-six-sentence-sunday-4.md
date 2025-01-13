@@ -1,7 +1,7 @@
 ---
 title: "Six Sentence Sunday"
 date: "2011-06-19"
-coverImage" "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg"
 categories:
   - "writing"
   - "writing-snippets"

@@ -13,7 +13,6 @@ tags:
   - "rebecca-gomez-farrell"
   - "shepherd-books"
   - "wings-unfurled"
-coverImage: "ShepherdBookList.jpg"
 ---
 
 Over at _Shepherd_, which is a newish website to help shepherd readers toward their next favorite books, I compiled a list of books that impress me with their sometimes poetic, sometimes beautifully figurative, prose: [The Best Speculative Fiction Books with Lyrical Prose](https://shepherd.com/best-books/speculative-fiction-with-lyrical-prose).

@@ -25,7 +25,6 @@ tags:
   - "short-stories"
   - "stories"
   - "thlush-a-lum"
-coverImage: "stocks.jpg"
 ---
 
 Hey, it's not a holiday season without an obligatory "Buy My Work!" post from an author. I swear it's in the contracts we sign in blood with our publishers...somewhere...I seem to have misplaced them.

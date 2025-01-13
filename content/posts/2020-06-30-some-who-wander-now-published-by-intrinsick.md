@@ -15,7 +15,6 @@ tags:
   - "short-nonfiction"
   - "some-who-wander"
   - "urban-walks"
-coverImage: "Ireland-2019-581.jpg"
 ---
 
 "Some Who Wander" is a short, but not sweet, piece of micro-nonfiction that appears at _Instrinsick m_agazine_._

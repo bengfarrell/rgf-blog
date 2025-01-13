@@ -21,7 +21,6 @@ tags:
   - "rebecca-gomez-farrell"
   - "three-headed-bird"
   - "wings-unseen"
-coverImage: "9781946154002-WingsUnseen-CoverFINAL_03.jpg"
 ---
 
 Wow. I signed a contract to publish my first book, _Wings Unseen,_ an epic fantasy. With a traditional press. And a print run. And an advance. Folks, I’m still amazed this is happening, and five months in, and I am so happy with my choice to entrust Meerkat Press with this book.

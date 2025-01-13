@@ -28,7 +28,6 @@ tags:
   - "the-liminal-center"
   - "the-octopus-literary-salon"
   - "what-scattered-in-the-wind"
-coverImage: "little-letters-on-the-skin.jpg"
 ---
 
 **Update! This reading and publication has been postponed until 8/11. All other details remain the same. Join me in August instead!**

@@ -13,7 +13,6 @@ tags:
   - "rebecca-gomez-farrell"
   - "science-fiction"
   - "typehouse-magazine"
-coverImage: "2013_San_Francisco_025.jpg"
 ---
 
 I am thrilled to announce that my next science fiction short story will be published my [Typehouse Literary Magazine](http://peoples-ink.com/typehouse-literary-magazine/)! Typehouse is put out by the People's Ink, a writers' community based in Portland, Oregon, and it's been published three times a year since 2014.

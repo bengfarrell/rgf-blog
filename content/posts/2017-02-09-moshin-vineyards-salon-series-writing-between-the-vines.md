@@ -12,7 +12,6 @@ tags:
   - "salon-reading"
   - "salon-series"
   - "writing-between-the-vines"
-coverImage: "writing-between-the-vines.jpeg"
 ---
 
 **Due to rain and potential flooding, this event has been cancelled. Hopefully, I will be able to read at Moshin in March or April instead! I'll keep you updated.**

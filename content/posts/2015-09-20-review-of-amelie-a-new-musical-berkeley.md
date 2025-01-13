@@ -26,7 +26,6 @@ tags:
   - "savvy-crawford"
   - "theater"
   - "tony-sheldon"
-coverImage: "amelie.jpg"
 ---
 
 ![amelie](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/09/amelie.jpg)

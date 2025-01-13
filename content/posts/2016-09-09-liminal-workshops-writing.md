@@ -19,7 +19,6 @@ tags:
   - "writing-center"
   - "writing-courses"
   - "writing-space"
-coverImage: "12800307_436089926598346_4619321248534335334_n.jpg"
 ---
 
 I concluded [my writer-in-residency](/blog/2016/05/reading-tonight-at-liminal/) at the Liminal Center in June, but I am still fully in support of this awesome, communal, feminist space for women in the creative arts to come together to learn and grow our talents together.
