@@ -3,58 +3,78 @@ title: "About"
 layout: layouts/page.njk
 ---
 
-Design similar to https://ta-nehisicoates.com/about/
-Make the Selected Interviews band as described below
-Place the 75-word bio text as a quote or inset text
+<template>
+	Design similar to https://ta-nehisicoates.com/about/
+	Make the Selected Interviews band as described below
+	Place the 75-word bio text as a quote or inset text
 
-Left-aligned photograph:
+	Left-aligned photograph:
+</template>
 
-Regulator 2
+<div class="split-view">
+	<img src="https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/oscarheadshot.jpg" />
 
-<h1>Biography</h1>
+	<div>
+		Regulator 2
 
-Leave room for text
+		<h1>Biography</h1>
 
-<h1>Contact</h1>
+		Leave room for text
 
-Email is the best way to reach me: [becca@gomezfarrell.com](mailto:becca@gomezfarrell.com).
+		<h1>Contact</h1>
 
-You can also find me at the following social media platforms, but I am slow to respond to direct messages.
+		Email is the best way to reach me: <a href="mailto:becca@gomezfarrell.com">becca@gomezfarrell.com</a>.
 
-<ul>
-	<li>Bluesky: <a href="https://bluesky.com/becca">@becca</a></li>
-	<li>Facebook: <a href="https://facebook.com/becca">@becca</a></li>
-	<li>Instagram: <a href="https://instagram.com/becca">@becca</a></li>
-</ul>
+		You can also find me at the following social media platforms, but I am slow to respond to direct messages.
 
-<h1>Press Kit</h1>
+		<ul>
+			<li><a href="https://bsky.app/profile/becca.gomezfarrell.com">Bluesky</a></li>
+			<li><a href="https://www.facebook.com/thegourmez">Facebook</a></li>
+			<li><a href="https://www.instagram.com/thegourmez">Instagram</a></li>
+		</ul>
 
-I’m currently updating my press kits. In the meantime, please use the following headshots and biography for event promotion.
+		<h1>Press Kit</h1>
 
-(Include small versions of these photos, linking to the full size for downloads:
+		I’m currently updating my press kits. In the meantime, please use the following headshots and biography for event promotion.
 
-R Gomez Farrell headshot
+		(Include small versions of these photos, linking to the full size for downloads:
 
-R Gomez Farrell bw
+		R Gomez Farrell headshot
 
-Headshot 2 (find larger version)
+		R Gomez Farrell bw
 
-Headshot 3
+		Headshot 2 (find larger version)
 
-75-word biography. Please contact me if you would like a shorter or longer version:
+		Headshot 3
 
-Rebecca Gomez Farrell's *Wings Rising* epic fantasy duology is published by Meerkat Press. Her shorter speculative fiction works have appeared over thirty times in outlets such as *Beneath Ceaseless Skies, PULP Literature,* and *A Quiet Afternoon 1 & 2.* She has run multiple writer critique and support groups over the years, and is a former Communications Director for the Science Fiction and Fantasy Writers Association.
+		75-word biography. Please contact me if you would like a shorter or longer version:
 
-	Becca also blogs about food &amp; drink at <a href="https://thegourmez.com">the Gourmez</a>.
+		Rebecca Gomez Farrell's *Wings Rising* epic fantasy duology is published by Meerkat Press. Her shorter speculative fiction works have appeared over thirty times in outlets such as *Beneath Ceaseless Skies, PULP Literature,* and *A Quiet Afternoon 1 & 2.* She has run multiple writer critique and support groups over the years, and is a former Communications Director for the Science Fiction and Fantasy Writers Association.
 
-<h1>Selected Interviews &amp; Guest Posts</h1>
+		Becca also blogs about food &amp; drink at <a href="https://thegourmez.com">the Gourmez</a>.
 
-	The following are a few of the interviews and guest posts I've done over the years. For the full list, as well as accolades I've received for fiction and nonfiction writing, visit <a href="./media-mentions/">media mentions</a>. Individual posts can be found <a href="./interviews/">here</a> (link to a search of all posts categorized as "interviews" "blog-tour" "guest-post").
+		<h1>Selected Interviews &amp; Guest Posts</h1>
 
-(Design carousel of posts similar to the Events boxes:
+		The following are a few of the interviews and guest posts I've done over the years. For the full list, as well as accolades I've received for fiction and nonfiction writing, visit <a href="./media-mentions/">media mentions</a>. Individual posts can be found <a href="./interviews/">here</a> (link to a search of all posts categorized as "interviews" "blog-tour" "guest-post").
 
-Use "coverImage" to generate the image for each item, and have it L-align in the box.
-Give the "title"
-Give the "publication"
-No date
-Show in reverse chronologic order
+		(Design carousel of posts similar to the Events boxes:
+
+		<ul class="interviews">
+			{% for post in collections['interviews'] | head(-5, true) %}
+			<li>
+				<img src="{{ post.data.coverImage }}" />
+				<h3>{{ post.data.title }}</h3>
+				<h4>{{ post.data.publication }}</h4>
+				<p><a href="{{ post.url }}">More info...</a></p>
+			</li>
+			{% endfor %}
+		</ul>
+
+
+		Use "coverImage" to generate the image for each item, and have it L-align in the box.
+		Give the "title"
+		Give the "publication"
+		No date
+		Show in reverse chronologic order
+	</div>
+</div>

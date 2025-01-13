@@ -21,16 +21,16 @@ module.exports = function(eleventyConfig) {
 		execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
 	});
 
-	eleventyConfig.addCollection('books', collection => {
-		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('books'));
+	eleventyConfig.addCollection('books-info', collection => {
+		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('books') && item.data.categories.includes('info'));
 	});
 
-	eleventyConfig.addCollection('short-stories', collection => {
-		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('short-stories'));
+	eleventyConfig.addCollection('short-stories-info', collection => {
+		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('short-stories') && item.data.categories.includes('info'));
 	});
 
-	eleventyConfig.addCollection('anthologies', collection => {
-		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('anthologies'));
+	eleventyConfig.addCollection('anthologies-info', collection => {
+		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('anthologies') && item.data.categories.includes('info'));
 	});
 
 	eleventyConfig.addCollection('events', collection => {
@@ -63,8 +63,10 @@ module.exports = function(eleventyConfig) {
 		return collection.getAll().filter(item =>
 			item.data.categories &&
 			(item.data.categories.includes('announcements') ||
-			item.data.categories.includes('blog-tour') ||
-			item.data.categories.includes('publication-news')));
+				item.data.categories.includes('publication-news') ||
+				item.data.categories.includes('writing-snippets') ||
+				item.data.categories.includes('blog-tours') ||
+				item.data.categories.includes('event-writeups')));
 	});
 
 	eleventyConfig.addCollection('misc', collection => {
@@ -88,7 +90,8 @@ module.exports = function(eleventyConfig) {
 
 
 	eleventyConfig.addFilter("eventTime", (dateString) => {
-		return DateTime.fromJSDate(new Date(dateString), { zone: 'utc' }).toFormat('MM-dd-yyyy');
+		const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+		return `${months[new Date(dateString).getUTCMonth()]} ${new Date(dateString).getUTCDate()}, ${new Date(dateString).getUTCFullYear()}`;
 	});
 
 	// Tags
@@ -130,6 +133,11 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
 		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
 		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
+	});
+
+	eleventyConfig.addFilter("publicationDate", (dateObj, format, zone) => {
+		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
+		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "LLLL yyyy");
 	});
 
 	eleventyConfig.addFilter('htmlDateString', (dateObj) => {
