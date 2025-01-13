@@ -1,9 +1,10 @@
 ---
 title: "Maya’s Vacation Reading #1"
 date: "2011-03-29"
+publisher: "Kim Bowman's Blog"
 categories:
   - "recorded"
-  - "interview"
+  - "interviews"
   - "writing"
 tags:
   - "astraea-press"

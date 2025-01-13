@@ -1,6 +1,7 @@
 ---
 title: "The Speculative Fiction Showcase"
 date: "2022-11-25"
+publisher: "The Speculative Fiction Showcase Blog"
 time:
 location: "The Speculative Fiction Showcase Blog"
 city: "Online"

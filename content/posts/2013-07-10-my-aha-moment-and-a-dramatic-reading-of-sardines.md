@@ -2,6 +2,7 @@
 title: "My Aha Moment and a dramatic reading of \"Sardines\""
 date: "2013-07-10"
 time:
+publisher: "Mutual of Omaha"
 location: "Mutual of Omaha"
 city: "Raleigh, NC"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/aha-moment.jpg"
@@ -10,6 +11,7 @@ categories:
   - "appearances"
   - "writing"
   - "recorded"
+  - "interviews"
 tags:
   - "cannery-row"
   - "fourth-grade"
