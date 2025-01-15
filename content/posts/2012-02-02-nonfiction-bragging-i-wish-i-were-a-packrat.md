@@ -1,8 +1,8 @@
 ---
 title: "Nonfiction Bragging--I Wish I Were A Packrat"
 date: "2012-02-02"
-categories:
 coverImage: "https://d602mxa74hbsi.cloudfront.net/The-Muffin-Header.jpg"
+categories:
   - "announcements"
   - "publication-news"
   - "writing"

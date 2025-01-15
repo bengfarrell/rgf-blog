@@ -8,7 +8,10 @@ permalink: 'events/events.json'
 			{
 			"title": "{{ item.data.title }}",
 			"url": "{{ item.url }}",
-			"date": "{{ item.date.toUTCString() }}"
+			"date": "{{ item.date.toUTCString() }}",
+			"time": "{{ item.data.time }}",
+			"location": "{{ item.data.location }}",
+			"city": "{{ item.data.city }}"
 			}{% if not loop.last %},{% endif %}
 		{% endfor %}
 	]

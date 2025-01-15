@@ -4,11 +4,12 @@ layout: layouts/page.njk
 ---
 
 <h1>Miscellaneous</h1>
-<ul>
-{% for post in collections.misc | head(-100, true) %}
+<ul class="books">
+{% for post in collections['misc'] | head(-5, true) %}
 <li>
-	<h2>{{ post.date | eventTime }}</h2>
+	<img src="{{ post.data.coverImage }}" />
 	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
-	<h4>{{ post.data.location }}</h4></li>
+	<h3>{{ post.data.publication }}</h3>
+</li>
 {% endfor %}
 </ul>

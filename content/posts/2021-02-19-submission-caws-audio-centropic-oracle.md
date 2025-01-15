@@ -1,7 +1,7 @@
 ---
 title: "Listen to \"Submission Caws\" at the Centropic Oracle!"
 date: "2021-02-19"
-coverImage:"https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/01/28221958/centropic-oracle.jpg"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/01/28221958/centropic-oracle.jpg"
 categories:
   - "announcements"
   - "publication-news"
@@ -19,7 +19,6 @@ tags:
   - "submission-caws"
   - "submission-process"
   - "writing"
-coverImage: "Screenshot_2020-01-28-When-Should-You-Form-Gate-Your-Content-.png"
 ---
 
 In the madness of moving, I haven't had time to share this news: "Submission Caws" received an audio production by _the Centropic Oracle_!

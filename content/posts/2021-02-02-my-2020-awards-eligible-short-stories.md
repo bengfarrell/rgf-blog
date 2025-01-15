@@ -1,7 +1,6 @@
 ---
 title: "My 2020 Awards Eligible Short Stories"
 date: "2021-02-02"
-coverImage: 
 categories:
   - "announcements"
   - "writing"

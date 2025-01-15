@@ -15,7 +15,6 @@ tags:
   - "rebecca-gomez-farrell"
   - "short-stories"
   - "treasure"
-coverImage: "DLW_eCover_Final_72dpi.jpg"
 ---
 
 My next short story will appear in the forthcoming _Dark Luminous Wings_ anthology - and I mean forthcoming soon! _Dark Luminous Wings_ will be released on 10/21, this next Saturday.

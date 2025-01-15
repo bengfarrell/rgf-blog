@@ -1,10 +1,9 @@
 ---
 title: "FOGcon 2020!"
 date: "2020-03-06"
-time: 
+time:
 location: "Walnut Creek Marriott"
 city: "Walnut Creek, CA"
-coverImage: 
 categories:
   - "appearances"
   - "events"

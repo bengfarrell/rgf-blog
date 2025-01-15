@@ -15,7 +15,6 @@ tags:
   - "publishing-panels"
   - "san-francisco"
   - "z-space"
-coverImage: "litquake.jpg"
 ---
 
 I am thrilled to be sharing my experience as a debut author with the Litquake and greater Bay Area literary community at this panel. It takes place on **Sunday, 4/14,** at **2:15 pm,** at **Z Space** in the Mission.

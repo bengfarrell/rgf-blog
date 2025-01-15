@@ -17,11 +17,12 @@ Show in reverse chronologic order
 
 In a carousel, show featured images on most recent posts categorized as "writing-thoughts." Fit 4-5 on the page and then include a "see more" link to a page that links to a search of all posts with that category.
 
-<ul>
-{% for post in collections["writing-thoughts"] | head(-5, true) %}
+<ul class="books">
+{% for post in collections['writing-thoughts'] | head(-5, true) %}
 <li>
-	<h2>{{ post.date | readableDate }}</h2>
+	<img src="{{ post.data.coverImage }}" />
 	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+	<h3>{{ post.data.publication }}</h3>
 </li>
 {% endfor %}
 </ul>
@@ -38,11 +39,12 @@ One image of The Gourmez logo, linking to website.
 
 In a carousel, show featured images on most recent posts categorized as "television" and/or "essays". Fit 4-5 on the page and then include a "see more" link to a search of all posts with that category.
 
-<ul>
-{% for post in collections.essays | head(-5, true) %}
+<ul class="books">
+{% for post in collections['essays'] | head(-5, true) %}
 <li>
-	<h2>{{ post.date | readableDate }}</h2>
+	<img src="{{ post.data.coverImage }}" />
 	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+	<h3>{{ post.data.publication }}</h3>
 </li>
 {% endfor %}
 </ul>
@@ -53,11 +55,12 @@ In a carousel, show featured images on most recent posts categorized as "televis
 
 In a carousel, show featured images on most recent posts categorized as "reviews". Fit 4-5 on the page and then include a "see more" link to a search of all posts with that category.
 
-<ul>
-{% for post in collections.reviews | head(-5, true) %}
+<ul class="books">
+{% for post in collections['reviews'] | head(-5, true) %}
 <li>
-	<h2>{{ post.date | readableDate }}</h2>
+	<img src="{{ post.data.coverImage }}" />
 	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+	<h3>{{ post.data.publication }}</h3>
 </li>
 {% endfor %}
 </ul>
@@ -71,11 +74,12 @@ In a carousel, show featured images on most recent posts categorized as "misc". 
 
 Note: Becca needs to add posts for GH Fan Club books
 
-<ul>
-{% for post in collections.misc | head(-5, true) %}
+<ul class="books">
+{% for post in collections['misc'] | head(-5, true) %}
 <li>
-	<h2>{{ post.date | readableDate }}</h2>
+	<img src="{{ post.data.coverImage }}" />
 	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+	<h3>{{ post.data.publication }}</h3>
 </li>
 {% endfor %}
 </ul>
@@ -88,11 +92,12 @@ Copy: Because the Internet is forever, you can also find my archive of past publ
 
 In a carousel, show featured images on most recent posts categorized as "announcements" or "publication-news" "writing-snippets" or "blog-tours" or "event-writeups". Fit 4-5 on the page and then include a "see more" link to a search of all posts with that category.
 
-<ul>
-{% for post in collections.archive | head(-5, true) %}
+<ul class="books">
+{% for post in collections['archive'] | head(-5, true) %}
 <li>
-	<h2>{{ post.date | readableDate }}</h2>
+	<img src="{{ post.data.coverImage }}" />
 	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+	<h3>{{ post.data.publication }}</h3>
 </li>
 {% endfor %}
 </ul>

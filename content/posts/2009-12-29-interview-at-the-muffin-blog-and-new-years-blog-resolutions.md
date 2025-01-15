@@ -2,13 +2,13 @@
 title: "Interview at The Muffin Blog and New Year's Blog Resolutions"
 date: "2009-12-29"
 publisher: "The Muffin Blog"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/"The-Muffin-Header.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/The-Muffin-Header.jpg"
 
-categories: 
+categories:
   - "announcements"
   - "interviews"
   - "writing"
-tags: 
+tags:
   - "blog-resolutions"
   - "eye-on-soaps"
   - "general-hospital"

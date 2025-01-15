@@ -21,7 +21,6 @@ tags:
   - "rebecca-gomez-farrell"
   - "san-francisco"
   - "science-fiction"
-coverImage: "12783620_967119543341966_4790320726063661752_o.jpg"
 ---
 
 The last week of September will be a busy one for me! I will be participating in two groups readings, and I'd love if you came out to support me and the great slates of other authors sharing their work at these series.

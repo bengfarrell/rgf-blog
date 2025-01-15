@@ -25,3 +25,59 @@ header ul {
 header ul li {
 	margin-left: 15px;
 }
+
+.split-view {
+	display: flex;
+}
+
+.split-view > * {
+	flex: 1;
+}
+
+ul.events {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+ul.events li {
+	width: 50%;
+}
+
+ul.books {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	padding: 0;
+	margin: 0;
+	gap: 50px;
+	list-style: none;
+	justify-content: center;
+	text-align: center;
+}
+
+ul.books li {
+	width: 300px;
+}
+
+ul.books li img {
+	width: 100%;
+}
+
+ul.interviews {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+ul.interviews li {
+	width: 50%;
+}
+
+ul.interviews li img {
+	width: 100%;
+}

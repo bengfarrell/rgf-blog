@@ -21,7 +21,6 @@ tags:
   - "strong-women-strange-worlds"
   - "videos"
   - "wings-rising"
-coverImage: "wu-blogtour-horizontal-banner.jpg"
 ---
 
 Week 1 of the _Wings Unfurled_ Blog Tour is almost over!

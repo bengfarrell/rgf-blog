@@ -16,7 +16,6 @@ tags:
   - "spices"
   - "wings-unseen"
   - "young-adult"
-coverImage: "9781946154002-WingsUnseen-CoverFINAL_03.jpg"
 ---
 
 Sound the horns!
