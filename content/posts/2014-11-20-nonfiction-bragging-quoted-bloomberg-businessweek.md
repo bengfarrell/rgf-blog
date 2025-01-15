@@ -2,7 +2,7 @@
 title: "Nonfiction Bragging--Bloomberg Businessweek Quote!"
 date: "2014-11-20"
 publisher: "Bloomberg Businessweek"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/bloomberg/jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/bloomberg.jpg"
 categories:
   - "announcements"
   - "cocktails-spirits-bars-recipes-review"

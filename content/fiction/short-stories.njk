@@ -5,7 +5,7 @@ layout: layouts/page.njk
 
 <h1>Short Stories</h1>
 <ul class="books">
-{% for post in collections['short-stories-info'] | head(-5, true) %}
+{% for post in collections['short-stories-info'] | head(-100, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />
 	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>

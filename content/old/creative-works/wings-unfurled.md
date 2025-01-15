@@ -12,6 +12,7 @@ categories:
   - "publication-news"
   - "wings-unfurled"
   - "info"
+  - "books"
 tags:
   - "epic-fantasy"
   - "fantasy"

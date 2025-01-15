@@ -28,7 +28,7 @@
 <template>
 Note: this heading disappears when none are upcoming.
 
-Boxes should include the month, day, and year as H2, the event title as H3, and the location as H4. Left-align featured images within each box. Clicking the box leads to the individual post.
+Boxes should include the month, day, and year as H2, then  the event title as H3, and the location as H4. Left-align featured images within each box. Clicking the box leads to the individual post.
 </template>
 
 
@@ -60,7 +60,8 @@ Note: same format as above boxes. List events in reserve chronological order, in
 
 const renderHTML = post => {
 	return `<li>
-		<h2>${formatDate(post.date)} ${post.time}</h2>
+		<h2>${formatDate(post.date)}</h2>
+		<h2>${post.time}</h2>
 		<h3>${post.title}</h3>
 		<h4>${post.location}</h4>
 		<h4>${post.city}</h4>
