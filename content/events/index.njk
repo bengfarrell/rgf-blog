@@ -43,12 +43,15 @@ Note: same format as above boxes. List events in reserve chronological order, in
 <ul class="events">
 
 {% for post in collections['events-recorded'] | head(-10, true) %}
-<li>
-	<h2>{{ post.date | eventTime }}</h2>
-	<h3>{{ post.data.title }}</h3>
-	<h4>{{ post.data.location }}</h4>
-	<h4>{{ post.data.city }}</h4>
-	<p><a href="{{ post.url }}">More info...</a></p>
+	<li>
+		<img src="{{ post.data.coverImage }}" />
+		<div>
+			<h2>{{ post.date | eventTime }}</h2>
+			<h3>{{ post.data.title }}</h3>
+			<h4>{{ post.data.location }}</h4>
+			<h4>{{ post.data.city }}</h4>
+			<p><a href="{{ post.url }}">More info...</a></p>
+		</div>
 	</li>
 	{% endfor %}
 </ul>
@@ -59,13 +62,13 @@ Note: same format as above boxes. List events in reserve chronological order, in
 <script>
 
 const renderHTML = post => {
-	return `<li>
+	return `<li><img src="${post.image}" /><div>
 		<h2>${formatDate(post.date)}</h2>
 		<h2>${post.time}</h2>
 		<h3>${post.title}</h3>
 		<h4>${post.location}</h4>
 		<h4>${post.city}</h4>
-		<p><a href="${post.url}">More info...</a></p></li>`;
+		<p><a href="${post.url}">More info...</a></p></div></li>`;
 }
 
 const formatDate = dateString => {

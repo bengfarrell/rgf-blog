@@ -11,7 +11,8 @@ permalink: 'events/events.json'
 			"date": "{{ item.date.toUTCString() }}",
 			"time": "{{ item.data.time }}",
 			"location": "{{ item.data.location }}",
-			"city": "{{ item.data.city }}"
+			"city": "{{ item.data.city }}",
+			"image": "{{ item.data.coverImage }}"
 			}{% if not loop.last %},{% endif %}
 		{% endfor %}
 	]

@@ -8,11 +8,14 @@ layout: layouts/page.njk
 
 {% for post in collections['events'] | head(-10, true) %}
 <li>
-	<h2>{{ post.date | eventTime }}</h2>
-	<h3>{{ post.data.title }}</h3>
-	<h4>{{ post.data.location }}</h4>
-	<h4>{{ post.data.city }}</h4>
-	<p><a href="{{ post.url }}">More info...</a></p>
+	<img src="{{ post.data.coverImage }}" />
+	<div>
+		<h2>{{ post.date | eventTime }}</h2>
+		<h3>{{ post.data.title }}</h3>
+		<h4>{{ post.data.location }}</h4>
+		<h4>{{ post.data.city }}</h4>
+		<p><a href="{{ post.url }}">More info...</a></p>
+	</div>
 </li>
 {% endfor %}
 </ul>

@@ -2,40 +2,44 @@
 layout: layouts/base.njk
 ---
 
+<div id="page-container">
+	<div id="page-content">
+		<article class="articlebox page type-page status-publish hentry">
+			<ul style="display:none">
+				<li data-pagefind-meta="title">{{ title }}</li>
+				<li><time data-pagefind-meta="date:{{ page.date | htmlDateString }}" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
+			</ul>
 
-<article class="articlebox page type-page status-publish hentry">
-	<ul style="display:none">
-		<li data-pagefind-meta="title">{{ title }}</li>
-		<li><time data-pagefind-meta="date:{{ page.date | htmlDateString }}" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-	</ul>
+			<header class="entry-header entry-header-single">
+				<h1 class="entry-title">{{ title }}</h1>
+				<h2 class="entry-meta"><time data-pagefind-meta="date:{{ page.date | htmlDateString }}" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></h2>
+			</header>
+			<div class="entry-content">
+				{{ content | safe }}
+			</div>
 
-	<header class="entry-header entry-header-single">
-		<h1 class="entry-title">{{ title }}</h1>
-		<h2 class="entry-meta"><time data-pagefind-meta="date:{{ page.date | htmlDateString }}" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></h2>
-	</header>
-	<div class="entry-content">
-		{{ content | safe }}
-	</div>
-
-	<footer class="entry">
-		<p class="tags">Tags:
-			{% for tag in tags %}
-				{%- if tag != 'posts' %}
+			<footer class="entry">
+				<p class="tags">Tags:
+					{% for tag in tags %}
+					{%- if tag != 'posts' %}
 					<a href="/category/{{tag}}" data-pagefind-meta="tag" rel="tag">{{tag}}</a>
-				{% endif %}
-			{% endfor %}
-		</p>
-	</footer>
-</article>
+					{% endif %}
+					{% endfor %}
+				</p>
+			</footer>
+		</article>
 
-{%- if collections.posts %}
-{%- set previousPost = collections.posts | getPreviousCollectionItem %}
-{%- set nextPost = collections.posts | getNextCollectionItem %}
-{%- if nextPost or previousPost %}
-<div id="posts-pagination">
-	<h3 class="screen-reader-text">Post navigation</h3>
-	{%- if previousPost %}<div class="previous fl"><a href="{{ previousPost.url }}" rel="prev">← {{ previousPost.data.title }}</a></div>{% endif %}
-	{%- if nextPost %}<div class="next fr"><a href="{{ nextPost.url }}" rel="next">{{ nextPost.data.title }} →</a></div>{% endif %}
+		{%- if collections.posts %}
+		{%- set previousPost = collections.posts | getPreviousCollectionItem %}
+		{%- set nextPost = collections.posts | getNextCollectionItem %}
+		{%- if nextPost or previousPost %}
+		<div id="posts-pagination">
+			<h3 class="screen-reader-text">Post navigation</h3>
+			{%- if previousPost %}<div class="previous fl"><a href="{{ previousPost.url }}" rel="prev">← {{ previousPost.data.title }}</a></div>{% endif %}
+			{%- if nextPost %}<div class="next fr"><a href="{{ nextPost.url }}" rel="next">{{ nextPost.data.title }} →</a></div>{% endif %}
+		</div>
+		{%- endif %}
+		{%- endif %}
+
+	</div>
 </div>
-{%- endif %}
-{%- endif %}

@@ -84,8 +84,8 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addCollection('essays', collection => {
 		return collection.getAll().filter(item =>
 			item.data.categories &&
-			item.data.categories.includes('essays') &&
-			item.data.categories.includes('television'))
+			(item.data.categories.includes('essays') ||
+			item.data.categories.includes('television')))
 	});
 
 
