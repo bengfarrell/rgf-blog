@@ -27,7 +27,9 @@ My bragging series or "How I Attempted to Embrace Self-Promotion" continues with
 >
 >  
 
-The rest of "the Trickster" can be found in online _Independent Weekly_ as part of their annual Dog Days of Summer issue. "The Trickster" appears about halfway down [this page](http://www.indyweek.com/indyweek/more-readers-pet-tales/Content?oid=1578869 "The Trickster"). Interestingly, my initial [blog post here](/blog/2009/06/my-cat-is-missing/ "My Cat is Missing") when Loki first went missing has always been one of my most popular entries. Plenty of people have swung by it when they've also lost a cat, and I'd like to think they found some hope they'd find their pets again from it. Not quite as popular, but much more hopeful, was [my post on finding Loki again](/blog/2010/01/my-cat-is-home/ "My Cat is Home"), and the injuries he suffered and recovered from, getting back to the same crazy animal he always has been with a lessened sense of wanderlust, luckily.
+"The Trickster" is no longer available online.
+
+Interestingly, my initial [blog post here](https://thegourmez.com/blog/2009-06-04-my-cat-is-missing/) when Loki first went missing has always been one of my most popular entries. Plenty of people have swung by it when they've also lost a cat, and I'd like to think they found some hope they'd find their pets again from it. Not quite as popular, but much more hopeful, was [my post on finding Loki again](https://thegourmez.com/blog/2010-01-25-my-cat-is-home/), and the injuries he suffered and recovered from, getting back to the same crazy animal he always has been with a lessened sense of wanderlust, luckily.
 
 Of course, all this is really an excuse to post a more recent picture of Loki---the cat, the monster, the trickster. This is him with his sisters on either side during a rainy January day.
 

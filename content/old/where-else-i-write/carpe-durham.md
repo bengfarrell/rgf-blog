@@ -10,6 +10,6 @@ Carpe Durham_ is food blog devoted entirely to the food scene in Durham, NC, whe
 
 I posted at _Carpe Durham_ under the name MEZ, but I was far from the primary contributor. That would be DID, who has been doing an amazing job keeping the site constantly updated with reports on the newest Durham restaurants and food-related events.
 
-You can find my posts at _Carpe Durham_ [here](http://carpedurham.com/?s=mez&x=0&y=0 "Carpe Durham posts").
+Carpe Durham shut down in the 2010s.
 
 ![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/IMG_2182forblog.jpg "IMG_2182forblog") *The bull from which _Carpe Durham_ takes its logo.*

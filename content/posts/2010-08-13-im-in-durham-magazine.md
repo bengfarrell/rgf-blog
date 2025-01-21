@@ -17,7 +17,7 @@ tags:
   - "the-gourmez"
 ---
 
-More specifically, one of the websites I blog for is in _Durham Magazine_, a local publication that talks all things Durham-related. Here's the announcement I posted on [Carpe Durham](http://www.carpedurham.com/) about the article, since I'm just not going to think of something new and exciting to say in its place here:
+More specifically, one of the websites I blog for is in _Durham Magazine_, a local publication that talks all things Durham-related. Here's the announcement I posted on Carpe Durham about the article, since I'm just not going to think of something new and exciting to say in its place here:
 
 > Our website has been profiled in the new issue of _Durham Magazine_, the Foodie issue!
 > 

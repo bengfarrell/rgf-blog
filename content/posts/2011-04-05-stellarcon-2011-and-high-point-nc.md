@@ -41,7 +41,11 @@ Apparently, this is a Stellarcon tradition, with a Klingon and an Enterprise cre
 
 ![stellarcon05](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon05.jpg)
 
-On Day 2, Ben and I went for a walk around High Point, as I’d never been there beyond stopping to take a picture there during the [Giant Furniture Adventur](http://blastanova.com/photoalbum/index.html?path=Adventures/Furniture%20Adventure,%20Piedmont,%20NC)e. I was surprised by many of the awesome buildings High Point has that are definitely worthy of a shot or two.
+On Day 2, Ben and I went for a walk around High Point, as I’d never been there beyond stopping to take a picture there during the Giant Furniture Adventure.
+
+1[giant chest of drawers](https://d602mxa74hbsi.cloudfront.net/P1010030.JPG)
+
+ I was surprised by many of the awesome buildings High Point has that are definitely worthy of a shot or two.
 
 <!--more-->
 

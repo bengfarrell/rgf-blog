@@ -18,7 +18,7 @@ tags:
   - "writers-in-residence"
 ---
 
-This Friday night, you can catch me reading as part of the final reading session for the Spring group of [Liminal](https://theliminalcenter.com/) Writers in Residence!
+This Friday night, you can catch me reading as part of the final reading session for the Spring group of Liminal Writers in Residence!
 
 **What: FINAL Reading - Spring Writers in Residence and Workshop Attendees** **Where: Liminal, 3037 38th Avenue, Oakland** **When: Friday, 7/8, at 7:00 pm**
 

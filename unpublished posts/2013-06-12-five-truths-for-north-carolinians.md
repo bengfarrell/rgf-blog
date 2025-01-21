@@ -98,7 +98,7 @@ I’ve sampled the Atlantic’s beaches up and down the NC coast, in Myrtle Beac
 
 As much as North Carolinians try to limit its use to only this--
 
-![](images/bbq.jpg)(http://carpedurham.com/wp-content/uploads/2013/01/bbq.jpg) *Credit: DID at Carpe Durham.*
+![pulled pork on toast](https://s3.amazonaws.com/thegourmez-wpmedia/2011/06/aviator3.jpg)
 
 \--barbecue is a word with as many functions as there are types of it to enjoy. Not only has that pictured chopped pork never appealed to me—I cannot get over its resemblance to dog food—but I’ve been too spoiled with Santa Maria-style tri tip to ever believe that’s the only real deal. Mmm, barbecued ribs. Mmm, barbecued linguiça. Yep, barbecue can indeed be used as a verb and an adjective. It can also be used to describe a grill. And it’s the name for a party at which you and your friends use that grill.
 

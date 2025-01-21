@@ -51,4 +51,4 @@ Maya: A pleasure!
 
  
 
-Now, if you want in on that scavenger hunt, don't forget to e-mail Robyn at promorobyn@gmail.com. If you're interested in what Maya's future holds for her, then pick up _Maya's Vacation!_ It's available in all e-book formats, including PDF, at [Astraea Press,](http://www.astraeapress.com/#ecwid:category=662245&mode=product&product=3028832) [Amazon,](http://www.amazon.com/Mayas-Vacation-ebook/dp/B004UB1REI/ref=sr_1_1?ie=UTF8&qid=1302887098&sr=8-1http://www.astraeapress.com/) or [Barnes and Nobles](http://productsearch.barnesandnoble.com/search/results.aspx?store=EBOOK&WRD=maya%27s+vacation&box=maya%27s%20vacation&pos=-1&ugrp=2).
+Now, if you want in on that scavenger hunt, don't forget to e-mail Robyn at promorobyn@gmail.com. If you're interested in what Maya's future holds for her, then pick up _Maya's Vacation!_ It's available in all e-book formats, including PDF, at [Astraea Press,](http://www.astraeapress.com/#ecwid:category=662245&mode=product&product=3028832) or [Amazon,](http://www.amazon.com/Mayas-Vacation-ebook/dp/B004UB1REI/ref=sr_1_1?ie=UTF8&qid=1302887098&sr=8-1http://www.astraeapress.com/).

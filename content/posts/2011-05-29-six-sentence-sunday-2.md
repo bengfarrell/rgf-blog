@@ -13,7 +13,7 @@ tags:
   - "six-sentence-sunday"
 ---
 
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg)It's time for my second Six Sentence Sunday post! Six Sentence Sunday is a challenge to authors to put out six sentences from any of their works, published or not, that should excite readers to read more, and it is organized by the fine folks over at the [Six Sentence Sunday blog](http://sixsunday.blogspot.com/). I thought I'd continue with _Maya's Vacation_ for now, though I may include my fantasy work in the future! Here are my six:
+![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg)It's time for my second Six Sentence Sunday post! Six Sentence Sunday is a challenge to authors to put out six sentences from any of their works, published or not, that should excite readers to read more, and it is organized by the fine folks over at the Six Sentence Sunday blog. I thought I'd continue with _Maya's Vacation_ for now, though I may include my fantasy work in the future! Here are my six:
 
 > He pulled away. “But you shouldn't be. You know that, don't you? He left you, Maya! How could anyone ever leave you willingly?” His voice was raspy now, how it used to sound if he'd stayed up all night, unable to stop painting.
 

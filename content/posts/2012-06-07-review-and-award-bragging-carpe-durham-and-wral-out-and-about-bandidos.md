@@ -24,7 +24,7 @@ tags:
   - "wral"
 ---
 
-It's that time of the week again! This time, I have two food blogging items to brag about, both recent developments. First, [Carpe Durham](http://carpedurham.com "Carpe Durham"), one of the blogs I contribute to, was a finalist for the third year in a row in the Best Blog category in the Independent Weekly's Best of the Triangle awards.
+It's that time of the week again! This time, I have two food blogging items to brag about, both recent developments. First, Carpe Durham, one of the blogs I contribute to, was a finalist for the third year in a row in the Best Blog category in the Independent Weekly's Best of the Triangle awards.
 
 ![indybestof](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/06/indybestof.jpg)
 

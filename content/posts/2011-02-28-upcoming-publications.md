@@ -31,7 +31,7 @@ I'm posting the synopsis in a moment, but I think this novelette will be great r
 >
 > Thirty years later, Chuck has cheated on and divorced her. But when he comes back, begging for reconciliation, Maya follows her intuition and takes a vacation to think it over. Her love of art, food, and wine combine at this retreat in the woods, and she prepares for a week of making new friends, tasting exquisite wines, and learning to paint again. What she hasn’t prepared for is the familiar voice she hears the first morning at camp . . . a voice that makes her skin tingle and brings back memories of who she used to be before Chuck. Has Maya buried her passion too deep to find love with Dean again?
 
-In other news, the fifth issue of [Bull Spec](http://bullspec.blogspot.com/) is set to to appear on April 15, with my short story, _Bother_, in the fiction section. Woo hoo! The release party for Issue #5 will be at Quail Ridge Books in Raleigh on the same date.
+In other news, the fifth issue of _Bull Spec_ is set to to appear on April 15, with my short story, _Bother_, in the fiction section. Woo hoo! The release party for Issue #5 will be at Quail Ridge Books in Raleigh on the same date.
 
 ![bullspec-04-flyer-v2-screen](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/02/bullspec-04-flyer-v2-screen.jpg)
 

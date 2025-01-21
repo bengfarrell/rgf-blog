@@ -34,6 +34,6 @@ But enough of my behind-the-scenes issues. Here's a teaser of my review of Sarah
 >
 > **The Location:** A nondescript strip mall exterior hides a cozy restaurant. Inside, Sarah’s Empanadas is adorned with tropical bird decorations, creamy mint walls, and a giant, colorful mural. It’s also likely to be packed with diners and a long line of patrons paying at the register. Never fear, the cashier is speedy and has amazing credit-card-sliding reflexes....
 
-Want to know more about the Bolivian empanada wonderland? Read on [here](http://www.wral.com/restaurant-review-sarah-s-empanadas/12226626/ "WRAL Sarah's Empanadas") or head to _Carpe Durham_ for a [slightly different version](http://carpedurham.com/2013/03/31/sarahs-empanadas/ "Carpe Durham").  And I wouldn't leave you without some food porn. Here's the chicken and cheese empanada.
+Want to know more about the Bolivian empanada wonderland? Read on [here](http://www.wral.com/restaurant-review-sarah-s-empanadas/12226626/ "WRAL Sarah's Empanadas").  And I wouldn't leave you without some food porn. Here's the chicken and cheese empanada.
 
 ![Sarahs Empanadas 06](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/04/Sarahs-Empanadas-06.jpg)

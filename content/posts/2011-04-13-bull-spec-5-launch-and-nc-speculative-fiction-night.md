@@ -24,7 +24,7 @@ tags:
   - "science-fiction-fantasy"
 ---
 
-My short story, _Bother_, is now available online! Bull Spec's PDF version is up, a couple of days before the official publication of issue #5 on Friday, 4/15. You can find the full contents list and order a print or PDF version [here](http://www.bullspec.com/issue/5). I may be biased, but I think you'll want the print version because of this gorgeous cover.
+My short story, _Bother_, is now available online! Bull Spec's PDF version is up, a couple of days before the official publication of issue #5 on Friday, 4/15. You can find the full contents list and order a print or PDF version [here](no longer available). I may be biased, but I think you'll want the print version because of this gorgeous cover.
 
 ![bullspec-05-page001](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/bullspec-05-page001.jpg) The artwork is by Richard Case, a Hillsborough resident and comic book artist who's done a lot of work for the DC label. He picked _Bother_ to illustrate for the cover, and I love how it came out! I think it captures the feel of it quite well, and---it must be said---there be dragons! Okay, just one dragon, but it's a beauty!
 
@@ -42,38 +42,32 @@ And Bull Spec's publisher just referred me to his list of where you can find the
 
 [Internationalist Books & Community Center](http://www.internationalistbooks.org/) (Chapel Hill, 405 W Franklin St)
 
-[Chapel Hill Comics](http://www.chapelhillcomics.com/) (Chapel Hill, 316 W Franklin St)
+Chapel Hill Comics (Chapel Hill, 316 W Franklin St)
 
 Foundation's Edge (Raleigh, 2526 Hillsborough St)
 
-[Storyteller's Books](http://www.storystorewf.com/) (Wake Forest, 100 E. Roosevelt Ave)
+Storyteller's Books (Wake Forest, 100 E. Roosevelt Ave)
 
 Capitol Comics (Raleigh, 3027 Hillsborough St)
 
-[Flyleaf Books](http://flyleaf.indiebound.com/) (Chapel Hill, 752 Martin Luther King Jr. Blvd)
+Flyleaf Books (Chapel Hill, 752 Martin Luther King Jr. Blvd)
 
-[All Fun & Games](http://www.allfunngames.com/) (Apex, 958 US Highway 64)
+All Fun & Games (Apex, 958 US Highway 64), 
 
-[Ultimate Comics](http://www.ultimatecomicsonline.com/) (Durham: 9th St; Chapel Hill: Farrington Rd)
+[Ultimate Comics](http://www.ultimatecomicsonline.com/) (Durham: 9th St; Chapel Hill: Farrington Rd) 
 
-[Barnes & Noble of Cary](http://store-locator.barnesandnoble.com/store/2647) (760 SE Maynard, Cary Commons)
+Barnes & Noble of Cary (760 SE Maynard, Cary Commons)
 
-[Barnes & Noble of Durham - The Streets at Southpoint](http://store-locator.barnesandnoble.com/store/2109) (8030 Renaissance Parkway)
+Barnes & Noble of Durham - The Streets at Southpoint (8030 Renaissance Parkway) 
 
-[Barnes & Noble of Durham - New Hope Commons](http://store-locator.barnesandnoble.com/store/2631) (5400 New Hope Commons)
+Barnes & Noble of Durham - New Hope Commons (5400 New Hope Commons)
 
-[All Booked Up](http://www.allbookedupsalemstreet.com/) (Apex, 104-B North Salem St)
+All Booked Up (Apex, 104-B North Salem St)
 
-[Northgate Books](http://www.usedbooksdurham.com/) (Durham: Northgate Mall)
+Northgate Books (Durham: Northgate Mall) **North Carolina:**
 
-**North Carolina:**
+Barnes & Noble of Greenville, NC (3040 Evans Street)
 
-[Barnes & Noble of Greenville, NC](http://store-locator.barnesandnoble.com/store/2775) (3040 Evans Street)
+**New York:** [Forbidden Planet NYC](http://www.fpnyc.com/) (NYC, NY) 
 
-**New York:**
-
-[Forbidden Planet NYC](http://www.fpnyc.com/) (NYC, NY)
-
-**Pennsylvania:**
-
-[Golden Eagle Comics](http://www.goldeneaglecomics.com/) (Reading, PA)
+**Pennsylvania:** Golden Eagle Comics (Reading, PA)

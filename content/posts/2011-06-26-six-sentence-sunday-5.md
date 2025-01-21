@@ -16,7 +16,7 @@ tags:
   - "six-sentence-sunday"
 ---
 
-For this week's [Six Sentence Sunday,](http://sixsunday.com/) I'm sharing the very first six lines from my work-in-progess, an epic fantasy novel. I'll be spending all of August working hard on this book--I'm really hoping I finish it this year. Feedback on if this first paragraph grabs your interest is definitely welcome.
+For this week's Six Sentence Sunday, I'm sharing the very first six lines from my work-in-progess, an epic fantasy novel. I'll be spending all of August working hard on this book--I'm really hoping I finish it this year. Feedback on if this first paragraph grabs your interest is definitely welcome.
 
 > He was an enticing prospect, especially the way the candlelight accentuated the curves of muscle seeping through the black sleeves of his tunic. He’d taken off his cloak, hot from the ride, and was holding it hooked around his pointer finger. Vesperi stifled a giggle at its vivid hue, the bright purple of the Meduan sunset on a cloudy night. Illa wasn’t trained in subtlety. Anyone wearing a cloak that bold was practically announcing his ambition the moment he rode through a town square. Maybe that was the point; her father was a man drawn to power like a priest to intrigue.
 

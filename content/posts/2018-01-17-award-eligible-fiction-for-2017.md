@@ -17,7 +17,7 @@ tags:
 
 It's award nomination season among science fiction and fantasy writers! As is the custom, I'm offering a list of my short stories and novel publications from 2017 that are eligible for nomination--yes, that includes nearly all my 2017 publications. Qualifying isn't that difficult. ;)
 
-If you are a member of SFWA, the Science Fiction and Fantasy Writers of America professional guild, then you may nominate works until February 15, 2018 for the Nebula Awards. [Here's how to vote](https://nebulas.sfwa.org/about-the-nebulas/how-to-vote-rules/). If you attended WorldCon 75 and/or registered as a supporting or attending member of WorldCons 76 or 77 by January 1, 2018, [keep your eyes on this page,](http://www.worldcon76.org/) as nominations are bound to open soon and will likely run through March. WorldCon awards the Hugos every year.
+If you are a member of SFWA, the Science Fiction and Fantasy Writers of America professional guild, then you may nominate works until February 15, 2018 for the Nebula Awards. [Here's how to vote](https://nebulas.sfwa.org/about-the-nebulas/how-to-participate-rules/). If you attended WorldCon 75 and/or registered as a supporting or attending member of WorldCons 76 or 77 by January 1, 2018, [keep your eyes on this page,](http://www.worldcon76.org/) as nominations are bound to open soon and will likely run through March. WorldCon awards the Hugos every year.
 
 I'm planning to attend both conferences, and gosh, it'd be awfully sweet to have an extra special reason to go. ;) But seriously, the Nebula Weekend is a fantastic professional conference for speculative fiction writers, and well worth your time and money--and you do not need to be a member of SFWA or even a writer to attend. I have never been to WorldCon before, but I am hoping to get on paneling or in a reading session for this one, and I think it'll be great fun.
 
@@ -49,7 +49,7 @@ _Wings Unseen_ is a YA classic epic fantasy told with modern sensibilities. To f
 
 #### "Garbage"
 
-“Garbage” is a humorous sci-fi tale about crazy old ladies, immature teenagers, and aliens with an unusual appetite. It has a fair bit to say about what it means to be _native_ and how that shifts over time and with new waves of immigration. “Garbage” appeared in _Through A Scanner Farkly: The 2017 Fark Fiction Anthology_, which was published in July 2017. [More info here](/creative-works/garbage-in-through-a-scanner-farkly/).
+“Garbage” is a humorous sci-fi tale about crazy old ladies, immature teenagers, and aliens with an unusual appetite. It has a fair bit to say about what it means to be _native_ and how that shifts over time and with new waves of immigration. “Garbage” appeared in _Through A Scanner Farkly: The 2017 Fark Fiction Anthology_, which was published in July 2017. [More info here](https://rebeccagomezfarrell.com/fiction/garbage-in-through-a-scanner-farkly/).
 
  
 

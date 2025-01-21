@@ -13,7 +13,7 @@ tags:
   - "wishing-for-more"
 ---
 
-I am thrilled that my romantic urban fantasy tale, ["Wishing for More,"](/creative-works/wishing-for-more/) appears in _Helios Quarterly Magazine_ 4.4, which came out in December 2019 (why yes, I _am_ behind on promo).
+I am thrilled that my romantic urban fantasy tale, ["Wishing for More,"](https://rebeccagomezfarrell.com/fiction/wishing-for-more) appears in _Helios Quarterly Magazine_ 4.4, which came out in December 2019 (why yes, I _am_ behind on promo).
 
 ![helios quarterly, rebecca gomez farrell, wishing for more](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/03/05070059/Helios-739x1024.jpg)
 
@@ -27,7 +27,7 @@ The first lines:
 >
 > She shuffled on her stomach over the rim, reaching with her free hand, but the alep’s hound darted left and right, avoiding her straining fingers. A wave crashed against the jagged boulders, sending up a high plume of seawater that drenched her. Brrr. She tried not to ponder those depths, focused on the plant, leaning farther—
 
-_Helios Quarterly_ 4.4 is available directly from the [publisher's webstore](https://aurelialeo.com/product/2572150x12152019/) in .mobi or .epub formats. You can also purchase from Amazon for $2.99 [for the Kindle here](https://www.amazon.com/Helios-Quarterly-Magazine-Zelda-Knight-ebook/dp/B082Z9DXMW/). It contains four other short stories in addition to "Wishing for More." Get your copy now!
+_Helios Quarterly_ 4.4 contains four other short stories in addition to "Wishing for More." Get your copy now!
 
 And here's a photo inspiration to set the story's mood:
 

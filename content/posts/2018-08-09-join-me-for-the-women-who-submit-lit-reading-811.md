@@ -24,7 +24,7 @@ tags:
 
 This Saturday afternoon at 4 pm, I'll be reading at the first ever Women Who Submit Lit Reading! What is [Women Who Submit Lit](http://womenwhosubmitlit.org/) (WWS)? Founded in 2011, WWS seeks to empower women writers by creating physical and virtual spaces for sharing information, supporting and encouraging literary submissions, and clarifying the submission and publication process.
 
-I helm one chapter of WWS in the Bay Area and primarily organize submission parties, where we get together and encourage each other to submit our work out for publication.  [Dominica Phetteplace,](http://www.dominicaphetteplace.com/home) who passed that duty on to me last year, decided it would be fun to have a reading for our chapter and thus, this reading was born!
+I helm one chapter of WWS in the Bay Area and primarily organize submission parties, where we get together and encourage each other to submit our work out for publication.  [Dominica Phetteplace,](http://www.dominicaphetteplace.com) who passed that duty on to me last year, decided it would be fun to have a reading for our chapter and thus, this reading was born!
 
 **Women Who Submit Lit Reading**
 

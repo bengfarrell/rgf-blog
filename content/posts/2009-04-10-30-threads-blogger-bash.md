@@ -15,7 +15,7 @@ tags:
   - "triangle-bloggers"
 ---
 
-Last night, I dragged my husband with me to the 30 Threads Blogger Bash at the Durham Performing Arts Center (DPAC).  For those of you unfamiliar with [30 Threads](http://www.30threads.com/), it's a website run by Ginny Skalski, a journalist based in Raleigh, and exists to help us get the goods on which Triangle area websites and blogs are worth a click.  As a subscriber to the site, I was already planning to attend this bash and take advantage of the chance to meet bloggers whose sites I've enjoyed reading and drum up some more readers for my own.  You know, that whole networking thing people talk about.  But then, I actually got a nod on 30 Threads this past week, so I was even more excited to go.  Being profiled is fun!
+Last night, I dragged my husband with me to the 30 Threads Blogger Bash at the Durham Performing Arts Center (DPAC).  For those of you unfamiliar with 30 Threads, it's a website run by Ginny Skalski, a journalist based in Raleigh, and exists to help us get the goods on which Triangle area websites and blogs are worth a click.  As a subscriber to the site, I was already planning to attend this bash and take advantage of the chance to meet bloggers whose sites I've enjoyed reading and drum up some more readers for my own.  You know, that whole networking thing people talk about.  But then, I actually got a nod on 30 Threads this past week, so I was even more excited to go.  Being profiled is fun!
 
 <!--more-->
 

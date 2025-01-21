@@ -40,7 +40,7 @@ And I am thrilled that I will get to share some of my passion with you! I am one
 
 ![Flyer for our reading small](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/05/Flyer-for-our-reading-small.jpg)
 
-Thanks to Sally for our flyer! Unfortunately, Laura won't be with us in the flesh, but I'm delighted to read a selection from her novella, _Half the Sky_, on her behalf. I'll also be reading "[Thlush-A-Lum",](/creative-works/thlush-a-lum/ "Thlush-a-lum") my most recently published horror short story, and if time allows (it should), the first chapter of my epic fantasy novel, _Wings Unseen._
+Thanks to Sally for our flyer! Unfortunately, Laura won't be with us in the flesh, but I'm delighted to read a selection from her novella, _Half the Sky_, on her behalf. I'll also be reading "[Thlush-A-Lum",](https://rebeccagomezfarrell.com/fiction/thlush-a-lum/) my most recently published horror short story, and if time allows (it should), the first chapter of my epic fantasy novel, _Wings Unseen._
 
 But that's not all! On Monday morning, in the waning hours of WisCon, I'll be on the **Worldbuilding Through Food** panel in Senate B at 10:00 am. Writing about food has been a huge part of my career over the past six years, and food has always been an honored guest in my fiction as well, so this panel's topic spoke to me on many levels. Ty Blauersouth is our moderator, and my fellow panelists will be Nino Cipri and Amy Thomson. The official description:
 

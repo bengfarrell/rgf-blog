@@ -21,7 +21,7 @@ I am thrilled to be sharing my experience as a debut author with the Litquake an
 
 "Debut Authors: Fame and Fortune in Five Easy Steps" will feature myself and fellow debut authors, Lauren Markham and Huda Al-Marashi ,as we discuss just how we made it to our debut years and what we learned after our first books came out. Sarita Cannon, associate professor of English at San Francisco State University, will be our moderator to guide us through sharing the sometimes exhilarating, sometimes mystifying experience of getting to this point in our careers.
 
-[Get your tickets here!](http://www.zspace.org/debut-authors) With the code LITQ20, you can save 25%--Hooray! Our panel is part of [the Litquake Writers Weekend](http://www.zspace.org/lq-weekend-overview) at Z Space.
+With the code LITQ20, you can save 25%--Hooray! Our panel is part of the Litquake Writers Weekend at Z Space.
 
 ![litquake](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2019/04/03205226/litquake.jpg)
 

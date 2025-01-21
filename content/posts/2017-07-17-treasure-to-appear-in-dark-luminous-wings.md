@@ -1,7 +1,7 @@
 ---
 title: "\"Treasure\" to appear in Dark Luminous Wings"
 date: "2017-07-17"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/07/dark-luminous-wings-332x500.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/dark-luminous-wings.jpg"
 categories:
   - "publication-news"
   - "writing"
@@ -17,13 +17,13 @@ tags:
   - "writing-process"
 ---
 
-For the first time ever, I will have a short story included in an anthology! In fact, I will have \*two\* stories in anthologies in the coming months, in addition, of course, to the publication and book tour for [Wings Unseen](/blog/2017/01/wings-unseen-coming-from-meerkat-press-in-august-2017/), my first novel. "Treasure," a fantasy fable appearing in _Dark Luminous Wings_ from [Pole to Pole Publishing](http://poletopolepublishing.com/), shares quite a lot in common with _Wings Unseen_, actually. Here's the early anthology cover art that co-editor Vonnie Winslow Crist revealed in May:
+For the first time ever, I will have a short story included in an anthology! In fact, I will have \*two\* stories in anthologies in the coming months, in addition, of course, to the publication and book tour for [Wings Unseen](https://rebeccagomezfarrell.com/fiction/wings-unseen), my first novel. "Treasure," a fantasy fable appearing in _Dark Luminous Wings_ from [Pole to Pole Publishing](http://poletopolepublishing.com/), shares quite a lot in common with _Wings Unseen_, actually. Here's the early anthology cover art that co-editor Vonnie Winslow Crist revealed in May:
 
-![dark luminous wings anthology rebecca gomez farrell treasure](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/07/dark-luminous-wings-332x500.jpg)
+![dark luminous wings anthology rebecca gomez farrell treasure](https://d602mxa74hbsi.cloudfront.net/dark-luminous-wings.jpg)
 
 "Treasure" is one of my oldest short stories—I began Draft #1 in 2007, and my filename at that time was "black and white." That name reflects what I wanted to accomplish in writing this story—I wanted to play with the idea of a female thief being thrust into a culture very different from the more violent, selfish one in which she'd been raised, so different that she has a difficult time believing such a culture is real. Can someone raised to distrust everyone around her accept grace and love when freely given it? Is it truly given freely? You'll have to read "Treasure" to find out what Enkid, the story's protoganist, makes of these questions...under threat of a flying sea monster called the Laklor and the lure of a rock pillar that manifests jewels and....
 
-And, I think that's enough info on "Treasure" for now. ;) If you've read an early ARC of _Wings Unseen_ already, then you know those same questions are ones that factor heavily into Vesperi's point of view in the book, though I might argue that figuring out how to deal with a culture so foreign to one's own is also a hurdle for Janto and Serra, the two other main POV characters. Challenging our perspectives of how the world works can be one of the hardest quests there is. Obviously, the concept was strongly on my mind then; I began writing _W__ings Unseen_ in earnest around the same time I drafted "Treasure." Both tales also heavily feature creatures with menacing wings. So does my horror short ["Thlush-A-Lum"](/creative-works/thlush-a-lum/) now that I think of it...
+And, I think that's enough info on "Treasure" for now. ;) If you've read an early ARC of _Wings Unseen_ already, then you know those same questions are ones that factor heavily into Vesperi's point of view in the book, though I might argue that figuring out how to deal with a culture so foreign to one's own is also a hurdle for Janto and Serra, the two other main POV characters. Challenging our perspectives of how the world works can be one of the hardest quests there is. Obviously, the concept was strongly on my mind then; I began writing _W__ings Unseen_ in earnest around the same time I drafted "Treasure." Both tales also heavily feature creatures with menacing wings. So does my horror short ["Thlush-A-Lum"](https://rebeccagomezfarrell.com/fiction/thlush-a-lum/) now that I think of it...
 
 ![city of frogs paperhand puppet intervention](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/07/cityoffrogs29-500x333.jpg) I guess I have a thing for spooky wings.
 

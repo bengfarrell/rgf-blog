@@ -15,7 +15,7 @@ tags:
   - "writing"
 ---
 
-I'm joining in with [Six Sentence Sunday](http://sixsunday.com/ "Six Sentence Sunday") this week, giving my fiction fans six sentences from one of my works to see if it entices you. Six Sentence Sunday is mainly perused by romance authors and readers, so when I participate, I try to include something a bit similar to that genre. This six comes from my short story, _Treasure_, that I'll soon be submitting to a speculative fiction magazine.
+I'm joining in with Six Sentence Sunday this week, giving my fiction fans six sentences from one of my works to see if it entices you. Six Sentence Sunday is mainly perused by romance authors and readers, so when I participate, I try to include something a bit similar to that genre. This six comes from my short story, _Treasure_, that I'll soon be submitting to a speculative fiction magazine.
 
 > By now, she knew such things were repulsive here, that killing another human was anathema to his race, yet she was amazed he could focus on anything but her curves in the morning light.
 > 

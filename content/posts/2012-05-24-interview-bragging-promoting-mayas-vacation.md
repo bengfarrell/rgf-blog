@@ -64,14 +64,12 @@ It has come. This is the last week I'm spending on bragging about _Maya's Vacati
 >
 > Joselyn: I love the idea of a not 20-something heroine.  We can find love at any age. What is your favorite line for your most recent book?
 >
-> This is not from a book but from my short story, _Apocalypse_, published recently at [Yesteryear Fiction](http://www.yesteryearfiction.com/2011/03/31211.html). It is about a woman—a diviner, actually—who is noticed by someone else for the first time in her life, which makes her realize that she’s worth noticing: _His face is alight with the reflection of something dazzling, something she has never seen but always been._ From the novel, I can only give my second favorite line—my first is the last line of the book, and I don’t want to give that away! My second favorite is _Maya thought that interesting, but Dean’s soothing voice, like jazz spilling out of a sidewalk café, distracted her from giving it any further consideration._
+> This is not from a book but from my short story, _Apocalypse_, published recently at Yesteryear Fiction. It is about a woman—a diviner, actually—who is noticed by someone else for the first time in her life, which makes her realize that she’s worth noticing: _His face is alight with the reflection of something dazzling, something she has never seen but always been._ From the novel, I can only give my second favorite line—my first is the last line of the book, and I don’t want to give that away! My second favorite is _Maya thought that interesting, but Dean’s soothing voice, like jazz spilling out of a sidewalk café, distracted her from giving it any further consideration._
 >
 >  Joselyn:  That is really nice imagery. Do you have any characters who keep bugging you for their own book? Will you give them one?
 >
 > Rebecca: I assure you, both John and Opal from _Maya’s Vacation_ are quite confident they are worthy of their own books, largely because they find themselves infinitely entertaining and think they are great catches to anyone of the opposite sex. The fact that I have no plans to do so simply mystifies them. Obviously, I’m not paying due attention to their charms, and they may be forced to try harder.
 
-I hope you enjoyed those little tidbits on why I wrote _Maya's Vacation_ and just plain learning more about me. I can't leave you without showing off that cover one more time and giving you links to where you can buy Maya's Vacation for $1.99, now can I? Here's where: [Astraea Press,](http://www.astraeapress.com/#ecwid:category=662245&mode=product&product=3028832) [Amazon,](http://www.amazon.com/Mayas-Vacation-ebook/dp/B004UB1REI/ref=sr_1_1?ie=UTF8&qid=1302887098&sr=8-1http://www.astraeapress.com/) or [Barnes and Nobles](http://productsearch.barnesandnoble.com/search/results.aspx?store=EBOOK&WRD=maya%27s+vacation&box=maya%27s%20vacation&pos=-1&ugrp=2).
-
-And here's that pretty little cover:
+I hope you enjoyed those little tidbits on why I wrote _Maya's Vacation_ and just plain learning more about me. I can't leave you without showing off that cover one more time:
 
 ![Maya's Vacation 300 x 450](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg)

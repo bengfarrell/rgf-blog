@@ -13,7 +13,7 @@ categories:
 layout: layouts/post.njk
 ---
 
-**Apocalypse** is a flash fiction, fantasy, poetic prose short story [available for free](http://www.yesteryearfiction.com/2011/03/31211.html) at _Yesteryear Fiction_ e-zine. It's one of my personal favorites.
+**Apocalypse** is a flash fiction, fantasy, poetic prose short story that was published at _Yesteryear Fiction_ e-zine. It's one of my personal favorites. Alas, the publisher no longer exists.
 
 Synopsis:
 

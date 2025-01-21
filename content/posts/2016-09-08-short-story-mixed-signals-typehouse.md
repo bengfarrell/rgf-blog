@@ -23,11 +23,11 @@ tags:
 
 #### "Mixed Signals," or, "Learning How to Speak" Published!
 
-"Mixed Signals, or Learning How to Speak," a short story I wrote last summer, is now available in PDF or print as part of [_Typehouse Literary Magazine's_](http://peoples-ink.com/typehouse-literary-magazine/) Issue 9. You can head to their webpage to download the PDF for FREE - ABSOLUTELY FREE - and it's chockful of what's sure to be an amazing mix of literary and genre fiction, poetry, and photography. Just click on the cover image below.
+"Mixed Signals, or Learning How to Speak," a short story I wrote last summer, is now available in PDF or print as part of _Typehouse Literary Magazine's_ Issue 9. You can head to their webpage to download the PDF for FREE - ABSOLUTELY FREE - and it's chockful of what's sure to be an amazing mix of literary and genre fiction, poetry, and photography. Just click on the cover image below.
 
-[![Typehouse Issue 9 Mixed Signals Rebecca Gomez Farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/09/CoverSept2016Big-325x500.png)](http://peoples-ink.com/typehouse-literary-magazine/)
+[![Typehouse Issue 9 Mixed Signals Rebecca Gomez Farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/09/CoverSept2016Big-325x500.png)]
 
-There should be a link to the PDF on that page, or you can [download it directly right here](http://peoples-ink.com/wp-content/Typehouse/TypehouseIssue9Sept2016.pdf). The print version of the magazine is not free, but at only $8 for 150 pages of brand-new fiction and poetry, it's a pretty good deal. [Order it directly from CreateSpace here](https://www.createspace.com/6498870) or f[rom Amazon here.](https://www.amazon.com/Typehouse-Literary-Magazine-Issue-September/dp/1537083910) I'll be picking up a couple copies myself!
+The print version of the magazine is not free, but at only $8 for 150 pages of brand-new fiction and poetry, it's a pretty good deal. [Order it directly from CreateSpace here](https://www.createspace.com/6498870) or f[rom Amazon here.](https://www.amazon.com/Typehouse-Literary-Magazine-Issue-September/dp/1537083910) I'll be picking up a couple copies myself!
 
 #### Mini-Synopsis
 
