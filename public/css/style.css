@@ -59,6 +59,12 @@ html {
 	overflow-y: scroll;
 }
 
+h1, h1 a {
+	font-size: 2em;
+	line-height: normal;
+	text-decoration: none;
+}
+
 section {
 	padding-top: 2.5em;
 	padding-left: 2.5em;
@@ -81,6 +87,10 @@ section .more-posts {
 	padding: 1em;
 }
 
+#page-content.centered {
+	text-align: center;
+}
+
 #page-content img {
 	border-radius: var(--rounded-corner);
 }
@@ -98,10 +108,6 @@ section .more-posts {
 	display: block;
 	margin: 0 auto;
 	margin-bottom: 15px;
-}
-
-#page-content h1 {
-	margin-bottom: 0;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -147,8 +153,10 @@ main :first-child {
 }
 
 header {
-	background-color: black;
-	color: white;
+	background-color: white;
+	color: black;
+	border-bottom: 1px solid #99E2F288;
+	box-shadow: 0 0 18px #99E2F288;
 }
 
 header:after {
@@ -164,6 +172,10 @@ footer {
 	margin-top: 32px;
 }
 
+footer img {
+	margin-bottom: 25px;
+}
+
 header ul {
 	text-align: right;
 }
@@ -171,7 +183,7 @@ header ul {
 header a,
 header a[href],
 header a[href]:visited {
-	color: white;
+	color: black;
 	text-decoration: none;
 	font-weight: bolder;
 	font-size: large;
@@ -186,6 +198,7 @@ footer ul,
 nav ul {
 	margin: 0;
 	padding: 0;
+	display: flex;
 	list-style: none;
 }
 
@@ -211,13 +224,13 @@ nav {
 }
 
 nav ul li {
-	color: white;
+	color: black;
 	display: inline-block;
 }
 
 nav li a[href],
 nav li a[href]:visited {
-	color: white;
+	color: black;
 	text-decoration: none;
 	font-weight: bold;
 	display: inline-block;
@@ -470,6 +483,10 @@ a[href].postlist-link:visited {
 	font-style: italic;
 }
 
+.screen-reader-text {
+	display: none;
+}
+
 /* Direct Links / Markdown Headers */
 .header-anchor {
 	text-decoration: none;
@@ -659,13 +676,47 @@ blockquote {
 	width: 100%;
 }
 
-.split-view > * {
-	flex: 1;
+.split-view > img {
+	margin-bottom: auto;
 }
 
-.split-view > img {
-	width: calc(50% - 1em);
+ul.all-posts {
+	list-style: none;
+	padding: 0;
+}
+
+ul.all-posts li {
+	display: flex;
+}
+
+ul.all-posts li h1 a {
+	font-weight: bold;
+}
+
+ul.all-posts li div {
+	width: 50%;
+	margin-top: auto;
 	margin-bottom: auto;
+}
+
+ul.all-posts li > img {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 400px;
+	max-height: 400px;
+}
+
+ul.all-posts li > * {
+	padding: 25px 25px 25px 0;
+}
+
+ul.all-posts li p {
+	font-size: 1.8em;
+	margin: 0;
+}
+
+ul.all-posts li p.date {
+	font-weight: lighter;
 }
 
 ul.events {
@@ -717,6 +768,10 @@ ul.books li img {
 	width: 100%;
 }
 
+ul.books li p {
+	margin: 0;
+}
+
 ul.interviews {
 	display: flex;
 	flex-wrap: wrap;
@@ -727,8 +782,51 @@ ul.interviews {
 
 ul.interviews li {
 	width: 50%;
+	padding: 20px;
 }
 
-ul.interviews li img {
-	width: 100%;
+ul.interviews li img,
+ul.books li img {
+	max-width: 200px;
+	max-height: 300px;
+}
+
+ul.social-media-row {
+	display: flex;
+	justify-content: center;
+	list-style: none;
+}
+
+ul.social-media-row li {
+	margin: 1em;
+}
+
+p.about-text {
+	font-size: 1.4em;
+}
+
+p.home-text,
+label.home-text {
+	font-size: 1.8em;
+}
+
+.headshot-container {
+	gap: 15px;
+	justify-content: center;
+	display: flex;
+}
+
+.feather-separator {
+	margin-top: 50px;
+}
+
+
+@media screen and (max-width:640px) {
+	header nav ul {
+		flex-direction: column;
+	}
+
+	header {
+		flex-direction: column;
+	}
 }

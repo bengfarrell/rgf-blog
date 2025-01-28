@@ -1,21 +1,9 @@
 ---
 title: "Non-fiction"
-layout: layouts/page.njk
+layout: layouts/books.njk
 ---
 
-Correct page title to "Nonfiction" with no hyphen
-
-Design similar to https://joeabercrombie.com/books/
-Use "coverImage" to generate the image for each item.
-Centered below the image, give the "title"
-Centered below the title, give the "publication"
-No dates given for nonfiction writing
-Show in reverse chronologic order
-
-
 <h1>Writing Advice</h1>
-
-In a carousel, show featured images on most recent posts categorized as "writing-thoughts." Fit 4-5 on the page and then include a "see more" link to a page that links to a search of all posts with that category.
 
 <ul class="books">
 {% for post in collections['writing-thoughts'] | head(-5, true) %}
@@ -29,15 +17,20 @@ In a carousel, show featured images on most recent posts categorized as "writing
 
 <p><a href="./writing-thoughts/">See more...</a></p>
 
+<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
+
 <h1>Food, Drink, &amp; Travel Writing</h1>
 
-	Copy: Follow my savory and sweet adventures at my blog, <a href="https://thegourmez.com">The Gourmez</a>. You will find my older review clippings in the review section below.
+<p>
+Follow my savory and sweet adventures at my blog, <a href="https://thegourmez.com">The Gourmez</a>. You will find my older review clippings in the review section below.
 
 One image of The Gourmez logo, linking to website.
+</p>
+
+
+<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
 
 <h1>Essays</h1>
-
-In a carousel, show featured images on most recent posts categorized as "television" and/or "essays". Fit 4-5 on the page and then include a "see more" link to a search of all posts with that category.
 
 <ul class="books">
 {% for post in collections['essays'] | head(-5, true) %}
@@ -51,9 +44,9 @@ In a carousel, show featured images on most recent posts categorized as "televis
 
 <p><a href="./essays/">See more...</a></p>
 
-<h1>Reviews</h1>
+<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
 
-In a carousel, show featured images on most recent posts categorized as "reviews". Fit 4-5 on the page and then include a "see more" link to a search of all posts with that category.
+<h1>Reviews</h1>
 
 <ul class="books">
 {% for post in collections['reviews'] | head(-5, true) %}
@@ -67,12 +60,9 @@ In a carousel, show featured images on most recent posts categorized as "reviews
 
 <p><a href="./reviews/">See more...</a></p>
 
+<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
 
 <h1>Miscellaneous</h1>
-
-In a carousel, show featured images on most recent posts categorized as "misc". Fit 4-5 on the page and then include a "see more" link to a search of all posts with that category.
-
-Note: Becca needs to add posts for GH Fan Club books
 
 <ul class="books">
 {% for post in collections['misc'] | head(-5, true) %}
@@ -86,11 +76,11 @@ Note: Becca needs to add posts for GH Fan Club books
 
 <p><a href="./misc/">See more...</a></p>
 
+<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
+
 <h1>Blog Archive</h1>
 
-Copy: Because the Internet is forever, you can also find my archive of past publication news and other announcements here.
-
-In a carousel, show featured images on most recent posts categorized as "announcements" or "publication-news" "writing-snippets" or "blog-tours" or "event-writeups". Fit 4-5 on the page and then include a "see more" link to a search of all posts with that category.
+<p>Because the Internet is forever, you can also find my archive of past publication news and other announcements here.</p>
 
 <ul class="books">
 {% for post in collections['archive'] | head(-5, true) %}

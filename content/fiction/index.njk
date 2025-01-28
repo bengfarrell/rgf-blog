@@ -1,14 +1,7 @@
 ---
 title: "Fiction"
-layout: layouts/page.njk
+layout: layouts/books.njk
 ---
-
-Design similar to https://joeabercrombie.com/books/
-Use "coverImage" to generate the image for each item.
-Centered below the image, give the "title"
-Centered below the title, give the "publication"
-Centered below the publication, give the date in MONTH YEAR format
-Have listings appear in reverse chronologic order
 
 <h1>Books</h1>
 
@@ -16,17 +9,16 @@ Have listings appear in reverse chronologic order
 {% for post in collections['books-info'] | head(-5, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />
-	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
-	<h3>{{ post.data.publication }}</h3>
-	<h3>{{ post.date | publicationDate }}</h3>
+	<p><a href="{{ post.url }}">{{ post.data.title }}</a></p>
+	<p><strong>{{ post.data.publication }}</strong></p>
+	<p>{{ post.date | publicationDate }}</p>
 </li>
 {% endfor %}
 </ul>
 
 <p><a href="./books/">See more...</a></p>
 
-In a carousel, show featured images on most recent posts categorized as "books" and "info". Fit 4-5 on the page and then include a "see more" link to a page that links to a search of all posts with that category.
-
+<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
 
 <h1>Short Stories</h1>
 
@@ -34,29 +26,27 @@ In a carousel, show featured images on most recent posts categorized as "books" 
 {% for post in collections['short-stories-info'] | head(-5, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />
-	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
-	<h3>{{ post.data.publication }}</h3>
-	<h3>{{ post.date | publicationDate }}</h3>
+	<p><a href="{{ post.url }}">{{ post.data.title }}</a></p>
+	<p><strong>{{ post.data.publication }}</strong></p>
+	<p>{{ post.date | publicationDate }}</p>
 </li>
 {% endfor %}
 </ul>
 
 <p><a href="./short-stories/">See more...</a></p>
 
-In a carousel, show featured images on most recent posts categorized as "short-stories" and "info". Fit 4-5 on the page and then include a "see more" link to a page that links to a search of all posts with that category.
+<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
 
 <h1>Anthologies</h1>
 <ul class="books">
 {% for post in collections['anthologies-info'] | head(-5, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />
-	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
-	<h3>{{ post.data.publication }}</h3>
-	<h3>{{ post.date | publicationDate }}</h3>
+	<p><a href="{{ post.url }}">{{ post.data.title }}</a></p>
+	<p><strong>{{ post.data.publication }}</strong></p>
+	<p>{{ post.date | publicationDate }}</p>
 </li>
 {% endfor %}
 </ul>
 
 <p><a href="./anthologies/">See more...</a></p>
-
-In a carousel, show featured images on most recent posts categorized as "anthologies" and "info". Fit 4-5 on the page and then include a "see more" link to a page that links to a search of all posts with that category.
