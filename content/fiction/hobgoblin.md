@@ -3,11 +3,11 @@ title: "Hobgoblin-Reprint"
 date: "2020-01-28"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/temp_pb_cover-1024x740.jpg"
 publication: "Whigmaleeries & Wives' Tales"
-out of print: 
+out_of_print:
 amazon: https://www.amazon.com/dp/B08HGL7LNY/ref=rdr_kindle_ext_tmb
-barnes and noble: 
-bookshop dot org:
-pub store: 
+barnes_and_noble:
+bookshop_dot_org:
+pub_store:
 categories:
   - "short-stories"
   - "anthologies"

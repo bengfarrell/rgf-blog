@@ -742,6 +742,17 @@ ul.events li img {
 	margin-right: 1em;
 }
 
+ul.events li .event-time {
+	margin-bottom: 1em;
+}
+
+ul.events li .event-title {
+	color: var(--color-red);
+	line-height: 1.2em;
+	margin-bottom: 1em;
+}
+
+
 ul.events li h2,
 ul.events li h3,
 ul.events li h4 {
@@ -820,6 +831,20 @@ label.home-text {
 	margin-top: 50px;
 }
 
+.book-badges-container {
+	display: flex;
+	justify-content: center;
+	gap: 1em;
+	flex-wrap: wrap;
+	margin-top: 15px;
+}
+
+.book-badge {
+	text-decoration: none;
+	border: solid 1px black;
+	padding: 5px;
+	border-radius: 8px;
+}
 
 @media screen and (max-width:640px) {
 	header nav ul {

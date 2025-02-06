@@ -3,11 +3,11 @@ title: "What Scattered in the Wind: 1st Reprint"
 date: "2020-03-05"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/03/05070057/accolades-690x1024.jpg"
 publication: "ACCOLADES"
-out of print: 
-amazon: 
-barnes and noble: 
-bookshop dot org:
-pub store: "https://www.indiebound.org/book/9781733241526"
+out_of_print:
+amazon:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store: "https://www.indiebound.org/book/9781733241526"
 categories:
   - "short-stories"
   - "anthologies"

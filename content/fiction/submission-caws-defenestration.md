@@ -3,11 +3,11 @@ title: "Submission Caws"
 date: "2019-08-01"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Screenshot_2020-01-28-Submission-Caws-by-Rebecca-Gomez-Farrell.png"
 publication: "Defenestration"
-out of print:
-amazon: 
-barnes and noble: 
-bookshop dot org:
-pub store: "http://www.defenestrationmag.net/2019/08/submission-caws-by-rebecca-gomez-farrell"
+out_of_print:
+amazon:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store: "http://www.defenestrationmag.net/2019/08/submission-caws-by-rebecca-gomez-farrell"
 categories:
   - "short-stories"
   - "info"

@@ -3,9 +3,9 @@ title: "Some Who Wander"
 date: "2020-06-30"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/intrinsick.png"
 publication: "Instrinsick Magazine"
-out of print: 
-amazon: 
-barnes and noble: 
+out_of_print:
+amazon:
+barnes and noble:
 bookshop dot org:
 pub store: "https://www.intrinsick.com/stories/some-who-wander"
 categories:

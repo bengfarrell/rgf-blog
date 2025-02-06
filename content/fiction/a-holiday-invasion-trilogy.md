@@ -3,15 +3,15 @@ title: "A Holiday Invasion Trilogy"
 date: "2018-01-17"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/BHM-Holiday-Hell-642x1024.png"
 publication: "Black Heart Magazine"
-out of print: "yes"
+out_of_print: "yes"
 amazon:
-barnes and noble:
-bookshop dot org:
-pub store:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store:
 
 categories:
   - "short-stories"
-  
+
 layout: layouts/post.njk
 ---
 

@@ -2,16 +2,16 @@
 title: "The General Hospital Fan Club Weekend Yearbook 2013"
 date: "2014-07-11"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend_2013.jpg"
-publication: 
-out of print: "yes"
-amazon: 
-barnes and noble: 
+publication:
+out_of_print: "yes"
+amazon:
+barnes and noble:
 bookshop dot org:
-pub store: 
+pub store:
 categories:
   - "announcements"
   - "publication-news"
-  - "misc"  
+  - "misc"
 tags:
   - "2013"
   - "behind-the-scenes"

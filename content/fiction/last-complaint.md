@@ -3,11 +3,11 @@ title: "Last Complaint"
 date: "2012-10-01"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/wow-logo.jpg"
 publication: "WOW! Women on Writing"
-out of print: 
-amazon: 
-barnes and noble: 
-bookshop dot org:
-pub store: "https://www.wow-womenonwriting.com/34-FE1-Summer09Contest.html"
+out_of_print:
+amazon:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store: "https://www.wow-womenonwriting.com/34-FE1-Summer09Contest.html"
 categories:
   - "short-stories"
   - "info"

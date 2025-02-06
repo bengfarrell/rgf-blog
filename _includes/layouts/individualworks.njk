@@ -1,0 +1,39 @@
+---
+layout: layouts/base.njk
+---
+
+<div id="page-container">
+	<div id="page-content">
+		<div class="split-view">
+			<div>
+				<img src="{{ coverImage }}"/>
+
+				<div class="book-badges-container">
+					{% if out_of_print === "yes" %}
+					<span class="book-badge">Out of print</span>
+					{% endif %}
+
+					{% if amazon !== undefined %}
+					<a class="book-badge" href="{{ amazon }}">Amazon</a>
+					{% endif %}
+
+					{% if barnes_and_noble !== undefined %}
+					<a class="book-badge" href="{{ barnes_and_noble }}">Barnes &amp; Noble</a>
+					{% endif %}
+
+					{% if bookshop_dot_org !== undefined %}
+					<a class="book-badge" href="{{ bookshop_dot_org }}">Bookshop.org</a>
+					{% endif %}
+
+					{% if pub_store !== undefined %}
+					<a class="book-badge" href="{{ pub_store }}">Publisher's Store</a>
+					{% endif %}
+				</div>
+			</div>
+
+			<div>
+				{{ content | safe }}
+			</div>
+		</div>
+	</div>
+</div>

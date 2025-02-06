@@ -3,12 +3,12 @@ title: "Blow 'Em Down"
 date: "2013-07-24"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/bcs-131.jpg"
 publication: "Beneath Ceaseless Skies"
-out of print: 
-amazon: "http://www.amazon.com/Beneath-Ceaseless-Anniversary-Double-Issue-ebook/dp/B00FDUE076/" 
-barnes and noble: 
-bookshop dot org:
+out_of_print:
+amazon: "http://www.amazon.com/Beneath-Ceaseless-Anniversary-Double-Issue-ebook/dp/B00FDUE076/"
+barnes_and_noble:
+bookshop_dot_org:
 weightless books: "http://weightlessbooks.com/genre/fiction/beneath-ceaseless-skies-12-month-subscription"
-pub store: "http://www.beneath-ceaseless-skies.com/stories/blow-em-down/"
+pub_store: "http://www.beneath-ceaseless-skies.com/stories/blow-em-down/"
 categories:
   - "short-stories"
 layout: layouts/post.njk

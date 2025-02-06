@@ -3,11 +3,11 @@ title: "Wings Unfurled"
 date: "2022-12-06"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/Wings-Unfurled.png"
 publication: "Meerkat Press"
-out of print: 
+out_of_print:
 amazon: "https://www.amazon.com/dp/B0BHJLYHWF"
-barnes and noble: "https://www.barnesandnoble.com/w/wings-unfurled-rebecca-gomez-farrell/1142462183?ean=9781946154644"
-bookshop dot org: "https://bookshop.org/p/books/wings-unfurled-rebecca-gomez-farrell/18998266?"
-pub store: "https://meerkatpress.com/books/wings-unfurled/"
+barnes_and_noble: "https://www.barnesandnoble.com/w/wings-unfurled-rebecca-gomez-farrell/1142462183?ean=9781946154644"
+bookshop_dot_org: "https://bookshop.org/p/books/wings-unfurled-rebecca-gomez-farrell/18998266?"
+pub_store: "https://meerkatpress.com/books/wings-unfurled/"
 categories:
   - "publication-news"
   - "wings-unfurled"
@@ -22,11 +22,10 @@ tags:
   - "wings-rising"
   - "wings-unfurled"
   - "wings-unseen"
+layout: layouts/individualworks.njk
 ---
 
-Officially Book 2 of the Wings Rising series, _Wings Unfurled_ released on December 6, 2024. 
-
-![Cover art for Wings Unfurled, featuring a silver stag with blue tones and two moons in the background.](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/11/03023406/WingsUnfurledPreOrderImage.jpg)
+Officially Book 2 of the Wings Rising series, _Wings Unfurled_ released on December 6, 2024.
 
 **The print version is $18.95 and the ebook is $8.95.**
 
@@ -55,7 +54,7 @@ The second question is “So, what's it about, Becca?” Well, here’s the back
 >
 > _To save the Lanserim, the legendary bird with three heads must fly again. Will Janto, Vesperi, and Serra find the strength to raise it? Or will this menace, with the might to drain a moon, devour them first?_
 
-I hope that gets you excited to read about the new adventures and challenges Vesperi, Janto, and Serra face, six years after the events of _Wings Unseen_. I also shared a geeky writer note on book structure with my newsletter subscribers this past weekend, so I'm going to share it with everyone now: I didn’t know that _Wings Unfurled_’s organization would so closely follow _Wing Unseen_’s when I started writing it, but I’m delighted that it worked out that way. _Wings Unseen_ is laid out in two parts: The Breeding Season and The Culling. _Wings Unfurled_ also has two parts: Moonfall and Moonrise. Two stanzas of prophetic prophesy are also very important to both plots! 
+I hope that gets you excited to read about the new adventures and challenges Vesperi, Janto, and Serra face, six years after the events of _Wings Unseen_. I also shared a geeky writer note on book structure with my newsletter subscribers this past weekend, so I'm going to share it with everyone now: I didn’t know that _Wings Unfurled_’s organization would so closely follow _Wing Unseen_’s when I started writing it, but I’m delighted that it worked out that way. _Wings Unseen_ is laid out in two parts: The Breeding Season and The Culling. _Wings Unfurled_ also has two parts: Moonfall and Moonrise. Two stanzas of prophetic prophesy are also very important to both plots!
 
 Here’s a teaser of the first two lines of the new prophecy from _Wings Unfurled:_
 

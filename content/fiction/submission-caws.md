@@ -3,11 +3,11 @@ title: "Submission Caws-Reprint"
 date: "2020-01-28"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/centropic-oracle.jpg"
 publication: "The Centropic Oracle"
-out of print: "yes"
-amazon: 
-barnes and noble: 
-bookshop dot org:
-pub store:
+out_of_print: "yes"
+amazon:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store:
 categories:
   - "short-stories"
   - "info"

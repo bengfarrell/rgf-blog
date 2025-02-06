@@ -3,11 +3,11 @@ title: "Treasure"
 date: "2017-10-20"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/dark-luminous-wings.jpg"
 publication: "Dark Luminous Wings"
-out of print:
+out_of_print:
 amazon: "http://www.amazon.com/dp/B075PZP6QL?tag=kelaharmovont-20"
-barnes and noble:
-bookshop dot org:
-pub store:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store:
 categories:
   - "short-stories"
   - "anthologies"

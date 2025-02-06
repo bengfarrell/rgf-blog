@@ -3,11 +3,11 @@ title: "Treasure-1st Reprint"
 date: "2017-07-17"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Screenshot_2020-01-28-Best-Indie-Speculative-Fiction-November-2019-Darin-Hlavaz-Sarah-Gribble-Liam-Hogan-Henry-Gasko-Em....png"
 publication: "Best Indie Speculative Fiction 2019"
-out of print: "yes"
+out_of_print: "yes"
 amazon:
-barnes and noble:
-bookshop dot org:
-pub store:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store:
 categories:
   - "short-stories"
   - "anthologies"

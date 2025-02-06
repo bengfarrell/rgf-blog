@@ -3,11 +3,11 @@ title: "Mixed Signals, or, Learning How to Speak"
 date: "2016-06-02"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/06/CoverSept2016Big-665x1024.png"
 publication: "Typehouse Literary Magazine"
-out of print: 
-amazon: 
-barnes and noble: 
-bookshop dot org:
-pub store: "https://typehousemagazine.com/product/issue-9/"
+out_of_print:
+amazon:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store: "https://typehousemagazine.com/product/issue-9/"
 categories:
   - "short-stories"
   - "info"

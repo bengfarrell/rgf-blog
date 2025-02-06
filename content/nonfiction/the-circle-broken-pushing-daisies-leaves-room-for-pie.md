@@ -3,9 +3,9 @@ title: "The Circle Broken: Pushing Daisies Leaves Room for Pie"
 date: "2023-01-25"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2023/01/25212707/journeyplanet58-cancelledtoosoon_orig.jpg"
 publication: "Journey Planet #58"
-out of print: 
-amazon: 
-barnes and noble: 
+out_of_print:
+amazon:
+barnes and noble:
 bookshop dot org:
 pub store: "http://journeyplanet.weebly.com/journey-planet---2021-hugo-nominee/issue-58-cancelled-too-soon"
 layout: layouts/post.njk

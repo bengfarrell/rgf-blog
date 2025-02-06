@@ -3,10 +3,10 @@ title: "An Inconvenient Quest"
 date: "2020-06-30"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/A-quiet-afternoon.jpg"
 publication: "A Quiet Afternoon"
-amazon: 
-barnes and noble: 
-bookshop dot org:
-pub store: https://www.graceandvictory.ca/afternoon.html
+amazon:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store: https://www.graceandvictory.ca/afternoon.html
 categories:
   - "short-stories"
   - "anthologies"

@@ -2,21 +2,20 @@
 title: "Maya's Vacation"
 date: "2012-10-01"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg"
-publication: "Clean Reads/Astraea Press" 
-out of print: yes
-amazon: 
-barnes and noble: 
-bookshop dot org:
-pub store:
+publication: "Clean Reads/Astraea Press"
+out_of_print: yes
+amazon:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store:
 categories:
   - "books"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
-**_Maya's Vacation_** is  a sweet, contemporary romance novelette available in all e-book formats. It was published in March 2011.
 
-![Maya's Vacation 300 x 450](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg)
+**_Maya's Vacation_** is  a sweet, contemporary romance novelette available in all e-book formats. It was published in March 2011.
 
 Synposis:
 

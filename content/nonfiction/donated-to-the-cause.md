@@ -3,17 +3,17 @@ title: "Donated to the Cause"
 date: "2012-10-01"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/cropped-IndyLogo.png"
 publication: "INDY Week"
-out of print: "yes"
-amazon: 
-barnes and noble: 
+out_of_print: "yes"
+amazon:
+barnes and noble:
 bookshop dot org:
-pub store: 
+pub store:
 categories:
   - "essays"
 layout: layouts/post.njk
 ---
 
-**Donated to the Cause** is a personal essay published in January 2012 in the "Front Porch" column of _the Independent Weekly_. 
+**Donated to the Cause** is a personal essay published in January 2012 in the "Front Porch" column of _the Independent Weekly_.
 
 ![indy week logo](https://d602mxa74hbsi.cloudfront.net/cropped-IndyLogo.png)
 

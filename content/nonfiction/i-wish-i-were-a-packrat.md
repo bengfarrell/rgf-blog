@@ -3,9 +3,9 @@ title: "I Wish I Were A Packrat"
 date: "2012-10-01"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/The-Muffin-Header.jpg"
 publication: "The Muffin Blog"
-out of print: 
-amazon: 
-barnes and noble: 
+out_of_print:
+amazon:
+barnes and noble:
 bookshop dot org:
 pub store: "https://www.wow-womenonwriting.com/2009/12/interview-with-rebecca-gomez-farrell.html"
 categories:

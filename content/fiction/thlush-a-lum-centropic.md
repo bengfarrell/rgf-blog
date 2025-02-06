@@ -3,11 +3,11 @@ title: "Thlush-a-Lum: 1st Reprint"
 date: "2017-12-08"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/centropic-oracle.jpg"
 publication: "It Calls From the Sky"
-out of print: "yes"
-amazon: 
-barnes and noble: 
-bookshop dot org:
-pub store: 
+out_of_print: "yes"
+amazon:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store:
 categories:
   - "short-stories"
   - "info"

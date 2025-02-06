@@ -3,11 +3,11 @@ title: "Thlush-a-Lum: 2nd Reprint"
 date: "2018-09-01"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Fright-into-flight-663x1024.jpg"
 publication: "Fright Into Flight"
-out of print: 
+out_of_print:
 amazon: "https://www.amazon.com/dp/1939905443/?tag=haresrocklots-20"
-barnes and noble: "https://www.barnesandnoble.com/w/fright-into-flight-amber-fallon/1129167508?ean=9781939905444"
-bookshop dot org:
-pub store: "https://wordhorde.com/books/fright-into-flight/"
+barnes_and_noble: "https://www.barnesandnoble.com/w/fright-into-flight-amber-fallon/1129167508?ean=9781939905444"
+bookshop_dot_org:
+pub_store: "https://wordhorde.com/books/fright-into-flight/"
 categories:
   - "short-stories"
   - "anthologies"

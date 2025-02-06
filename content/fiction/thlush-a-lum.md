@@ -3,11 +3,11 @@ title: "Thlush-a-Lum: 3rd Reprint"
 date: "2014-09-04"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/It-Call-From.gif"
 publication: "It Calls From the Sky"
-out of print: 
+out_of_print:
 amazon: "https://www.amazon.com/Calls-Sky-Terrifying-Tales-Above/dp/1777275040/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr="
-barnes and noble: 
-bookshop dot org:
-pub store: "https://www.eerieriverpublishing.com/store"
+barnes_and_noble:
+bookshop_dot_org:
+pub_store: "https://www.eerieriverpublishing.com/store"
 categories:
   - "short-stories"
   - "anthologies"

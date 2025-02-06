@@ -3,11 +3,11 @@ title: "Thlush-a-Lum"
 date: "2015-01-01"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/Pulp-Literature-5.JPG"
 publication: "PULP Literature"
-out of print: 
-amazon: 
-barnes and noble: 
-bookshop dot org:
-pub store: "http://pulpliterature.com/product-category/pulp-literature/issue-5-winter-2015/"
+out_of_print:
+amazon:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store: "http://pulpliterature.com/product-category/pulp-literature/issue-5-winter-2015/"
 categories:
   - "short-stories"
   - "info"

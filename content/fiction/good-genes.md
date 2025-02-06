@@ -3,11 +3,11 @@ title: "Good Genes"
 date: "2017-07-17"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/f38cover.jpg"
 publication: "The Future Fire"
-out of print:
-amazon: 
-barnes and noble: 
-bookshop dot org:
-pub store: "http://futurefire.net/2016.38/fiction/goodgenes.html"
+out_of_print:
+amazon:
+barnes_and_noble:
+bookshop_dot_org:
+pub_store: "http://futurefire.net/2016.38/fiction/goodgenes.html"
 categories:
   - "short-stories"
 layout: layouts/post.njk

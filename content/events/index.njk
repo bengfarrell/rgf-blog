@@ -2,42 +2,25 @@
 	layout: "layouts/home.njk"
 ---
 
-<template>
-	<p>
-		Design first two headings similar to boxes with details on https://ta-nehisicoates.com/events/
-	</p>
 
-	<p>Boxes will link to Event posts, all under the category of "events" "reading" "readings" or "appearances".</p>
+<div class="split-view">
+	<figure>
+		<img width="400" src="https://d602mxa74hbsi.cloudfront.net/shades+crop.jpg" alt="Shades and Shadows Reading, 2017. Photo credit: One More Bites Blog" />
+		<figcaption>Shades and Shadows Reading, 2017. Photo credit: One More Bites Blog</figcaption>
+	</figure>
+	<div style="width: 100%">
+		<h1 id="upcoming-header" style="display: none">Upcoming Events</h1>
+		<ul class="events" id="upcoming-list" style="display: none"></ul>
+	</div>
+</div>
 
-	<p>Left-aligned photo at top:</p>
-
-	<p>Shades crop</p>
-
-	<p>Caption: Shades and Shadows Reading, 2017. Photo credit: One More Bites Blog</p>
-
-</template>
-
-<figure>
-	<img src="https://d602mxa74hbsi.cloudfront.net/shades+crop.JPG" alt="Shades and Shadows Reading, 2017. Photo credit: One More Bites Blog" />
-	<figcaption>Shades and Shadows Reading, 2017. Photo credit: One More Bites Blog</figcaption>
-</figure>
-
-<h1 id="upcoming-header" style="display: none">Upcoming</h1>
-<ul class="events" id="upcoming-list" style="display: none"></ul>
-
-<template>
-Note: this heading disappears when none are upcoming.
-
-Boxes should include the month, day, and year as H2, then  the event title as H3, and the location as H4. Left-align featured images within each box. Clicking the box leads to the individual post.
-</template>
+<ul class="events" id="upcoming-list-continued" style="display: none"></ul>
 
 
-<h1 style="display: none" id="past-header">Past</h1>
+<h1 style="display: none" id="past-header">Past Events</h1>
 <ul class="events" style="display: none" id="past-list"></ul>
 
-<template>
-Note: same format as above boxes. List events in reserve chronological order, including the ten most recent. Include a "See Older Events" link to a search that includes all Posts categorized as "events" "reading" "readings" or "appearances"
-</template>
+<p><a href="./allevents/">See older events...</a></p>
 
 <h1>Recorded Appearances</h1>
 <ul class="events">
@@ -56,16 +39,14 @@ Note: same format as above boxes. List events in reserve chronological order, in
 	{% endfor %}
 </ul>
 
-<p><a href="./allevents/">See older events...</a></p>
-
 
 <script>
 
 const renderHTML = post => {
 	return `<li><img src="${post.image}" /><div>
 		<h2>${formatDate(post.date)}</h2>
-		<h2>${post.time}</h2>
-		<h3>${post.title}</h3>
+		<h3 class="event-time">${post.time}</h3>
+		<h3 class="event-title">${post.title}</h3>
 		<h4>${post.location}</h4>
 		<h4>${post.city}</h4>
 		<p><a href="${post.url}">More info...</a></p></div></li>`;
@@ -84,11 +65,18 @@ fetch('./events.json')
 
 		if (upcoming.length > 0) {
 			let upcomingHTML = '';
-			upcoming.sort( (a, b) => { return new Date(b.date) - new Date(a.date) }).slice(0,5).forEach(post => {
-				upcomingHTML += renderHTML(post);
+			let upcomingContinuedHTML = '';
+			upcoming.sort( (a, b) => { return new Date(b.date) - new Date(a.date) }).slice(0,5).forEach((post, i) => {
+				if (i === 0) {
+					upcomingContinuedHTML += renderHTML(post)
+				} else {
+					upcomingHTML += renderHTML(post);
+				}
 			});
 			document.getElementById('upcoming-list').innerHTML = upcomingHTML;
+			document.getElementById('upcoming-list-continued').innerHTML = upcomingContinuedHTML;
 			document.getElementById('upcoming-header').style.display = 'flex';
+			document.getElementById('upcoming-list-continued').style.display = 'flex';
 			document.getElementById('upcoming-list').style.display = 'flex';
 		}
 
