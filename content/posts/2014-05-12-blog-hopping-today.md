@@ -2,7 +2,7 @@
 title: "Blog Hopping today!"
 date: "2014-05-12"
 publisher: "This Website"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2014/05/1-FINALBookCoverPreviewLiterary-Suckers.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/sucker-literary.jpg"
 categories:
   - "writing"
   - "blog-tours"
@@ -28,7 +28,7 @@ My regular readers know I don't actually talk about the craft of writing much on
 
 This blog hop is taking place to promote _Sucker Literary Vol. III,_ which looks to be a fun collection of paranormal YA short stories edited by Hannah Goodman.
 
-![1-FINALBookCoverPreviewLiterary Suckers](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2014/05/1-FINALBookCoverPreviewLiterary-Suckers.jpg)
+![1-FINALBookCoverPreviewLiterary Suckers](https://d602mxa74hbsi.cloudfront.net/sucker-literary.jpg)
 
 Per its Goodreads page, it's "Eleven stories that delve into the depths of our experience—driven by fierce and untouched love that makes us seek, lose, fear, desire, long, reflect, survive, steal, protect, fall, and confess." You can check out the full summary on that page.
 

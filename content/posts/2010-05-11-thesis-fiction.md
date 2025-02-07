@@ -1,7 +1,7 @@
 ---
 title: "Thesis Fiction"
 date: "2010-05-11"
-coverImage:
+coverImage: "https://d602mxa74hbsi.cloudfront.net/no-cover.png"
 categories: 
   - "writing-thoughts"
 tags: 

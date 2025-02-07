@@ -1,7 +1,7 @@
 ---
 title: "An Insider's Guide to the General Hospital Fan Club Weekend"
 date: "2013-09-30"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend_2013.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend-2013.jpg"
 publication:
 out_of_print: "yes"
 amazon:
@@ -28,6 +28,7 @@ tags:
 I have photography credit on these treats for _General Hospital_ fans.
 
 ![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/09/5144YUs6JfL._SX398_BO1,204,203,200_.jpg)
+
 ![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/09/51Gm8WIKYNL._SX398_BO1,204,203,200_.jpg)
 
 The books are written by Katrina Rasbold, my talented boss for many years over at the now defunct _All My Writers._ I can guarantee she'll crack you up with her Southern dame prose. As the description reads,
@@ -46,4 +47,4 @@ Here are what readers have to say:
 
 And I can't leave you without a picture of me at the event, now can I?
 
-![Me and Michael Sutton (ex-Stone)](images/GHFCW14_Past_Cast_173-500x442.jpg) *Me and Michael Sutton (ex-Stone)*
+![Me and Michael Sutton (ex-Stone)](https://d602mxa74hbsi.cloudfront.net/GHFCW14_Past_Cast_173.JPG) *Me and Michael Sutton (ex-Stone)*

@@ -1,7 +1,7 @@
 ---
 title: "Dark Luminous Wings Pre-sale for $2.99!"
 date: "2017-10-16"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/07/dark-luminous-wings-332x500.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/dark-luminous-wings.jpg"
 categories:
   - "publication-news"
   - "writing"
@@ -19,7 +19,7 @@ tags:
 
 My next short story will appear in the forthcoming _Dark Luminous Wings_ anthology - and I mean forthcoming soon! _Dark Luminous Wings_ will be released on 10/21, this next Saturday.
 
-![dark luminous wings rebecca gomez farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/10/DLW_eCover_Final_72dpi-333x500.jpg)
+![dark luminous wings rebecca gomez farrell](https://d602mxa74hbsi.cloudfront.net/dark-luminous-wings.jpg)
 
 Synopsis:
 

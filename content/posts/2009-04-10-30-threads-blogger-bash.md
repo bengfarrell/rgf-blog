@@ -1,6 +1,7 @@
 ---
 title: "30 Threads Blogger Bash"
 date: "2009-04-10"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/no-cover.png"
 categories: 
   - "announcements"
   - "event-writeups"

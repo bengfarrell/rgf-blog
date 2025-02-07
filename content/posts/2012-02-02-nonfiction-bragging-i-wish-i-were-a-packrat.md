@@ -1,5 +1,5 @@
 ---
-title: "Nonfiction Bragging--I Wish I Were A Packrat"
+title: "Nonfiction Bragging—I Wish I Were A Packrat"
 date: "2012-02-02"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/The-Muffin-Header.jpg"
 categories:

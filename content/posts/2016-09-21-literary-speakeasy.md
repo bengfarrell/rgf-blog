@@ -4,7 +4,7 @@ date: "2016-09-29"
 time:
 location: "Martuni's"
 city: "San Francisco, CA"
-coverImage: https://d602mxa74hbsi.cloudfront.net/literary-speakeasy.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/literary-speakeasy.jpg"
 categories:
   - "appearances"
   - "writing"

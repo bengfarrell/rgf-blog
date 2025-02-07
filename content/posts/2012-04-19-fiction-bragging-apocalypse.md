@@ -1,6 +1,7 @@
 ---
 title: "Fiction Bragging—Apocalypse"
 date: "2012-04-19"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/no-cover.png"
 categories:
   - "announcements"
   - "publication-news"

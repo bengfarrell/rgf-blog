@@ -1,6 +1,7 @@
 ---
 title: "Maya's Vacation Reading #2"
 date: "2011-03-29"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg"
 categories:
   - "recorded"
   - "writing"

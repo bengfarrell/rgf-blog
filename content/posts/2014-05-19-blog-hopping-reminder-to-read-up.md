@@ -1,7 +1,7 @@
 ---
 title: "Blog Hopping: Reminder to Read Up!"
 date: "2014-05-19"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2014/05/1-FINALBookCoverPreviewLiterary-Suckers.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/sucker-literary.jpg"
 categories:
   - "announcements"
   - "writing"

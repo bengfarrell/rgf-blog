@@ -1,7 +1,7 @@
 ---
 title: "She Could Be Me published at Flashes in the Dark"
 date: "2010-06-01"
-coverImage: 
+coverImage: "https://d602mxa74hbsi.cloudfront.net/no-cover.png"
 categories: 
   - "announcements"
   - "publication-news"

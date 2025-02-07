@@ -1,7 +1,7 @@
 ---
 title: "Thlush-a-Lum"
 date: "2015-01-01"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/Pulp-Literature-5.JPG"
+coverImage: "https://d602mxa74hbsi.cloudfront.net//Pulp-Literature-5.JPG"
 publication: "PULP Literature"
 out_of_print:
 amazon:

@@ -1,7 +1,7 @@
 ---
 title: "Nonfiction Bragging: Guest Blogging for Localwise!"
 date: "2015-08-06"
-coverImage: "http://thegourmez.com/wp-content/uploads/2015/08/localwise-logo.png"
+coverImage: "http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/localwise-logo.png"
 categories: 
   - "announcements"
   - "publication-news"
@@ -22,7 +22,7 @@ tags:
 
 About two weeks ago, my first guest blog for [Localwise](http://www.localwisejobs.com/blog/) went up! Localwise, you say? What's that?
 
-[![localwise logo](images/localwise-logo-150x150.png)](http://thegourmez.com/wp-content/uploads/2015/08/localwise-logo.png)
+![localwise logo](http://s3.amazonaws.com/thegourmez-wpmedia/2015/08/localwise-logo.png)
 
 Well, my friends, it's a Berkeley-based start-up that's essentially a classifieds board for local jobs. They began with listings in Berkeley and Oakland only, but after six months of operation, they've expanded to Alameda, Emeryville, and San Francisco with more Bay Area locations in the works.  The site is easy to navigate and a much preferred alternative for local businesses and applicants over that _other_ free classifieds site. You know the one.
 

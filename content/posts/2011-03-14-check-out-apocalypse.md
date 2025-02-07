@@ -1,7 +1,8 @@
 ---
 title: "Check out Apocalypse"
 date: "2011-03-14"
-coverImage: 
+coverImage: "https://d602mxa74hbsi.cloudfront.net/no-cover.png"
+
 categories: 
   - "announcements"
   - "publication-news"

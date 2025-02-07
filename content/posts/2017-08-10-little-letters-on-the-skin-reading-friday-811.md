@@ -4,7 +4,7 @@ date: "2017-08-11"
 time:
 location: "The Octopus Literary Salon"
 city: "Oakland, CA"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/little-letters-on-the-skin.jp"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/little-letters-on-the-skin.jpg"
 categories:
   - "appearances"
   - "publication-news"

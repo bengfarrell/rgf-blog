@@ -16,7 +16,7 @@ tags:
   - "rebecca-gomez-farrell"
   - "speculative-fiction"
   - "walnut-creek"
-coverImage: "fogcon2020.jpg"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/03/05070530/fogcon2020.jpg"
 ---
 
 Starting Friday, I'll be attending FOGcon ([website](https://fogcon.org/)) in Walnut Creek, which is a local convention for speculative fiction writers and enthusiasts. It runs March 6-8 this year, and yes, it is still on despite the coronavirus threat. As I am not in a high-risk population, I plan to attend.

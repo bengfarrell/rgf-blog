@@ -4,7 +4,7 @@ date: "2017-08-26"
 time:
 location: "The Octopus Literary Salon"
 city: "Oakland, CA"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/wings-unseen-book-launch.png"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/wings-unseen-book-launch.jpg"
 categories:
   - "announcements"
   - "appearances"
@@ -29,9 +29,9 @@ _Wings Unseen,_ my debut epic fantasy novel, is now available at bookstores and 
 
 ![wings unseen rebecca gomez farrell meerkat press book jacket](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/FINAL-9781946154002-WingsUnseen-Cover-FLATTENED-CMYK_03-500x348.jpg)
 
-If you'd like to see it in paperback near you, request to have _Wings Unseen_ ordered at your favorite store. Such requests are much appreciated! And so are online orders. You can get it from any of these retailers in paperback or ebook forms:
+If you'd like to see it in paperback near you, request to have _Wings Unseen_ ordered at your favorite store. Such requests are much appreciated! And so are online orders. Visit [the book info page](https://rebeccagomezfarrell.com/fiction/wings-unseen/) for links to where you can purchase it.
 
-[![Buy from Amazon](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/amazon_button.png)](http://www.amazon.com/dp/1946154008?tag=meerkatpress-20)[![Buy from GoodReads](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/goodreads_button.png)](https://www.goodreads.com/book/show/34649841-wings-unseen) [![Buy from Barnes and Noble](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/bnn_button.png)](https://www.qksrv.net/links/7737731/type/am/https://www.barnesandnoble.com/w/wings-unseen-rebecca-gomez-farrell/1126061986?ean=9781946154002&st=PLA&sid=BNB_DRS_Core+Shopping+Books_00000000&2sid=Google_&sourceId=PLGoP67429) [![Buy from Book Depository](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/bookdepository_button.png)](https://www.bookdepository.com/Wings-Unseen-Rebecca-Gomez-Farrell/9781946154002?redirected=true&utm_medium=Google&utm_campaign=Base4&utm_source=US&utm_content=Wings-Unseen&selectCurrency=USD&w=AFCCAU960Z8SXCA80CP6A73J&pdg=kwd-104399158419:cmp-710369722:adg-36534789829:crv-163849126532:pid-9781946154002&gclid=CjwKCAjw_dTMBRBHEiwApIzn_H4cHJoR6kxdzaLP6Z1Z1oCMpue9WDPWOKkzugXq3IDHWqn3OPNAexoCo5cQAvD_BwE)
+
 
 I would absolutely love it if you would rate and/or review the book after reading as well - ratings are life for authors! We all know we are swayed by them. ;) So a big virtual hug from Mazu for those of you able to do so.
 

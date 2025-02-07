@@ -1,7 +1,7 @@
 ---
 title: "Fiction Bragging—She Could Be Me"
 date: "2012-02-16"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/Bards-April-2021.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/Bards+April+2021.jpg"
 categories: 
   - "announcements"
   - "publication-news"

@@ -1,7 +1,7 @@
 ---
 title: "North Carolina Literary Festival"
 date: "2009-09-13"
-coverImage: 
+coverImage: "https://d602mxa74hbsi.cloudfront.net/no-cover.png"
 categories: 
   - "restaurants"
   - "writing"

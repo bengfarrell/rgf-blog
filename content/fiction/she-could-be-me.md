@@ -1,7 +1,7 @@
 ---
 title: "She Could Be Me-Reprint"
 date: "2012-10-01"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/Bards-April-2021.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/Bards+April+2021.jpg"
 publication: "Bards & Sages Quarterly"
 out_of_print: "yes"
 amazon:
