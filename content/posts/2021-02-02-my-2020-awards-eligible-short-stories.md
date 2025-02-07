@@ -15,7 +15,7 @@ tags:
   - "science-fiction"
   - "short-story-nominations"
   - "speculative-fiction"
-coverImage: "My-Post.jpg"
+coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/02/02065500/My-Post.jpg"
 ---
 
 It's award nomination season in the speculative fiction world, which means it's time for me to roll out my annual review of my publications for the previous year! And by annual, I mean, I haven't done one since...2018? Oh wait, 2018 was the only year I've ever done one? Um...oops? But I am recently inspired by Rosemary Claire Smith's ["Reason to Publicize Your Award-Eligible Works"](https://www.sfwa.org/2021/01/12/reasons-to-publicize-your-award-eligible-works/) article to to give it a go. So here goes!
