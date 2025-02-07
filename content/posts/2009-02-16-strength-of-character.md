@@ -1,7 +1,7 @@
 ---
 title: "Strength of Character"
 date: "2009-02-16"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/battlestar.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/Battlestar.jpg"
 
 categories: 
   - "television"
@@ -18,6 +18,8 @@ tags:
 ---
 
 Caution, for those not up-to-date with _Battlestar Galactica_, you may not want to read this.
+
+![](https://d602mxa74hbsi.cloudfront.net/Battlestar.jpg)
 
 I've been browsing through my copy of Writer's Market, marking the listings for magazines that might be a good fit for my work so I can research them to find out.  A good number of the magazines that publish fiction stress the importance of well-formed characters.  Of course, any creative writing instructor will tell you that and I have been instructed in a number of techniques for creating characters in the past, mostly doing free writes on their background or conducting an interview with the character in your head.  I've even forced groups of junior and upper high schoolers to complete character free writes and questionnaires while prepping for drama group practices back in the day.
 
