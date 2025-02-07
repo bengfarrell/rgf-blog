@@ -1,7 +1,8 @@
 ---
 title: "Nonfiction Bragging - An Insider's Guide to the General Hospital Fan Club Weekend"
 date: "2013-12-09"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend-2013.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/insiders-guide-fcw.jpg"
+"
 categories: 
   - "announcements"
   - "publication-news"
@@ -24,7 +25,11 @@ tags:
   - "stories"
 ---
 
-A few months ago, I got to add a second item to my list of professional photography credits for this amazing book for lovers of _General Hospital_, but somehow, I forgot to announce it here! The book is written by Katrina Rasbold, my talented boss over at _All My Writers_, and I can guarantee she'll crack you up with her Southern dame prose. As the description reads,
+A few months ago, I got to add a second item to my list of professional photography credits for this amazing book for lovers of _General Hospital_, but somehow, I forgot to announce it here! 
+
+![insiders guide general hospital fan club weekend](https://d602mxa74hbsi.cloudfront.net/insiders-guide-fcw.jpg)
+
+The book is written by Katrina Rasbold, my talented boss over at _All My Writers_, and I can guarantee she'll crack you up with her Southern dame prose. As the description reads,
 
 > A must have for all fans of the iconic soap opera, _General Hospital_! This book provides one-of-a-kind photos and stories from behind the scenes of the premier GH event of the year.... \[Katrina\] gives you smart tips on how to navigate this complex and intense fan event to get the most bang for your buck and for your time....Who crashed the party at the 2013 Main Cast Luncheon? What GH beauty from the past arrived at the Main Cast Luncheon to announce that she is now on the current cast? Who was the breakout star of the weekend who had hearts throbbing on Sunday?...She shares insider stories from her years working the event, plus includes over 450 photographs from her own personal collection, more than 300 of which are from the most recent 2013 General Hospital Fan Club Weekend!
 

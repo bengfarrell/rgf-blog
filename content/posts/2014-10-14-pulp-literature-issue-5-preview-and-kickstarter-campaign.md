@@ -1,7 +1,7 @@
 ---
 title: "PULP Literature Issue #5 Preview *and* Kickstarter Campaign"
 date: "2014-10-14"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/Pulp-Literature-5.JPG"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/Pulp-Literature-5.JPG"
 categories:
   - "announcements"
   - "publication-news"
@@ -18,7 +18,7 @@ tags:
 
 As I announced a few weeks ago, my next short story will be appearing in Issue #5 of PULP Literature Magazine, which is a print and e-book label fully funded through subscriptions and Kickstarter campaigns. Well...Issue #5 has a cover!
 
-![Pulp Literature #5](images/Pulp-Literature-5-681x1024.jpg)
+![Pulp Literature #5](https://d602mxa74hbsi.cloudfront.net/Pulp-Literature-5.JPG)
 
 And yes, that's my beautiful little byline on it. Seeing my name on a cover is always such a thrill. So is the reminder of PULP Literature's tagline: "Good books for the price of a beer."  I love that! You can get the full description of Issue #5 [right here](http://pulpliterature.com/upcoming-issues/issue-5-winter-2015/ "Issue 5 description").
 

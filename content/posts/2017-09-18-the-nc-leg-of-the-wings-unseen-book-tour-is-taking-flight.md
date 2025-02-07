@@ -4,8 +4,7 @@ date: "2017-09-18"
 time:
 location: "Various North Carolina locations"
 city:
-coverImage: "https://d602mxa74hbsi.cloudfront.net/
-/WingsUnseen.png"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/WingsUnseen.png"
 categories:
   - "announcements"
   - "wings-unseen"

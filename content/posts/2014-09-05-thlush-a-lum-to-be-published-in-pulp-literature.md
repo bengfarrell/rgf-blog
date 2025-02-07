@@ -1,7 +1,7 @@
 ---
 title: "\"Thlush-a-lum\" to be published in PULP Literature!"
 date: "2014-09-05"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/Pulp-Literature-5.JPG"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/Pulp-Literature-5.JPG"
 categories:
   - "announcements"
   - "publication-news"
@@ -24,7 +24,7 @@ I've been sitting on this news all summer! But that's my own fault, because I in
 
 "Thlush-a-lum" will be published in the Winter 2015 issue of [_PULP Literature_](http://pulpliterature.com/ "PULP Literature"), a newish speculative fiction magazine that came to be through a successful Kickstarter campaign in 2013.
 
-[![pulp literature](images/pulp-literature-500x375.jpg)](/blog/2014/09/thlush-a-lum-to-be-published-in-pulp-literature/pulp-literature/)
+[![pulp literature](https://d602mxa74hbsi.cloudfront.net/Pulp-Literature-5.JPG)]
 
 Issue #5 will be released electronically and in paperback form, and you bet I'll update you once buy links become available. In addition to four yearly issues of the magazine, _PULP Literature_ runs a number of contests that often feature publication as a prize. Their editors' blog is also a fount of useful information for writers. [Peruse away](http://pulpliterature.com/ "PULP Literature")!
 

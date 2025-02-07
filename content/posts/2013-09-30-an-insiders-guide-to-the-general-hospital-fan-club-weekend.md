@@ -1,7 +1,7 @@
 ---
 title: "An Insider's Guide to the General Hospital Fan Club Weekend"
 date: "2013-09-30"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend-2013.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/insiders-guide-fcw.jpg"
 publication:
 out_of_print: "yes"
 amazon:
@@ -27,7 +27,7 @@ tags:
 
 I have photography credit on these treats for _General Hospital_ fans.
 
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/09/5144YUs6JfL._SX398_BO1,204,203,200_.jpg)
+![insiders guide general hopsital fan club weekend](https://d602mxa74hbsi.cloudfront.net/insiders-guide-fcw.jpg)
 
 ![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/09/51Gm8WIKYNL._SX398_BO1,204,203,200_.jpg)
 
