@@ -11,7 +11,7 @@ pub_store: "https://www.wow-womenonwriting.com/34-FE1-Summer09Contest.html"
 categories:
   - "short-stories"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
  **Last Complaint** is a horror short story that won me third place in _WOW! Women on Writing_'s Summer Flash Fiction contest in 2009. In it, a grumpy old woman finds out that airing her grievances isn't always the wisest plan. Here are the first few paragraphs:

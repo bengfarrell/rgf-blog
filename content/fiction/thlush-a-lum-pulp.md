@@ -11,20 +11,18 @@ pub_store: "http://pulpliterature.com/product-category/pulp-literature/issue-5-w
 categories:
   - "short-stories"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
-\* "Thlush-A-Lum" first appeared in **_PULP Literature_ Issue #5** in 2015.
+\* "Thlush-A-Lum" first appeared in **_PULP Literature_ Issue #5** in 2015. You can still buy Issue #5 straight from the _PULP Literature_ website, [linked here.](http://pulpliterature.com/product-category/pulp-literature/issue-5-winter-2015/)
+
+It's also available through Amazon.
 
 ![Thlush a lum pages 1](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Thlush-a-lum-pages-1-375x500.jpg)
 
 ![thlush a lum pages 2](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/thlush-a-lum-pages-2-375x500.jpg)
 
-You can still buy Issue #5 straight from the _PULP Literature_ website, [linked here.](http://pulpliterature.com/product-category/pulp-literature/issue-5-winter-2015/)
-
-![pulp literature, thlush a lum, rebecca gomez farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Pulp-Literature-5-682x1024.jpg)
-
-It's also available through Amazon. What's "Thlush-A-lum" about, you wonder? It's pure horror that would qualify as flash fiction in most markets. The story came about when I challenged myself to write something more focused on the sense of sound than the other four I more commonly use in my writing. Many of those sounds are inspired by what I could hear from my own Southern bedroom window...and a few sounds that I swear I've been able to hear no matter where I've lived.
+What's "Thlush-A-lum" about, you wonder? It's pure horror that would qualify as flash fiction in most markets. The story came about when I challenged myself to write something more focused on the sense of sound than the other four I more commonly use in my writing. Many of those sounds are inspired by what I could hear from my own Southern bedroom window...and a few sounds that I swear I've been able to hear no matter where I've lived.
 
 The first few lines? Certainly.
 

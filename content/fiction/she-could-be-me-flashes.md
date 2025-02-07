@@ -1,7 +1,7 @@
 ---
 title: "She Could Be Me"
 date: "2010-05-01"
-coverImage:
+coverImage: "https://d602mxa74hbsi.cloudfront.net/no-cover.png"
 publication: "Flashes in the Dark"
 out_of_print: "yes"
 amazon:
@@ -11,7 +11,7 @@ pub_store:
 categories:
   - "short-stories"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 "She Could Be Me" is a short story isa flash horror story that's _Twilight Zone_ meets "The Ladies Who Lunch." It was first published in _Flashes in the Dark_ in May of 2010, but that publication is out_of_print. 

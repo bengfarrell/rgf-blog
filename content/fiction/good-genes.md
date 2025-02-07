@@ -10,12 +10,11 @@ bookshop_dot_org:
 pub_store: "http://futurefire.net/2016.38/fiction/goodgenes.html"
 categories:
   - "short-stories"
-layout: layouts/post.njk
+  - "info"
+layout: layouts/individualworks.njk
 ---
 
 “Good Genes,” a horror novella, is available to read for free at _the Future Fire_ in [Issue 2016.38](http://futurefire.net/2016.38/index.html).
-
-![the Future Fire issue 2006.38](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/f38cover.jpg)
 
 It's a spooky story that verges on the edge of epic as it combines a modern-day tale with a narrative from the Wild West stage of American history. Sometimes, a place a refuge may bring more horror than the past left behind…
 

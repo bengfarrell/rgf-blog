@@ -11,13 +11,12 @@ pub_store:
 
 categories:
   - "short-stories"
+  - "info"
 
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 "A Holiday Invasion Trilogy" is exactly what it says: a collection of flash fiction stories about invasions during the holiday season. These are true flash fiction pieces; the whole trilogy is less than 900 words. The stories appear in the Holiday Hell issue of _Black Heart Magazine_, released December 23, 2017.
-
-![holiday hell black heart magazine holiday invasion trilogy](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/BHM-Holiday-Hell-642x1024.png)
 
 _Black Heart Magazine_ issues are available only as e-books, but you can get them at Amazon, Gumroad, or Smashwords for an affordable $2.99. The magazine publishes short fiction of all types, along with a monthly column and book reviews. Here's the Amazon order button:
 

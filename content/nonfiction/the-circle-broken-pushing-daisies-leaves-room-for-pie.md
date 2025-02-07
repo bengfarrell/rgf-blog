@@ -8,7 +8,7 @@ amazon:
 barnes and noble:
 bookshop dot org:
 pub store: "http://journeyplanet.weebly.com/journey-planet---2021-hugo-nominee/issue-58-cancelled-too-soon"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 categories:
   - "publication-news"
   - "essays"
@@ -23,8 +23,6 @@ tags:
 ---
 
 Somehow, I managed to overlook posting here about a nonfiction essay I wrote last fall! "The Circle Broken: Pushing Daisies Leaves Room for Pie" appears in _Journey Planet_ #58 "Cancelled Too Soon!"
-
-![A magazine cover with images from several TV shows that were cancelled too soon.](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2023/01/25212707/journeyplanet58-cancelledtoosoon_orig.jpg)
 
 This special double isssue of the Hugo-nominated fanzine was "dedicated to Television Programs that were cancelled after two seasons or less! Thrill to tales from fans, critics, show-runners, inspirations, and writers about the shows that were loved, or at least watched, and lost." Steven H Silver edited the issue. You can [download it here](http://journeyplanet.weebly.com/journey-planet---2021-hugo-nominee/issue-58-cancelled-too-soon) for free.
 

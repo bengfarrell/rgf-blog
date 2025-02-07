@@ -11,7 +11,7 @@ pub store:
 categories:
   - "essays"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 **The Trickster** is a personal essay published online by _the Independent Weekly_ in  the summer of 2010. It's a short reflection on the disappearance and recovery of Loki, our orange tabby cat who went missing for 8 months. Here are the first few lines:

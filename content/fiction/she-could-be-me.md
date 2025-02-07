@@ -11,7 +11,7 @@ pub_store:
 categories:
   - "short-stories"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 "She Could Be Me" is a short story most recently published by _Bards & Sages Quarterly_ in April 2021. It's a flash horror story that's _Twilight Zone_ meets "The Ladies Who Lunch."

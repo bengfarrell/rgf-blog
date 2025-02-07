@@ -12,12 +12,10 @@ categories:
   - "short-stories"
   - "anthologies"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 \*Great news! "Treasure" has been reprinted in the _Best Indie Speculative Fiction 2019_ anthology from Bards & Sages!
-
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Screenshot_2020-01-28-Bards-and-Sages-Publishing-.png)
 
 This collection is "our annual celebration of the small press and independent publishing community." It features twelve short stories of fantasy and science fiction and was published in November 2019. Currently, it's only available from Amazon [here](https://www.amazon.com/Best-Indie-Speculative-Fiction-November/dp/1733082220/ref=sr_1_1?keywords=best+indie+speculative+fiction&qid=1580252850&s=books&sr=1-1).
 

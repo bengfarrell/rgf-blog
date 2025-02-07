@@ -1,7 +1,7 @@
 ---
 title: "Apocalypse"
 date: "2012-10-01"
-coverImage:
+coverImage: "https://d602mxa74hbsi.cloudfront.net/no-cover.png"
 publication: "Yesteryear Fiction"
 out_of_print: "yes"
 amazon:
@@ -10,7 +10,8 @@ bookshop_dot_org:
 pub_store:
 categories:
   - "short-stories"
-layout: layouts/post.njk
+  - "info"
+layout: layouts/individualworks.njk
 ---
 
 **Apocalypse** is a flash fiction, fantasy, poetic prose short story that was published at _Yesteryear Fiction_ e-zine. It's one of my personal favorites. Alas, the publisher no longer exists.

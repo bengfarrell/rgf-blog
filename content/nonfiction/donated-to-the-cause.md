@@ -10,13 +10,10 @@ bookshop dot org:
 pub store:
 categories:
   - "essays"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 **Donated to the Cause** is a personal essay published in January 2012 in the "Front Porch" column of _the Independent Weekly_.
-
-![indy week logo](https://d602mxa74hbsi.cloudfront.net/cropped-IndyLogo.png)
-
 
 It covers my continual bewilderment at the rise of running competitions and contemplates how similar events are all now fundraisers and whether that takes a little of the fun out of them.
 

@@ -11,12 +11,11 @@ weightless books: "http://weightlessbooks.com/genre/fiction/beneath-ceaseless-sk
 pub_store: "http://www.beneath-ceaseless-skies.com/stories/blow-em-down/"
 categories:
   - "short-stories"
-layout: layouts/post.njk
+  - "info"
+layout: layouts/individualworks.njk
 ---
 
 "Blow 'Em Down" is a fantasy, jazzy, steampunk retelling of the Biblical battle of Jericho. It is published in [Issue #131](http://www.beneath-ceaseless-skies.com/issues/issue-131-fifth-anniversary-double-issue/ "Issue 131") of _Beneath Ceaseless Skies,_ a special fifth anniversary double issue.
-
-![beneath ceaseless skies issue 131](https://d602mxa74hbsi.cloudfront.net/bcs-131.jpg)*Issue #131*
 
 Here's a small teaser from the beginning:
 

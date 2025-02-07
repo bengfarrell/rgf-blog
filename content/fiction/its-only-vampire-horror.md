@@ -4,19 +4,18 @@ date: "2021-01-27"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/fark-in-the-time-of-covid.jpg"
 publication: "Fark in the Time of COVID: The 2020 FARK Fiction Anthology"
 out_of_print:
-amazon:
+amazon: "https://www.amazon.com/Fark-Time-Covid-Fiction-Anthology-ebook/dp/B08QDRPW7M"
 barnes_and_noble:
 bookshop_dot_org:
 pub_store:
 categories:
   - "short-stories"
   - "anthologies"
-layout: layouts/post.njk
+  - "info"
+layout: layouts/individualworks.njk
 ---
 
 "It's Only Vampire," a humorous horror short story, appears in _FARK in the Time of COVID: The 2020 Fark Fiction Anthology_! The anthology was released in December 2020.
-
-(https://www.amazon.com/Fark-Time-Covid-Fiction-Anthology-ebook/dp/B08QDRPW7M)
 
 I have a soft spot for the main characters in "It's Only Vampire." Vlad and Ji, a pair of old-timer vampires who live in a brave new world of vampire liberation, decades after vampires rose from the shadows to conquer the Earth. You see, vampires come into existence when humans write about them. After a fan fiction-based population boom, they finally had enough numbers to take their place as the dominant predator on the planet.
 

@@ -12,12 +12,10 @@ categories:
   - "short-stories"
   - "anthologies"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 "Thlush-A-Lum" has been reprinted for the third time in **_It Calls From the Sky_,** a horror anthology from Eerie River Publishing. Published by Eerie River and edited by A. Robertson-Webb and M. River, _It Calls From the Sky_ is available for purchase at 15% off the cover price if you request a quote from Eerie River directly at [the bottom of this page](https://www.eerieriverpublishing.com/store), Or you can purchase hardcover, paperback, or e-book versions [from Amazon here](https://www.amazon.com/Calls-Sky-Terrifying-Tales-Above/dp/1777275040/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=). Reviews have been great for the collection, and it includes 20+ short stories in all! I’m happy that “Thlush-A-Lum” has found such a great fourth home.
-
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/It-Call-From.gif)
 
 \* In September 2018, "Thlush-A-Lum" received its second reprinting! That makes this my most successful short story thus far. This time, "Thlush-A-Lum" formed part of the **_Fright into Flight_** anthology from Word Horde.
 

@@ -11,12 +11,11 @@ pub_store:
 categories:
   - "short-stories"
   - "anthologies"
-layout: layouts/post.njk
+  - "info"
+layout: layouts/individualworks.njk
 ---
 
 "Garbage" appears in _Through A Scanner Farkly: The 2017 Fark Fiction Anthology_, which was published on July 22, 2017.
-
-![through a scanner farkly garbage](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/through-a-scanner-farkly.jpg)
 
 It's a humorous sci-fi tale about crazy old ladies, immature teenagers, and aliens with an unusual appetite. It also has a fair bit to say about what it means to be _native_ and how that shifts over time and with new waves of immigration. I love it, and it's been one of my best-received stories at readings.
 

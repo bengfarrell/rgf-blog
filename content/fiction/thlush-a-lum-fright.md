@@ -12,12 +12,10 @@ categories:
   - "short-stories"
   - "anthologies"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 \* In September 2018, "Thlush-A-Lum" received its second reprinting! That makes this my most successful short story thus far. This time, "Thlush-A-Lum" formed part of the **_Fright into Flight_** anthology from Word Horde.
-
-![fright into flight, thlush a lum, rebecca gomez farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Fright-into-flight-663x1024.jpg)
 
 Links to purchasing can be found at Word Horde's [publication announcement here](https://wordhorde.com/take-wing-with-our-new-anthology-flight-into-fright-available-today/). Or head direct to Amazon.
 

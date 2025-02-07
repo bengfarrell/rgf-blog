@@ -10,7 +10,7 @@ bookshop dot org:
 pub store: "https://www.wow-womenonwriting.com/2009/12/interview-with-rebecca-gomez-farrell.html"
 categories:
   - "essays"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 **I Wish I Were A Packrat** is a short little essay I published back in the fall of 2009 on _the Muffin Blog_. It was written as a way to vent my frustration after losing years of creative writing due to a hard drive failure.More importantly, it was an ode to all the characters I lost from the crash. Here's your lead-in:

@@ -11,12 +11,10 @@ pub_store: "http://www.defenestrationmag.net/2019/08/submission-caws-by-rebecca-
 categories:
   - "short-stories"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 "Submission Caws" first cawed its way into the world at _Defenestration_ humor magazine in August 2019. You can read it [right here](http://www.defenestrationmag.net/2019/08/submission-caws-by-rebecca-gomez-farrell/).
-
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Screenshot_2020-01-28-Submission-Caws-by-Rebecca-Gomez-Farrell.png)
 
 "Submission Caws" was a lot of fun to write, especially if you know me well enough to know I'm not a huge fan of self-referential or so-called _meta_ writing—I prefer my fiction to be more about the story and characters than about the craft of writing itself. So what is "Submission Caws" about? Well ... it's about the craft of writing! I admit my hypocrisy. More specifically, it's my chance for a fictional rant about the process for submitting manuscripts out for publication. It is indeed funny, particularly if you are also a writer undertaking this process on a regular basis. And it's a fantasy take on the concept, with recipes for magic spells subbed in for manuscripts themselves.
 

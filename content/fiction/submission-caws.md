@@ -11,12 +11,10 @@ pub_store:
 categories:
   - "short-stories"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 "Submission Caws" received an audio production by _the Centropic Oracle_ in January 2021!
-
-![centropic oracle, thlush a lum, rebecca gomez farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/centropic-oracle.jpg)
 
 Their website also reprinted the story, which first cawed its way into the world at _Defenestration_ humor magazine in August 2019. Jill Raymond performed the audio version, and I quite enjoy her take on the story—the character of Betty, a bubbly and annoyingly successful composer of magical recipes, comes through loud and clear. To listen to or read "Submission Caws," head to _the Centropic Oracle's_ [website here](http://www.centropicoracle.com/library/F0112_SubmissionCaws.php).
 

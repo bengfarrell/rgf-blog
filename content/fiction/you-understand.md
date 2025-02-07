@@ -12,12 +12,10 @@ categories:
   - "short-stories"
   - "anthologies"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 My horror short story, "You Understand," appears in _Villains and Vengenance:_ A Sirens Benefit Anthology.
-
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/d6ac498d-95c3-d058-44a6-5325fa4532a7.jpg)
 
 This is definitely one of the darkest stories I've written, but I think it's also entertaining, and well, vengeful! Your purchase goes toward supporting [SirensCon](https://www.sirensconference.org/), one of the best speculative fiction conferences out there, in my humble opinion. It celebrates the women of fantasy, both as characters and writers. Purchase the anthlogy as an ebook or in print [on Amazon here](https://www.amazon.com/Villains-Vengeance-Sirens-Benefit-Anthology-ebook/dp/B09FDYS3SD) or [Barnes & Noble here](https://www.barnesandnoble.com/w/villains-vengeance-natalie-j-case-editor/1140126793).
 

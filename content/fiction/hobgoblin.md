@@ -11,12 +11,11 @@ pub_store:
 categories:
   - "short-stories"
   - "anthologies"
-layout: layouts/post.njk
+  - "info"
+layout: layouts/individualworks.njk
 ---
 
 "Hobgoblin" is a short, but not very sweet, story that explores just how a creature such as a hobgoblin might come to exist. I had some fun thinking about the power of names and of miscommunication between folks of very different backgrounds for this one. It most recently appears in _Whigmaleeries & Wives' Tales_ from Jayhenge Publishing, published in September 2020. Whigmaleeries & Wives' Tales is a collection of over 400 pages on new fairy tale takes - or retellings of lost knowledge, if you'd like. 😉 You can [purchase it here](https://www.amazon.com/dp/B08HGL7LNY/ref=rdr_kindle_ext_tmb) at Amazon, in ebook or paperback formats.
-
-![whigmaleeries, wives' tales, old wives tale, anthology, jayhenge press, jayhenge publishing, jayhenge books, rebecca gomez farrell, hobgoblin, fairy tale collection](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/temp_pb_cover-1024x740.jpg)
 
 That anthology is "Hobgoblin's" second printing - it was a runner-up for the Fall 2017 _WOW! Women on Writing_ Flash Fiction contest, and it was published by _WOW! Women on Writing_ in February 2018.
 

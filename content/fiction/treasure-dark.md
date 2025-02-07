@@ -12,12 +12,10 @@ categories:
   - "short-stories"
   - "anthologies"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
-For the first time ever, I will have a short story included in an anthology! In fact, I will have *two* stories in anthologies in the coming months, in addition, of course, to the publication and book tour for Wings Unseen, my first novel. "Treasure," a fantasy fable appearing in Dark Luminous Wings from Pole to Pole Publishing, shares quite a lot in common with Wings Unseen, actually. Here's the early anthology cover art that co-editor Vonnie Winslow Crist revealed in May:
-
-![dark luminous wings cover](https://d2ypg8o05lff0b.cloudfront.net/dark-luminous-wings.jpg)
+For the first time ever, I will have a short story included in an anthology! In fact, I will have *two* stories in anthologies in the coming months, in addition, of course, to the publication and book tour for Wings Unseen, my first novel. "Treasure," a fantasy fable appearing in Dark Luminous Wings from Pole to Pole Publishing, shares quite a lot in common with _Wings Unseen_, actually. 
 
 "Treasure" is one of my oldest short stories—I began Draft #1 in 2007, and my filename at that time was "black and white." That name reflects what I wanted to accomplish in writing this story—I wanted to play with the idea of a female thief being thrust into a culture very different from the more violent, selfish one in which she'd been raised, so different that she has a difficult time believing such a culture is real. Can someone raised to distrust everyone around her accept grace and love when freely given it? Is it truly given freely? You'll have to read "Treasure" to find out what Enkid, the story's protoganist, makes of these questions...under threat of a flying sea monster called the Laklor and the lure of a rock pillar that manifests jewels and....
 

@@ -11,12 +11,11 @@ pub_store: "https://payhip.com/b/LqAfQ"
 categories:
   - "short-stories"
   - "anthologies"
-layout: layouts/post.njk
+  - "info"
+layout: layouts/individualworks.njk
 ---
 
 I'm quite proud of "Fresh Catch of the Day." This fantasy story appears in _A Quiet Afternoon 2_, the second volume of an anthology series of low-fi speculative fiction from Grace&Victory Publications.
-
-![a quiet afternoon 2](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/07/21222521/GV_AQA2_cover.jpg)
 
 Low-fi spec fic aims "for a peaceful break from a stressful world." Volume 1 contained my "[An Inconvenient Quest,](/creative-works/an-inconvenient-quest/)" and I'm delighted that the G&V team thought "Fresh Catch of the Day" would make a great addition to Volume 2.
 

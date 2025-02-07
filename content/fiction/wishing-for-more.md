@@ -11,12 +11,10 @@ pub_store:
 categories:
   - "short-stories"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 My romantic urban fantasy tale, "Wishing for More," appears in _Helios Quarterly Magazine_ 4.4, which came out in December 2019.
-
-![helios quarterly, rebecca gomez farrell, wishing for more](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Helios-739x1024.jpg)
 
 In "Wishing for More," a dastardly magical plant outwits stubborn Jewls, forcing her to accept rescue from her childhood friend Cesar. Both newly graduated from Jinn School, Jewls and Cesar set out for a night of adventure, foraging for more mystical plants Jewls can sell to pay the bills and avoid disappointing the Jinn Cadre. Will she use up all her wishing power before she realizes what she wishes for most?
 

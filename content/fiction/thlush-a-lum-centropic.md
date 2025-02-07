@@ -11,12 +11,10 @@ pub_store:
 categories:
   - "short-stories"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 \* "Thlush-A-Lum" was first reprinted by **[the Centropic Oracle](http://www.centropicoracle.com/),** who produced an audio version of the story, released on December 8, 2017. Unfortunately, The Centropic Oracle has shut down.
-
-![centropic oracle, thlush a lum, rebecca gomez farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/centropic-oracle.jpg)
 
 Sarah Houghton performed the audio narration.
 

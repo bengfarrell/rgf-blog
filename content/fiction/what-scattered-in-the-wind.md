@@ -12,12 +12,10 @@ categories:
   - "short-stories"
   - "anthologies"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 "What Scattered in the Wind" first appeared in _Little Letters on the Skin_, a chapbook/anthology partnership between the Cleave Bay Area Women Writers and the Liminal Center.
-
-![little letters on the skin raina leon liminal center rebecca gomez farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/little-letters-on-the-skin.jpg)
 
 It has been reprinted in the ACCOLADES anthology from Women Who Submit, a national organization that supports all writers who identify as women and/or genderqueer as they seek to get their work publishing in top-tier magazines and publishing houses. [You can order ACCOLADES here.](https://www.indiebound.org/book/9781733241526)
 

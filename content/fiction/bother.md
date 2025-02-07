@@ -10,12 +10,11 @@ bookshop_dot_org:
 pub_store:
 categories:
   - "short-stories"
-layout: layouts/post.njk
+  - "info"
+layout: layouts/individualworks.njk
 ---
 
 "Bother," an urban fantasy short story, is in _[Bull Spec](http://bullspec.blogspot.com/ "Bull Spec Blog")_, Issue #5, which is available both in print and in PDF. The cover of the issue is an illustration of "Bother" done by the amazing Richard Case. It was an honor that he chose my story to depict for the cover!
-
-![bullspec-05-page001](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/bullspec-05-page001.jpg)
 
 You can purchase a year's subscription to _Bull Spec_ [here](http://www.bullspec.com/sub "Bull Spec Subscriptions") for $15 + shipping and handling, or you can order Issue #5 on its own in either print or PDF forms.
 

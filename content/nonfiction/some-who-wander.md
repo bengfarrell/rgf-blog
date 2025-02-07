@@ -11,12 +11,10 @@ pub store: "https://www.intrinsick.com/stories/some-who-wander"
 categories:
   - "essays"
   - "info"
-layout: layouts/post.njk
+layout: layouts/individualworks.njk
 ---
 
 "Some Who Wander" is a short, but not sweet, piece of micro-nonfiction that appears at _Instrinsick magazine_._
-
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/intrinsick.png)
 
 What does micro-nonfiction mean? It means this creative work is less than a hundred words long, and it is an account of one of my many adventures while taking a walk. It turned out slightly better than the time I fell into a blackberry thicket and ended up with poison oak for weeks . . .
 

@@ -10,12 +10,11 @@ pub_store: https://www.graceandvictory.ca/afternoon.html
 categories:
   - "short-stories"
   - "anthologies"
-layout: layouts/post.njk
+  - "info"
+layout: layouts/individualworks.njk
 ---
 
 My short story, "An Inconvenient Quest," appears in _A Quiet Afternoon,_ an anthology of Low-Fi speculative fiction from Grace&Victory Publications. The anthology is due out on July 1, 2020.
-
-![a quiet afternoon, an inconvenient quest, cozy stories, cozy fantasy, cozy scifi, short stories, fairies](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/A-quiet-afternoon.jpg)
 
 What's Low-Fi speculative fiction? Foreward writer Laura DeHaan describes it as "The stakes are low. The expectations are reasonable. The resolutions are quietly satisfactory. Problems are solved with words, not violence. And sometimes, not much happens. There might not even be an appreciable amount of fantasy or science fiction. Still, it’s Low-Fi. It feels cosy. It reads easy. It enjoys the little victories."
 

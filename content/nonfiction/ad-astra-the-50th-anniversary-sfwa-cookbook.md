@@ -9,12 +9,11 @@ bookshop dot org:
 pub store: "https://store.sfwa.org/product/sfwa-cookbook-spiral-bound/"
 categories:
   - "misc"
-layout: layouts/post.njk
+  - "info"
+layout: layouts/individualworks.njk
 ---
 
 What's that? I share a contributor credit with such famous speculative fiction writers as Elizabeth Bear, John Scalzi, Chuck Wendig, Mary Robinette Kowal, Alaya Dawn Johnson, and Jim C. Hines?
-
-![Ad Astra Cover](https://d602mxa74hbsi.cloudfront.net/Ad+Astra+Cover.jpg)
 
 You bet I do! The _Ad Astra 50th Anniversary SFWA Cookbook_ came to be when a few fellow illustrious Science Fiction and Fantasy Writers of America members decided it was high past time for another cookbook to come forth from our midst. Cat Rambo and Fran Wilde volunteered for editing duties and managed to gather up 150+ recipes along with some bonus specialties with ingredients that may be hard to find...
 
