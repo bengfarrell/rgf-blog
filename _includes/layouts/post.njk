@@ -9,8 +9,8 @@ layout: layouts/base.njk
 				<li><time data-pagefind-meta="date:{{ page.date | htmlDateString }}" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
 			</ul>
 
-			<h1 class="entry-title">{{ title }}</h1>
-			<h2 class="entry-meta"><time data-pagefind-meta="date:{{ page.date | htmlDateString }}" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></h2>
+			<h1 class="section-header">{{ title }}</h1>
+			<p><strong><time data-pagefind-meta="date:{{ page.date | htmlDateString }}" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></strong></p>
 			<div class="entry-content">
 				{{ content | safe }}
 			</div>

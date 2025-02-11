@@ -26,7 +26,11 @@
 
 	<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
 	<link rel='dns-prefetch' href='//s.w.org'/>
-	<link rel="alternate" type="application/rss+xml" title="Rebecca Gomez Farrell &raquo; Feed" href="https://rebeccagomezfarrell.com/feed/"/>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link href="https://fonts.googleapis.com/css2?family=Freeman&family=Jost:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
 	<link rel="alternate" type="application/rss+xml" title="Rebecca Gomez Farrell &raquo; Comments Feed" href="https://rebeccagomezfarrell.com/comments/feed/"/>
 	<!--<link rel='stylesheet' id='otw_grid_manager-css' href='/css/otw-grid.css' type='text/css' media='all'/>
 	<link rel='stylesheet' id='general_foundicons-css' href='/css/general_foundicons.css' type='text/css' media='all'/>
@@ -45,7 +49,7 @@
 
 <body>
 	<header>
-		<a href="https://rebeccagomezfarrell.com" title="Rebecca Gomez Farrell" rel="home">Rebecca Gomez Farrell</a>
+		<a class="logo" href="https://rebeccagomezfarrell.com" title="Rebecca Gomez Farrell" rel="home">Rebecca Gomez Farrell</a>
 		<nav role="navigation">
 			<ul>
 				<!--<li><a href="https://www.facebook.com/thegourmez"><img class="social-icon" width="24" height="22" src="/img/svg/facebook.svg"/><span class="wp-block-social-link-label screen-reader-text">Facebook</span></a></li>
@@ -57,17 +61,18 @@
 				<li><a href="/events/">Events</a></li>
 				<li><a href="/fiction/">Fiction</a></li>
 				<li><a href="/nonfiction/">Nonfiction</a></li>
-				<li><a href="/store/">Store</a></li>
 			</ul>
 		</nav>
 	</header>
 
 	<main>
 		{{ content | safe }}
+		<div class="feather-separator">
+			<img width="125" src="/img/svg/feathers.svg" />
+		</div>
 	</main>
 
 	<footer>
-		<img width="125" src="/img/svg/feathers.svg" />
 		<br />
 		<a href="/fiction/wings-unseen"><img width="150" src="https://d602mxa74hbsi.cloudfront.net/WingsUnseen.png"></img></a>
 		<a href="/fiction/wings-unfurled"><img width="150" src="https://d602mxa74hbsi.cloudfront.net/Wings-Unfurled.png"></img></a>

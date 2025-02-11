@@ -3,8 +3,8 @@ title: "Essays"
 layout: layouts/page.njk
 ---
 
-<h1>Essays</h1>
-<ul class="books">
+<h1 class="section-header">Essays</h1>
+<ul class="image-item">
 {% for post in collections['essays'] | head(-5, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />

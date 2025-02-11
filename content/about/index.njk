@@ -3,9 +3,7 @@ title: "About"
 layout: layouts/page.njk
 ---
 
-
-
-<h1>Biography</h1>
+<h1 class="section-header">Biography</h1>
 
 <div class="split-view">
 	<img width="400" src="https://d602mxa74hbsi.cloudfront.net/Regulator2.jpg"/>
@@ -22,8 +20,8 @@ layout: layouts/page.njk
 		<p class="about-text">
 			I live in California’s East Bay with my tech wizard husband and three feline co-workers.
 			My Wings Rising epic fantasy duology is published by Meerkat Press, and my shorter works have appeared over
-			thirty times in magazines, websites, and anthologies including _Beneath Ceaseless Skies_,
-			_It Calls From the Sky_, _PULP Literature_, and _A Quiet Afternoon 1 &amp; 2_.
+			thirty times in magazines, websites, and anthologies including <strong>Beneath Ceaseless Skies</strong>,
+			<strong>It Calls From the Sky</strong>, <strong>PULP Literature</strong>, and <strong>A Quiet Afternoon 1 &amp; 2</strong>.
 			Am I working on new books and short stories? Yes, yes, I am!
 		</p>
 	</div>
@@ -41,7 +39,7 @@ layout: layouts/page.njk
 <p class="about-text">
 	Since 2007, my food, drink, and travel blog, <a href="https://thegourmez.com">the Gourmez</a>,
 	has influenced every tasty bite of my fictional worldbuilding. My replicator order, for the record,
-	is "Absinthe verte, one cube." *Fun Fact:* I blogged about the soap opera, General Hospital, for years,
+	is "Absinthe verte, one cube." <strong>Fun Fact:</strong> I blogged about the soap opera, General Hospital, for years,
 	and also used to publish commentary on other television shows for _Eye on Soaps_, one of the late,
 	great entertainment websites of the '90s and '00s.
 </p>
@@ -51,7 +49,7 @@ layout: layouts/page.njk
 </p>
 
 
-<h1>Contact</h1>
+<h1 class="section-header">Contact</h1>
 
 <p class="about-text">
 	Email is the best way to reach me: <a href="mailto:becca@gomezfarrell.com">becca@gomezfarrell.com</a>.
@@ -67,7 +65,7 @@ layout: layouts/page.njk
 	<li><a href="https://bsky.app/profile/becca.gomezfarrell.com"><img class="social-icon"  width="48" height="44" src="/img/svg/bluesky.svg"/><span class="screen-reader-text">Bluesky</span></a></li>
 </ul>
 
-<h1>Press Kit</h1>
+<h1 class="section-header">Press Kit</h1>
 
 <p class="about-text">
 	I’m currently updating my press kits. In the meantime, please use the following headshots and
@@ -92,11 +90,6 @@ layout: layouts/page.njk
 	</a>
 </div>
 
-
-<p class="about-text">
-	*75-word biography:* 
-</p>
-
 <p class="about-text">
 	Rebecca Gomez Farrell's *Wings Rising* epic fantasy duology is published by Meerkat Press.
 	Her shorter speculative fiction works have appeared over thirty times in outlets such as
@@ -113,7 +106,7 @@ layout: layouts/page.njk
 Please contact me if you would like a shorter or longer version of my biography. I have several!
 </p>
 
-<h1>Selected Interviews</h1>
+<h1 class="section-header">Selected Interviews</h1>
 
 <p class="about-text">
 	The following are a few of the interviews and guest posts I've done over the years.
@@ -122,13 +115,15 @@ Please contact me if you would like a shorter or longer version of my biography.
 	Individual posts can be found <a href="./interviews/">here</a>
 </p>
 
-<ul class="interviews">
+<ul class="image-item ltr">
 	{% for post in collections['interviews'] | head(-5, true) %}
 	<li>
 		<img src="{{ post.data.coverImage }}" />
-		<h3>{{ post.data.title }}</h3>
-		<h4>{{ post.data.publication }}</h4>
-		<p><a href="{{ post.url }}">More info...</a></p>
+		<div class="info">
+			<h3>{{ post.data.title }}</h3>
+			<h4>{{ post.data.publication }}</h4>
+			<p><a href="{{ post.url }}">More info...</a></p>
+		</div>
 	</li>
 	{% endfor %}
 </ul>
