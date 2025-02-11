@@ -1,11 +1,11 @@
 ---
 title: "Religion is Making a Televised Comeback"
 date: "2009-03-23"
-coverImage: https://d602mxa74hbsi.cloudfront.net/kings.jpg"
-categories: 
+coverImage: https://d602mxa74hbsi.cloudfront.net/kings.jpg
+categories:
   - "early-discussion"
   - "television"
-tags: 
+tags:
   - "battlestar-finale"
   - "battlestar-galactica-religion"
   - "kings-religion"
