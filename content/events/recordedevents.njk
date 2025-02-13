@@ -1,12 +1,12 @@
 ---
-title: "Older Events"
+title: "Recorded Events"
 layout: layouts/page.njk
 ---
 
-<h1 class="section-header">Older Events</h1>
+<h1 class="section-header">Recordings</h1>
 <ul class="image-item ltr">
 
-{% for post in collections['events'] %}
+{% for post in collections['events-recorded'] %}
 <li>
 	<img src="{{ post.data.coverImage }}" />
 	<div class="info">

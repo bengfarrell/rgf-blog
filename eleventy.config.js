@@ -22,15 +22,21 @@ module.exports = function(eleventyConfig) {
 	//});
 
 	eleventyConfig.addCollection('books-info', collection => {
-		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('books') && item.data.categories.includes('info'));
+		return collection.getAll()
+			.filter(item => item.data.categories && item.data.categories.includes('books') && item.data.categories.includes('info'))
+			.sort((a, b) => a.date - b.date)
 	});
 
 	eleventyConfig.addCollection('short-stories-info', collection => {
-		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('short-stories') && item.data.categories.includes('info'));
+		return collection.getAll()
+			.filter(item => item.data.categories && item.data.categories.includes('short-stories') && item.data.categories.includes('info'))
+			.sort((a, b) => a.date - b.date)
 	});
 
 	eleventyConfig.addCollection('anthologies-info', collection => {
-		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('anthologies') && item.data.categories.includes('info'));
+		return collection.getAll()
+			.filter(item => item.data.categories && item.data.categories.includes('anthologies') && item.data.categories.includes('info'))
+			.sort((a, b) => a.date - b.date);
 	});
 
 	eleventyConfig.addCollection('events', collection => {
@@ -42,13 +48,16 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addCollection('events-recorded', collection => {
-		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('events') && item.data.categories.includes('recorded'));
+		return collection.getAll()
+			.filter(item => item.data.categories && item.data.categories.includes('recorded'))
+			.sort((a, b) => a.date - b.date);
 	});
 
 	eleventyConfig.addCollection('writing-thoughts', collection => {
 		return collection.getAll().filter(item =>
 			item.data.categories &&
-			item.data.categories.includes('writing-thoughts'));
+			item.data.categories.includes('writing-thoughts'))
+			.sort((a, b) => a.date - b.date);
 	});
 
 	eleventyConfig.addCollection('interviews', collection => {
@@ -56,7 +65,8 @@ module.exports = function(eleventyConfig) {
 			item.data.categories &&
 			(item.data.categories.includes('guest-post') ||
 			item.data.categories.includes('blog-tour') ||
-			item.data.categories.includes('interviews')));
+			item.data.categories.includes('interviews')))
+			.sort((a, b) => a.date - b.date);
 	});
 
 	eleventyConfig.addCollection('archive', collection => {
@@ -66,19 +76,22 @@ module.exports = function(eleventyConfig) {
 				item.data.categories.includes('publication-news') ||
 				item.data.categories.includes('writing-snippets') ||
 				item.data.categories.includes('blog-tours') ||
-				item.data.categories.includes('event-writeups')));
+				item.data.categories.includes('event-writeups')))
+			.sort((a, b) => a.date - b.date);
 	});
 
 	eleventyConfig.addCollection('misc', collection => {
 		return collection.getAll().filter(item =>
 			item.data.categories &&
 			item.data.categories.includes('misc'))
+			.sort((a, b) => a.date - b.date)
 	});
 
 	eleventyConfig.addCollection('reviews', collection => {
 		return collection.getAll().filter(item =>
 			item.data.categories &&
 			item.data.categories.includes('reviews'))
+			.sort((a, b) => a.date - b.date)
 	});
 
 	eleventyConfig.addCollection('essays', collection => {
@@ -86,6 +99,7 @@ module.exports = function(eleventyConfig) {
 			item.data.categories &&
 			(item.data.categories.includes('essays') ||
 			item.data.categories.includes('television')))
+			.sort((a, b) => a.date - b.date)
 	});
 
 

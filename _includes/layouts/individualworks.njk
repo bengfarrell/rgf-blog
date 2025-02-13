@@ -13,19 +13,19 @@ layout: layouts/base.njk
 					<span class="book-badge">Out of print</span>
 					{% endif %}
 
-					{% if amazon !== undefined %}
+					{% if (amazon) %}
 					<a class="book-badge" href="{{ amazon }}">Amazon</a>
 					{% endif %}
 
-					{% if barnes_and_noble !== undefined %}
+					{% if (barnes_and_noble) %}
 					<a class="book-badge" href="{{ barnes_and_noble }}">Barnes &amp; Noble</a>
 					{% endif %}
 
-					{% if bookshop_dot_org !== undefined %}
+					{% if (bookshop_dot_org) %}
 					<a class="book-badge" href="{{ bookshop_dot_org }}">Bookshop.org</a>
 					{% endif %}
 
-					{% if pub_store !== undefined %}
+					{% if (pub_store) %}
 					<a class="book-badge" href="{{ pub_store }}">Publisher's Store</a>
 					{% endif %}
 				</div>
