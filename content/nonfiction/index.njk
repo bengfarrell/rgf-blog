@@ -3,9 +3,9 @@ title: "Non-fiction"
 layout: layouts/books.njk
 ---
 
-<h1>Writing Advice</h1>
+<h1 class="section-header">Writing Advice</h1>
 
-<ul class="books">
+<ul class="image-item">
 {% for post in collections['writing-thoughts'] | head(-4, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />
@@ -17,9 +17,11 @@ layout: layouts/books.njk
 
 <p><a href="./writing-thoughts/">See more...</a></p>
 
-<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
+<div class="feather-separator">
+	<img width="125" src="/img/svg/feathers.svg" />
+</div>
 
-<h1>Food, Drink, &amp; Travel Writing</h1>
+<h1 class="section-header">Food, Drink, &amp; Travel Writing</h1>
 
 <p>
 Follow my savory and sweet adventures at my blog, <a href="https://thegourmez.com">The Gourmez</a>. My food & drink results published on other websites appear in the "Reviews" section below.
@@ -29,11 +31,13 @@ Follow my savory and sweet adventures at my blog, <a href="https://thegourmez.co
 </p>
 
 
-<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
+<div class="feather-separator">
+	<img width="125" src="/img/svg/feathers.svg" />
+</div>
 
-<h1>Essays</h1>
+<h1 class="section-header">Essays</h1>
 
-<ul class="books">
+<ul class="image-item">
 {% for post in collections['essays'] | head(-4, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />
@@ -45,11 +49,13 @@ Follow my savory and sweet adventures at my blog, <a href="https://thegourmez.co
 
 <p><a href="./essays/">See more...</a></p>
 
-<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
+<div class="feather-separator">
+	<img width="125" src="/img/svg/feathers.svg" />
+</div>
 
-<h1>Reviews</h1>
+<h1 class="section-header">Reviews</h1>
 
-<ul class="books">
+<ul class="image-item">
 {% for post in collections['reviews'] | head(-4, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />
@@ -61,11 +67,13 @@ Follow my savory and sweet adventures at my blog, <a href="https://thegourmez.co
 
 <p><a href="./reviews/">See more...</a></p>
 
-<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
+<div class="feather-separator">
+	<img width="125" src="/img/svg/feathers.svg" />
+</div>
 
-<h1>Miscellaneous</h1>
+<h1 class="section-header">Miscellaneous</h1>
 
-<ul class="books">
+<ul class="image-item">
 {% for post in collections['misc'] | head(-4, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />
@@ -77,13 +85,15 @@ Follow my savory and sweet adventures at my blog, <a href="https://thegourmez.co
 
 <p><a href="./misc/">See more...</a></p>
 
-<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
+<div class="feather-separator">
+	<img width="125" src="/img/svg/feathers.svg" />
+</div>
 
-<h1>Blog Archive</h1>
+<h1 class="section-header">Blog Archive</h1>
 
 <p>Because the Internet is forever, you may peruse my archive of past publication news and other announcements.</p>
 
-<ul class="books">
+<ul class="image-item">
 {% for post in collections['archive'] | head(-4, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />

@@ -1,14 +1,12 @@
----js
-{
-    layout: "layouts/home.njk"
-}
+---
+layout: "layouts/home.njk"
 ---
 
 
 <div class="split-view">
 	<img height="400px" src="https://d602mxa74hbsi.cloudfront.net/R+Gomez+Farrell+headshot.jpg"/>
 	<div>
-		<h1>Rebecca Gomez Farrell</h1>
+		<h1 class="section-header side">Rebecca Gomez Farrell</h1>
 		<p class="home-text">
 			Author of fictions and leisure-time opinions! My Wings Rising duology is available from Meerkat Press, and you can find my short story and nonfiction pieces in 30+ publications. My food, drink, and travel blogging is housed at <a href="https://thegourmez.com">TheGourmez.com</a>.
 		</p>
@@ -22,9 +20,8 @@
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_93d9e5c66fa0eb63dc1bfcee9_398d973aba" tabindex="-1" value=""></div>
 						<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+					<span>&nbsp;or subscribe to my&nbsp;</span><a href="/feed/feed.json">RSS Feed</a>
 					</div>
-					<br />
-					<a href="/rss.xml">RSS Feed</a>
 				</div>
 			</form>
 		</div>
@@ -32,17 +29,17 @@
 </div>
 
 
-<h1>Recent News</h1>
+<h1 class="section-header">Recent News</h1>
 
 <ul class="all-posts">
 {% for post in collections.posts | head(-5, true) %}
 <li>
 	<div>
 		<h1><a href="{{ post.url }}">{{ post.data.title }}</a></h1>
-		<p class="home-text">get text excerpts working</p>
+		<p class="home-text">{{ post | excerpt }}</p>
 		<p class="date home-text">{{ post.date | readableDate }}</p>
 	</div>
-	<img src="{{ post.data.coverImage }}" />
+	<div class="cover-image" style="background-image: url('{{ post.data.coverImage }}')"></div>
 </li>
 {% endfor %}
 </ul>

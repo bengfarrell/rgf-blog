@@ -17,9 +17,9 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addShortcode('first_image', post => extractFirstImage(post));
 
-	eleventyConfig.on('eleventy.after', () => {
-		execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
-	});
+	//eleventyConfig.on('eleventy.after', () => {
+		//execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
+	//});
 
 	eleventyConfig.addCollection('books-info', collection => {
 		return collection.getAll().filter(item => item.data.categories && item.data.categories.includes('books') && item.data.categories.includes('info'));
@@ -136,8 +136,10 @@ module.exports = function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter("excerpt", (post) => {
-		console.log(post)
-		const content = post.replace(/(<([^>]+)>)/gi, "");
+		if (post.data.description) {
+			return post.data.description;
+		}
+		const content = post.content.replace(/(<([^>]+)>)/gi, "");
 		return content.substr(0, content.lastIndexOf(" ", 200)) + "...";
 	});
 

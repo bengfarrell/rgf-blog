@@ -10,26 +10,26 @@
 		Photo credit: <a href="https://www.instagram.com/onemorebiteblog/">One More Bite</a></figcaption>
 	</figure>
 	<div style="width: 100%">
-		<h1 id="upcoming-header" style="display: none">Upcoming Events</h1>
-		<ul class="events" id="upcoming-list" style="display: none"></ul>
+		<h1 id="upcoming-header" class="section-header side" style="display: none">Upcoming Events</h1>
+		<ul class="image-item ltr" id="upcoming-list" style="display: none"></ul>
 	</div>
 </div>
 
-<ul class="events" id="upcoming-list-continued" style="display: none"></ul>
+<ul class="image-item ltr" id="upcoming-list-continued" style="display: none"></ul>
 
 
-<h1 style="display: none" id="past-header">Past Events</h1>
-<ul class="events" style="display: none" id="past-list"></ul>
+<h1 class="section-header" style="display: none" id="past-header">Past Events</h1>
+<ul class="image-item ltr" style="display: none" id="past-list"></ul>
 
 <p><a href="./allevents/">See older events...</a></p>
 
-<h1>Recorded Appearances</h1>
-<ul class="events">
+<h1 class="section-header">Recorded Appearances</h1>
+<ul class="image-item ltr">
 
 {% for post in collections['events-recorded'] | head(-10, true) %}
 	<li>
 		<img src="{{ post.data.coverImage }}" />
-		<div>
+		<div class="info">
 			<h2>{{ post.date | eventTime }}</h2>
 			<h3>{{ post.data.title }}</h3>
 			<h4>{{ post.data.location }}</h4>
@@ -44,7 +44,7 @@
 <script>
 
 const renderHTML = post => {
-	return `<li><img src="${post.image}" /><div>
+	return `<li><img src="${post.image}" /><div class="info">
 		<h2>${formatDate(post.date)}</h2>
 		<h3 class="event-time">${post.time}</h3>
 		<h3 class="event-title">${post.title}</h3>

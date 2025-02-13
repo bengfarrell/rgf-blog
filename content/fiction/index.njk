@@ -3,9 +3,9 @@ title: "Fiction"
 layout: layouts/books.njk
 ---
 
-<h1>Books</h1>
+<h1 class="section-header">Books</h1>
 
-<ul class="books">
+<ul class="image-item">
 {% for post in collections['books-info'] | head(-4, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />
@@ -18,11 +18,13 @@ layout: layouts/books.njk
 
 <p><a href="./books/">See more...</a></p>
 
-<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
+<div class="feather-separator">
+	<img width="125" src="/img/svg/feathers.svg" />
+</div>
 
-<h1>Short Stories</h1>
+<h1 class="section-header">Short Stories</h1>
 
-<ul class="books">
+<ul class="image-item">
 {% for post in collections['short-stories-info'] | head(-4, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />
@@ -35,10 +37,12 @@ layout: layouts/books.njk
 
 <p><a href="./short-stories/">See more...</a></p>
 
-<img width="125" class="feather-separator" src="/img/svg/feathers.svg" />
+<div class="feather-separator">
+	<img width="125" src="/img/svg/feathers.svg" />
+</div>
 
-<h1>Anthologies</h1>
-<ul class="books">
+<h1 class="section-header">Anthologies</h1>
+<ul class="image-item">
 {% for post in collections['anthologies-info'] | head(-4, true) %}
 <li>
 	<img src="{{ post.data.coverImage }}" />

@@ -1,15 +1,16 @@
 ---
-title: "Story Hour on 7/22!"
+title: "Story Hour on 1/22!"
 date: "2025-01-22"
 time: "7:00pm PT"
 location: "Online"
 city: "Zoom & Facebook Live"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/story-hour-icon.jpg"
-categories: 
+description: "sample text excerpt"
+categories:
   - "announcements"
   - "appearances"
   - "recorded"
-tags: 
+tags:
   - "daniel-marcus"
   - "laura-blackwell"
   - "online-reading"
@@ -21,7 +22,7 @@ tags:
 
 ---
  This event has passed! Here's a recording: (https://www.facebook.com/watch/live/?ref=watch_permalink&v=1362989251809100)
- 
+
  I'm hosting _Story Hour_ again! This weekly reading of speculative fiction is regularly hosted by authors Daniel Marcus and Laura Blackwell, but occassionally, they can use a break and fresh voice for the MC duties. That'll be me on Wednesday, 1/22!
 
 _Story Hour_ focuses on the short form, preferring speculative fiction stories that can be read in full during each author's half of the show. The readers for this session will be Karl Dandenell and Elad Haber. I'll add their author bios to this page once I have them.
