@@ -17,7 +17,7 @@ tags:
   - "treasure"
 ---
 
-My next short story will appear in the forthcoming _Dark Luminous Wings_ anthology - and I mean forthcoming soon! _Dark Luminous Wings_ will be released on 10/21, this next Saturday.
+My next short story will appear in the forthcoming _Dark Luminous Wings_ anthology—and I mean forthcoming soon! _Dark Luminous Wings_ will be released on 10/21, this next Saturday.
 
 ![dark luminous wings rebecca gomez farrell](https://d602mxa74hbsi.cloudfront.net/dark-luminous-wings.jpg)
 
