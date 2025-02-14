@@ -25,8 +25,6 @@ layout: layouts/individualworks.njk
 
 Another photography credit for me, another chance for the unabashed soap opera lovers among us to pick up a nifty photobook! Once again, Katrina Rasbold, my fearless leader at [All My Writers](http://allmywriters.net) for the last, oh, almost decade, has released a Yearbook of this year's _General Hospital_ Fan Club Weekend. She writes the reports; I take the photos.
 
-![gh fan club weekend 2014 yearbook](https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend-2014.jpg)
-
 This 180-page book is jam-packed with full-color photos of _General Hospital_'s past and present-day stars from 4 days of events. There's plenty of behind-the-scenes gossip to boot. What'll you learn about in the Yearbook? As Katrina writes,
 
 > New couples, new babies, famous spouses, Hollywood royalty, a bit of a smack-down from Executive Producer, Frank Valentini, a “Blast From the Past” actor with some very unconventional claims and advice to fans, two Rabbis, plenty of selfies, a double-helping of Michael Corinthos, a male heart-throb who broke all of our hearts on screen, a current GH couple who ditched us, graphic novels straight from ComiCon, impossible schedules, careers made and broken, dogs and cats living together... this year had it all! 

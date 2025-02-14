@@ -21,6 +21,8 @@ tags:
   - "photos"
   - "rebecca-gomez-farrell"
   - "yearbook"
+  - "yearbook"
+layout: layouts/individualworks.njk
 ---
 
 For the past three years, I've been photographing the _General Hospital_ Fan Club Weekend as part of my press duties with _All My Writers_. This last year, we released a yearbook of 2013's happenings! It's 210 pages of full-color photographs and all the gossip author Katrina Rasbold could wrangle into the book.

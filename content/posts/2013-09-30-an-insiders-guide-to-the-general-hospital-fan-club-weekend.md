@@ -28,10 +28,6 @@ layout: layouts/individualworks.njk
 
 I have photography credit on these treats for _General Hospital_ fans.
 
-![insiders guide general hopsital fan club weekend](https://d602mxa74hbsi.cloudfront.net/insiders-guide-fcw.jpg)
-
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/09/51Gm8WIKYNL._SX398_BO1,204,203,200_.jpg)
-
 The books are written by Katrina Rasbold, my talented boss for many years over at the now defunct _All My Writers._ I can guarantee she'll crack you up with her Southern dame prose. As the description reads,
 
 > A must have for all fans of the iconic soap opera, _General Hospital_! This book provides one-of-a-kind photos and stories from behind the scenes of the premier GH event of the year.... \[Katrina\] gives you smart tips on how to navigate this complex and intense fan event to get the most bang for your buck and for your time....Who crashed the party at the 2013 Main Cast Luncheon? What GH beauty from the past arrived at the Main Cast Luncheon to announce that she is now on the current cast? Who was the breakout star of the weekend who had hearts throbbing on Sunday?...She shares insider stories from her years working the event, plus includes over 450 photographs from her own personal collection, more than 300 of which are from the most recent 2013 General Hospital Fan Club Weekend!
