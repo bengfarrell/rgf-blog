@@ -19,7 +19,7 @@ Worldcon 76 starts on Thursday, and I am excited!
 
 ![Screenshot_2018-08-08 Worldcon 76](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/08/Screenshot_2018-08-08-Worldcon-76-500x149.png)
 
-And also slightly overwhelmed, so I'm glad I'm not appearing on much programming myself - it's not often that you hear a writer admit that. =D But I will be appearing on a little of it, and I'll definitely be around all weekend, so please do come say hi anytime! You can purchase _Wings Unseen_ at Borderlands Books' vendor booth, and I'm happy to sign copies. Here's where I know I'll be:
+And also slightly overwhelmed, so I'm glad I'm not appearing on much programming myself—it's not often that you hear a writer admit that. 😁 But I will be appearing on a little of it, and I'll definitely be around all weekend, so please do come say hi anytime! You can purchase _Wings Unseen_ at Borderlands Books' vendor booth, and I'm happy to sign copies. Here's where I know I'll be:
 
 **Tuesday, 8/14**
 
@@ -37,8 +37,8 @@ And also slightly overwhelmed, so I'm glad I'm not appearing on much programming
 
 **Saturday, 8/18**
 
-- 10 am: How Would Civilization Evolve if...: How Human and Nonhumans Would Evolve Based on Their Environment - This is a panel being led by professors from my alma mater, UC Santa Cruz (banana slugs, forever!), so I'm making sure I'll be in attendance. 210 E at the Convention Center.
-- 2 pm: Craft Klatsch with the East Bay Science Fiction and Fantasy Writers Meetup group - This is an offsite event for members of the Meetup group that I co-helm in the East Bay. You are welcome to join us and learn more! [Here's the Meetup event.](https://www.meetup.com/East-Bay-Science-Fiction-and-Fantasy-Writers/events/253621162/)
+- 10 am: How Would Civilization Evolve if...: How Human and Nonhumans Would Evolve Based on Their Environment. This is a panel being led by professors from my alma mater, UC Santa Cruz (banana slugs, forever!), so I'm making sure I'll be in attendance. 210 E at the Convention Center.
+- 2 pm: Craft Klatsch with the East Bay Science Fiction and Fantasy Writers Meetup group. This is an offsite event for members of the Meetup group that I co-helm in the East Bay. You are welcome to join us and learn more! [Here's the Meetup event.](https://www.meetup.com/East-Bay-Science-Fiction-and-Fantasy-Writers/events/253621162/)
 - 5 pm: Broad Universe Rapid Fire Reading! I'll be one of 15 readers at this traditional Broad Universe event, where we toss tiny tidbits of fiction out into the wild at breakneck pace. Join us! Here's our poster:
 
 ![BU worldcon flyer correct](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/08/BU-worldcon-flyer-correct-500x333.jpg)

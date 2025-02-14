@@ -17,8 +17,8 @@ I have three readings in the Bay Area in the next few weeks, and I'd love to see
 
 For R-Dub Love, I'll be sharing a story straight out of my crazy dating life in church youth group! Believe me, I have plenty of those tales...Here are the deets:
 
-When: Saturday, **July 28**, at **6 pm**. Where: **Rolling-Out Cafe**, 1722 Taraval Street, San Francisco
-
+When: Saturday, **July 28**, at **6 pm**.\
+Where: **Rolling-Out Cafe**, 1722 Taraval Street, San Francisco\
 What: It's R-Dub Love, Rolling Writers’ evening of lit and music on romantic love. Featuring these romantics:
 
 - Anna Allen. Anna is a femme student living in Oakland. She has performed at Lit Crawl, Quiet Lightning, and the National Black Arts Conference.

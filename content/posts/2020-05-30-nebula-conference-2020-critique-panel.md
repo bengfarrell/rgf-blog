@@ -29,6 +29,6 @@ My fellow panelists include A. T. Greenblatt, A.C. Wise, Vylar Kaftan, and Curti
 
 If you are an attendee of #Nebulas2020, you can join us at the link below tomorrow. The panel will only be available to attendees of the conference at this time.
 
-https://events.sfwa.org/events/forming-and-sustaining-a-successful-writing-or-critique-group/
+(https://events.sfwa.org/events/forming-and-sustaining-a-successful-writing-or-critique-group/)
 
 I hope to "see" you there!

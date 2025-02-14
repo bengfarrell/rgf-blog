@@ -24,7 +24,7 @@ This is a topic near and dear to me, as I'm a strong supporter in the importance
 
 ![women who submit, women who submit lit, submission process, submission conference conference, literary, writers](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/08/04030631/WWS-conference.jpg)
 
-If you fit those criteria: a writer who identifies as a woman and/or nonbinary, you are welcome to attend this free conference! Tickets will be limited to 100 participants, and registration closes on Thursday. You can register by completing t[his Google form](https://docs.google.com/forms/d/e/1FAIpQLSd4-UwHkCKVv7zRueGZiYa--juT9Q0BXtGW_EJ74dvN7wYNxA/viewform). Here's the schedule for the conference!
+If you fit those criteria: a writer who identifies as a woman and/or nonbinary, you are welcome to attend this free conference! Tickets will be limited to 100 participants, and registration closes on Thursday. You can register by completing [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSd4-UwHkCKVv7zRueGZiYa--juT9Q0BXtGW_EJ74dvN7wYNxA/viewform). Here's the schedule for the conference!
 
 - 10am-11am: New Member Orientation with WWS Director, Xochitl-Julisa Bermejo
 - 11:15am-12:15pm: Demystifying Top Tier Submissions with Cynthia Guardado, Anita Gill, Hazel Kight Witham, moderated by Lituo Huang

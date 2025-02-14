@@ -1,7 +1,7 @@
 ---
 title: "Hobgoblin-Reprint"
 date: "2020-01-28"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/temp_pb_cover-1024x740.jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/whigamaleeries-cover.jpg"
 publication: "Whigmaleeries & Wives' Tales"
 out_of_print:
 amazon: https://www.amazon.com/dp/B08HGL7LNY/ref=rdr_kindle_ext_tmb
