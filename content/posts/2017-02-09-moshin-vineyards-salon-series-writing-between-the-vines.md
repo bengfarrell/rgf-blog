@@ -32,6 +32,6 @@ Thus, I was asked to come in for the salon that kicks off the retreat. I am exci
 
 Time allowing, I will also read "Thlush-A-Lum," my horror story published in _PULP Literature_, which also draws on wine imagery.
 
-![Pulp Literature #5](https://d2ypg8o05lff0b.cloudfront.net/Pulp-Literature-5.JPG)
+![Pulp Literature #5](https://d602mxa74hbsi.cloudfront.net/Pulp-Literature-5.JPG)
 
 But I am nearly as excited to try Moshin's wines for the first time. The thrill of discovery is always galvanizing! The reading will take place at Moshin Vineyard's tasting room in Healdsburg. [Full details are available here](https://dotcal.com/embed/event?unique=2d530f20&accesskey=2d530f20ebcmobileblock&cacheTimeS=21600&lookaheadS=180&eventID=dotCal-c0ed8df0-cee8-0134-7c07-525400960dde&url=http://dotcal.com/embed/mobileblock?u=2d530f20&filter=&current_url=http%3A%2F%2Fdotcal.com%2Fembed%2Fmobileblock%3Fu%3D2d530f20&whitelabel=no). I hope to see you there!

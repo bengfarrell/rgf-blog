@@ -25,19 +25,12 @@ tags:
   - "wings-unseen"
 ---
 
-_Wings Unseen,_ my debut epic fantasy novel, is now available at bookstores and libraries and everywhere online! Here's a perspective you don't see of the cover often, the full front and back:
+8/25 @ 8 pm\
+[Feminist Spec Fic night](https://www.facebook.com/events/349587845473101)\
+The Liminal Center\
+Oakland, CA
 
-![wings unseen rebecca gomez farrell meerkat press book jacket](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/FINAL-9781946154002-WingsUnseen-Cover-FLATTENED-CMYK_03-500x348.jpg)
-
-If you'd like to see it in paperback near you, request to have _Wings Unseen_ ordered at your favorite store. Such requests are much appreciated! And so are online orders. Visit [the book info page](https://rebeccagomezfarrell.com/fiction/wings-unseen/) for links to where you can purchase it.
-
-I would absolutely love it if you would rate and/or review the book after reading as well - ratings are life for authors! We all know we are swayed by them. ;) So a big virtual hug from Mazu for those of you able to do so.
-
-![mazu cat becca gomez farrell fluffy hug](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/mazu-hug-500x500.jpg)
-
-**Upcoming Readings and Appearances** To promote and celebrate the publication of _Wings Unseen_, I'll be reading at or participating in several events over the next few months, and hopefully, one of those will be near you! Here's the list of where you can find me coming up, including 4 Bay Area appearances in the next two weeks:
-
-- 8/25, 8 pm, [Feminist Spec Fic night](https://www.facebook.com/events/349587845473101) at the Liminal Center, Oakland, CA
+![](https://d602mxa74hbsi.cloudfront.net/feminist-spec.jpg)
 
 Women have been writing speculative fiction since its invention...by a woman! Mary Shelley's Frankenstein is credited with creating the science fiction genre, and the women of scifi, horror, and fantasy haven't stopped since 1818. Perhaps we CANNOT be stopped? What unearthly power COMPELs us? Maybe coming out for this reading will help us investigate that matter...
 

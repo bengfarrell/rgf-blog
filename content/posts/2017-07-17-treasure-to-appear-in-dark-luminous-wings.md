@@ -37,4 +37,4 @@ Before Pole to Pole's acceptance of "Treasure," I submitted it out a total of 18
 
 Late October is _Dark Luminous Wings'_ planned publication date, and I'll let you know where to order once I have that information. Until then, may your dreams be free of dark wings, but your mind prepared to tangle with them.
 
-![What lurks in the wild?](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/07/2012_Dec_Nola_259-500x333.jpg) What lurks in the wild?\[/caption\]
+![A heron in a swamp](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/07/2012_Dec_Nola_259-500x333.jpg)
