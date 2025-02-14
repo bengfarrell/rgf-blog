@@ -3,8 +3,7 @@ title: "The General Hospital Fan Club Weekend Yearbook 2013"
 date: "2014-07-11"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend-2013.jpg"
 publication:
-out_of_print: "yes"
-amazon:
+amazon: "https://www.amazon.com/General-Hospital-Club-Weekend-Yearbook/dp/1500542393"
 barnes and noble:
 bookshop dot org:
 pub store:

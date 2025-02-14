@@ -16,7 +16,7 @@ layout: layouts/individualworks.njk
 
 My first full-length novel, _Wings Unseen_, was published on 8/22/2017 by Meerkat Press!
 
-The story is epic fantasy in the YA/New Adult realm - I'd say it's a little more on the New Adult side of that divide, but hey, whoever wants to read it is welcome to! Here's the synopsis:
+The story is epic fantasy. Here's the synopsis:
 
 > To end a civil war, Lansera’s King Turyn relinquished a quarter of his kingdom to create Medua, exiling all who would honor greed over valor to this new realm on the other side of the mountains. The Meduans and Lanserim have maintained an uneasy truce for two generations, but their ways of life are as compatible as oil and water.
 >
@@ -28,7 +28,7 @@ The story is epic fantasy in the YA/New Adult realm - I'd say it's a little more
 
 And you can listen to an audio excerpt of the first chapter here:
 
-https://www.youtube.com/watch?v=3teqsoGeYfQ&feature=youtu.be
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3teqsoGeYfQ?si=QamryJ2fSCv82xMK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _Wings Unseen_ is available to order from your local bookstore or library, through Amazon in print or e-book forms, or from [Barnes and Noble.](https://www.barnesandnoble.com/w/wings-unseen-rebecca-gomez-farrell/1126061986?ean=9781946154019) Or you can order it directly from me for $15! That includes author signature and shipping. Just shoot me an email at [becca@thegourmez.com](mailto:becca@thegourmez.com) or contact me through social media.
 

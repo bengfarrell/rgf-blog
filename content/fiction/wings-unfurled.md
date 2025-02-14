@@ -25,7 +25,7 @@ tags:
 layout: layouts/individualworks.njk
 ---
 
-Officially Book 2 of the Wings Rising series, _Wings Unfurled_ released on December 6, 2024.
+Officially Book 2 of the Wings Rising series, _Wings Unfurled_ released on December 6, 2022.
 
 **The print version is $18.95 and the ebook is $8.95.**
 
@@ -60,4 +60,4 @@ Here’s a teaser of the first two lines of the new prophecy from _Wings Unfurle
 
 >  _When leaps the mighty cantalere_ _the dark brother drains his foes._ 
 
-Uncover the rest of that prophecy and what it portends for the Lanserim by reading Wings Unfurled!
+Uncover the rest of that prophecy and what it portends for the Lanserim by reading _Wings Unfurled_!

@@ -3,8 +3,7 @@ title: "An Insider's Guide to the General Hospital Fan Club Weekend"
 date: "2013-09-30"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/insiders-guide-fcw.jpg"
 publication:
-out_of_print: "yes"
-amazon:
+amazon: "https://www.amazon.com/Insiders-Guide-General-Hospital-Weekend/dp/1492289329"
 barnes and noble:
 bookshop dot org:
 pub store:
@@ -23,6 +22,8 @@ tags:
   - "photos"
   - "rebecca-gomez-farrell"
   - "yearbook"
+  
+layout: layouts/individualworks.njk
 ---
 
 I have photography credit on these treats for _General Hospital_ fans.

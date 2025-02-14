@@ -1,7 +1,7 @@
 ---
 title: "\"Some Who Wander\" now published by Intrinsick!"
 date: "2020-06-30"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/06/30024139/intrinsick.png"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/larger+intrinsick.jpg"
 categories:
   - "publication-news"
   - "writing"
@@ -17,7 +17,7 @@ tags:
   - "urban-walks"
 ---
 
-"Some Who Wander" is a short, but not sweet, piece of micro-nonfiction that appears at _Instrinsick m_agazine_._
+"Some Who Wander" is a short, but not sweet, piece of micro-nonfiction that appears at _Instrinsick magazine_.
 
 ![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/06/30024139/intrinsick.png)
 

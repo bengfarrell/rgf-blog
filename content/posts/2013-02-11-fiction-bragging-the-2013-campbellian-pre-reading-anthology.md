@@ -32,6 +32,7 @@ tags:
   - "stupefying-stories"
   - "urban-fantasy"
   - "writing"
+layout: layouts/individualworks.njk  
 ---
 
 ![Campbellian Anthology 2013 cover](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/04/Campbellian-Anthology-2013-cover-682x1024.jpg)
