@@ -12,7 +12,7 @@ tags:
   - "wings-unfurled-review"
 ---
 
-We have arrrived at the final stop of the _Wings Unfurled_ Blog Tour. And we're ending with a doozy - [a wonderful review](https://bigindiebooks.com/2022/12/15/review-of-wings-unfurled-by-rebecca-gomez-farrell/) from the folks at Big Indie Books!
+We have arrrived at the final stop of the _Wings Unfurled_ Blog Tour. And we're ending with a doozy—[a wonderful review](https://bigindiebooks.com/2022/12/15/review-of-wings-unfurled-by-rebecca-gomez-farrell/) from the folks at Big Indie Books!
 
 ![Cover art for Wings Unfurled, featuring a silver stag with blue tones and two moons in the background.](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/11/03023406/WingsUnfurledPreOrderImage.jpg)
 

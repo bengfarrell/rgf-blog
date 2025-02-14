@@ -24,7 +24,7 @@ Branding is an important part of book sales, so to keep the brand recognition st
 
 ![wings unseen rebecca gomez farrell meerkat press cover fantasy](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/01/9781946154002-WingsUnseen-CoverFINAL_03-692x1024.jpg)
 
-For the time being, you can still purchase Wings Unseen with this cover from [Amazon](https://rebeccagomezfarrell.us9.list-manage.com/track/click?u=93d9e5c66fa0eb63dc1bfcee9&id=2ef9da194d&e=d65f29bce6), [Meerkat Press,](https://rebeccagomezfarrell.us9.list-manage.com/track/click?u=93d9e5c66fa0eb63dc1bfcee9&id=5a2738b87d&e=d65f29bce6) and [Bookshop](https://rebeccagomezfarrell.us9.list-manage.com/track/click?u=93d9e5c66fa0eb63dc1bfcee9&id=fec35d6e88&e=d65f29bce6) . The change will be made closer to _Wings Unfurled_ release date of **December 5, 2022**, when the _Wings Rising_ series takes to the sky!
+For the time being, you can still purchase Wings Unseen with this cover from [Amazon](https://rebeccagomezfarrell.us9.list-manage.com/track/click?u=93d9e5c66fa0eb63dc1bfcee9&id=2ef9da194d&e=d65f29bce6), [Meerkat Press,](https://rebeccagomezfarrell.us9.list-manage.com/track/click?u=93d9e5c66fa0eb63dc1bfcee9&id=5a2738b87d&e=d65f29bce6) and [Bookshop](https://rebeccagomezfarrell.us9.list-manage.com/track/click?u=93d9e5c66fa0eb63dc1bfcee9&id=fec35d6e88&e=d65f29bce6). The change will be made closer to _Wings Unfurled_ release date of **December 5, 2022**, when the _Wings Rising_ series takes to the sky!
 
 ![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2022/07/25061453/Wings-Unfurled-cover-release.jpg)
 

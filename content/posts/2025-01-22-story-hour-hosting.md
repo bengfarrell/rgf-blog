@@ -21,7 +21,7 @@ tags:
   - "virtual-reading"
 
 ---
- _This event has passed! Here's a recording:
+ This event has passed! Here's a recording:
  
  <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F100039975042631%2Fvideos%2F1362989251809100%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
