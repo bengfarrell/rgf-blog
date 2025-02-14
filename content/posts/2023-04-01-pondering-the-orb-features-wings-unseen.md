@@ -27,7 +27,7 @@ Watch it here:
 
 The episode also features a conversation between Jay and Sam Montgomery-Blinn, who's actually the reason that Jay and I met in the first place! Sam invited us both to read for an NC Speculative Fiction Night in 2013, which was also celebrating the launch of **Bull Spec** #5, which Sam edited and in which my "[Bother](/creative-works/bother/)," my first SFF pro sale, appeared. I actually still have [video of my reading that night](http://vimeo.com/22656890)!
 
-<div style="padding:73.75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/22656890?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Becca Gomez Farrell at Quail Ridge Bookstore"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:73.75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/22656890?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:50%;height:50%;" title="Becca Gomez Farrell at Quail Ridge Bookstore"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Unfortunately, I think Jay stays just out of the frame, but Sam introduces me at the pedestal. That one night was the first time I met so many great authors local to the RTP area, some who'd become critique partners, some _Game of Thrones_ TV night buddies, and others support in all the ways that we authors need each other to continue in this career.
 
