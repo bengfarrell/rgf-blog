@@ -29,5 +29,5 @@ The first lines:
 _Helios Quarterly_ 4.4 is currently available as part of _Helios Quarterly Magazine: The Complete Series_. This ebook containing all works published by _Helios Quarterly_ since 2016 and is available from Amazon.
 
 And here's a photo inspiration to set the story's mood:
-
-![c-shell photo, santa cruz, west cliff, night, cliffs](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/wishing-for-more-photo-1024x683.jpg) Photo copyright [C-Shell Photo](https://twitter.com/carlinschel)\[/caption\]
+<div class="caption">
+![c-shell photo, santa cruz, west cliff, night, cliffs](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/wishing-for-more-photo-1024x683.jpg) Photo copyright [C-Shell Photo](https://twitter.com/carlinschel)</div>
