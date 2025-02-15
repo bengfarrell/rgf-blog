@@ -32,6 +32,9 @@ Here are "Garbage's" opening lines:
 And here is an image to stoke your imagination on what to expect next:
 
 <div class="caption">
-[![Image from Fantendo Wikia.](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Blue_Chain_Chomp_Art.png)] *Image from Fantendo Wikia.* </div>
+
+![blue chain chomp](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Blue_Chain_Chomp_Art.png) _Image from Fantendo Wikia._ 
+
+</div>
 
 "Garbage" is only available on Amazon, but you can choose print or e-book. As already mentioned, this is a charity anthology, and all proceeds benefit the St Jude's Children Hospital.
