@@ -20,4 +20,4 @@ So I knew early on that this book would need a map, and what self-respecting fan
 
 I love it! The main shape of the land remains the same from that day that I forced Ben to craft it for me, but we've added terrain, made the fonts used for countries, regions, cities, and points of interest uniform, and see that smashing compass top right? Yep, it incorporates the three-headed bird featured on the cover of the book! It'll be a helpful resource for readers, as I do, or my characters, rather, cover a LOT of ground in _Wings Unseen._ One of my biggest regrets is actually how many cities remain unexplored in the book, which I may be addressing in my early plotting of a sequel...
 
-Want to dive into that map? [Pre-order _Wings Unseen_ toda](https://www.amazon.com/Wings-Unseen-Rebecca-Gomez-Farrell/dp/1946154008/ref=sr_1_1?ie=UTF8&qid=1501785273&sr=8-1&keywords=wings+unseen)y! Less than three weeks until it's out!
+Want to dive into that map? [Pre-order _Wings Unseen_ today](https://www.amazon.com/Wings-Unseen-Rebecca-Gomez-Farrell/dp/1946154008/ref=sr_1_1?ie=UTF8&qid=1501785273&sr=8-1&keywords=wings+unseen)! Less than three weeks until it's out!

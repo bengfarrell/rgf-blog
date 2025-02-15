@@ -2,6 +2,7 @@
 title: "The General Hospital Fan Club Weekend - 2014, Available now!"
 date: "2014-08-27"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend-2014.jpg"
+amazon: "http://www.amazon.com/gp/product/1500857513"
 categories:
   - "announcements"
   - "publication-news"
@@ -19,11 +20,10 @@ tags:
   - "rebecca-gomez-farrell"
   - "scott-clifton"
   - "yearbook"
+layout: layouts/individualworks.njk
 ---
 
 Another photography credit for me, another chance for the unabashed soap opera lovers among us to pick up a nifty photobook! Once again, Katrina Rasbold, my fearless leader at [All My Writers](http://allmywriters.net) for the last, oh, almost decade, has released a Yearbook of this year's _General Hospital_ Fan Club Weekend. She writes the reports; I take the photos.
-
-![gh fan club weekend 2014 yearbook](https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend-2014.jpg)
 
 This 180-page book is jam-packed with full-color photos of _General Hospital_'s past and present-day stars from 4 days of events. There's plenty of behind-the-scenes gossip to boot. What'll you learn about in the Yearbook? As Katrina writes,
 

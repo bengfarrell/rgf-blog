@@ -29,7 +29,11 @@ This coming Saturday evening, I am thrilled (or is it chilled?) to participate i
 
 Details:
 
-8:30 pm, doors open at 8 $10 entry fee. [Tickets here](http://www.brownpapertickets.com/event/3085156). THERE WILL BE CAKE At the [Mystic Museum](https://www.facebook.com/themysticmuseum/timeline?ref=page_internal) 3204 Magnolia Blvd Burbank, CA
+8:30 pm, doors open at 8\
+$10 entry fee. [Tickets here](http://www.brownpapertickets.com/event/3085156).\
+THERE WILL BE CAKE at the [Mystic Museum](https://www.facebook.com/themysticmuseum/timeline?ref=page_internal)\
+3204 Magnolia Blvd\
+Burbank, CA
 
 [Click here](https://www.facebook.com/events/660401350833151/) if you'd like to RSVP at the Facebook event!
 

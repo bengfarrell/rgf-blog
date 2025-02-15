@@ -10,13 +10,12 @@ categories:
   - "wings-unseen"
 ---
 
-Today, I'll be travelling from Los Angeles to the Research Triangle Park area of North Carolina for the final leg of my _Wings Unseen_ book tour. Hooray! Here I am getting a little relaxation and cold recovery in at my sister's before taking off:
-
-> [A post shared by Becca Gomez Farrell (@thegourmez)](https://www.instagram.com/p/BZKZrUhn3Z5/) on Sep 17, 2017 at 5:37pm PDT
-
 I lived in Durham, NC, for eight years, and it's where my writing career got its start. So I am glad to be able to share such a wonderful career milestone with my NC community of friends and fellow writers. And there is plenty of opportunity to join us and to check out some of the great voices living in this great area of the South.
 
-**Becca Gomez Farrell and Friends** Wednesday, 9/20, 7 pm [Flyleaf Books,](http://www.flyleafbooks.com/addresshours) Chapel Hill
+**Becca Gomez Farrell and Friends**\
+Wednesday, 9/20, 7 pm\
+[Flyleaf Books,](http://www.flyleafbooks.com/addresshours)\
+Chapel Hill
 
 ![natania barron, margaret s mcgraw, rebecca gomez farrell, flyleaf books](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/09/Flyleaf-FB-500x188.jpg)
 

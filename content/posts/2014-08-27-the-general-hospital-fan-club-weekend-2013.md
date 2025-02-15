@@ -3,8 +3,7 @@ title: "The General Hospital Fan Club Weekend Yearbook 2013"
 date: "2014-07-11"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend-2013.jpg"
 publication:
-out_of_print: "yes"
-amazon:
+amazon: "https://www.amazon.com/General-Hospital-Club-Weekend-Yearbook/dp/1500542393"
 barnes and noble:
 bookshop dot org:
 pub store:
@@ -22,6 +21,8 @@ tags:
   - "photos"
   - "rebecca-gomez-farrell"
   - "yearbook"
+  - "yearbook"
+layout: layouts/individualworks.njk
 ---
 
 For the past three years, I've been photographing the _General Hospital_ Fan Club Weekend as part of my press duties with _All My Writers_. This last year, we released a yearbook of 2013's happenings! It's 210 pages of full-color photographs and all the gossip author Katrina Rasbold could wrangle into the book.

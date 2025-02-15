@@ -5,7 +5,7 @@ time: "7:00pm PT"
 location: "Online"
 city: "Zoom & Facebook Live"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/story-hour-icon.jpg"
-description: "sample text excerpt"
+description: "I hosted Story Hour again! This weekly reading of speculative fiction is regularly hosted by authors Daniel Marcus and Laura Blackwell, but occassionally, they can use a break and fresh voice for the MC duties."
 categories:
   - "announcements"
   - "appearances"
@@ -21,7 +21,9 @@ tags:
   - "virtual-reading"
 
 ---
- This event has passed! Here's a recording: (https://www.facebook.com/watch/live/?ref=watch_permalink&v=1362989251809100)
+ This event has passed! Here's a recording:
+ 
+ <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F100039975042631%2Fvideos%2F1362989251809100%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
  I'm hosting _Story Hour_ again! This weekly reading of speculative fiction is regularly hosted by authors Daniel Marcus and Laura Blackwell, but occassionally, they can use a break and fresh voice for the MC duties. That'll be me on Wednesday, 1/22!
 

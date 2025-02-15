@@ -26,7 +26,7 @@ Ooh, maybe not that one. That looks dangerous. Regardless, it's time to celebrat
 
 The official release date is August 22, 2017! Did I not mention that before? \*browses website\* Wow, I really did not mention that before. Apparently, getting your tonsils removed puts you off your promotional game. Luckily, [Meerkat Press](http://meerkatpress.com/) is continuing to be a phenomenal small press, so word is getting out about this book, and ARCs go out this month. So exciting! Stay tuned for giveaway info, but also go ahead and click on one of those pre-order links if you can...what, you want more enticement? How about an excerpt from the book? Here's one of my photos to conjure your imagination:
 
-![](images/RSB-Oktoberfest-04.jpg)
+![raw spice bar spices on little plates](https://d602mxa74hbsi.cloudfront.net/RSB-Oktoberfest-04.jpg)
 
 And here's the excerpt. In it, Vesperi, a main point-of-view character who lives on the Meduan side of the mountains, where a highly questionable moral code reigns, makes a visit to an herbalist:
 

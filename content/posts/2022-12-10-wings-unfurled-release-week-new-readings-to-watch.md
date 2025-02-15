@@ -1,6 +1,6 @@
 ---
 title: "Strong Women, Strange Worlds"
-date: "2022-11-04"
+date: "2022-12-04"
 time:
 location: "Facebook Live"
 city: "Online"

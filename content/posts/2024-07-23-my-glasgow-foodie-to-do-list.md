@@ -10,11 +10,11 @@ tags:
   - "worldcon"
 ---
 
-31 _July 2024 - I'm updating the list with a few more recommendations from friends! And I've removed Where the Monkey Sleeps. It's out of business._
-
 I am excited to head to my third-ever Worldcon, [this time in Glasgow](https://glasgow2024.org/), in just a couple weeks! That excitement comes from knowing I’ll see so many great writer friends I’ve made over the years, that I’ll learn a ton about Scotland’s science fiction and fantasy storytelling history, and that I’ll get to tour some of region. But of course, I’m MOSTLY excited to seek out Glasgow’s foodie treasures!
 
 I’m sharing a few lists of what I’m hoping to hit up in Glasgow, knowing full well that it’ll be impossible to try it all. But try I will! I’ll start out with the spots where I’m most likely to hit classic Scottish foods, though not necessarily in classic presentations. I have yet to find a spot that mentions serving cock-a-leekie (roast chicken & leeks), but I’m keeping my hopes up I’ll find them.
+
+_I've updated the list with a few more recommendations from friends! And I've removed Where the Monkey Sleeps. It's out of business. (31 July 2024)_
 
 1. **Café Gandolfi** – This spot comes highly recommended by my friend Rina Weisman, the long-running organizer of [SF in SF](http://www.sfinsf.org/) and the mastermind of Oakland’s 2026 World Fantasy bid. Café Gandolfi appears to have a charmingly low-key interior of wooden furniture while offering refined takes on the Scottish classics: https://cafegandolfi.com/restaurant-bar
 2. **Butterfly and the Pig** – This multi-level restaurant offers adorable a la carte menu descriptions and affordable afternoon teas. The Yorkshire puddings stuffed with MANY THINGS look amazing:  [https://thebutterflyandthepig.com/the-butterfly-and-the-pig-city/](https://thebutterflyandthepig.com/the-butterfly-and-the-pig-city/)

@@ -19,7 +19,12 @@ Release Day is here! Or rather, release day has already come and is almost gone 
 
 I am thrilled to report that whatever snafu Amazon had going on is now resolved, and you can order both paperback and ebook copies of _Wings Unfurled_ through them again. But of course, they are also availabile at all the usual suspects of online vendors! Here are your options:
 
-[Bookshop.org](https://bookshop.org/p/books/wings-unfurled-rebecca-gomez-farrell/18998266?) [Barnes & Noble](https://www.barnesandnoble.com/w/wings-unfurled-rebecca-gomez-farrell/1142462183?ean=9781946154644) [Meerkat Press](https://meerkatpress.com/books/wings-unfurled/) [Amazon](https://www.amazon.com/dp/B0BHJLYHWF) [Apple Books](https://books.apple.com/book/id6443885149?ign-itscg=30200) [Kobo](https://www.kobo.com/us/en/ebook/wings-unfurled?utm_medium=Affiliate&utm_campaign=Author+Media&utm_term=&ranMID=37217&ranEAID=W1PQs9y%2F1%2Fc&ranSiteID=W1PQs9y_1_c-NA55YTZEBPSHo8DIxuWn3g&siteID=W1PQs9y_1_c-NA55YTZEBPSHo8DIxuWn3g)
+[Bookshop.org](https://bookshop.org/p/books/wings-unfurled-rebecca-gomez-farrell/18998266?)\
+[Barnes & Noble](https://www.barnesandnoble.com/w/wings-unfurled-rebecca-gomez-farrell/1142462183?ean=9781946154644)\
+[Meerkat Press](https://meerkatpress.com/books/wings-unfurled/)\
+[Amazon](https://www.amazon.com/dp/B0BHJLYHWF)\
+[Apple Books](https://books.apple.com/book/id6443885149?ign-itscg=30200)\
+[Kobo](https://www.kobo.com/us/en/ebook/wings-unfurled?utm_medium=Affiliate&utm_campaign=Author+Media&utm_term=&ranMID=37217&ranEAID=W1PQs9y%2F1%2Fc&ranSiteID=W1PQs9y_1_c-NA55YTZEBPSHo8DIxuWn3g&siteID=W1PQs9y_1_c-NA55YTZEBPSHo8DIxuWn3g)
 
 And I believe it may be on Google Books now as well. As the author, it does not make a difference to me which one you order from, but ordering straight from my publisher, Meerkat Press, is best for supporting this awardwinning, quality small press!
 

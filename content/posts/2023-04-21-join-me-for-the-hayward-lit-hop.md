@@ -14,7 +14,7 @@ tags:
   - "women-who-submit-lit"
 ---
 
-Hi Friends! Tomorrow is Hayward Lit Hop 2023! [https://haywardlithop.com/](https://haywardlithop.com/)
+Hi Friends! Tomorrow is Hayward Lit Hop 2023! 
 
 I'll be hosting two groups of readers for this event:
 
@@ -32,4 +32,4 @@ Readings will occur at local venues including Aranea's Craft Studio, the Sun Gal
 
 This event showcases local businesses, celebrates Hayward's diverse cultural scene, and allows people to meet their neighbors and hear and see each other's talents. We’re here to help people with an interest in writing or art find local groups to support and foster their talents.
 
-A detailed schedule will be posted at https://haywardlithop.com/. Hope to see you there! I'm looking forward to hanging out in our fun downtown all day long.
+A detailed schedule will be posted at <a href="https://haywardlithop.com">this website</a>. Hope to see you there! I'm looking forward to hanging out in our fun downtown all day long.

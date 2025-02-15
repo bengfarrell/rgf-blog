@@ -1,7 +1,7 @@
 ---
 title: "Questions to Consider When Writing A Series"
 date: "2022-12-15"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/WF-Logo.png"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/writing-forums-logo.png"
 categories:
   - "appearances"
   - "wings-unfurled"

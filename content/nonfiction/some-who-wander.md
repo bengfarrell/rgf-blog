@@ -1,7 +1,7 @@
 ---
 title: "Some Who Wander"
 date: "2020-06-30"
-coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/intrinsick.png"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/larger+intrinsick.jpg"
 publication: "Instrinsick Magazine"
 out_of_print:
 amazon:

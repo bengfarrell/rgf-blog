@@ -24,20 +24,14 @@ tags:
   - "wings-unseen"
 ---
 
-_Wings Unseen,_ my debut epic fantasy novel, is now available at bookstores and libraries and everywhere online! Here's a perspective you don't see of the cover often, the full front and back:
+8/27 @ 3 pm\
+[A Trilogy of Shivers, Adventures, and Fantasy,](https://www.facebook.com/events/244188962767472)\
+Borderlands Books\
+San Francisco, CA
 
-![wings unseen rebecca gomez farrell meerkat press book jacket](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/FINAL-9781946154002-WingsUnseen-Cover-FLATTENED-CMYK_03-500x348.jpg)
+Gather round the summer fire for tales sure to tempt your sense of adventure but make you wonder if it's safer to stay by the flame. A trio of Bay Area authors will share readings from their works, field questions from the aliens—er, audience—and hold a signing in the celebrated other world called Borderlands, a place where speculative fiction books reign.
 
-If you'd like to see it in paperback near you, request to have _Wings Unseen_ ordered at your favorite store. Such requests are much appreciated! And so are online orders. Visit [the book info page](https://rebeccagomezfarrell.com/fiction/wings-unseen/) for links to where you can purchase it.
-
-I would absolutely love it if you would rate and/or review the book after reading as well - ratings are life for authors! We all know we are swayed by them. ;) So a big virtual hug from Mazu for those of you able to do so.
-
-![mazu cat becca gomez farrell fluffy hug](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/08/mazu-hug-500x500.jpg)
-
-
-- 8/27, 3 pm, [A Trilogy of Shivers, Adventures, and Fantasy,](https://www.facebook.com/events/244188962767472) Borderlands Books, San Francisco, CA
-
-Gather round the summer fire for tales sure to tempt your sense of adventure but make you wonder if it's safer to stay by the flame. A trio of Bay Area authors will share readings from their works, field questions from the aliens---er, audience--and hold a signing in the celebrated other world called Borderlands, a place where speculative fiction books reign.
+![](https://d602mxa74hbsi.cloudfront.net/trilogy-shivers.jpg)
 
 The fearsome threesome:
 MEGAN E. O'KEEFE just won the Morningstar Trophy for the first book in her "The Scorched Continent" series. Book #3, Inherit the Flame, came out in April from Angry Robot books. Megan was raised amongst journalists, and as soon as she was able joined them by crafting a newsletter which chronicled the daily adventures of the local cat population. She has worked in both arts management and graphic design, and spends her free time tinkering with anything she can get her hands on. Megan lives in the Bay Area of California and makes soap for a living. It's only a little like Fight Club. She is a first place winner in the Writers of the Future competition.

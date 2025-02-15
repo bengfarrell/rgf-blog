@@ -33,5 +33,3 @@ And some photographic mood-setting for the tale...![](https://d2ypg8o05lff0b.clo
 I was inspired to write "Hobgoblin" for a prompt for Saturday Night Special, an ongoing open mic series. The prompt was "heroes and villains," and this poetic, somewhat nostalgic hobgoblin character came to mind. I went for a hobgoblin because they provide a rougher canvas than most fae creatures, not being quite as well-established in our communal zeitgeist. I knew I wanted to play with a character that did not consider itself a villain, but found that it could not endure the unkindess of others without giving in to their perceptions.
 
 I hope you will read and enjoy "Hobgoblin" in _Whigmaleeries & Wives' Tales!_ I'm looking forward to this anthology greatly myself, as I love the topic. Plus, I need to figure out what a whigmaleerie is...
-
-[![Whigmaleeries & Wives' Tales, hobgoblin, rebecca gomez farrell, jayhenge](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/09/15014023/temp_kindle_cover-703x1024.jpg)](https://www.amazon.com/dp/B08HGL7LNY) *Click here for the Amazon link!*

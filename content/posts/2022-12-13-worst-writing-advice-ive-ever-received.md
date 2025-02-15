@@ -19,6 +19,6 @@ Today, on the _Wings Unfurled_ Blog Tour, you can visit Ali Lucia Sky's blog, wh
 
 You'll also find an excerpt of Chapter 1 in the book! This comes from Serra's point-of-view, and she's at Castle Callyn for the first time in quite a while....and for _reasons_ she needs to report to King Dever right away.
 
-Don't forget to also visit the Meerkat Press [masterpost](https://meerkatpress.com/wings-unfurled-blog-tour-giveaway/) to enter our $50 giftcard prize drawing! And now for today's contextless quote from _Wings Unfurled_.
+Don't forget to also visit the Meerkat Press [masterpost](https://meerkatpress.com/wings-unfurled-blog-tour-giveaway/) to enter our $50 giftcard prize drawing! And now for today's contextless quote from _Wings Unfurled_:
 
 > “I heard the Green Lady was building a new glass house, so I came with my hammer and thought to help.”

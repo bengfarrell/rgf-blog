@@ -3,8 +3,7 @@ title: "An Insider's Guide to the General Hospital Fan Club Weekend"
 date: "2013-09-30"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/insiders-guide-fcw.jpg"
 publication:
-out_of_print: "yes"
-amazon:
+amazon: "https://www.amazon.com/Insiders-Guide-General-Hospital-Weekend/dp/1492289329"
 barnes and noble:
 bookshop dot org:
 pub store:
@@ -23,13 +22,11 @@ tags:
   - "photos"
   - "rebecca-gomez-farrell"
   - "yearbook"
+  
+layout: layouts/individualworks.njk
 ---
 
 I have photography credit on these treats for _General Hospital_ fans.
-
-![insiders guide general hopsital fan club weekend](https://d602mxa74hbsi.cloudfront.net/insiders-guide-fcw.jpg)
-
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/09/51Gm8WIKYNL._SX398_BO1,204,203,200_.jpg)
 
 The books are written by Katrina Rasbold, my talented boss for many years over at the now defunct _All My Writers._ I can guarantee she'll crack you up with her Southern dame prose. As the description reads,
 

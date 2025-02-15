@@ -19,7 +19,7 @@ tags:
   - "ya-fantasy"
 ---
 
-We're only 20 days out from Christmas, and thus the time for gift giving is upon us! For $15, you can send a signed, personalized copy of my epic fantasy, _Wings Unseen_, to anyone you love - heck, it's cool if you send it to someone you only kind of like, too. ;)
+We're only 20 days out from Christmas, and thus the time for gift giving is upon us! For $15, you can send a signed, personalized copy of my epic fantasy, _Wings Unseen_, to anyone you love—heck, it's cool if you send it to someone you only kind of like, too. ;)
 
 ![wings unseen, book, epic fantasy](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/12/Octopus-Launch-15.jpg) *My friends, Paul and Ann, whom I kind of like, I guess, getting their signed copies at my book launch.*
 
