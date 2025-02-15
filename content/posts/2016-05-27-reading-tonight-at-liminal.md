@@ -9,7 +9,7 @@ categories:
   - "appearances"
   - "events"
   - "writing"
-  - "essays"
+  
 tags: 
   - "co-working"
   - "coworking"

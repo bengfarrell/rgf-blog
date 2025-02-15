@@ -7,7 +7,7 @@ out_of_print:
 amazon:
 barnes and noble:
 bookshop dot org:
-pub store: "https://www.wow-womenonwriting.com/2009/12/interview-with-rebecca-gomez-farrell.html"
+pub_store: "https://www.wow-womenonwriting.com/2009/12/interview-with-rebecca-gomez-farrell.html"
 categories:
   - "essays"
 layout: layouts/individualworks.njk

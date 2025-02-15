@@ -44,4 +44,7 @@ Here are what readers have to say:
 
 And I can't leave you without a picture of me at the event, now can I?
 
-![Me and Michael Sutton (ex-Stone)](https://d602mxa74hbsi.cloudfront.net/GHFCW14_Past_Cast_173.JPG) *Me and Michael Sutton (ex-Stone)*
+<div class="caption">
+
+
+![Me and Michael Sutton (ex-Stone)](https://d602mxa74hbsi.cloudfront.net/GHFCW14_Past_Cast_173.JPG) *Me and Michael Sutton (ex-Stone)* </div>

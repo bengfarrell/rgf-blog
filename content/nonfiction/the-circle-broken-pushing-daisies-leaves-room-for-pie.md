@@ -7,7 +7,7 @@ out_of_print:
 amazon:
 barnes and noble:
 bookshop dot org:
-pub store: "http://journeyplanet.weebly.com/journey-planet---2021-hugo-nominee/issue-58-cancelled-too-soon"
+pub_store: "http://journeyplanet.weebly.com/journey-planet---2021-hugo-nominee/issue-58-cancelled-too-soon"
 layout: layouts/individualworks.njk
 categories:
   - "publication-news"

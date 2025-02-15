@@ -27,8 +27,6 @@ layout: layouts/individualworks.njk
 
 For the past three years, I've been photographing the _General Hospital_ Fan Club Weekend as part of my press duties with _All My Writers_. This last year, we released a yearbook of 2013's happenings! It's 210 pages of full-color photographs and all the gossip author Katrina Rasbold could wrangle into the book.
 
-![gh fan club weekend yearbook 2013](https://d602mxa74hbsi.cloudfront.net/GH-Fan-Club-Weekend-2013.jpg)
-
 As 2013 marked the 50th Anniversary of _General Hospital_ and the first Past Cast event put on by the fan club, you can bet there was plenty of that gossip! 50 years' worth of it! Mostly, though, the past actors who attended were so warm and appreciative of the fans, as were the present-day cast at the previous day's luncheon.
 
 As a 34-year fan myself (from the womb!), it's my pleasure to photograph these events, and I hope you enjoy this up-close access as much as I have.
