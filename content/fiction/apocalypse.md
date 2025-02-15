@@ -30,6 +30,6 @@ You can read the rest of "Apocalypse" for free [here](http://www.yesteryearfict
 
 And this may be the sky on her fate-filled day.
 
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/london175.jpg "london175")]
+![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/london175.jpg "london175")
 
 Enjoy!

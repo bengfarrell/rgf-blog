@@ -28,9 +28,9 @@ And here are the first two lines of each of the trilogy pieces:
 >
 > Unwrapped: Frosted pastel and bold red-and-green wrapping papers mosaic the floor beneath Leah’s impeccably decorated tree. Anxiety latches onto her at the extremities.
 
-Your photographic inspiration:
+Your photographic inspirations:
 
-![](images/poinsettia-isolated.jpg) *Photo from She Knows.Com*
+![poinsettia in green-wrapped pot](https://d602mxa74hbsi.cloudfront.net/Poinsettia-1.jpg)
 
 ![VitalityBowls-10](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/VitalityBowls-10-500x386.jpg)
 

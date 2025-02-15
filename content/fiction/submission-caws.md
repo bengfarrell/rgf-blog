@@ -11,6 +11,7 @@ pub_store:
 categories:
   - "short-stories"
   - "info"
+  - "recorded"
 layout: layouts/individualworks.njk
 ---
 

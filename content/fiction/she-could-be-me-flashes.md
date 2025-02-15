@@ -14,7 +14,7 @@ categories:
 layout: layouts/individualworks.njk
 ---
 
-"She Could Be Me" is a short story isa flash horror story that's _Twilight Zone_ meets "The Ladies Who Lunch." It was first published in _Flashes in the Dark_ in May of 2010, but that publication is out_of_print. 
+"She Could Be Me" is a flash horror story that's _Twilight Zone_ meets "The Ladies Who Lunch." It was first published in _Flashes in the Dark_ in May of 2010, but that publication is out ofprint. 
 
 The first few lines to whet your appetite:
 
@@ -28,7 +28,9 @@ Perhaps these photos will help you conjure the proper atmosphere for enjoying "S
 
 The walk toward Chez Mer:
 
-![minneapolis, churck, streetview, she could be me, rebecca goemz farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/minneapolis014-684x1024.jpg) *Imagine a bus stop, just out of sight...*
+<div class="caption">
+
+[![minneapolis, churck, streetview, she could be me, rebecca goemz farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/minneapolis014-684x1024.jpg)] *Imagine a bus stop, just out of sight...* </div>
 
 Celia's drink at Chez Mer:
 

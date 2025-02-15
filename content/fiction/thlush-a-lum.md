@@ -1,6 +1,6 @@
 ---
 title: "Thlush-a-Lum: 3rd Reprint"
-date: "2014-09-04"
+date: "2018-09-04"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/It-Call-From.gif"
 publication: "It Calls From the Sky"
 out_of_print:

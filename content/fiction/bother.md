@@ -26,8 +26,8 @@ I also have a really bad quality video clip of myself reading from "Bother" at t
 
 Additionally, "Bother" was republished in the _2013 Campbellian Pre-Reading Anthology._
 
-![Campbellian Anthology 2013 cover](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/04/Campbellian-Anthology-2013-cover-682x1024.jpg) The anthology was put together by _Stupefying Stories_ and was only available for a limited time. It provided works by authors eligible to receive
+![Campbellian Anthology 2013 cover](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/04/Campbellian-Anthology-2013-cover-682x1024.jpg) The anthology was put together by _Stupefying Stories_ and was only available for a limited time. It provided works by authors eligible to receive:
 
-> the [**John W. Campbell Award for Best New Writer**](http://en.wikipedia.org/wiki/John_W._Campbell_Award_for_Best_New_Writer) presented annually at WorldCon to an outstanding author whose first professional work of science fiction or fantasy was published within the previous two years.
+> The [**John W. Campbell Award for Best New Writer**](http://en.wikipedia.org/wiki/John_W._Campbell_Award_for_Best_New_Writer) presented annually at WorldCon to an outstanding author whose first professional work of science fiction or fantasy was published within the previous two years.
 
-I was not nominated--I had no expectation that I would be!--but I was happy to provide the additional exposure for "Bother" as well as be included with an amazing listing of authors.
+I was not nominated—I had no expectation that I would be!—but I was happy to provide the additional exposure for "Bother" as well as be included with an amazing listing of authors.

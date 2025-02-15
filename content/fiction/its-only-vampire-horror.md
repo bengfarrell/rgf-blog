@@ -33,7 +33,7 @@ This is my second time having a short story appear in the annual Fark.com fictio
 
 <div class="caption">
 
-[![it's only vampire, rebecca gomez farrell, fark in the time of covid, fark fiction anthology](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/01/27000915/RGF-and-Its-Only-Vampire-768x714.jpg)] Obligatory author & book photo </div>
+![it's only vampire, rebecca gomez farrell, fark in the time of covid, fark fiction anthology](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/01/27000915/RGF-and-Its-Only-Vampire-768x714.jpg) Obligatory author & book photo </div>
 
 I wouldn't leave you without a little photographic inspiration for "It's Only Vampire" to get your imaginations churning.
 
