@@ -17,7 +17,7 @@ tags:
   - "sale"
 ---
 
-Would you look at that? My romance novella, Maya's Vacation, is on sale for 99 cents until New Year's day. This sale is only happening at Amazon, so [click here to purchase it](http://www.amazon.com/Mayas-Vacation-ebook/dp/B004UB1REI/ref=sr_1_1?s=books&ie=UTF8&qid=1325015069&sr=1-1 "Maya's Vacation buy link"). Forgotten about this story? Well, listen to me read two excerpts from it [here](https://rebeccagomezfarrell.com/posts/2011-03-29-mayas-vacation-reading-1/) or [here]https://rebeccagomezfarrell.com/posts/2011-03-29-mayas-vacation-reading-2) or read the synopsis:
+Would you look at that? My romance novella, Maya's Vacation, is on sale for 99 cents until New Year's day. This sale is only happening at Amazon, so [click here to purchase it](http://www.amazon.com/Mayas-Vacation-ebook/dp/B004UB1REI/ref=sr_1_1?s=books&ie=UTF8&qid=1325015069&sr=1-1 "Maya's Vacation buy link"). Forgotten about this story? Well, listen to me read two excerpts from it [here](https://rebeccagomezfarrell.com/posts/2011-03-29-mayas-vacation-reading-1/) or [here](https://rebeccagomezfarrell.com/posts/2011-03-29-mayas-vacation-reading-2) or read the synopsis:
 
 > Twenty-year-old Maya knew, as she watched Dean walk away from her front door, distraught at her silence and her father’s threats, that she would never love anyone with the intensity that she loved him. He was her painter, her artist, her soul mate and being apart from him hurt too much. She tucked those feelings away, determined to enjoy the safe and secure life her parents approved of: business school and a marriage to Chuck, a successful real estate agent.
 >

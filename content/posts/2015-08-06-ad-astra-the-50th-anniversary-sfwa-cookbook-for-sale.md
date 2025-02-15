@@ -42,8 +42,6 @@ I'll let the Foreword speak for itself to give you a better idea of what this c
 
 The introduction to my Seared Peaches with Prosciutto and Basil definitely qualifies as one of those fanciful entries. It is a tribute to the speculative fiction writers and fans of the Research Triangle Park area of North Carolina, which is where I began my fiction-writing career and where I developed wonderful friends and support from among many talented fellow key-pounders.
 
-[![Ad Astra Cookbook-2](images/Ad-Astra-Cookbook-2-1024x759.jpg)](http://thegourmez.com/wp-content/uploads/2015/08/Ad-Astra-Cookbook-2.jpg)
-
 You can get your hands on this very unique, and very fun collector's item of a cookbook straight from [the SFWA website here](https://www.sfwa.org/sfwa-publications/preorder-your-sfwa-cookbook-now/). Click to order through Paypal. Spiral-bound print is $19.95 and e-book is $9.99. I'd recommend the print myself.
 
 _Ad Astra_ is available for the same prices from Amazon as well.

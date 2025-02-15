@@ -20,9 +20,10 @@ tags:
   - "speculative-fiction-night"
 ---
 
-Hello there, fine blog readers! Last week, I did my first reading as part of Bull Spec's Issue #5 launch. My short story, Bother, is featured on the cover, and I got the pimp spot of the evening--by which I mean, I read after 7 other fabulous speculative fiction writers and editors did their things that I wish I had recorded to share with you, too! I didn't expect a recording at all, but that dastardly husband of mine pulled out his cell phone camera and . . . it wasn't that bad! So I'm sharing it with you today, and I hope you enjoy hearing the first few pages of the story. If you do, pick up a copy of Bull Spec now! If you're local, it's at the Regulator and both Durham Barnes & Nobles this week and will be expanding to the locations listed below the video in the next few weeks. If you're not, then order it here (no longer available_. 
+Hello there, fine blog readers! Last week, I did my first reading as part of Bull Spec's Issue #5 launch. My short story, Bother, is featured on the cover, and I got the pimp spot of the evening--by which I mean, I read after 7 other fabulous speculative fiction writers and editors did their things that I wish I had recorded to share with you, too! I didn't expect a recording at all, but that dastardly husband of mine pulled out his cell phone camera and . . . it wasn't that bad! So I'm sharing it with you today, and I hope you enjoy hearing the first few pages of the story. If you do, pick up a copy of Bull Spec now! If you're local, it's at the Regulator and both Durham Barnes & Nobles this week and will be expanding to the locations listed below the video in the next few weeks. If you're not, then order it here (no longer available). 
 
-[Becca Gomez Farrell at Quail Ridge Bookstore](http://vimeo.com/22656890)
+<div style="padding:73.75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/22656890?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Becca Gomez Farrell at Quail Ridge Bookstore"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
 Tips for polishing up my reading presentation are very welcome. Hope you enjoyed it!
 

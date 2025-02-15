@@ -1,5 +1,5 @@
 ---
-title: "Fiction Bragging - Feature Friday at Astraea Press"
+title: "Fiction Bragging—Feature Friday at Astraea Press"
 date: "2012-07-12"
 coverImage: "https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/07/llama-obey.jpg"
 categories:

@@ -48,7 +48,7 @@ But that's not all! I always have several short stories running through my head.
 
 As I've had several writing friends tell me recently, so I suppose there must be truth to it, I take a unique perspective on typical speculative fiction plots. For instance, _Bother_, my urban fantasy short published in [Bull Spec,](http://bullspec.com/ "Bull Spec") is less about the dragon terrorizing city streets and more about the domestic issues facing a young couple and the futility of fighting when you can't win.
 
-!["Bother" had the cover of Bull Spec #5.](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2014/05/bullspec-05-page001-234x300.jpg) *"Bother" made the cover of _Bull Spec_ #5.*
+!["Bother" Bull Spec #5.](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/bullspec-05-page001.jpg) *"Bother" made the cover of _Bull Spec_ #5.*
 
 Some people love that; others wish there was more dragon.
 

@@ -30,8 +30,8 @@ You can read the rest at [Flashes in the Dark here](http://flashesinthedark.com/
 
 The walk toward Chez Mer:
 
-![](images/minneapolis014.jpg "Downtown Minneapolis")
+![minneapolis, churck, streetview, she could be me, rebecca goemz farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/minneapolis014-684x1024.jpg) *Imagine a bus stop, just out of sight...*
 
- Celia's drink at Chez Mer:
+Celia's drink at Chez Mer:
 
-![](images/frenchquartercosmo.jpg "French Quarter Cosmopolitan Papa Mojo's")
+![pink drink, hibiscus margarita](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/not-a-cosmo-she-could-be-me-1024x975.png)

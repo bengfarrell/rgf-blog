@@ -43,7 +43,7 @@ Apparently, this is a Stellarcon tradition, with a Klingon and an Enterprise cre
 
 On Day 2, Ben and I went for a walk around High Point, as I’d never been there beyond stopping to take a picture there during the Giant Furniture Adventure.
 
-1[giant chest of drawers](https://d602mxa74hbsi.cloudfront.net/P1010030.JPG)
+![giant chest of drawers](https://d602mxa74hbsi.cloudfront.net/P1010030.JPG)
 
  I was surprised by many of the awesome buildings High Point has that are definitely worthy of a shot or two.
 

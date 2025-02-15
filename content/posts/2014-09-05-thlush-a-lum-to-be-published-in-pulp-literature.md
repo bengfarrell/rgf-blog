@@ -24,7 +24,7 @@ I've been sitting on this news all summer! But that's my own fault, because I in
 
 "Thlush-a-lum" will be published in the Winter 2015 issue of [_PULP Literature_](http://pulpliterature.com/ "PULP Literature"), a newish speculative fiction magazine that came to be through a successful Kickstarter campaign in 2013.
 
-[![pulp literature](https://d602mxa74hbsi.cloudfront.net/Pulp-Literature-5.JPG)]
+![pulp literature](https://d602mxa74hbsi.cloudfront.net/Pulp-Literature-5.JPG)
 
 Issue #5 will be released electronically and in paperback form, and you bet I'll update you once buy links become available. In addition to four yearly issues of the magazine, _PULP Literature_ runs a number of contests that often feature publication as a prize. Their editors' blog is also a fount of useful information for writers. [Peruse away](http://pulpliterature.com/ "PULP Literature")!
 
@@ -35,7 +35,3 @@ The first few lines? Certainly.
 > Markella's earliest memories are of the sounds outside her window. At hours when no men moved, rustling branches and shuffling grass woke her. A beating pulse like slower, fleshier helicopter blades banished sleep: _thlush-a-lum thlush-a-lum._ In summers, the heat in her attic bedroom hot enough to incubate, Markella pushed the window open and dozed to the endless static drone of cicadas. In winters, choking radiator warmth wrapped tight around her, she cracked the window and the low, deep hoots of an owl drifted in with the freezing breeze.
 >
 > The sounds crept in no matter the season.
-
-And you know I like to include a photo to set the mood when I can...
-
-![thlush a lum photo](images/thlush-a-lum-photo.jpg)

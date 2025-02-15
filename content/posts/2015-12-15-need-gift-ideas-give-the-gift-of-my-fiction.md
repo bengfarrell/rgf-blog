@@ -37,9 +37,9 @@ Consider this my purchasable compendium, reverse chronological order! Collect al
 
 **_1\. Ad Astra: The 50th Anniversary SFWA Cookbook_**
 
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/12/Ad-Astra-Cover-372x500.jpg)
+![sfwa ad astra cookbook](https://d602mxa74hbsi.cloudfront.net/Ad+Astra+Cover.jpg)
 
-Fran Wilde and Cat Rambo edited this collection of 150+ recipes from speculative fiction authors of the past, present, and maybe even future. In it, you can find my Seared Peaches with Prosciutto and Basil; it comes with high acclaim from the NC Research Triangle area spec fic community. Purchase the cookbook fro[m the SFWA website here](https://www.sfwa.org/sfwa-publications/preorder-your-sfwa-cookbook-now/) or from [Amazon](http://www.amazon.com/Ad-Astra-50th-Anniversary-Cookbook-ebook/dp/B011YM8874/ref=as_sl_pc_ss_til?tag=thegou07-20&linkCode=w01&linkId=JP2WFYOCC3CKANLS&creativeASIN=B011YM8874).
+Fran Wilde and Cat Rambo edited this collection of 150+ recipes from speculative fiction authors of the past, present, and maybe even future. In it, you can find my Seared Peaches with Prosciutto and Basil; it comes with high acclaim from the NC Research Triangle area spec fic community. Purchase the cookbook from [the SFWA website here](https://www.sfwa.org/sfwa-publications/preorder-your-sfwa-cookbook-now/) or from [Amazon](http://www.amazon.com/Ad-Astra-50th-Anniversary-Cookbook-ebook/dp/B011YM8874/ref=as_sl_pc_ss_til?tag=thegou07-20&linkCode=w01&linkId=JP2WFYOCC3CKANLS&creativeASIN=B011YM8874).
 
 **2\. "Thlush-A-Lum" in _PULP Literature_ Issue #5**
 
@@ -59,7 +59,7 @@ Purchase Issue #5 from [the _PULP Literature_ website](http://pulpliterature.com
 
 ![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/12/bullspec-05-page001-800x1024.jpg)
 
-"Bother" was the cover story for _Bull Spec_ #5, and I'm honored to this day that the highly regarded Richard Case chose to illustrate it. It's urban fantasy about how a couple survives, or doesn't, when a dragon comes to roost on their city block. Luckily, there appears to still be back issues of _Bull Spec_ available, although the magazine has shifted to a web-only presence. [Order Issue #5 her](http://bullspec.com/issues/bull-spec-5/)e or an e-version from [Weightless Books here](http://weightlessbooks.com/genre/fiction/bull-spec-5/).
+"Bother" was the cover story for _Bull Spec_ #5, and I'm honored to this day that the highly regarded Richard Case chose to illustrate it. It's urban fantasy about how a couple survives, or doesn't, when a dragon comes to roost on their city block. Luckily, there appears to still be back issues of _Bull Spec_ available, although the magazine has shifted to a web-only presence. [Order Issue #5 here](http://bullspec.com/issues/bull-spec-5/) or an e-version from [Weightless Books here](http://weightlessbooks.com/genre/fiction/bull-spec-5/).
 
 **5\. _Maya's Vacation_**
 
@@ -67,6 +67,6 @@ Purchase Issue #5 from [the _PULP Literature_ website](http://pulpliterature.com
 
 The contemporary romance novella I never expected write, _Maya's Vacation_ came to be in a dream about frying chicken, and I fleshed that dream out into the story of a woman in her fifties rediscovering herself after a divorce and relearning what she used to love through food, paint, and an old flame returned. _Maya's Vacation,_ published by Clean Reads, is available on [Amazon](http://www.amazon.com/Mayas-Vacation-ebook/dp/B004UB1REI/ref=sr_1_1?ie=UTF8&qid=1380500960&sr=8-1&keywords=maya%27s+vacation). Warning: No sex scenes in this romance! Just unrequited longing. Or is it requited? I'll never tell.
 
-I may also mention that anything you buy that features my work is a gift to me as well—word of tongue can only spread after eyes on the page have done their business. Of course, I also have plenty of fiction free to read online as well—just click over to [the Creative section](/creative-works/) to find it. Thank you for your support, and I hope to keep entertaining you in the future. I'm pretty sure I'll have some snippets to share by the end of next week as well...
+I may also mention that anything you buy that features my work is a gift to me as well—word of tongue can only spread after eyes on the page have done their business. Of course, I also have plenty of fiction free to read online as well—just click over [here](https://rebeccagomezfarrell.com/fiction/mayas-vacation) to find it. Thank you for your support, and I hope to keep entertaining you in the future. I'm pretty sure I'll have some snippets to share by the end of next week as well...
 
 ![Happy holidays, from me and Ben!](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/12/holiday-pic-333x500.jpg) *Happy holidays, from me and Ben!*

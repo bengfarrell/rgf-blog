@@ -14,7 +14,7 @@ tags:
   - "review"
 ---
 
-[![homeward bound cover matchar](https://d602mxa74hbsi.cloudfront.net/homeward-bound.jpg)
+![homeward bound cover matchar](https://d602mxa74hbsi.cloudfront.net/homeward-bound.jpg)
 
 Emily Matchar, a journalist and writer based in Chapel Hill for at least part of the year, published a book, _Homeward Bound_, on the movement toward reclaiming the domestic arts for women among twenty- and thirtysomethings, which she coins as "the New Domesticity."  When she sought reviewers (meaning my copy was free), I jumped at the chance because I've been fascinated by the do-it-yourself attitude of our generation: chicken raising, canning everything, and covering every body part in some form of cable knit. I often feel like I'm the only person I know who doesn't want to sew her own dresses or make radish pickles. I admit to being amused at the misadventures my friends have trying to keep chickens alive. I get the appeal of gardening and the pride of wearing something you've made yourself, but it all takes so much work. And time. And I manage to fill up all my time with work as it is. Why would I want to add more?
 
@@ -26,4 +26,8 @@ Matchar also highlights very interesting similarities in language in the ways pe
 
 I would have liked a little more exploration of how simple rebellion may play a role in the origins of the New Domesticity as well. If our mothers rejected the home because they didn't want the same lives as their mothers, then maybe we've taken up those tasks and focuses as hobbies or a lifestyle for the same reason—because our mothers didn't. Regardless, "Homeward Bound" is a needed book that does a great job examining the trend, its origins, the motivations of those who devote themselves to it, and the societal problems its existence exposes. It's well-worth the read.
 
-_Homeward Bound: Why Women Are Embracing the New Domesticity_ By Emily Matchar Simon and Schuster 288 pages [Buy Here](http://www.amazon.com/Homeward-Bound-Women-Embracing-Domesticity/dp/145166544X)
+_Homeward Bound: Why Women Are Embracing the New Domesticity_\
+By Emily Matchar\
+Simon and Schuster\
+288 pages\
+[Buy Here](http://www.amazon.com/Homeward-Bound-Women-Embracing-Domesticity/dp/145166544X)

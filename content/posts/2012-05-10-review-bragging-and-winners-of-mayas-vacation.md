@@ -26,7 +26,7 @@ Now for those reviews. Here are just a few of my favorites, though there are ple
 >
 > The story is mostly from Maya’s point of view, and has an excellent supporting cast. You just know Chuck is a slimy user trying to wiggle his way back into Maya’s life, and he wouldn’t be good for her at all. Dean hasn’t been pining for thirty years, and brings his own hurts to the woods. I wish we’d had some more from Dean’s point of view. I like that nothing is perfect and smooth and clear-cut. There’s regret and sadness, but it’s not the focus of the story and that’s fresh. It’s nice to know romance is still alive at fifty, and there’s always room for second chances.
 
-At [Amazon](http://www.amazon.com/review/R1R8D0URG00G8E/ref=cm_cr_pr_viewpnt#R1R8D0URG00G8E "Amazon Review"), fellow Astraea Press author, J. Gunnar Gray has the following review:
+At [Amazon](http://www.amazon.com/review/R1R8D0URG00G8E/ref=cm_cr_pr_viewpnt#R1R8D0URG00G8E "Amazon Review"), fellow Astraea Press author J. Gunnar Gray has the following review:
 
 > This is a remarkably fun story of a woman caught between two love interests, and I honestly didn't know how she's choose until the very last pages. Becca Farrell writes with subtlety and imagination, building Maya's character with artistic brushstrokes and showing how she's tugged between doing what's smart and comfortable, and doing what she really wants. This little novella isn't getting nearly the attention it deserves.
 

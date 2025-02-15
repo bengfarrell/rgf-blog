@@ -33,7 +33,8 @@ Here are the first few lines of "It's Only Vampire" to entice your purchase:
 
 This is my second time having a short story appear in the annual Fark.com fiction anthologies - the first was ["Garbage"](https://rebeccagomezfarrell.com/fiction/garbage/) in 2017. Like its predecessors, _FARK in the Time of COVID: The 2020 Fark Fiction Anthology_, donates its proceeds to a children's charity chosen by Fark.com posters. You can [order it on Amazon](https://www.amazon.com/Fark-Time-Covid-Fiction-Anthology/dp/B08QBVMKP3/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) as a paperback or read the ebook via Kindle Unlimited.
 
-![it's only vampire, rebecca gomez farrell, fark in the time of covid, fark fiction anthology](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/01/27000915/RGF-and-Its-Only-Vampire-768x714.jpg) *Obligatory author & book photo*
+<div class="caption">
+[![it's only vampire, rebecca gomez farrell, fark in the time of covid, fark fiction anthology](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/01/27000915/RGF-and-Its-Only-Vampire-768x714.jpg) *Obligatory author & book photo* </div>
 
 What is [Fark.com](https://www.fark.com/)? Why, it's one of the oldest, and most irreverent, news aggregator websites still around. Fark.com first came into existence in 1999. I'm mostly a lurker on their message boards, but I've always been a fan of the site and its humorous news headlines and epic discussion threads. Oh, and their taste in fiction. ;) I'm a fan of that, too. The annual anthology was born from Fark's weekly discussion thread for writers.
 

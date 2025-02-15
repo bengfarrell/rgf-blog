@@ -23,13 +23,13 @@ tags:
 
 I've been wanting to promote some friends with new books and blogs out for a while now...so long of a while that I'm not sure I can classify them as new! Two of these friends are from [All My Writers](http://allmywriters.net), the entertainment website where I write columns on _General Hospital, Glee,_ and currently, trying out the slate of Fall TV show premieres.
 
-Let's start with Katrina Rasbold, webmistress of _All My Writers_ and writer of many new books she's published to Amazon this summer. One of them is a guide to the _General Hospital_ Fan Club Weekend featuring photography by me, but I'll post a separate entry promoting that. The rest of Katrina's books range from instructions on making candles with a spiritual intent--
+Let's start with Katrina Rasbold, webmistress of _All My Writers_ and writer of many new books she's published to Amazon this summer. One of them is a guide to the _General Hospital_ Fan Club Weekend featuring photography by me, but I'll post a separate entry promoting that. The rest of Katrina's books range from instructions on making candles with a spiritual intent—
 
-[![candles soap](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/11/candles-soap-312x500.jpg)](/blog/2013/11/friend-bragging/candles-soap/)\--to discussing the principles of Energy Magic for those of you attracted to that practice--
+[![candles soap](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/11/candles-soap-312x500.jpg)](/blog/2013/11/friend-bragging/candles-soap/)\—to discussing the principles of Energy Magic for those of you attracted to that practice—
 
 [![energy magic](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/11/energy-magic-400x500.jpg)](/blog/2013/11/friend-bragging/energy-magic/)
 
-\--to a memoir about her life growing up in Kentucky that's on my must-read list.
+\—to a memoir about her life growing up in Kentucky that's on my must-read list.
 
 [![leaving kentucky](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/11/leaving-kentucky-312x500.jpg)](/blog/2013/11/friend-bragging/leaving-kentucky/)
 

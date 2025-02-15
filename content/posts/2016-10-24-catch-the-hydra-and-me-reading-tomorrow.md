@@ -21,7 +21,11 @@ tags:
 
 Last week, I was invited to join the Hydra literary series for their spooky Halloween reading, and of course, I said yes. Read my horror? I look forward to any spine-chilling I can cause!
 
-**What**: The Hydra #7 Reading Series! **Where:** Woods Bar & Brewery, 1701 Telegraph, Downtown Oakland **When**: 7 pm.
+**What**: The Hydra #7 Reading Series!\
+**Where:** Woods Bar & Brewery\
+1701 Telegraph\
+Downtown Oakland\
+**When**: 7 pm
 
 [More details at the Facebook event page!](https://www.facebook.com/events/1775642746012572/?active_tab=discussion)
 

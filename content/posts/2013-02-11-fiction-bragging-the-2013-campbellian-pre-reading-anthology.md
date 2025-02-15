@@ -35,8 +35,6 @@ tags:
 layout: layouts/individualworks.njk  
 ---
 
-![Campbellian Anthology 2013 cover](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/04/Campbellian-Anthology-2013-cover-682x1024.jpg)
-
 Published by [_Stupefying Stories_](http://stupefyingstories.blogspot.com/ "Stupefying Stories"), the _2013 Campbellian Pre-Reading Anthology_ is now available for free—that's right, free!—for anyone interested in perusing the works of authors eligible for Campbell award nominations this year. What's that? As M. David Blake, editor of _Stupefying Stories_ explained,
 
 > Named for **John W. Campbell, Jr.**, whose 34 years at the helm of _Astounding Science Fiction_ (later renamed _Analog_) defined the "Golden Age" of the genre and launched the careers of dozens of famous writers, the [**John W. Campbell Award for Best New Writer**](http://en.wikipedia.org/wiki/John_W._Campbell_Award_for_Best_New_Writer) is presented annually at WorldCon to an outstanding author whose first professional work of science fiction or fantasy was published within the previous two years.

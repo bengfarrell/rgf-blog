@@ -17,8 +17,5 @@ tags:
 
 > He pulled away. “But you shouldn't be. You know that, don't you? He left you, Maya! How could anyone ever leave you willingly?” His voice was raspy now, how it used to sound if he'd stayed up all night, unable to stop painting.
 
- 
-
-![Maya's Vacation 300 x 450](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/05/Mayas-Vacation-300-x-450.jpg)
 
 _Maya's Vacation_ is sweet, contemporary romance published by Astraea Press and available [at their website](http://www.astraeapress.com/#ecwid:category=662249&mode=product&product=3028832 "Astraea Press") (and Amazon, Barnes and Nobles, and Smashwords) in all e-book formats.

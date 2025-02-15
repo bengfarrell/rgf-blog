@@ -20,7 +20,9 @@ tags:
 
 This Friday night, you can catch me reading as part of the final reading session for the Spring group of Liminal Writers in Residence!
 
-**What: FINAL Reading - Spring Writers in Residence and Workshop Attendees** **Where: Liminal, 3037 38th Avenue, Oakland** **When: Friday, 7/8, at 7:00 pm**
+**What: FINAL Reading - Spring Writers in Residence and Workshop Attendees**\
+**Where: Liminal, 3037 38th Avenue, Oakland**\
+**When: Friday, 7/8, at 7:00 pm**
 
 I will be reading from "Garbage," a humorous sci-fi tale that I've been chipping away at for quite a few years, including during the last two months at Liminal. It never fails to draw laughs from readers, so I'm pretty sure an audience will react the same! I'll be going on right at 7:30 pm, when the actual readings start, but I'll be sticking around throughout the night's program, as listening to this diverse and talented group of writers is always a worthwhile evening.
 

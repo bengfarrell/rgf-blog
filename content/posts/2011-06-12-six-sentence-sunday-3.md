@@ -23,7 +23,7 @@ Intrigued? Here's a synopsis of _Bother_:
 
 > The apartment is taking dingy to a new level. Air quality is suffering. Trees keep falling down, and there are piles of refuse all over the neighborhood. Yet Jonah's more concerned about his awesome day at work than he is about the dragon that's taken up residence outside his home. His wife, Susan, isn't so apathetic; she spends every waking moment with a vigilante force, trying to rid the district of the dreaded creature. Can they figure out what's worth fighting for together, or will this couple be yet another casualty of the dragon.
 
-_Bother_, along with a bunch of other wonderful fantasy and sci fi short stories, is available  in _Bull Spec_, Issue #5.
+_Bother_, along with a bunch of other wonderful fantasy and sci fi short stories, is available in _Bull Spec_, Issue #5.
 
 ![bullspec-05-page001](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/bullspec-05-page001.jpg)
 

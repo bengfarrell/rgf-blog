@@ -44,7 +44,7 @@ The night of the winner unveiling, _Durham Magazine_ [posted a brief piece](http
 
 You can also watch the following video of bar manager Chris Thomas mixing up the concoction.
 
-http://youtu.be/bWOLe\_jdvEw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bWOLe_jdvEw?si=_dfwqbt9H35XDNPC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 But if that’s too much work for you, then here’s my recipe with the tweaks the bartending team came up with to make it better—mainly, they perfected the rimming steps. The drink naming was a team effort led by Don Ball, the director of food and beverage at Washington Duke Inn, from among the fellow competitors and food bloggers who came by for the unveiling.
 
