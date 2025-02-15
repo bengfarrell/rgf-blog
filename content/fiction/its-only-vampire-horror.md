@@ -32,7 +32,10 @@ Here are the first few lines of "It's Only Vampire" to entice your purchase:
 This is my second time having a short story appear in the annual Fark.com fiction anthologies - the first was ["Garbage"](/creative-works/garbage/) in 2017. Like its predecessors, _FARK in the Time of COVID: The 2020 Fark Fiction Anthology_, donates its proceeds to a children's charity chosen by Fark.com posters. You can [order it on Amazon](https://www.amazon.com/Fark-Time-Covid-Fiction-Anthology/dp/B08QBVMKP3/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) as a paperback or read the ebook via Kindle Unlimited.
 
 <div class="caption">
-[![it's only vampire, rebecca gomez farrell, fark in the time of covid, fark fiction anthology](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/01/27000915/RGF-and-Its-Only-Vampire-768x714.jpg) Obligatory author & book photo </div>
+
+![it's only vampire, rebecca gomez farrell, fark in the time of covid, fark fiction anthology](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2021/01/27000915/RGF-and-Its-Only-Vampire-768x714.jpg) Obligatory author & book photo
+
+</div>
 
 I wouldn't leave you without a little photographic inspiration for "It's Only Vampire" to get your imaginations churning.
 

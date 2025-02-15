@@ -14,7 +14,9 @@ categories:
 layout: layouts/individualworks.njk
 ---
 
-\* "Thlush-A-Lum" was first reprinted by **[the Centropic Oracle](http://www.centropicoracle.com/),** who produced an audio version of the story, released on December 8, 2017. Unfortunately, The Centropic Oracle has shut down.
+\* "Thlush-A-Lum" was first reprinted by **[the Centropic Oracle](http://www.centropicoracle.com/),** who produced an audio version of the story, released on December 8, 2017. Unfortunately, The Centropic Oracle has shut down, but their Youtube page is still active! Here's the video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XWZDG1yLRNs?si=uZJ0iTioXPI9lMN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Sarah Houghton performed the audio narration.
 
