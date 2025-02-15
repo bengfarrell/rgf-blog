@@ -19,7 +19,7 @@ layout: layouts/individualworks.njk
 
 Links to purchasing can be found at Word Horde's [publication announcement here](https://wordhorde.com/take-wing-with-our-new-anthology-flight-into-fright-available-today/). Or head direct to Amazon.
 
-\* "Thlush-A-Lum" was first reprinted by **[the Centropic Oracle](http://www.centropicoracle.com/),** who produced an audio version of the story, released on December 8, 2017. Unfortunately, the Centropic Oracle has since shut down. Sarah Houghton performed the audio narration.
+\* "Thlush-A-Lum" was first reprinted by **[the Centropic Oracle](http://www.centropicoracle.com/),** who produced an audio version of the story, released on December 8, 2017. Sarah Houghton performed the audio narration. [Head here](https://rebeccagomezfarrell.com/fiction/thlush-a-lum-centropic) to view that Youtube video.
 
 \* "Thlush-A-Lum" first appeared in **_PULP Literature_ Issue #5** in 2015.
 

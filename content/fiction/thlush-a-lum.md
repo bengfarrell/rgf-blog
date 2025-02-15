@@ -27,8 +27,6 @@ Links to purchasing can be found at Word Horde's [publication announcement here]
 
 ![centropic oracle, thlush a lum, rebecca gomez farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/centropic-oracle.jpg)
 
-Unfortunately, the Centropic Oracle has since shut down. Sarah Houghton performed the audio narration.
-
 \* "Thlush-A-Lum" first appeared in **_PULP Literature_ Issue #5** in 2015.
 
 ![Thlush a lum pages 1](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/Thlush-a-lum-pages-1-375x500.jpg)
