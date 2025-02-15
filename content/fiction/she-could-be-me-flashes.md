@@ -30,7 +30,7 @@ The walk toward Chez Mer:
 
 <div class="caption">
 
-[![minneapolis, churck, streetview, she could be me, rebecca goemz farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/minneapolis014-684x1024.jpg)] *Imagine a bus stop, just out of sight...* </div>
+![minneapolis, churck, streetview, she could be me, rebecca goemz farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/minneapolis014-684x1024.jpg) *Imagine a bus stop, just out of sight...* </div>
 
 Celia's drink at Chez Mer:
 

@@ -14,6 +14,7 @@ categories:
   - "writing"
   - "anthologies"
   - "info"
+  - "short-stories"
 tags:
   - "2013"
   - "anthology"
@@ -38,6 +39,8 @@ layout: layouts/individualworks.njk
 Published by [_Stupefying Stories_](http://stupefyingstories.blogspot.com/ "Stupefying Stories"), the _2013 Campbellian Pre-Reading Anthology_ is now available for free—that's right, free!—for anyone interested in perusing the works of authors eligible for Campbell award nominations this year. What's that? As M. David Blake, editor of _Stupefying Stories_ explained,
 
 > Named for **John W. Campbell, Jr.**, whose 34 years at the helm of _Astounding Science Fiction_ (later renamed _Analog_) defined the "Golden Age" of the genre and launched the careers of dozens of famous writers, the [**John W. Campbell Award for Best New Writer**](http://en.wikipedia.org/wiki/John_W._Campbell_Award_for_Best_New_Writer) is presented annually at WorldCon to an outstanding author whose first professional work of science fiction or fantasy was published within the previous two years.
+
+_Note made 15 February 2025: The John W. Campbell, Jr. Award has been known as the Astounding Award since 2020._
 
 What does this have to do with me? Well, with my sale of ["Bother"](/creative-works/bother/ "Bother Summary and Buy Links") to _Bull Spec_ nearing on two years ago now, I became eligible for the Campbell Award. I have absolutely no expectations of being nominated, especially because I haven't had other speculative fiction published since then—I've been working on my first fantasy novel instead of sending out my short stories. But "Bother" has been reprinted in the anthology, and now's your chance to read it for free along with other worthy works by a large list of fantastic speculative fiction authors. All for free until the Hugo nominees, including for the John W. Campbell Award for Best New Writer, are announced at the end of April.
 
