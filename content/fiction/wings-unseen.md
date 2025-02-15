@@ -36,4 +36,4 @@ Don't forgot that reviews always put a smile on an author's face! Well, positive
 
 _Wings Unseen is an enthralling female-driven fantasy debut. The world, magic system, and terrific characters – with two complex, multi-layered heroines along with the male protagonist – drew me in and kept me rapt. The romantic set-up goes sideways in a delightful way, satisfying me entirely. The characters truly grow and change over the course of their epic quest, including a heroine who begins in a dark place and rises above it. An initially unlikable heroine, Vesperi is deftly handled and won a place as my favorite character. Compelling, entertaining, and enlightening, Wings Unseen is a fantastic read!_
 
-You can get a great list of all the accolades Wings Unseen has received over at [its Meerkat Press page](http://meerkatpress.com/books/wings-unseen/).
+You can get a great list of all the accolades _Wings Unseen_ has received over at [its Meerkat Press page](http://meerkatpress.com/books/wings-unseen/).
