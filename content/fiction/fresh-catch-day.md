@@ -35,6 +35,6 @@ And a photograph to set the mood:
 
 <div class="caption">
 
-[![oysters, hog island, the gourmez, nz wine](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/NZWine-14-768x1024.jpg)] *An oyster chef at work.* </div>
+[![oysters, hog island, the gourmez, nz wine](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/pages/NZWine-14-768x1024.jpg) *An oyster chef at work.* </div>
 
 I hope you enjoy "Fresh Catch of the Day!"
