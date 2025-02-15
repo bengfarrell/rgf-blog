@@ -70,6 +70,10 @@ main {
 	font-size: 1.6em;
 }
 
+a.header-anchor {
+	display: none;
+}
+
 #page-container {
 	display: flex;
 	padding: 0 5em;
@@ -227,6 +231,7 @@ ul.image-item {
 	align-items: center;
 	gap: 50px;
 	text-align: center;
+	justify-content: center;
 }
 
 ul.image-item.ltr li,
@@ -500,6 +505,15 @@ nav li a[href]:visited {
 	margin-right: auto;
 }
 
+#posts-pagination .previous,
+#posts-pagination .next {
+	width: 33%;
+}
+
+
+.individual-works-image {
+	max-width: 500px;
+}
 
 @media only screen and (max-device-width: 490px) {
 	header nav ul {
