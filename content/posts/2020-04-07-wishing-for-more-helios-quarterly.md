@@ -31,4 +31,6 @@ _Helios Quarterly_ 4.4 contains four other short stories in addition to "Wishing
 
 And here's a photo inspiration to set the story's mood:
 
-![c-shell photo, santa cruz, west cliff, night, cliffs](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/04/07200316/wishing-for-more-photo-1024x683.jpg) *Photo copyright [C-Shell Photo](https://twitter.com/carlinschel)*
+<div class="caption">
+
+![c-shell photo, santa cruz, west cliff, night, cliffs](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2020/04/07200316/wishing-for-more-photo-1024x683.jpg) *Photo copyright [C-Shell Photo](https://twitter.com/carlinschel)* </div>
