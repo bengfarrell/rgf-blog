@@ -29,7 +29,9 @@ The recording was released on January 29, which was the day we were originally s
 
 ...but that's another story! _This_ story is a fictional rant about the process of submitting manuscripts out for publication. It is funny and silly, particularly if you are also a writer undertaking this process on a regular basis. It's a fantasy take on the concept, with recipes for magic spells subbed in for manuscripts themselves. It ends with a dare that the editors at _the Centropic Oracle_ took, just like _Defenestration_ did before them when the story was first published in 2019.
 
-Jill Raymond performed the audio version, and I quite enjoy her take on the story—the character of Betty, a bubbly and annoyingly successful composer of magical recipes, comes through loud and clear. To listen to or read "Submission Caws," head to _the Centropic Oracle's_ [website here](http://www.centropicoracle.com/library/F0112_SubmissionCaws.php).
+Jill Raymond performed the audio version, and I quite enjoy her take on the story—the character of Betty, a bubbly and annoyingly successful composer of magical recipes, comes through loud and clear. To listen to or read "Submission Caws," head to Youtube here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SncEr6Dc-X4?si=1-u9L8vM9kMm7XJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Or of course, you can read "Submission Caws" at its original home at _Defenestration_, [right here](http://www.defenestrationmag.net/2019/08/submission-caws-by-rebecca-gomez-farrell/).
 

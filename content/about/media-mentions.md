@@ -1,51 +1,154 @@
 ---
 title: "Accolades + Media Mentions"
-date: "2012-10-12"
+date: "2025-02-16"
 layout: layouts/page.njk
 ---
 
-### Fiction and Creative Nonfiction
+### Writing Events & Accolades
 
 Panels, invited readings, interviews! This section chronicles the notable events of my fiction and creative nonfiction career.
 
-- Winter 2016, **Reading,** "The Wizard Asaber," _Get Lit! #20,_ Oakland, CA.
-- Fall 2016, **Reading,** "Dear Hillary Clinton," _Get Lit!_ #18, Oakland, CA. [Video](https://www.facebook.com/iamchristineno/videos/vb.144800029/584018237059/?type=2&theater) (I'm at 40:55).
-- Fall 2016, **Reading**, "Thlush-A-Lum" and "The Cold, Hard Facts of Life," _the Hydra_ #7, Oakland, CA. [Video.](https://www.facebook.com/thegourmez/videos/vb.567409606/10154024179264607/?type=2&theater)
-- Fall 2016, **Reading**, "Mixed Signals, or, Learning How to Speak," Writers-In-Residence Reading at the Liminal Center, Oakland, CA. [Video.](https://www.facebook.com/thegourmez/videos/vb.567409606/10153953607244607/?type=2&theater)
-- Fall 2016, **Reading**, "Mixed Signals, or, Learning How to Speak," _Literary Speakeasy_, San Francisco, CA.
-- Summer 2016, **Reading**, "Garbage," Spring Writers in Residence and Workshop Attendees at the Liminal Center, Oakland, CA.
-- Spring 2016, **Reading**, "the Salvation of Soup," Spring Writers in Residence at the Liminal Center, Oakland, CA.
-- Spring 2016, **Writer-in-Residence**, the Liminal Center, Oakland, CA.
-- Winter 2016, **Reading,** "No Crossing," Leap Year At the Inkwell reading, San Francisco, CA.
-- Spring 2015, **Panelist,** "Worldbuilding Through Food," WisCon 39, Madison, WI.
-- Spring 2015, **Reading,** "Chapter 1: Vesperi" and "Thlush-A-Lum," _Triple the Strength, Triple the Power!_ reading, WisCon 39, Madison, WI.
-- Fall 2014, **Interview,** ["Interview with an Adolescent,"](http://pulpliterature.com/interview-with-an-adolescent/) from a character's perspective in "Thlush-A-Lum," _Pulp Literature_ website.
-- Summer 2013, **Interview,** "My Aha Moment," Mutual Omaha's national advertisement campaign. [Video.](https://youtu.be/2pS2AxvwWFo) 
-- Winter 2012, **Reading,** "Treasures in Cardboard Boxes," Winter Tales annual reading, Orange County Public Library, Hillsborough, NC. [Video.](https://youtu.be/RASxC6VbDnw)
-- Summer 2011, **Interview,** ["Author Interview & Novella Giveaway: Maya's Vacation by Rebecca Gomez Farrell,"](http://www.iamareader.com/2011/06/author-interview-novella-giveaway-mayas-vacation-by-rebecca-gomez-farrell.html) _I am a Reader, Not a Writer_ website.
-- Spring 2011, **Reading,** "Bother," _Bull Spec_ Issue #5 launch, Quail Ridge Bookstore, Raleigh, NC. [Video.](https://vimeo.com/22656890)
-- Spring 2011, **Interview,** ["Fridays off the Wall with Rebecca Gomez Farrell,](http://joselynvaughn.blogspot.com/search/label/Rebecca%20Gomez%20Farrell)" Joselyn Vaughn's blog.
-- Spring 2011, **Interview,** Astraea Press blog. Link defunct, [but archived here](https://rebeccagomezfarrell.com/posts/2012/05/interview-bragging-promoting-mayas-vacation/).
-- Winter 2009, **Interview,** ["Interview with Rebecca Gomez Farrell - 3rd place winner in the Summer '09 Flash Fiction Contest,"](https://rebeccagomezfarrell.com/posts/2012/05/interview-bragging-promoting-mayas-vacation/) _the Muffin_ blog.
-- Food, Drink, and Travel
+-   Upcoming: June 2025, **Featured Speaker**, South Bay Writers branch of the *California Writers Club*, Sunnyvale, CA.
+-   Upcoming: March 2025, **Featured Speaker**, Membership Luncheon, *American Association of University Women* (AAUW) – Alameda Branch, Alameda, CA.
+-   January 2025, **Guest Host**, *Story Hour*, online.
+-   December 2024, **Panelist**, *Local Lit Annual Author Fair*, San Jose, CA.
+-   December 2024, **Featured Author**, Writers Critique Clinic, *Local Lit Annual Author Fair*, San Jose, CA.
+-   June 2024, **Guest Host**, *Story Hour,* online.
+-   May 2023, **Panelist**, "Feeling Optimistic? Imagining Brighter SFF Futures," The SFWA Nebula Conference, Anaheim, CA.
+-   April 2023, **Host**, "Women Who Submit: Bay Area Chapter" reading, *Hayward Lit Hop*, Hayward, CA.
+-   April 2023, **Host**, "East Bay Science Fiction and Fantasy Writers" reading, *Hayward Lit Hop*, Hayward, CA.
+-   April 2023, **Reading**, *Brooklyn Books & Booze*, New York City, NY.
+-   March 2023, **Featured Author**, *Pondering the Orb*, online.
+-   March 2023, **Reading**, *SF in SF*, San Francisco, CA
+-   March 2023, **Participant**, *Strong Women, Strange Worlds* Book Fair, online.
+-   March 2023, **Reading**, *The Wizard's Homecoming* book launch, Oakland, CA.
+-   December 2022, **Guest Post,** "Question to Consider When Writing A Series," *WritingForums.com*, online.
+-   December 2022, **Guest Post**, "What's the Worst Writing Advice You've Ever Received?", *The Sky Writes Here*, online.
+-   December 2022, **Host**, *Weekly Writing Date*, Science Fiction and Fantasy Writers Association (SFWA), online.
+-   December 2022, **Guest Post**, "Psychoanalyze This! Please?", *TKentWrites.com*, online.
+-   December 2022, **Reading**, *Story Hour*, online.
+-   December 2022, **Guest Post**, "Five Book Series Where Women Wield the Power," *BigIndieBooks.com*, online.
+-   December 2022, **Reading**, *Strong Women, Strange Worlds*, online.
+-   December 2022, **Guest Post**, "The Best Speculative Fiction Book with Lyrical Prose," *Shepherd Book List*, online.
+-   November 2022, **Interview**, *Speculative Fiction Showcase*, online.
+-   June 2022, **Class of 2020/2022**, *Taos Toolbox*, Albuquerque, NM.
+-   April 2022, **Panelist**, "The Women of Meerkat Press," r/fantasy Ask Me Anything (AMA), *Reddit.com*, online.
+-   March 2021, **Reading**, *Story Hour*, online.
+-   March 2021, **Moderator**, "What Publishing Professional Wish First-Time Authors Knew," *Speculative Literature Foundation*-San Francisco chapter panel, online.
+-   October 2020, **Reading**, *It Calls from the Sky* launch party, online
+-   October 2020, **Reading**, *Spectacular Magical Fiction*, online.
+-   October 2020, **Reading**, *Literary Speakeasy*, online.
+-   September 2020, **Moderator**, "How Do Speculative Fiction Writers Get Grants?", *Speculative Literature Foundation*-San Francisco chapter panel, online.
+-   August 2020, **Panelist**, "Empowering Your Community: A Talk with WWS Chapter Leads," Women Who Submit Conference, online.
+-   July 2020, **Reading**, *Story Hour*, online.
+-   May 2020, **Panelist**, "Forming and Sustaining a Successful Writing or Critique Group," The SFWA Nebula Conference, online.
+-   February 2020, **Panelist**, "Food in Genre Fiction," *FogCon*, Walnut Creek, CA.
+-   February 2020, **Panelist**, "Choosing Your Own Adventures," *FogCon*, Walnut Creek, CA.
+-   February 2020, **Panelist**, "People Aren't Food: Cliches in Description," *FogCon*, Walnut Creek, CA.
+-   February 2020, **Reading**, *FogCon*, Walnut Creek, CA.
+-   August 2019, **Panelist**, “Window to the Soul: A Character’s Favorite Song,” *World Science Fiction Convention,* Dublin, Ireland.
+-   August 2019, **Panelist**, "VR and AR: the Future of Gaming or a Fad?", *World Science Fiction Convention,* Dublin, Ireland.
+-   August 2019, **Moderator**, "Found in Translation: SFF Translated Works," *World Science Fiction Convention*, Dublin, Ireland.
+-   August 2019, **Reading**, "Broad Universe Rapid Fire Reading," *World Science Fiction Convention,* Dublin, Ireland.
+-   August 2019, **Kaffeeklatsch Host**, *World Science Fiction Convention,* Dublin, Ireland.
+-   August 2019, **Moderator**, "Internet, Censorship, Control, and Influence," *World Science Fiction Convention,* Dublin, Ireland.
+-   April 2019, **Panelist**, "Debut Authors—Fame and Fortune in Five Easy Steps," Litquake Writers Weekend, San Francisco, CA.
+-   April 2019, **Reading**, *Parallel Lit*, Oakland, CA.
+-   March 2019, **Panelist**, "It’s Dangerous to Go Alone! Take This—Writer Support Networks in the Bay Area," *FogCon*, Walnut Creek, CA.
+-   March 2019, **Panelist**, "Discovering Short Fiction," *FogCon*, Walnut Creek, CA.
+-   March 2019, **Moderator**, "Small House, Big Futures—Publishing SF with Small Presses," *FogCon*, Walnut Creek, CA.
+-   March 2019, **Reading**, "Broad Universe Rapid Fire Reading," *FogCon*, Walnut Creek, CA.
+-   February 2019, **Featured Author**, "Alameda Authors Series III," American Association of University Women (AAUW) Alameda, Alameda, CA.
+-   October 2018, **Panelist**, "Pursuit of Publishing: It Takes A Village," *Litquake*, San Francisco, CA.
+-   August 2018, **Reading**, "Broad Inverse Rapid Fire Reading," *World Science Fiction Convention,* San Jose, CA.
+-   August 2018, **Reading**, "Women Who Submit Lit," Oakland, CA.
+-   July 2018, **Reading**, "R-Dub Love," *Rolling Writers*, San Francisco, CA.
+-   May 2018, **Reading**, The Literary Speakeasy, San Francisco, CA.
+-   March 2018, **Reading**, *Reading Between the Vines* salon series, Healdsburg, CA.
+-   March 2018, **Moderator**, "The Play Within the Play: An Analysis of Going Meta in Speculative Fiction," *FogCon*, Walnut Creek, CA.
+-   March 2018, **Panelist**, "Wilderness in SFF," *FogCon*, Walnut Creek, CA.
+-   March 2018, **Panelist**, "Speculative Fiction, Science and the Sacred," *FogCon*, Walnut Creek, CA.
+-   March 2018, **Reading**, "Broad Universe Rapid Fired Reading," *FogCon*, Walnut Creek, CA.
+-   February 2018, **Guest Post**, "Destroy All Cling-Ons, " *No Wasted Ink*, online.
+-   January 2018, **Reading**, *Terra Incognita*, Oakland, CA.
+-   October 2017, **Reading**, *Literally* series, San Mateo, CA.
+-   October 2017, **Interview**, *Speculative Fiction Cantina*, online.
+-   October 2017, **Reading**, *At the Inkwell*, San Francisco, CA.
+-   October 2017, **Instructor**, "Destroy All Cling-Ons!" workshop, *Con-Volution*, San Ramon, CA.
+-   October 2017, **Host**, "The Companion as Hero—From Samwise Gamgee to Bill Potts" discussion*, Con-Volution*, San Ramon, CA.
+-   September 2017, **Reading**, *An Afternoon of YA Fantasy*, Cary, NC.
+-   September 2017, **Reading**, *Becca Gomez Farrell and Friends*, Chapel Hill, NC.
+-   September 2017, **Reading**, *NC Speculative Fiction Night*, Durham, NC.
+-   September 2017, **Reading**, *Shades & Shadows*, Burbank, CA.
+-   September 2017, **Reading**, *SF in SF*, San Francisco, CA.
+-   September 2017, **Reading**, *A Reading of the East Bay Science Fiction and Fantasy Writers Meetup*, Berkeley, CA.
+-   August 2017, **Reading**, *A Trilogy of Sivers, Adventures, and Fantasy*, San Francisco, CA.
+-   August 2017, **Reading**, *Wings Unseen Book Launch*, Oakland, CA.
+-   August 2017, **Reading**, *Feminist Spec Fic Night*, Oakland, CA.
+-   August 2017, **Reading**, *The Cleave: Bay Area Women Writers and the Liminal Center Release of the Little Letters on the Skin*, Oakland, CA*.*
+-   March 2017, **Panelist**, "Social Media for Writers and Authors," *FogCon*, Walnut Creek, CA.
+-   March 2017, **Reading**, "Broad Universe Rapid Fire Reading," *FogCon*, Walnut Creek, CA.
+-   March 2017, **Panelist**, "How Did You Survive the Election?", *FogCon*, Walnut Creek, CA.
+-   Winter 2016, **Reading,** *Get Lit! \#20,* Oakland, CA.
+-   Fall 2016, **Reading,** *Get Lit!* \#18, Oakland, CA. [Video](https://www.facebook.com/iamchristineno/videos/vb.144800029/584018237059/?type=2&theater) (I'm at 40:55).
+-   October 2016, **Reading**, *The Hydra* \#7, Oakland, CA. [Video.](https://www.facebook.com/thegourmez/videos/vb.567409606/10154024179264607/?type=2&theater)
+-   September 2016, **Reading**, *Writers-In-Residence Reading at the Liminal Center*, Oakland, CA. [Video.](https://www.facebook.com/thegourmez/videos/vb.567409606/10153953607244607/?type=2&theater)
+-   September 2016, **Reading**, *Literary Speakeasy*, San Francisco, CA.
+-   July 2016, **Reading**, *Spring Writers in Residence and Workshop Attendees at the Liminal Center*, Oakland, CA.
+-   May 2016, **Reading**, *Spring Writers in Residence at the Liminal Center,* Oakland, CA.
+-   Spring 2016, **Writer-in-Residence**, the Liminal Center, Oakland, CA.
+-   February 2016, **Reading,** "Leap Year," *At the Inkwell*, San Francisco, CA.
+-   May 2015, **Panelist,** "Worldbuilding Through Food," *WisCon 39*, Madison, WI.
+-   May 2015, **Reading,** "Triple the Strength, Triple the Power!", *WisCon 39*, Madison, WI.
+-   November 2014, **Interview,** ["Interview with an Adolescent,"](http://pulpliterature.com/interview-with-an-adolescent/) from a character's perspective in "Thlush-A-Lum," *Pulp Literature*, online.
+-   July 2013, **Interview,** "My Aha Moment," Mutual Omaha's national advertisement campaign, online. [Video.](https://youtu.be/2pS2AxvwWFo)
+-   December 2012, **Reading,** *Winter Tales*, Orange County Public Library, Hillsborough, NC. [Video.](https://youtu.be/RASxC6VbDnw)
+-   June 2011, **Interview,** ["Author Interview & Novella Giveaway: Maya's Vacation by Rebecca Gomez Farrell,"](http://www.iamareader.com/2011/06/author-interview-novella-giveaway-mayas-vacation-by-rebecca-gomez-farrell.html) *I am a Reader, Not a Writer,* online.
+-   April 2011, **Reading,** "Bother," *Bull Spec* Issue \#5 launch, Quail Ridge Bookstore, Raleigh, NC. [Video.](https://vimeo.com/22656890)
+-   April 2011, **Interview,** ["Fridays off the Wall with Rebecca Gomez Farrell,](http://joselynvaughn.blogspot.com/search/label/Rebecca%20Gomez%20Farrell)" Joselyn Vaughn's blog.
+-   March 2011, **Interview,** *Astraea Press* blog. Link defunct, [but archived here](https://rebeccagomezfarrell.com/posts/2012/05/interview-bragging-promoting-mayas-vacation/).
+-   May 2009, **Interview,** ["Interview with Rebecca Gomez Farrell - 3rd place winner in the Summer '09 Flash Fiction Contest,"](https://rebeccagomezfarrell.com/posts/2012/05/interview-bragging-promoting-mayas-vacation/) *the Muffin* blog.
 
-My food writing also garnered a bit of attention in the Research Triangle area, and I've had the honor of participating in a few award-winning blogs. Compiled here are those accolades, appearances, and media mentions:
+### Food & Drink Events and Accolades
 
-- Summer 2016, **Panelist,** "Wine Samples," Wine Bloggers Conference 16, Lodi, CA.
-- Summer 2016, **Guest**, "Wine Antics #WBC16 Livestream," _Wine Antics LIVE_, Internet.
-- Summer 2015, **Official Gold Judge** for [TABELog](http://www.tabelog.us/?area=new-york) restaurant review website.
-- Summer 2015, **Honorable Mention,** "What Scattered in the Wind, _Women on Writing_ Summer '15 Flash Fiction contest.
-- Summer 2014, Made a **Featured User** for [Vivino](http://vivino.com) wine rating application.
-- October 2014, **Interview,** "For RumChata, the Sweet Taste of Success," _Bloomberg.Com_. [Available here.](http://www.businessweek.com/articles/2014-10-09/rumchatas-success-is-game-changer-among-cream-liqueurs)
-- July 2013, **Professional Judge for [NC Competition Dining](http://www.competitiondining.com/)'s Fire in the Triangle.** My write-up of the event [here](https://thegourmez.com/blog/2013-07-24-fire-in-the-triangle-battle-market-vs-new-southern-kitchen/ "Fire in the Triangle: Battle Market vs. New Southern Kitchen"). Mentioned in local press [here](http://www.wral.com/fire-in-the-triangle-heirloom-tomatoes-and-topo-distillery-/12691432/).
-- June 2013, **Finalist**, Best Local Blog for _Carpe Durham_, the _Independent Weekly_'s Annual Best of the Triangle Awards. View the results [here](http://www.indyweek.com/indyweek/best-of-the-triangle-2013-readers-choice-poll-winners-and-finalists/Content?oid=3648410&storyPage=2).
-- December 2012, **Winner** for Frosty's Chocolate Orange Martini, Best Winter Cocktail Competition, Washington Duke Inn. Write-up on the reveal at Durham Magazine [here](http://www.durhammag.com/blogs/durham-magazine-blog/washington-duke-cocktail-recipe-contest/ "Cocktail Reveal"). My blog post with Washington Duke's  bar manager preparing the drink [here](https://thegourmez.com/blog/2012-12-17-frostys-chocolate-orange-martinin-washington-duke/ "Bragging Post").
-- November 2012, **Guest Post**, "This and That Jam Cocktail Syrup," the LoMo Market website. [Available here.](http://lomomarket.com/2012/11/this-and-that-jam-cocktail-syrup/ "LoMo Market")
-- September 2012,**Guest Reviewer**, "Burgerfi," at the _Straight Beef website_. [Available here.](http://thestraightbeef.com/?cat=78 "Burgerfi")
-- July 2012, **Professional Judge for [NC Competition Dining](http://www.competitiondining.com/)'s Fire in the Triangle.** My write-up of the event [here](https://thegourmez.com/blog/2012-06-21-fire-in-the-triangle-round-6/ "Fire in the Triangle Round 6").
-- June 2012 **Finalist**, Best Local Blog for _Carpe Durham_, the _Independent Weekly_'s Annual Best of the Triangle Awards. View the results [here](http://www.indyweek.com/indyweek/best-of-the-triangle-2012-readers-choice-poll-winners-and-finalists/Content?oid=3081364).
-- October 2011, **Interview**, "Southern' Cooking," _Durham Magazine_. Web write-up [here](http://www.durhammag.com/dining/southern-cookin%27/ "Durham Magazine"). [The article scans here.](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2010/10/DurhamMagSouthDurhamInterview.pdf)
-- June 2011  **Finalist**, Best Local Blog for _Carpe Durham_, the _Independent Weekly_'s Annual Best of the Triangle Awards. View the results [here](http://www.indyweek.com/indyweek/best-of-the-triangle-2011-readers-choice-poll-winners/Content?oid=2522344 "Indy Week 2011 Rankings").
-- August/September 2010, **Interview**, "Eat. Blog. Love." on _Carpe Durham'_s origins, _Durham Magazine_. My post with the article scans [here](https://thegourmez.com/blog/2010-08-13-im-in-durham-magazine/ "Interview Bragging – Durham Magazine").
-- September 2009, **Mention**, "Tasty Words," _Durham News Service_, a publication of the Durham Convention & Visitor's Bureau.
-- April 2009_,_ **Mention_,_** _30 Threads_ (Website no longer active). Unfortunately, I have no screen caps for this, my first media mention, but my rating system received special praise from blogger Ginny Skalski at the time.
+Panels, judging opportunities, reviews in new media! This section chronicles the notable events of my food, drink, and travel writing career.
+
+-   Winter 2020, **Judge**, 12th Annual “The TASTE” Awards.
+-   Winter 2017, **Local Guide**, *Stay.com* website.
+-   Winter 2017, **Vidcast Guest**, “Wente & Concannon Vineyards Tasting,” *Wine Antics LIVE*, Livestream.
+-   Winter 2017, **Contributor**, “Mission Ice Cream,” *Localwise* website.
+-   Winter 2017, **Contributor**, “Wine Lovers Gift Guide 2017,” *Krista Lamb Communications* website.
+-   Summer 2017, **Podcast Guest**, “Get to Know a Wine Blogger,” *The Swirl Suite*, Podcast.
+-   Summer 2017, **Judge**, 8th Annual Uncorked wine competition, Tri-Valley Conservancy, Pleasanton, CA.
+-   Summer 2016, **Panelist**, “Wine Samples,” Wine Bloggers Conference 16, Lodi, CA.
+-   Summer 2016, **Vidcast Guest**, “Wine Antics \#WBC16 Livestream,” *Wine Antics LIVE*, Livestream.
+-   Spring 2016, **Contributor**, “4 Beer Gardens in the East Bay with Extra Bang for Your Buck,” *Localwise* website.
+-   Winter 2016, **Contributor**, “Starter Bakery,” *Localwise* website.
+-   Fall 2015, **Contributor**, “A North Oakland Burger Locator,” *Localwise* website.
+-   Fall 2015, **Contributor**, “Behind the Brick Walls of Oakland’s New Mixed-Use Development—The Hive,” *Localwise* blog.
+-   Fall 2015, **Contributor**, “3 Cheese Shops for Your Every Cheese Whim,” *Localwise* website.
+-   Summer 2015, **Official Gold Judge** for *TABELog* restaurant review website.
+-   Summer 2015, **Contributor**, “A Winery Walking Tour in Jack London Square,” *Localwise* website.
+-   Summer 2015, **Contributor**, “The Newest Places to Grab Grub in Temescal”, *Localwise* website.
+-   Summer 2014, **Featured User**, *Vivino* wine rating application.
+-   October 2014, **Interview**, “For RumChata, the Sweet Taste of Success,” *Bloomberg.Com* website.
+-   July 2013, **Judge**, NC Competition Dining‘s Fire in the Triangle.
+-   June 2013, **Finalist**, Best Local Blog for *Carpe Durham*, *the Independent Weekly's* Annual Best of the Triangle Awards.
+-   Spring 2013, **Contributor**, “A Food Tour Through the South’s Tastiest Town,” *WRAL’s* Out and About website.
+-   Spring 2013, **Contributor**, “Sarah’s Empanadas,” *WRAL’s* Out and About website.
+-   Winter 2013, **Contributor**, “Village Burgers,” *WRAL’s* Out and About website.
+-   December 2012, **Winner**, for [Frosty’s Chocolate Orange Martini](https://thegourmez.com/blog/2014-12-17-frostys-chocolate-orange-martini/), Best Winter Cocktail Competition, Washington Duke Inn.
+-   November 2012, **Guest Post**, “This and That Jam Cocktail Syrup,” *the LoMo Market* website.
+-   September 2012, **Guest Reviewer**, “Burgerfi,” at \_the Straight Beef \_website.
+-   Fall 2012, **Contributor**, “Munchez,” *WRAL’s* Out and About website.
+-   Summer 2012, **Contributor**, “Bowbarr,” *WRAL’s* Out and About website.
+-   July 2012, **Judge**, NC Competition Dining‘s Fire in the Triangle.
+-   June 2012, **Finalist**, Best Local Blog for *Carpe Durham*, the *Independent Weekly's* Annual Best of the Triangle Awards.
+-   Summer 2012, **Contributor**, “Bandido’s,” *WRAL’s* Out and About website.
+-   Spring 2012, **Contributor**, “Southern Rail,” *WRAL’s* Out and About website.
+-   Winter 2012, **Contributor**, “604 West Morgan,” *WRAL’s* Out and About website.
+-   October 2011, **Interview**, “Southern’ Cooking,” *Durham Magazine*.
+-   June 2011, **Finalist**, Best Local Blog for *Carpe Durham*, the *Independent Weekly's* Annual Best of the Triangle Awards.
+-   August/September 2010, **Interview**, “Eat. Blog. Love.” on *Carpe Durham’s* origins, *Durham Magazine*.
+-   September 2009, **Mention**, “Tasty Words,” *Durham News Service*, a publication of the Durham Convention & Visitor’s Bureau.
+-   April 2009, **Mention**, *30 Threads* website.
