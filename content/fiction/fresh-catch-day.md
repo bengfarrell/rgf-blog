@@ -17,7 +17,7 @@ layout: layouts/individualworks.njk
 
 I'm quite proud of "Fresh Catch of the Day." This fantasy story appears in _A Quiet Afternoon 2_, the second volume of an anthology series of low-fi speculative fiction from Grace&Victory Publications.
 
-Low-fi spec fic aims "for a peaceful break from a stressful world." Volume 1 contained my "[An Inconvenient Quest,](/creative-works/an-inconvenient-quest/)" and I'm delighted that the G&V team thought "Fresh Catch of the Day" would make a great addition to Volume 2.
+Low-fi spec fic aims "for a peaceful break from a stressful world." Volume 1 contained my "[An Inconvenient Quest,](https://rebeccagomezfarrell.com/fiction/an-inconvenient-quest/)" and I'm delighted that the G&V team thought "Fresh Catch of the Day" would make a great addition to Volume 2.
 
 Often, when I'm writing a new short story, I'm doing it with a challenge in mind. For "Fresh Catch of the Day," that challenge was writing a short story with a solid plot contained within 1,000 words. Oh, I've written plenty stories of that length before! But those have all tended more toward the poetic prose side of my writing, generating atmosphere and character more vividly than the plot.
 

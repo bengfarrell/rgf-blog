@@ -24,4 +24,4 @@ Time for another Six Sentence Sunday post—it's been great fun participating an
 >
 >  
 
-The synopsis and buy links for _Maya's Vacation_ are over at my [Published Works](/?page_id=2462 "Published Works") page, so swing by if you're interested in more on this romance tale of old flames reuniting!
+The synopsis and buy links for _Maya's Vacation_ are over at my [Published Works](https://rebeccagomezfarrell.com/fiction) page, so swing by if you're interested in more on this romance tale of old flames reuniting!
