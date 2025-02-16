@@ -23,7 +23,9 @@ tags:
 
 I may give off an artsy, sophisticated air but as all those who know me can testify, I'm really a soul-sucked television glutton at heart.  I've had many obsessions stem from the world of the glowing screen including Sonny & Brenda (General Hospital), Spike (Buffy, the Vampire Slayer), and most recently, Adam Lambert (American Idol but soon...the world!).  My fascination with The Glittery Alien from Planet Fierce, as dubbed by his own brother, reached great heights this summer.  So much so that I did something I thought I never would.  I bought a ticket to the American Idol concert in Greensboro.  Not only that, but I suckered three friends into going with me.
 
-![Me and three of the girls.](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2009/08/julyaugust-037.jpg) *Me and three of the girls.*
+<div class="caption">
+
+![Me and three of the girls.](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2009/08/julyaugust-037.jpg) *Me and three of the girls.* </div>
 
 Now, I still try to maintain some sort of dignity, so I don't watch American Idol until the performances start getting meaty, around when the Top 10 perform.  This year, Matt Giraud's save was the first episode I watched so I had never heard the first two performers of the night before except for a duet on the finale.
 

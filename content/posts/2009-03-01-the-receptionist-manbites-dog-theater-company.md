@@ -18,7 +18,7 @@ tags:
 **The Receptionist by Adam Bock\
 Manbites Dog Theater Company\
 Downtown Durham\
-2/12-2/28/09\
+2/12–2/28/09\
 Yes, you already missed it.**
 
 I received the flyer for The Receptionist about 2 months ago and was instantly intrigued by the woman at the desk with pens, phones, and staplers at her command.  I felt a kinship with her as most of my post-college career has been in similar positions.  So I asked Ben, "Can we go?"  He said, "Fine" but qualified it with a loud sigh.  Undeterred, I bought tickets and we went Friday night.

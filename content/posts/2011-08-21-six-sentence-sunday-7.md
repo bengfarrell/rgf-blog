@@ -19,4 +19,4 @@ It's been awhile since I've been able to play! Here are my six for the week, fro
 >
 > “Maya—” He choked up at her name. “Are you—are you coming with me?”
 
-If you're intrigued, make sure you scoot on over to [Astraea Press](http://www.astraeapress.com/#ecwid:category=662257&mode=product&product=3028832) to give it  a whirl for $2.99! 
+If you're intrigued, make sure you scoot on over to [Astraea Press](http://www.astraeapress.com/#ecwid:category=662257&mode=product&product=3028832) to give it a whirl for $2.99! 

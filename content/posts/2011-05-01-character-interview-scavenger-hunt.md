@@ -35,7 +35,7 @@ Maya: Oh, that. \[She waves it away with a giggle\]. My husband — ex-husband, 
 
 Me: _That’s hilarious, and don’t tell my husband, but I wouldn’t be surprised if I did something like that one day! Animals are hard to resist. Speaking of things that are hard to resist, what did you say about your first boyfriend recently? Something about how kissing him was like a great glass of tempranillo?_
 
-Maya: Honey, if I were kissing Dean again, I’d drain the bottle. He was — he was something else. It was so long ago when we were together, and I was probably just giddy with first love, you know how that goes, but I can still remember how he made me feel every time we — well, you know. \[She blushes\]. But you can’t keep that sort of relationship forever.  We’ve all got to grow up sometime.
+Maya: Honey, if I were kissing Dean again, I’d drain the bottle. He was—he was something else. It was so long ago when we were together, and I was probably just giddy with first love, you know how that goes, but I can still remember how he made me feel every time we—well, you know. \[She blushes\]. But you can’t keep that sort of relationship forever.  We’ve all got to grow up sometime.
 
 Me: _Do you really think so? Don’t some people manage to capture the magic forever?_
 

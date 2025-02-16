@@ -37,7 +37,9 @@ Apparently, this is a Stellarcon tradition, with a Klingon and an Enterprise cre
 
 ![stellarcon06](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon06.jpg)
 
-![stellarcon08](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon08.jpg) *The esteemed Klingon MC singing Somewhere Over the Rainbow.*
+<div class="caption">
+
+![stellarcon08](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon08.jpg) *The esteemed Klingon MC singing Somewhere Over the Rainbow.* </div>
 
 ![stellarcon05](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon05.jpg)
 
@@ -47,36 +49,60 @@ On Day 2, Ben and I went for a walk around High Point, as I’d never been there
 
  I was surprised by many of the awesome buildings High Point has that are definitely worthy of a shot or two.
 
-<!--more-->
+<div class="caption">
 
-![stellarcon09](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon09.jpg) *The Convention Center.*
+![stellarcon09](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon09.jpg) *The Convention Center.* </div>
 
-![stellarcon10](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon10.jpg) *A nice, new-looking bus station.*
+<div class="caption">
 
-![stellarcon13](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon13.jpg) *The Forbidden City . . . in High Point?!*
+![stellarcon10](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon10.jpg) *A nice, new-looking bus station.* </div>
 
-![stellarcon15](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon15.jpg)
+<div class="caption">
 
-![stellarcon16](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon16.jpg) *A nice statue of John Coltrane. There’s a plaque nearby that plays excerpts from several of his works.*
+![stellarcon13](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon13.jpg) *The Forbidden City . . . in High Point?!* </div>
 
-![stellarcon19](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon19.jpg)*Loved this ship-shaped building.*
+<div class="caption">
+
+![stellarcon15](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon15.jpg) </div>
+
+<div class="caption">
+
+![stellarcon16](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon16.jpg) *A nice statue of John Coltrane. There’s a plaque nearby that plays excerpts from several of his works.* </div>
+
+<div class="caption">
+
+![stellarcon19](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon19.jpg)*Loved this ship-shaped building.* </div>
 
 ![stellarcon21](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon21.jpg)
 
-![stellarcon24](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon24.jpg) *This is a familiar NC sight.*
+<div class="caption">
+
+![stellarcon24](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon24.jpg) *This is a familiar NC sight.* </div>
 
 That evening, we headed to the costume competition, which is always a highlight for me of these events. Here were my favorite costumed competitors.
 
-![stellarcon36](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon36.jpg) *I don’t know who this was supposed to be, but you have to love a wizard with a clawed wand..*
+<div class="caption">
 
-![stellarcon40](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon40.jpg) *Oh, Arthur Dent. Who doesn’t love you?*
+![stellarcon36](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon36.jpg) *I don’t know who this was supposed to be, but you have to love a wizard with a clawed wand..* </div>
 
-![stellarcon42](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon42.jpg) *A Dharma worker—don’t let him know you’re looking!*
+<div class="caption">
 
-![stellarcon45](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon45.jpg) *A lovely Star Wars costume.*
+![stellarcon40](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon40.jpg) *Oh, Arthur Dent. Who doesn’t love you?* </div>
 
-![stellarcon48](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon48.jpg) *I couldn't leave out the creepy clown from New Who.*
+<div class="caption">
 
-![stellarcon50](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon50.jpg) *And yes, that’s Raven again, looking like the smashing steampunk character he is.*
+![stellarcon42](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon42.jpg) *A Dharma worker—don’t let him know you’re looking!*</div>
 
-I’ll post some more pictures on our photo site eventually, but I’m even farther behind updating there. Oh, the torment of sharing too much personal information over the interwebs--my digital life can never keep up with my real one.
+<div class="caption">
+
+![stellarcon45](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon45.jpg) *A lovely Star Wars costume.* </div>
+
+<div class="caption">
+
+![stellarcon48](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon48.jpg) *I couldn't leave out the creepy clown from New Who.* </div>
+
+<div class="caption">
+
+![stellarcon50](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2011/04/stellarcon50.jpg) *And yes, that’s Raven again, looking like the smashing steampunk character he is.* </div>
+
+I’ll post some more pictures on our photo site eventually, but I’m even farther behind updating there. Oh, the torment of sharing too much personal information over the interwebs—my digital life can never keep up with my real one.
