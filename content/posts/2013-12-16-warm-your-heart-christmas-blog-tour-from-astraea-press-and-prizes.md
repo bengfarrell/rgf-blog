@@ -35,7 +35,9 @@ So... MERRY CHRISTMAS from Astraea Press and our authors. Thanks for a great yea
 
 Here is a Christmas book from bestselling author Patricia Kiyono:
 
-![The Christmas Phoenix by Patricia Kiyono](https://d602mxa74hbsi.cloudfront.net/christmas-phoenix.jpg) The Christmas Phoenix by Patricia Kiyono
+<div class="caption">
+
+![The Christmas Phoenix by Patricia Kiyono](https://d602mxa74hbsi.cloudfront.net/christmas-phoenix.jpg) The Christmas Phoenix by Patricia Kiyono </div>
 
 > Jess Tate is trying to make a life for herself and her teenage son after her husband's sudden death.  Running the family’s struggling landscape business in Northern Michigan has been hard work, and her son hasn’t been much help.  She’s managed to get by, learning to run the big equipment herself, but between snowplowing early in the mornings and working her daytime job in town, she often wonders if there will ever be more to life than endless work.
 

@@ -44,4 +44,6 @@ Here are what readers have to say so far:
 
 I can't leave you without a picture of me at the event, now can I? Enjoy!
 
-![john j york fan club weekend](https://d602mxa74hbsi.cloudfront.net/2013_Main_Event243.JPG) Me with John J. York
+<div class="caption">
+
+![john j york fan club weekend](https://d602mxa74hbsi.cloudfront.net/2013_Main_Event243.JPG) Me with John J. York </div>

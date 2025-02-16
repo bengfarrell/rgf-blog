@@ -22,7 +22,9 @@ tags:
 
 After the publication of [Maya's Vacation](https://rebeccagomezfarrell.com/fiction/mayas-vacation), I took part in the first Feature Friday story for Astraea Press. Feature Friday is a collaboration among a bunch of Astraea Press authors to write an ongoing story with three words as a starting point. Each Friday, a different author tackled the next leg of the story, taking it in whatever direction they wanted to. As you might imagine, my contribution managed to veer the story into the paranormal, just a little bit. The words that prompted us were _llama, dating,_ and _waterfall._
 
-![llama-obey](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/07/llama-obey.jpg) *Our story mascot.*
+<div class="caption">
+
+![llama-obey](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2012/07/llama-obey.jpg) *Our story mascot.* </div>
 
 You can start the story from [the beginning here](http://astraeapress.blogspot.com/2011/04/feature-friday-astraea-press.html "Feature Friday"), or you can just jump in for my contribution. Here's your teaser of the story's beginning, written by Cheryl Grey:
 

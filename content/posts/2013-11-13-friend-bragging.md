@@ -31,7 +31,7 @@ Let's start with Katrina Rasbold, webmistress of _All My Writers_ and writer of 
 
 ![energy magic](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/11/energy-magic-400x500.jpg)
 
-\—to a memoir about her life growing up in Kentucky that's on my must-read list.
+—to a memoir about her life growing up in Kentucky that's on my must-read list.
 
 ![leaving kentucky](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2013/11/leaving-kentucky-312x500.jpg)
 

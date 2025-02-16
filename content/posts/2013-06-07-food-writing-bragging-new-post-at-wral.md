@@ -34,7 +34,9 @@ tags:
 
 If you were on vacation last week, you may have missed my newest post at WRAL's Out and About blog. I was, and I almost missed it myself! This one is on all the amazing foodstuffs you can find within a block of what I call Durham's Bermuda Triangle for foodies, also known as the intersection of Mangum and Parrish streets.
 
-![](http://wwwcache.wral.com/asset/entertainment/out_and_about/2013/05/17/12458409/17311-Parrish_Street_12-500x333.jpg) Pain aux pistaches at Loaf.
+<div class="caption">
+
+![](http://wwwcache.wral.com/asset/entertainment/out_and_about/2013/05/17/12458409/17311-Parrish_Street_12-500x333.jpg) Pain aux pistaches at Loaf. </div>
 
 > # Take a food tour through the South's Tastiest Town
 >

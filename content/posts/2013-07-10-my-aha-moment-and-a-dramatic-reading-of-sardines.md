@@ -29,7 +29,9 @@ tags:
 
 A few weeks back, I recorded my aha moment. How does one record an aha moment? Funny you should ask, because I didn't know either until the aha moment team asked me to come in and do a little video session with them for their national campaign. The "they" in all this is Mutual of Omaha, and "my aha moment" is an ad campaign they've been running for the past couple of years. It's a clever way to do promotions--a team of videographers tours the country and invites locals to come into their Airstream and share the aha moments that have set them down whatever path they are pursuing, whether charity work or a career.
 
-![aha moment logo](https://d602mxa74hbsi.cloudfront.net/aha-moment.jpg) Borrowed from the "my aha moment" Facebook page.
+<div class="caption">
+
+![aha moment logo](https://d602mxa74hbsi.cloudfront.net/aha-moment.jpg) Borrowed from the "my aha moment" Facebook page. </div>
 
 You can peruse all the videos and commericals they've produced at their website. I participated at their Raleigh, NC, stop and shared about my writing and the moment when I realized I was a writer for real...at the tender age of 9 (maybe 10). Watch my aha moment below!
 
