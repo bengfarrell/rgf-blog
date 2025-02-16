@@ -246,7 +246,8 @@ ul.image-item {
 ul.image-item.ltr li,
 ul.image-item li {
 	display: flex;
-	border: 1px solid var(--color-gray-20);
+	border: 3px solid var(--color-gray-50);
+	border-radius: 8px;
 	padding: 1em;
 	align-self: stretch;
 }
@@ -519,6 +520,9 @@ nav li a[href]:visited {
 	width: 33%;
 }
 
+#upcoming-list li {
+	flex-direction: column;
+}
 
 .individual-works-image {
 	max-width: 500px;
