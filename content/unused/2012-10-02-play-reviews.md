@@ -5,7 +5,7 @@ date: "2012-10-02"
 
 I haven't done many play reviews since I started blogging actively in 2009, but there have been a few. I've seen a great number of plays and musicals, but I have to be truly inspired—or just really excited to see a specific actor—to take the time to give the play its due with a review. They have appeared in _the Gourmez_ and _All My Writers_.
 
-- [_The Receptionist_, Manbites Dog Theater, Durham, February 2009](/blog/2009/03/the-receptionist-manbites-dog-theater-company/ "The Receptionist Review")
+- [_The Receptionist_, Manbites Dog Theater, Durham, February 2009](https://rebeccagomezfarrell.com/posts/2009-03-01-the-receptionist-manbites-dog-theater-company/ "The Receptionist Review")
 
 - [_How to Succeed In Business Without Really Trying,_ Al Hirschfield Theater, NYC, January 2012](http://allmywriters.net/?p=3516 "How to Succeed in Business Without Really Trying review")
 

@@ -16,7 +16,7 @@ tags:
   - "wives-tales"
 ---
 
-I'm excited to announce that ["Hobgoblin,"](/creative-works/hobgoblin/) my flash fiction take on an old fairy tale trope, appears in _Whigmaleeries & Wives' Tales_ from Jayhenge Publishing! This anthology, which just released last week, is a collection of over 400 pages of new fairy tale takes - or retellings of lost knowledge, if you'd like. 😉 You can [purchase it here](https://www.amazon.com/dp/B08HGL7LNY/ref=rdr_kindle_ext_tmb) at Amazon, in ebook or paperback formats. Here's the backcover blurb, and a little bit of the introduction, which I quite like:
+I'm excited to announce that ["Hobgoblin,"](https://rebeccagomezfarrell.com/fiction/hobgoblin/) my flash fiction take on an old fairy tale trope, appears in _Whigmaleeries & Wives' Tales_ from Jayhenge Publishing! This anthology, which just released last week, is a collection of over 400 pages of new fairy tale takes - or retellings of lost knowledge, if you'd like. 😉 You can [purchase it here](https://www.amazon.com/dp/B08HGL7LNY/ref=rdr_kindle_ext_tmb) at Amazon, in ebook or paperback formats. Here's the backcover blurb, and a little bit of the introduction, which I quite like:
 
 > Superstitions, Legends, Folklore and Old Wives' Tales--where do they come from? How did they get started? What's the "real" reason we throw spilled salt over our shoulder or avoid stepping on a crack? What were the old women really afraid of when someone broke a mirror? Delve into the imagination and enjoy our theories!
 >

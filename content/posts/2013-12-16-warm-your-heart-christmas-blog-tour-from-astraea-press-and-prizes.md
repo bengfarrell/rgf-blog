@@ -21,7 +21,7 @@ tags:
   - "warm-your-heart"
 ---
 
-_Hello readers, I have a guest post for you today. Astraea Press, publisher of my romance novella,_ [Maya's Vacation,](/creative-works/mayas-vacation/ "Maya's Vacation Info") _is having a blog tour to promote all of their winter holidays books. Today, I'm playing host! So read on for a message from Astraea Press and a synopsis of a pair of Astraea's holiday books. You'll also find out how to into to win a free $50 giftcard from Astraea and a free Astraea book of your choice!_
+_Hello readers, I have a guest post for you today. Astraea Press, publisher of my romance novella,_ [Maya's Vacation,](https://rebeccagomezfarrell.com/fiction/mayas-vacation/ "Maya's Vacation Info") _is having a blog tour to promote all of their winter holidays books. Today, I'm playing host! So read on for a message from Astraea Press and a synopsis of a pair of Astraea's holiday books. You'll also find out how to into to win a free $50 giftcard from Astraea and a free Astraea book of your choice!_
 
 Merry Christmas and Happy Holidays from Astraea Press! We love this time of year!Is it the cooler weather? The fires in the fireplace? Family gatherings? Or our sweethearts under the mistletoe.... We do love mistletoe ;)
 

@@ -18,7 +18,7 @@ tags:
   - "short-stories"
 ---
 
-As those of you who've read my short story, ["The Cold, Hard Facts of Life,"](/blog/2016/02/the-cold-hard-facts-of-life-horror-story/) already know, the One Word Story Project didn't quite come together this year. But that doesn't mean that its participants didn't write great fiction! So here are links to two more of the short stories written for the project, hosted on their authors' websites for free. Like I did, they wanted to release these one-word-inspired stories out into the world!
+So the One Word Story Project didn't quite come together this year. But that doesn't mean that its participants didn't write great fiction! So here are links to two more of the short stories written for the project, hosted on their authors' websites for free. Like I did, they wanted to release these one-word-inspired stories out into the world!
 
 ![One Word Story Free Fiction](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/02/one-word-story-graphic-banner-500x73.jpg)
 

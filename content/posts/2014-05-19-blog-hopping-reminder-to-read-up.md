@@ -14,7 +14,7 @@ tags:
   - "margaret-s-mcgraw"
 ---
 
-Just a quick reminder that you can now check out the responses of the three writers I tagged in [my post last week](/blog/2014/05/blog-hopping-today/ "Blog Hopping") on my writing processes. The three lovely authors who agreed to be next in my chain are as follows:
+Just a quick reminder that you can now check out the responses of the three writers I tagged in [my post last week](https://rebeccagomezfarrell.com/posts/2014-05-12-blog-hopping-today/ "Blog Hopping") on my writing processes. The three lovely authors who agreed to be next in my chain are as follows:
 
 - Krysten Lindsay Hager, a new YA romance author with Astraea Press. Read her responses [here](http://www.krystenlindsay.com/blog).
 - Margaret S. McGraw, a fantasy and science fiction writer with a great YA fantasy novel nearing the end of edits. Margaret's post is going up late tonight, so check [here](http://margaretsmcgraw.blogspot.com/) later on or tomorrow for it.

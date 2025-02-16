@@ -65,7 +65,7 @@ Finally,
 
 #### "What Scattered in the Wind"
 
-This piece of horror flash fiction, done in a poetic prose style, tells of a woman struggling with her biggest regret in life and sentenced to forever re-remember it. It appears in the August 2017 chapbook collection, _Little Letters on the Skin,_ from Cleave: Bay Area Writers and the Liminal Center. [More info here](/creative-works/what-scattered-in-the-wind-in-little-letters-on-the-skin-a/).
+This piece of horror flash fiction, done in a poetic prose style, tells of a woman struggling with her biggest regret in life and sentenced to forever re-remember it. It appears in the August 2017 chapbook collection, _Little Letters on the Skin,_ from Cleave: Bay Area Writers and the Liminal Center. [More info here](https://rebeccagomezfarrell.com/fiction/what-scattered-in-the-wind).
 
  
 

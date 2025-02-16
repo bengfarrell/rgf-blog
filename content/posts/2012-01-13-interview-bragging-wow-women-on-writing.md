@@ -20,7 +20,7 @@ tags:
   - "wow"
 ---
 
-Two weeks ago, [I posted the first](/blog/2012/01/fiction-bragging-last-complaint/?utm_source=rss "The Gourmez Bragging Series") in my series of self-promotional blogs on Thursdays, titled the Bragging series, because I always feel less self-conscious about anything if I just embrace it fully. This week, I'm pointing you toward the interview I did with WOW! Women on Writing as part of placing third with the story I shared two weeks ago, _Last Complaint._ Here's a little snippet from the interview where I describe what some of my thoughts were in forming the main character:
+Two weeks ago, [I posted the first](https://rebeccagomezfarrell.com/posts/2012-01-05-fiction-bragging-last-complaint "The Gourmez Bragging Series") in my series of self-promotional blogs on Thursdays, titled the Bragging series, because I always feel less self-conscious about anything if I just embrace it fully. This week, I'm pointing you toward the interview I did with WOW! Women on Writing as part of placing third with the story I shared two weeks ago, _Last Complaint._ Here's a little snippet from the interview where I describe what some of my thoughts were in forming the main character:
 
 > **WOW: That's so true. Creating a hook that keeps readers invested is the goal. Your creation of the main character is brilliant. She's self-centered, lonely, demanding, and vulnerable. That's a powerful combination. What does her attitude say about the state of humanity?**
 >

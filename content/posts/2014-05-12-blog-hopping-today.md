@@ -66,7 +66,7 @@ I won't lie, though, I also write speculative fiction because there's less press
 
 **4\. How does my writing process work?**
 
-Not by listening to music! Learning that other writers often have soundtracks for their work was an interesting discovery for me when I first started doing blog hops to promote my romance novella, [Maya's Vacation](/creative-works/mayas-vacation/). I prefer silence to let my thoughts flow.
+Not by listening to music! Learning that other writers often have soundtracks for their work was an interesting discovery for me when I first started doing blog hops to promote my romance novella, [Maya's Vacation](https://rebeccagomezfarrell.com/fiction/mayas-vacation/). I prefer silence to let my thoughts flow.
 
 ![Maya's Vacation, published by Astraea Press.](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2014/05/Mayas-Vacation-300-x-450-200x300.jpg) _*Maya's Vacation,_ published by Astraea Press.*
 
