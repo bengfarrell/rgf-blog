@@ -25,7 +25,9 @@ Some of you may remember that I wrote _Wings Unseen_ as a standalone novel. Or
 
 Luckily, Meerkat Press took the risk on _Wings Unseen_ as a standalone book, and I’ve always been happy that I could tell people that the story is complete in and of itself.
 
-![wings unseen rebecca gomez farrell meerkat press cover fantasy](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/01/9781946154002-WingsUnseen-CoverFINAL_03-692x1024.jpg) Such a shiny, pretty debut novel!
+<div class="caption">
+
+![wings unseen rebecca gomez farrell meerkat press cover fantasy](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/01/9781946154002-WingsUnseen-CoverFINAL_03-692x1024.jpg) Such a shiny, pretty debut novel! </div>
 
 But after its release, my publisher, Tricia Meeks, the driving force behind Meerkat, mentioned that she’d be interested in a second book. So of course the wheels of a new story for Janto, Vesperi, and Serra began turning!
 
