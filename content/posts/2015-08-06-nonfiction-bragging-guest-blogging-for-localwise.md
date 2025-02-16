@@ -30,11 +30,15 @@ That's great, Becca! But what does that have to do with you? You write about foo
 
 So true. But one of the most appealing aspects of Localwise is their commitment to building community in the Bay Area, because knowing your neighbor and neighborhood business owner generally tends to improve everyone's quality of life. As part of that goal, Localwise runs a blog that highlights local businesses, job profiles, and the food & drink scene. Why that last item? Because food industry positions make up around 2/3 of Localwise's job listings at any given time. That's right--2/3! We like to eat here, folks. We like to eat a lot.
 
-![the gourmez barcelona bubbly](https://s3.amazonaws.com/thegourmez-wpmedia/2015/08/becca-barcelona-500x309.jpg) And drink. Definitely drink too.
+<div class="caption">
+
+![the gourmez barcelona bubbly](https://s3.amazonaws.com/thegourmez-wpmedia/2015/08/becca-barcelona-500x309.jpg) And drink. Definitely drink too. </div>
 
 Perhaps you can see where I come in now? Along with a few other Bay Area food & drink bloggers, I'll be contributing short articles to the blog on at least a monthly basis. My first one touched on three of the newest food joints in Oakland's Temescal neighborhood.
 
-![](https://s3.amazonaws.com/thegourmez-wpmedia/2015/08/IMG_5055-500x334.jpg) The chicken-cherry sausage at Rosamunde Sausage Grill.
+<div class="caption">
+
+![](https://s3.amazonaws.com/thegourmez-wpmedia/2015/08/IMG_5055-500x334.jpg) The chicken-cherry sausage at Rosamunde Sausage Grill.</div>
 
 It started like this....
 

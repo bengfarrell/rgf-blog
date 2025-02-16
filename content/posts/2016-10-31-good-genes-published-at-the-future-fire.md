@@ -27,7 +27,9 @@ tags:
 
 I am super glad it was published just in time for Halloween as it's a spooky story, and a bit of an epic one, combining a modern-day tale with a narrative from the Wild West stage of American history. Sometimes, a place a refuge may bring more horror than the past left behind...
 
-![Good Genes Artist Pear Nuallak](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/10/pn-goodgenes1.jpg) Artwork by Pear Nuallak
+<div class="caption">
+
+![Good Genes Artist Pear Nuallak](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/10/pn-goodgenes1.jpg) Artwork by Pear Nuallak </div>
 
 The illustration posted above is one of two that accompany "Good Genes" in _the Future Fire_. Both are done by Pear Nuallak, and I love when my stories get a little pictorial boost! Read the magazine online to see the second one! [Here's the link directly to the story](http://futurefire.net/2016.38/fiction/goodgenes.html). And here's a new teaser for you:
 

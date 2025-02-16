@@ -35,4 +35,6 @@ I am happy to do my part in this battle against the Hydra and will be reading at
 
 But an in-person audience is always best! Hope to see you there.
 
-![cat yawning mazu](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/10/mazu-333x500-333x500.jpg) *Mazu gives away the ending of one of my tales...*
+<div class="caption">
+
+![cat yawning mazu](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/10/mazu-333x500-333x500.jpg) *Mazu gives away the ending of one of my tales...* </div>

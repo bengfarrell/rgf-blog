@@ -43,4 +43,6 @@ There is a great set of one-day classes on the agenda throughout the fall, inclu
 
 Pricing for the one-day intensive sessions depends on the length of the course, whether a couple of hours or a full day. Whatever course or workshop you choose, Liminal will greet you with welcoming, supportive arms. Or at least that was my experience co-working at Liminal with these lovely women this last spring.
 
-![Liminal Coworking Oakland](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/09/liminal-coworking-500x281.jpg) *Coworking at Liminal with Aqueila and Terrilyn!*
+<div class="caption">
+
+![Liminal Coworking Oakland](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/09/liminal-coworking-500x281.jpg) *Coworking at Liminal with Aqueila and Terrilyn!* </div>

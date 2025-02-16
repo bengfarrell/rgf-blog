@@ -16,7 +16,9 @@ tags:
 
 Announcements of upcoming short story publications don't normally take me right up until they're available, but ... I've been busy, y'all. Busy in the greatest of ways, career-wise, which is a wonderful feeling but also means I don't keep my various websites as updated as I'd like with the most current information. So forgive me for posting this announcement just a couple of weeks before the story itself will be available...
 
-![The Future Fire magazine stories](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/10/f37cover.jpg) Issue #37
+<div class="caption">
+
+![The Future Fire magazine stories](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/10/f37cover.jpg) Issue #37 </div>
 
 ...that said, I am so excited that "Good Genes" has found a home in upcoming Issue #38 of [the Future Fire!](http://futurefire.net/index.html) This magazine has been running strong since 2005, making it quite long-lived among electronic fiction magazines, no matter the genre. "Good Genes" is one of my favorite short stories, though it's had a bit of a struggle to find the right publisher as, at 10,000 words, it's much longer that many magazines are willing to publish. I am excited that _The Future Fire_ has no fear of lengthier short stories, and I hope you all will enjoy this horror and Weird West mash-up tale in which a modern-day family and a group of 1850s settlers find out that a chosen place of refuge is sometimes scarier than the danger left behind.
 

@@ -25,7 +25,9 @@ tags:
 
 The last week of September will be a busy one for me! I will be participating in two groups readings, and I'd love if you came out to support me and the great slates of other authors sharing their work at these series.
 
-![Rebecca Gomez Farrell reading At the Inkwell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/09/12783620_967119543341966_4790320726063661752_o-375x500.jpg) *Me, reading last spring at Alley Cat Books for the _At the Inkwell_ literary series.*
+<div class="caption">
+
+![Rebecca Gomez Farrell reading At the Inkwell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/09/12783620_967119543341966_4790320726063661752_o-375x500.jpg) *Me, reading last spring at Alley Cat Books for the _At the Inkwell_ literary series.* </div>
 
 I will read excerpts from my short stories released this fall, though I'm not sure which one I'll do on which night quite yet. Those stories are "Mixed Signals, or, Learning How to Speak," a humurous sci-fi tale that is available now in Issue #9 of _Typehouse Literary Magazine_ ([info on how to get it here](https://rebeccagomezfarrell.com/fiction/good-genes), and "Good Genes," a horror/Weird West story that will appear in _the Future Fire's_ Issue #38, publication set for mid-October.
 

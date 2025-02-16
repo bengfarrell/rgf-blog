@@ -17,7 +17,7 @@ tags:
   - "wine-blogger"
 ---
 
-Catching up on appearances I've made over the past couple of years for food and fiction, and lo and behold! I never promoted my episode of _the Swirl Suite_ podcast from last year! I love this group, or "squad" as they call themselves, of female wine and spirit professionals of color, based mainly in the DC area. Last year, they did a series, "Get to Know a Wine Blogger," and I was thrilled to be asked to take part. Surprisingly, the only subject that's out of date is that my fantasy novel, _Wings Unseen_, is no longer coming out but has been out for a year (pick it up on the right -->). Oh, and we're a year past that Wine Bloggers Conference in Santa Rosa as well. Details, details. Otherwise, it's a pretty fun interview!
+Catching up on appearances I've made over the past couple of years for food and fiction, and lo and behold! I never promoted my episode of _the Swirl Suite_ podcast from last year! I love this group, or "squad" as they call themselves, of female wine and spirit professionals of color, based mainly in the DC area. Last year, they did a series, "Get to Know a Wine Blogger," and I was thrilled to be asked to take part. Surprisingly, the only subject that's out of date is that my fantasy novel, _Wings Unseen_, is no longer coming out but has been out for a year. Oh, and we're a year past that Wine Bloggers Conference in Santa Rosa as well. Details, details. Otherwise, it's a pretty fun interview!
 
 ![swirl suite, podcast, wine podcast](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/11/13225810/Swirl-Suite-1024x1021.jpg)
 

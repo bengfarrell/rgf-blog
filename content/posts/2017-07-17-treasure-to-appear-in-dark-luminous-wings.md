@@ -25,7 +25,9 @@ For the first time ever, I will have a short story included in an anthology! In 
 
 And, I think that's enough info on "Treasure" for now. ;) If you've read an early ARC of _Wings Unseen_ already, then you know those same questions are ones that factor heavily into Vesperi's point of view in the book, though I might argue that figuring out how to deal with a culture so foreign to one's own is also a hurdle for Janto and Serra, the two other main POV characters. Challenging our perspectives of how the world works can be one of the hardest quests there is. Obviously, the concept was strongly on my mind then; I began writing _W__ings Unseen_ in earnest around the same time I drafted "Treasure." Both tales also heavily feature creatures with menacing wings. So does my horror short ["Thlush-A-Lum"](https://rebeccagomezfarrell.com/fiction/thlush-a-lum/) now that I think of it...
 
-![city of frogs paperhand puppet intervention](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/07/cityoffrogs29-500x333.jpg) I guess I have a thing for spooky wings.
+<div class="caption">
+
+![city of frogs paperhand puppet intervention](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/07/cityoffrogs29-500x333.jpg) I guess I have a thing for spooky wings. </div>
 
 Before Pole to Pole's acceptance of "Treasure," I submitted it out a total of 18 times, resulting in 1 author withdrawal, 7 form rejections, and 9 personal rejections, including 2 from pro-level speculative fiction markets that got THISCLOSE to publishing the story—and I mean that! The editors of both mags told me they held onto it for so long because they'd been hoping to find a place for it but ultimately could not. I also significantly rewrote the story at least twice in the six years since I first sent it out. After all that, I think _Dark Luminous Wings_ is truly where this story was destined to go as I can't imagine a more perfect fit for it than what their call for submissions detailed:
 

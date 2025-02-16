@@ -29,7 +29,9 @@ tags:
 
 Hey, it's not a holiday season without an obligatory "Buy My Work!" post from an author. I swear it's in the contracts we sign in blood with our publishers...somewhere...I seem to have misplaced them.
 
-![Oh, I think I remember how...](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/12/stocks-500x500.jpg) *Oh, I think I remember where...*
+<div class="caption">
+
+![Oh, I think I remember how...](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/12/stocks-500x500.jpg) *Oh, I think I remember where...* </div>
 
 In 2015, I added two new opportunities to purchase my work, which is one way of saying some very lovely people agreed to include me in their collections—some even paid me for it! One is a short story in a magazine and one is a contribution to a cookbook...a cookbook with quite illustrious co-contributors from the Speculative Fiction galaxy. Being a member of a professional organization comes with some perks, just sayin'.
 
@@ -43,7 +45,7 @@ Fran Wilde and Cat Rambo edited this collection of 150+ recipes from speculative
 
 **2\. "Thlush-A-Lum" in _PULP Literature_ Issue #5**
 
-![](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/12/Pulp-Literature-5-332x500.jpg)
+![pulp literature issue 5](https://d602mxa74hbsi.cloudfront.net/Pulp-Literature-5.JPG)
 
 "Thlush-A-Lum" is pure horror that would qualify as flash fiction in most markets. The story came about when I challenged myself to write something more focused on the sense of sound than the other four I more commonly use in my writing. Many of those sounds are inspired by what I could hear from my own Southern bedroom window…and a few sounds that I swear I’ve been able to hear no matter where I’ve lived.
 

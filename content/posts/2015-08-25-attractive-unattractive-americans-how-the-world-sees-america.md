@@ -32,7 +32,9 @@ I don’t do many book reviews, but this one’s subject matter caught my eye. �
 
 Zografos tackled that question through seven years of collecting anecdotes from and interviewing travelers and locals throughout the world, from Malaysia to the United Arab Emirates to Costa Rica. He has a direct, honest, and contemplative writing style.
 
-![René Zografos, photo provided by Smith Publicity.](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/08/head_300dpi-333x500.jpg) *René Zografos, photo provided by Smith Publicity.*
+<div class="caption">
+
+![René Zografos, photo provided by Smith Publicity.](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2015/08/head_300dpi-333x500.jpg) *René Zografos, photo provided by Smith Publicity.* </div>
 
 The book is organized as a series of essays, some by Zografos and others by invited writers, on different topics related to the American identity. Interspersed with the essays are short quotes from interviewees in different geographical locales. Through this structural backbone, common themes arise that sometimes seem in direct conflict with each other. For instance, an admiration for American manners and our optimistic, you-can-do-it! attitudes comes through just as strongly as a disdain for American superficiality and lack of authenticity in our friendships. I found the comments about superficiality especially intriguing being as I come from the region of the USA that Americans themselves have deemed the most superficial: Southern California. So it was especially interesting to see so many travelers say Americans in general don’t have genuine friendships or make real connections with other people. I’m still chewing the cud on that one. Do people in other countries use that expression?
 

@@ -51,4 +51,6 @@ Go read! And please share with me your thoughts on the story. Or better yet, rev
 
 "Mixed Signals," while I hope it entertains all you lovely readers, is not all I have coming up the pipeline for you. Stay tuned for more announcements throughout September! In the meantime, have another picture of an important piece of the "Mixed Signals" narrative.
 
-![Image from the World Scout Shop](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/09/whistle-500x400.jpg) *Image from the World Scout Shop*
+<div class="caption">
+
+![Image from the World Scout Shop](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2016/09/whistle-500x400.jpg) *Image from the World Scout Shop* </div>
