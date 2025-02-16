@@ -158,6 +158,14 @@ nav ul {
 	list-style: none;
 }
 
+header ul.social img {
+	filter: invert();
+}
+
+header ul.social {
+	margin-left: auto;
+}
+
 header ul li,
 footer ul li,
 nav ul li {
@@ -177,6 +185,7 @@ footer ul li svg {
 
 nav {
 	padding: 15px;
+	display: flex;
 }
 
 nav ul li {
