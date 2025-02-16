@@ -4,7 +4,7 @@ date: "2009-02-16"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/Battlestar.jpg"
 
 categories: 
-  - "television"
+  - "essays""
   - "writing"
   - "writing-thoughts"
 tags: 
