@@ -27,7 +27,11 @@ $15 includes the book, and my signature and a personal message, filled out from 
 
 **This price is only available until 12/16**. After that, I won't be able to ship via media mail in time for Christmas. But I am happy to use a more expensive shipping option to get it to your loved one for opening under the tree!
 
+<div class="caption">
+
 ![wings unseen, loki, cats](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/12/Loki-Wings-Unseen-2-500x375.jpg) *Loki guaranteed for good cuddling.*
+
+</div>
 
 How to order? You can contact me via direct message on [Facebook,](https://www.facebook.com/thegourmez) or or [Instagram](https://www.instagram.com/thegourmez/) or just email me at [becca@thegourmez.com](mailto:becca@thegourmez.com). We'll discuss payment and shipping methods - either Paypal, Square, or Venmo will work, and I am amenable to other shipping options, but the price will reflect those other options.
 

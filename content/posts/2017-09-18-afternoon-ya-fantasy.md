@@ -14,7 +14,7 @@ I lived in Durham, NC, for eight years, and it's where my writing career got its
 
 **An Afternoon of YA Fantasy**\
 Saturday, 9/23, 2 pm\
-[Barnes & Noble,](https://www.barnesandnoble.com/)\
+[Barnes & Noble](https://www.barnesandnoble.com/)\
 Cary
 
 ![tony daniel, rebecca gomez farrell, barnes & noble](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/09/Cary-BN2-500x281.jpg)

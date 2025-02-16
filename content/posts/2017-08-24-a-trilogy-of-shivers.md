@@ -25,7 +25,7 @@ tags:
 ---
 
 8/27 @ 3 pm\
-[A Trilogy of Shivers, Adventures, and Fantasy,](https://www.facebook.com/events/244188962767472)\
+[A Trilogy of Shivers, Adventures, and Fantasy](https://www.facebook.com/events/244188962767472)\
 Borderlands Books\
 San Francisco, CA
 

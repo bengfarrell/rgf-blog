@@ -14,7 +14,7 @@ I lived in Durham, NC, for eight years, and it's where my writing career got its
 
 **Becca Gomez Farrell and Friends**\
 Wednesday, 9/20, 7 pm\
-[Flyleaf Books,](http://www.flyleafbooks.com/addresshours)\
+[Flyleaf Books](http://www.flyleafbooks.com/addresshours)\
 Chapel Hill
 
 ![natania barron, margaret s mcgraw, rebecca gomez farrell, flyleaf books](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2017/09/Flyleaf-FB-500x188.jpg)

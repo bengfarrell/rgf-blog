@@ -19,7 +19,7 @@ tags:
   - "wings-unseen"
 ---
 
-### A Reading of the East Bay Science Fiction and Fantasy Writers Meetup Group\
+### A Reading of the East Bay Science Fiction and Fantasy Writers Meetup Group
 Where: Mad Monk's Center for Anachronistic Media, Berkeley\
 When: 9/2 at 1 pm
 

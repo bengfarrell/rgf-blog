@@ -22,6 +22,9 @@ That, of course, is fortunate for me, being a speculative fiction writer. I've m
 
 Nick Mamatas, J Curtis, Jackie Haudek, Samuel Walsh, and myself will be the inaugural Terra Incognita readers. Enticements include a free drawing for Nomadic Press poetry chapbooks, and the great refreshments at the Octopus. Donations are welcome, and I'll have copies of _Wings Unseen_ for sale.
 
-If you'd like, [sign up at the Facebook even](https://www.facebook.com/events/668221330234735/)t. Or just show up! I hope to see you there.
+If you'd like, [sign up at the Facebook event](https://www.facebook.com/events/668221330234735/). Or just show up! I hope to see you there.
+
+<div class="caption">
 
 ![octopus literary salon, book launch, wings unseen, rebecca gomez farrell](https://d2ypg8o05lff0b.cloudfront.net/wp-content/uploads/sites/3/2018/01/Octopus-Launch-25-500x375.jpg) *Last time I read at the Octopus Literary Salon.*
+</div>
