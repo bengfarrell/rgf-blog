@@ -512,10 +512,6 @@ nav li a[href]:visited {
 	width: 33%;
 }
 
-#upcoming-list li {
-	flex-direction: column;
-}
-
 .individual-works-image {
 	max-width: 500px;
 }
