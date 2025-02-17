@@ -530,8 +530,20 @@ nav li a[href]:visited {
 		flex-direction: column;
 	}
 
+	header a[href].logo {
+		border-right: none;
+		padding-right: 0;
+		padding-left: 0;
+		margin: 0;
+	}
+
+	header nav ul li {
+		text-align: center;
+	}
+
 	header {
 		flex-direction: column;
+		text-align: center;
 	}
 
 	#page-container {
