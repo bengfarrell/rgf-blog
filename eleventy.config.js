@@ -44,7 +44,7 @@ module.exports = function(eleventyConfig) {
 			item.data.categories.includes('reading') ||
 			item.data.categories.includes('readings') ||
 			item.data.categories.includes('appearances') ||
-			item.data.categories.includes('events')));
+			item.data.categories.includes('events'))).sort((a, b) => a.date - b.date);
 	});
 
 	eleventyConfig.addCollection('events-recorded', collection => {
