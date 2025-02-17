@@ -526,6 +526,16 @@ nav li a[href]:visited {
 }
 
 @media only screen and (max-device-width: 490px) {
+	ul.all-posts li {
+		flex-direction: column;
+	}
+
+	ul.all-posts li .cover-image {
+		margin-bottom: 2em;
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+
 	header nav ul {
 		flex-direction: column;
 	}
