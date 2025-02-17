@@ -265,14 +265,6 @@ ul.image-item.ltr li {
 	text-align: left;
 }
 
-#upcoming-list {
-	justify-content: left;
-}
-
-#upcoming-list li {
-	width: calc(90% - 2em);
-}
-
 ul.image-item.ltr li img,
 ul.image-item li img {
 	max-width: 200px;

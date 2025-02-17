@@ -2,21 +2,14 @@
 	layout: "layouts/home.njk"
 ---
 
+<h1 id="upcoming-header" class="section-header" style="display: none">Upcoming Events</h1>
+<ul class="image-item ltr" id="upcoming-list" style="display: none;"></ul>
 
-<div class="split-view">
-	<figure>
-		<img width="500" src="https://d602mxa74hbsi.cloudfront.net/shades+crop.jpg" alt="Shades and Shadows Reading, 2017. Photo credit: One More Bites Blog" />
-		<figcaption>Shades and Shadows Reading, 2017.
-		<br />Photo credit: <a href="https://www.instagram.com/onemorebiteblog/">One More Bite</a></figcaption>
-	</figure>
-	<div style="width: 100%">
-		<h1 id="upcoming-header" class="section-header side" style="display: none">Upcoming Events</h1>
-		<ul class="image-item ltr" id="upcoming-list" style="display: none"></ul>
-	</div>
-</div>
-
-<ul class="image-item ltr" id="upcoming-list-continued" style="display: none; justify-content: left"></ul>
-
+<figure style="text-align: center;>
+<img width="500" src="https://d602mxa74hbsi.cloudfront.net/shades+crop.jpg" alt="Shades and Shadows Reading, 2017. Photo credit: One More Bites Blog" />
+<figcaption>Shades and Shadows Reading, 2017.
+	<br />Photo credit: <a href="https://www.instagram.com/onemorebiteblog/">One More Bite</a></figcaption>
+</figure>
 
 <h1 class="section-header" style="display: none" id="past-header">Past Events</h1>
 <ul class="image-item ltr" style="display: none" id="past-list"></ul>
@@ -67,18 +60,11 @@ fetch('./events.json')
 
 		if (upcoming.length > 0) {
 			let upcomingHTML = '';
-			let upcomingContinuedHTML = '';
-			upcoming.sort( (a, b) => { return new Date(b.date) - new Date(a.date) }).slice(0,5).forEach((post, i) => {
-				if (i === 0) {
-					upcomingContinuedHTML += renderHTML(post)
-				} else {
-					upcomingHTML += renderHTML(post);
-				}
+			upcoming.sort( (a, b) => { return new Date(b.date) - new Date(a.date) }).slice(0,5).forEach((post) => {
+				upcomingHTML += renderHTML(post);
 			});
 			document.getElementById('upcoming-list').innerHTML = upcomingHTML;
-			document.getElementById('upcoming-list-continued').innerHTML = upcomingContinuedHTML;
 			document.getElementById('upcoming-header').style.display = 'flex';
-			document.getElementById('upcoming-list-continued').style.display = 'flex';
 			document.getElementById('upcoming-list').style.display = 'flex';
 		}
 
