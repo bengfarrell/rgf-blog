@@ -12,7 +12,7 @@ categories:
   - "short-stories"
   - "anthologies"
   - "info"
-  - "interviews"
+  
 layout: layouts/individualworks.njk
 ---
 

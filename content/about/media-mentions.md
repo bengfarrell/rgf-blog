@@ -90,7 +90,7 @@ Panels, invited readings, interviews! This section chronicles the notable events
 -   August 2017, **Reading**, *Wings Unseen Book Launch*, Oakland, CA.
 -   August 2017, **Reading**, *Feminist Spec Fic Night*, Oakland, CA.
 -   August 2017, **Reading**, *The Cleave: Bay Area Women Writers and the Liminal Center Release of the Little Letters on the Skin*, Oakland, CA\*.\*
--   March 2017, **Panelist**, "Social Media for Writers and Authors," *FogCon*, Walnut Creek, CA.
+               bnv-   March 2017, **Panelist**, "Social Media for Writers and Authors," *FogCon*, Walnut Creek, CA.
 -   March 2017, **Reading**, "Broad Universe Rapid Fire Reading," *FogCon*, Walnut Creek, CA.
 -   March 2017, **Panelist**, "How Did You Survive the Election?", *FogCon*, Walnut Creek, CA.
 -   Winter 2016, **Reading,** *Get Lit! \#20,* Oakland, CA.
