@@ -223,12 +223,6 @@ blockquote {
 	width: 100%;
 }
 
-@media (max-width: 1050px) {
-	.split-view {
-		flex-direction: column;
-	}
-}
-
 .split-view > img {
 	margin-bottom: auto;
 }
@@ -262,11 +256,11 @@ ul.image-item li {
 ul.image-item li {
 	flex-direction: column;
 	align-items: center;
-	flex: 1;
-	min-width: 400px;
+	width: 300px;
 }
 
 ul.image-item.ltr li {
+	width: calc(50% - 2em);
 	flex-direction: row;
 	text-align: left;
 }
