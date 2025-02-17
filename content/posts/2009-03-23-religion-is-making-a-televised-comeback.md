@@ -4,7 +4,7 @@ date: "2009-03-23"
 coverImage: https://d602mxa74hbsi.cloudfront.net/kings.jpg
 categories:
   - "early-discussion"
-  - "television
+  - "television"
   - "essays"
 tags:
   - "battlestar-finale"

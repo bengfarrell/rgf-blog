@@ -3,11 +3,11 @@ title: "Strength of Character"
 date: "2009-02-16"
 coverImage: "https://d602mxa74hbsi.cloudfront.net/Battlestar.jpg"
 
-categories: 
-  - "essays""
+categories:
+  - "essays"
   - "writing"
   - "writing-thoughts"
-tags: 
+tags:
   - "battlestar-galactica"
   - "bsg"
   - "character"
