@@ -1,0 +1,85 @@
+---
+title: "Non-fiction"
+layout: layouts/books.njk
+---
+
+<h1 class="section-header">Writing Advice</h1>
+
+<ul class="image-item">
+{% for post in collections['writing-thoughts'] | head(-4, true) %}
+<li>
+	<img src="{{ post.data.coverImage }}" />
+	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+	<h3>{{ post.data.publication }}</h3>
+</li>
+{% endfor %}
+</ul>
+
+<p><a href="./writing-thoughts/">See more...</a></p>
+
+<h1 class="section-header">Food, Drink, &amp; Travel Writing</h1>
+
+<p>
+Follow my savory and sweet adventures at my blog, <a href="https://thegourmez.com">The Gourmez</a>. My food & drink reviews published on other websites appear in the "Reviews" section below.
+</p>
+<p>
+<a href="https://thegourmez.com"><img width="250" class="feather-separator" src="/img/svg/gourmez.svg" /></a>
+</p>
+
+<h1 class="section-header">Essays</h1>
+
+<ul class="image-item">
+{% for post in collections['essays'] | head(-4, true) %}
+<li>
+	<img src="{{ post.data.coverImage }}" />
+	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+	<h3>{{ post.data.publication }}</h3>
+</li>
+{% endfor %}
+</ul>
+
+<p><a href="./essays/">See more...</a></p>
+
+<h1 class="section-header">Reviews</h1>
+
+<ul class="image-item">
+{% for post in collections['reviews'] | head(-4, true) %}
+<li>
+	<img src="{{ post.data.coverImage }}" />
+	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+	<h3>{{ post.data.publication }}</h3>
+</li>
+{% endfor %}
+</ul>
+
+<p><a href="./reviews/">See more...</a></p>
+
+<h1 class="section-header">Miscellaneous</h1>
+
+<ul class="image-item">
+{% for post in collections['misc'] | head(-4, true) %}
+<li>
+	<img src="{{ post.data.coverImage }}" />
+	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+	<h3>{{ post.data.publication }}</h3>
+</li>
+{% endfor %}
+</ul>
+
+<p><a href="./misc/">See more...</a></p>
+
+<h1 class="section-header">Blog Archive</h1>
+
+<p>Because the Internet is forever, you may peruse my archive of past publication news and other announcements.</p>
+
+<ul class="image-item">
+{% for post in collections['archive'] | head(-4, true) %}
+<li>
+	<img src="{{ post.data.coverImage }}" />
+	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+	<h3>{{ post.data.publication }}</h3>
+</li>
+{% endfor %}
+</ul>
+
+<p><a href="./archive/">See more...</a></p>

@@ -1,0 +1,48 @@
+---
+title: "Fiction"
+layout: layouts/books.njk
+---
+
+<h1 class="section-header">Books</h1>
+
+<ul class="image-item">
+{% for post in collections['books-info'] | head(-4, true) %}
+<li>
+	<img src="{{ post.data.coverImage }}" />
+	<p><a href="{{ post.url }}">{{ post.data.title }}</a></p>
+	<p><strong>{{ post.data.publication }}</strong></p>
+	<p>{{ post.date | publicationDate }}</p>
+</li>
+{% endfor %}
+</ul>
+
+<p><a href="./books/">See more...</a></p>
+
+<h1 class="section-header">Short Stories</h1>
+
+<ul class="image-item">
+{% for post in collections['short-stories-info'] | head(-4, true) %}
+<li>
+	<img src="{{ post.data.coverImage }}" />
+	<p><a href="{{ post.url }}">{{ post.data.title }}</a></p>
+	<p><strong>{{ post.data.publication }}</strong></p>
+	<p>{{ post.date | publicationDate }}</p>
+</li>
+{% endfor %}
+</ul>
+
+<p><a href="./short-stories/">See more...</a></p>
+
+<h1 class="section-header">Anthologies</h1>
+<ul class="image-item">
+{% for post in collections['anthologies-info'] | head(-4, true) %}
+<li>
+	<img src="{{ post.data.coverImage }}" />
+	<p><a href="{{ post.url }}">{{ post.data.title }}</a></p>
+	<p><strong>{{ post.data.publication }}</strong></p>
+	<p>{{ post.date | publicationDate }}</p>
+</li>
+{% endfor %}
+</ul>
+
+<p><a href="./anthologies/">See more...</a></p>

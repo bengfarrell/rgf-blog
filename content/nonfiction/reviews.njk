@@ -1,0 +1,16 @@
+---
+title: "Reviews"
+layout: layouts/page.njk
+---
+
+<h1 class="section-header">Reviews</h1>
+<ul class="image-item">
+{% for post in collections['reviews'] | head(-500, true) %}
+<li>
+	{% image post.data.coverImage, post.data.title, [200] %}
+	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+	<h3>{{ post.data.publication }}</h3>
+</li>
+{% endfor %}
+</ul>
+

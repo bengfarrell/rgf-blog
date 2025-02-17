@@ -1,0 +1,22 @@
+---
+title: "Recorded Events"
+layout: layouts/page.njk
+---
+
+<h1 class="section-header">Recordings</h1>
+<ul class="image-item ltr">
+
+{% for post in collections['events-recorded'] | head(-500, true) %}
+<li>
+	<img src="{{ post.data.coverImage }}" />
+	<div class="info">
+		<h2>{{ post.date | eventTime }}</h2>
+		<h3 class="event-title">{{ post.data.title }}</h3>
+		<h4>{{ post.data.location }}</h4>
+		<h4>{{ post.data.city }}</h4>
+		<p><a href="{{ post.url }}">More info...</a></p>
+	</div>
+</li>
+{% endfor %}
+</ul>
+

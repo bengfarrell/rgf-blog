@@ -1,0 +1,15 @@
+---
+title: "Archive"
+layout: layouts/page.njk
+---
+
+<h1 class="section-header">Archive</h1>
+<ul class="image-item">
+{% for post in collections['archive'] | head(-500, true) %}
+<li>
+	{% image post.data.coverImage, post.data.title, [200] %}
+	<h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+</li>
+{% endfor %}
+</ul>
+

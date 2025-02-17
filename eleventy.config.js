@@ -17,8 +17,94 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addShortcode('first_image', post => extractFirstImage(post));
 
-	eleventyConfig.on('eleventy.after', () => {
-		execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
+	//eleventyConfig.on('eleventy.after', () => {
+		//execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
+	//});
+
+	eleventyConfig.addCollection('books-info', collection => {
+		return collection.getAll()
+			.filter(item => item.data.categories && item.data.categories.includes('books') && item.data.categories.includes('info'))
+			.sort((a, b) => a.date - b.date)
+	});
+
+	eleventyConfig.addCollection('short-stories-info', collection => {
+		return collection.getAll()
+			.filter(item => item.data.categories && item.data.categories.includes('short-stories') && item.data.categories.includes('info'))
+			.sort((a, b) => a.date - b.date)
+	});
+
+	eleventyConfig.addCollection('anthologies-info', collection => {
+		return collection.getAll()
+			.filter(item => item.data.categories && item.data.categories.includes('anthologies') && item.data.categories.includes('info'))
+			.sort((a, b) => a.date - b.date);
+	});
+
+	eleventyConfig.addCollection('events', collection => {
+		return collection.getAll().filter(item => item.data.categories && (
+			item.data.categories.includes('reading') ||
+			item.data.categories.includes('readings') ||
+			item.data.categories.includes('appearances') ||
+			item.data.categories.includes('events'))).sort((a, b) => a.date - b.date);
+	});
+
+	eleventyConfig.addCollection('events-recorded', collection => {
+		return collection.getAll()
+			.filter(item => item.data.categories && item.data.categories.includes('recorded'))
+			.sort((a, b) => a.date - b.date);
+	});
+
+	eleventyConfig.addCollection('writing-thoughts', collection => {
+		return collection.getAll().filter(item =>
+			item.data.categories &&
+			item.data.categories.includes('writing-thoughts'))
+			.sort((a, b) => a.date - b.date);
+	});
+
+	eleventyConfig.addCollection('interviews', collection => {
+		return collection.getAll().filter(item =>
+			item.data.categories &&
+			(item.data.categories.includes('guest-post') ||
+			item.data.categories.includes('blog-tour') ||
+			item.data.categories.includes('interviews')))
+			.sort((a, b) => a.date - b.date);
+	});
+
+	eleventyConfig.addCollection('archive', collection => {
+		return collection.getAll().filter(item =>
+			item.data.categories &&
+			(item.data.categories.includes('announcements') ||
+				item.data.categories.includes('publication-news') ||
+				item.data.categories.includes('writing-snippets') ||
+				item.data.categories.includes('blog-tours') ||
+				item.data.categories.includes('event-writeups')))
+			.sort((a, b) => a.date - b.date);
+	});
+
+	eleventyConfig.addCollection('misc', collection => {
+		return collection.getAll().filter(item =>
+			item.data.categories &&
+			item.data.categories.includes('misc'))
+			.sort((a, b) => a.date - b.date)
+	});
+
+	eleventyConfig.addCollection('reviews', collection => {
+		return collection.getAll().filter(item =>
+			item.data.categories &&
+			item.data.categories.includes('reviews'))
+			.sort((a, b) => a.date - b.date)
+	});
+
+	eleventyConfig.addCollection('essays', collection => {
+		return collection.getAll().filter(item =>
+			item.data.categories &&
+			(item.data.categories.includes('essays')))
+			.sort((a, b) => a.date - b.date)
+	});
+
+
+	eleventyConfig.addFilter("eventTime", (dateString) => {
+		const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+		return `${months[new Date(dateString).getUTCMonth()]} ${new Date(dateString).getUTCDate()}, ${new Date(dateString).getUTCFullYear()}`;
 	});
 
 	// Tags
@@ -62,21 +148,35 @@ module.exports = function(eleventyConfig) {
 		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
 	});
 
+	eleventyConfig.addFilter("excerpt", (post) => {
+		if (post.data.description) {
+			return post.data.description;
+		}
+		const content = post.content.replace(/(<([^>]+)>)/gi, "");
+		return content.substr(0, content.lastIndexOf(" ", 200)) + "...";
+	});
+
+	eleventyConfig.addFilter("publicationDate", (dateObj, format, zone) => {
+		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
+		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "LLLL yyyy");
+	});
+
 	eleventyConfig.addFilter('htmlDateString', (dateObj) => {
 		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
 		return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
 	});
 
 	// Get the first `n` elements of a collection.
-	eleventyConfig.addFilter("head", (array, n) => {
+	eleventyConfig.addFilter("head", (array, n, reverse) => {
 		if(!Array.isArray(array) || array.length === 0) {
 			return [];
 		}
+
 		if( n < 0 ) {
-			return array.slice(n);
+			return reverse ? array.slice(n).reverse() : array.slice(n);
 		}
 
-		return array.slice(0, n);
+		return reverse ? array.slice(0, n).reverse() : array.slice(0, n);
 	});
 
 	// Return the smallest number argument

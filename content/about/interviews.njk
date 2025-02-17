@@ -1,0 +1,15 @@
+---
+title: "Interviews"
+layout: layouts/page.njk
+---
+
+<ul class="interviews">
+	{% for post in collections['interviews'] | head(-5, true) %}
+	<li>
+		<img src="{{ post.data.coverImage }}" />
+		<h3>{{ post.data.title }}</h3>
+		<h4>{{ post.data.publication }}</h4>
+		<p><a href="{{ post.url }}">More info...</a></p>
+	</li>
+	{% endfor %}
+</ul>

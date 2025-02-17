@@ -1,58 +1,47 @@
----js
-{
-	layout: "layouts/base.njk",
-	pagination: {
-		data: "collections.posts",
-		alias: "postslist",
-		reverse: true,
-		size: 10
-	},
-	permalink: "{{ page.fileSlug }}/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
-}
+---
+layout: "layouts/home.njk"
 ---
 
-{% for post in postslist %}
-<article class="post type-post status-publish format-standard hentry category-announcements category-events tag-foodie-picks tag-glasgow tag-worldcon">
-	<h1 class="entry-title">
-		<a href="{{ post.url }}" title="{{ post.data.title }}" rel="bookmark">{{ post.data.title }}</a>
-	</h1>
-	<h2 class="entry-meta"></h2>
 
-	<div class="entry-content">
-		{{ post.templateContent | safe }}
+<div class="split-view">
+	<img height="400px" src="https://d602mxa74hbsi.cloudfront.net/R+Gomez+Farrell+headshot.jpg"/>
+	<div>
+		<h1 class="section-header side">Rebecca Gomez Farrell</h1>
+		<p class="home-text">
+			Author of fictions and leisure-time opinions! My Wings Rising duology is available from Meerkat Press, and you can find my short story and nonfiction pieces in 30+ publications. My food, drink, and travel blogging is housed at <a href="https://thegourmez.com">TheGourmez.com</a>.
+		</p>
+		<div id="mc_embed_signup">
+			<form action="https://rebeccagomezfarrell.us9.list-manage.com/subscribe/post?u=93d9e5c66fa0eb63dc1bfcee9&amp;id=398d973aba" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+				<div id="mc_embed_signup_scroll">
+					<label class="home-text" for="mce-EMAIL">Use the button below to subscribe to my newsletter to stay up-to-date on my latest publications and appearances. Or click here for my <a href="/feed/feed.json">RSS feed</a>.</label>
+					<br /><br />
+					<div style="display: flex">
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required></input>
+						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_93d9e5c66fa0eb63dc1bfcee9_398d973aba" tabindex="-1" value=""></div>
+						<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+					</div>
+				</div>
+			</form>
+		</div>
 	</div>
-</article>
+</div>
+
+
+<h1 class="section-header">Recent News</h1>
+
+<ul class="all-posts">
+{% for post in collections.posts | head(-5, true) %}
+<li>
+	<div>
+		<h1><a href="{{ post.url }}">{{ post.data.title }}</a></h1>
+		<p class="home-text">{{ post | excerpt }}</p>
+		<p class="date home-text">{{ post.date | eventTime }}</p>
+	</div>
+	<div class="cover-image" style="background-image: url('{{ post.data.coverImage }}')"></div>
+</li>
 {% endfor %}
-
-<div id="pagination"><div class="total-pages">Page {{pagination.pageNumber+1}} of {{pagination.pages.length}}</div>
-
-{% if pagination.pageNumber != 0 %}
-	<a class="previous page-numbers" href="{{ pagination.href.previous }}">&laquo;</a>
-{% endif %}
-
-{% if pagination.pageNumber > 2 %}
-	<a class="page-numbers" href="{{ pagination.hrefs[0] }}">1</a>
-	<span class="page-numbers dots">&hellip;</span>
-{% endif %}
-
-{%- for pageEntry in pagination.pages %}
-	{% if (loop.index0 - pagination.pageNumber)|abs < 2 %}
-		{% if page.url == pagination.hrefs[ loop.index0 ] %}
-			<span aria-current="page" class="page-numbers current">{{ loop.index }}</span>
-		{% else %}
-			<a class="page-numbers" href="{{ pagination.hrefs[ loop.index0 ] }}">{{ loop.index }}</a>
-		{% endif %}
-	{% endif %}
-{%- endfor %}
-
-{% if pagination.pages.length - pagination.pageNumber > 2 %}
-<span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="{{ pagination.hrefs[pagination.pages.length -1] }}">{{ pagination.pages.length }}</a>
-{% endif %}
-
-{% if pagination.pageNumber != pagination.pages.length -1 %}
-	<a class="next page-numbers" href="{{ pagination.href.next }}">&raquo;</a>
-{% endif %}
+</ul>
 
 </div>
 
