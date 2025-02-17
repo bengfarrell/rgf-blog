@@ -46,12 +46,15 @@ Panels, invited readings, interviews! This section chronicles the notable events
 -   February 2020, **Panelist**, "Choosing Your Own Adventures," *FogCon*, Walnut Creek, CA.
 -   February 2020, **Panelist**, "People Aren't Food: Cliches in Description," *FogCon*, Walnut Creek, CA.
 -   February 2020, **Reading**, *FogCon*, Walnut Creek, CA.
+-   October 2019, **Reading**, "Women Who Submit," **LitCrawl**, San Francisco, CA.
 -   August 2019, **Panelist**, “Window to the Soul: A Character’s Favorite Song,” *World Science Fiction Convention,* Dublin, Ireland.
 -   August 2019, **Panelist**, "VR and AR: the Future of Gaming or a Fad?", *World Science Fiction Convention,* Dublin, Ireland.
 -   August 2019, **Moderator**, "Found in Translation: SFF Translated Works," *World Science Fiction Convention*, Dublin, Ireland.
 -   August 2019, **Reading**, "Broad Universe Rapid Fire Reading," *World Science Fiction Convention,* Dublin, Ireland.
 -   August 2019, **Kaffeeklatsch Host**, *World Science Fiction Convention,* Dublin, Ireland.
 -   August 2019, **Moderator**, "Internet, Censorship, Control, and Influence," *World Science Fiction Convention,* Dublin, Ireland.
+-   July 2019, **Host and Reader**, "Octopus Day," the Octopus Preservation Committee, Oakland, CA.
+-   July 2019, **Guest**, *Poetea* salon meetup, Oakland, CA.
 -   April 2019, **Panelist**, "Debut Authors—Fame and Fortune in Five Easy Steps," Litquake Writers Weekend, San Francisco, CA.
 -   April 2019, **Reading**, *Parallel Lit*, Oakland, CA.
 -   March 2019, **Panelist**, "It’s Dangerous to Go Alone! Take This—Writer Support Networks in the Bay Area," *FogCon*, Walnut Creek, CA.
@@ -59,6 +62,7 @@ Panels, invited readings, interviews! This section chronicles the notable events
 -   March 2019, **Moderator**, "Small House, Big Futures—Publishing SF with Small Presses," *FogCon*, Walnut Creek, CA.
 -   March 2019, **Reading**, "Broad Universe Rapid Fire Reading," *FogCon*, Walnut Creek, CA.
 -   February 2019, **Featured Author**, "Alameda Authors Series III," American Association of University Women (AAUW) Alameda, Alameda, CA.
+-   October 2018, **Host**, "Women Who Submit Writing," **LitCrawl**, San Francisco, CA.
 -   October 2018, **Panelist**, "Pursuit of Publishing: It Takes A Village," *Litquake*, San Francisco, CA.
 -   August 2018, **Reading**, "Broad Inverse Rapid Fire Reading," *World Science Fiction Convention,* San Jose, CA.
 -   August 2018, **Reading**, "Women Who Submit Lit," Oakland, CA.
@@ -75,7 +79,7 @@ Panels, invited readings, interviews! This section chronicles the notable events
 -   October 2017, **Interview**, *Speculative Fiction Cantina*, online.
 -   October 2017, **Reading**, *At the Inkwell*, San Francisco, CA.
 -   October 2017, **Instructor**, "Destroy All Cling-Ons!" workshop, *Con-Volution*, San Ramon, CA.
--   October 2017, **Host**, "The Companion as Hero—From Samwise Gamgee to Bill Potts" discussion*, Con-Volution*, San Ramon, CA.
+-   October 2017, **Host**, "The Companion as Hero—From Samwise Gamgee to Bill Potts" discussion\*, Con-Volution\*, San Ramon, CA.
 -   September 2017, **Reading**, *An Afternoon of YA Fantasy*, Cary, NC.
 -   September 2017, **Reading**, *Becca Gomez Farrell and Friends*, Chapel Hill, NC.
 -   September 2017, **Reading**, *NC Speculative Fiction Night*, Durham, NC.
@@ -85,7 +89,7 @@ Panels, invited readings, interviews! This section chronicles the notable events
 -   August 2017, **Reading**, *A Trilogy of Sivers, Adventures, and Fantasy*, San Francisco, CA.
 -   August 2017, **Reading**, *Wings Unseen Book Launch*, Oakland, CA.
 -   August 2017, **Reading**, *Feminist Spec Fic Night*, Oakland, CA.
--   August 2017, **Reading**, *The Cleave: Bay Area Women Writers and the Liminal Center Release of the Little Letters on the Skin*, Oakland, CA*.*
+-   August 2017, **Reading**, *The Cleave: Bay Area Women Writers and the Liminal Center Release of the Little Letters on the Skin*, Oakland, CA\*.\*
 -   March 2017, **Panelist**, "Social Media for Writers and Authors," *FogCon*, Walnut Creek, CA.
 -   March 2017, **Reading**, "Broad Universe Rapid Fire Reading," *FogCon*, Walnut Creek, CA.
 -   March 2017, **Panelist**, "How Did You Survive the Election?", *FogCon*, Walnut Creek, CA.
