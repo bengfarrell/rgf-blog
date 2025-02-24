@@ -31,7 +31,7 @@ layout: "layouts/home.njk"
 <h1 class="section-header">Recent News</h1>
 
 <ul class="all-posts">
-{% for post in collections.posts | head(-5, true) %}
+{% for post in collections['allposts'] | head(-5, true) %}
 <li>
 	<div>
 		<h1><a href="{{ post.url }}">{{ post.data.title }}</a></h1>

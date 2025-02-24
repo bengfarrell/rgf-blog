@@ -21,6 +21,11 @@ module.exports = function(eleventyConfig) {
 		//execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
 	//});
 
+	eleventyConfig.addCollection('allposts', collection => {
+		return collection.getAll().filter(item => item.data.tags && item.data.tags.includes('posts'))
+			.sort((a, b) => a.data.title - b.data.title)
+	});
+
 	eleventyConfig.addCollection('books-info', collection => {
 		return collection.getAll()
 			.filter(item => item.data.categories && item.data.categories.includes('books') && item.data.categories.includes('info'))
@@ -79,6 +84,7 @@ module.exports = function(eleventyConfig) {
 				item.data.categories.includes('event-writeups')))
 			.sort((a, b) => a.date - b.date);
 	});
+
 
 	eleventyConfig.addCollection('misc', collection => {
 		return collection.getAll().filter(item =>
