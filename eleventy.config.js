@@ -23,7 +23,7 @@ module.exports = function(eleventyConfig) {
 
 	eleventyConfig.addCollection('allposts', collection => {
 		return collection.getAll().filter(item => item.data.tags && item.data.tags.includes('posts'))
-			.sort((a, b) => a.data.page.fileSlug - b.data.page.fileSlug)
+			.sort((a, b) => a.date - b.date)
 	});
 
 	eleventyConfig.addCollection('books-info', collection => {
