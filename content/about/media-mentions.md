@@ -22,6 +22,7 @@ Panels, invited readings, interviews! This section chronicles the notable events
 -   March 2023, **Reading**, *SF in SF*, San Francisco, CA
 -   March 2023, **Participant**, *Strong Women, Strange Worlds* Book Fair, online.
 -   March 2023, **Reading**, *The Wizard's Homecoming* book launch, Oakland, CA.
+-   February 2023, **Guest Post,** "Intersect: 5 Common Questions and Answers at WWS Submission Parties," [*The Women Who Submit Lit Blog,*](https://womenwhosubmitlit.org/2023/02/27/intersect-strong5-common-questions-and-answers-at-wws-submission-parties-strong/) online.
 -   December 2022, **Guest Post,** "Question to Consider When Writing A Series," *WritingForums.com*, online.
 -   December 2022, **Guest Post**, "What's the Worst Writing Advice You've Ever Received?", *The Sky Writes Here*, online.
 -   December 2022, **Host**, *Weekly Writing Date*, Science Fiction and Fantasy Writers Association (SFWA), online.
@@ -39,6 +40,7 @@ Panels, invited readings, interviews! This section chronicles the notable events
 -   October 2020, **Reading**, *Spectacular Magical Fiction*, online.
 -   October 2020, **Reading**, *Literary Speakeasy*, online.
 -   September 2020, **Moderator**, "How Do Speculative Fiction Writers Get Grants?", *Speculative Literature Foundation*-San Francisco chapter panel, online.
+-   September 2020, **Interview**, "Eating Authors: Rebecca Gomez Farrell," [*Lawrence M. Schoen Blog*](http://www.lawrencemschoen.com/plugs/eating-authors-rebecca-gomez-farrell/), online.
 -   August 2020, **Panelist**, "Empowering Your Community: A Talk with WWS Chapter Leads," Women Who Submit Conference, online.
 -   July 2020, **Reading**, *Story Hour*, online.
 -   May 2020, **Panelist**, "Forming and Sustaining a Successful Writing or Critique Group," The SFWA Nebula Conference, online.
