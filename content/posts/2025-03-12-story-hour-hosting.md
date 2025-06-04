@@ -22,6 +22,11 @@ tags:
   - "pamela jeffs"
 
 ---
+
+ *This event has passed! But you can watch a recording right here from Youtube:*
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Id4YBSbvHcg?si=6COpZlqC*w7xDhHWm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
  I'm hosting _Story Hour_ again! This weekly reading of speculative fiction is regularly hosted by authors Daniel Marcus and Laura Blackwell, but occassionally, they can use a break and fresh voice for the MC duties. That'll be me on Wednesday, 3/12! 
 
 _Story Hour_ focuses on the short form, preferring speculative fiction stories that can be read in full during each author's half of the show. The readers for this session will be L.E. Daniels and Pamela Jeffs.
