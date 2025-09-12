@@ -4,7 +4,7 @@ date: "2025-10-04"
 time: "1:00pm PT"
 location: "Hayward Library–Main Branch"
 city: "Hayward, CA"
-coverImage: "https://d602mxa74hbsi.cloudfront.net/2025-hayward-local-authors-festival+(1).jpg"
+coverImage: "https://d602mxa74hbsi.cloudfront.net/2025-hayward-library-author-festival+(3).jpg"
 categories:
   - "events"
 tags:
