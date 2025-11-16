@@ -1,6 +1,7 @@
 ---
 title: "Hayward Lit Hop!"
-date: "2023-04-22"
+date: "2023-04-21"
+eventday: "2023-04-22"
 time: "2:00pm PT"
 location: "Dirty Bird Lounge & The Bistro"
 city: "Hayward, CA"

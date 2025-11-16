@@ -23,7 +23,16 @@ module.exports = function(eleventyConfig) {
 
 	eleventyConfig.addCollection('allposts', collection => {
 		return collection.getAll().filter(item => item.data.tags && item.data.tags.includes('posts'))
-			.sort((a, b) => a.date - b.date)
+			.sort((a, b) => {
+				// Ensure dates are Date objects and get timestamps
+				const aTime = a.date instanceof Date ? a.date.getTime() : new Date(a.date).getTime();
+				const bTime = b.date instanceof Date ? b.date.getTime() : new Date(b.date).getTime();
+				// Primary sort by date
+				const dateDiff = aTime - bTime;
+				if (dateDiff !== 0) return dateDiff;
+				// Secondary sort by URL for stability when dates are equal
+				return a.url.localeCompare(b.url);
+			});
 	});
 
 	eleventyConfig.addCollection('books-info', collection => {
@@ -49,13 +58,37 @@ module.exports = function(eleventyConfig) {
 			item.data.categories.includes('reading') ||
 			item.data.categories.includes('readings') ||
 			item.data.categories.includes('appearances') ||
-			item.data.categories.includes('events'))).sort((a, b) => a.date - b.date);
+			item.data.categories.includes('events'))).sort((a, b) => {
+				// Sort by eventday if available, otherwise fall back to date
+				const aDate = a.data.eventday || a.date;
+				const bDate = b.data.eventday || b.date;
+				// Ensure dates are Date objects and get timestamps
+				const aTime = aDate instanceof Date ? aDate.getTime() : new Date(aDate).getTime();
+				const bTime = bDate instanceof Date ? bDate.getTime() : new Date(bDate).getTime();
+				// Primary sort by date
+				const dateDiff = aTime - bTime;
+				if (dateDiff !== 0) return dateDiff;
+				// Secondary sort by URL for stability when dates are equal
+				return a.url.localeCompare(b.url);
+			});
 	});
 
 	eleventyConfig.addCollection('events-recorded', collection => {
 		return collection.getAll()
 			.filter(item => item.data.categories && item.data.categories.includes('recorded'))
-			.sort((a, b) => a.date - b.date);
+			.sort((a, b) => {
+				// Sort by eventday if available, otherwise fall back to date
+				const aDate = a.data.eventday || a.date;
+				const bDate = b.data.eventday || b.date;
+				// Ensure dates are Date objects and get timestamps
+				const aTime = aDate instanceof Date ? aDate.getTime() : new Date(aDate).getTime();
+				const bTime = bDate instanceof Date ? bDate.getTime() : new Date(bDate).getTime();
+				// Primary sort by date
+				const dateDiff = aTime - bTime;
+				if (dateDiff !== 0) return dateDiff;
+				// Secondary sort by URL for stability when dates are equal
+				return a.url.localeCompare(b.url);
+			});
 	});
 
 	eleventyConfig.addCollection('writing-thoughts', collection => {
@@ -110,7 +143,9 @@ module.exports = function(eleventyConfig) {
 
 	eleventyConfig.addFilter("eventTime", (dateString) => {
 		const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-		return `${months[new Date(dateString).getUTCMonth()]} ${new Date(dateString).getUTCDate()}, ${new Date(dateString).getUTCFullYear()}`;
+		// Handle both Date objects and string dates
+		const date = dateString instanceof Date ? dateString : new Date(dateString + 'T12:00:00Z');
+		return `${months[date.getUTCMonth()]} ${date.getUTCDate()}, ${date.getUTCFullYear()}`;
 	});
 
 	// Tags

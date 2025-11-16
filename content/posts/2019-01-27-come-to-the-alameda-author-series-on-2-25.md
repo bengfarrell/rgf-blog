@@ -1,6 +1,7 @@
 ---
 title: "The Alameda Author Series"
-date: "2019-02-25"
+date: "2019-01-27"
+eventday: "2019-02-25"
 time:
 location: "The Alameda Free Library"
 city: "Alameda, CA"

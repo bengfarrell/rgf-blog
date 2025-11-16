@@ -1,6 +1,7 @@
 ---
 title: "Wings Unseen Book Launch"
-date: "2017-08-26"
+date: "2017-08-24"
+eventday: "2017-08-26"
 time:
 location: "The Octopus Literary Salon"
 city: "Oakland, CA"

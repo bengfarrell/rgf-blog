@@ -1,6 +1,7 @@
 ---
 title: "Bull Spec #5 Launch and NC Speculative Fiction Night"
 date: "2011-04-13"
+eventday: "2011-04-15"
 time: "7:30pm ET"
 location: "Quail Ridge Books"
 city: "Raleigh, NC"

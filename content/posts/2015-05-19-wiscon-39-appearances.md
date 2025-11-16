@@ -1,6 +1,7 @@
 ---
 title: "WisCon 39 Appearances!"
 date: "2015-05-19"
+eventday: "2015-05-22"
 time:
 location: "Wiscon 39"
 city: "Madison, WA"

@@ -1,6 +1,7 @@
 ---
 title: "At the Inkwell's Leap Year Reading"
-date: "2016-02-29"
+date: "2016-02-23"
+eventday: "2016-02-29"
 time:
 location: "Alley Cat Books"
 city: "San Francisco, CA"

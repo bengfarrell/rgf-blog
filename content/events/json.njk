@@ -8,7 +8,7 @@ permalink: 'events/events.json'
 			{
 			"title": "{{ item.data.title }}",
 			"url": "{{ item.url }}",
-			"date": "{{ item.date.toUTCString() }}",
+			"date": "{% if item.data.eventday %}{{ item.data.eventday }}T12:00:00Z{% else %}{{ item.date.toUTCString() }}{% endif %}",
 			"time": "{{ item.data.time }}",
 			"location": "{{ item.data.location }}",
 			"city": "{{ item.data.city }}",

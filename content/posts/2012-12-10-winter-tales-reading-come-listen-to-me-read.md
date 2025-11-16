@@ -1,6 +1,7 @@
 ---
 title: "Winter Tales Reading"
 date: "2012-12-10"
+eventday: "2012-12-13"
 time:
 location: "Orange County Public Library"
 city: "Hillsborough, NC"

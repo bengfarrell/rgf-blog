@@ -1,6 +1,7 @@
 ---
 title: "Litquake Panel: Debut Authors--Fame and Fortune in Five Easy Steps"
-date: "2019-04-14"
+date: "2019-04-03"
+eventday: "2019-04-14"
 time:
 location: "Z Space"
 city: "San Francisco, CA"

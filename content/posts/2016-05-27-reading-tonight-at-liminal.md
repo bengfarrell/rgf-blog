@@ -1,6 +1,7 @@
 ---
 title: "Liminal Center Reading"
 date: "2016-05-27"
+eventday: "2016-05-27"
 time:
 location: "The Liminal Center"
 city: "Oakland, CA"

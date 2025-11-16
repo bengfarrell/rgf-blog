@@ -1,6 +1,7 @@
 ---
 title: "The Hydra Reading"
-date: "2016-10-25"
+date: "2016-10-24"
+eventday: "2016-10-25"
 time:
 location: "Woods Bar & Brewery"
 city: "Oakland, CA"

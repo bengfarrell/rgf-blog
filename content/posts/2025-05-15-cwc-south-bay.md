@@ -1,6 +1,7 @@
 ---
 title: "South Bay Writers"
-date: "2025-06-14"
+date: "2025-05-15"
+eventday: "2025-06-14"
 time: "10:30am PT"
 location: "San Jose Library–Rose Garden Branch"
 city: "San Jose, CA"

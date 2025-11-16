@@ -1,6 +1,7 @@
 ---
 title: "The Inaugural Parallel Lit"
-date: "2019-04-12"
+date: "2019-04-03"
+eventday: "2019-04-12"
 time:
 location: "Paulista Kitchen"
 city: "Oakland, CA"

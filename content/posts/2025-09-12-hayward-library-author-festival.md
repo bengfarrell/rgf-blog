@@ -1,6 +1,7 @@
 ---
 title: "2025 Hayward Local Authors Festival"
-date: "2025-10-04"
+date: "2025-09-12"
+eventday: "2025-10-04"
 time: "1:00pm PT"
 location: "Hayward Library–Main Branch"
 city: "Hayward, CA"
@@ -26,7 +27,7 @@ I’m one of over 20 authors on the guest list at the Hayward Library’s Local 
 >
 >_This event is open to kids, teens, and adults — a great opportunity for readers of all ages to explore new voices and support local creativity._
 >
->_The event is free to attend and no registration is required. Come browse, chat, and discover your next great read!_ 
+>_The event is free to attend and no registration is required. Come browse, chat, and discover your next great read!_
 
 Here’s the link to [their events calendar](https://hayward.librarycalendar.com/event/local-author-fest-25758).
 

@@ -1,6 +1,7 @@
 ---
 title: "Feminist Spec Fic Night"
-date: "2017-08-25"
+date: "2017-08-24"
+eventday: "2017-08-25"
 time:
 location: "The Liminal Center"
 city: "Oakland, CA"

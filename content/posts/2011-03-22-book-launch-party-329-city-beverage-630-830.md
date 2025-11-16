@@ -1,6 +1,7 @@
 ---
 title: "Maya's Vacation Book Launch Party"
 date: "2011-03-22"
+eventday: "2011-03-29"
 time:
 location: "City Beverage"
 city: "Durham, NC"

@@ -1,6 +1,7 @@
 ---
 title: "Brooklyn Books & Booze"
-date: "2023-04-18"
+date: "2023-04-05"
+eventday: "2023-04-18"
 time: "7:00pm PT"
 location: "Barrow's Intense Tasting Room"
 city: "Brooklyn, NYC"
