@@ -9,6 +9,7 @@ description: "Join me for Story Hour on Wednesday, when I'll be guest hosting ag
 categories:
   - "announcements"
   - "appearances"
+  - "recorded"
 tags:
   - "daniel-marcus"
   - "laura-blackwell"
@@ -22,6 +23,14 @@ tags:
  
 
 ---
+
+*This event has now passed! Here's a recording of the 11 February 2026 Story Hour featuring Somto Ihezue and Gordon B. White.*
+
+<p style="text-align: center;">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qdgH7yOj1Zs?si=3hcYH6_EPi_VC68l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</p>
 
  I'm hosting _Story Hour_ again! This weekly reading of speculative fiction is regularly hosted by authors Daniel Marcus and Laura Blackwell, but occassionally, they can use a break and fresh voice for the MC duties. That'll be me on Wednesday, 2/11! 
 
