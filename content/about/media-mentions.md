@@ -30,7 +30,7 @@ Panels, invited readings, interviews! This section chronicles the notable events
 -   December 2022, **Reading**, *Story Hour*, online.
 -   December 2022, **Guest Post**, "Five Book Series Where Women Wield the Power," *BigIndieBooks.com*, online.
 -   December 2022, **Reading**, *Strong Women, Strange Worlds*, online.
--   December 2022, **Guest Post**, "The Best Speculative Fiction Book with Lyrical Prose," *Shepherd Book List*, online.
+-   December 2022, **Guest Post**, "The Best Speculative Fiction Book with Lyrical Prose," *BookDNA Book List*, online.
 -   November 2022, **Interview**, *Speculative Fiction Showcase*, online.
 -   June 2022, **Class of 2020/2022**, *Taos Toolbox*, Albuquerque, NM.
 -   April 2022, **Panelist**, "The Women of Meerkat Press," r/fantasy Ask Me Anything (AMA), *Reddit.com*, online.
