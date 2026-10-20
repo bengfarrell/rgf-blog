@@ -48,7 +48,7 @@ Here is my schedule this weekend:
 >**9:00pm, Saturday, October 24**  
 >*Panel Moderator, “To Ode or Not to Ode,” Room 202*
 >
->I’ll be moderating this panel of distinguished poets and poetry editors Linda D. Addison, Betsy Aoki, Felicia Martinez, and Dominica Phetteplace. Here’s the topic: “Fantasy and horror poets weigh in on which >poetic traditions and forms best lend themselves to speculative elements. Is an ode spooky by nature? Is an epic a natural fit for fantasy? How do poets play with these forms to find the best fit for their own poetry?”
+>I’ll be moderating this panel of distinguished poets and poetry editors Linda D. Addison, Betsy Aoki, Felicia Martinez, and Dominica Phetteplace. Here’s the topic: “Fantasy and horror poets weigh in on which poetic traditions and forms best lend themselves to speculative elements. Is an ode spooky by nature? Is an epic a natural fit for fantasy? How do poets play with these forms to find the best fit for their own poetry?”
 >
 
 Outside of those events, I will definitely be attending [the World Fantasy Awards](https://wfc2026.org/2026-world-fantasy-awards-final-ballot/) Banquet on Sunday, and I’ll be hopping around from volunteer shift to volunteer shift. There are 800+ attendees so far, so we will be busy! But do feel free to come say hi if you see me, and if I’m free, I’d be happy to join you for a coffee, drink, or meal.
